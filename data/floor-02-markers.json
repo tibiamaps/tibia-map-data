@@ -1,1 +1,68 @@
-{}
+{
+	"12512102": [
+		{
+			"description": "Task Boss: Bloodtusk",
+			"icon": "!",
+			"xPosition": 104,
+			"xTile": 125,
+			"yPosition": 140,
+			"yTile": 121
+		}
+	],
+	"12512702": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 75,
+			"xTile": 125,
+			"yPosition": 95,
+			"yTile": 127
+		}
+	],
+	"12612802": [
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 139,
+			"xTile": 126,
+			"yPosition": 54,
+			"yTile": 128
+		}
+	],
+	"13112102": [
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 59,
+			"xTile": 131,
+			"yPosition": 247,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 74,
+			"xTile": 131,
+			"yPosition": 247,
+			"yTile": 121
+		}
+	],
+	"13112202": [
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 66,
+			"xTile": 131,
+			"yPosition": 0,
+			"yTile": 122
+		},
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 50,
+			"xTile": 131,
+			"yPosition": 3,
+			"yTile": 122
+		}
+	]
+}

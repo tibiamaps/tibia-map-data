@@ -1,1 +1,188 @@
-{}
+{
+	"12512103": [
+		{
+			"description": "Man in the Cave rope spot",
+			"icon": "star",
+			"xPosition": 131,
+			"xTile": 125,
+			"yPosition": 171,
+			"yTile": 121
+		}
+	],
+	"12512403": [
+		{
+			"description": "Northern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 124
+		},
+		{
+			"description": "Southern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 153,
+			"yTile": 124
+		},
+		{
+			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "Key: 0010 (Silver Key)",
+			"icon": "?",
+			"xPosition": 67,
+			"xTile": 125,
+			"yPosition": 152,
+			"yTile": 124
+		},
+		{
+			"description": "Northern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 124
+		},
+		{
+			"description": "Southern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 153,
+			"yTile": 124
+		},
+		{
+			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "Northern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 124
+		},
+		{
+			"description": "Southern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 153,
+			"yTile": 124
+		},
+		{
+			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "Northern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 124
+		},
+		{
+			"description": "Southern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 153,
+			"yTile": 124
+		},
+		{
+			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "Northern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 124
+		},
+		{
+			"description": "Southern Safe Trade Room",
+			"icon": "lock",
+			"xPosition": 57,
+			"xTile": 125,
+			"yPosition": 153,
+			"yTile": 124
+		},
+		{
+			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		}
+	],
+	"12512703": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 77,
+			"xTile": 125,
+			"yPosition": 94,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 60,
+			"xTile": 125,
+			"yPosition": 84,
+			"yTile": 127
+		}
+	],
+	"13112103": [
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 73,
+			"xTile": 131,
+			"yPosition": 247,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 37,
+			"xTile": 131,
+			"yPosition": 241,
+			"yTile": 121
+		}
+	],
+	"13112403": [
+		{
+			"description": "Sholley",
+			"icon": "!",
+			"xPosition": 115,
+			"xTile": 131,
+			"yPosition": 139,
+			"yTile": 124
+		}
+	]
+}

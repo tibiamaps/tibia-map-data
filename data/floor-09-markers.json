@@ -1,1 +1,350 @@
-{}
+{
+	"12412709": [
+		{
+			"description": "Serpent Spawns / Medusas",
+			"icon": "red down",
+			"xPosition": 184,
+			"xTile": 124,
+			"yPosition": 158,
+			"yTile": 127
+		},
+		{
+			"description": "<Hidden> Litch Hell",
+			"icon": "red down",
+			"xPosition": 203,
+			"xTile": 124,
+			"yPosition": 81,
+			"yTile": 127
+		}
+	],
+	"12412809": [
+		{
+			"description": "Portal",
+			"icon": "down",
+			"xPosition": 222,
+			"xTile": 124,
+			"yPosition": 96,
+			"yTile": 128
+		}
+	],
+	"12512309": [
+		{
+			"description": "Key: 4502 (Copper)",
+			"icon": "?",
+			"xPosition": 107,
+			"xTile": 125,
+			"yPosition": 80,
+			"yTile": 123
+		}
+	],
+	"12512809": [
+		{
+			"description": "Crustacea Gigantica <Spawn loc>",
+			"icon": "star",
+			"xPosition": 182,
+			"xTile": 125,
+			"yPosition": 167,
+			"yTile": 128
+		},
+		{
+			"description": "Portal (Red Gem)",
+			"icon": "down",
+			"xPosition": 9,
+			"xTile": 125,
+			"yPosition": 160,
+			"yTile": 128
+		},
+		{
+			"description": "Portal",
+			"icon": "down",
+			"xPosition": 78,
+			"xTile": 125,
+			"yPosition": 105,
+			"yTile": 128
+		}
+	],
+	"12612109": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 98,
+			"xTile": 126,
+			"yPosition": 89,
+			"yTile": 121
+		}
+	],
+	"12612309": [
+		{
+			"description": "Maze of Lost Souls \"Lever required see (!) on map\"",
+			"icon": "down",
+			"xPosition": 226,
+			"xTile": 126,
+			"yPosition": 145,
+			"yTile": 123
+		}
+	],
+	"12712209": [
+		{
+			"description": "Use pick on cracks to get down",
+			"icon": "red down",
+			"xPosition": 54,
+			"xTile": 127,
+			"yPosition": 106,
+			"yTile": 122
+		}
+	],
+	"12712309": [
+		{
+			"description": "Pull switch to the right to open MoLS",
+			"icon": "!",
+			"xPosition": 14,
+			"xTile": 127,
+			"yPosition": 235,
+			"yTile": 123
+		}
+	],
+	"12712409": [
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 98,
+			"xTile": 127,
+			"yPosition": 202,
+			"yTile": 124
+		},
+		{
+			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 39,
+			"xTile": 127,
+			"yPosition": 206,
+			"yTile": 124
+		}
+	],
+	"12712509": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 159,
+			"xTile": 127,
+			"yPosition": 99,
+			"yTile": 125
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 83,
+			"xTile": 127,
+			"yPosition": 68,
+			"yTile": 125
+		}
+	],
+	"12812309": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 181,
+			"xTile": 128,
+			"yPosition": 132,
+			"yTile": 123
+		},
+		{
+			"description": "Thais",
+			"icon": "?",
+			"xPosition": 37,
+			"xTile": 128,
+			"yPosition": 255,
+			"yTile": 123
+		}
+	],
+	"12812409": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 33,
+			"xTile": 128,
+			"yPosition": 24,
+			"yTile": 124
+		},
+		{
+			"description": "Liberty Bay",
+			"icon": "?",
+			"xPosition": 4,
+			"xTile": 128,
+			"yPosition": 32,
+			"yTile": 124
+		},
+		{
+			"description": "Svargrond",
+			"icon": "?",
+			"xPosition": 18,
+			"xTile": 128,
+			"yPosition": 10,
+			"yTile": 124
+		},
+		{
+			"description": "Darashia",
+			"icon": "?",
+			"xPosition": 59,
+			"xTile": 128,
+			"yPosition": 13,
+			"yTile": 124
+		},
+		{
+			"description": "Edron",
+			"icon": "?",
+			"xPosition": 62,
+			"xTile": 128,
+			"yPosition": 53,
+			"yTile": 124
+		},
+		{
+			"description": "Kazordoon",
+			"icon": "?",
+			"xPosition": 35,
+			"xTile": 128,
+			"yPosition": 54,
+			"yTile": 124
+		}
+	],
+	"12812709": [
+		{
+			"description": "",
+			"icon": "red up",
+			"xPosition": 217,
+			"xTile": 128,
+			"yPosition": 243,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 180,
+			"xTile": 128,
+			"yPosition": 243,
+			"yTile": 127
+		}
+	],
+	"12812809": [
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 172,
+			"xTile": 128,
+			"yPosition": 9,
+			"yTile": 128
+		}
+	],
+	"12912509": [
+		{
+			"description": "Old Amphora",
+			"icon": "crossmark",
+			"xPosition": 95,
+			"xTile": 129,
+			"yPosition": 248,
+			"yTile": 125
+		},
+		{
+			"description": "Snake Inscription",
+			"icon": "crossmark",
+			"xPosition": 71,
+			"xTile": 129,
+			"yPosition": 243,
+			"yTile": 125
+		}
+	],
+	"12912609": [
+		{
+			"description": "Zarifan",
+			"icon": "down",
+			"xPosition": 27,
+			"xTile": 129,
+			"yPosition": 214,
+			"yTile": 126
+		},
+		{
+			"description": "Dusty Amphora",
+			"icon": "crossmark",
+			"xPosition": 78,
+			"xTile": 129,
+			"yPosition": 60,
+			"yTile": 126
+		},
+		{
+			"description": "Dusty Amphora",
+			"icon": "crossmark",
+			"xPosition": 124,
+			"xTile": 129,
+			"yPosition": 75,
+			"yTile": 126
+		},
+		{
+			"description": "Hyaena Statue",
+			"icon": "crossmark",
+			"xPosition": 103,
+			"xTile": 129,
+			"yPosition": 84,
+			"yTile": 126
+		},
+		{
+			"description": "Egg Inscription",
+			"icon": "crossmark",
+			"xPosition": 107,
+			"xTile": 129,
+			"yPosition": 46,
+			"yTile": 126
+		}
+	],
+	"13012409": [
+		{
+			"description": "Mad Mage spawn location",
+			"icon": "star",
+			"xPosition": 68,
+			"xTile": 130,
+			"yPosition": 154,
+			"yTile": 124
+		},
+		{
+			"description": "Mad Mage spawn location",
+			"icon": "star",
+			"xPosition": 84,
+			"xTile": 130,
+			"yPosition": 129,
+			"yTile": 124
+		},
+		{
+			"description": "Mad Mage spawn location",
+			"icon": "star",
+			"xPosition": 48,
+			"xTile": 130,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 225,
+			"xTile": 130,
+			"yPosition": 144,
+			"yTile": 124
+		}
+	],
+	"13112409": [
+		{
+			"description": "sewer warden",
+			"icon": "!",
+			"xPosition": 35,
+			"xTile": 131,
+			"yPosition": 239,
+			"yTile": 124
+		},
+		{
+			"description": "sewer warden",
+			"icon": "!",
+			"xPosition": 35,
+			"xTile": 131,
+			"yPosition": 239,
+			"yTile": 124
+		}
+	]
+}

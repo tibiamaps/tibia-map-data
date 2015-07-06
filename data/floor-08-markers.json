@@ -1,1 +1,418 @@
-{}
+{
+	"12412108": [
+		{
+			"description": "Portal to boat",
+			"icon": "up",
+			"xPosition": 194,
+			"xTile": 124,
+			"yPosition": 66,
+			"yTile": 121
+		}
+	],
+	"12412208": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 180,
+			"xTile": 124,
+			"yPosition": 123,
+			"yTile": 122
+		}
+	],
+	"12412308": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 254,
+			"xTile": 124,
+			"yPosition": 82,
+			"yTile": 123
+		}
+	],
+	"12512108": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 24,
+			"xTile": 125,
+			"yPosition": 148,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 86,
+			"xTile": 125,
+			"yPosition": 117,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 124,
+			"xTile": 125,
+			"yPosition": 18,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 71,
+			"xTile": 125,
+			"yPosition": 15,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 26,
+			"yTile": 121
+		}
+	],
+	"12512308": [
+		{
+			"description": "Key: 4503 (Copper Key)",
+			"icon": "?",
+			"xPosition": 34,
+			"xTile": 125,
+			"yPosition": 154,
+			"yTile": 123
+		},
+		{
+			"description": "Hidden Pick Hole",
+			"icon": "red down",
+			"xPosition": 39,
+			"xTile": 125,
+			"yPosition": 148,
+			"yTile": 123
+		}
+	],
+	"12512408": [
+		{
+			"description": "Rotworms and Orcs",
+			"icon": "red down",
+			"xPosition": 60,
+			"xTile": 125,
+			"yPosition": 165,
+			"yTile": 124
+		}
+	],
+	"12512508": [
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 117,
+			"xTile": 125,
+			"yPosition": 190,
+			"yTile": 125
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 117,
+			"xTile": 125,
+			"yPosition": 190,
+			"yTile": 125
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 117,
+			"xTile": 125,
+			"yPosition": 190,
+			"yTile": 125
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 117,
+			"xTile": 125,
+			"yPosition": 190,
+			"yTile": 125
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 117,
+			"xTile": 125,
+			"yPosition": 190,
+			"yTile": 125
+		}
+	],
+	"12512608": [
+		{
+			"description": "Key: 3940 (Wooden Key)",
+			"icon": "?",
+			"xPosition": 190,
+			"xTile": 125,
+			"yPosition": 176,
+			"yTile": 126
+		}
+	],
+	"12612108": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 98,
+			"xTile": 126,
+			"yPosition": 89,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 101,
+			"xTile": 126,
+			"yPosition": 111,
+			"yTile": 121
+		}
+	],
+	"12612208": [
+		{
+			"description": "<Hidden> Frost Dragons",
+			"icon": "red down",
+			"xPosition": 39,
+			"xTile": 126,
+			"yPosition": 209,
+			"yTile": 122
+		}
+	],
+	"12612408": [
+		{
+			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 236,
+			"xTile": 126,
+			"yPosition": 231,
+			"yTile": 124
+		}
+	],
+	"12612508": [
+		{
+			"description": "Pick Hole (Hidden)",
+			"icon": "red down",
+			"xPosition": 139,
+			"xTile": 126,
+			"yPosition": 110,
+			"yTile": 125
+		}
+	],
+	"12712308": [
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 178,
+			"xTile": 127,
+			"yPosition": 185,
+			"yTile": 123
+		}
+	],
+	"12712408": [
+		{
+			"description": "Depot and Bank",
+			"icon": "lock",
+			"xPosition": 145,
+			"xTile": 127,
+			"yPosition": 166,
+			"yTile": 124
+		}
+	],
+	"12812108": [
+		{
+			"description": "Sewer Problem 1",
+			"icon": "crossmark",
+			"xPosition": 55,
+			"xTile": 128,
+			"yPosition": 185,
+			"yTile": 121
+		},
+		{
+			"description": "Sewer Problem 2",
+			"icon": "crossmark",
+			"xPosition": 27,
+			"xTile": 128,
+			"yPosition": 176,
+			"yTile": 121
+		},
+		{
+			"description": "Sewer Problem 4",
+			"icon": "crossmark",
+			"xPosition": 28,
+			"xTile": 128,
+			"yPosition": 215,
+			"yTile": 121
+		}
+	],
+	"12812208": [
+		{
+			"description": "Sewer Problem 3",
+			"icon": "crossmark",
+			"xPosition": 74,
+			"xTile": 128,
+			"yPosition": 18,
+			"yTile": 122
+		}
+	],
+	"12812308": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 181,
+			"xTile": 128,
+			"yPosition": 132,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 174,
+			"xTile": 128,
+			"yPosition": 105,
+			"yTile": 123
+		}
+	],
+	"12812408": [
+		{
+			"description": "Key: 5010",
+			"icon": "?",
+			"xPosition": 56,
+			"xTile": 128,
+			"yPosition": 225,
+			"yTile": 124
+		}
+	],
+	"12812608": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 244,
+			"xTile": 128,
+			"yPosition": 156,
+			"yTile": 126
+		}
+	],
+	"12812708": [
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 223,
+			"xTile": 128,
+			"yPosition": 209,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 217,
+			"xTile": 128,
+			"yPosition": 243,
+			"yTile": 127
+		}
+	],
+	"12912608": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 7,
+			"xTile": 129,
+			"yPosition": 176,
+			"yTile": 126
+		},
+		{
+			"description": "Zarifan",
+			"icon": "down",
+			"xPosition": 30,
+			"xTile": 129,
+			"yPosition": 213,
+			"yTile": 126
+		},
+		{
+			"description": "Slightly Feline Statue (Cobra Toung)",
+			"icon": "crossmark",
+			"xPosition": 113,
+			"xTile": 129,
+			"yPosition": 36,
+			"yTile": 126
+		},
+		{
+			"description": "Coal Basin (Flower)",
+			"icon": "crossmark",
+			"xPosition": 114,
+			"xTile": 129,
+			"yPosition": 114,
+			"yTile": 126
+		},
+		{
+			"description": "Ornamented Stone Pedestal (Ewer)",
+			"icon": "crossmark",
+			"xPosition": 130,
+			"xTile": 129,
+			"yPosition": 24,
+			"yTile": 126
+		}
+	],
+	"12912708": [
+		{
+			"description": "",
+			"icon": "red up",
+			"xPosition": 3,
+			"xTile": 129,
+			"yPosition": 218,
+			"yTile": 127
+		}
+	],
+	"13012208": [
+		{
+			"description": "Strange Machine",
+			"icon": "!",
+			"xPosition": 237,
+			"xTile": 130,
+			"yPosition": 74,
+			"yTile": 122
+		},
+		{
+			"description": "Strange Machine",
+			"icon": "!",
+			"xPosition": 237,
+			"xTile": 130,
+			"yPosition": 74,
+			"yTile": 122
+		},
+		{
+			"description": "Strange Machine",
+			"icon": "!",
+			"xPosition": 237,
+			"xTile": 130,
+			"yPosition": 74,
+			"yTile": 122
+		},
+		{
+			"description": "Temple",
+			"icon": "down",
+			"xPosition": 167,
+			"xTile": 130,
+			"yPosition": 84,
+			"yTile": 122
+		}
+	],
+	"13112408": [
+		{
+			"description": "sewer warden",
+			"icon": "!",
+			"xPosition": 34,
+			"xTile": 131,
+			"yPosition": 164,
+			"yTile": 124
+		},
+		{
+			"description": "sewer warden",
+			"icon": "!",
+			"xPosition": 34,
+			"xTile": 131,
+			"yPosition": 164,
+			"yTile": 124
+		}
+	]
+}
