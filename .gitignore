@@ -1,5 +1,5 @@
-#Automap
-#!Automap/.gitignore
+Automap
+!Automap/.gitignore
 Automap-new
 
 # Installed npm modules
