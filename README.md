@@ -4,6 +4,12 @@ This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/)
 
 [The `tibia-maps` script](https://github.com/tibiamaps/tibia-maps-script) can be used to convert from either format to the other.
 
+The custom format consists of three files for each floor:
+
+1. a PNG image containing the entire map;
+2. a PNG image visualizing the pathfinding data;
+3. a JSON file containing the marker info, if any.
+
 ## Set up
 
 1. Install [io.js](https://iojs.org/en/).
@@ -22,9 +28,9 @@ _If you’ve added new markers or explored new areas in-game, and you want to co
 
 To generate PNGs for the maps + pathfinding visualization and JSON for the marker data based on the map files in the `Automap` directory, run:
 
-    ```bash
-    tibia-maps --from-maps=./Automap --output-dir=./data
-    ```
+```sh
+tibia-maps --from-maps=./Automap --output-dir=./data
+```
 
 The output is saved in the `data` directory.
 
@@ -32,11 +38,11 @@ The output is saved in the `data` directory.
 
 _If you’ve modified marker data by editing the JSON files, and you’re looking to contribute those changes back to our map data, then this is what you’re looking for._
 
-To generate Tibia-compatible map files based on the PNGs and JSON files in the `data` directory, run:
+To generate Tibia-compatible `*.map` files based on the PNGs and JSON files in the `data` directory, run:
 
-    ```bash
-    tibia-maps --from-maps=./Automap-new --output-dir=./data
-    ```
+```sh
+tibia-maps --from-data=./data --output-dir=./Automap-new
+```
 
 The output is saved in the `Automap-new` directory.
 
