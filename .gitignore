@@ -1,6 +1,7 @@
 Automap
 !Automap/.gitignore
 Automap-new
+*.zip
 
 # Installed npm modules
 node_modules
