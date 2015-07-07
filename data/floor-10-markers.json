@@ -173,43 +173,11 @@
 			"yTile": 124
 		},
 		{
-			"description": "Gnomerik",
-			"icon": "cross",
-			"xPosition": 7,
-			"xTile": 128,
-			"yPosition": 1,
-			"yTile": 124
-		},
-		{
-			"description": "Commander Stone",
-			"icon": "cross",
-			"xPosition": 36,
-			"xTile": 128,
-			"yPosition": 53,
-			"yTile": 124
-		},
-		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 33,
 			"xTile": 128,
 			"yPosition": 24,
-			"yTile": 124
-		},
-		{
-			"description": "Gnomerik",
-			"icon": "cross",
-			"xPosition": 7,
-			"xTile": 128,
-			"yPosition": 1,
-			"yTile": 124
-		},
-		{
-			"description": "Commander Stone",
-			"icon": "cross",
-			"xPosition": 36,
-			"xTile": 128,
-			"yPosition": 53,
 			"yTile": 124
 		}
 	],
@@ -310,14 +278,6 @@
 		}
 	],
 	"13112410": [
-		{
-			"description": "Abandoned Sewers",
-			"icon": "!",
-			"xPosition": 13,
-			"xTile": 131,
-			"yPosition": 230,
-			"yTile": 124
-		},
 		{
 			"description": "Abandoned Sewers",
 			"icon": "!",

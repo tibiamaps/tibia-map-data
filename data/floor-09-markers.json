@@ -337,14 +337,6 @@
 			"xTile": 131,
 			"yPosition": 239,
 			"yTile": 124
-		},
-		{
-			"description": "sewer warden",
-			"icon": "!",
-			"xPosition": 35,
-			"xTile": 131,
-			"yPosition": 239,
-			"yTile": 124
 		}
 	]
 }

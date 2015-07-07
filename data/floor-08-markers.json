@@ -107,38 +107,6 @@
 			"xTile": 125,
 			"yPosition": 190,
 			"yTile": 125
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"xPosition": 117,
-			"xTile": 125,
-			"yPosition": 190,
-			"yTile": 125
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"xPosition": 117,
-			"xTile": 125,
-			"yPosition": 190,
-			"yTile": 125
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"xPosition": 117,
-			"xTile": 125,
-			"yPosition": 190,
-			"yTile": 125
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"xPosition": 117,
-			"xTile": 125,
-			"yPosition": 190,
-			"yTile": 125
 		}
 	],
 	"12512608": [
@@ -373,22 +341,6 @@
 			"yTile": 122
 		},
 		{
-			"description": "Strange Machine",
-			"icon": "!",
-			"xPosition": 237,
-			"xTile": 130,
-			"yPosition": 74,
-			"yTile": 122
-		},
-		{
-			"description": "Strange Machine",
-			"icon": "!",
-			"xPosition": 237,
-			"xTile": 130,
-			"yPosition": 74,
-			"yTile": 122
-		},
-		{
 			"description": "Temple",
 			"icon": "down",
 			"xPosition": 167,
@@ -398,14 +350,6 @@
 		}
 	],
 	"13112408": [
-		{
-			"description": "sewer warden",
-			"icon": "!",
-			"xPosition": 34,
-			"xTile": 131,
-			"yPosition": 164,
-			"yTile": 124
-		},
 		{
 			"description": "sewer warden",
 			"icon": "!",

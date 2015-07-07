@@ -63,54 +63,6 @@
 			"xTile": 128,
 			"yPosition": 68,
 			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
-		},
-		{
-			"description": "Boozer",
-			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
 		}
 	],
 	"12912105": [
@@ -124,22 +76,6 @@
 		}
 	],
 	"13112405": [
-		{
-			"description": "Barazbaz",
-			"icon": "!",
-			"xPosition": 114,
-			"xTile": 131,
-			"yPosition": 140,
-			"yTile": 124
-		},
-		{
-			"description": "Marvin",
-			"icon": "!",
-			"xPosition": 126,
-			"xTile": 131,
-			"yPosition": 134,
-			"yTile": 124
-		},
 		{
 			"description": "Barazbaz",
 			"icon": "!",

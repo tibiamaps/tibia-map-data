@@ -17,14 +17,6 @@
 			"xTile": 124,
 			"yPosition": 157,
 			"yTile": 125
-		},
-		{
-			"description": "Orc Fortress",
-			"icon": "skull",
-			"xPosition": 233,
-			"xTile": 124,
-			"yPosition": 157,
-			"yTile": 125
 		}
 	],
 	"12412707": [
@@ -181,75 +173,11 @@
 			"yTile": 124
 		},
 		{
-			"description": "Island of Destiny - Training Centre",
-			"icon": "!",
-			"xPosition": 99,
-			"xTile": 125,
-			"yPosition": 252,
-			"yTile": 124
-		},
-		{
-			"description": "Ship to Mainland",
-			"icon": "up",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 242,
-			"yTile": 124
-		},
-		{
-			"description": "Island of Destiny - Training Centre",
-			"icon": "!",
-			"xPosition": 99,
-			"xTile": 125,
-			"yPosition": 252,
-			"yTile": 124
-		},
-		{
-			"description": "Ship to Mainland",
-			"icon": "up",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 242,
-			"yTile": 124
-		},
-		{
 			"description": "Spirit Grounds (World  Change)",
 			"icon": "!",
 			"xPosition": 172,
 			"xTile": 125,
 			"yPosition": 42,
-			"yTile": 124
-		},
-		{
-			"description": "Island of Destiny - Training Centre",
-			"icon": "!",
-			"xPosition": 99,
-			"xTile": 125,
-			"yPosition": 252,
-			"yTile": 124
-		},
-		{
-			"description": "Ship to Mainland",
-			"icon": "up",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 242,
-			"yTile": 124
-		},
-		{
-			"description": "Island of Destiny - Training Centre",
-			"icon": "!",
-			"xPosition": 99,
-			"xTile": 125,
-			"yPosition": 252,
-			"yTile": 124
-		},
-		{
-			"description": "Ship to Mainland",
-			"icon": "up",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 242,
 			"yTile": 124
 		},
 		{
@@ -383,54 +311,6 @@
 			"yTile": 125
 		},
 		{
-			"description": "Rat Dungeon",
-			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "To Hyacinth",
-			"icon": "up",
-			"xPosition": 139,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 125
-		},
-		{
-			"description": "Spider Lair",
-			"icon": "down",
-			"xPosition": 51,
-			"xTile": 125,
-			"yPosition": 110,
-			"yTile": 125
-		},
-		{
-			"description": "War Wolf Den",
-			"icon": "down",
-			"xPosition": 138,
-			"xTile": 125,
-			"yPosition": 132,
-			"yTile": 125
-		},
-		{
-			"description": "Troll Caves",
-			"icon": "down",
-			"xPosition": 94,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 125
-		},
-		{
-			"description": "Unholy Crypt",
-			"icon": "down",
-			"xPosition": 131,
-			"xTile": 125,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
 			"description": "Lily's Potion Shop",
 			"icon": "bag",
 			"xPosition": 68,
@@ -545,14 +425,6 @@
 		{
 			"description": "Rat Dungeon",
 			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "Rat Dungeon",
-			"icon": "down",
 			"xPosition": 97,
 			"xTile": 125,
 			"yPosition": 205,
@@ -564,382 +436,6 @@
 			"xPosition": 91,
 			"xTile": 125,
 			"yPosition": 178,
-			"yTile": 125
-		},
-		{
-			"description": "To Hyacinth",
-			"icon": "up",
-			"xPosition": 139,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 125
-		},
-		{
-			"description": "Spider Lair",
-			"icon": "down",
-			"xPosition": 51,
-			"xTile": 125,
-			"yPosition": 110,
-			"yTile": 125
-		},
-		{
-			"description": "War Wolf Den",
-			"icon": "down",
-			"xPosition": 138,
-			"xTile": 125,
-			"yPosition": 132,
-			"yTile": 125
-		},
-		{
-			"description": "Troll Caves",
-			"icon": "down",
-			"xPosition": 94,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 125
-		},
-		{
-			"description": "Unholy Crypt",
-			"icon": "down",
-			"xPosition": 131,
-			"xTile": 125,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Lily's Potion Shop",
-			"icon": "bag",
-			"xPosition": 68,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "Temple of Rookgaard",
-			"icon": "cross",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 219,
-			"yTile": 125
-		},
-		{
-			"description": "Weapon and Armor Shops",
-			"icon": "bag",
-			"xPosition": 106,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
-		},
-		{
-			"description": "The Academy",
-			"icon": "?",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
-		},
-		{
-			"description": "General Equipment Store",
-			"icon": "bag",
-			"xPosition": 60,
-			"xTile": 125,
-			"yPosition": 180,
-			"yTile": 125
-		},
-		{
-			"description": "Farms and Food Store",
-			"icon": "bag",
-			"xPosition": 65,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
-		},
-		{
-			"description": "Lee'Delle's Premium Store",
-			"icon": "bag",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 195,
-			"yTile": 125
-		},
-		{
-			"description": "Tom the Tanner",
-			"icon": "bag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 199,
-			"yTile": 125
-		},
-		{
-			"description": "North Bridge",
-			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 179,
-			"yTile": 125
-		},
-		{
-			"description": "West Bridge",
-			"icon": "up",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
-		},
-		{
-			"description": "Academy",
-			"icon": "flag",
-			"xPosition": 104,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
-		},
-		{
-			"description": "Barn",
-			"icon": "flag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 182,
-			"yTile": 125
-		},
-		{
-			"description": "Norma's Bar",
-			"icon": "bag",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 181,
-			"yTile": 125
-		},
-		{
-			"description": "Obi's Shop",
-			"icon": "bag",
-			"xPosition": 105,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
-		},
-		{
-			"description": "Rat Dungeon",
-			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "Rat Dungeon",
-			"icon": "down",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 125
-		},
-		{
-			"description": "North Exit",
-			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 178,
-			"yTile": 125
-		},
-		{
-			"description": "To Hyacinth",
-			"icon": "up",
-			"xPosition": 139,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 125
-		},
-		{
-			"description": "Spider Lair",
-			"icon": "down",
-			"xPosition": 51,
-			"xTile": 125,
-			"yPosition": 110,
-			"yTile": 125
-		},
-		{
-			"description": "War Wolf Den",
-			"icon": "down",
-			"xPosition": 138,
-			"xTile": 125,
-			"yPosition": 132,
-			"yTile": 125
-		},
-		{
-			"description": "Troll Caves",
-			"icon": "down",
-			"xPosition": 94,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 125
-		},
-		{
-			"description": "Unholy Crypt",
-			"icon": "down",
-			"xPosition": 131,
-			"xTile": 125,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Wasps' Nest",
-			"icon": "up",
-			"xPosition": 0,
-			"xTile": 125,
-			"yPosition": 139,
-			"yTile": 125
-		},
-		{
-			"description": "Lily's Potion Shop",
-			"icon": "bag",
-			"xPosition": 68,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "Temple of Rookgaard",
-			"icon": "cross",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 219,
-			"yTile": 125
-		},
-		{
-			"description": "Weapon and Armor Shops",
-			"icon": "bag",
-			"xPosition": 106,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
-		},
-		{
-			"description": "The Academy",
-			"icon": "?",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
-		},
-		{
-			"description": "General Equipment Store",
-			"icon": "bag",
-			"xPosition": 60,
-			"xTile": 125,
-			"yPosition": 180,
-			"yTile": 125
-		},
-		{
-			"description": "Farms and Food Store",
-			"icon": "bag",
-			"xPosition": 65,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
-		},
-		{
-			"description": "Lee'Delle's Premium Store",
-			"icon": "bag",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 195,
-			"yTile": 125
-		},
-		{
-			"description": "Tom the Tanner",
-			"icon": "bag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 199,
-			"yTile": 125
-		},
-		{
-			"description": "North Bridge",
-			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 179,
-			"yTile": 125
-		},
-		{
-			"description": "West Bridge",
-			"icon": "up",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
-		},
-		{
-			"description": "Academy",
-			"icon": "flag",
-			"xPosition": 104,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
-		},
-		{
-			"description": "Barn",
-			"icon": "flag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 182,
-			"yTile": 125
-		},
-		{
-			"description": "Norma's Bar",
-			"icon": "bag",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 181,
-			"yTile": 125
-		},
-		{
-			"description": "Obi's Shop",
-			"icon": "bag",
-			"xPosition": 105,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
-		},
-		{
-			"description": "Rat Dungeon",
-			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
-		},
-		{
-			"description": "Rat Dungeon",
-			"icon": "down",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 125
-		},
-		{
-			"description": "North Exit",
-			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 178,
-			"yTile": 125
-		},
-		{
-			"description": "To Hyacinth",
-			"icon": "up",
-			"xPosition": 139,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 125
-		},
-		{
-			"description": "Spider Lair",
-			"icon": "down",
-			"xPosition": 51,
-			"xTile": 125,
-			"yPosition": 110,
 			"yTile": 125
 		}
 	],
@@ -950,182 +446,6 @@
 			"xPosition": 153,
 			"xTile": 125,
 			"yPosition": 201,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
-		},
-		{
-			"description": "To the Village",
-			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
-		},
-		{
-			"description": "Santiago's Hut",
-			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
 			"yTile": 126
 		},
 		{
@@ -1533,46 +853,6 @@
 			"xTile": 126,
 			"yPosition": 35,
 			"yTile": 126
-		},
-		{
-			"description": "Eclesius",
-			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
-		},
-		{
-			"description": "Eclesius",
-			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
-		},
-		{
-			"description": "Eclesius",
-			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
-		},
-		{
-			"description": "Eclesius",
-			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
-		},
-		{
-			"description": "Eclesius",
-			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
 		}
 	],
 	"12612707": [
@@ -1762,54 +1042,6 @@
 			"xPosition": 187,
 			"xTile": 127,
 			"yPosition": 18,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
-		},
-		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
 			"yTile": 125
 		},
 		{
@@ -2663,46 +1895,6 @@
 			"xTile": 129,
 			"yPosition": 178,
 			"yTile": 124
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
 		}
 	],
 	"12912507": [
@@ -3061,43 +2253,11 @@
 			"yTile": 122
 		},
 		{
-			"description": "Drilling Site",
-			"icon": "down",
-			"xPosition": 235,
-			"xTile": 130,
-			"yPosition": 77,
-			"yTile": 122
-		},
-		{
-			"description": "The Descent",
-			"icon": "crossmark",
-			"xPosition": 234,
-			"xTile": 130,
-			"yPosition": 91,
-			"yTile": 122
-		},
-		{
 			"description": "Magic Store",
 			"icon": "up",
 			"xPosition": 180,
 			"xTile": 130,
 			"yPosition": 75,
-			"yTile": 122
-		},
-		{
-			"description": "Drilling Site",
-			"icon": "down",
-			"xPosition": 235,
-			"xTile": 130,
-			"yPosition": 77,
-			"yTile": 122
-		},
-		{
-			"description": "The Descent",
-			"icon": "crossmark",
-			"xPosition": 234,
-			"xTile": 130,
-			"yPosition": 91,
 			"yTile": 122
 		},
 		{
@@ -3233,38 +2393,6 @@
 			"yTile": 122
 		},
 		{
-			"description": "Entrance to digestion chamber",
-			"icon": "red down",
-			"xPosition": 49,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
-		},
-		{
-			"description": "Entrance to digestion chamber",
-			"icon": "red down",
-			"xPosition": 49,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
-		},
-		{
-			"description": "Entrance to digestion chamber",
-			"icon": "red down",
-			"xPosition": 49,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
-		},
-		{
-			"description": "Entrance to digestion chamber",
-			"icon": "red down",
-			"xPosition": 49,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
-		},
-		{
 			"description": "Antenna",
 			"icon": "star",
 			"xPosition": 13,
@@ -3363,22 +2491,6 @@
 			"yTile": 124
 		},
 		{
-			"description": "Beggar King",
-			"icon": "!",
-			"xPosition": 39,
-			"xTile": 131,
-			"yPosition": 240,
-			"yTile": 124
-		},
-		{
-			"description": "Chavis' Poor House",
-			"icon": "!",
-			"xPosition": 11,
-			"xTile": 131,
-			"yPosition": 208,
-			"yTile": 124
-		},
-		{
 			"description": "Roswitha",
 			"icon": "!",
 			"xPosition": 48,
@@ -3400,14 +2512,6 @@
 			"xPosition": 130,
 			"xTile": 131,
 			"yPosition": 180,
-			"yTile": 124
-		},
-		{
-			"description": "Hideout",
-			"icon": "!",
-			"xPosition": 157,
-			"xTile": 131,
-			"yPosition": 103,
 			"yTile": 124
 		},
 		{
