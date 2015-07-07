@@ -7,6 +7,62 @@
 			"xTile": 125,
 			"yPosition": 213,
 			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 123,
+			"xTile": 125,
+			"yPosition": 173,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 189,
+			"xTile": 125,
+			"yPosition": 205,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 169,
+			"xTile": 125,
+			"yPosition": 103,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 227,
+			"xTile": 125,
+			"yPosition": 119,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 206,
+			"xTile": 125,
+			"yPosition": 148,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 241,
+			"xTile": 125,
+			"yPosition": 222,
+			"yTile": 121
+		},
+		{
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 95,
+			"xTile": 125,
+			"yPosition": 124,
+			"yTile": 121
 		}
 	],
 	"12512712": [
