@@ -17,6 +17,16 @@
 			"yTile": 123
 		}
 	],
+	"12712515": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 13,
+			"xTile": 127,
+			"yPosition": 145,
+			"yTile": 125
+		}
+	],
 	"12812715": [
 		{
 			"description": "Altar of the sceptre",

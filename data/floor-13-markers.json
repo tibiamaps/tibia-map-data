@@ -35,6 +35,16 @@
 			"yTile": 123
 		}
 	],
+	"12612513": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 238,
+			"xTile": 126,
+			"yPosition": 215,
+			"yTile": 125
+		}
+	],
 	"12712313": [
 		{
 			"description": "To Draconia",

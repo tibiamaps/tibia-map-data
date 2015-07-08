@@ -67,6 +67,14 @@
 			"xTile": 126,
 			"yPosition": 102,
 			"yTile": 125
+		},
+		{
+			"description": "To exit (shortcut through Bonelords)",
+			"icon": "down",
+			"xPosition": 255,
+			"xTile": 126,
+			"yPosition": 147,
+			"yTile": 125
 		}
 	],
 	"12712314": [
@@ -120,6 +128,14 @@
 			"xPosition": 58,
 			"xTile": 127,
 			"yPosition": 48,
+			"yTile": 125
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 127,
+			"yPosition": 179,
 			"yTile": 125
 		}
 	],
