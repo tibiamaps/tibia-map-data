@@ -29,7 +29,7 @@
 	],
 	"12512309": [
 		{
-			"description": "Key: 4502 (Copper)",
+			"description": "Key: 4502 (Copper Key)",
 			"icon": "?",
 			"xPosition": 107,
 			"xTile": 125,
@@ -39,7 +39,7 @@
 	],
 	"12512809": [
 		{
-			"description": "Crustacea Gigantica <Spawn loc>",
+			"description": "Crustacea Gigantica (spawn location)",
 			"icon": "star",
 			"xPosition": 182,
 			"xTile": 125,
@@ -75,7 +75,7 @@
 	],
 	"12612309": [
 		{
-			"description": "Maze of Lost Souls \"Lever required see (!) on map\"",
+			"description": "Maze of Lost Souls — lever required; see (!) on map",
 			"icon": "down",
 			"xPosition": 226,
 			"xTile": 126,
@@ -297,7 +297,7 @@
 	],
 	"13012409": [
 		{
-			"description": "Mad Mage spawn location",
+			"description": "Mad Mage (spawn location)",
 			"icon": "star",
 			"xPosition": 68,
 			"xTile": 130,
@@ -305,7 +305,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Mad Mage spawn location",
+			"description": "Mad Mage (spawn location)",
 			"icon": "star",
 			"xPosition": 84,
 			"xTile": 130,
@@ -313,7 +313,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Mad Mage spawn location",
+			"description": "Mad Mage (spawn location)",
 			"icon": "star",
 			"xPosition": 48,
 			"xTile": 130,
@@ -331,7 +331,7 @@
 	],
 	"13112409": [
 		{
-			"description": "sewer warden",
+			"description": "Sewer warden",
 			"icon": "!",
 			"xPosition": 35,
 			"xTile": 131,

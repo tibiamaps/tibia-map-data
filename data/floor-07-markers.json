@@ -1,7 +1,7 @@
 {
 	"12412207": [
 		{
-			"description": "Ice Witches, Ice Golems... 2nd Floor: Crystal Spiders.. 3th Floor: Frost Dragons",
+			"description": "Ice Witches, Ice Golems, etc. 2nd floor: Crystal Spiders etc. 3th floor: Frost Dragons",
 			"icon": "red down",
 			"xPosition": 180,
 			"xTile": 124,
@@ -123,7 +123,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Boat to Folda, Senja and Vega",
+			"description": "Boat to Folda, Senja, and Vega",
 			"icon": "flag",
 			"xPosition": 235,
 			"xTile": 125,
@@ -141,7 +141,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Passage out of ghostland",
+			"description": "Passage out of The Ghostlands",
 			"icon": "down",
 			"xPosition": 221,
 			"xTile": 125,
@@ -157,7 +157,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Island of Destiny - Training Centre",
+			"description": "Island of Destiny — Training Centre",
 			"icon": "!",
 			"xPosition": 99,
 			"xTile": 125,
@@ -173,7 +173,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Spirit Grounds (World  Change)",
+			"description": "Spirit Grounds (World Change)",
 			"icon": "!",
 			"xPosition": 172,
 			"xTile": 125,
@@ -237,7 +237,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Minotuars",
+			"description": "Minotaurs",
 			"icon": "red down",
 			"xPosition": 35,
 			"xTile": 125,
@@ -245,7 +245,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "NPC: Woblin",
+			"description": "NPC Woblin",
 			"icon": "down",
 			"xPosition": 21,
 			"xTile": 125,
@@ -303,7 +303,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Wasps' Nest",
+			"description": "Wasps’ Nest",
 			"icon": "up",
 			"xPosition": 0,
 			"xTile": 125,
@@ -311,7 +311,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Lily's Potion Shop",
+			"description": "Lily’s Potion Shop",
 			"icon": "bag",
 			"xPosition": 68,
 			"xTile": 125,
@@ -359,7 +359,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Lee'Delle's Premium Store",
+			"description": "Lee'Delle’s Premium Store",
 			"icon": "bag",
 			"xPosition": 26,
 			"xTile": 125,
@@ -407,7 +407,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Norma's Bar",
+			"description": "Norma’s Bar",
 			"icon": "bag",
 			"xPosition": 97,
 			"xTile": 125,
@@ -415,7 +415,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Obi's Shop",
+			"description": "Obi’s Shop",
 			"icon": "bag",
 			"xPosition": 105,
 			"xTile": 125,
@@ -457,7 +457,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Santiago's Hut",
+			"description": "Santiago’s Hut",
 			"icon": "up",
 			"xPosition": 22,
 			"xTile": 125,
@@ -565,7 +565,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Treasure Hole (Need pirate Treasure map)",
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
 			"icon": "red down",
 			"xPosition": 201,
 			"xTile": 125,
@@ -573,7 +573,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Treasure Hole (Need pirate Treasure map)",
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
 			"icon": "red down",
 			"xPosition": 144,
 			"xTile": 125,
@@ -581,7 +581,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Treasure Hole (Need pirate Treasure map)",
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
 			"icon": "red down",
 			"xPosition": 126,
 			"xTile": 125,
@@ -755,7 +755,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 5,
 			"xTile": 126,
@@ -805,7 +805,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 14,
 			"xTile": 126,
@@ -857,7 +857,7 @@
 	],
 	"12612707": [
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 92,
 			"xTile": 126,
@@ -985,7 +985,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 168,
 			"xTile": 127,
@@ -1011,7 +1011,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Entrence to Kazordoon",
+			"description": "Entrance to Kazordoon",
 			"icon": "down",
 			"xPosition": 66,
 			"xTile": 127,
@@ -1027,7 +1027,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 62,
 			"xTile": 127,
@@ -1037,7 +1037,7 @@
 	],
 	"12712507": [
 		{
-			"description": "To Wyda's Hut",
+			"description": "To Wyda’s Hut",
 			"icon": "down",
 			"xPosition": 187,
 			"xTile": 127,
@@ -1097,7 +1097,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To the Shops, Post and Bank",
+			"description": "To the Shops, Post, and Bank",
 			"icon": "up",
 			"xPosition": 117,
 			"xTile": 127,
@@ -1137,7 +1137,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 19,
 			"xTile": 127,
@@ -1203,7 +1203,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Water Elementals (lvl 50+)",
+			"description": "Water Elementals (level 50+)",
 			"icon": "red down",
 			"xPosition": 48,
 			"xTile": 127,
@@ -1425,7 +1425,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Werewolves ",
+			"description": "Werewolves",
 			"icon": "red up",
 			"xPosition": 212,
 			"xTile": 128,
@@ -1435,7 +1435,7 @@
 	],
 	"12812507": [
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 64,
 			"xTile": 128,
@@ -1463,7 +1463,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Special Task: Tiquanda's Revenge",
+			"description": "Special Task: Tiquanda’s Revenge",
 			"icon": "!",
 			"xPosition": 108,
 			"xTile": 128,
@@ -1511,7 +1511,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther <Spawn loc>",
+			"description": "Midnight Panther (spawn location)",
 			"icon": "star",
 			"xPosition": 89,
 			"xTile": 128,
@@ -1519,7 +1519,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther <Spawn loc>",
+			"description": "Midnight Panther (spawn location)",
 			"icon": "star",
 			"xPosition": 79,
 			"xTile": 128,
@@ -1527,7 +1527,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther <Spawn loc>",
+			"description": "Midnight Panther (spawn location)",
 			"icon": "star",
 			"xPosition": 117,
 			"xTile": 128,
@@ -1559,7 +1559,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Shortcut to banuta",
+			"description": "Shortcut to Banuta",
 			"icon": "down",
 			"xPosition": 85,
 			"xTile": 128,
@@ -1617,7 +1617,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Medusa Tower Entrence",
+			"description": "Medusa Tower Entrance",
 			"icon": "red down",
 			"xPosition": 85,
 			"xTile": 128,
@@ -1645,7 +1645,7 @@
 	],
 	"12912207": [
 		{
-			"description": "Portal to north Zao",
+			"description": "Portal to Northern Zao",
 			"icon": "up",
 			"xPosition": 174,
 			"xTile": 129,
@@ -1653,7 +1653,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Lancer beetles",
+			"description": "Lancer Beetles",
 			"icon": "red down",
 			"xPosition": 199,
 			"xTile": 129,
@@ -1701,7 +1701,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "High Class Lizzards",
+			"description": "High Class Lizards",
 			"icon": "red up",
 			"xPosition": 151,
 			"xTile": 129,
@@ -1709,7 +1709,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Portal to south Zao",
+			"description": "Portal to Southern Zao",
 			"icon": "up",
 			"xPosition": 122,
 			"xTile": 129,
@@ -1889,7 +1889,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 197,
 			"xTile": 129,
@@ -1915,7 +1915,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Corym's",
+			"description": "Coryms",
 			"icon": "red down",
 			"xPosition": 48,
 			"xTile": 129,
@@ -1973,7 +1973,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Dragons (lvl 40+)",
+			"description": "Dragons (level 40+)",
 			"icon": "?",
 			"xPosition": 241,
 			"xTile": 129,
@@ -1997,7 +1997,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Grims",
+			"description": "Grim Reapers",
 			"icon": "red down",
 			"xPosition": 4,
 			"xTile": 129,
@@ -2087,7 +2087,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Green Djin (Efreets)",
+			"description": "Green Djinn (Efreets)",
 			"icon": "up",
 			"xPosition": 77,
 			"xTile": 129,
@@ -2095,7 +2095,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Blue Djin (Marids)",
+			"description": "Blue Djinn (Marids)",
 			"icon": "up",
 			"xPosition": 96,
 			"xTile": 129,
@@ -2119,7 +2119,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Larvas / Scarabs / Ancient Scarabs (Task Boss: Fleshcraweler)",
+			"description": "Larvas / Scarabs / Ancient Scarabs (Task Boss: Fleshcrawler)",
 			"icon": "red down",
 			"xPosition": 48,
 			"xTile": 129,
@@ -2127,7 +2127,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Horistis Tomb",
+			"description": "Horestis Tomb",
 			"icon": "up",
 			"xPosition": 36,
 			"xTile": 129,
@@ -2209,7 +2209,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 244,
 			"xTile": 129,
@@ -2261,7 +2261,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Bank, Depot and Temple",
+			"description": "Bank, Depot, and Temple",
 			"icon": "down",
 			"xPosition": 166,
 			"xTile": 130,
@@ -2357,7 +2357,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Fury Gate (World  Change)",
+			"description": "Fury Gate (World Change)",
 			"icon": "!",
 			"xPosition": 25,
 			"xTile": 130,
@@ -2459,7 +2459,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Chavis' Poor House",
+			"description": "Chavis’ Poor House",
 			"icon": "!",
 			"xPosition": 11,
 			"xTile": 131,
@@ -2499,7 +2499,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Quandons Home",
+			"description": "Quandon’s Home",
 			"icon": "!",
 			"xPosition": 38,
 			"xTile": 131,
@@ -2535,7 +2535,7 @@
 	],
 	"13112607": [
 		{
-			"description": "Safty Spot",
+			"description": "Safety Spot",
 			"icon": "up",
 			"xPosition": 28,
 			"xTile": 131,

@@ -27,7 +27,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "The Way To Main",
+			"description": "To Main",
 			"icon": "red left",
 			"xPosition": 48,
 			"xTile": 125,
@@ -87,7 +87,7 @@
 	],
 	"12512606": [
 		{
-			"description": "Santiago's Hut",
+			"description": "Santiago’s Hut",
 			"icon": "red down",
 			"xPosition": 34,
 			"xTile": 125,

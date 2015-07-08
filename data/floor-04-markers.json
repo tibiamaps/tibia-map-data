@@ -1,7 +1,7 @@
 {
 	"12512404": [
 		{
-			"description": "Adventurer's Bank",
+			"description": "Adventurer’s Bank",
 			"icon": "$",
 			"xPosition": 55,
 			"xTile": 125,
@@ -9,7 +9,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Mr Morris' Room",
+			"description": "Mr Morris’ Room",
 			"icon": "!",
 			"xPosition": 72,
 			"xTile": 125,
@@ -41,7 +41,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Shops, Temple and Vocation Gates",
+			"description": "To the Shops, Temple, and Vocation Gates",
 			"icon": "down",
 			"xPosition": 73,
 			"xTile": 125,

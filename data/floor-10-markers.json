@@ -1,7 +1,7 @@
 {
 	"12512310": [
 		{
-			"description": "Key: 4501 (Copper)",
+			"description": "Key: 4501 (Copper Key)",
 			"icon": "?",
 			"xPosition": 40,
 			"xTile": 125,
@@ -199,7 +199,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Akab's Grave",
+			"description": "Akab’s Grave",
 			"icon": "crossmark",
 			"xPosition": 223,
 			"xTile": 128,
@@ -215,7 +215,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Blood Priest (Tomurk The Ruddy)",
+			"description": "Blood Priest (Tomruk the Ruddy)",
 			"icon": "down",
 			"xPosition": 200,
 			"xTile": 128,
@@ -253,7 +253,7 @@
 	],
 	"12912610": [
 		{
-			"description": "Shadow Pupil  (Oblivion)",
+			"description": "Shadow Pupil (Oblivion)",
 			"icon": "!",
 			"xPosition": 0,
 			"xTile": 129,
@@ -269,7 +269,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Necromancer's Pure Blood Chambers",
+			"description": "Necromancer’s Pure Blood Chambers",
 			"icon": "crossmark",
 			"xPosition": 14,
 			"xTile": 129,

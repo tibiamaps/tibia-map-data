@@ -51,7 +51,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Lost Dawrves",
+			"description": "Lost Dwarves",
 			"icon": "red down",
 			"xPosition": 207,
 			"xTile": 126,
@@ -89,7 +89,7 @@
 	],
 	"12712414": [
 		{
-			"description": "Key: 3802 (Copper key)",
+			"description": "Key: 3802 (Copper Key)",
 			"icon": "?",
 			"xPosition": 90,
 			"xTile": 127,

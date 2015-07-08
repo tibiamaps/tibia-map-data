@@ -67,7 +67,7 @@
 	],
 	"12512712": [
 		{
-			"description": "Crustacea Gigantica <Spawn loc>",
+			"description": "Crustacea Gigantica (spawn location)",
 			"icon": "star",
 			"xPosition": 98,
 			"xTile": 125,
@@ -75,7 +75,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Mailbox (Floor below)",
+			"description": "Mailbox (floor below)",
 			"icon": "flag",
 			"xPosition": 56,
 			"xTile": 125,
@@ -191,7 +191,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Pickhole <Hidden>",
+			"description": "Hidden Pick Hole",
 			"icon": "red down",
 			"xPosition": 10,
 			"xTile": 126,
@@ -201,7 +201,7 @@
 	],
 	"12612512": [
 		{
-			"description": "<Hidden Pick Hole>",
+			"description": "Hidden Pick Hole",
 			"icon": "red down",
 			"xPosition": 121,
 			"xTile": 126,
@@ -227,7 +227,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "MAGIC - red > green > yellow > blue",
+			"description": "MAGIC — red > green > yellow > blue",
 			"icon": "red down",
 			"xPosition": 67,
 			"xTile": 127,
@@ -257,7 +257,7 @@
 	],
 	"12812612": [
 		{
-			"description": "Ancient Vampire Crypts - Sacrificial Chamber",
+			"description": "Ancient Vampire Crypts — Sacrificial Chamber",
 			"icon": "crossmark",
 			"xPosition": 162,
 			"xTile": 128,

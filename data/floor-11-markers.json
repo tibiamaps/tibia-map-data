@@ -351,7 +351,7 @@
 	],
 	"12912311": [
 		{
-			"description": "Fire axe quest <Hidden pick hole>",
+			"description": "Fire Axe Quest <Hidden pick hole>",
 			"icon": "red down",
 			"xPosition": 57,
 			"xTile": 129,
@@ -395,7 +395,7 @@
 	],
 	"13012211": [
 		{
-			"description": "reward",
+			"description": "Reward",
 			"icon": "lock",
 			"xPosition": 134,
 			"xTile": 130,

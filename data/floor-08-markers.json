@@ -243,7 +243,7 @@
 	],
 	"12812408": [
 		{
-			"description": "Key: 5010",
+			"description": "Key: 5010 (Silver Key)",
 			"icon": "?",
 			"xPosition": 56,
 			"xTile": 128,
@@ -297,7 +297,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Slightly Feline Statue (Cobra Toung)",
+			"description": "Slightly Feline Statue (Cobra Tongue)",
 			"icon": "crossmark",
 			"xPosition": 113,
 			"xTile": 129,
@@ -351,7 +351,7 @@
 	],
 	"13112408": [
 		{
-			"description": "sewer warden",
+			"description": "Sewer warden",
 			"icon": "!",
 			"xPosition": 34,
 			"xTile": 131,
