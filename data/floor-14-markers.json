@@ -313,6 +313,14 @@
 			"xTile": 130,
 			"yPosition": 22,
 			"yTile": 122
+		},
+		{
+			"description": "Teleport to Gray Beach",
+			"icon": "star",
+			"xPosition": 160,
+			"xTile": 130,
+			"yPosition": 50,
+			"yTile": 122
 		}
 	],
 	"13012414": [
