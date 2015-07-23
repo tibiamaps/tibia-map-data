@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "iojs"
+before_install:
+  - "sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++"
+  - "npm install tibia-maps -g"
+script:
+  - "./release.sh && tibia-maps --from-data=./data --output-dir=./Automap && tibia-maps --from-maps=./Automap --output-dir=./data && git status && git diff-index --quiet HEAD --"
+branches:
+  only:
+    - /^.*$/

@@ -1,4 +1,4 @@
-# Tibia map data
+# Tibia map data [![Build status](https://travis-ci.org/tibiamaps/tibia-map-data.svg?branch=master)](https://travis-ci.org/tibiamaps/tibia-map-data)
 
 This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](http://www.tibiamaps.org/into-the-automap-format-c-client/).
 
