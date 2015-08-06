@@ -141,6 +141,16 @@
 			"yTile": 124
 		}
 	],
+	"12712706": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 127,
+			"xTile": 127,
+			"yPosition": 43,
+			"yTile": 127
+		}
+	],
 	"12812306": [
 		{
 			"description": "",

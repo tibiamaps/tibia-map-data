@@ -187,6 +187,24 @@
 			"yTile": 124
 		}
 	],
+	"12712708": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 144,
+			"xTile": 127,
+			"yPosition": 37,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 101,
+			"xTile": 127,
+			"yPosition": 45,
+			"yTile": 127
+		}
+	],
 	"12812108": [
 		{
 			"description": "Sewer Problem 1",
@@ -259,6 +277,14 @@
 			"xTile": 128,
 			"yPosition": 156,
 			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "shovel",
+			"xPosition": 252,
+			"xTile": 128,
+			"yPosition": 197,
+			"yTile": 126
 		}
 	],
 	"12812708": [
@@ -318,6 +344,14 @@
 			"xPosition": 130,
 			"xTile": 129,
 			"yPosition": 24,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 52,
+			"xTile": 129,
+			"yPosition": 168,
 			"yTile": 126
 		}
 	],

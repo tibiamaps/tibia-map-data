@@ -1159,6 +1159,22 @@
 			"xTile": 127,
 			"yPosition": 253,
 			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 101,
+			"xTile": 127,
+			"yPosition": 45,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 128,
+			"xTile": 127,
+			"yPosition": 43,
+			"yTile": 127
 		}
 	],
 	"12712807": [
@@ -1458,6 +1474,14 @@
 			"xPosition": 145,
 			"xTile": 128,
 			"yPosition": 5,
+			"yTile": 126
+		},
+		{
+			"description": "To exit",
+			"icon": "down",
+			"xPosition": 250,
+			"xTile": 128,
+			"yPosition": 173,
 			"yTile": 126
 		}
 	],
@@ -2026,6 +2050,14 @@
 			"xPosition": 66,
 			"xTile": 129,
 			"yPosition": 194,
+			"yTile": 126
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 41,
+			"xTile": 129,
+			"yPosition": 202,
 			"yTile": 126
 		}
 	],

@@ -221,6 +221,14 @@
 			"xTile": 128,
 			"yPosition": 153,
 			"yTile": 126
+		},
+		{
+			"description": "To Vampire Crypts",
+			"icon": "down",
+			"xPosition": 227,
+			"xTile": 128,
+			"yPosition": 193,
+			"yTile": 126
 		}
 	],
 	"12812710": [
@@ -274,6 +282,70 @@
 			"xPosition": 14,
 			"xTile": 129,
 			"yPosition": 184,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "shovel",
+			"xPosition": 37,
+			"xTile": 129,
+			"yPosition": 172,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "shovel",
+			"xPosition": 40,
+			"xTile": 129,
+			"yPosition": 179,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "shovel",
+			"xPosition": 41,
+			"xTile": 129,
+			"yPosition": 167,
+			"yTile": 126
+		},
+		{
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 64,
+			"xTile": 129,
+			"yPosition": 82,
+			"yTile": 126
+		},
+		{
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 56,
+			"xTile": 129,
+			"yPosition": 58,
+			"yTile": 126
+		},
+		{
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 58,
+			"xTile": 129,
+			"yPosition": 70,
+			"yTile": 126
+		},
+		{
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 49,
+			"xTile": 129,
+			"yPosition": 77,
+			"yTile": 126
+		},
+		{
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 34,
+			"xTile": 129,
+			"yPosition": 87,
 			"yTile": 126
 		}
 	],
