@@ -12,7 +12,7 @@ The custom format consists of three files for each floor:
 
 ## Set up
 
-1. Install [io.js](https://iojs.org/en/).
+1. Install [Node.js v4+](https://nodejs.org/en/).
 
 2. Install the `tibia-maps` command-line utility:
 
