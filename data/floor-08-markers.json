@@ -185,6 +185,14 @@
 			"xTile": 127,
 			"yPosition": 166,
 			"yTile": 124
+		},
+		{
+			"description": "To NPC A Dwarven Ghost",
+			"icon": "down",
+			"xPosition": 8,
+			"xTile": 127,
+			"yPosition": 146,
+			"yTile": 124
 		}
 	],
 	"12712708": [

@@ -33,6 +33,16 @@
 			"yTile": 121
 		}
 	],
+	"12512414": [
+		{
+			"description": "To exit (hidden shovel hole)",
+			"icon": "down",
+			"xPosition": 204,
+			"xTile": 125,
+			"yPosition": 143,
+			"yTile": 124
+		}
+	],
 	"12612414": [
 		{
 			"description": "High Class Dwarves",
@@ -331,6 +341,32 @@
 			"xTile": 130,
 			"yPosition": 58,
 			"yTile": 124
+		}
+	],
+	"13012714": [
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 75,
+			"xTile": 130,
+			"yPosition": 168,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 85,
+			"xTile": 130,
+			"yPosition": 188,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 97,
+			"xTile": 130,
+			"yPosition": 250,
+			"yTile": 127
 		}
 	],
 	"13112114": [

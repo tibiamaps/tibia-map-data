@@ -9,6 +9,26 @@
 			"yTile": 123
 		}
 	],
+	"12512710": [
+		{
+			"description": "",
+			"icon": "star",
+			"xPosition": 218,
+			"xTile": 125,
+			"yPosition": 219,
+			"yTile": 127
+		}
+	],
+	"12512810": [
+		{
+			"description": "",
+			"icon": "star",
+			"xPosition": 247,
+			"xTile": 125,
+			"yPosition": 52,
+			"yTile": 128
+		}
+	],
 	"12612310": [
 		{
 			"description": "2. To Surface",
@@ -75,6 +95,14 @@
 			"xTile": 126,
 			"yPosition": 252,
 			"yTile": 124
+		},
+		{
+			"description": "To NPC A Dwarven Ghost",
+			"icon": "down",
+			"xPosition": 220,
+			"xTile": 126,
+			"yPosition": 161,
+			"yTile": 124
 		}
 	],
 	"12612510": [
@@ -133,6 +161,16 @@
 			"xTile": 127,
 			"yPosition": 132,
 			"yTile": 125
+		}
+	],
+	"12712810": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 112,
+			"xTile": 127,
+			"yPosition": 55,
+			"yTile": 128
 		}
 	],
 	"12812210": [

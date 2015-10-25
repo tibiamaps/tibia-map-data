@@ -1041,6 +1041,14 @@
 			"xTile": 127,
 			"yPosition": 236,
 			"yTile": 124
+		},
+		{
+			"description": "To NPC Budrik",
+			"icon": "down",
+			"xPosition": 21,
+			"xTile": 127,
+			"yPosition": 169,
+			"yTile": 124
 		}
 	],
 	"12712507": [
@@ -1685,14 +1693,6 @@
 			"yTile": 122
 		},
 		{
-			"description": "Lancer Beetles",
-			"icon": "red down",
-			"xPosition": 199,
-			"xTile": 129,
-			"yPosition": 165,
-			"yTile": 122
-		},
-		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
 			"xPosition": 80,
@@ -1749,11 +1749,19 @@
 			"yTile": 122
 		},
 		{
-			"description": "",
+			"description": "Lancer Beetles",
 			"icon": "red down",
 			"xPosition": 106,
 			"xTile": 129,
 			"yPosition": 121,
+			"yTile": 122
+		},
+		{
+			"description": "Lancer Beetles",
+			"icon": "red down",
+			"xPosition": 199,
+			"xTile": 129,
+			"yPosition": 165,
 			"yTile": 122
 		}
 	],
@@ -2135,7 +2143,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Green Djinn (Efreets)",
+			"description": "Green Djinns (The Efreet)",
 			"icon": "up",
 			"xPosition": 77,
 			"xTile": 129,
@@ -2143,7 +2151,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Blue Djinn (Marids)",
+			"description": "Blue Djinns (The Marid)",
 			"icon": "up",
 			"xPosition": 96,
 			"xTile": 129,
@@ -2180,6 +2188,22 @@
 			"xPosition": 36,
 			"xTile": 129,
 			"yPosition": 222,
+			"yTile": 127
+		},
+		{
+			"description": "Mother of Scarabs Lair",
+			"icon": "red down",
+			"xPosition": 212,
+			"xTile": 129,
+			"yPosition": 64,
+			"yTile": 127
+		},
+		{
+			"description": "Kha'zeel Scarab Lair",
+			"icon": "red down",
+			"xPosition": 56,
+			"xTile": 129,
+			"yPosition": 33,
 			"yTile": 127
 		}
 	],
@@ -2382,6 +2406,14 @@
 			"xPosition": 237,
 			"xTile": 130,
 			"yPosition": 162,
+			"yTile": 124
+		},
+		{
+			"description": "To NPC A Majestic Warwolf",
+			"icon": "down",
+			"xPosition": 84,
+			"xTile": 130,
+			"yPosition": 231,
 			"yTile": 124
 		}
 	],
