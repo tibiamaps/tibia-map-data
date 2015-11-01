@@ -1,4 +1,14 @@
 {
+	"12512210": [
+		{
+			"description": "Task Boss: Tormentor",
+			"icon": "!",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 50,
+			"yTile": 122
+		}
+	],
 	"12512310": [
 		{
 			"description": "Key: 4501 (Copper Key)",

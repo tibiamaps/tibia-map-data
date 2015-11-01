@@ -43,6 +43,16 @@
 			"yTile": 124
 		}
 	],
+	"12512714": [
+		{
+			"description": "Task Boss: Kerberos",
+			"icon": "!",
+			"xPosition": 44,
+			"xTile": 125,
+			"yPosition": 36,
+			"yTile": 127
+		}
+	],
 	"12612414": [
 		{
 			"description": "High Class Dwarves",
