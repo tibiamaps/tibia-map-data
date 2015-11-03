@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - "4"
+  - "5"
 before_install:
   - "sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++"
   - "sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test"
