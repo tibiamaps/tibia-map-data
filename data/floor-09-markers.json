@@ -325,6 +325,40 @@
 			"yTile": 126
 		}
 	],
+	"13012309": [
+		{
+			"description": "Purple Nightshade",
+			"icon": "star",
+			"xPosition": 34,
+			"xTile": 130,
+			"yPosition": 149,
+			"yTile": 123
+		},
+		{
+			"description": "Purple Nightshade",
+			"icon": "star",
+			"xPosition": 104,
+			"xTile": 130,
+			"yPosition": 147,
+			"yTile": 123
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 31,
+			"xTile": 130,
+			"yPosition": 191,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 121,
+			"xTile": 130,
+			"yPosition": 127,
+			"yTile": 123
+		}
+	],
 	"13012409": [
 		{
 			"description": "Mad Mage (spawn location)",

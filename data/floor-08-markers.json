@@ -391,6 +391,32 @@
 			"yTile": 122
 		}
 	],
+	"13012308": [
+		{
+			"description": "Purple Nightshade",
+			"icon": "star",
+			"xPosition": 73,
+			"xTile": 130,
+			"yPosition": 199,
+			"yTile": 123
+		},
+		{
+			"description": "To surface",
+			"icon": "up",
+			"xPosition": 73,
+			"xTile": 130,
+			"yPosition": 182,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 31,
+			"xTile": 130,
+			"yPosition": 192,
+			"yTile": 123
+		}
+	],
 	"13112408": [
 		{
 			"description": "Sewer warden",

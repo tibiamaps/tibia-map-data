@@ -1681,6 +1681,14 @@
 			"xTile": 129,
 			"yPosition": 123,
 			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 149,
+			"xTile": 129,
+			"yPosition": 99,
+			"yTile": 121
 		}
 	],
 	"12912207": [
