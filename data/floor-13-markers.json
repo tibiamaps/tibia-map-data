@@ -282,5 +282,15 @@
 			"yPosition": 58,
 			"yTile": 124
 		}
+	],
+	"13012613": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 30,
+			"xTile": 130,
+			"yPosition": 123,
+			"yTile": 126
+		}
 	]
 }

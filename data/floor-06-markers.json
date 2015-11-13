@@ -283,6 +283,16 @@
 			"yTile": 128
 		}
 	],
+	"13112306": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 142,
+			"xTile": 131,
+			"yPosition": 112,
+			"yTile": 123
+		}
+	],
 	"13112406": [
 		{
 			"description": "Bank Upstairs and Depot Downstairs",
@@ -314,6 +324,14 @@
 			"xPosition": 76,
 			"xTile": 131,
 			"yPosition": 155,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 144,
+			"xTile": 131,
+			"yPosition": 49,
 			"yTile": 124
 		}
 	],

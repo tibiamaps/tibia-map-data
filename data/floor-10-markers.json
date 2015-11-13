@@ -415,6 +415,22 @@
 			"xTile": 131,
 			"yPosition": 230,
 			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 95,
+			"xTile": 131,
+			"yPosition": 18,
+			"yTile": 124
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 90,
+			"xTile": 131,
+			"yPosition": 3,
+			"yTile": 124
 		}
 	]
 }

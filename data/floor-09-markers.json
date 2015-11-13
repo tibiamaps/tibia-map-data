@@ -357,6 +357,14 @@
 			"xTile": 130,
 			"yPosition": 127,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 243,
+			"xTile": 130,
+			"yPosition": 118,
+			"yTile": 123
 		}
 	],
 	"13012409": [
@@ -393,6 +401,16 @@
 			"yTile": 124
 		}
 	],
+	"13112309": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 10,
+			"xTile": 131,
+			"yPosition": 137,
+			"yTile": 123
+		}
+	],
 	"13112409": [
 		{
 			"description": "Sewer warden",
@@ -408,6 +426,38 @@
 			"xPosition": 10,
 			"xTile": 131,
 			"yPosition": 230,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 90,
+			"xTile": 131,
+			"yPosition": 3,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 71,
+			"xTile": 131,
+			"yPosition": 41,
+			"yTile": 124
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 90,
+			"xTile": 131,
+			"yPosition": 45,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 121,
+			"xTile": 131,
+			"yPosition": 15,
 			"yTile": 124
 		}
 	]

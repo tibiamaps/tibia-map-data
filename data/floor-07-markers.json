@@ -2381,6 +2381,22 @@
 			"xTile": 130,
 			"yPosition": 232,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 223,
+			"xTile": 130,
+			"yPosition": 90,
+			"yTile": 123
+		},
+		{
+			"description": "To boat",
+			"icon": "flag",
+			"xPosition": 248,
+			"xTile": 130,
+			"yPosition": 208,
+			"yTile": 123
 		}
 	],
 	"13012407": [
@@ -2545,6 +2561,16 @@
 			"yTile": 122
 		}
 	],
+	"13112307": [
+		{
+			"description": "To NPC A Goblin Exile",
+			"icon": "down",
+			"xPosition": 194,
+			"xTile": 131,
+			"yPosition": 245,
+			"yTile": 123
+		}
+	],
 	"13112407": [
 		{
 			"description": "Beggar King",
@@ -2624,6 +2650,46 @@
 			"xPosition": 66,
 			"xTile": 131,
 			"yPosition": 155,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 156,
+			"xTile": 131,
+			"yPosition": 31,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 101,
+			"xTile": 131,
+			"yPosition": 46,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 140,
+			"xTile": 131,
+			"yPosition": 50,
+			"yTile": 124
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 144,
+			"xTile": 131,
+			"yPosition": 49,
+			"yTile": 124
+		},
+		{
+			"description": "Wailing Widows / Brimstone Bugs / Giant Spiders",
+			"icon": "down",
+			"xPosition": 150,
+			"xTile": 131,
+			"yPosition": 0,
 			"yTile": 124
 		}
 	],
