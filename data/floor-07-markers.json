@@ -1985,6 +1985,14 @@
 			"xTile": 129,
 			"yPosition": 104,
 			"yTile": 125
+		},
+		{
+			"description": "Dryad Gardens",
+			"icon": "down",
+			"xPosition": 240,
+			"xTile": 129,
+			"yPosition": 14,
+			"yTile": 125
 		}
 	],
 	"12912607": [
