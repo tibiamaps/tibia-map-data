@@ -51,17 +51,17 @@
 		{
 			"description": "Insectoid Monolith",
 			"icon": "star",
-			"xPosition": 66,
+			"xPosition": 50,
 			"xTile": 131,
-			"yPosition": 0,
+			"yPosition": 3,
 			"yTile": 122
 		},
 		{
 			"description": "Insectoid Monolith",
 			"icon": "star",
-			"xPosition": 50,
+			"xPosition": 66,
 			"xTile": 131,
-			"yPosition": 3,
+			"yPosition": 0,
 			"yTile": 122
 		}
 	]

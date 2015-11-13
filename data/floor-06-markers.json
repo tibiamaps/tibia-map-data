@@ -11,23 +11,15 @@
 	],
 	"12512406": [
 		{
-			"description": "Dawnport Temple",
-			"icon": "cross",
-			"xPosition": 64,
-			"xTile": 125,
-			"yPosition": 148,
-			"yTile": 124
-		},
-		{
-			"description": "Alternate Bank",
-			"icon": "$",
-			"xPosition": 64,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 124
-		},
-		{
 			"description": "To Main",
+			"icon": "red left",
+			"xPosition": 48,
+			"xTile": 125,
+			"yPosition": 134,
+			"yTile": 124
+		},
+		{
+			"description": "To the Mainland",
 			"icon": "red left",
 			"xPosition": 48,
 			"xTile": 125,
@@ -51,6 +43,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "Alternate Bank",
+			"icon": "$",
+			"xPosition": 64,
+			"xTile": 125,
+			"yPosition": 137,
+			"yTile": 124
+		},
+		{
+			"description": "Dawnport Temple",
+			"icon": "cross",
+			"xPosition": 64,
+			"xTile": 125,
+			"yPosition": 148,
+			"yTile": 124
+		},
+		{
 			"description": "Knight Vocation Door",
 			"icon": "star",
 			"xPosition": 69,
@@ -64,14 +72,6 @@
 			"xPosition": 73,
 			"xTile": 125,
 			"yPosition": 142,
-			"yTile": 124
-		},
-		{
-			"description": "To the Mainland",
-			"icon": "red left",
-			"xPosition": 48,
-			"xTile": 125,
-			"yPosition": 134,
 			"yTile": 124
 		}
 	],
@@ -163,38 +163,6 @@
 	],
 	"12812506": [
 		{
-			"description": "Magic Store",
-			"icon": "star",
-			"xPosition": 208,
-			"xTile": 128,
-			"yPosition": 82,
-			"yTile": 125
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"xPosition": 249,
-			"xTile": 128,
-			"yPosition": 53,
-			"yTile": 125
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"xPosition": 186,
-			"xTile": 128,
-			"yPosition": 24,
-			"yTile": 125
-		},
-		{
-			"description": "Tempel",
-			"icon": "down",
-			"xPosition": 185,
-			"xTile": 128,
-			"yPosition": 77,
-			"yTile": 125
-		},
-		{
 			"description": "Depot",
 			"icon": "down",
 			"xPosition": 151,
@@ -209,23 +177,55 @@
 			"xTile": 128,
 			"yPosition": 72,
 			"yTile": 125
+		},
+		{
+			"description": "Tempel",
+			"icon": "down",
+			"xPosition": 185,
+			"xTile": 128,
+			"yPosition": 77,
+			"yTile": 125
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 186,
+			"xTile": 128,
+			"yPosition": 24,
+			"yTile": 125
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 208,
+			"xTile": 128,
+			"yPosition": 82,
+			"yTile": 125
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 249,
+			"xTile": 128,
+			"yPosition": 53,
+			"yTile": 125
 		}
 	],
 	"12912106": [
 		{
 			"description": "Silver Ewer (Daily Spawn)",
 			"icon": "bag",
-			"xPosition": 65,
+			"xPosition": 43,
 			"xTile": 129,
-			"yPosition": 121,
+			"yPosition": 128,
 			"yTile": 121
 		},
 		{
 			"description": "Silver Ewer (Daily Spawn)",
 			"icon": "bag",
-			"xPosition": 43,
+			"xPosition": 65,
 			"xTile": 129,
-			"yPosition": 128,
+			"yPosition": 121,
 			"yTile": 121
 		},
 		{
@@ -267,19 +267,19 @@
 	],
 	"12912806": [
 		{
-			"description": "Shops and Bank",
-			"icon": "$",
-			"xPosition": 106,
-			"xTile": 129,
-			"yPosition": 49,
-			"yTile": 128
-		},
-		{
 			"description": "Ahmed",
 			"icon": "mouth",
 			"xPosition": 102,
 			"xTile": 129,
 			"yPosition": 42,
+			"yTile": 128
+		},
+		{
+			"description": "Shops and Bank",
+			"icon": "$",
+			"xPosition": 106,
+			"xTile": 129,
+			"yPosition": 49,
 			"yTile": 128
 		}
 	],
@@ -295,11 +295,11 @@
 	],
 	"13112406": [
 		{
-			"description": "Bank Upstairs and Depot Downstairs",
-			"icon": "$",
-			"xPosition": 90,
+			"description": "Temple Upstairs",
+			"icon": "cross",
+			"xPosition": 76,
 			"xTile": 131,
-			"yPosition": 150,
+			"yPosition": 155,
 			"yTile": 124
 		},
 		{
@@ -311,19 +311,19 @@
 			"yTile": 124
 		},
 		{
+			"description": "Bank Upstairs and Depot Downstairs",
+			"icon": "$",
+			"xPosition": 90,
+			"xTile": 131,
+			"yPosition": 150,
+			"yTile": 124
+		},
+		{
 			"description": "Magistrate",
 			"icon": "up",
 			"xPosition": 101,
 			"xTile": 131,
 			"yPosition": 145,
-			"yTile": 124
-		},
-		{
-			"description": "Temple Upstairs",
-			"icon": "cross",
-			"xPosition": 76,
-			"xTile": 131,
-			"yPosition": 155,
 			"yTile": 124
 		},
 		{

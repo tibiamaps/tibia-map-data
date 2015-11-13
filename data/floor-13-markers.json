@@ -11,11 +11,11 @@
 	],
 	"12612313": [
 		{
-			"description": "4. To Demona",
-			"icon": "red up",
-			"xPosition": 224,
+			"description": "Way out",
+			"icon": "flag",
+			"xPosition": 139,
 			"xTile": 126,
-			"yPosition": 158,
+			"yPosition": 120,
 			"yTile": 123
 		},
 		{
@@ -27,11 +27,11 @@
 			"yTile": 123
 		},
 		{
-			"description": "Way out",
-			"icon": "flag",
-			"xPosition": 139,
+			"description": "4. To Demona",
+			"icon": "red up",
+			"xPosition": 224,
 			"xTile": 126,
-			"yPosition": 120,
+			"yPosition": 158,
 			"yTile": 123
 		}
 	],
@@ -87,62 +87,6 @@
 	],
 	"12812413": [
 		{
-			"description": "Red Crystal",
-			"icon": "checkmark",
-			"xPosition": 227,
-			"xTile": 128,
-			"yPosition": 43,
-			"yTile": 124
-		},
-		{
-			"description": "Red Crystal",
-			"icon": "checkmark",
-			"xPosition": 233,
-			"xTile": 128,
-			"yPosition": 80,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 123,
-			"xTile": 128,
-			"yPosition": 149,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 111,
-			"xTile": 128,
-			"yPosition": 150,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 103,
-			"xTile": 128,
-			"yPosition": 158,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 99,
-			"xTile": 128,
-			"yPosition": 138,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 89,
-			"xTile": 128,
-			"yPosition": 166,
-			"yTile": 124
-		},
-		{
 			"description": "",
 			"icon": "checkmark",
 			"xPosition": 75,
@@ -173,15 +117,71 @@
 			"xTile": 128,
 			"yPosition": 141,
 			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 89,
+			"xTile": 128,
+			"yPosition": 166,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 99,
+			"xTile": 128,
+			"yPosition": 138,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 103,
+			"xTile": 128,
+			"yPosition": 158,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 111,
+			"xTile": 128,
+			"yPosition": 150,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 123,
+			"xTile": 128,
+			"yPosition": 149,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 227,
+			"xTile": 128,
+			"yPosition": 43,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 233,
+			"xTile": 128,
+			"yPosition": 80,
+			"yTile": 124
 		}
 	],
 	"12812613": [
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 202,
+			"xPosition": 184,
 			"xTile": 128,
-			"yPosition": 132,
+			"yPosition": 129,
 			"yTile": 126
 		},
 		{
@@ -195,9 +195,9 @@
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 184,
+			"xPosition": 202,
 			"xTile": 128,
-			"yPosition": 129,
+			"yPosition": 132,
 			"yTile": 126
 		}
 	],
@@ -241,9 +241,9 @@
 		{
 			"description": "Elder Wyrms + Wyrms",
 			"icon": "red down",
-			"xPosition": 65,
+			"xPosition": 46,
 			"xTile": 129,
-			"yPosition": 128,
+			"yPosition": 152,
 			"yTile": 126
 		},
 		{
@@ -257,9 +257,9 @@
 		{
 			"description": "Elder Wyrms + Wyrms",
 			"icon": "red down",
-			"xPosition": 46,
+			"xPosition": 65,
 			"xTile": 129,
-			"yPosition": 152,
+			"yPosition": 128,
 			"yTile": 126
 		}
 	],

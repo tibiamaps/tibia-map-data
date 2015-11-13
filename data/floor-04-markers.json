@@ -9,22 +9,6 @@
 			"yTile": 124
 		},
 		{
-			"description": "Mr Morris’ Room",
-			"icon": "!",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 155,
-			"yTile": 124
-		},
-		{
-			"description": "Knight and Paladin Spells",
-			"icon": "star",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 138,
-			"yTile": 124
-		},
-		{
 			"description": "Druid and Sorcerer Spells",
 			"icon": "star",
 			"xPosition": 57,
@@ -41,6 +25,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "Knight and Paladin Spells",
+			"icon": "star",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 138,
+			"yTile": 124
+		},
+		{
+			"description": "Mr Morris’ Room",
+			"icon": "!",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 155,
+			"yTile": 124
+		},
+		{
 			"description": "To the Shops, Temple, and Vocation Gates",
 			"icon": "down",
 			"xPosition": 73,
@@ -52,18 +52,18 @@
 	"12512704": [
 		{
 			"description": "",
-			"icon": "down",
-			"xPosition": 66,
-			"xTile": 125,
-			"yPosition": 111,
-			"yTile": 127
-		},
-		{
-			"description": "",
 			"icon": "up",
 			"xPosition": 61,
 			"xTile": 125,
 			"yPosition": 85,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 66,
+			"xTile": 125,
+			"yPosition": 111,
 			"yTile": 127
 		}
 	],

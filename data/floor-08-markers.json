@@ -40,22 +40,6 @@
 		},
 		{
 			"description": "",
-			"icon": "up",
-			"xPosition": 86,
-			"xTile": 125,
-			"yPosition": 117,
-			"yTile": 121
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 124,
-			"xTile": 125,
-			"yPosition": 18,
-			"yTile": 121
-		},
-		{
-			"description": "",
 			"icon": "flag",
 			"xPosition": 71,
 			"xTile": 125,
@@ -68,6 +52,22 @@
 			"xPosition": 72,
 			"xTile": 125,
 			"yPosition": 26,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 86,
+			"xTile": 125,
+			"yPosition": 117,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 124,
+			"xTile": 125,
+			"yPosition": 18,
 			"yTile": 121
 		}
 	],
@@ -179,31 +179,23 @@
 	],
 	"12712408": [
 		{
-			"description": "Depot and Bank",
-			"icon": "lock",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 166,
-			"yTile": 124
-		},
-		{
 			"description": "To NPC A Dwarven Ghost",
 			"icon": "down",
 			"xPosition": 8,
 			"xTile": 127,
 			"yPosition": 146,
 			"yTile": 124
+		},
+		{
+			"description": "Depot and Bank",
+			"icon": "lock",
+			"xPosition": 145,
+			"xTile": 127,
+			"yPosition": 166,
+			"yTile": 124
 		}
 	],
 	"12712708": [
-		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 144,
-			"xTile": 127,
-			"yPosition": 37,
-			"yTile": 127
-		},
 		{
 			"description": "",
 			"icon": "up",
@@ -211,17 +203,17 @@
 			"xTile": 127,
 			"yPosition": 45,
 			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 144,
+			"xTile": 127,
+			"yPosition": 37,
+			"yTile": 127
 		}
 	],
 	"12812108": [
-		{
-			"description": "Sewer Problem 1",
-			"icon": "crossmark",
-			"xPosition": 55,
-			"xTile": 128,
-			"yPosition": 185,
-			"yTile": 121
-		},
 		{
 			"description": "Sewer Problem 2",
 			"icon": "crossmark",
@@ -236,6 +228,14 @@
 			"xPosition": 28,
 			"xTile": 128,
 			"yPosition": 215,
+			"yTile": 121
+		},
+		{
+			"description": "Sewer Problem 1",
+			"icon": "crossmark",
+			"xPosition": 55,
+			"xTile": 128,
+			"yPosition": 185,
 			"yTile": 121
 		}
 	],
@@ -252,18 +252,18 @@
 	"12812308": [
 		{
 			"description": "",
-			"icon": "down",
-			"xPosition": 181,
-			"xTile": 128,
-			"yPosition": 132,
-			"yTile": 123
-		},
-		{
-			"description": "",
 			"icon": "up",
 			"xPosition": 174,
 			"xTile": 128,
 			"yPosition": 105,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 181,
+			"xTile": 128,
+			"yPosition": 132,
 			"yTile": 123
 		}
 	],
@@ -297,19 +297,19 @@
 	],
 	"12812708": [
 		{
-			"description": "Jar",
-			"icon": "checkmark",
-			"xPosition": 223,
-			"xTile": 128,
-			"yPosition": 209,
-			"yTile": 127
-		},
-		{
 			"description": "",
 			"icon": "red down",
 			"xPosition": 217,
 			"xTile": 128,
 			"yPosition": 243,
+			"yTile": 127
+		},
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 223,
+			"xTile": 128,
+			"yPosition": 209,
 			"yTile": 127
 		}
 	],
@@ -328,6 +328,14 @@
 			"xPosition": 30,
 			"xTile": 129,
 			"yPosition": 213,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 52,
+			"xTile": 129,
+			"yPosition": 168,
 			"yTile": 126
 		},
 		{
@@ -353,14 +361,6 @@
 			"xTile": 129,
 			"yPosition": 24,
 			"yTile": 126
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 52,
-			"xTile": 129,
-			"yPosition": 168,
-			"yTile": 126
 		}
 	],
 	"12912708": [
@@ -375,29 +375,29 @@
 	],
 	"13012208": [
 		{
-			"description": "Strange Machine",
-			"icon": "!",
-			"xPosition": 237,
-			"xTile": 130,
-			"yPosition": 74,
-			"yTile": 122
-		},
-		{
 			"description": "Temple",
 			"icon": "down",
 			"xPosition": 167,
 			"xTile": 130,
 			"yPosition": 84,
 			"yTile": 122
+		},
+		{
+			"description": "Strange Machine",
+			"icon": "!",
+			"xPosition": 237,
+			"xTile": 130,
+			"yPosition": 74,
+			"yTile": 122
 		}
 	],
 	"13012308": [
 		{
-			"description": "Purple Nightshade",
-			"icon": "star",
-			"xPosition": 73,
+			"description": "",
+			"icon": "down",
+			"xPosition": 31,
 			"xTile": 130,
-			"yPosition": 199,
+			"yPosition": 192,
 			"yTile": 123
 		},
 		{
@@ -409,19 +409,11 @@
 			"yTile": 123
 		},
 		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 31,
+			"description": "Purple Nightshade",
+			"icon": "star",
+			"xPosition": 73,
 			"xTile": 130,
-			"yPosition": 192,
-			"yTile": 123
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 243,
-			"xTile": 130,
-			"yPosition": 118,
+			"yPosition": 199,
 			"yTile": 123
 		},
 		{
@@ -431,23 +423,31 @@
 			"xTile": 130,
 			"yPosition": 90,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 243,
+			"xTile": 130,
+			"yPosition": 118,
+			"yTile": 123
 		}
 	],
 	"13112308": [
-		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 194,
-			"xTile": 131,
-			"yPosition": 245,
-			"yTile": 123
-		},
 		{
 			"description": "",
 			"icon": "down",
 			"xPosition": 10,
 			"xTile": 131,
 			"yPosition": 137,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 194,
+			"xTile": 131,
+			"yPosition": 245,
 			"yTile": 123
 		}
 	],

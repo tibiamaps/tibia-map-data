@@ -1,11 +1,11 @@
 {
 	"12512112": [
 		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 229,
+			"description": "Demon spawn",
+			"icon": "!",
+			"xPosition": 95,
 			"xTile": 125,
-			"yPosition": 213,
+			"yPosition": 124,
 			"yTile": 121
 		},
 		{
@@ -19,14 +19,6 @@
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 189,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 121
-		},
-		{
-			"description": "Demon spawn",
-			"icon": "!",
 			"xPosition": 169,
 			"xTile": 125,
 			"yPosition": 103,
@@ -35,9 +27,9 @@
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 227,
+			"xPosition": 189,
 			"xTile": 125,
-			"yPosition": 119,
+			"yPosition": 205,
 			"yTile": 121
 		},
 		{
@@ -51,29 +43,29 @@
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 241,
+			"xPosition": 227,
 			"xTile": 125,
-			"yPosition": 222,
+			"yPosition": 119,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 229,
+			"xTile": 125,
+			"yPosition": 213,
 			"yTile": 121
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 95,
+			"xPosition": 241,
 			"xTile": 125,
-			"yPosition": 124,
+			"yPosition": 222,
 			"yTile": 121
 		}
 	],
 	"12512712": [
-		{
-			"description": "Crustacea Gigantica (spawn location)",
-			"icon": "star",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 226,
-			"yTile": 127
-		},
 		{
 			"description": "Mailbox (floor below)",
 			"icon": "flag",
@@ -81,47 +73,31 @@
 			"xTile": 125,
 			"yPosition": 224,
 			"yTile": 127
+		},
+		{
+			"description": "Crustacea Gigantica (spawn location)",
+			"icon": "star",
+			"xPosition": 98,
+			"xTile": 125,
+			"yPosition": 226,
+			"yTile": 127
 		}
 	],
 	"12612312": [
+		{
+			"description": "To Monks",
+			"icon": "crossmark",
+			"xPosition": 139,
+			"xTile": 126,
+			"yPosition": 120,
+			"yTile": 123
+		},
 		{
 			"description": "4. To Surface",
 			"icon": "up",
 			"xPosition": 153,
 			"xTile": 126,
 			"yPosition": 134,
-			"yTile": 123
-		},
-		{
-			"description": "6. To Surface",
-			"icon": "up",
-			"xPosition": 176,
-			"xTile": 126,
-			"yPosition": 173,
-			"yTile": 123
-		},
-		{
-			"description": "8. To Surface",
-			"icon": "up",
-			"xPosition": 220,
-			"xTile": 126,
-			"yPosition": 188,
-			"yTile": 123
-		},
-		{
-			"description": "5. To Demona",
-			"icon": "red down",
-			"xPosition": 214,
-			"xTile": 126,
-			"yPosition": 181,
-			"yTile": 123
-		},
-		{
-			"description": "8. To Demona",
-			"icon": "red up",
-			"xPosition": 162,
-			"xTile": 126,
-			"yPosition": 211,
 			"yTile": 123
 		},
 		{
@@ -133,11 +109,19 @@
 			"yTile": 123
 		},
 		{
-			"description": "To Monks",
-			"icon": "crossmark",
-			"xPosition": 139,
+			"description": "8. To Demona",
+			"icon": "red up",
+			"xPosition": 162,
 			"xTile": 126,
-			"yPosition": 120,
+			"yPosition": 211,
+			"yTile": 123
+		},
+		{
+			"description": "6. To Surface",
+			"icon": "up",
+			"xPosition": 176,
+			"xTile": 126,
+			"yPosition": 173,
 			"yTile": 123
 		},
 		{
@@ -147,9 +131,33 @@
 			"xTile": 126,
 			"yPosition": 138,
 			"yTile": 123
+		},
+		{
+			"description": "5. To Demona",
+			"icon": "red down",
+			"xPosition": 214,
+			"xTile": 126,
+			"yPosition": 181,
+			"yTile": 123
+		},
+		{
+			"description": "8. To Surface",
+			"icon": "up",
+			"xPosition": 220,
+			"xTile": 126,
+			"yPosition": 188,
+			"yTile": 123
 		}
 	],
 	"12612412": [
+		{
+			"description": "Hidden Pick Hole",
+			"icon": "red down",
+			"xPosition": 10,
+			"xTile": 126,
+			"yPosition": 148,
+			"yTile": 124
+		},
 		{
 			"description": "<Hidden Pick Hole>",
 			"icon": "red down",
@@ -169,9 +177,9 @@
 		{
 			"description": "Dwarven Pickaxe (Daily Spawn)",
 			"icon": "bag",
-			"xPosition": 251,
+			"xPosition": 171,
 			"xTile": 126,
-			"yPosition": 219,
+			"yPosition": 205,
 			"yTile": 124
 		},
 		{
@@ -185,17 +193,9 @@
 		{
 			"description": "Dwarven Pickaxe (Daily Spawn)",
 			"icon": "bag",
-			"xPosition": 171,
+			"xPosition": 251,
 			"xTile": 126,
-			"yPosition": 205,
-			"yTile": 124
-		},
-		{
-			"description": "Hidden Pick Hole",
-			"icon": "red down",
-			"xPosition": 10,
-			"xTile": 126,
-			"yPosition": 148,
+			"yPosition": 219,
 			"yTile": 124
 		}
 	],
@@ -211,14 +211,6 @@
 	],
 	"12712312": [
 		{
-			"description": "Portal out of Hellgate",
-			"icon": "up",
-			"xPosition": 108,
-			"xTile": 127,
-			"yPosition": 213,
-			"yTile": 123
-		},
-		{
 			"description": "6. To Demona",
 			"icon": "red up",
 			"xPosition": 13,
@@ -232,6 +224,14 @@
 			"xPosition": 67,
 			"xTile": 127,
 			"yPosition": 79,
+			"yTile": 123
+		},
+		{
+			"description": "Portal out of Hellgate",
+			"icon": "up",
+			"xPosition": 108,
+			"xTile": 127,
+			"yPosition": 213,
 			"yTile": 123
 		}
 	],
@@ -267,19 +267,19 @@
 	],
 	"12812712": [
 		{
-			"description": "Jar",
-			"icon": "checkmark",
-			"xPosition": 211,
-			"xTile": 128,
-			"yPosition": 226,
-			"yTile": 127
-		},
-		{
 			"description": "",
 			"icon": "red up",
 			"xPosition": 201,
 			"xTile": 128,
 			"yPosition": 243,
+			"yTile": 127
+		},
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 211,
+			"xTile": 128,
+			"yPosition": 226,
 			"yTile": 127
 		}
 	],
@@ -287,17 +287,9 @@
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 82,
+			"xPosition": 19,
 			"xTile": 129,
-			"yPosition": 45,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 80,
-			"xTile": 129,
-			"yPosition": 15,
+			"yPosition": 10,
 			"yTile": 124
 		},
 		{
@@ -311,9 +303,17 @@
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 19,
+			"xPosition": 80,
 			"xTile": 129,
-			"yPosition": 10,
+			"yPosition": 15,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 82,
+			"xTile": 129,
+			"yPosition": 45,
 			"yTile": 124
 		}
 	]

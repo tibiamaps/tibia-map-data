@@ -46,18 +46,18 @@
 	"12512703": [
 		{
 			"description": "",
-			"icon": "up",
-			"xPosition": 77,
-			"xTile": 125,
-			"yPosition": 94,
-			"yTile": 127
-		},
-		{
-			"description": "",
 			"icon": "down",
 			"xPosition": 60,
 			"xTile": 125,
 			"yPosition": 84,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 77,
+			"xTile": 125,
+			"yPosition": 94,
 			"yTile": 127
 		}
 	],
@@ -65,17 +65,17 @@
 		{
 			"description": "Insectoid Monolith",
 			"icon": "star",
-			"xPosition": 73,
+			"xPosition": 37,
 			"xTile": 131,
-			"yPosition": 247,
+			"yPosition": 241,
 			"yTile": 121
 		},
 		{
 			"description": "Insectoid Monolith",
 			"icon": "star",
-			"xPosition": 37,
+			"xPosition": 73,
 			"xTile": 131,
-			"yPosition": 241,
+			"yPosition": 247,
 			"yTile": 121
 		}
 	],

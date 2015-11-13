@@ -39,14 +39,6 @@
 	],
 	"12512809": [
 		{
-			"description": "Crustacea Gigantica (spawn location)",
-			"icon": "star",
-			"xPosition": 182,
-			"xTile": 125,
-			"yPosition": 167,
-			"yTile": 128
-		},
-		{
 			"description": "Portal (Red Gem)",
 			"icon": "down",
 			"xPosition": 9,
@@ -60,6 +52,14 @@
 			"xPosition": 78,
 			"xTile": 125,
 			"yPosition": 105,
+			"yTile": 128
+		},
+		{
+			"description": "Crustacea Gigantica (spawn location)",
+			"icon": "star",
+			"xPosition": 182,
+			"xTile": 125,
+			"yPosition": 167,
 			"yTile": 128
 		}
 	],
@@ -115,37 +115,37 @@
 	],
 	"12712409": [
 		{
-			"description": "Offline Training",
-			"icon": "sword",
-			"xPosition": 98,
-			"xTile": 127,
-			"yPosition": 202,
-			"yTile": 124
-		},
-		{
 			"description": "Dwarven Pickaxe (Daily Spawn)",
 			"icon": "bag",
 			"xPosition": 39,
 			"xTile": 127,
 			"yPosition": 206,
 			"yTile": 124
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 98,
+			"xTile": 127,
+			"yPosition": 202,
+			"yTile": 124
 		}
 	],
 	"12712509": [
-		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 159,
-			"xTile": 127,
-			"yPosition": 99,
-			"yTile": 125
-		},
 		{
 			"description": "",
 			"icon": "red down",
 			"xPosition": 83,
 			"xTile": 127,
 			"yPosition": 68,
+			"yTile": 125
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 159,
+			"xTile": 127,
+			"yPosition": 99,
 			"yTile": 125
 		}
 	],
@@ -171,31 +171,23 @@
 	],
 	"12812309": [
 		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 181,
-			"xTile": 128,
-			"yPosition": 132,
-			"yTile": 123
-		},
-		{
 			"description": "Thais",
 			"icon": "?",
 			"xPosition": 37,
 			"xTile": 128,
 			"yPosition": 255,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 181,
+			"xTile": 128,
+			"yPosition": 132,
+			"yTile": 123
 		}
 	],
 	"12812409": [
-		{
-			"description": "",
-			"icon": "down",
-			"xPosition": 33,
-			"xTile": 128,
-			"yPosition": 24,
-			"yTile": 124
-		},
 		{
 			"description": "Liberty Bay",
 			"icon": "?",
@@ -213,6 +205,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 33,
+			"xTile": 128,
+			"yPosition": 24,
+			"yTile": 124
+		},
+		{
+			"description": "Kazordoon",
+			"icon": "?",
+			"xPosition": 35,
+			"xTile": 128,
+			"yPosition": 54,
+			"yTile": 124
+		},
+		{
 			"description": "Darashia",
 			"icon": "?",
 			"xPosition": 59,
@@ -227,29 +235,21 @@
 			"xTile": 128,
 			"yPosition": 53,
 			"yTile": 124
-		},
-		{
-			"description": "Kazordoon",
-			"icon": "?",
-			"xPosition": 35,
-			"xTile": 128,
-			"yPosition": 54,
-			"yTile": 124
 		}
 	],
 	"12812709": [
 		{
 			"description": "",
-			"icon": "red up",
-			"xPosition": 217,
+			"icon": "red down",
+			"xPosition": 180,
 			"xTile": 128,
 			"yPosition": 243,
 			"yTile": 127
 		},
 		{
 			"description": "",
-			"icon": "red down",
-			"xPosition": 180,
+			"icon": "red up",
+			"xPosition": 217,
 			"xTile": 128,
 			"yPosition": 243,
 			"yTile": 127
@@ -267,19 +267,19 @@
 	],
 	"12912509": [
 		{
-			"description": "Old Amphora",
-			"icon": "crossmark",
-			"xPosition": 95,
-			"xTile": 129,
-			"yPosition": 248,
-			"yTile": 125
-		},
-		{
 			"description": "Snake Inscription",
 			"icon": "crossmark",
 			"xPosition": 71,
 			"xTile": 129,
 			"yPosition": 243,
+			"yTile": 125
+		},
+		{
+			"description": "Old Amphora",
+			"icon": "crossmark",
+			"xPosition": 95,
+			"xTile": 129,
+			"yPosition": 248,
 			"yTile": 125
 		}
 	],
@@ -301,14 +301,6 @@
 			"yTile": 126
 		},
 		{
-			"description": "Dusty Amphora",
-			"icon": "crossmark",
-			"xPosition": 124,
-			"xTile": 129,
-			"yPosition": 75,
-			"yTile": 126
-		},
-		{
 			"description": "Hyaena Statue",
 			"icon": "crossmark",
 			"xPosition": 103,
@@ -323,9 +315,25 @@
 			"xTile": 129,
 			"yPosition": 46,
 			"yTile": 126
+		},
+		{
+			"description": "Dusty Amphora",
+			"icon": "crossmark",
+			"xPosition": 124,
+			"xTile": 129,
+			"yPosition": 75,
+			"yTile": 126
 		}
 	],
 	"13012309": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 31,
+			"xTile": 130,
+			"yPosition": 191,
+			"yTile": 123
+		},
 		{
 			"description": "Purple Nightshade",
 			"icon": "star",
@@ -340,14 +348,6 @@
 			"xPosition": 104,
 			"xTile": 130,
 			"yPosition": 147,
-			"yTile": 123
-		},
-		{
-			"description": "To exit",
-			"icon": "up",
-			"xPosition": 31,
-			"xTile": 130,
-			"yPosition": 191,
 			"yTile": 123
 		},
 		{
@@ -371,6 +371,14 @@
 		{
 			"description": "Mad Mage (spawn location)",
 			"icon": "star",
+			"xPosition": 48,
+			"xTile": 130,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Mad Mage (spawn location)",
+			"icon": "star",
 			"xPosition": 68,
 			"xTile": 130,
 			"yPosition": 154,
@@ -382,14 +390,6 @@
 			"xPosition": 84,
 			"xTile": 130,
 			"yPosition": 129,
-			"yTile": 124
-		},
-		{
-			"description": "Mad Mage (spawn location)",
-			"icon": "star",
-			"xPosition": 48,
-			"xTile": 130,
-			"yPosition": 117,
 			"yTile": 124
 		},
 		{
@@ -413,6 +413,14 @@
 	],
 	"13112409": [
 		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 10,
+			"xTile": 131,
+			"yPosition": 230,
+			"yTile": 124
+		},
+		{
 			"description": "Sewer warden",
 			"icon": "!",
 			"xPosition": 35,
@@ -422,10 +430,10 @@
 		},
 		{
 			"description": "",
-			"icon": "checkmark",
-			"xPosition": 10,
+			"icon": "up",
+			"xPosition": 71,
 			"xTile": 131,
-			"yPosition": 230,
+			"yPosition": 41,
 			"yTile": 124
 		},
 		{
@@ -434,14 +442,6 @@
 			"xPosition": 90,
 			"xTile": 131,
 			"yPosition": 3,
-			"yTile": 124
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 71,
-			"xTile": 131,
-			"yPosition": 41,
 			"yTile": 124
 		},
 		{

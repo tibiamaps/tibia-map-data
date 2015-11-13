@@ -49,11 +49,11 @@
 			"yTile": 123
 		},
 		{
-			"description": "1. To Surface",
-			"icon": "down",
-			"xPosition": 251,
+			"description": "To monks",
+			"icon": "crossmark",
+			"xPosition": 212,
 			"xTile": 126,
-			"yPosition": 205,
+			"yPosition": 147,
 			"yTile": 123
 		},
 		{
@@ -65,14 +65,6 @@
 			"yTile": 123
 		},
 		{
-			"description": "1. To Demona",
-			"icon": "red down",
-			"xPosition": 238,
-			"xTile": 126,
-			"yPosition": 149,
-			"yTile": 123
-		},
-		{
 			"description": "12. To Demona",
 			"icon": "red down",
 			"xPosition": 230,
@@ -81,23 +73,23 @@
 			"yTile": 123
 		},
 		{
-			"description": "To monks",
-			"icon": "crossmark",
-			"xPosition": 212,
+			"description": "1. To Demona",
+			"icon": "red down",
+			"xPosition": 238,
 			"xTile": 126,
-			"yPosition": 147,
+			"yPosition": 149,
+			"yTile": 123
+		},
+		{
+			"description": "1. To Surface",
+			"icon": "down",
+			"xPosition": 251,
+			"xTile": 126,
+			"yPosition": 205,
 			"yTile": 123
 		}
 	],
 	"12612410": [
-		{
-			"description": "Dragons and Dragon Lords",
-			"icon": "red down",
-			"xPosition": 222,
-			"xTile": 126,
-			"yPosition": 114,
-			"yTile": 124
-		},
 		{
 			"description": "Dwarven Pickaxe (Daily Spawn)",
 			"icon": "bag",
@@ -112,6 +104,14 @@
 			"xPosition": 220,
 			"xTile": 126,
 			"yPosition": 161,
+			"yTile": 124
+		},
+		{
+			"description": "Dragons and Dragon Lords",
+			"icon": "red down",
+			"xPosition": 222,
+			"xTile": 126,
+			"yPosition": 114,
 			"yTile": 124
 		}
 	],
@@ -213,37 +213,29 @@
 			"yTile": 124
 		},
 		{
-			"description": "Commander Stone",
-			"icon": "cross",
-			"xPosition": 36,
-			"xTile": 128,
-			"yPosition": 53,
-			"yTile": 124
-		},
-		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 33,
 			"xTile": 128,
 			"yPosition": 24,
 			"yTile": 124
+		},
+		{
+			"description": "Commander Stone",
+			"icon": "cross",
+			"xPosition": 36,
+			"xTile": 128,
+			"yPosition": 53,
+			"yTile": 124
 		}
 	],
 	"12812610": [
 		{
-			"description": "Star Room",
-			"icon": "red down",
-			"xPosition": 229,
+			"description": "Blood Priest (Tomruk the Ruddy)",
+			"icon": "down",
+			"xPosition": 200,
 			"xTile": 128,
-			"yPosition": 141,
-			"yTile": 126
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 235,
-			"xTile": 128,
-			"yPosition": 156,
+			"yPosition": 153,
 			"yTile": 126
 		},
 		{
@@ -263,19 +255,27 @@
 			"yTile": 126
 		},
 		{
-			"description": "Blood Priest (Tomruk the Ruddy)",
-			"icon": "down",
-			"xPosition": 200,
-			"xTile": 128,
-			"yPosition": 153,
-			"yTile": 126
-		},
-		{
 			"description": "To Vampire Crypts",
 			"icon": "down",
 			"xPosition": 227,
 			"xTile": 128,
 			"yPosition": 193,
+			"yTile": 126
+		},
+		{
+			"description": "Star Room",
+			"icon": "red down",
+			"xPosition": 229,
+			"xTile": 128,
+			"yPosition": 141,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 235,
+			"xTile": 128,
+			"yPosition": 156,
 			"yTile": 126
 		}
 	],
@@ -291,19 +291,19 @@
 	],
 	"12812810": [
 		{
-			"description": "Jar",
-			"icon": "checkmark",
-			"xPosition": 216,
-			"xTile": 128,
-			"yPosition": 4,
-			"yTile": 128
-		},
-		{
 			"description": "",
 			"icon": "red down",
 			"xPosition": 192,
 			"xTile": 128,
 			"yPosition": 8,
+			"yTile": 128
+		},
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 216,
+			"xTile": 128,
+			"yPosition": 4,
 			"yTile": 128
 		}
 	],
@@ -317,6 +317,14 @@
 			"yTile": 126
 		},
 		{
+			"description": "Necromancer’s Pure Blood Chambers",
+			"icon": "crossmark",
+			"xPosition": 14,
+			"xTile": 129,
+			"yPosition": 184,
+			"yTile": 126
+		},
+		{
 			"description": "Zarifan",
 			"icon": "down",
 			"xPosition": 19,
@@ -325,11 +333,11 @@
 			"yTile": 126
 		},
 		{
-			"description": "Necromancer’s Pure Blood Chambers",
-			"icon": "crossmark",
-			"xPosition": 14,
+			"description": "Strange shrine",
+			"icon": "checkmark",
+			"xPosition": 34,
 			"xTile": 129,
-			"yPosition": 184,
+			"yPosition": 87,
 			"yTile": 126
 		},
 		{
@@ -359,9 +367,9 @@
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 64,
+			"xPosition": 49,
 			"xTile": 129,
-			"yPosition": 82,
+			"yPosition": 77,
 			"yTile": 126
 		},
 		{
@@ -383,17 +391,9 @@
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 49,
+			"xPosition": 64,
 			"xTile": 129,
-			"yPosition": 77,
-			"yTile": 126
-		},
-		{
-			"description": "Strange shrine",
-			"icon": "checkmark",
-			"xPosition": 34,
-			"xTile": 129,
-			"yPosition": 87,
+			"yPosition": 82,
 			"yTile": 126
 		}
 	],
@@ -417,19 +417,19 @@
 			"yTile": 124
 		},
 		{
-			"description": "",
-			"icon": "up",
-			"xPosition": 95,
-			"xTile": 131,
-			"yPosition": 18,
-			"yTile": 124
-		},
-		{
 			"description": "To exit",
 			"icon": "up",
 			"xPosition": 90,
 			"xTile": 131,
 			"yPosition": 3,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 95,
+			"xTile": 131,
+			"yPosition": 18,
 			"yTile": 124
 		}
 	]

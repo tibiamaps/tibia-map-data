@@ -3,6 +3,14 @@
 		{
 			"description": "",
 			"icon": "crossmark",
+			"xPosition": 119,
+			"xTile": 125,
+			"yPosition": 17,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
 			"xPosition": 138,
 			"xTile": 125,
 			"yPosition": 136,
@@ -22,14 +30,6 @@
 			"xPosition": 210,
 			"xTile": 125,
 			"yPosition": 52,
-			"yTile": 121
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 119,
-			"xTile": 125,
-			"yPosition": 17,
 			"yTile": 121
 		}
 	],
@@ -63,19 +63,19 @@
 			"yTile": 124
 		},
 		{
-			"description": "High Class Dwarves",
-			"icon": "red down",
-			"xPosition": 222,
-			"xTile": 126,
-			"yPosition": 229,
-			"yTile": 124
-		},
-		{
 			"description": "Lost Dwarves",
 			"icon": "red down",
 			"xPosition": 207,
 			"xTile": 126,
 			"yPosition": 243,
+			"yTile": 124
+		},
+		{
+			"description": "High Class Dwarves",
+			"icon": "red down",
+			"xPosition": 222,
+			"xTile": 126,
+			"yPosition": 229,
 			"yTile": 124
 		}
 	],
@@ -137,14 +137,6 @@
 		{
 			"description": "Drillworms",
 			"icon": "red down",
-			"xPosition": 168,
-			"xTile": 127,
-			"yPosition": 61,
-			"yTile": 125
-		},
-		{
-			"description": "Drillworms",
-			"icon": "red down",
 			"xPosition": 58,
 			"xTile": 127,
 			"yPosition": 48,
@@ -156,6 +148,14 @@
 			"xPosition": 66,
 			"xTile": 127,
 			"yPosition": 179,
+			"yTile": 125
+		},
+		{
+			"description": "Drillworms",
+			"icon": "red down",
+			"xPosition": 168,
+			"xTile": 127,
+			"yPosition": 61,
 			"yTile": 125
 		}
 	],
@@ -189,9 +189,57 @@
 		{
 			"description": "",
 			"icon": "flag",
+			"xPosition": 24,
+			"xTile": 129,
+			"yPosition": 173,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 42,
+			"xTile": 129,
+			"yPosition": 159,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 67,
+			"xTile": 129,
+			"yPosition": 94,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 71,
+			"xTile": 129,
+			"yPosition": 147,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
 			"xPosition": 73,
 			"xTile": 129,
 			"yPosition": 198,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 78,
+			"xTile": 129,
+			"yPosition": 123,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 80,
+			"xTile": 129,
+			"yPosition": 175,
 			"yTile": 128
 		},
 		{
@@ -205,9 +253,9 @@
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 106,
+			"xPosition": 99,
 			"xTile": 129,
-			"yPosition": 176,
+			"yPosition": 94,
 			"yTile": 128
 		},
 		{
@@ -229,17 +277,9 @@
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 127,
+			"xPosition": 106,
 			"xTile": 129,
-			"yPosition": 199,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 123,
-			"xTile": 129,
-			"yPosition": 234,
+			"yPosition": 176,
 			"yTile": 128
 		},
 		{
@@ -253,57 +293,17 @@
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 99,
+			"xPosition": 123,
 			"xTile": 129,
-			"yPosition": 94,
+			"yPosition": 234,
 			"yTile": 128
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 67,
+			"xPosition": 127,
 			"xTile": 129,
-			"yPosition": 94,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 78,
-			"xTile": 129,
-			"yPosition": 123,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 71,
-			"xTile": 129,
-			"yPosition": 147,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 42,
-			"xTile": 129,
-			"yPosition": 159,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 24,
-			"xTile": 129,
-			"yPosition": 173,
-			"yTile": 128
-		},
-		{
-			"description": "",
-			"icon": "flag",
-			"xPosition": 80,
-			"xTile": 129,
-			"yPosition": 175,
+			"yPosition": 199,
 			"yTile": 128
 		}
 	],
@@ -319,6 +319,14 @@
 	],
 	"13012214": [
 		{
+			"description": "Teleport to Gray Beach",
+			"icon": "star",
+			"xPosition": 160,
+			"xTile": 130,
+			"yPosition": 50,
+			"yTile": 122
+		},
+		{
 			"description": "",
 			"icon": "crossmark",
 			"xPosition": 250,
@@ -332,14 +340,6 @@
 			"xPosition": 255,
 			"xTile": 130,
 			"yPosition": 22,
-			"yTile": 122
-		},
-		{
-			"description": "Teleport to Gray Beach",
-			"icon": "star",
-			"xPosition": 160,
-			"xTile": 130,
-			"yPosition": 50,
 			"yTile": 122
 		}
 	],
@@ -385,7 +385,7 @@
 			"icon": "crossmark",
 			"xPosition": 24,
 			"xTile": 131,
-			"yPosition": 253,
+			"yPosition": 244,
 			"yTile": 121
 		},
 		{
@@ -393,15 +393,7 @@
 			"icon": "crossmark",
 			"xPosition": 24,
 			"xTile": 131,
-			"yPosition": 244,
-			"yTile": 121
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 34,
-			"xTile": 131,
-			"yPosition": 240,
+			"yPosition": 253,
 			"yTile": 121
 		},
 		{
@@ -411,9 +403,33 @@
 			"xTile": 131,
 			"yPosition": 232,
 			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 34,
+			"xTile": 131,
+			"yPosition": 240,
+			"yTile": 121
 		}
 	],
 	"13112214": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 0,
+			"xTile": 131,
+			"yPosition": 5,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 1,
+			"xTile": 131,
+			"yPosition": 28,
+			"yTile": 122
+		},
 		{
 			"description": "",
 			"icon": "crossmark",
@@ -425,9 +441,33 @@
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 0,
+			"xPosition": 8,
 			"xTile": 131,
 			"yPosition": 5,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 16,
+			"xTile": 131,
+			"yPosition": 36,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 17,
+			"xTile": 131,
+			"yPosition": 62,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 19,
+			"xTile": 131,
+			"yPosition": 66,
 			"yTile": 122
 		},
 		{
@@ -449,6 +489,22 @@
 		{
 			"description": "",
 			"icon": "crossmark",
+			"xPosition": 22,
+			"xTile": 131,
+			"yPosition": 50,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 31,
+			"xTile": 131,
+			"yPosition": 63,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
 			"xPosition": 38,
 			"xTile": 131,
 			"yPosition": 9,
@@ -465,14 +521,6 @@
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 43,
-			"xTile": 131,
-			"yPosition": 26,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
 			"xPosition": 42,
 			"xTile": 131,
 			"yPosition": 44,
@@ -481,65 +529,17 @@
 		{
 			"description": "",
 			"icon": "crossmark",
+			"xPosition": 43,
+			"xTile": 131,
+			"yPosition": 26,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
 			"xPosition": 44,
 			"xTile": 131,
 			"yPosition": 66,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 31,
-			"xTile": 131,
-			"yPosition": 63,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 19,
-			"xTile": 131,
-			"yPosition": 66,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 17,
-			"xTile": 131,
-			"yPosition": 62,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 22,
-			"xTile": 131,
-			"yPosition": 50,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 16,
-			"xTile": 131,
-			"yPosition": 36,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 1,
-			"xTile": 131,
-			"yPosition": 28,
-			"yTile": 122
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"xPosition": 8,
-			"xTile": 131,
-			"yPosition": 5,
 			"yTile": 122
 		}
 	],
@@ -587,17 +587,17 @@
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 157,
+			"xPosition": 138,
 			"xTile": 131,
-			"yPosition": 186,
+			"yPosition": 244,
 			"yTile": 124
 		},
 		{
-			"description": "Boss TP",
-			"icon": "flag",
-			"xPosition": 190,
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 157,
 			"xTile": 131,
-			"yPosition": 209,
+			"yPosition": 186,
 			"yTile": 124
 		},
 		{
@@ -609,11 +609,11 @@
 			"yTile": 124
 		},
 		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 138,
+			"description": "Boss TP",
+			"icon": "flag",
+			"xPosition": 190,
 			"xTile": 131,
-			"yPosition": 244,
+			"yPosition": 209,
 			"yTile": 124
 		}
 	]
