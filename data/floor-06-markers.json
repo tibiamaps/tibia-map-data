@@ -295,6 +295,14 @@
 	],
 	"13112406": [
 		{
+			"description": "PvP Arena",
+			"icon": "skull",
+			"xPosition": 66,
+			"xTile": 131,
+			"yPosition": 144,
+			"yTile": 124
+		},
+		{
 			"description": "Temple Upstairs",
 			"icon": "cross",
 			"xPosition": 76,
