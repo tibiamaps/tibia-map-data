@@ -327,6 +327,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 99,
+			"xTile": 131,
+			"yPosition": 199,
+			"yTile": 124
+		},
+		{
 			"description": "Magistrate",
 			"icon": "up",
 			"xPosition": 101,

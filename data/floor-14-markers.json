@@ -343,6 +343,24 @@
 			"yTile": 122
 		}
 	],
+	"13012314": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 139,
+			"xTile": 130,
+			"yPosition": 176,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 169,
+			"xTile": 130,
+			"yPosition": 143,
+			"yTile": 123
+		}
+	],
 	"13012414": [
 		{
 			"description": "Levitate spot",

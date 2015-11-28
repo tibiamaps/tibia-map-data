@@ -407,6 +407,16 @@
 			"yTile": 123
 		}
 	],
+	"13012710": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 50,
+			"xTile": 130,
+			"yPosition": 84,
+			"yTile": 127
+		}
+	],
 	"13112410": [
 		{
 			"description": "Abandoned Sewers",

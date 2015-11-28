@@ -401,6 +401,24 @@
 			"yTile": 124
 		}
 	],
+	"13012709": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 16,
+			"xTile": 130,
+			"yPosition": 75,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 50,
+			"xTile": 130,
+			"yPosition": 84,
+			"yTile": 127
+		}
+	],
 	"13112309": [
 		{
 			"description": "",
@@ -434,6 +452,14 @@
 			"xPosition": 71,
 			"xTile": 131,
 			"yPosition": 41,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 74,
+			"xTile": 131,
+			"yPosition": 235,
 			"yTile": 124
 		},
 		{

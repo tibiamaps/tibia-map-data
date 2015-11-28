@@ -75,6 +75,14 @@
 			"xTile": 128,
 			"yPosition": 51,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 253,
+			"xTile": 128,
+			"yPosition": 48,
+			"yTile": 123
 		}
 	],
 	"12912804": [

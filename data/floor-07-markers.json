@@ -2653,6 +2653,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Combinatorics task",
+			"icon": "down",
+			"xPosition": 74,
+			"xTile": 131,
+			"yPosition": 235,
+			"yTile": 124
+		},
+		{
 			"description": "To City (Rathleton)",
 			"icon": "up",
 			"xPosition": 100,

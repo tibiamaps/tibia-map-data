@@ -105,6 +105,14 @@
 	],
 	"13012315": [
 		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 145,
+			"xTile": 130,
+			"yPosition": 166,
+			"yTile": 123
+		},
+		{
 			"description": "Seaman’s Skull",
 			"icon": "crossmark",
 			"xPosition": 165,
