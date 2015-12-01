@@ -316,5 +316,137 @@
 			"yPosition": 45,
 			"yTile": 124
 		}
+	],
+	"13112412": [
+		{
+			"description": "Slide back to town",
+			"icon": "checkmark",
+			"xPosition": 22,
+			"xTile": 131,
+			"yPosition": 226,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Georgia Rainbird",
+			"icon": "mouth",
+			"xPosition": 48,
+			"xTile": 131,
+			"yPosition": 158,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Elbert",
+			"icon": "mouth",
+			"xPosition": 50,
+			"xTile": 131,
+			"yPosition": 242,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Wesley",
+			"icon": "mouth",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 155,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 100,
+			"xTile": 131,
+			"yPosition": 180,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 102,
+			"xTile": 131,
+			"yPosition": 164,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 108,
+			"xTile": 131,
+			"yPosition": 109,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 108,
+			"xTile": 131,
+			"yPosition": 118,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 114,
+			"xTile": 131,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 117,
+			"xTile": 131,
+			"yPosition": 124,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 120,
+			"xTile": 131,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 124,
+			"xTile": 131,
+			"yPosition": 108,
+			"yTile": 124
+		},
+		{
+			"description": "Irrigation Funnel",
+			"icon": "star",
+			"xPosition": 125,
+			"xTile": 131,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Crimson Crest Mushroom",
+			"icon": "star",
+			"xPosition": 149,
+			"xTile": 131,
+			"yPosition": 138,
+			"yTile": 124
+		}
+	],
+	"13112512": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 90,
+			"xTile": 131,
+			"yPosition": 20,
+			"yTile": 125
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 115,
+			"xTile": 131,
+			"yPosition": 15,
+			"yTile": 125
+		}
 	]
 }

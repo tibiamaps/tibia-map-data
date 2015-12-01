@@ -7,6 +7,30 @@
 			"xTile": 125,
 			"yPosition": 59,
 			"yTile": 127
+		},
+		{
+			"description": "Undercover Contact",
+			"icon": "crossmark",
+			"xPosition": 131,
+			"xTile": 125,
+			"yPosition": 49,
+			"yTile": 127
+		},
+		{
+			"description": "Gnome Trooper",
+			"icon": "star",
+			"xPosition": 169,
+			"xTile": 125,
+			"yPosition": 137,
+			"yTile": 127
+		},
+		{
+			"description": "Teleport",
+			"icon": "checkmark",
+			"xPosition": 244,
+			"xTile": 125,
+			"yPosition": 107,
+			"yTile": 127
 		}
 	],
 	"12612313": [
@@ -43,6 +67,24 @@
 			"xTile": 126,
 			"yPosition": 215,
 			"yTile": 125
+		}
+	],
+	"12612713": [
+		{
+			"description": "Gnome Trooper",
+			"icon": "star",
+			"xPosition": 69,
+			"xTile": 126,
+			"yPosition": 77,
+			"yTile": 127
+		},
+		{
+			"description": "Undercover Contact",
+			"icon": "crossmark",
+			"xPosition": 85,
+			"xTile": 126,
+			"yPosition": 21,
+			"yTile": 127
 		}
 	],
 	"12712313": [

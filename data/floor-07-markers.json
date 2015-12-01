@@ -2645,11 +2645,27 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 59,
+			"xTile": 131,
+			"yPosition": 208,
+			"yTile": 124
+		},
+		{
 			"description": "Offline Training",
 			"icon": "sword",
 			"xPosition": 66,
 			"xTile": 131,
 			"yPosition": 155,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 69,
+			"xTile": 131,
+			"yPosition": 208,
 			"yTile": 124
 		},
 		{
@@ -2690,6 +2706,14 @@
 			"xPosition": 111,
 			"xTile": 131,
 			"yPosition": 205,
+			"yTile": 124
+		},
+		{
+			"description": "Slide to Glooth Factory",
+			"icon": "checkmark",
+			"xPosition": 115,
+			"xTile": 131,
+			"yPosition": 197,
 			"yTile": 124
 		},
 		{
