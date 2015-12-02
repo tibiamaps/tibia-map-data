@@ -2507,6 +2507,14 @@
 			"xTile": 130,
 			"yPosition": 117,
 			"yTile": 126
+		},
+		{
+			"description": "Overmaw shrines",
+			"icon": "!",
+			"xPosition": 255,
+			"xTile": 130,
+			"yPosition": 213,
+			"yTile": 126
 		}
 	],
 	"13012707": [
@@ -2532,6 +2540,14 @@
 			"xPosition": 35,
 			"xTile": 130,
 			"yPosition": 162,
+			"yTile": 127
+		},
+		{
+			"description": "Mouthpiece supply",
+			"icon": "!",
+			"xPosition": 222,
+			"xTile": 130,
+			"yPosition": 33,
 			"yTile": 127
 		}
 	],
@@ -2815,6 +2831,16 @@
 			"xTile": 131,
 			"yPosition": 217,
 			"yTile": 126
+		}
+	],
+	"13112707": [
+		{
+			"description": "Gravel and chalk deposits",
+			"icon": "!",
+			"xPosition": 16,
+			"xTile": 131,
+			"yPosition": 26,
+			"yTile": 127
 		}
 	]
 }

@@ -243,6 +243,24 @@
 			"yTile": 126
 		}
 	],
+	"12812713": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 15,
+			"xTile": 128,
+			"yPosition": 59,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 15,
+			"xTile": 128,
+			"yPosition": 97,
+			"yTile": 127
+		}
+	],
 	"12912313": [
 		{
 			"description": "Parchment Room Quest <Hidden>",

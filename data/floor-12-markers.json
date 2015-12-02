@@ -268,6 +268,22 @@
 	"12812712": [
 		{
 			"description": "",
+			"icon": "down",
+			"xPosition": 15,
+			"xTile": 128,
+			"yPosition": 59,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 38,
+			"xTile": 128,
+			"yPosition": 124,
+			"yTile": 127
+		},
+		{
+			"description": "",
 			"icon": "red up",
 			"xPosition": 201,
 			"xTile": 128,

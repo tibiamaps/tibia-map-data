@@ -211,6 +211,16 @@
 			"yTile": 125
 		}
 	],
+	"12712714": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 220,
+			"xTile": 127,
+			"yPosition": 130,
+			"yTile": 127
+		}
+	],
 	"12812414": [
 		{
 			"description": "Red Crystal",
@@ -235,6 +245,16 @@
 			"xTile": 128,
 			"yPosition": 55,
 			"yTile": 124
+		}
+	],
+	"12812714": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 15,
+			"xTile": 128,
+			"yPosition": 97,
+			"yTile": 127
 		}
 	],
 	"12912814": [

@@ -181,6 +181,16 @@
 			"yTile": 125
 		}
 	],
+	"12712611": [
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 244,
+			"xTile": 127,
+			"yPosition": 238,
+			"yTile": 126
+		}
+	],
 	"12812411": [
 		{
 			"description": "Spore",
@@ -329,7 +339,81 @@
 			"yTile": 125
 		}
 	],
+	"12812611": [
+		{
+			"description": "Task Boss: Gorgo",
+			"icon": "!",
+			"xPosition": 31,
+			"xTile": 128,
+			"yPosition": 245,
+			"yTile": 126
+		}
+	],
 	"12812711": [
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 7,
+			"xTile": 128,
+			"yPosition": 71,
+			"yTile": 127
+		},
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 31,
+			"xTile": 128,
+			"yPosition": 44,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 38,
+			"xTile": 128,
+			"yPosition": 124,
+			"yTile": 127
+		},
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 40,
+			"xTile": 128,
+			"yPosition": 101,
+			"yTile": 127
+		},
+		{
+			"description": "Task Boss: The Noxious Spawn",
+			"icon": "!",
+			"xPosition": 74,
+			"xTile": 128,
+			"yPosition": 148,
+			"yTile": 127
+		},
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 75,
+			"xTile": 128,
+			"yPosition": 137,
+			"yTile": 127
+		},
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 94,
+			"xTile": 128,
+			"yPosition": 45,
+			"yTile": 127
+		},
+		{
+			"description": "Lever",
+			"icon": "checkmark",
+			"xPosition": 123,
+			"xTile": 128,
+			"yPosition": 78,
+			"yTile": 127
+		},
 		{
 			"description": "Jar",
 			"icon": "checkmark",

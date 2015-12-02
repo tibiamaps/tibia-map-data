@@ -92,5 +92,15 @@
 			"yPosition": 134,
 			"yTile": 124
 		}
+	],
+	"13112705": [
+		{
+			"description": "Silencer plateau",
+			"icon": "!",
+			"xPosition": 104,
+			"xTile": 131,
+			"yPosition": 17,
+			"yTile": 127
+		}
 	]
 }
