@@ -333,6 +333,58 @@
 			"yTile": 124
 		}
 	],
+	"13012412": [
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 103,
+			"xTile": 130,
+			"yPosition": 190,
+			"yTile": 124
+		},
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 111,
+			"xTile": 130,
+			"yPosition": 200,
+			"yTile": 124
+		},
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 127,
+			"xTile": 130,
+			"yPosition": 186,
+			"yTile": 124
+		},
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 156,
+			"xTile": 130,
+			"yPosition": 230,
+			"yTile": 124
+		}
+	],
+	"13012512": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 234,
+			"xTile": 130,
+			"yPosition": 25,
+			"yTile": 125
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 245,
+			"xTile": 130,
+			"yPosition": 38,
+			"yTile": 125
+		}
+	],
 	"13112412": [
 		{
 			"description": "Slide back to town",
@@ -448,6 +500,22 @@
 		}
 	],
 	"13112512": [
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 85,
+			"xTile": 131,
+			"yPosition": 19,
+			"yTile": 125
+		},
+		{
+			"description": "Dinky Moss Floret",
+			"icon": "star",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 19,
+			"yTile": 125
+		},
 		{
 			"description": "",
 			"icon": "down",
