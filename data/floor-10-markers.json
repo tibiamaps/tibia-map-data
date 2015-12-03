@@ -205,8 +205,8 @@
 	],
 	"12812410": [
 		{
-			"description": "Gnomerik",
-			"icon": "cross",
+			"description": "NPC Gnomerik",
+			"icon": "mouth",
 			"xPosition": 7,
 			"xTile": 128,
 			"yPosition": 1,
@@ -221,8 +221,8 @@
 			"yTile": 124
 		},
 		{
-			"description": "Commander Stone",
-			"icon": "cross",
+			"description": "NPC Commander Stone",
+			"icon": "mouth",
 			"xPosition": 36,
 			"xTile": 128,
 			"yPosition": 53,
