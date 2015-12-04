@@ -75,7 +75,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Crustacea Gigantica (spawn location)",
+			"description": "Crustacea gigantica (spawn location)",
 			"icon": "star",
 			"xPosition": 98,
 			"xTile": 125,
@@ -85,7 +85,7 @@
 	],
 	"12612312": [
 		{
-			"description": "To Monks",
+			"description": "To monks",
 			"icon": "crossmark",
 			"xPosition": 139,
 			"xTile": 126,
@@ -93,7 +93,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "4. To Surface",
+			"description": "4. To surface",
 			"icon": "up",
 			"xPosition": 153,
 			"xTile": 126,
@@ -117,7 +117,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "6. To Surface",
+			"description": "6. To surface",
 			"icon": "up",
 			"xPosition": 176,
 			"xTile": 126,
@@ -141,7 +141,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "8. To Surface",
+			"description": "8. To surface",
 			"icon": "up",
 			"xPosition": 220,
 			"xTile": 126,
@@ -151,7 +151,7 @@
 	],
 	"12612412": [
 		{
-			"description": "Hidden Pick Hole",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 10,
 			"xTile": 126,
@@ -159,7 +159,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "<Hidden Pick Hole>",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 115,
 			"xTile": 126,
@@ -167,7 +167,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 171,
 			"xTile": 126,
@@ -175,7 +175,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 171,
 			"xTile": 126,
@@ -183,7 +183,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 247,
 			"xTile": 126,
@@ -191,7 +191,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 251,
 			"xTile": 126,
@@ -201,7 +201,7 @@
 	],
 	"12612512": [
 		{
-			"description": "Hidden Pick Hole",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 121,
 			"xTile": 126,
@@ -335,7 +335,7 @@
 	],
 	"13012412": [
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 103,
 			"xTile": 130,
@@ -343,7 +343,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 111,
 			"xTile": 130,
@@ -351,7 +351,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 127,
 			"xTile": 130,
@@ -359,7 +359,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 156,
 			"xTile": 130,
@@ -435,7 +435,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 108,
 			"xTile": 131,
@@ -443,7 +443,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 108,
 			"xTile": 131,
@@ -451,7 +451,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 114,
 			"xTile": 131,
@@ -459,7 +459,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 117,
 			"xTile": 131,
@@ -467,7 +467,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 120,
 			"xTile": 131,
@@ -475,7 +475,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 124,
 			"xTile": 131,
@@ -483,7 +483,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Irrigation Funnel",
+			"description": "Irrigation funnel",
 			"icon": "star",
 			"xPosition": 125,
 			"xTile": 131,
@@ -491,7 +491,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Crimson Crest Mushroom",
+			"description": "Crimson crest mushroom",
 			"icon": "star",
 			"xPosition": 149,
 			"xTile": 131,
@@ -501,7 +501,7 @@
 	],
 	"13112512": [
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 85,
 			"xTile": 131,
@@ -509,7 +509,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Dinky Moss Floret",
+			"description": "Dinky moss floret",
 			"icon": "star",
 			"xPosition": 87,
 			"xTile": 131,

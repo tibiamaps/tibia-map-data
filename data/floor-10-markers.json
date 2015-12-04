@@ -1,7 +1,7 @@
 {
 	"12512210": [
 		{
-			"description": "Task Boss: Tormentor",
+			"description": "Task boss: Tormentor",
 			"icon": "!",
 			"xPosition": 72,
 			"xTile": 125,
@@ -11,7 +11,7 @@
 	],
 	"12512310": [
 		{
-			"description": "Key: 4501 (Copper Key)",
+			"description": "Key 4501 (copper key)",
 			"icon": "?",
 			"xPosition": 40,
 			"xTile": 125,
@@ -41,7 +41,7 @@
 	],
 	"12612310": [
 		{
-			"description": "2. To Surface",
+			"description": "2. To surface",
 			"icon": "down",
 			"xPosition": 173,
 			"xTile": 126,
@@ -57,7 +57,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "10. To Surface",
+			"description": "10. To surface",
 			"icon": "up",
 			"xPosition": 227,
 			"xTile": 126,
@@ -81,7 +81,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "1. To Surface",
+			"description": "1. To surface",
 			"icon": "down",
 			"xPosition": 251,
 			"xTile": 126,
@@ -91,7 +91,7 @@
 	],
 	"12612410": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 219,
 			"xTile": 126,
@@ -107,7 +107,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dragons and Dragon Lords",
+			"description": "Dragons and dragon lords",
 			"icon": "red down",
 			"xPosition": 222,
 			"xTile": 126,
@@ -117,7 +117,7 @@
 	],
 	"12612510": [
 		{
-			"description": "Pickhole (Hidden)",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 181,
 			"xTile": 126,
@@ -127,7 +127,7 @@
 	],
 	"12612610": [
 		{
-			"description": "Key: 3980 (Golden Key)",
+			"description": "Key 3980 (golden key)",
 			"icon": "?",
 			"xPosition": 21,
 			"xTile": 126,
@@ -147,7 +147,7 @@
 	],
 	"12712410": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 8,
 			"xTile": 127,
@@ -231,7 +231,7 @@
 	],
 	"12812610": [
 		{
-			"description": "Blood Priest (Tomruk the Ruddy)",
+			"description": "To NPC Tomruk the Ruddy (blood priest)",
 			"icon": "down",
 			"xPosition": 200,
 			"xTile": 128,
@@ -247,7 +247,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Elyen Ravenlock",
+			"description": "To NPC Elyen Ravenlock",
 			"icon": "down",
 			"xPosition": 227,
 			"xTile": 128,
@@ -309,7 +309,7 @@
 	],
 	"12912610": [
 		{
-			"description": "Shadow Pupil (Oblivion)",
+			"description": "NPC Oblivion (shadow pupil)",
 			"icon": "!",
 			"xPosition": 0,
 			"xTile": 129,
@@ -317,7 +317,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Necromancer’s Pure Blood Chambers",
+			"description": "The Necromancer’s Pure Blood Chambers",
 			"icon": "crossmark",
 			"xPosition": 14,
 			"xTile": 129,
@@ -325,7 +325,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Zarifan",
+			"description": "To NPC Zarifan",
 			"icon": "down",
 			"xPosition": 19,
 			"xTile": 129,

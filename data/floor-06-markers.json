@@ -1,7 +1,7 @@
 {
 	"12512106": [
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 249,
 			"xTile": 125,
@@ -19,15 +19,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Mainland",
-			"icon": "red left",
-			"xPosition": 48,
-			"xTile": 125,
-			"yPosition": 134,
-			"yTile": 124
-		},
-		{
-			"description": "Sorcerer Vocation Door",
+			"description": "Sorcerer vocation door",
 			"icon": "star",
 			"xPosition": 55,
 			"xTile": 125,
@@ -35,7 +27,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Paladin Vocation Door",
+			"description": "Paladin vocation door",
 			"icon": "star",
 			"xPosition": 59,
 			"xTile": 125,
@@ -43,7 +35,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Alternate Bank",
+			"description": "Alternate bank",
 			"icon": "$",
 			"xPosition": 64,
 			"xTile": 125,
@@ -51,7 +43,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dawnport Temple",
+			"description": "Dawnport temple",
 			"icon": "cross",
 			"xPosition": 64,
 			"xTile": 125,
@@ -59,7 +51,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Knight Vocation Door",
+			"description": "Knight vocation door",
 			"icon": "star",
 			"xPosition": 69,
 			"xTile": 125,
@@ -67,7 +59,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Druid Vocation Door",
+			"description": "Druid vocation door",
 			"icon": "star",
 			"xPosition": 73,
 			"xTile": 125,
@@ -87,7 +79,7 @@
 	],
 	"12512606": [
 		{
-			"description": "Santiago’s Hut",
+			"description": "Santiago’s hut",
 			"icon": "red down",
 			"xPosition": 34,
 			"xTile": 125,
@@ -123,7 +115,7 @@
 	],
 	"12612506": [
 		{
-			"description": "Offline Training (Melee)",
+			"description": "Offline training (melee)",
 			"icon": "sword",
 			"xPosition": 156,
 			"xTile": 126,
@@ -133,7 +125,7 @@
 	],
 	"12712406": [
 		{
-			"description": "Key: 5000 (Silver Key)",
+			"description": "Key 5000 (silver key)",
 			"icon": "?",
 			"xPosition": 214,
 			"xTile": 127,
@@ -171,7 +163,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "To Boozer",
+			"description": "To NPC Boozer",
 			"icon": "up",
 			"xPosition": 153,
 			"xTile": 128,
@@ -179,7 +171,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Tempel",
+			"description": "Temple",
 			"icon": "down",
 			"xPosition": 185,
 			"xTile": 128,
@@ -195,7 +187,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 208,
 			"xTile": 128,
@@ -213,7 +205,7 @@
 	],
 	"12912106": [
 		{
-			"description": "Silver Ewer (Daily Spawn)",
+			"description": "Silver ewer (daily spawn)",
 			"icon": "bag",
 			"xPosition": 43,
 			"xTile": 129,
@@ -221,7 +213,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Silver Ewer (Daily Spawn)",
+			"description": "Silver ewer (daily spawn)",
 			"icon": "bag",
 			"xPosition": 65,
 			"xTile": 129,
@@ -229,7 +221,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Lizard Chosens",
+			"description": "Lizard chosens",
 			"icon": "red down",
 			"xPosition": 153,
 			"xTile": 129,
@@ -239,7 +231,7 @@
 	],
 	"12912406": [
 		{
-			"description": "To Spectulus",
+			"description": "To NPC Spectulus",
 			"icon": "up",
 			"xPosition": 239,
 			"xTile": 129,
@@ -267,7 +259,7 @@
 	],
 	"12912806": [
 		{
-			"description": "Ahmed",
+			"description": "NPC Ahmet",
 			"icon": "mouth",
 			"xPosition": 102,
 			"xTile": 129,
@@ -275,7 +267,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Shops and Bank",
+			"description": "Shops and bank",
 			"icon": "$",
 			"xPosition": 106,
 			"xTile": 129,
@@ -295,7 +287,15 @@
 	],
 	"13112406": [
 		{
-			"description": "PvP Arena",
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 58,
+			"xTile": 131,
+			"yPosition": 155,
+			"yTile": 124
+		},
+		{
+			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 66,
 			"xTile": 131,
@@ -303,15 +303,15 @@
 			"yTile": 124
 		},
 		{
-			"description": "Temple Upstairs",
-			"icon": "cross",
+			"description": "Offline training downstairs",
+			"icon": "sword",
 			"xPosition": 76,
 			"xTile": 131,
 			"yPosition": 155,
 			"yTile": 124
 		},
 		{
-			"description": "Magic Store Upstairs",
+			"description": "Magic store upstairs",
 			"icon": "star",
 			"xPosition": 84,
 			"xTile": 131,
@@ -319,7 +319,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Bank Upstairs and Depot Downstairs",
+			"description": "Bank upstairs and depot downstairs",
 			"icon": "$",
 			"xPosition": 90,
 			"xTile": 131,
@@ -353,7 +353,7 @@
 	],
 	"13112606": [
 		{
-			"description": "Bowl of Tea Leaves",
+			"description": "Bowl of tea leaves",
 			"icon": "!",
 			"xPosition": 137,
 			"xTile": 131,

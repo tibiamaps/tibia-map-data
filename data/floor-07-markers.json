@@ -1,7 +1,7 @@
 {
 	"12412207": [
 		{
-			"description": "Ice Witches, Ice Golems, etc. 2nd floor: Crystal Spiders etc. 3th floor: Frost Dragons",
+			"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
 			"icon": "red down",
 			"xPosition": 180,
 			"xTile": 124,
@@ -29,7 +29,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To Portals",
+			"description": "To portals",
 			"icon": "down",
 			"xPosition": 177,
 			"xTile": 124,
@@ -37,7 +37,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To Serpent Spawns",
+			"description": "To serpent spawns",
 			"icon": "red down",
 			"xPosition": 191,
 			"xTile": 124,
@@ -45,7 +45,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To Portals",
+			"description": "To portals",
 			"icon": "down",
 			"xPosition": 202,
 			"xTile": 124,
@@ -55,7 +55,7 @@
 	],
 	"12512107": [
 		{
-			"description": "Quara Scouts",
+			"description": "Quara scouts",
 			"icon": "red down",
 			"xPosition": 24,
 			"xTile": 125,
@@ -63,7 +63,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Quara Scouts",
+			"description": "Quara scouts",
 			"icon": "red down",
 			"xPosition": 86,
 			"xTile": 125,
@@ -81,7 +81,7 @@
 	],
 	"12512207": [
 		{
-			"description": "Buddel",
+			"description": "NPC Buddel",
 			"icon": "flag",
 			"xPosition": 21,
 			"xTile": 125,
@@ -89,7 +89,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Stone Golems",
+			"description": "Stone golems",
 			"icon": "red down",
 			"xPosition": 98,
 			"xTile": 125,
@@ -133,7 +133,7 @@
 	],
 	"12512407": [
 		{
-			"description": "Woodlings and Meadow Striders",
+			"description": "Woodlings and meadow striders",
 			"icon": "red down",
 			"xPosition": 18,
 			"xTile": 125,
@@ -165,7 +165,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Brittle Skeletons and Rats",
+			"description": "Brittle skeletons and rats",
 			"icon": "red down",
 			"xPosition": 66,
 			"xTile": 125,
@@ -173,7 +173,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Woodlings and Meadow Striders",
+			"description": "Woodlings and meadow striders",
 			"icon": "red down",
 			"xPosition": 72,
 			"xTile": 125,
@@ -189,7 +189,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Brittle Skeletons and Rats",
+			"description": "Brittle skeletons and rats",
 			"icon": "red down",
 			"xPosition": 93,
 			"xTile": 125,
@@ -197,7 +197,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Ship to Mainland",
+			"description": "Ship to the Mainland",
 			"icon": "up",
 			"xPosition": 98,
 			"xTile": 125,
@@ -221,7 +221,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Spirit Grounds (World Change)",
+			"description": "Spirit Grounds (world change)",
 			"icon": "!",
 			"xPosition": 172,
 			"xTile": 125,
@@ -237,7 +237,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Passage to Ghostland",
+			"description": "Passage to The Ghostlands",
 			"icon": "down",
 			"xPosition": 218,
 			"xTile": 125,
@@ -255,7 +255,7 @@
 	],
 	"12512507": [
 		{
-			"description": "Wasps’ Nest",
+			"description": "Wasps’ nest",
 			"icon": "up",
 			"xPosition": 0,
 			"xTile": 125,
@@ -271,7 +271,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "West Bridge",
+			"description": "West bridge",
 			"icon": "up",
 			"xPosition": 26,
 			"xTile": 125,
@@ -279,7 +279,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Rat Dungeon",
+			"description": "Rat dungeon",
 			"icon": "down",
 			"xPosition": 41,
 			"xTile": 125,
@@ -287,7 +287,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Spider Lair",
+			"description": "Spider lair",
 			"icon": "down",
 			"xPosition": 51,
 			"xTile": 125,
@@ -295,7 +295,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "General Equipment Store",
+			"description": "General equipment store",
 			"icon": "bag",
 			"xPosition": 60,
 			"xTile": 125,
@@ -303,7 +303,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Farms and Food Store",
+			"description": "Farms and food store",
 			"icon": "bag",
 			"xPosition": 65,
 			"xTile": 125,
@@ -335,7 +335,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "North Exit",
+			"description": "North exit",
 			"icon": "up",
 			"xPosition": 91,
 			"xTile": 125,
@@ -343,7 +343,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "North Bridge",
+			"description": "North bridge",
 			"icon": "up",
 			"xPosition": 91,
 			"xTile": 125,
@@ -351,7 +351,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Troll Caves",
+			"description": "Troll caves",
 			"icon": "down",
 			"xPosition": 94,
 			"xTile": 125,
@@ -367,7 +367,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Rat Dungeon",
+			"description": "Rat dungeon",
 			"icon": "down",
 			"xPosition": 97,
 			"xTile": 125,
@@ -391,7 +391,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Academy",
+			"description": "The Academy",
 			"icon": "flag",
 			"xPosition": 104,
 			"xTile": 125,
@@ -407,7 +407,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Weapon and Armor Shops",
+			"description": "Weapon and armor shops",
 			"icon": "bag",
 			"xPosition": 106,
 			"xTile": 125,
@@ -431,7 +431,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "To Hyacinth",
+			"description": "To NPC Hyacinth",
 			"icon": "up",
 			"xPosition": 139,
 			"xTile": 125,
@@ -441,7 +441,7 @@
 	],
 	"12512607": [
 		{
-			"description": "To the Village",
+			"description": "To the village",
 			"icon": "red right",
 			"xPosition": 1,
 			"xTile": 125,
@@ -449,7 +449,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Santiago’s Hut",
+			"description": "Santiago’s hut",
 			"icon": "up",
 			"xPosition": 22,
 			"xTile": 125,
@@ -467,7 +467,7 @@
 	],
 	"12512707": [
 		{
-			"description": "To Portals",
+			"description": "To portals",
 			"icon": "down",
 			"xPosition": 19,
 			"xTile": 125,
@@ -475,7 +475,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Shattered Island Portals",
+			"description": "Shattered Isles portals",
 			"icon": "down",
 			"xPosition": 38,
 			"xTile": 125,
@@ -491,7 +491,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Assassin Star Vendor",
+			"description": "NPC Atrad (assassin star vendor)",
 			"icon": "down",
 			"xPosition": 75,
 			"xTile": 125,
@@ -541,7 +541,7 @@
 	],
 	"12512807": [
 		{
-			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
 			"xPosition": 126,
 			"xTile": 125,
@@ -557,7 +557,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
 			"xPosition": 144,
 			"xTile": 125,
@@ -581,7 +581,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
 			"xPosition": 201,
 			"xTile": 125,
@@ -615,7 +615,7 @@
 	],
 	"12612107": [
 		{
-			"description": "Buddel",
+			"description": "NPC Buddel",
 			"icon": "flag",
 			"xPosition": 0,
 			"xTile": 126,
@@ -639,7 +639,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Magic Store, Post Office and Bank",
+			"description": "Magic store, post office, and bank",
 			"icon": "star",
 			"xPosition": 47,
 			"xTile": 126,
@@ -655,7 +655,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Buddel",
+			"description": "NPC Buddel",
 			"icon": "flag",
 			"xPosition": 77,
 			"xTile": 126,
@@ -671,7 +671,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Ice Golems and Crystal Spiders",
+			"description": "Ice golems and crystal spiders",
 			"icon": "red down",
 			"xPosition": 101,
 			"xTile": 126,
@@ -679,7 +679,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Passage to Inukaya (1 Ham required)",
+			"description": "Passage to Inukaya (1 ham required)",
 			"icon": "flag",
 			"xPosition": 111,
 			"xTile": 126,
@@ -687,7 +687,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Passage to Nibelor (1 Ham required)",
+			"description": "Passage to Nibelor (1 ham required)",
 			"icon": "flag",
 			"xPosition": 154,
 			"xTile": 126,
@@ -707,7 +707,7 @@
 	],
 	"12612407": [
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 5,
 			"xTile": 126,
@@ -723,7 +723,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Depot and Post",
+			"description": "Depot and post office",
 			"icon": "lock",
 			"xPosition": 80,
 			"xTile": 126,
@@ -731,7 +731,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 90,
 			"xTile": 126,
@@ -739,7 +739,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 94,
 			"xTile": 126,
@@ -763,7 +763,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Minotaurs (Boss: The Horned Fox)",
+			"description": "Minotaurs (boss: The Horned Fox)",
 			"icon": "!",
 			"xPosition": 233,
 			"xTile": 126,
@@ -773,7 +773,7 @@
 	],
 	"12612507": [
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 14,
 			"xTile": 126,
@@ -789,7 +789,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Depot & Bank",
+			"description": "Depot & bank",
 			"icon": "lock",
 			"xPosition": 91,
 			"xTile": 126,
@@ -797,7 +797,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Offline Training (Distance)",
+			"description": "Offline training (distance)",
 			"icon": "sword",
 			"xPosition": 94,
 			"xTile": 126,
@@ -805,7 +805,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "PvP Arena",
+			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 97,
 			"xTile": 126,
@@ -821,7 +821,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 143,
 			"xTile": 126,
@@ -831,7 +831,7 @@
 	],
 	"12612607": [
 		{
-			"description": "Eclesius",
+			"description": "NPC Eclesius",
 			"icon": "mouth",
 			"xPosition": 35,
 			"xTile": 126,
@@ -839,7 +839,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Offline Training (Magic)",
+			"description": "Offline training (magic)",
 			"icon": "sword",
 			"xPosition": 41,
 			"xTile": 126,
@@ -873,7 +873,7 @@
 	],
 	"12612707": [
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 92,
 			"xTile": 126,
@@ -899,7 +899,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "To the Temple",
+			"description": "To the temple",
 			"icon": "cross",
 			"xPosition": 61,
 			"xTile": 126,
@@ -915,7 +915,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Post and Bank",
+			"description": "Post office and bank",
 			"icon": "$",
 			"xPosition": 81,
 			"xTile": 126,
@@ -923,7 +923,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 90,
 			"xTile": 126,
@@ -941,7 +941,7 @@
 	],
 	"12712107": [
 		{
-			"description": "Mutated Tigers",
+			"description": "Mutated tigers",
 			"icon": "red down",
 			"xPosition": 152,
 			"xTile": 127,
@@ -985,7 +985,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Rorcs or Drillworms and Lost Dwarves",
+			"description": "Rorcs or drillworms and lost dwarves",
 			"icon": "red down",
 			"xPosition": 141,
 			"xTile": 127,
@@ -993,7 +993,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 168,
 			"xTile": 127,
@@ -1009,7 +1009,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Depot & Bank",
+			"description": "Depot & bank",
 			"icon": "lock",
 			"xPosition": 170,
 			"xTile": 127,
@@ -1035,7 +1035,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 62,
 			"xTile": 127,
@@ -1061,7 +1061,7 @@
 	],
 	"12712507": [
 		{
-			"description": "Rottin Wood",
+			"description": "NPC Rottin Wood",
 			"icon": "mouth",
 			"xPosition": 145,
 			"xTile": 127,
@@ -1069,7 +1069,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "To Wyda’s Hut",
+			"description": "To Wyda’s hut",
 			"icon": "down",
 			"xPosition": 187,
 			"xTile": 127,
@@ -1079,7 +1079,7 @@
 	],
 	"12712607": [
 		{
-			"description": "Water Elementals",
+			"description": "Water elementals",
 			"icon": "red down",
 			"xPosition": 78,
 			"xTile": 127,
@@ -1089,7 +1089,7 @@
 	],
 	"12712707": [
 		{
-			"description": "Slime Training Spot",
+			"description": "Slime training spot",
 			"icon": "sword",
 			"xPosition": 17,
 			"xTile": 127,
@@ -1097,7 +1097,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 19,
 			"xTile": 127,
@@ -1113,7 +1113,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To the Harbour",
+			"description": "To the harbour",
 			"icon": "up",
 			"xPosition": 66,
 			"xTile": 127,
@@ -1121,7 +1121,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Smile Training Spot",
+			"description": "Smile training spot",
 			"icon": "sword",
 			"xPosition": 74,
 			"xTile": 127,
@@ -1145,7 +1145,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Crocodiles (Task Boss: The Snapper)",
+			"description": "Crocodiles (task boss: The Snapper)",
 			"icon": "!",
 			"xPosition": 101,
 			"xTile": 127,
@@ -1161,7 +1161,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "To the Shops, Post, and Bank",
+			"description": "To the shops, post office, and bank",
 			"icon": "up",
 			"xPosition": 117,
 			"xTile": 127,
@@ -1177,7 +1177,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Swamp Trolls",
+			"description": "Swamp trolls",
 			"icon": "red down",
 			"xPosition": 166,
 			"xTile": 127,
@@ -1185,7 +1185,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Task Boss: Deathbine",
+			"description": "Task boss: Deathbine",
 			"icon": "!",
 			"xPosition": 219,
 			"xTile": 127,
@@ -1195,7 +1195,7 @@
 	],
 	"12712807": [
 		{
-			"description": "Water Elementals (level 50+)",
+			"description": "Water elementals (level 50+)",
 			"icon": "red down",
 			"xPosition": 48,
 			"xTile": 127,
@@ -1211,7 +1211,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Trap Holes",
+			"description": "Trap holes",
 			"icon": "skull",
 			"xPosition": 123,
 			"xTile": 127,
@@ -1219,7 +1219,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 124,
 			"xTile": 127,
@@ -1235,7 +1235,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Water Elementals",
+			"description": "Water elementals",
 			"icon": "red down",
 			"xPosition": 167,
 			"xTile": 127,
@@ -1243,7 +1243,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Grizzly Adams",
+			"description": "NPC Grizzly Adams",
 			"icon": "mouth",
 			"xPosition": 182,
 			"xTile": 127,
@@ -1251,7 +1251,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Trap Holes",
+			"description": "Trap holes",
 			"icon": "skull",
 			"xPosition": 182,
 			"xTile": 127,
@@ -1259,7 +1259,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Trap Holes",
+			"description": "Trap holes",
 			"icon": "skull",
 			"xPosition": 182,
 			"xTile": 127,
@@ -1267,7 +1267,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Trap Holes",
+			"description": "Trap holes",
 			"icon": "skull",
 			"xPosition": 208,
 			"xTile": 127,
@@ -1291,7 +1291,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Trap Holes",
+			"description": "Trap holes",
 			"icon": "skull",
 			"xPosition": 254,
 			"xTile": 127,
@@ -1327,7 +1327,7 @@
 	],
 	"12812207": [
 		{
-			"description": "Temple Raft",
+			"description": "Temple raft",
 			"icon": "cross",
 			"xPosition": 19,
 			"xTile": 128,
@@ -1335,7 +1335,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 22,
 			"xTile": 128,
@@ -1359,7 +1359,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Bank and Post",
+			"description": "Bank and post office",
 			"icon": "$",
 			"xPosition": 58,
 			"xTile": 128,
@@ -1391,7 +1391,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 85,
 			"xTile": 128,
@@ -1399,7 +1399,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 104,
 			"xTile": 128,
@@ -1407,7 +1407,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 110,
 			"xTile": 128,
@@ -1415,7 +1415,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 122,
 			"xTile": 128,
@@ -1423,7 +1423,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 136,
 			"xTile": 128,
@@ -1431,7 +1431,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems / War Golems",
+			"description": "Worker golems / war golems",
 			"icon": "red down",
 			"xPosition": 140,
 			"xTile": 128,
@@ -1439,7 +1439,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 147,
 			"xTile": 128,
@@ -1447,7 +1447,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Worker Golems",
+			"description": "Worker golems",
 			"icon": "red down",
 			"xPosition": 168,
 			"xTile": 128,
@@ -1475,7 +1475,7 @@
 	],
 	"12812507": [
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 64,
 			"xTile": 128,
@@ -1485,7 +1485,7 @@
 	],
 	"12812607": [
 		{
-			"description": "Swamp Trolls / Rotworms",
+			"description": "Swamp trolls / rotworms",
 			"icon": "red down",
 			"xPosition": 145,
 			"xTile": 128,
@@ -1511,7 +1511,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Protection Zone",
+			"description": "Protection zone",
 			"icon": "cross",
 			"xPosition": 57,
 			"xTile": 128,
@@ -1519,7 +1519,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Tarantulas (Task Boss: Hide)",
+			"description": "Tarantulas (task boss: Hide)",
 			"icon": "!",
 			"xPosition": 59,
 			"xTile": 128,
@@ -1527,7 +1527,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther (spawn location)",
+			"description": "Midnight panther (spawn location)",
 			"icon": "star",
 			"xPosition": 79,
 			"xTile": 128,
@@ -1543,7 +1543,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther (spawn location)",
+			"description": "Midnight panther (spawn location)",
 			"icon": "star",
 			"xPosition": 89,
 			"xTile": 128,
@@ -1551,7 +1551,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Special Task: Tiquanda’s Revenge",
+			"description": "Special task: Tiquanda’s Revenge",
 			"icon": "!",
 			"xPosition": 108,
 			"xTile": 128,
@@ -1559,7 +1559,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Midnight Panther (spawn location)",
+			"description": "Midnight panther (spawn location)",
 			"icon": "star",
 			"xPosition": 117,
 			"xTile": 128,
@@ -1575,7 +1575,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Giant Spiders",
+			"description": "Giant spiders",
 			"icon": "red down",
 			"xPosition": 181,
 			"xTile": 128,
@@ -1583,7 +1583,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Giant Spiders",
+			"description": "Giant spiders",
 			"icon": "red down",
 			"xPosition": 193,
 			"xTile": 128,
@@ -1639,7 +1639,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Passage to Forbidden Lands",
+			"description": "Passage to the Forbidden Lands",
 			"icon": "flag",
 			"xPosition": 253,
 			"xTile": 128,
@@ -1657,7 +1657,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Medusa Tower Entrance",
+			"description": "Medusa Tower entrance",
 			"icon": "red down",
 			"xPosition": 85,
 			"xTile": 128,
@@ -1665,7 +1665,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Protection Zone",
+			"description": "Protection zone",
 			"icon": "cross",
 			"xPosition": 200,
 			"xTile": 128,
@@ -1675,7 +1675,7 @@
 	],
 	"12912107": [
 		{
-			"description": "Golden Ewer (Daily Spawn)",
+			"description": "Golden ewer (daily spawn)",
 			"icon": "bag",
 			"xPosition": 35,
 			"xTile": 129,
@@ -1691,7 +1691,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Ghastly Dragons",
+			"description": "Ghastly dragons",
 			"icon": "red down",
 			"xPosition": 152,
 			"xTile": 129,
@@ -1717,7 +1717,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Lancer Beetles",
+			"description": "Lancer beetles",
 			"icon": "red down",
 			"xPosition": 106,
 			"xTile": 129,
@@ -1725,7 +1725,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Killer Caimans",
+			"description": "Killer caimans",
 			"icon": "red down",
 			"xPosition": 113,
 			"xTile": 129,
@@ -1749,7 +1749,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "High Class Lizards",
+			"description": "High class lizards",
 			"icon": "red up",
 			"xPosition": 151,
 			"xTile": 129,
@@ -1773,7 +1773,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Lancer Beetles",
+			"description": "Lancer beetles",
 			"icon": "red down",
 			"xPosition": 199,
 			"xTile": 129,
@@ -1807,7 +1807,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Vampire Crypt",
+			"description": "Vampire Crypts",
 			"icon": "red down",
 			"xPosition": 85,
 			"xTile": 129,
@@ -1815,7 +1815,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Earth Elementals and Bog Raiders",
+			"description": "Earth elementals and bog raiders",
 			"icon": "red down",
 			"xPosition": 133,
 			"xTile": 129,
@@ -1823,7 +1823,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Edron Hero Cave",
+			"description": "Edron Ruins (a.k.a. Hero Cave)",
 			"icon": "red down",
 			"xPosition": 139,
 			"xTile": 129,
@@ -1873,7 +1873,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Underground Depot",
+			"description": "Underground depot",
 			"icon": "down",
 			"xPosition": 145,
 			"xTile": 129,
@@ -1881,7 +1881,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Post and Bank",
+			"description": "Post office and bank",
 			"icon": "$",
 			"xPosition": 148,
 			"xTile": 129,
@@ -1905,7 +1905,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 157,
 			"xTile": 129,
@@ -1913,7 +1913,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Daniel Steelsoul",
+			"description": "NPC Daniel Steelsoul",
 			"icon": "mouth",
 			"xPosition": 167,
 			"xTile": 129,
@@ -1921,7 +1921,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "PvP Arena",
+			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 175,
 			"xTile": 129,
@@ -1929,7 +1929,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Temple",
+			"description": "To the temple",
 			"icon": "down",
 			"xPosition": 186,
 			"xTile": 129,
@@ -1937,7 +1937,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Carpet",
+			"description": "To the flying carpet",
 			"icon": "up",
 			"xPosition": 191,
 			"xTile": 129,
@@ -1945,7 +1945,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 197,
 			"xTile": 129,
@@ -1953,7 +1953,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 223,
 			"xTile": 129,
@@ -2013,7 +2013,7 @@
 	],
 	"12912607": [
 		{
-			"description": "Grim Reapers",
+			"description": "Grim reapers",
 			"icon": "red down",
 			"xPosition": 4,
 			"xTile": 129,
@@ -2021,7 +2021,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Zarifan",
+			"description": "To NPC Zarifan",
 			"icon": "down",
 			"xPosition": 27,
 			"xTile": 129,
@@ -2077,7 +2077,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "star",
 			"xPosition": 197,
 			"xTile": 129,
@@ -2093,7 +2093,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 215,
 			"xTile": 129,
@@ -2119,7 +2119,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Larvas / Scarabs / Ancient Scarabs (Task Boss: Fleshcrawler)",
+			"description": "Larvas / scarabs / ancient scarabs (task boss: Fleshcrawler)",
 			"icon": "red down",
 			"xPosition": 48,
 			"xTile": 129,
@@ -2135,7 +2135,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Green Djinns (The Efreet)",
+			"description": "Green djinns (the Efreet)",
 			"icon": "up",
 			"xPosition": 77,
 			"xTile": 129,
@@ -2151,7 +2151,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Blue Djinns (The Marid)",
+			"description": "Blue djinns (the Marid)",
 			"icon": "up",
 			"xPosition": 96,
 			"xTile": 129,
@@ -2159,7 +2159,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Mountain Tomb <Hidden> (Boss: Dipthrah)",
+			"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
 			"icon": "!",
 			"xPosition": 109,
 			"xTile": 129,
@@ -2167,7 +2167,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Oasis Tomb <Hidden> (Boss: Rahemos)",
+			"description": "Oasis Tomb (boss: Rahemos) <hidden>",
 			"icon": "!",
 			"xPosition": 109,
 			"xTile": 129,
@@ -2175,7 +2175,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Larvas / Scarabs / Ancient Scarabs",
+			"description": "Larvas / scarabs / ancient scarabs",
 			"icon": "red down",
 			"xPosition": 129,
 			"xTile": 129,
@@ -2183,7 +2183,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "<Hidden> Larvas / Scarabs / Ancient Scarabs",
+			"description": "Larvas / scarabs / ancient scarabs <hidden>",
 			"icon": "red down",
 			"xPosition": 137,
 			"xTile": 129,
@@ -2191,7 +2191,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Ancient Ruins Tomb <Hidden> (Boss: Vashresamun)",
+			"description": "Ancient Ruins Tomb (boss: Vashresamun) <hidden>",
 			"icon": "!",
 			"xPosition": 184,
 			"xTile": 129,
@@ -2207,7 +2207,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Larvas / Scarabs",
+			"description": "Larvas / scarabs",
 			"icon": "red down",
 			"xPosition": 195,
 			"xTile": 129,
@@ -2215,7 +2215,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Tarpit Tomb <Hidden> (Boss: Morguthis)",
+			"description": "Tarpit Tomb (boss: Morguthis) <hidden>",
 			"icon": "!",
 			"xPosition": 209,
 			"xTile": 129,
@@ -2231,7 +2231,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Larvas / Scarabs / Ancient Scarabs",
+			"description": "Larvas / scarabs / ancient scarabs",
 			"icon": "red down",
 			"xPosition": 233,
 			"xTile": 129,
@@ -2241,7 +2241,7 @@
 	],
 	"12912807": [
 		{
-			"description": "Peninsula Tomb <Hidden> (Boss: Omruc)",
+			"description": "Peninsula Tomb (boss: Omruc) <hidden>",
 			"icon": "!",
 			"xPosition": 3,
 			"xTile": 129,
@@ -2249,7 +2249,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Post",
+			"description": "Post office",
 			"icon": "bag",
 			"xPosition": 45,
 			"xTile": 129,
@@ -2273,7 +2273,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "To the Shops and Bank",
+			"description": "To the shops and bank",
 			"icon": "up",
 			"xPosition": 104,
 			"xTile": 129,
@@ -2281,7 +2281,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "PvP Arena",
+			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 107,
 			"xTile": 129,
@@ -2289,7 +2289,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Library Tomb (Boss: Ashmunrah)",
+			"description": "Ankrahmun Library Tomb (boss: Ashmunrah)",
 			"icon": "!",
 			"xPosition": 118,
 			"xTile": 129,
@@ -2297,7 +2297,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "To the Sorcerer Trainer",
+			"description": "To the sorcerer trainer",
 			"icon": "up",
 			"xPosition": 131,
 			"xTile": 129,
@@ -2305,7 +2305,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Temple and Druid Spells",
+			"description": "Temple and druid spells",
 			"icon": "cross",
 			"xPosition": 170,
 			"xTile": 129,
@@ -2313,7 +2313,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Shadow Tomb <Hidden> (Boss: Mahrdis)",
+			"description": "Shadow Tomb (boss: Mahrdis) <hidden>",
 			"icon": "!",
 			"xPosition": 231,
 			"xTile": 129,
@@ -2321,7 +2321,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 244,
 			"xTile": 129,
@@ -2331,7 +2331,7 @@
 	],
 	"13012107": [
 		{
-			"description": "Brimstone Bugs",
+			"description": "Brimstone bugs",
 			"icon": "red down",
 			"xPosition": 12,
 			"xTile": 130,
@@ -2349,7 +2349,7 @@
 	],
 	"13012207": [
 		{
-			"description": "Bank, Depot, and Temple",
+			"description": "Bank, depot, and temple",
 			"icon": "down",
 			"xPosition": 166,
 			"xTile": 130,
@@ -2357,7 +2357,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Magic Store",
+			"description": "Magic store",
 			"icon": "up",
 			"xPosition": 180,
 			"xTile": 130,
@@ -2381,7 +2381,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Drilling Site",
+			"description": "Drilling site",
 			"icon": "down",
 			"xPosition": 235,
 			"xTile": 130,
@@ -2407,7 +2407,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Were-Creatures",
+			"description": "Were-creatures",
 			"icon": "red down",
 			"xPosition": 73,
 			"xTile": 130,
@@ -2441,7 +2441,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Rotworms / Bog Raiders",
+			"description": "Rotworms / bog raiders",
 			"icon": "red down",
 			"xPosition": 23,
 			"xTile": 130,
@@ -2465,7 +2465,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Hydra Cave",
+			"description": "Hydra cave",
 			"icon": "red down",
 			"xPosition": 237,
 			"xTile": 130,
@@ -2501,7 +2501,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Fury Gate (World Change)",
+			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 25,
 			"xTile": 130,
@@ -2519,7 +2519,7 @@
 	],
 	"13012707": [
 		{
-			"description": "Stone Tomb <Hidden> (Boss: Thalas)",
+			"description": "Stone Tomb (boss: Thalas) <hidden>",
 			"icon": "!",
 			"xPosition": 2,
 			"xTile": 130,
@@ -2535,7 +2535,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Cultists <Hidden>",
+			"description": "Cultists <hidden>",
 			"icon": "red down",
 			"xPosition": 35,
 			"xTile": 130,
@@ -2645,7 +2645,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Beggar King",
+			"description": "NPC The Beggar King",
 			"icon": "!",
 			"xPosition": 39,
 			"xTile": 131,
@@ -2653,7 +2653,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Roswitha",
+			"description": "NPC Roswitha",
 			"icon": "!",
 			"xPosition": 48,
 			"xTile": 131,
@@ -2669,7 +2669,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 66,
 			"xTile": 131,
@@ -2693,7 +2693,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To City (Rathleton)",
+			"description": "To the city (Rathleton)",
 			"icon": "up",
 			"xPosition": 100,
 			"xTile": 131,
@@ -2709,7 +2709,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Doubleday (Tasks)",
+			"description": "To NPC Doubleday (tasks)",
 			"icon": "up",
 			"xPosition": 104,
 			"xTile": 131,
@@ -2717,7 +2717,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "City Guard Terrence",
+			"description": "NPC Terrence (city guard)",
 			"icon": "!",
 			"xPosition": 111,
 			"xTile": 131,
@@ -2757,7 +2757,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Wailing Widows / Brimstone Bugs / Giant Spiders",
+			"description": "Wailing widows / brimstone bugs / giant spiders",
 			"icon": "down",
 			"xPosition": 150,
 			"xTile": 131,
@@ -2793,7 +2793,7 @@
 	],
 	"13112607": [
 		{
-			"description": "Safety Spot",
+			"description": "Safety spot",
 			"icon": "up",
 			"xPosition": 28,
 			"xTile": 131,

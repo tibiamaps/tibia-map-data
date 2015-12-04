@@ -11,7 +11,7 @@
 	],
 	"13012101": [
 		{
-			"description": "Outfit Chest; use 3× to get addons as well",
+			"description": "Outfit chest; use 3× to get addons as well",
 			"icon": "flag",
 			"xPosition": 204,
 			"xTile": 130,
@@ -21,7 +21,7 @@
 	],
 	"13112101": [
 		{
-			"description": "Insectoid Monolith",
+			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 40,
 			"xTile": 131,
@@ -29,7 +29,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Insectoid Monolith",
+			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 55,
 			"xTile": 131,
@@ -39,7 +39,7 @@
 	],
 	"13112201": [
 		{
-			"description": "Insectoid Monolith",
+			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 53,
 			"xTile": 131,

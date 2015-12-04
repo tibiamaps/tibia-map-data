@@ -9,7 +9,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Undercover Contact",
+			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 131,
 			"xTile": 125,
@@ -17,7 +17,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Gnome Trooper",
+			"description": "NPC Gnome Trooper",
 			"icon": "star",
 			"xPosition": 169,
 			"xTile": 125,
@@ -71,7 +71,7 @@
 	],
 	"12612713": [
 		{
-			"description": "Gnome Trooper",
+			"description": "NPC Gnome Trooper",
 			"icon": "star",
 			"xPosition": 69,
 			"xTile": 126,
@@ -79,7 +79,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Undercover Contact",
+			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 85,
 			"xTile": 126,
@@ -99,7 +99,7 @@
 	],
 	"12712413": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 85,
 			"xTile": 127,
@@ -201,7 +201,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Red Crystal",
+			"description": "Red crystal",
 			"icon": "checkmark",
 			"xPosition": 227,
 			"xTile": 128,
@@ -209,7 +209,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Red Crystal",
+			"description": "Red crystal",
 			"icon": "checkmark",
 			"xPosition": 233,
 			"xTile": 128,
@@ -263,7 +263,7 @@
 	],
 	"12912313": [
 		{
-			"description": "Parchment Room Quest <Hidden>",
+			"description": "Parchment Room Quest <hidden>",
 			"icon": "red down",
 			"xPosition": 70,
 			"xTile": 129,
@@ -281,7 +281,7 @@
 	],
 	"12912413": [
 		{
-			"description": "Red Crystal",
+			"description": "Red crystal",
 			"icon": "checkmark",
 			"xPosition": 10,
 			"xTile": 129,
@@ -289,7 +289,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Red Crystal",
+			"description": "Red crystal",
 			"icon": "checkmark",
 			"xPosition": 15,
 			"xTile": 129,
@@ -299,7 +299,7 @@
 	],
 	"12912613": [
 		{
-			"description": "Elder Wyrms + Wyrms",
+			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
 			"xPosition": 46,
 			"xTile": 129,
@@ -307,7 +307,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Elder Wyrms + Wyrms",
+			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
 			"xPosition": 50,
 			"xTile": 129,
@@ -315,7 +315,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Elder Wyrms + Wyrms",
+			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
 			"xPosition": 65,
 			"xTile": 129,
@@ -325,7 +325,7 @@
 	],
 	"12912813": [
 		{
-			"description": "Task Boss: Ribstride",
+			"description": "Task boss: Ribstride",
 			"icon": "!",
 			"xPosition": 85,
 			"xTile": 129,

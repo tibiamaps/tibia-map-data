@@ -11,7 +11,7 @@
 	],
 	"12612311": [
 		{
-			"description": "5. To Surface",
+			"description": "5. To surface",
 			"icon": "down",
 			"xPosition": 152,
 			"xTile": 126,
@@ -27,7 +27,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "3. To Surface",
+			"description": "3. To surface",
 			"icon": "down",
 			"xPosition": 161,
 			"xTile": 126,
@@ -51,7 +51,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "7. To Surface",
+			"description": "7. To surface",
 			"icon": "down",
 			"xPosition": 181,
 			"xTile": 126,
@@ -67,7 +67,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "2. Monks (Training Spot)",
+			"description": "2. Monks (training spot)",
 			"icon": "red down",
 			"xPosition": 190,
 			"xTile": 126,
@@ -83,7 +83,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "9. To Surface",
+			"description": "9. To surface",
 			"icon": "up",
 			"xPosition": 224,
 			"xTile": 126,
@@ -117,7 +117,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 190,
 			"xTile": 126,
@@ -127,7 +127,7 @@
 	],
 	"12612511": [
 		{
-			"description": "<Hidden Pick Hole>",
+			"description": "<Hidden pick hole>",
 			"icon": "red down",
 			"xPosition": 146,
 			"xTile": 126,
@@ -163,7 +163,7 @@
 	],
 	"12712411": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 34,
 			"xTile": 127,
@@ -331,7 +331,7 @@
 	],
 	"12812511": [
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 173,
 			"xTile": 128,
@@ -341,7 +341,7 @@
 	],
 	"12812611": [
 		{
-			"description": "Task Boss: Gorgo",
+			"description": "Task boss: Gorgo",
 			"icon": "!",
 			"xPosition": 31,
 			"xTile": 128,
@@ -383,7 +383,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Task Boss: The Noxious Spawn",
+			"description": "Task boss: The Noxious Spawn",
 			"icon": "!",
 			"xPosition": 74,
 			"xTile": 128,
@@ -443,7 +443,7 @@
 	],
 	"12912311": [
 		{
-			"description": "Fire Axe Quest <Hidden pick hole>",
+			"description": "Fire Axe Quest <hidden pick hole>",
 			"icon": "red down",
 			"xPosition": 57,
 			"xTile": 129,

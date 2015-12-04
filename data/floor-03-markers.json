@@ -11,7 +11,7 @@
 	],
 	"12512403": [
 		{
-			"description": "Northern Safe Trade Room",
+			"description": "Northern safe trade room",
 			"icon": "lock",
 			"xPosition": 57,
 			"xTile": 125,
@@ -19,7 +19,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Southern Safe Trade Room",
+			"description": "Southern safe trade room",
 			"icon": "lock",
 			"xPosition": 57,
 			"xTile": 125,
@@ -27,7 +27,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Shops, Temple, Bank and Vocation Gates",
+			"description": "To the shops, temple, bank, and vocation gates",
 			"icon": "down",
 			"xPosition": 65,
 			"xTile": 125,
@@ -35,7 +35,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Key: 0010 (Silver Key)",
+			"description": "Key 0010 (silver key)",
 			"icon": "?",
 			"xPosition": 67,
 			"xTile": 125,
@@ -63,7 +63,7 @@
 	],
 	"13112103": [
 		{
-			"description": "Insectoid Monolith",
+			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 37,
 			"xTile": 131,
@@ -71,7 +71,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Insectoid Monolith",
+			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 73,
 			"xTile": 131,
@@ -81,7 +81,7 @@
 	],
 	"13112403": [
 		{
-			"description": "Sholley",
+			"description": "NPC Sholley",
 			"icon": "!",
 			"xPosition": 115,
 			"xTile": 131,

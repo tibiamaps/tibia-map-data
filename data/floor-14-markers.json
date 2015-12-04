@@ -45,7 +45,7 @@
 	],
 	"12512714": [
 		{
-			"description": "Task Boss: Kerberos",
+			"description": "Task boss: Kerberos",
 			"icon": "!",
 			"xPosition": 44,
 			"xTile": 125,
@@ -53,7 +53,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Undercover Agent",
+			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 146,
 			"xTile": 125,
@@ -61,7 +61,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Gnome Trooper",
+			"description": "NPC Gnome Trooper",
 			"icon": "star",
 			"xPosition": 178,
 			"xTile": 125,
@@ -79,7 +79,7 @@
 	],
 	"12612414": [
 		{
-			"description": "High Class Dwarves",
+			"description": "High class dwarves",
 			"icon": "red down",
 			"xPosition": 168,
 			"xTile": 126,
@@ -87,7 +87,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Lost Dwarves",
+			"description": "Lost dwarves",
 			"icon": "red down",
 			"xPosition": 207,
 			"xTile": 126,
@@ -95,7 +95,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "High Class Dwarves",
+			"description": "High class dwarves",
 			"icon": "red down",
 			"xPosition": 222,
 			"xTile": 126,
@@ -113,7 +113,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "To exit (shortcut through Bonelords)",
+			"description": "To exit (shortcut through bonelords)",
 			"icon": "down",
 			"xPosition": 255,
 			"xTile": 126,
@@ -123,7 +123,7 @@
 	],
 	"12612614": [
 		{
-			"description": "Gnome Trooper",
+			"description": "NPC Gnome Trooper",
 			"icon": "star",
 			"xPosition": 38,
 			"xTile": 126,
@@ -133,7 +133,7 @@
 	],
 	"12612714": [
 		{
-			"description": "Undercover Contact",
+			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 17,
 			"xTile": 126,
@@ -141,7 +141,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Undercover Contact",
+			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 55,
 			"xTile": 126,
@@ -161,7 +161,7 @@
 	],
 	"12712414": [
 		{
-			"description": "Key: 3802 (Copper Key)",
+			"description": "Key 3802 (Copper Key)",
 			"icon": "?",
 			"xPosition": 90,
 			"xTile": 127,

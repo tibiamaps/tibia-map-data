@@ -1,7 +1,7 @@
 {
 	"12412709": [
 		{
-			"description": "Serpent Spawns / Medusas",
+			"description": "Serpent spawns / medusas",
 			"icon": "red down",
 			"xPosition": 184,
 			"xTile": 124,
@@ -9,7 +9,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "<Hidden> Litch Hell",
+			"description": "Litch Hell <hidden>",
 			"icon": "red down",
 			"xPosition": 203,
 			"xTile": 124,
@@ -29,7 +29,7 @@
 	],
 	"12512309": [
 		{
-			"description": "Key: 4502 (Copper Key)",
+			"description": "Key 4502 (copper key)",
 			"icon": "?",
 			"xPosition": 107,
 			"xTile": 125,
@@ -39,7 +39,7 @@
 	],
 	"12512809": [
 		{
-			"description": "Portal (Red Gem)",
+			"description": "Portal (red gem)",
 			"icon": "down",
 			"xPosition": 9,
 			"xTile": 125,
@@ -55,7 +55,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Crustacea Gigantica (spawn location)",
+			"description": "Crustacea gigantica (spawn location)",
 			"icon": "star",
 			"xPosition": 182,
 			"xTile": 125,
@@ -115,7 +115,7 @@
 	],
 	"12712409": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 39,
 			"xTile": 127,
@@ -123,7 +123,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 98,
 			"xTile": 127,
@@ -267,7 +267,7 @@
 	],
 	"12912509": [
 		{
-			"description": "Snake Inscription",
+			"description": "Snake inscription",
 			"icon": "crossmark",
 			"xPosition": 71,
 			"xTile": 129,
@@ -275,7 +275,7 @@
 			"yTile": 125
 		},
 		{
-			"description": "Old Amphora",
+			"description": "Old amphora",
 			"icon": "crossmark",
 			"xPosition": 95,
 			"xTile": 129,
@@ -285,7 +285,7 @@
 	],
 	"12912609": [
 		{
-			"description": "Zarifan",
+			"description": "To NPC Zarifan",
 			"icon": "down",
 			"xPosition": 27,
 			"xTile": 129,
@@ -293,7 +293,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Dusty Amphora",
+			"description": "Dusty amphora",
 			"icon": "crossmark",
 			"xPosition": 78,
 			"xTile": 129,
@@ -301,7 +301,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Hyaena Statue",
+			"description": "Hyaena statue",
 			"icon": "crossmark",
 			"xPosition": 103,
 			"xTile": 129,
@@ -309,7 +309,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Egg Inscription",
+			"description": "Egg inscription",
 			"icon": "crossmark",
 			"xPosition": 107,
 			"xTile": 129,
@@ -317,7 +317,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Dusty Amphora",
+			"description": "Dusty amphora",
 			"icon": "crossmark",
 			"xPosition": 124,
 			"xTile": 129,
@@ -335,7 +335,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Purple Nightshade",
+			"description": "Purple nightshade",
 			"icon": "star",
 			"xPosition": 34,
 			"xTile": 130,
@@ -343,7 +343,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Purple Nightshade",
+			"description": "Purple nightshade",
 			"icon": "star",
 			"xPosition": 104,
 			"xTile": 130,
@@ -356,6 +356,14 @@
 			"xPosition": 121,
 			"xTile": 130,
 			"yPosition": 127,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 175,
+			"xTile": 130,
+			"yPosition": 235,
 			"yTile": 123
 		},
 		{

@@ -73,7 +73,7 @@
 	],
 	"12512308": [
 		{
-			"description": "Key: 4503 (Copper Key)",
+			"description": "Key 4503 (copper key)",
 			"icon": "?",
 			"xPosition": 34,
 			"xTile": 125,
@@ -81,7 +81,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Hidden Pick Hole",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 39,
 			"xTile": 125,
@@ -91,7 +91,7 @@
 	],
 	"12512408": [
 		{
-			"description": "Rotworms and Orcs",
+			"description": "Rotworms and orcs",
 			"icon": "red down",
 			"xPosition": 60,
 			"xTile": 125,
@@ -111,7 +111,7 @@
 	],
 	"12512608": [
 		{
-			"description": "Key: 3940 (Wooden Key)",
+			"description": "Key 3940 (wooden key)",
 			"icon": "?",
 			"xPosition": 190,
 			"xTile": 125,
@@ -139,7 +139,7 @@
 	],
 	"12612208": [
 		{
-			"description": "<Hidden> Frost Dragons",
+			"description": "Frost dragons <hidden>",
 			"icon": "red down",
 			"xPosition": 39,
 			"xTile": 126,
@@ -149,7 +149,7 @@
 	],
 	"12612408": [
 		{
-			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"xPosition": 236,
 			"xTile": 126,
@@ -159,7 +159,7 @@
 	],
 	"12612508": [
 		{
-			"description": "Pick Hole (Hidden)",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 139,
 			"xTile": 126,
@@ -169,7 +169,7 @@
 	],
 	"12712308": [
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 178,
 			"xTile": 127,
@@ -187,7 +187,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "PvP Arena",
+			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 91,
 			"xTile": 127,
@@ -195,7 +195,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Depot and Bank",
+			"description": "Depot and bank",
 			"icon": "lock",
 			"xPosition": 145,
 			"xTile": 127,
@@ -223,7 +223,7 @@
 	],
 	"12812108": [
 		{
-			"description": "Sewer Problem 2",
+			"description": "Sewer problem #2",
 			"icon": "crossmark",
 			"xPosition": 27,
 			"xTile": 128,
@@ -231,7 +231,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Sewer Problem 4",
+			"description": "Sewer problem #4",
 			"icon": "crossmark",
 			"xPosition": 28,
 			"xTile": 128,
@@ -239,7 +239,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "Sewer Problem 1",
+			"description": "Sewer problem #1",
 			"icon": "crossmark",
 			"xPosition": 55,
 			"xTile": 128,
@@ -249,7 +249,7 @@
 	],
 	"12812208": [
 		{
-			"description": "Sewer Problem 3",
+			"description": "Sewer problem #3",
 			"icon": "crossmark",
 			"xPosition": 74,
 			"xTile": 128,
@@ -277,7 +277,7 @@
 	],
 	"12812408": [
 		{
-			"description": "Key: 5010 (Silver Key)",
+			"description": "Key 5010 (silver key)",
 			"icon": "?",
 			"xPosition": 56,
 			"xTile": 128,
@@ -347,7 +347,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Slightly Feline Statue (Cobra Tongue)",
+			"description": "Slightly feline statue (cobra tongue)",
 			"icon": "crossmark",
 			"xPosition": 113,
 			"xTile": 129,
@@ -355,7 +355,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Coal Basin (Flower)",
+			"description": "Coal basin (flower)",
 			"icon": "crossmark",
 			"xPosition": 114,
 			"xTile": 129,
@@ -363,7 +363,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Ornamented Stone Pedestal (Ewer)",
+			"description": "Ornamented stone pedestal (ewer)",
 			"icon": "crossmark",
 			"xPosition": 130,
 			"xTile": 129,
@@ -399,7 +399,7 @@
 			"yTile": 122
 		},
 		{
-			"description": "Strange Machine",
+			"description": "Strange machine",
 			"icon": "!",
 			"xPosition": 237,
 			"xTile": 130,
@@ -425,11 +425,19 @@
 			"yTile": 123
 		},
 		{
-			"description": "Purple Nightshade",
+			"description": "Purple nightshade",
 			"icon": "star",
 			"xPosition": 73,
 			"xTile": 130,
 			"yPosition": 199,
+			"yTile": 123
+		},
+		{
+			"description": "To exit",
+			"icon": "down",
+			"xPosition": 174,
+			"xTile": 130,
+			"yPosition": 235,
 			"yTile": 123
 		},
 		{

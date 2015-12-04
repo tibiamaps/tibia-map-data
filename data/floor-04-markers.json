@@ -1,7 +1,7 @@
 {
 	"12512404": [
 		{
-			"description": "Adventurer’s Bank",
+			"description": "Adventurer’s bank",
 			"icon": "$",
 			"xPosition": 55,
 			"xTile": 125,
@@ -9,7 +9,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Druid and Sorcerer Spells",
+			"description": "Druid and sorcerer spells",
 			"icon": "star",
 			"xPosition": 57,
 			"xTile": 125,
@@ -17,7 +17,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Safe Trade Rooms",
+			"description": "To the safe trade rooms",
 			"icon": "up",
 			"xPosition": 65,
 			"xTile": 125,
@@ -25,7 +25,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Knight and Paladin Spells",
+			"description": "Knight and paladin spells",
 			"icon": "star",
 			"xPosition": 72,
 			"xTile": 125,
@@ -33,7 +33,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Mr Morris’ Room",
+			"description": "Mr Morris’ room",
 			"icon": "!",
 			"xPosition": 72,
 			"xTile": 125,
@@ -41,7 +41,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "To the Shops, Temple, and Vocation Gates",
+			"description": "To the shops, temple, and vocation gates",
 			"icon": "down",
 			"xPosition": 73,
 			"xTile": 125,
@@ -69,7 +69,7 @@
 	],
 	"12812304": [
 		{
-			"description": "Flying Carpet",
+			"description": "Flying carpet",
 			"icon": "up",
 			"xPosition": 223,
 			"xTile": 128,
@@ -87,7 +87,7 @@
 	],
 	"12912804": [
 		{
-			"description": "Offline Training",
+			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 145,
 			"xTile": 129,
@@ -97,7 +97,7 @@
 	],
 	"13112404": [
 		{
-			"description": "Jondrin",
+			"description": "NPC Jondrin",
 			"icon": "!",
 			"xPosition": 115,
 			"xTile": 131,
