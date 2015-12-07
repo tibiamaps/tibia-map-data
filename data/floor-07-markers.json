@@ -129,6 +129,14 @@
 			"xTile": 125,
 			"yPosition": 186,
 			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 252,
+			"xTile": 125,
+			"yPosition": 229,
+			"yTile": 123
 		}
 	],
 	"12512407": [
@@ -697,11 +705,75 @@
 	],
 	"12612307": [
 		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 12,
+			"xTile": 126,
+			"yPosition": 238,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 83,
+			"xTile": 126,
+			"yPosition": 187,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 128,
+			"xTile": 126,
+			"yPosition": 203,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 156,
+			"xTile": 126,
+			"yPosition": 113,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 164,
+			"xTile": 126,
+			"yPosition": 103,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 179,
+			"xTile": 126,
+			"yPosition": 148,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 232,
+			"xTile": 126,
+			"yPosition": 169,
+			"yTile": 123
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"xPosition": 234,
 			"xTile": 126,
 			"yPosition": 210,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 254,
+			"xTile": 126,
+			"yPosition": 228,
 			"yTile": 123
 		}
 	],
@@ -977,6 +1049,22 @@
 	],
 	"12712307": [
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 46,
+			"xTile": 127,
+			"yPosition": 192,
+			"yTile": 123
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 69,
+			"xTile": 127,
+			"yPosition": 233,
+			"yTile": 123
+		},
+		{
 			"description": "Temple",
 			"icon": "cross",
 			"xPosition": 95,
@@ -1048,6 +1136,30 @@
 			"xPosition": 66,
 			"xTile": 127,
 			"yPosition": 148,
+			"yTile": 124
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 113,
+			"xTile": 127,
+			"yPosition": 55,
+			"yTile": 124
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 120,
+			"xTile": 127,
+			"yPosition": 68,
+			"yTile": 124
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 142,
+			"xTile": 127,
+			"yPosition": 85,
 			"yTile": 124
 		},
 		{
@@ -1481,6 +1593,14 @@
 			"xTile": 128,
 			"yPosition": 84,
 			"yTile": 125
+		},
+		{
+			"description": "Orc that drops Sam’s old and used backpack (spawn location)",
+			"icon": "star",
+			"xPosition": 212,
+			"xTile": 128,
+			"yPosition": 251,
+			"yTile": 123
 		}
 	],
 	"12812607": [
@@ -1535,7 +1655,7 @@
 			"yTile": 127
 		},
 		{
-			"description": "Shortcut to Banuta",
+			"description": "Shortcut to Deeper Banuta",
 			"icon": "down",
 			"xPosition": 85,
 			"xTile": 128,

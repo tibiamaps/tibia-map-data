@@ -227,6 +227,14 @@
 			"xTile": 128,
 			"yPosition": 53,
 			"yTile": 124
+		},
+		{
+			"description": "Depot",
+			"icon": "bag",
+			"xPosition": 58,
+			"xTile": 128,
+			"yPosition": 20,
+			"yTile": 124
 		}
 	],
 	"12812610": [
@@ -394,6 +402,22 @@
 			"xPosition": 64,
 			"xTile": 129,
 			"yPosition": 82,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 234,
+			"xTile": 129,
+			"yPosition": 19,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 240,
+			"xTile": 129,
+			"yPosition": 45,
 			"yTile": 126
 		}
 	],

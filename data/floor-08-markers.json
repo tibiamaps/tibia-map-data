@@ -147,6 +147,48 @@
 			"yTile": 122
 		}
 	],
+	"12612308": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 148,
+			"xTile": 126,
+			"yPosition": 240,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 164,
+			"xTile": 126,
+			"yPosition": 103,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 179,
+			"xTile": 126,
+			"yPosition": 148,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 224,
+			"xTile": 126,
+			"yPosition": 233,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 234,
+			"xTile": 126,
+			"yPosition": 209,
+			"yTile": 123
+		}
+	],
 	"12612408": [
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
@@ -168,6 +210,14 @@
 		}
 	],
 	"12712308": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 1,
+			"xTile": 127,
+			"yPosition": 168,
+			"yTile": 123
+		},
 		{
 			"description": "Offline training",
 			"icon": "sword",

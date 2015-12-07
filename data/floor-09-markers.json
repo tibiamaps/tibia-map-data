@@ -75,6 +75,22 @@
 	],
 	"12612309": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 148,
+			"xTile": 126,
+			"yPosition": 240,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 224,
+			"xTile": 126,
+			"yPosition": 233,
+			"yTile": 123
+		},
+		{
 			"description": "Maze of Lost Souls — lever required; see (!) on map",
 			"icon": "down",
 			"xPosition": 226,
@@ -104,6 +120,14 @@
 		}
 	],
 	"12712309": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 1,
+			"xTile": 127,
+			"yPosition": 168,
+			"yTile": 123
+		},
 		{
 			"description": "Pull switch to the right to open MoLS",
 			"icon": "!",
