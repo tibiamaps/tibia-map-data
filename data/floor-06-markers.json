@@ -123,6 +123,24 @@
 			"yTile": 125
 		}
 	],
+	"12712306": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 144,
+			"xTile": 127,
+			"yPosition": 186,
+			"yTile": 123
+		},
+		{
+			"description": "Magic store",
+			"icon": "star",
+			"xPosition": 158,
+			"xTile": 127,
+			"yPosition": 171,
+			"yTile": 123
+		}
+	],
 	"12712406": [
 		{
 			"description": "Key 5000 (silver key)",
@@ -257,6 +275,16 @@
 			"yTile": 126
 		}
 	],
+	"12912706": [
+		{
+			"description": "Horestis Tomb",
+			"icon": "down",
+			"xPosition": 2,
+			"xTile": 129,
+			"yPosition": 198,
+			"yTile": 127
+		}
+	],
 	"12912806": [
 		{
 			"description": "NPC Ahmet",
@@ -348,6 +376,14 @@
 			"xPosition": 144,
 			"xTile": 131,
 			"yPosition": 49,
+			"yTile": 124
+		},
+		{
+			"description": "Dragon egg shells",
+			"icon": "star",
+			"xPosition": 154,
+			"xTile": 131,
+			"yPosition": 38,
 			"yTile": 124
 		}
 	],

@@ -237,6 +237,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 36,
+			"xTile": 127,
+			"yPosition": 244,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 50,
+			"xTile": 127,
+			"yPosition": 250,
+			"yTile": 124
+		},
+		{
 			"description": "PvP arena",
 			"icon": "skull",
 			"xPosition": 91,

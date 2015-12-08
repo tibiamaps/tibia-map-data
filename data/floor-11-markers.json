@@ -193,6 +193,14 @@
 	],
 	"12812411": [
 		{
+			"description": "Teleport to Gnomegate",
+			"icon": "checkmark",
+			"xPosition": 96,
+			"xTile": 128,
+			"yPosition": 101,
+			"yTile": 124
+		},
+		{
 			"description": "Spore",
 			"icon": "checkmark",
 			"xPosition": 136,
@@ -326,6 +334,14 @@
 			"xPosition": 221,
 			"xTile": 128,
 			"yPosition": 143,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 224,
+			"xTile": 128,
+			"yPosition": 141,
 			"yTile": 124
 		}
 	],

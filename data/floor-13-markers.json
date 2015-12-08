@@ -170,6 +170,14 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 94,
+			"xTile": 128,
+			"yPosition": 91,
+			"yTile": 124
+		},
+		{
+			"description": "",
 			"icon": "checkmark",
 			"xPosition": 99,
 			"xTile": 128,
@@ -206,6 +214,14 @@
 			"xPosition": 227,
 			"xTile": 128,
 			"yPosition": 43,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Gnomegate",
+			"icon": "checkmark",
+			"xPosition": 232,
+			"xTile": 128,
+			"yPosition": 127,
 			"yTile": 124
 		},
 		{

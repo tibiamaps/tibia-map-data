@@ -1,1 +1,12 @@
-{}
+{
+	"12712400": [
+		{
+			"description": "Ore wagon",
+			"icon": "flag",
+			"xPosition": 65,
+			"xTile": 127,
+			"yPosition": 184,
+			"yTile": 124
+		}
+	]
+}

@@ -147,6 +147,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 50,
+			"xTile": 127,
+			"yPosition": 250,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 52,
+			"xTile": 127,
+			"yPosition": 248,
+			"yTile": 124
+		},
+		{
 			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 98,
@@ -258,6 +274,78 @@
 			"xPosition": 62,
 			"xTile": 128,
 			"yPosition": 53,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Gnomeral",
+			"icon": "mouth",
+			"xPosition": 197,
+			"xTile": 128,
+			"yPosition": 134,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Hot Spot",
+			"icon": "checkmark",
+			"xPosition": 211,
+			"xTile": 128,
+			"yPosition": 163,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Gnomegate",
+			"icon": "checkmark",
+			"xPosition": 218,
+			"xTile": 128,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Mushroom Gardens",
+			"icon": "down",
+			"xPosition": 229,
+			"xTile": 128,
+			"yPosition": 157,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Golem Workshop",
+			"icon": "checkmark",
+			"xPosition": 234,
+			"xTile": 128,
+			"yPosition": 172,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Gnomission",
+			"icon": "mouth",
+			"xPosition": 238,
+			"xTile": 128,
+			"yPosition": 145,
+			"yTile": 124
+		},
+		{
+			"description": "Warzone 1",
+			"icon": "!",
+			"xPosition": 245,
+			"xTile": 128,
+			"yPosition": 136,
+			"yTile": 124
+		},
+		{
+			"description": "Warzone 2",
+			"icon": "!",
+			"xPosition": 251,
+			"xTile": 128,
+			"yPosition": 142,
+			"yTile": 124
+		},
+		{
+			"description": "Warzone 3",
+			"icon": "!",
+			"xPosition": 254,
+			"xTile": 128,
+			"yPosition": 158,
 			"yTile": 124
 		}
 	],

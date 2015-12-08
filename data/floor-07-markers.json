@@ -1081,6 +1081,22 @@
 			"yTile": 123
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 142,
+			"xTile": 127,
+			"yPosition": 186,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 144,
+			"xTile": 127,
+			"yPosition": 186,
+			"yTile": 123
+		},
+		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 168,
@@ -1089,8 +1105,8 @@
 			"yTile": 123
 		},
 		{
-			"description": "Opticording Sphere quest?",
-			"icon": "?",
+			"description": "Opticording sphere quest",
+			"icon": "down",
 			"xPosition": 170,
 			"xTile": 127,
 			"yPosition": 116,
@@ -1115,6 +1131,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 36,
+			"xTile": 127,
+			"yPosition": 244,
+			"yTile": 124
+		},
+		{
+			"description": "Ore wagon",
+			"icon": "flag",
+			"xPosition": 41,
+			"xTile": 127,
+			"yPosition": 187,
+			"yTile": 124
+		},
+		{
 			"description": "Passage to Kazordoon",
 			"icon": "up",
 			"xPosition": 44,
@@ -1136,6 +1168,22 @@
 			"xPosition": 66,
 			"xTile": 127,
 			"yPosition": 148,
+			"yTile": 124
+		},
+		{
+			"description": "Ore wagon",
+			"icon": "flag",
+			"xPosition": 89,
+			"xTile": 127,
+			"yPosition": 131,
+			"yTile": 124
+		},
+		{
+			"description": "Ore wagon",
+			"icon": "flag",
+			"xPosition": 106,
+			"xTile": 127,
+			"yPosition": 200,
 			"yTile": 124
 		},
 		{
@@ -1168,6 +1216,30 @@
 			"xPosition": 151,
 			"xTile": 127,
 			"yPosition": 219,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 159,
+			"xTile": 127,
+			"yPosition": 52,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 171,
+			"xTile": 127,
+			"yPosition": 63,
+			"yTile": 124
+		},
+		{
+			"description": "White deer (spawn location)",
+			"icon": "star",
+			"xPosition": 181,
+			"xTile": 127,
+			"yPosition": 146,
 			"yTile": 124
 		}
 	],
@@ -1583,6 +1655,14 @@
 			"xTile": 128,
 			"yPosition": 7,
 			"yTile": 123
+		},
+		{
+			"description": "Orc that drops Sam’s old and used backpack (spawn location)",
+			"icon": "star",
+			"xPosition": 212,
+			"xTile": 128,
+			"yPosition": 251,
+			"yTile": 123
 		}
 	],
 	"12812507": [
@@ -1593,14 +1673,6 @@
 			"xTile": 128,
 			"yPosition": 84,
 			"yTile": 125
-		},
-		{
-			"description": "Orc that drops Sam’s old and used backpack (spawn location)",
-			"icon": "star",
-			"xPosition": 212,
-			"xTile": 128,
-			"yPosition": 251,
-			"yTile": 123
 		}
 	],
 	"12812607": [
@@ -2231,6 +2303,22 @@
 	],
 	"12912707": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 1,
+			"xTile": 129,
+			"yPosition": 198,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 2,
+			"xTile": 129,
+			"yPosition": 218,
+			"yTile": 127
+		},
+		{
 			"description": "Horestis Tomb",
 			"icon": "up",
 			"xPosition": 36,
@@ -2477,6 +2565,14 @@
 			"yTile": 122
 		},
 		{
+			"description": "To other cities",
+			"icon": "down",
+			"xPosition": 173,
+			"xTile": 130,
+			"yPosition": 113,
+			"yTile": 122
+		},
+		{
 			"description": "Magic store",
 			"icon": "up",
 			"xPosition": 180,
@@ -2540,6 +2636,14 @@
 			"xPosition": 223,
 			"xTile": 130,
 			"yPosition": 90,
+			"yTile": 123
+		},
+		{
+			"description": "Shark teeth",
+			"icon": "star",
+			"xPosition": 236,
+			"xTile": 130,
+			"yPosition": 104,
 			"yTile": 123
 		},
 		{
@@ -2739,6 +2843,118 @@
 	],
 	"13112307": [
 		{
+			"description": "Sleeping hyaena",
+			"icon": "red down",
+			"xPosition": 13,
+			"xTile": 131,
+			"yPosition": 174,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 44,
+			"xTile": 131,
+			"yPosition": 97,
+			"yTile": 123
+		},
+		{
+			"description": "Sacred site",
+			"icon": "star",
+			"xPosition": 80,
+			"xTile": 131,
+			"yPosition": 117,
+			"yTile": 123
+		},
+		{
+			"description": "Sacred site",
+			"icon": "star",
+			"xPosition": 82,
+			"xTile": 131,
+			"yPosition": 251,
+			"yTile": 123
+		},
+		{
+			"description": "NPC Ghorza (magic shopkeeper)",
+			"icon": "star",
+			"xPosition": 91,
+			"xTile": 131,
+			"yPosition": 169,
+			"yTile": 123
+		},
+		{
+			"description": "NPC Mugruu",
+			"icon": "mouth",
+			"xPosition": 100,
+			"xTile": 131,
+			"yPosition": 190,
+			"yTile": 123
+		},
+		{
+			"description": "NPC Vuzrog",
+			"icon": "mouth",
+			"xPosition": 103,
+			"xTile": 131,
+			"yPosition": 171,
+			"yTile": 123
+		},
+		{
+			"description": "Voodoo lily",
+			"icon": "star",
+			"xPosition": 107,
+			"xTile": 131,
+			"yPosition": 210,
+			"yTile": 123
+		},
+		{
+			"description": "NPC Nibble",
+			"icon": "mouth",
+			"xPosition": 120,
+			"xTile": 131,
+			"yPosition": 162,
+			"yTile": 123
+		},
+		{
+			"description": "NPC Larek",
+			"icon": "mouth",
+			"xPosition": 122,
+			"xTile": 131,
+			"yPosition": 176,
+			"yTile": 123
+		},
+		{
+			"description": "Ogre beer crate",
+			"icon": "star",
+			"xPosition": 147,
+			"xTile": 131,
+			"yPosition": 234,
+			"yTile": 123
+		},
+		{
+			"description": "Skull orchid",
+			"icon": "star",
+			"xPosition": 170,
+			"xTile": 131,
+			"yPosition": 254,
+			"yTile": 123
+		},
+		{
+			"description": "Sacred site",
+			"icon": "star",
+			"xPosition": 174,
+			"xTile": 131,
+			"yPosition": 147,
+			"yTile": 123
+		},
+		{
+			"description": "Skull orchid",
+			"icon": "star",
+			"xPosition": 193,
+			"xTile": 131,
+			"yPosition": 151,
+			"yTile": 123
+		},
+		{
 			"description": "To NPC A Goblin Exile",
 			"icon": "down",
 			"xPosition": 194,
@@ -2874,6 +3090,14 @@
 			"xPosition": 144,
 			"xTile": 131,
 			"yPosition": 49,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 145,
+			"xTile": 131,
+			"yPosition": 8,
 			"yTile": 124
 		},
 		{

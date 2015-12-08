@@ -213,11 +213,51 @@
 			"yTile": 124
 		},
 		{
+			"description": "NPC Gnomally",
+			"icon": "mouth",
+			"xPosition": 26,
+			"xTile": 128,
+			"yPosition": 4,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Crystal Grounds",
+			"icon": "checkmark",
+			"xPosition": 27,
+			"xTile": 128,
+			"yPosition": 17,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Gnomebase Alpha",
+			"icon": "checkmark",
+			"xPosition": 28,
+			"xTile": 128,
+			"yPosition": 36,
+			"yTile": 124
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 33,
 			"xTile": 128,
 			"yPosition": 24,
+			"yTile": 124
+		},
+		{
+			"description": "Teleport to Truffels Garden",
+			"icon": "checkmark",
+			"xPosition": 35,
+			"xTile": 128,
+			"yPosition": 1,
+			"yTile": 124
+		},
+		{
+			"description": "Magic store",
+			"icon": "star",
+			"xPosition": 35,
+			"xTile": 128,
+			"yPosition": 39,
 			"yTile": 124
 		},
 		{
@@ -229,11 +269,35 @@
 			"yTile": 124
 		},
 		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 57,
+			"xTile": 128,
+			"yPosition": 8,
+			"yTile": 124
+		},
+		{
 			"description": "Depot",
 			"icon": "bag",
 			"xPosition": 58,
 			"xTile": 128,
 			"yPosition": 20,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 224,
+			"xTile": 128,
+			"yPosition": 141,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 231,
+			"xTile": 128,
+			"yPosition": 157,
 			"yTile": 124
 		}
 	],
