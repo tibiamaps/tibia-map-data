@@ -547,6 +547,14 @@
 			"xTile": 131,
 			"yPosition": 137,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 83,
+			"xTile": 131,
+			"yPosition": 115,
+			"yTile": 123
 		}
 	],
 	"13112409": [
@@ -564,6 +572,14 @@
 			"xPosition": 35,
 			"xTile": 131,
 			"yPosition": 239,
+			"yTile": 124
+		},
+		{
+			"description": "Crude water conveyor",
+			"icon": "star",
+			"xPosition": 62,
+			"xTile": 131,
+			"yPosition": 9,
 			"yTile": 124
 		},
 		{
@@ -596,6 +612,14 @@
 			"xPosition": 90,
 			"xTile": 131,
 			"yPosition": 45,
+			"yTile": 124
+		},
+		{
+			"description": "Crude water conveyors",
+			"icon": "star",
+			"xPosition": 96,
+			"xTile": 131,
+			"yPosition": 17,
 			"yTile": 124
 		},
 		{

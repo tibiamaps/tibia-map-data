@@ -97,6 +97,22 @@
 	],
 	"13112404": [
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 78,
+			"xTile": 131,
+			"yPosition": 44,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 84,
+			"xTile": 131,
+			"yPosition": 48,
+			"yTile": 124
+		},
+		{
 			"description": "NPC Jondrin",
 			"icon": "!",
 			"xPosition": 115,

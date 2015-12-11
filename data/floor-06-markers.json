@@ -347,11 +347,27 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 51,
+			"yTile": 124
+		},
+		{
 			"description": "Bank upstairs and depot downstairs",
 			"icon": "$",
 			"xPosition": 90,
 			"xTile": 131,
 			"yPosition": 150,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 94,
+			"xTile": 131,
+			"yPosition": 57,
 			"yTile": 124
 		},
 		{
@@ -372,10 +388,42 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 104,
+			"xTile": 131,
+			"yPosition": 50,
+			"yTile": 124
+		},
+		{
+			"description": "Dragon egg shells",
+			"icon": "star",
+			"xPosition": 125,
+			"xTile": 131,
+			"yPosition": 35,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 135,
+			"xTile": 131,
+			"yPosition": 52,
+			"yTile": 124
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"xPosition": 144,
 			"xTile": 131,
 			"yPosition": 49,
+			"yTile": 124
+		},
+		{
+			"description": "Key 0555",
+			"icon": "star",
+			"xPosition": 148,
+			"xTile": 131,
+			"yPosition": 50,
 			"yTile": 124
 		},
 		{
@@ -384,6 +432,14 @@
 			"xPosition": 154,
 			"xTile": 131,
 			"yPosition": 38,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 164,
+			"xTile": 131,
+			"yPosition": 47,
 			"yTile": 124
 		}
 	],

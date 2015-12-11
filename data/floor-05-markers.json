@@ -77,6 +77,38 @@
 	],
 	"13112405": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 78,
+			"xTile": 131,
+			"yPosition": 44,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 84,
+			"xTile": 131,
+			"yPosition": 48,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 51,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 104,
+			"xTile": 131,
+			"yPosition": 50,
+			"yTile": 124
+		},
+		{
 			"description": "NPC Barazbaz",
 			"icon": "!",
 			"xPosition": 114,
@@ -90,6 +122,14 @@
 			"xPosition": 126,
 			"xTile": 131,
 			"yPosition": 134,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 135,
+			"xTile": 131,
+			"yPosition": 52,
 			"yTile": 124
 		}
 	],

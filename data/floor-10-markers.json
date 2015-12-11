@@ -505,6 +505,24 @@
 			"yTile": 127
 		}
 	],
+	"13112310": [
+		{
+			"description": "Crude water conveyor",
+			"icon": "star",
+			"xPosition": 95,
+			"xTile": 131,
+			"yPosition": 239,
+			"yTile": 123
+		},
+		{
+			"description": "NPC An Imprisoned Goblin",
+			"icon": "mouth",
+			"xPosition": 96,
+			"xTile": 131,
+			"yPosition": 227,
+			"yTile": 123
+		}
+	],
 	"13112410": [
 		{
 			"description": "Abandoned Sewers",
@@ -512,6 +530,14 @@
 			"xPosition": 13,
 			"xTile": 131,
 			"yPosition": 230,
+			"yTile": 124
+		},
+		{
+			"description": "Crude water conveyor",
+			"icon": "star",
+			"xPosition": 70,
+			"xTile": 131,
+			"yPosition": 21,
 			"yTile": 124
 		},
 		{

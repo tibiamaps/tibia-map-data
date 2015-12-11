@@ -521,6 +521,14 @@
 			"xTile": 130,
 			"yPosition": 118,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 248,
+			"xTile": 130,
+			"yPosition": 184,
+			"yTile": 123
 		}
 	],
 	"13012708": [
@@ -540,6 +548,46 @@
 			"xPosition": 10,
 			"xTile": 131,
 			"yPosition": 137,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 44,
+			"xTile": 131,
+			"yPosition": 97,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 83,
+			"xTile": 131,
+			"yPosition": 115,
+			"yTile": 123
+		},
+		{
+			"description": "Offline training",
+			"icon": "sword",
+			"xPosition": 101,
+			"xTile": 131,
+			"yPosition": 176,
+			"yTile": 123
+		},
+		{
+			"description": "Bank and post office",
+			"icon": "$",
+			"xPosition": 103,
+			"xTile": 131,
+			"yPosition": 190,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 121,
+			"xTile": 131,
+			"yPosition": 169,
 			"yTile": 123
 		},
 		{

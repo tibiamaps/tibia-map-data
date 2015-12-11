@@ -987,7 +987,7 @@
 			"yTile": 128
 		},
 		{
-			"description": "Post office and bank",
+			"description": "Bank and post office",
 			"icon": "$",
 			"xPosition": 81,
 			"xTile": 126,
@@ -2073,7 +2073,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Post office and bank",
+			"description": "Bank and post office",
 			"icon": "$",
 			"xPosition": 148,
 			"xTile": 129,
@@ -2647,6 +2647,14 @@
 			"yTile": 123
 		},
 		{
+			"description": "To NPC A Runaway Goblin",
+			"icon": "down",
+			"xPosition": 248,
+			"xTile": 130,
+			"yPosition": 184,
+			"yTile": 123
+		},
+		{
 			"description": "To boat",
 			"icon": "flag",
 			"xPosition": 248,
@@ -2851,7 +2859,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "",
+			"description": "Undead gladiators / nightmare scions / nightmares",
 			"icon": "down",
 			"xPosition": 44,
 			"xTile": 131,
@@ -2883,7 +2891,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "NPC Mugruu",
+			"description": "NPC Mugruu (weapons and ammunition)",
 			"icon": "mouth",
 			"xPosition": 100,
 			"xTile": 131,
@@ -2899,11 +2907,11 @@
 			"yTile": 123
 		},
 		{
-			"description": "Voodoo lily",
+			"description": "Ancient amulet",
 			"icon": "star",
-			"xPosition": 107,
+			"xPosition": 112,
 			"xTile": 131,
-			"yPosition": 210,
+			"yPosition": 253,
 			"yTile": 123
 		},
 		{
@@ -2912,6 +2920,14 @@
 			"xPosition": 120,
 			"xTile": 131,
 			"yPosition": 162,
+			"yTile": 123
+		},
+		{
+			"description": "Depot",
+			"icon": "bag",
+			"xPosition": 121,
+			"xTile": 131,
+			"yPosition": 169,
 			"yTile": 123
 		},
 		{
@@ -3109,7 +3125,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "",
+			"description": "To NPC Grubokk",
 			"icon": "up",
 			"xPosition": 156,
 			"xTile": 131,
