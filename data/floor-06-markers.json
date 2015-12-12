@@ -363,6 +363,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Water well",
+			"icon": "star",
+			"xPosition": 92,
+			"xTile": 131,
+			"yPosition": 52,
+			"yTile": 124
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 94,

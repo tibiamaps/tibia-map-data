@@ -131,6 +131,14 @@
 			"xTile": 131,
 			"yPosition": 52,
 			"yTile": 124
+		},
+		{
+			"description": "Water well",
+			"icon": "star",
+			"xPosition": 135,
+			"xTile": 131,
+			"yPosition": 56,
+			"yTile": 124
 		}
 	],
 	"13112705": [

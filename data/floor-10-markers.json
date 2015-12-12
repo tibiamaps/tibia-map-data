@@ -507,7 +507,15 @@
 	],
 	"13112310": [
 		{
-			"description": "Crude water conveyor",
+			"description": "Treadmill",
+			"icon": "crossmark",
+			"xPosition": 71,
+			"xTile": 131,
+			"yPosition": 232,
+			"yTile": 123
+		},
+		{
+			"description": "Water conveyor",
 			"icon": "star",
 			"xPosition": 95,
 			"xTile": 131,
@@ -533,7 +541,7 @@
 			"yTile": 124
 		},
 		{
-			"description": "Crude water conveyor",
+			"description": "Water conveyor",
 			"icon": "star",
 			"xPosition": 70,
 			"xTile": 131,

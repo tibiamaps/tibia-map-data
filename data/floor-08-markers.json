@@ -609,6 +609,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Treadmill",
+			"icon": "crossmark",
+			"xPosition": 63,
+			"xTile": 131,
+			"yPosition": 47,
+			"yTile": 124
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 101,
