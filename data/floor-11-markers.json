@@ -415,11 +415,27 @@
 			"yTile": 127
 		},
 		{
+			"description": "Statue of the snake god",
+			"icon": "star",
+			"xPosition": 91,
+			"xTile": 128,
+			"yPosition": 14,
+			"yTile": 127
+		},
+		{
 			"description": "Lever",
 			"icon": "checkmark",
 			"xPosition": 94,
 			"xTile": 128,
 			"yPosition": 45,
+			"yTile": 127
+		},
+		{
+			"description": "Gate of expertise for level 999",
+			"icon": "?",
+			"xPosition": 113,
+			"xTile": 128,
+			"yPosition": 15,
 			"yTile": 127
 		},
 		{

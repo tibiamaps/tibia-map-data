@@ -190,7 +190,7 @@
 		},
 		{
 			"description": "Temple",
-			"icon": "down",
+			"icon": "cross",
 			"xPosition": 185,
 			"xTile": 128,
 			"yPosition": 77,
