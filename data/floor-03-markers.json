@@ -61,6 +61,16 @@
 			"yTile": 127
 		}
 	],
+	"12812303": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 236,
+			"xTile": 128,
+			"yPosition": 32,
+			"yTile": 123
+		}
+	],
 	"13112103": [
 		{
 			"description": "Insectoid monolith",

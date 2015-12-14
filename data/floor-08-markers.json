@@ -435,6 +435,14 @@
 			"xTile": 129,
 			"yPosition": 24,
 			"yTile": 126
+		},
+		{
+			"description": "Teleport to Gnomegate",
+			"icon": "flag",
+			"xPosition": 163,
+			"xTile": 129,
+			"yPosition": 128,
+			"yTile": 126
 		}
 	],
 	"12912708": [
@@ -453,6 +461,24 @@
 			"xTile": 129,
 			"yPosition": 65,
 			"yTile": 127
+		}
+	],
+	"13012108": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 8,
+			"xTile": 130,
+			"yPosition": 228,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 65,
+			"xTile": 130,
+			"yPosition": 140,
+			"yTile": 121
 		}
 	],
 	"13012208": [

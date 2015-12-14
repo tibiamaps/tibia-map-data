@@ -194,7 +194,7 @@
 	"12812411": [
 		{
 			"description": "Teleport to Gnomegate",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 96,
 			"xTile": 128,
 			"yPosition": 101,

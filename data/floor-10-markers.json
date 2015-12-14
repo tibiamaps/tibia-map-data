@@ -195,6 +195,14 @@
 	],
 	"12812310": [
 		{
+			"description": "Magic store",
+			"icon": "star",
+			"xPosition": 242,
+			"xTile": 128,
+			"yPosition": 46,
+			"yTile": 123
+		},
+		{
 			"description": "Bank",
 			"icon": "$",
 			"xPosition": 244,
@@ -222,7 +230,7 @@
 		},
 		{
 			"description": "Teleport to Crystal Grounds",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 27,
 			"xTile": 128,
 			"yPosition": 17,
@@ -230,7 +238,7 @@
 		},
 		{
 			"description": "Teleport to Gnomebase Alpha",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 28,
 			"xTile": 128,
 			"yPosition": 36,
@@ -246,7 +254,7 @@
 		},
 		{
 			"description": "Teleport to Truffels Garden",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 35,
 			"xTile": 128,
 			"yPosition": 1,

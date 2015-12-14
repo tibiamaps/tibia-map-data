@@ -123,6 +123,16 @@
 			"yTile": 125
 		}
 	],
+	"12612806": [
+		{
+			"description": "Teleport to Gnomegate",
+			"icon": "flag",
+			"xPosition": 147,
+			"xTile": 126,
+			"yPosition": 50,
+			"yTile": 128
+		}
+	],
 	"12712306": [
 		{
 			"description": "",
@@ -245,6 +255,16 @@
 			"xTile": 129,
 			"yPosition": 216,
 			"yTile": 121
+		}
+	],
+	"12912306": [
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 3,
+			"xTile": 129,
+			"yPosition": 60,
+			"yTile": 123
 		}
 	],
 	"12912406": [

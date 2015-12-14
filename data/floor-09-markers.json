@@ -119,6 +119,16 @@
 			"yTile": 124
 		}
 	],
+	"12612509": [
+		{
+			"description": "Teleport to Gnomegate",
+			"icon": "flag",
+			"xPosition": 74,
+			"xTile": 126,
+			"yPosition": 173,
+			"yTile": 125
+		}
+	],
 	"12712209": [
 		{
 			"description": "Use pick on cracks to get down",
@@ -287,6 +297,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Teleport to Gnomebase Alpha",
+			"icon": "flag",
+			"xPosition": 191,
+			"xTile": 128,
+			"yPosition": 208,
+			"yTile": 124
+		},
+		{
 			"description": "NPC Gnomeral",
 			"icon": "mouth",
 			"xPosition": 197,
@@ -296,7 +314,7 @@
 		},
 		{
 			"description": "Teleport to Hot Spot",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 211,
 			"xTile": 128,
 			"yPosition": 163,
@@ -304,7 +322,7 @@
 		},
 		{
 			"description": "Teleport to Gnomegate",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 218,
 			"xTile": 128,
 			"yPosition": 117,
@@ -320,7 +338,7 @@
 		},
 		{
 			"description": "Teleport to Golem Workshop",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 234,
 			"xTile": 128,
 			"yPosition": 172,
@@ -445,6 +463,24 @@
 			"xTile": 129,
 			"yPosition": 75,
 			"yTile": 126
+		}
+	],
+	"13012109": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 6,
+			"xTile": 130,
+			"yPosition": 228,
+			"yTile": 121
+		},
+		{
+			"description": "Tome of knowledge",
+			"icon": "star",
+			"xPosition": 26,
+			"xTile": 130,
+			"yPosition": 149,
+			"yTile": 121
 		}
 	],
 	"13012309": [

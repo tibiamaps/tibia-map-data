@@ -1941,6 +1941,14 @@
 			"yTile": 122
 		},
 		{
+			"description": "NPC Curos",
+			"icon": "mouth",
+			"xPosition": 148,
+			"xTile": 129,
+			"yPosition": 163,
+			"yTile": 122
+		},
+		{
 			"description": "High class lizards",
 			"icon": "red up",
 			"xPosition": 151,
@@ -2253,6 +2261,14 @@
 			"yTile": 126
 		},
 		{
+			"description": "To GCTS",
+			"icon": "up",
+			"xPosition": 151,
+			"xTile": 129,
+			"yPosition": 127,
+			"yTile": 126
+		},
+		{
 			"description": "Depot",
 			"icon": "down",
 			"xPosition": 190,
@@ -2298,6 +2314,14 @@
 			"xPosition": 241,
 			"xTile": 129,
 			"yPosition": 23,
+			"yTile": 126
+		},
+		{
+			"description": "To the flying carpet",
+			"icon": "up",
+			"xPosition": 241,
+			"xTile": 129,
+			"yPosition": 185,
 			"yTile": 126
 		}
 	],
@@ -2548,10 +2572,34 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 32,
+			"xTile": 130,
+			"yPosition": 157,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 130,
+			"yPosition": 140,
+			"yTile": 121
+		},
+		{
+			"description": "",
 			"icon": "crossmark",
 			"xPosition": 68,
 			"xTile": 130,
 			"yPosition": 204,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 84,
+			"xTile": 130,
+			"yPosition": 149,
 			"yTile": 121
 		}
 	],

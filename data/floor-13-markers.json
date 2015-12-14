@@ -209,6 +209,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Teleport to Gnomebase Alpha",
+			"icon": "flag",
+			"xPosition": 136,
+			"xTile": 128,
+			"yPosition": 149,
+			"yTile": 124
+		},
+		{
 			"description": "Red crystal",
 			"icon": "checkmark",
 			"xPosition": 227,
@@ -218,7 +226,7 @@
 		},
 		{
 			"description": "Teleport to Gnomegate",
-			"icon": "checkmark",
+			"icon": "flag",
 			"xPosition": 232,
 			"xTile": 128,
 			"yPosition": 127,

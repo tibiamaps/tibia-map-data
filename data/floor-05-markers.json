@@ -75,6 +75,16 @@
 			"yTile": 121
 		}
 	],
+	"12912305": [
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 2,
+			"xTile": 129,
+			"yPosition": 60,
+			"yTile": 123
+		}
+	],
 	"13112405": [
 		{
 			"description": "",
