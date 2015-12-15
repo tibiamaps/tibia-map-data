@@ -285,6 +285,16 @@
 			"yTile": 127
 		}
 	],
+	"12912213": [
+		{
+			"description": "Teleport",
+			"icon": "flag",
+			"xPosition": 175,
+			"xTile": 129,
+			"yPosition": 207,
+			"yTile": 122
+		}
+	],
 	"12912313": [
 		{
 			"description": "Parchment Room Quest <hidden>",
@@ -357,6 +367,24 @@
 			"yTile": 128
 		}
 	],
+	"13012213": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 44,
+			"xTile": 130,
+			"yPosition": 235,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 130,
+			"yPosition": 142,
+			"yTile": 122
+		}
+	],
 	"13012313": [
 		{
 			"description": "",
@@ -385,6 +413,16 @@
 			"xTile": 130,
 			"yPosition": 123,
 			"yTile": 126
+		}
+	],
+	"13012713": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 162,
+			"xTile": 130,
+			"yPosition": 243,
+			"yTile": 127
 		}
 	]
 }

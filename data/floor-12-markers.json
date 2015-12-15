@@ -333,6 +333,24 @@
 			"yTile": 124
 		}
 	],
+	"13012212": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 50,
+			"xTile": 130,
+			"yPosition": 139,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 79,
+			"xTile": 130,
+			"yPosition": 219,
+			"yTile": 122
+		}
+	],
 	"13012412": [
 		{
 			"description": "Dinky moss floret",
@@ -383,6 +401,24 @@
 			"xTile": 130,
 			"yPosition": 38,
 			"yTile": 125
+		}
+	],
+	"13012812": [
+		{
+			"description": "Teleport",
+			"icon": "flag",
+			"xPosition": 202,
+			"xTile": 130,
+			"yPosition": 7,
+			"yTile": 128
+		},
+		{
+			"description": "Teleport",
+			"icon": "flag",
+			"xPosition": 232,
+			"xTile": 130,
+			"yPosition": 85,
+			"yTile": 128
 		}
 	],
 	"13112412": [

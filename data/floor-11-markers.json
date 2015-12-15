@@ -545,6 +545,16 @@
 			"yTile": 122
 		}
 	],
+	"13012811": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 209,
+			"xTile": 130,
+			"yPosition": 38,
+			"yTile": 128
+		}
+	],
 	"13112211": [
 		{
 			"description": "Reward",

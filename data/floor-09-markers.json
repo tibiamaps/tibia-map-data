@@ -585,6 +585,16 @@
 			"yTile": 127
 		}
 	],
+	"13012809": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 187,
+			"xTile": 130,
+			"yPosition": 29,
+			"yTile": 128
+		}
+	],
 	"13112309": [
 		{
 			"description": "",

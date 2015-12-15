@@ -567,6 +567,16 @@
 			"yTile": 127
 		}
 	],
+	"13012808": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 172,
+			"xTile": 130,
+			"yPosition": 36,
+			"yTile": 128
+		}
+	],
 	"13112308": [
 		{
 			"description": "",

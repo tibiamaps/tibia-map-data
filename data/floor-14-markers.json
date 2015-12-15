@@ -391,6 +391,14 @@
 	],
 	"13012214": [
 		{
+			"description": "Teleport",
+			"icon": "flag",
+			"xPosition": 44,
+			"xTile": 130,
+			"yPosition": 140,
+			"yTile": 122
+		},
+		{
 			"description": "Teleport to Gray Beach",
 			"icon": "star",
 			"xPosition": 160,
@@ -449,6 +457,16 @@
 			"xTile": 130,
 			"yPosition": 58,
 			"yTile": 124
+		}
+	],
+	"13012614": [
+		{
+			"description": "Teleport",
+			"icon": "flag",
+			"xPosition": 8,
+			"xTile": 130,
+			"yPosition": 97,
+			"yTile": 126
 		}
 	],
 	"13012714": [
