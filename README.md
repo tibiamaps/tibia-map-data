@@ -10,6 +10,14 @@ The custom format consists of three files for each floor:
 2. a PNG image visualizing the pathfinding data;
 3. a JSON file containing the marker info, if any.
 
+## Contributing
+
+Not sure where to explore? [View the open issues.](https://github.com/tibiamaps/tibia-map-data/issues?q=is%3Aissue+is%3Aopen)
+
+The easiest and best way to contribute maps is to create a [Tibiacast](https://www.tibiacast.com/) recording of you exploring the area, walking along the edges as closely as possible. Then, [file an issue linking to your recording](https://github.com/tibiamaps/tibia-map-data/issues/new). **This method of contribution is strongly preferred.**
+
+Alternatively, if you’re comfortable using command-line tools and Git, you could follow the instructions below to work with the map files directly. Use the official Tibia client to update your maps, [convert the maps to PNGs and JSON](#map--png--json), and submit a pull request containing your changes.
+
 ## Set up
 
 1. Install [Node.js v4+](https://nodejs.org/en/).
