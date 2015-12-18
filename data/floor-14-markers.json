@@ -35,6 +35,22 @@
 	],
 	"12512414": [
 		{
+			"description": "Hidden pick hole",
+			"icon": "down",
+			"xPosition": 165,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 181,
+			"xTile": 125,
+			"yPosition": 157,
+			"yTile": 124
+		},
+		{
 			"description": "To exit (hidden shovel hole)",
 			"icon": "down",
 			"xPosition": 204,
