@@ -305,7 +305,7 @@
 			"yTile": 123
 		},
 		{
-			"description": "Shaburak Demons/Askarak Demons",
+			"description": "Shaburak demons / askarak demons",
 			"icon": "?",
 			"xPosition": 138,
 			"xTile": 129,
@@ -328,6 +328,22 @@
 			"xPosition": 15,
 			"xTile": 129,
 			"yPosition": 114,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 211,
+			"xTile": 129,
+			"yPosition": 178,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 222,
+			"xTile": 129,
+			"yPosition": 188,
 			"yTile": 124
 		}
 	],
@@ -396,6 +412,22 @@
 		}
 	],
 	"13012413": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 6,
+			"xTile": 130,
+			"yPosition": 186,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 16,
+			"xTile": 130,
+			"yPosition": 204,
+			"yTile": 124
+		},
 		{
 			"description": "Levitate spot",
 			"icon": "down",

@@ -331,6 +331,14 @@
 			"xTile": 129,
 			"yPosition": 45,
 			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 211,
+			"xTile": 129,
+			"yPosition": 178,
+			"yTile": 124
 		}
 	],
 	"13012212": [
@@ -352,6 +360,14 @@
 		}
 	],
 	"13012412": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 16,
+			"xTile": 130,
+			"yPosition": 204,
+			"yTile": 124
+		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",

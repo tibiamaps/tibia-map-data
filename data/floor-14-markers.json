@@ -273,6 +273,24 @@
 			"yTile": 127
 		}
 	],
+	"12912414": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 222,
+			"xTile": 129,
+			"yPosition": 188,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 238,
+			"xTile": 129,
+			"yPosition": 195,
+			"yTile": 124
+		}
+	],
 	"12912814": [
 		{
 			"description": "",
@@ -466,6 +484,14 @@
 		}
 	],
 	"13012414": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 6,
+			"xTile": 130,
+			"yPosition": 186,
+			"yTile": 124
+		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
