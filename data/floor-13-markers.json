@@ -399,6 +399,14 @@
 			"xTile": 130,
 			"yPosition": 142,
 			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 246,
+			"xTile": 130,
+			"yPosition": 23,
+			"yTile": 122
 		}
 	],
 	"13012313": [

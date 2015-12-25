@@ -83,6 +83,16 @@
 			"yTile": 127
 		}
 	],
+	"12512812": [
+		{
+			"description": "Crustacea gigantica (spawn location)",
+			"icon": "star",
+			"xPosition": 107,
+			"xTile": 125,
+			"yPosition": 20,
+			"yTile": 128
+		}
+	],
 	"12612312": [
 		{
 			"description": "To monks",
@@ -341,6 +351,24 @@
 			"yTile": 124
 		}
 	],
+	"13012112": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 177,
+			"xTile": 130,
+			"yPosition": 200,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 232,
+			"xTile": 130,
+			"yPosition": 247,
+			"yTile": 121
+		}
+	],
 	"13012212": [
 		{
 			"description": "",
@@ -356,6 +384,14 @@
 			"xPosition": 79,
 			"xTile": 130,
 			"yPosition": 219,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 246,
+			"xTile": 130,
+			"yPosition": 23,
 			"yTile": 122
 		}
 	],

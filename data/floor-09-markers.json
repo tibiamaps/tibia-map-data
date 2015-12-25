@@ -615,14 +615,6 @@
 	],
 	"13112409": [
 		{
-			"description": "",
-			"icon": "checkmark",
-			"xPosition": 10,
-			"xTile": 131,
-			"yPosition": 230,
-			"yTile": 124
-		},
-		{
 			"description": "Sewer warden",
 			"icon": "!",
 			"xPosition": 35,

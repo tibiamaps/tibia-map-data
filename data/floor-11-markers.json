@@ -535,6 +535,24 @@
 			"yTile": 126
 		}
 	],
+	"13012111": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 231,
+			"xTile": 130,
+			"yPosition": 211,
+			"yTile": 121
+		},
+		{
+			"description": "To manta ray spawn",
+			"icon": "down",
+			"xPosition": 232,
+			"xTile": 130,
+			"yPosition": 247,
+			"yTile": 121
+		}
+	],
 	"13012211": [
 		{
 			"description": "Reward",
