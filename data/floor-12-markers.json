@@ -1,4 +1,14 @@
 {
+	"12412712": [
+		{
+			"description": "Exit",
+			"icon": "up",
+			"xPosition": 169,
+			"xTile": 124,
+			"yPosition": 201,
+			"yTile": 127
+		}
+	],
 	"12512112": [
 		{
 			"description": "Demon spawn",

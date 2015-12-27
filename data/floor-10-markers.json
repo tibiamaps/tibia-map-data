@@ -362,6 +362,22 @@
 	"12812710": [
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 86,
+			"xTile": 128,
+			"yPosition": 154,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 123,
+			"xTile": 128,
+			"yPosition": 133,
+			"yTile": 127
+		},
+		{
+			"description": "",
 			"icon": "red up",
 			"xPosition": 179,
 			"xTile": 128,
@@ -453,6 +469,14 @@
 			"yTile": 126
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 56,
+			"xTile": 129,
+			"yPosition": 17,
+			"yTile": 126
+		},
+		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
 			"xPosition": 56,
@@ -474,6 +498,38 @@
 			"xPosition": 64,
 			"xTile": 129,
 			"yPosition": 82,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 90,
+			"xTile": 129,
+			"yPosition": 40,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 98,
+			"xTile": 129,
+			"yPosition": 24,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 109,
+			"xTile": 129,
+			"yPosition": 65,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 115,
+			"xTile": 129,
+			"yPosition": 79,
 			"yTile": 126
 		},
 		{

@@ -405,6 +405,16 @@
 			"yTile": 128
 		}
 	],
+	"12912109": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 178,
+			"xTile": 129,
+			"yPosition": 83,
+			"yTile": 121
+		}
+	],
 	"12912509": [
 		{
 			"description": "Snake inscription",
@@ -433,11 +443,83 @@
 			"yTile": 126
 		},
 		{
+			"description": "Hyaena’s maw (small ruby)",
+			"icon": "star",
+			"xPosition": 45,
+			"xTile": 129,
+			"yPosition": 42,
+			"yTile": 126
+		},
+		{
+			"description": "Nest (small sapphire)",
+			"icon": "star",
+			"xPosition": 45,
+			"xTile": 129,
+			"yPosition": 46,
+			"yTile": 126
+		},
+		{
+			"description": "Snake’s mouth (small topaz)",
+			"icon": "star",
+			"xPosition": 53,
+			"xTile": 129,
+			"yPosition": 42,
+			"yTile": 126
+		},
+		{
+			"description": "Scorpion’s pincer (small amethyst)",
+			"icon": "star",
+			"xPosition": 53,
+			"xTile": 129,
+			"yPosition": 46,
+			"yTile": 126
+		},
+		{
+			"description": "To noble lions",
+			"icon": "down",
+			"xPosition": 56,
+			"xTile": 129,
+			"yPosition": 17,
+			"yTile": 126
+		},
+		{
 			"description": "Dusty amphora",
 			"icon": "crossmark",
 			"xPosition": 78,
 			"xTile": 129,
 			"yPosition": 60,
+			"yTile": 126
+		},
+		{
+			"description": "Scorpion altar",
+			"icon": "crossmark",
+			"xPosition": 85,
+			"xTile": 129,
+			"yPosition": 74,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 90,
+			"xTile": 129,
+			"yPosition": 40,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 95,
+			"xTile": 129,
+			"yPosition": 47,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 98,
+			"xTile": 129,
+			"yPosition": 24,
 			"yTile": 126
 		},
 		{
@@ -454,6 +536,22 @@
 			"xPosition": 107,
 			"xTile": 129,
 			"yPosition": 46,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 109,
+			"xTile": 129,
+			"yPosition": 65,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 115,
+			"xTile": 129,
+			"yPosition": 79,
 			"yTile": 126
 		},
 		{

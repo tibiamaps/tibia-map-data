@@ -387,6 +387,24 @@
 			"yTile": 127
 		}
 	],
+	"12912108": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 149,
+			"xTile": 129,
+			"yPosition": 99,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 178,
+			"xTile": 129,
+			"yPosition": 83,
+			"yTile": 121
+		}
+	],
 	"12912608": [
 		{
 			"description": "",
@@ -413,6 +431,14 @@
 			"yTile": 126
 		},
 		{
+			"description": "Teleport to inner sanctum",
+			"icon": "checkmark",
+			"xPosition": 104,
+			"xTile": 129,
+			"yPosition": 52,
+			"yTile": 126
+		},
+		{
 			"description": "Slightly feline statue (cobra tongue)",
 			"icon": "crossmark",
 			"xPosition": 113,
@@ -421,11 +447,27 @@
 			"yTile": 126
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 113,
+			"xTile": 129,
+			"yPosition": 96,
+			"yTile": 126
+		},
+		{
 			"description": "Coal basin (flower)",
 			"icon": "crossmark",
 			"xPosition": 114,
 			"xTile": 129,
 			"yPosition": 114,
+			"yTile": 126
+		},
+		{
+			"description": "Dead explorer (old parchment)",
+			"icon": "star",
+			"xPosition": 122,
+			"xTile": 129,
+			"yPosition": 85,
 			"yTile": 126
 		},
 		{

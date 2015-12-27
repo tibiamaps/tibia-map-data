@@ -2269,6 +2269,14 @@
 			"yTile": 126
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 113,
+			"xTile": 129,
+			"yPosition": 96,
+			"yTile": 126
+		},
+		{
 			"description": "To GCTS",
 			"icon": "up",
 			"xPosition": 151,
