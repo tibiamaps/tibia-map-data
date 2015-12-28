@@ -1,4 +1,38 @@
 {
+	"12512711": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 45,
+			"xTile": 125,
+			"yPosition": 100,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 49,
+			"xTile": 125,
+			"yPosition": 57,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 104,
+			"xTile": 125,
+			"yPosition": 76,
+			"yTile": 127
+		},
+		{
+			"description": "To demons",
+			"icon": "checkmark",
+			"xPosition": 105,
+			"xTile": 125,
+			"yPosition": 25,
+			"yTile": 127
+		}
+	],
 	"12612211": [
 		{
 			"description": "",
@@ -141,6 +175,24 @@
 			"xTile": 126,
 			"yPosition": 216,
 			"yTile": 125
+		}
+	],
+	"12612811": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 121,
+			"xTile": 126,
+			"yPosition": 11,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 163,
+			"xTile": 126,
+			"yPosition": 16,
+			"yTile": 128
 		}
 	],
 	"12712311": [

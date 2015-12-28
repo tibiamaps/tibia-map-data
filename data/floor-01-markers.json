@@ -17,6 +17,22 @@
 			"xTile": 130,
 			"yPosition": 222,
 			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 206,
+			"xTile": 130,
+			"yPosition": 217,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 221,
+			"xTile": 130,
+			"yPosition": 221,
+			"yTile": 121
 		}
 	],
 	"13112101": [
@@ -35,9 +51,33 @@
 			"xTile": 131,
 			"yPosition": 251,
 			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 68,
+			"xTile": 131,
+			"yPosition": 247,
+			"yTile": 121
 		}
 	],
 	"13112201": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 15,
+			"xTile": 131,
+			"yPosition": 85,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 41,
+			"xTile": 131,
+			"yPosition": 3,
+			"yTile": 122
+		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",

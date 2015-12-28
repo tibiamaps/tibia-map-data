@@ -29,9 +29,25 @@
 		{
 			"description": "",
 			"icon": "up",
+			"xPosition": 58,
+			"xTile": 125,
+			"yPosition": 90,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"xPosition": 66,
 			"xTile": 125,
 			"yPosition": 112,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 78,
+			"xTile": 125,
+			"yPosition": 97,
 			"yTile": 127
 		}
 	],
@@ -83,6 +99,102 @@
 			"xTile": 129,
 			"yPosition": 60,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 117,
+			"xTile": 129,
+			"yPosition": 49,
+			"yTile": 123
+		}
+	],
+	"12912605": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 3,
+			"xTile": 129,
+			"yPosition": 161,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 38,
+			"xTile": 129,
+			"yPosition": 184,
+			"yTile": 126
+		}
+	],
+	"13012105": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 203,
+			"xTile": 130,
+			"yPosition": 223,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 238,
+			"xTile": 130,
+			"yPosition": 217,
+			"yTile": 121
+		}
+	],
+	"13112105": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 8,
+			"xTile": 131,
+			"yPosition": 233,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 58,
+			"xTile": 131,
+			"yPosition": 254,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 73,
+			"xTile": 131,
+			"yPosition": 246,
+			"yTile": 121
+		}
+	],
+	"13112205": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 18,
+			"xTile": 131,
+			"yPosition": 83,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 19,
+			"xTile": 131,
+			"yPosition": 79,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 59,
+			"xTile": 131,
+			"yPosition": 11,
+			"yTile": 122
 		}
 	],
 	"13112405": [

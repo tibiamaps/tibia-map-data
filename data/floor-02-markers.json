@@ -29,13 +29,55 @@
 			"yTile": 128
 		}
 	],
+	"13012102": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 197,
+			"xTile": 130,
+			"yPosition": 224,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 221,
+			"xTile": 130,
+			"yPosition": 221,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 247,
+			"xTile": 130,
+			"yPosition": 239,
+			"yTile": 121
+		}
+	],
 	"13112102": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 26,
+			"xTile": 131,
+			"yPosition": 243,
+			"yTile": 121
+		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
 			"xPosition": 59,
 			"xTile": 131,
 			"yPosition": 247,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 70,
+			"xTile": 131,
+			"yPosition": 253,
 			"yTile": 121
 		},
 		{
@@ -48,6 +90,30 @@
 		}
 	],
 	"13112202": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 15,
+			"xTile": 131,
+			"yPosition": 85,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 21,
+			"xTile": 131,
+			"yPosition": 85,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 41,
+			"xTile": 131,
+			"yPosition": 3,
+			"yTile": 122
+		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",

@@ -29,6 +29,16 @@
 			"yTile": 123
 		}
 	],
+	"12412708": [
+		{
+			"description": "To Lich Hell",
+			"icon": "down",
+			"xPosition": 224,
+			"xTile": 124,
+			"yPosition": 46,
+			"yTile": 127
+		}
+	],
 	"12512108": [
 		{
 			"description": "",
@@ -119,6 +129,40 @@
 			"yTile": 126
 		}
 	],
+	"12512708": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 50,
+			"xTile": 125,
+			"yPosition": 108,
+			"yTile": 127
+		},
+		{
+			"description": "Dragons & dragon lords",
+			"icon": "down",
+			"xPosition": 68,
+			"xTile": 125,
+			"yPosition": 42,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 119,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 119,
+			"xTile": 125,
+			"yPosition": 63,
+			"yTile": 127
+		}
+	],
 	"12612108": [
 		{
 			"description": "",
@@ -207,6 +251,34 @@
 			"xTile": 126,
 			"yPosition": 110,
 			"yTile": 125
+		}
+	],
+	"12612708": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 104,
+			"xTile": 126,
+			"yPosition": 209,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 164,
+			"xTile": 126,
+			"yPosition": 228,
+			"yTile": 127
+		}
+	],
+	"12612808": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 173,
+			"xTile": 126,
+			"yPosition": 28,
+			"yTile": 128
 		}
 	],
 	"12712308": [
@@ -389,6 +461,14 @@
 	],
 	"12912108": [
 		{
+			"description": "Task boss: Ethershreck",
+			"icon": "!",
+			"xPosition": 91,
+			"xTile": 129,
+			"yPosition": 28,
+			"yTile": 121
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 149,
@@ -398,11 +478,29 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 152,
+			"xTile": 129,
+			"yPosition": 39,
+			"yTile": 121
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"xPosition": 178,
 			"xTile": 129,
 			"yPosition": 83,
 			"yTile": 121
+		}
+	],
+	"12912408": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 164,
+			"xTile": 129,
+			"yPosition": 244,
+			"yTile": 124
 		}
 	],
 	"12912608": [
@@ -521,6 +619,14 @@
 			"xTile": 130,
 			"yPosition": 140,
 			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 200,
+			"xTile": 130,
+			"yPosition": 227,
+			"yTile": 121
 		}
 	],
 	"13012208": [
@@ -530,6 +636,22 @@
 			"xPosition": 167,
 			"xTile": 130,
 			"yPosition": 84,
+			"yTile": 122
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 171,
+			"xTile": 130,
+			"yPosition": 77,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 173,
+			"xTile": 130,
+			"yPosition": 113,
 			"yTile": 122
 		},
 		{
@@ -599,6 +721,40 @@
 			"yTile": 123
 		}
 	],
+	"13012408": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 49,
+			"xTile": 130,
+			"yPosition": 232,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 60,
+			"xTile": 130,
+			"yPosition": 229,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 70,
+			"xTile": 130,
+			"yPosition": 215,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 85,
+			"xTile": 130,
+			"yPosition": 194,
+			"yTile": 124
+		}
+	],
 	"13012708": [
 		{
 			"description": "",
@@ -617,6 +773,42 @@
 			"xTile": 130,
 			"yPosition": 36,
 			"yTile": 128
+		}
+	],
+	"13112108": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 17,
+			"xTile": 131,
+			"yPosition": 221,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 51,
+			"xTile": 131,
+			"yPosition": 237,
+			"yTile": 121
+		}
+	],
+	"13112208": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 49,
+			"xTile": 131,
+			"yPosition": 52,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 51,
+			"xTile": 131,
+			"yPosition": 29,
+			"yTile": 122
 		}
 	],
 	"13112308": [

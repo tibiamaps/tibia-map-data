@@ -77,6 +77,14 @@
 	],
 	"12512712": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 45,
+			"xTile": 125,
+			"yPosition": 100,
+			"yTile": 127
+		},
+		{
 			"description": "Mailbox (floor below)",
 			"icon": "flag",
 			"xPosition": 56,
@@ -90,6 +98,14 @@
 			"xPosition": 98,
 			"xTile": 125,
 			"yPosition": 226,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 104,
+			"xTile": 125,
+			"yPosition": 76,
 			"yTile": 127
 		}
 	],
@@ -359,6 +375,16 @@
 			"xTile": 129,
 			"yPosition": 178,
 			"yTile": 124
+		}
+	],
+	"12912612": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 7,
+			"xTile": 129,
+			"yPosition": 195,
+			"yTile": 126
 		}
 	],
 	"13012112": [

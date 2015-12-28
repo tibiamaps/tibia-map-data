@@ -52,6 +52,14 @@
 	"12512704": [
 		{
 			"description": "",
+			"icon": "down",
+			"xPosition": 58,
+			"xTile": 125,
+			"yPosition": 90,
+			"yTile": 127
+		},
+		{
+			"description": "",
 			"icon": "up",
 			"xPosition": 61,
 			"xTile": 125,
@@ -64,6 +72,14 @@
 			"xPosition": 66,
 			"xTile": 125,
 			"yPosition": 111,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 92,
 			"yTile": 127
 		}
 	],
@@ -93,6 +109,76 @@
 			"xTile": 129,
 			"yPosition": 45,
 			"yTile": 128
+		}
+	],
+	"13012104": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 200,
+			"xTile": 130,
+			"yPosition": 221,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 238,
+			"xTile": 130,
+			"yPosition": 217,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 239,
+			"xTile": 130,
+			"yPosition": 230,
+			"yTile": 121
+		}
+	],
+	"13112104": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 44,
+			"xTile": 131,
+			"yPosition": 255,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 51,
+			"xTile": 131,
+			"yPosition": 237,
+			"yTile": 121
+		}
+	],
+	"13112204": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 16,
+			"xTile": 131,
+			"yPosition": 84,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 19,
+			"xTile": 131,
+			"yPosition": 79,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 59,
+			"xTile": 131,
+			"yPosition": 11,
+			"yTile": 122
 		}
 	],
 	"13112404": [

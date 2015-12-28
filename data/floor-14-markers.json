@@ -69,6 +69,22 @@
 			"yTile": 127
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 49,
+			"xTile": 125,
+			"yPosition": 59,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 88,
+			"xTile": 125,
+			"yPosition": 61,
+			"yTile": 127
+		},
+		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 146,

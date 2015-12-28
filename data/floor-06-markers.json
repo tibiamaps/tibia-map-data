@@ -107,9 +107,25 @@
 		{
 			"description": "",
 			"icon": "down",
+			"xPosition": 50,
+			"xTile": 125,
+			"yPosition": 88,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
 			"xPosition": 67,
 			"xTile": 125,
 			"yPosition": 120,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 78,
+			"xTile": 125,
+			"yPosition": 97,
 			"yTile": 127
 		}
 	],
@@ -121,6 +137,16 @@
 			"xTile": 126,
 			"yPosition": 199,
 			"yTile": 125
+		}
+	],
+	"12612706": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 162,
+			"xTile": 126,
+			"yPosition": 246,
+			"yTile": 127
 		}
 	],
 	"12612806": [
@@ -265,6 +291,22 @@
 			"xTile": 129,
 			"yPosition": 60,
 			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 111,
+			"xTile": 129,
+			"yPosition": 22,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 117,
+			"xTile": 129,
+			"yPosition": 49,
+			"yTile": 123
 		}
 	],
 	"12912406": [
@@ -321,6 +363,102 @@
 			"xTile": 129,
 			"yPosition": 49,
 			"yTile": 128
+		}
+	],
+	"13012106": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 203,
+			"xTile": 130,
+			"yPosition": 223,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 230,
+			"xTile": 130,
+			"yPosition": 215,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 231,
+			"xTile": 130,
+			"yPosition": 194,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 239,
+			"xTile": 130,
+			"yPosition": 233,
+			"yTile": 121
+		}
+	],
+	"13012706": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 244,
+			"xTile": 130,
+			"yPosition": 36,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 250,
+			"xTile": 130,
+			"yPosition": 11,
+			"yTile": 127
+		}
+	],
+	"13112106": [
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 29,
+			"xTile": 131,
+			"yPosition": 242,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 58,
+			"xTile": 131,
+			"yPosition": 254,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 60,
+			"xTile": 131,
+			"yPosition": 241,
+			"yTile": 121
+		}
+	],
+	"13112206": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 18,
+			"xTile": 131,
+			"yPosition": 83,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 21,
+			"xTile": 131,
+			"yPosition": 86,
+			"yTile": 122
 		}
 	],
 	"13112306": [

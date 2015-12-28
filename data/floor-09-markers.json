@@ -1,14 +1,4 @@
 {
-	"12412109": [
-		{
-			"description": "Large seashell",
-			"icon": "star",
-			"xPosition": 174,
-			"xTile": 124,
-			"yPosition": 219,
-			"yTile": 121
-		}
-	],
 	"12412709": [
 		{
 			"description": "Serpent spawns / medusas",
@@ -24,6 +14,14 @@
 			"xPosition": 203,
 			"xTile": 124,
 			"yPosition": 81,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 224,
+			"xTile": 124,
+			"yPosition": 46,
 			"yTile": 127
 		}
 	],
@@ -45,6 +43,32 @@
 			"xTile": 125,
 			"yPosition": 80,
 			"yTile": 123
+		}
+	],
+	"12512709": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 13,
+			"xTile": 125,
+			"yPosition": 110,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 119,
+			"xTile": 125,
+			"yPosition": 63,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 146,
+			"xTile": 125,
+			"yPosition": 101,
+			"yTile": 127
 		}
 	],
 	"12512809": [
@@ -127,6 +151,26 @@
 			"xTile": 126,
 			"yPosition": 173,
 			"yTile": 125
+		}
+	],
+	"12612709": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 164,
+			"xTile": 126,
+			"yPosition": 228,
+			"yTile": 127
+		}
+	],
+	"12612809": [
+		{
+			"description": "Piano",
+			"icon": "checkmark",
+			"xPosition": 151,
+			"xTile": 126,
+			"yPosition": 26,
+			"yTile": 128
 		}
 	],
 	"12712209": [
@@ -236,6 +280,14 @@
 			"xPosition": 37,
 			"xTile": 128,
 			"yPosition": 255,
+			"yTile": 123
+		},
+		{
+			"description": "Uniwheel",
+			"icon": "star",
+			"xPosition": 171,
+			"xTile": 128,
+			"yPosition": 96,
 			"yTile": 123
 		},
 		{
@@ -641,6 +693,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 49,
+			"xTile": 130,
+			"yPosition": 232,
+			"yTile": 124
+		},
+		{
 			"description": "Mad Mage (spawn location)",
 			"icon": "star",
 			"xPosition": 68,
@@ -649,11 +709,27 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 70,
+			"xTile": 130,
+			"yPosition": 215,
+			"yTile": 124
+		},
+		{
 			"description": "Mad Mage (spawn location)",
 			"icon": "star",
 			"xPosition": 84,
 			"xTile": 130,
 			"yPosition": 129,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 85,
+			"xTile": 130,
+			"yPosition": 194,
 			"yTile": 124
 		},
 		{
@@ -691,6 +767,16 @@
 			"xTile": 130,
 			"yPosition": 29,
 			"yTile": 128
+		}
+	],
+	"13112209": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 51,
+			"xTile": 131,
+			"yPosition": 29,
+			"yTile": 122
 		}
 	],
 	"13112309": [

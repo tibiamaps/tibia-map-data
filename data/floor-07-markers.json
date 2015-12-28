@@ -501,6 +501,22 @@
 		{
 			"description": "",
 			"icon": "up",
+			"xPosition": 49,
+			"xTile": 125,
+			"yPosition": 88,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 50,
+			"xTile": 125,
+			"yPosition": 108,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"xPosition": 66,
 			"xTile": 125,
 			"yPosition": 121,
@@ -536,6 +552,14 @@
 			"xPosition": 97,
 			"xTile": 125,
 			"yPosition": 64,
+			"yTile": 127
+		},
+		{
+			"description": "To demons",
+			"icon": "down",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 119,
 			"yTile": 127
 		},
 		{
@@ -953,11 +977,51 @@
 	],
 	"12612707": [
 		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 11,
+			"xTile": 126,
+			"yPosition": 187,
+			"yTile": 127
+		},
+		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 92,
 			"xTile": 126,
 			"yPosition": 183,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 104,
+			"xTile": 126,
+			"yPosition": 209,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 112,
+			"xTile": 126,
+			"yPosition": 217,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 128,
+			"xTile": 126,
+			"yPosition": 190,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 162,
+			"xTile": 126,
+			"yPosition": 246,
 			"yTile": 127
 		}
 	],
@@ -1011,11 +1075,27 @@
 			"yTile": 128
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 117,
+			"xTile": 126,
+			"yPosition": 2,
+			"yTile": 128
+		},
+		{
 			"description": "Wyrms",
 			"icon": "red down",
 			"xPosition": 132,
 			"xTile": 126,
 			"yPosition": 73,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 173,
+			"xTile": 126,
+			"yPosition": 28,
 			"yTile": 128
 		}
 	],
@@ -1258,6 +1338,14 @@
 			"xPosition": 145,
 			"xTile": 127,
 			"yPosition": 201,
+			"yTile": 125
+		},
+		{
+			"description": "Rabbits",
+			"icon": "down",
+			"xPosition": 178,
+			"xTile": 127,
+			"yPosition": 204,
 			"yTile": 125
 		},
 		{
@@ -2023,6 +2111,14 @@
 			"yTile": 123
 		},
 		{
+			"description": "To the Mage’s Tower",
+			"icon": "up",
+			"xPosition": 111,
+			"xTile": 129,
+			"yPosition": 22,
+			"yTile": 123
+		},
+		{
 			"description": "Earth elementals and bog raiders",
 			"icon": "red down",
 			"xPosition": 133,
@@ -2617,6 +2713,38 @@
 			"xTile": 130,
 			"yPosition": 149,
 			"yTile": 121
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 199,
+			"xTile": 130,
+			"yPosition": 221,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 200,
+			"xTile": 130,
+			"yPosition": 227,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 230,
+			"xTile": 130,
+			"yPosition": 215,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 239,
+			"xTile": 130,
+			"yPosition": 233,
+			"yTile": 121
 		}
 	],
 	"13012207": [
@@ -2629,11 +2757,27 @@
 			"yTile": 122
 		},
 		{
+			"description": "NPC Orockle",
+			"icon": "mouth",
+			"xPosition": 169,
+			"xTile": 130,
+			"yPosition": 78,
+			"yTile": 122
+		},
+		{
 			"description": "To other cities",
 			"icon": "down",
 			"xPosition": 173,
 			"xTile": 130,
 			"yPosition": 113,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 177,
+			"xTile": 130,
+			"yPosition": 65,
 			"yTile": 122
 		},
 		{
@@ -2753,6 +2897,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 60,
+			"xTile": 130,
+			"yPosition": 229,
+			"yTile": 124
+		},
+		{
 			"description": "To NPC A Majestic Warwolf",
 			"icon": "down",
 			"xPosition": 84,
@@ -2845,6 +2997,24 @@
 			"xTile": 130,
 			"yPosition": 33,
 			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 243,
+			"xTile": 130,
+			"yPosition": 36,
+			"yTile": 127
+		}
+	],
+	"13112107": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 60,
+			"xTile": 131,
+			"yPosition": 241,
+			"yTile": 121
 		}
 	],
 	"13112207": [
@@ -2873,6 +3043,14 @@
 			"yTile": 122
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 21,
+			"xTile": 131,
+			"yPosition": 86,
+			"yTile": 122
+		},
+		{
 			"description": "Antenna",
 			"icon": "star",
 			"xPosition": 32,
@@ -2894,6 +3072,14 @@
 			"xPosition": 49,
 			"xTile": 131,
 			"yPosition": 52,
+			"yTile": 122
+		},
+		{
+			"description": "Insectoid cell (gooey mass)",
+			"icon": "!",
+			"xPosition": 51,
+			"xTile": 131,
+			"yPosition": 18,
 			"yTile": 122
 		},
 		{

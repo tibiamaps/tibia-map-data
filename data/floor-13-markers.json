@@ -9,6 +9,22 @@
 			"yTile": 127
 		},
 		{
+			"description": "Teleport to exit",
+			"icon": "checkmark",
+			"xPosition": 60,
+			"xTile": 125,
+			"yPosition": 42,
+			"yTile": 127
+		},
+		{
+			"description": "Demons",
+			"icon": "down",
+			"xPosition": 88,
+			"xTile": 125,
+			"yPosition": 61,
+			"yTile": 127
+		},
+		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
 			"xPosition": 131,
