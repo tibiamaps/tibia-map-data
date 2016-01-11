@@ -35,6 +35,48 @@
 			"yTile": 128
 		}
 	],
+	"12512209": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 155,
+			"xTile": 125,
+			"yPosition": 207,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "red up",
+			"xPosition": 167,
+			"xTile": 125,
+			"yPosition": 213,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 173,
+			"xTile": 125,
+			"yPosition": 223,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 235,
+			"xTile": 125,
+			"yPosition": 189,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 247,
+			"xTile": 125,
+			"yPosition": 187,
+			"yTile": 122
+		}
+	],
 	"12512309": [
 		{
 			"description": "Key 4502 (copper key)",
@@ -105,6 +147,48 @@
 			"xTile": 126,
 			"yPosition": 89,
 			"yTile": 121
+		}
+	],
+	"12612209": [
+		{
+			"description": "",
+			"icon": "red up",
+			"xPosition": 1,
+			"xTile": 126,
+			"yPosition": 178,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 3,
+			"xTile": 126,
+			"yPosition": 196,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 6,
+			"xTile": 126,
+			"yPosition": 124,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 13,
+			"xTile": 126,
+			"yPosition": 115,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 39,
+			"xTile": 126,
+			"yPosition": 209,
+			"yTile": 122
 		}
 	],
 	"12612309": [

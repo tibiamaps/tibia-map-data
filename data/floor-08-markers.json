@@ -81,6 +81,48 @@
 			"yTile": 121
 		}
 	],
+	"12512208": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 155,
+			"xTile": 125,
+			"yPosition": 207,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 173,
+			"xTile": 125,
+			"yPosition": 223,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 187,
+			"xTile": 125,
+			"yPosition": 199,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 235,
+			"xTile": 125,
+			"yPosition": 189,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 247,
+			"xTile": 125,
+			"yPosition": 187,
+			"yTile": 122
+		}
+	],
 	"12512308": [
 		{
 			"description": "Key 4503 (copper key)",
@@ -182,6 +224,62 @@
 		}
 	],
 	"12612208": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 0,
+			"xTile": 126,
+			"yPosition": 167,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 1,
+			"xTile": 126,
+			"yPosition": 178,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 3,
+			"xTile": 126,
+			"yPosition": 196,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 6,
+			"xTile": 126,
+			"yPosition": 124,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 9,
+			"xTile": 126,
+			"yPosition": 111,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 13,
+			"xTile": 126,
+			"yPosition": 115,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 36,
+			"xTile": 126,
+			"yPosition": 193,
+			"yTile": 122
+		},
 		{
 			"description": "Frost dragons <hidden>",
 			"icon": "red down",
@@ -858,6 +956,22 @@
 			"xPosition": 121,
 			"xTile": 131,
 			"yPosition": 169,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 173,
+			"xTile": 131,
+			"yPosition": 199,
+			"yTile": 123
+		},
+		{
+			"description": "Book (use to get parchment)",
+			"icon": "star",
+			"xPosition": 174,
+			"xTile": 131,
+			"yPosition": 170,
 			"yTile": 123
 		},
 		{

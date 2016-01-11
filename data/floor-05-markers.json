@@ -17,6 +17,64 @@
 			"yTile": 121
 		}
 	],
+	"12512205": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 175,
+			"xTile": 125,
+			"yPosition": 207,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 189,
+			"xTile": 125,
+			"yPosition": 205,
+			"yTile": 122
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 195,
+			"xTile": 125,
+			"yPosition": 195,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 202,
+			"xTile": 125,
+			"yPosition": 197,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 214,
+			"xTile": 125,
+			"yPosition": 199,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 246,
+			"xTile": 125,
+			"yPosition": 172,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 250,
+			"xTile": 125,
+			"yPosition": 160,
+			"yTile": 122
+		}
+	],
 	"12512705": [
 		{
 			"description": "",
@@ -49,6 +107,40 @@
 			"xTile": 125,
 			"yPosition": 97,
 			"yTile": 127
+		}
+	],
+	"12612205": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 5,
+			"xTile": 126,
+			"yPosition": 139,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 8,
+			"xTile": 126,
+			"yPosition": 174,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 10,
+			"xTile": 126,
+			"yPosition": 112,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 11,
+			"xTile": 126,
+			"yPosition": 120,
+			"yTile": 122
 		}
 	],
 	"12712405": [
@@ -89,6 +181,24 @@
 			"xTile": 129,
 			"yPosition": 135,
 			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 149,
+			"xTile": 129,
+			"yPosition": 51,
+			"yTile": 121
+		}
+	],
+	"12912205": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 152,
+			"xTile": 129,
+			"yPosition": 66,
+			"yTile": 122
 		}
 	],
 	"12912305": [
