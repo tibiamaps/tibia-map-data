@@ -1879,6 +1879,14 @@
 	],
 	"12812607": [
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 2,
+			"xTile": 128,
+			"yPosition": 85,
+			"yTile": 126
+		},
+		{
 			"description": "Swamp trolls / rotworms",
 			"icon": "red down",
 			"xPosition": 145,

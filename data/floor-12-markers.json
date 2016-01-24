@@ -335,6 +335,16 @@
 			"yTile": 127
 		}
 	],
+	"12912112": [
+		{
+			"description": "Task boss: Zanakeph",
+			"icon": "!",
+			"xPosition": 71,
+			"xTile": 129,
+			"yPosition": 99,
+			"yTile": 121
+		}
+	],
 	"12912412": [
 		{
 			"description": "",

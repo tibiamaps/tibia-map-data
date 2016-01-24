@@ -525,6 +525,30 @@
 		{
 			"description": "",
 			"icon": "up",
+			"xPosition": 2,
+			"xTile": 128,
+			"yPosition": 85,
+			"yTile": 126
+		},
+		{
+			"description": "Necromant House",
+			"icon": "up",
+			"xPosition": 13,
+			"xTile": 128,
+			"yPosition": 73,
+			"yTile": 126
+		},
+		{
+			"description": "Hidden pick hole",
+			"icon": "down",
+			"xPosition": 26,
+			"xTile": 128,
+			"yPosition": 78,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"xPosition": 244,
 			"xTile": 128,
 			"yPosition": 156,
