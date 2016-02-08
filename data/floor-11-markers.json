@@ -642,5 +642,15 @@
 			"yPosition": 25,
 			"yTile": 122
 		}
+	],
+	"13112411": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 41,
+			"xTile": 131,
+			"yPosition": 154,
+			"yTile": 124
+		}
 	]
 }

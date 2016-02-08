@@ -531,7 +531,7 @@
 			"yTile": 126
 		},
 		{
-			"description": "Necromant House",
+			"description": "Enter Necromant House",
 			"icon": "up",
 			"xPosition": 13,
 			"xTile": 128,
@@ -917,6 +917,14 @@
 	],
 	"13112208": [
 		{
+			"description": "The Hive I–VIII (books)",
+			"icon": "star",
+			"xPosition": 17,
+			"xTile": 131,
+			"yPosition": 8,
+			"yTile": 122
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 49,
@@ -1009,11 +1017,27 @@
 	],
 	"13112408": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 33,
+			"xTile": 131,
+			"yPosition": 176,
+			"yTile": 124
+		},
+		{
 			"description": "Sewer warden",
 			"icon": "!",
 			"xPosition": 34,
 			"xTile": 131,
 			"yPosition": 164,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 35,
+			"xTile": 131,
+			"yPosition": 156,
 			"yTile": 124
 		},
 		{

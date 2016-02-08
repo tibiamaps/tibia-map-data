@@ -655,6 +655,22 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 50,
+			"xTile": 131,
+			"yPosition": 140,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 57,
+			"xTile": 131,
+			"yPosition": 148,
+			"yTile": 124
+		},
+		{
 			"description": "Water conveyor",
 			"icon": "star",
 			"xPosition": 70,

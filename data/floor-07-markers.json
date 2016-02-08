@@ -3361,6 +3361,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 33,
+			"xTile": 131,
+			"yPosition": 176,
+			"yTile": 124
+		},
+		{
 			"description": "Quandon’s Home",
 			"icon": "!",
 			"xPosition": 38,
