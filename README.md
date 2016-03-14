@@ -14,22 +14,22 @@ The custom format consists of three files for each floor:
 
 Feel free to use the generated data in your own projects. For example, if you need Tibia maps in PNG format, you could hotlink the following URLs:
 
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-00-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-00-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-01-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-01-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-02-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-02-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-03-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-03-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-04-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-04-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-05-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-05-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-06-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-06-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-07-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-07-map.png) (i.e. ground floor)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-08-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-08-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-09-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-09-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-10-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-10-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-11-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-11-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-12-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-12-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-13-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-13-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-14-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-14-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/data/floor-15-map.png`](https://tibiamaps.github.io/tibia-map-data/data/floor-15-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-00-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-00-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-01-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-01-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-02-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-02-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-03-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-03-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-04-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-04-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-05-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-05-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-06-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-06-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-07-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-07-map.png) (i.e. ground floor)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-08-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-08-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-09-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-09-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-10-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-10-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-11-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-11-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-12-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-12-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-13-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-13-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-14-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-14-map.png)
+* [`https://tibiamaps.github.io/tibia-map-data/floor-15-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-15-map.png)
 
 That way, as soon as the maps are updated here, your project gets the same updates automatically.
 
