@@ -1,4 +1,14 @@
 {
+	"12612801": [
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 161,
+			"xTile": 126,
+			"yPosition": 9,
+			"yTile": 128
+		}
+	],
 	"12912401": [
 		{
 			"description": "Spectulus",

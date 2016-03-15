@@ -9,6 +9,16 @@
 			"yTile": 127
 		}
 	],
+	"12412812": [
+		{
+			"description": "Hidden pick hole",
+			"icon": "red down",
+			"xPosition": 199,
+			"xTile": 124,
+			"yPosition": 5,
+			"yTile": 128
+		}
+	],
 	"12512112": [
 		{
 			"description": "Demon spawn",
@@ -24,6 +34,14 @@
 			"xPosition": 123,
 			"xTile": 125,
 			"yPosition": 173,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 146,
+			"xTile": 125,
+			"yPosition": 166,
 			"yTile": 121
 		},
 		{
@@ -110,6 +128,14 @@
 		}
 	],
 	"12512812": [
+		{
+			"description": "Task boss: Thul",
+			"icon": "!",
+			"xPosition": 85,
+			"xTile": 125,
+			"yPosition": 14,
+			"yTile": 128
+		},
 		{
 			"description": "Crustacea gigantica (spawn location)",
 			"icon": "star",
@@ -299,6 +325,14 @@
 			"xTile": 128,
 			"yPosition": 191,
 			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 244,
+			"xTile": 128,
+			"yPosition": 217,
+			"yTile": 126
 		}
 	],
 	"12812712": [
@@ -394,6 +428,14 @@
 			"xPosition": 7,
 			"xTile": 129,
 			"yPosition": 195,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 24,
+			"xTile": 129,
+			"yPosition": 201,
 			"yTile": 126
 		}
 	],

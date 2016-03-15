@@ -1067,6 +1067,14 @@
 			"yTile": 127
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 65,
+			"xTile": 126,
+			"yPosition": 109,
+			"yTile": 127
+		},
+		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"xPosition": 92,
@@ -1096,6 +1104,14 @@
 			"xPosition": 128,
 			"xTile": 126,
 			"yPosition": 190,
+			"yTile": 127
+		},
+		{
+			"description": "Meriana Gargoyle Cave",
+			"icon": "down",
+			"xPosition": 133,
+			"xTile": 126,
+			"yPosition": 92,
 			"yTile": 127
 		},
 		{
@@ -3320,7 +3336,7 @@
 		},
 		{
 			"description": "Hidden pick hole (opticording sphere quest)",
-			"icon": "down",
+			"icon": "red down",
 			"xPosition": 173,
 			"xTile": 131,
 			"yPosition": 199,
@@ -3366,6 +3382,14 @@
 			"xPosition": 33,
 			"xTile": 131,
 			"yPosition": 176,
+			"yTile": 124
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 36,
+			"xTile": 131,
+			"yPosition": 172,
 			"yTile": 124
 		},
 		{

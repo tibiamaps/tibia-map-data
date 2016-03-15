@@ -27,6 +27,22 @@
 			"xTile": 126,
 			"yPosition": 54,
 			"yTile": 128
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 161,
+			"xTile": 126,
+			"yPosition": 10,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 181,
+			"xTile": 126,
+			"yPosition": 8,
+			"yTile": 128
 		}
 	],
 	"13012102": [

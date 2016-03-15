@@ -451,6 +451,14 @@
 			"xTile": 129,
 			"yPosition": 203,
 			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 66,
+			"xTile": 129,
+			"yPosition": 194,
+			"yTile": 126
 		}
 	],
 	"12912706": [
@@ -588,6 +596,14 @@
 		}
 	],
 	"13112406": [
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 36,
+			"xTile": 131,
+			"yPosition": 171,
+			"yTile": 124
+		},
 		{
 			"description": "Temple",
 			"icon": "cross",

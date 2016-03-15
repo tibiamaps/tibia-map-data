@@ -35,6 +35,16 @@
 			"yTile": 128
 		}
 	],
+	"12512109": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 192,
+			"xTile": 125,
+			"yPosition": 178,
+			"yTile": 121
+		}
+	],
 	"12512209": [
 		{
 			"description": "",
@@ -933,6 +943,14 @@
 		{
 			"description": "",
 			"icon": "down",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 240,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
 			"xPosition": 90,
 			"xTile": 131,
 			"yPosition": 3,
@@ -960,6 +978,14 @@
 			"xPosition": 121,
 			"xTile": 131,
 			"yPosition": 15,
+			"yTile": 124
+		},
+		{
+			"description": "Funghi",
+			"icon": "red down",
+			"xPosition": 124,
+			"xTile": 131,
+			"yPosition": 148,
 			"yTile": 124
 		}
 	]

@@ -1,4 +1,30 @@
 {
+	"12512110": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 25,
+			"xTile": 125,
+			"yPosition": 171,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 192,
+			"xTile": 125,
+			"yPosition": 178,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 241,
+			"xTile": 125,
+			"yPosition": 69,
+			"yTile": 121
+		}
+	],
 	"12512210": [
 		{
 			"description": "Task boss: Tormentor",
@@ -6,6 +32,14 @@
 			"xPosition": 72,
 			"xTile": 125,
 			"yPosition": 50,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 106,
+			"xTile": 125,
+			"yPosition": 6,
 			"yTile": 122
 		}
 	],
@@ -676,6 +710,14 @@
 			"xPosition": 70,
 			"xTile": 131,
 			"yPosition": 21,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 87,
+			"xTile": 131,
+			"yPosition": 239,
 			"yTile": 124
 		},
 		{

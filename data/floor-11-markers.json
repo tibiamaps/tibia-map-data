@@ -1,4 +1,48 @@
 {
+	"12512111": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 25,
+			"xTile": 125,
+			"yPosition": 171,
+			"yTile": 121
+		},
+		{
+			"description": "Box (Formorgar mine hoist quest)",
+			"icon": "star",
+			"xPosition": 27,
+			"xTile": 125,
+			"yPosition": 129,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 146,
+			"xTile": 125,
+			"yPosition": 166,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 241,
+			"xTile": 125,
+			"yPosition": 69,
+			"yTile": 121
+		}
+	],
+	"12512211": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 106,
+			"xTile": 125,
+			"yPosition": 6,
+			"yTile": 122
+		}
+	],
 	"12512711": [
 		{
 			"description": "",
@@ -161,7 +205,7 @@
 	],
 	"12612511": [
 		{
-			"description": "<Hidden pick hole>",
+			"description": "Hidden pick hole",
 			"icon": "red down",
 			"xPosition": 146,
 			"xTile": 126,
@@ -527,7 +571,7 @@
 	],
 	"12912311": [
 		{
-			"description": "Fire Axe Quest <hidden pick hole>",
+			"description": "Hidden pick hole (fire axe quest)",
 			"icon": "red down",
 			"xPosition": 57,
 			"xTile": 129,

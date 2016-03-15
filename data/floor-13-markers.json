@@ -281,6 +281,14 @@
 			"xTile": 128,
 			"yPosition": 132,
 			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 245,
+			"xTile": 128,
+			"yPosition": 216,
+			"yTile": 126
 		}
 	],
 	"12812713": [
@@ -313,7 +321,7 @@
 	],
 	"12912313": [
 		{
-			"description": "Parchment Room Quest <hidden>",
+			"description": "Parchment room quest (hidden)",
 			"icon": "red down",
 			"xPosition": 70,
 			"xTile": 129,
@@ -364,6 +372,22 @@
 		}
 	],
 	"12912613": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 24,
+			"xTile": 129,
+			"yPosition": 201,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 29,
+			"xTile": 129,
+			"yPosition": 206,
+			"yTile": 126
+		},
 		{
 			"description": "Wyrms / elder wyrms",
 			"icon": "red down",

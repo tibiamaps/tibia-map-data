@@ -143,6 +143,14 @@
 	],
 	"12512408": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 18,
+			"xTile": 125,
+			"yPosition": 176,
+			"yTile": 124
+		},
+		{
 			"description": "Rotworms and orcs",
 			"icon": "red down",
 			"xPosition": 60,
@@ -362,6 +370,14 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 133,
+			"xTile": 126,
+			"yPosition": 92,
+			"yTile": 127
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"xPosition": 164,
 			"xTile": 126,
@@ -540,7 +556,7 @@
 		},
 		{
 			"description": "Hidden pick hole",
-			"icon": "down",
+			"icon": "red down",
 			"xPosition": 26,
 			"xTile": 128,
 			"yPosition": 78,
