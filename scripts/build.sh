@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Navigate to the root of the repository.
-cd "$(dirname "${BASH_SOURCE}")/../..";
+cd "$(dirname "${BASH_SOURCE}")/..";
 
 # Create the output directory, and make sure it’s empty.
 DIST_DIR='dist';
@@ -36,13 +36,14 @@ zip -q -FS -r "${file}" Automap --exclude */.git* */.DS_Store;
 # Preserve `dist/Automap-with-markers/*.map`.
 mv Automap Automap-with-markers;
 
-# Create truncated & compressed (`*.map.gz`) versions of each `*.map` file.
-# Since these are only useful for online map viewers, only the map data is
-# needed; the pathfinding data and marker data can be removed.
+# Create optimized versions of each `*.map` file, intended for online map
+# viewer usage. Only the map data is needed; the pathfinding data and marker
+# data can be removed.
 echo "Generating truncated & compressed map files for online mapper…";
 mkdir -p mapper;
 for map in Automap-without-markers/*.map; do
-	head -c 65536 "${map}" | gzip -c > "mapper/$(basename ${map}).gz";
+	file="$(basename ${map})";
+	head -c 65536 "${map}" > "mapper/${file}";
 done;
 
 echo "All done.";

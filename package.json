@@ -6,6 +6,6 @@
     "tibia-maps": "*"
   },
   "scripts": {
-    "build": "scripts/travis/build.sh"
+    "build": "scripts/build.sh"
   }
 }
