@@ -305,6 +305,30 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 11,
+			"xTile": 128,
+			"yPosition": 191,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 24,
+			"xTile": 128,
+			"yPosition": 216,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 25,
+			"xTile": 128,
+			"yPosition": 207,
+			"yTile": 124
+		},
+		{
 			"description": "NPC Gnomally",
 			"icon": "mouth",
 			"xPosition": 26,
@@ -358,6 +382,14 @@
 			"xPosition": 36,
 			"xTile": 128,
 			"yPosition": 53,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 39,
+			"xTile": 128,
+			"yPosition": 195,
 			"yTile": 124
 		},
 		{

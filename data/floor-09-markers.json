@@ -403,11 +403,35 @@
 			"yTile": 124
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 8,
+			"xTile": 128,
+			"yPosition": 188,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 9,
+			"xTile": 128,
+			"yPosition": 205,
+			"yTile": 124
+		},
+		{
 			"description": "Svargrond",
 			"icon": "?",
 			"xPosition": 18,
 			"xTile": 128,
 			"yPosition": 10,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 25,
+			"xTile": 128,
+			"yPosition": 207,
 			"yTile": 124
 		},
 		{
@@ -424,6 +448,14 @@
 			"xPosition": 35,
 			"xTile": 128,
 			"yPosition": 54,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 39,
+			"xTile": 128,
+			"yPosition": 195,
 			"yTile": 124
 		},
 		{

@@ -289,6 +289,14 @@
 	],
 	"12812411": [
 		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 24,
+			"xTile": 128,
+			"yPosition": 216,
+			"yTile": 124
+		},
+		{
 			"description": "Teleport to Gnomegate",
 			"icon": "flag",
 			"xPosition": 96,

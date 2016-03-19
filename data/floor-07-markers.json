@@ -1427,6 +1427,14 @@
 			"xTile": 127,
 			"yPosition": 146,
 			"yTile": 124
+		},
+		{
+			"description": "Poacher Caves",
+			"icon": "down",
+			"xPosition": 244,
+			"xTile": 127,
+			"yPosition": 184,
+			"yTile": 124
 		}
 	],
 	"12712507": [

@@ -453,6 +453,14 @@
 			"xTile": 127,
 			"yPosition": 166,
 			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 244,
+			"xTile": 127,
+			"yPosition": 184,
+			"yTile": 124
 		}
 	],
 	"12712708": [
@@ -528,6 +536,22 @@
 		}
 	],
 	"12812408": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 8,
+			"xTile": 128,
+			"yPosition": 188,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 9,
+			"xTile": 128,
+			"yPosition": 205,
+			"yTile": 124
+		},
 		{
 			"description": "Key 5010 (silver key)",
 			"icon": "?",
