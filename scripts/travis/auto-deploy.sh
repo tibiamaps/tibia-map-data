@@ -25,7 +25,7 @@ echo "  IdentityFile ~/.ssh/${PRIVATE_KEY_FILE_NAME}" >> ~/.ssh/config;
 # Update the content on the `gh-pages` branch.
 
 $(npm bin)/update-branch --commands 'npm run build' \
-	--commit-message 'Update generated map data [skip ci]' \
+	--commit-message "Update generated map data @ ${TRAVIS_COMMIT}" \
 	--directory 'dist' \
 	--distribution-branch 'gh-pages' \
 	--source-branch 'master';
