@@ -270,7 +270,7 @@
 	"12812210": [
 		{
 			"description": "Depot",
-			"icon": "down",
+			"icon": "bag",
 			"xPosition": 251,
 			"xTile": 128,
 			"yPosition": 226,
@@ -517,6 +517,16 @@
 			"xTile": 128,
 			"yPosition": 4,
 			"yTile": 128
+		}
+	],
+	"12912310": [
+		{
+			"description": "NPC Esrik",
+			"icon": "mouth",
+			"xPosition": 10,
+			"xTile": 129,
+			"yPosition": 42,
+			"yTile": 123
 		}
 	],
 	"12912610": [
