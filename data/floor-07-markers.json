@@ -2821,6 +2821,14 @@
 			"yTile": 121
 		},
 		{
+			"description": "Task boss: Fazzrah",
+			"icon": "!",
+			"xPosition": 30,
+			"xTile": 130,
+			"yPosition": 207,
+			"yTile": 121
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"xPosition": 32,
