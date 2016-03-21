@@ -245,6 +245,22 @@
 			"xTile": 127,
 			"yPosition": 115,
 			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 203,
+			"xTile": 127,
+			"yPosition": 152,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 206,
+			"xTile": 127,
+			"yPosition": 102,
+			"yTile": 124
 		}
 	],
 	"12712510": [

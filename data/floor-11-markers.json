@@ -265,6 +265,22 @@
 			"xTile": 127,
 			"yPosition": 241,
 			"yTile": 124
+		},
+		{
+			"description": "Teleport to Ekatrix",
+			"icon": "star",
+			"xPosition": 196,
+			"xTile": 127,
+			"yPosition": 115,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 203,
+			"xTile": 127,
+			"yPosition": 152,
+			"yTile": 124
 		}
 	],
 	"12712511": [

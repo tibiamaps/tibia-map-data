@@ -1429,6 +1429,14 @@
 			"yTile": 124
 		},
 		{
+			"description": "Tainted Caves",
+			"icon": "down",
+			"xPosition": 197,
+			"xTile": 127,
+			"yPosition": 195,
+			"yTile": 124
+		},
+		{
 			"description": "Poacher Caves",
 			"icon": "down",
 			"xPosition": 244,

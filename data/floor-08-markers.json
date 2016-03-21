@@ -457,9 +457,25 @@
 		{
 			"description": "",
 			"icon": "up",
+			"xPosition": 197,
+			"xTile": 127,
+			"yPosition": 195,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"xPosition": 244,
 			"xTile": 127,
 			"yPosition": 184,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 247,
+			"xTile": 127,
+			"yPosition": 120,
 			"yTile": 124
 		}
 	],
