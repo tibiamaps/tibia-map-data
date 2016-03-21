@@ -564,7 +564,7 @@
 		},
 		{
 			"description": "",
-			"icon": "shovel",
+			"icon": "spear",
 			"xPosition": 37,
 			"xTile": 129,
 			"yPosition": 172,
@@ -572,7 +572,7 @@
 		},
 		{
 			"description": "",
-			"icon": "shovel",
+			"icon": "spear",
 			"xPosition": 40,
 			"xTile": 129,
 			"yPosition": 179,
@@ -580,7 +580,7 @@
 		},
 		{
 			"description": "",
-			"icon": "shovel",
+			"icon": "spear",
 			"xPosition": 41,
 			"xTile": 129,
 			"yPosition": 167,
