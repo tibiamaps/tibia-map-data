@@ -1,6 +1,6 @@
 # Tibia map data [![Build status](https://travis-ci.org/tibiamaps/tibia-map-data.svg)](https://travis-ci.org/tibiamaps/tibia-map-data)
 
-This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](http://www.tibiamaps.org/into-the-automap-format-c-client/).
+This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](https://tibiamaps.io/guides/map-file-format).
 
 [The `tibia-maps` script](https://github.com/tibiamaps/tibia-maps-script) can be used to convert from either format to the other.
 
@@ -40,6 +40,8 @@ Not sure where to explore? [View the open issues.](https://github.com/tibiamaps/
 The easiest and best way to contribute maps is to create a [Tibiacast](https://www.tibiacast.com/) recording of you exploring the area, walking along the edges as closely as possible. Then, [file an issue linking to your recording](https://github.com/tibiamaps/tibia-map-data/issues/new). **This method of contribution is strongly preferred.**
 
 Alternatively, if you’re comfortable using command-line tools and Git, you could follow the instructions below to work with the map files directly. Use the official Tibia client to update your maps, [convert the maps to PNGs and JSON](#map--png--json), and submit a pull request containing your changes.
+
+These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWiki](http://tibia.wikia.com/wiki/Mapper), so your contributions will be reflected there!
 
 ## Set up
 
