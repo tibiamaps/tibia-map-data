@@ -26,6 +26,11 @@ echo 'Generating maps without markers…';
 tibia-maps --from-data=../data --output-dir=Automap --no-markers;
 echo "Saving maps without markers as \`${DIST_DIR}/${file}\`…";
 zip -q -FS -r "${file}" Automap --exclude */.git* */.DS_Store;
+tibia-maps --from-data=../data --flash-export-file=./maps-without-markers.exp --no-markers;
+file='export-without-markers.zip';
+echo "Saving maps export file without markers as \`${DIST_DIR}/${file}\`…";
+zip -q "${file}" maps-without-markers.exp;
+rm maps-without-markers.exp;
 # Preserve `dist/Automap-without-markers/*.map`.
 mv Automap Automap-without-markers;
 
@@ -35,6 +40,11 @@ echo 'Generating maps with markers…';
 tibia-maps --from-data=../data --output-dir=Automap;
 echo "Saving maps without markers as \`${DIST_DIR}/${file}\`…";
 zip -q -FS -r "${file}" Automap --exclude */.git* */.DS_Store;
+tibia-maps --from-data=../data --flash-export-file=./maps-with-markers.exp;
+file='export-with-markers.zip';
+echo "Saving maps export file with markers as \`${DIST_DIR}/${file}\`…";
+zip -q -FS "${file}" maps-with-markers.exp;
+rm maps-with-markers.exp;
 # Preserve `dist/Automap-with-markers/*.map`.
 mv Automap Automap-with-markers;
 
