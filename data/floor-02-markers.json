@@ -1,6 +1,22 @@
 {
 	"12512102": [
 		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 84,
+			"xTile": 125,
+			"yPosition": 53,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 84,
+			"xTile": 125,
+			"yPosition": 56,
+			"yTile": 121
+		},
+		{
 			"description": "Task boss: The Bloodtusk",
 			"icon": "!",
 			"xPosition": 104,

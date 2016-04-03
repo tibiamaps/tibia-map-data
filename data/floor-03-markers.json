@@ -1,6 +1,22 @@
 {
 	"12512103": [
 		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 80,
+			"xTile": 125,
+			"yPosition": 55,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 84,
+			"xTile": 125,
+			"yPosition": 56,
+			"yTile": 121
+		},
+		{
 			"description": "Man in the Cave rope spot",
 			"icon": "star",
 			"xPosition": 131,

@@ -49,7 +49,7 @@
 			"yTile": 121
 		},
 		{
-			"description": "",
+			"description": "Frozen ursagrodon",
 			"icon": "flag",
 			"xPosition": 71,
 			"xTile": 125,
@@ -57,11 +57,19 @@
 			"yTile": 121
 		},
 		{
-			"description": "",
+			"description": "Frozen ursagrodon",
 			"icon": "flag",
 			"xPosition": 72,
 			"xTile": 125,
 			"yPosition": 26,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
+			"icon": "flag",
+			"xPosition": 85,
+			"xTile": 125,
+			"yPosition": 9,
 			"yTile": 121
 		},
 		{
@@ -74,10 +82,50 @@
 		},
 		{
 			"description": "",
+			"icon": "up",
+			"xPosition": 88,
+			"xTile": 125,
+			"yPosition": 42,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
 			"icon": "flag",
 			"xPosition": 124,
 			"xTile": 125,
 			"yPosition": 18,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
+			"icon": "flag",
+			"xPosition": 140,
+			"xTile": 125,
+			"yPosition": 25,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
+			"icon": "flag",
+			"xPosition": 143,
+			"xTile": 125,
+			"yPosition": 17,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
+			"icon": "flag",
+			"xPosition": 166,
+			"xTile": 125,
+			"yPosition": 10,
+			"yTile": 121
+		},
+		{
+			"description": "Frozen ursagrodon",
+			"icon": "flag",
+			"xPosition": 166,
+			"xTile": 125,
+			"yPosition": 31,
 			"yTile": 121
 		}
 	],

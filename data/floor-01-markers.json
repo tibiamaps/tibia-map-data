@@ -1,4 +1,22 @@
 {
+	"12512101": [
+		{
+			"description": "Pile of bones (tinder box quest)",
+			"icon": "star",
+			"xPosition": 84,
+			"xTile": 125,
+			"yPosition": 49,
+			"yTile": 121
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 84,
+			"xTile": 125,
+			"yPosition": 52,
+			"yTile": 121
+		}
+	],
 	"12612801": [
 		{
 			"description": "Levitate spot",

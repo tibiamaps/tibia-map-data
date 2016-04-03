@@ -1,4 +1,22 @@
 {
+	"12512104": [
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 68,
+			"xTile": 125,
+			"yPosition": 58,
+			"yTile": 121
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 80,
+			"xTile": 125,
+			"yPosition": 56,
+			"yTile": 121
+		}
+	],
 	"12512204": [
 		{
 			"description": "Levitate spot",

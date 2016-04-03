@@ -1,6 +1,22 @@
 {
 	"12512106": [
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 35,
+			"xTile": 125,
+			"yPosition": 80,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 41,
+			"xTile": 125,
+			"yPosition": 50,
+			"yTile": 121
+		},
+		{
 			"description": "Offline training",
 			"icon": "sword",
 			"xPosition": 249,

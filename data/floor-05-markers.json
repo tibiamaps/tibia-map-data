@@ -1,6 +1,30 @@
 {
 	"12512105": [
 		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 41,
+			"xTile": 125,
+			"yPosition": 50,
+			"yTile": 121
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 68,
+			"xTile": 125,
+			"yPosition": 59,
+			"yTile": 121
+		},
+		{
+			"description": "To Chyllfroest",
+			"icon": "down",
+			"xPosition": 89,
+			"xTile": 125,
+			"yPosition": 114,
+			"yTile": 121
+		},
+		{
 			"description": "Frost dragons and crystal spiders",
 			"icon": "red down",
 			"xPosition": 105,
