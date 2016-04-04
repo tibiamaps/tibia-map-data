@@ -3,796 +3,703 @@
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 25,
-			"xTile": 125,
-			"yPosition": 171,
-			"yTile": 121
+			"x": 32025,
+			"y": 31147,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 192,
-			"xTile": 125,
-			"yPosition": 178,
-			"yTile": 121
+			"x": 32192,
+			"y": 31154,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 241,
-			"xTile": 125,
-			"yPosition": 69,
-			"yTile": 121
+			"x": 32241,
+			"y": 31045,
+			"z": 10
 		}
 	],
 	"12512210": [
 		{
 			"description": "Task boss: Tormentor",
 			"icon": "!",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 50,
-			"yTile": 122
+			"x": 32072,
+			"y": 31282,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 106,
-			"xTile": 125,
-			"yPosition": 6,
-			"yTile": 122
+			"x": 32106,
+			"y": 31238,
+			"z": 10
 		}
 	],
 	"12512310": [
 		{
 			"description": "Key 4501 (copper key)",
 			"icon": "?",
-			"xPosition": 40,
-			"xTile": 125,
-			"yPosition": 115,
-			"yTile": 123
+			"x": 32040,
+			"y": 31603,
+			"z": 10
 		}
 	],
 	"12512710": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 13,
-			"xTile": 125,
-			"yPosition": 109,
-			"yTile": 127
+			"x": 32013,
+			"y": 32621,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 49,
-			"xTile": 125,
-			"yPosition": 57,
-			"yTile": 127
+			"x": 32049,
+			"y": 32569,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 146,
-			"xTile": 125,
-			"yPosition": 101,
-			"yTile": 127
+			"x": 32146,
+			"y": 32613,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "star",
-			"xPosition": 218,
-			"xTile": 125,
-			"yPosition": 219,
-			"yTile": 127
+			"x": 32218,
+			"y": 32731,
+			"z": 10
 		}
 	],
 	"12512810": [
 		{
 			"description": "",
 			"icon": "star",
-			"xPosition": 247,
-			"xTile": 125,
-			"yPosition": 52,
-			"yTile": 128
+			"x": 32247,
+			"y": 32820,
+			"z": 10
 		}
 	],
 	"12612310": [
 		{
 			"description": "2. To surface",
 			"icon": "down",
-			"xPosition": 173,
-			"xTile": 126,
-			"yPosition": 91,
-			"yTile": 123
+			"x": 32429,
+			"y": 31579,
+			"z": 10
 		},
 		{
 			"description": "To monks",
 			"icon": "crossmark",
-			"xPosition": 212,
-			"xTile": 126,
-			"yPosition": 147,
-			"yTile": 123
+			"x": 32468,
+			"y": 31635,
+			"z": 10
 		},
 		{
 			"description": "10. To surface",
 			"icon": "up",
-			"xPosition": 227,
-			"xTile": 126,
-			"yPosition": 145,
-			"yTile": 123
+			"x": 32483,
+			"y": 31633,
+			"z": 10
 		},
 		{
 			"description": "12. To Demona",
 			"icon": "red down",
-			"xPosition": 230,
-			"xTile": 126,
-			"yPosition": 200,
-			"yTile": 123
+			"x": 32486,
+			"y": 31688,
+			"z": 10
 		},
 		{
 			"description": "1. To Demona",
 			"icon": "red down",
-			"xPosition": 238,
-			"xTile": 126,
-			"yPosition": 149,
-			"yTile": 123
+			"x": 32494,
+			"y": 31637,
+			"z": 10
 		},
 		{
 			"description": "1. To surface",
 			"icon": "down",
-			"xPosition": 251,
-			"xTile": 126,
-			"yPosition": 205,
-			"yTile": 123
+			"x": 32507,
+			"y": 31693,
+			"z": 10
 		}
 	],
 	"12612410": [
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 219,
-			"xTile": 126,
-			"yPosition": 252,
-			"yTile": 124
+			"x": 32475,
+			"y": 31996,
+			"z": 10
 		},
 		{
 			"description": "To NPC A Dwarven Ghost",
 			"icon": "down",
-			"xPosition": 220,
-			"xTile": 126,
-			"yPosition": 161,
-			"yTile": 124
+			"x": 32476,
+			"y": 31905,
+			"z": 10
 		},
 		{
 			"description": "Dragons and dragon lords",
 			"icon": "red down",
-			"xPosition": 222,
-			"xTile": 126,
-			"yPosition": 114,
-			"yTile": 124
+			"x": 32478,
+			"y": 31858,
+			"z": 10
 		}
 	],
 	"12612510": [
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
-			"xPosition": 181,
-			"xTile": 126,
-			"yPosition": 239,
-			"yTile": 125
+			"x": 32437,
+			"y": 32239,
+			"z": 10
 		}
 	],
 	"12612610": [
 		{
 			"description": "Key 3980 (golden key)",
 			"icon": "?",
-			"xPosition": 21,
-			"xTile": 126,
-			"yPosition": 163,
-			"yTile": 126
+			"x": 32277,
+			"y": 32419,
+			"z": 10
 		}
 	],
 	"12612810": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 121,
-			"xTile": 126,
-			"yPosition": 11,
-			"yTile": 128
+			"x": 32377,
+			"y": 32779,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 140,
-			"xTile": 126,
-			"yPosition": 24,
-			"yTile": 128
+			"x": 32396,
+			"y": 32792,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 163,
-			"xTile": 126,
-			"yPosition": 15,
-			"yTile": 128
+			"x": 32419,
+			"y": 32783,
+			"z": 10
 		}
 	],
 	"12712310": [
 		{
 			"description": "13. To Demona",
 			"icon": "red down",
-			"xPosition": 9,
-			"xTile": 127,
-			"yPosition": 238,
-			"yTile": 123
+			"x": 32521,
+			"y": 31726,
+			"z": 10
 		}
 	],
 	"12712410": [
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 8,
-			"xTile": 127,
-			"yPosition": 185,
-			"yTile": 124
+			"x": 32520,
+			"y": 31929,
+			"z": 10
 		},
 		{
 			"description": "Coryms",
 			"icon": "red down",
-			"xPosition": 47,
-			"xTile": 127,
-			"yPosition": 115,
-			"yTile": 124
+			"x": 32559,
+			"y": 31859,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 203,
-			"xTile": 127,
-			"yPosition": 152,
-			"yTile": 124
+			"x": 32715,
+			"y": 31896,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 206,
-			"xTile": 127,
-			"yPosition": 102,
-			"yTile": 124
+			"x": 32718,
+			"y": 31846,
+			"z": 10
 		}
 	],
 	"12712510": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 116,
-			"xTile": 127,
-			"yPosition": 132,
-			"yTile": 125
+			"x": 32628,
+			"y": 32132,
+			"z": 10
 		}
 	],
 	"12712810": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 112,
-			"xTile": 127,
-			"yPosition": 55,
-			"yTile": 128
+			"x": 32624,
+			"y": 32823,
+			"z": 10
 		}
 	],
 	"12812210": [
 		{
 			"description": "Depot",
 			"icon": "bag",
-			"xPosition": 251,
-			"xTile": 128,
-			"yPosition": 226,
-			"yTile": 122
+			"x": 33019,
+			"y": 31458,
+			"z": 10
 		}
 	],
 	"12812310": [
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 242,
-			"xTile": 128,
-			"yPosition": 46,
-			"yTile": 123
+			"x": 33010,
+			"y": 31534,
+			"z": 10
 		},
 		{
 			"description": "Bank",
 			"icon": "$",
-			"xPosition": 244,
-			"xTile": 128,
-			"yPosition": 8,
-			"yTile": 123
+			"x": 33012,
+			"y": 31496,
+			"z": 10
 		}
 	],
 	"12812410": [
 		{
 			"description": "NPC Gnomerik",
 			"icon": "mouth",
-			"xPosition": 7,
-			"xTile": 128,
-			"yPosition": 1,
-			"yTile": 124
+			"x": 32775,
+			"y": 31745,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 11,
-			"xTile": 128,
-			"yPosition": 191,
-			"yTile": 124
+			"x": 32779,
+			"y": 31935,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 24,
-			"xTile": 128,
-			"yPosition": 216,
-			"yTile": 124
+			"x": 32792,
+			"y": 31960,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 25,
-			"xTile": 128,
-			"yPosition": 207,
-			"yTile": 124
+			"x": 32793,
+			"y": 31951,
+			"z": 10
 		},
 		{
 			"description": "NPC Gnomally",
 			"icon": "mouth",
-			"xPosition": 26,
-			"xTile": 128,
-			"yPosition": 4,
-			"yTile": 124
+			"x": 32794,
+			"y": 31748,
+			"z": 10
 		},
 		{
 			"description": "Teleport to Crystal Grounds",
 			"icon": "flag",
-			"xPosition": 27,
-			"xTile": 128,
-			"yPosition": 17,
-			"yTile": 124
+			"x": 32795,
+			"y": 31761,
+			"z": 10
 		},
 		{
 			"description": "Teleport to Gnomebase Alpha",
 			"icon": "flag",
-			"xPosition": 28,
-			"xTile": 128,
-			"yPosition": 36,
-			"yTile": 124
+			"x": 32796,
+			"y": 31780,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 33,
-			"xTile": 128,
-			"yPosition": 24,
-			"yTile": 124
+			"x": 32801,
+			"y": 31768,
+			"z": 10
 		},
 		{
 			"description": "Teleport to Truffels Garden",
 			"icon": "flag",
-			"xPosition": 35,
-			"xTile": 128,
-			"yPosition": 1,
-			"yTile": 124
+			"x": 32803,
+			"y": 31745,
+			"z": 10
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 35,
-			"xTile": 128,
-			"yPosition": 39,
-			"yTile": 124
+			"x": 32803,
+			"y": 31783,
+			"z": 10
 		},
 		{
 			"description": "NPC Commander Stone",
 			"icon": "mouth",
-			"xPosition": 36,
-			"xTile": 128,
-			"yPosition": 53,
-			"yTile": 124
+			"x": 32804,
+			"y": 31797,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 39,
-			"xTile": 128,
-			"yPosition": 195,
-			"yTile": 124
+			"x": 32807,
+			"y": 31939,
+			"z": 10
 		},
 		{
 			"description": "Bank",
 			"icon": "$",
-			"xPosition": 57,
-			"xTile": 128,
-			"yPosition": 8,
-			"yTile": 124
+			"x": 32825,
+			"y": 31752,
+			"z": 10
 		},
 		{
 			"description": "Depot",
 			"icon": "bag",
-			"xPosition": 58,
-			"xTile": 128,
-			"yPosition": 20,
-			"yTile": 124
+			"x": 32826,
+			"y": 31764,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 224,
-			"xTile": 128,
-			"yPosition": 141,
-			"yTile": 124
+			"x": 32992,
+			"y": 31885,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 231,
-			"xTile": 128,
-			"yPosition": 157,
-			"yTile": 124
+			"x": 32999,
+			"y": 31901,
+			"z": 10
 		}
 	],
 	"12812610": [
 		{
 			"description": "To NPC Tomruk the Ruddy (blood priest)",
 			"icon": "down",
-			"xPosition": 200,
-			"xTile": 128,
-			"yPosition": 153,
-			"yTile": 126
+			"x": 32968,
+			"y": 32409,
+			"z": 10
 		},
 		{
 			"description": "Akab’s Grave",
 			"icon": "crossmark",
-			"xPosition": 223,
-			"xTile": 128,
-			"yPosition": 196,
-			"yTile": 126
+			"x": 32991,
+			"y": 32452,
+			"z": 10
 		},
 		{
 			"description": "To NPC Elyen Ravenlock",
 			"icon": "down",
-			"xPosition": 227,
-			"xTile": 128,
-			"yPosition": 127,
-			"yTile": 126
+			"x": 32995,
+			"y": 32383,
+			"z": 10
 		},
 		{
 			"description": "To Vampire Crypts",
 			"icon": "down",
-			"xPosition": 227,
-			"xTile": 128,
-			"yPosition": 193,
-			"yTile": 126
+			"x": 32995,
+			"y": 32449,
+			"z": 10
 		},
 		{
 			"description": "Star Room",
 			"icon": "red down",
-			"xPosition": 229,
-			"xTile": 128,
-			"yPosition": 141,
-			"yTile": 126
+			"x": 32997,
+			"y": 32397,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 235,
-			"xTile": 128,
-			"yPosition": 156,
-			"yTile": 126
+			"x": 33003,
+			"y": 32412,
+			"z": 10
 		}
 	],
 	"12812710": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 86,
-			"xTile": 128,
-			"yPosition": 154,
-			"yTile": 127
+			"x": 32854,
+			"y": 32666,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 123,
-			"xTile": 128,
-			"yPosition": 133,
-			"yTile": 127
+			"x": 32891,
+			"y": 32645,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "red up",
-			"xPosition": 179,
-			"xTile": 128,
-			"yPosition": 243,
-			"yTile": 127
+			"x": 32947,
+			"y": 32755,
+			"z": 10
 		}
 	],
 	"12812810": [
 		{
 			"description": "",
 			"icon": "red down",
-			"xPosition": 192,
-			"xTile": 128,
-			"yPosition": 8,
-			"yTile": 128
+			"x": 32960,
+			"y": 32776,
+			"z": 10
 		},
 		{
 			"description": "Jar",
 			"icon": "checkmark",
-			"xPosition": 216,
-			"xTile": 128,
-			"yPosition": 4,
-			"yTile": 128
+			"x": 32984,
+			"y": 32772,
+			"z": 10
 		}
 	],
 	"12912310": [
 		{
 			"description": "NPC Esrik",
 			"icon": "mouth",
-			"xPosition": 10,
-			"xTile": 129,
-			"yPosition": 42,
-			"yTile": 123
+			"x": 33034,
+			"y": 31530,
+			"z": 10
 		}
 	],
 	"12912610": [
 		{
 			"description": "NPC Oblivion (shadow pupil)",
 			"icon": "!",
-			"xPosition": 0,
-			"xTile": 129,
-			"yPosition": 55,
-			"yTile": 126
+			"x": 33024,
+			"y": 32311,
+			"z": 10
 		},
 		{
 			"description": "The Necromancer’s Pure Blood Chambers",
 			"icon": "crossmark",
-			"xPosition": 14,
-			"xTile": 129,
-			"yPosition": 184,
-			"yTile": 126
+			"x": 33038,
+			"y": 32440,
+			"z": 10
 		},
 		{
 			"description": "To NPC Zarifan",
 			"icon": "down",
-			"xPosition": 19,
-			"xTile": 129,
-			"yPosition": 230,
-			"yTile": 126
+			"x": 33043,
+			"y": 32486,
+			"z": 10
 		},
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 34,
-			"xTile": 129,
-			"yPosition": 87,
-			"yTile": 126
+			"x": 33058,
+			"y": 32343,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "spear",
-			"xPosition": 37,
-			"xTile": 129,
-			"yPosition": 172,
-			"yTile": 126
+			"x": 33061,
+			"y": 32428,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "spear",
-			"xPosition": 40,
-			"xTile": 129,
-			"yPosition": 179,
-			"yTile": 126
+			"x": 33064,
+			"y": 32435,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "spear",
-			"xPosition": 41,
-			"xTile": 129,
-			"yPosition": 167,
-			"yTile": 126
+			"x": 33065,
+			"y": 32423,
+			"z": 10
 		},
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 49,
-			"xTile": 129,
-			"yPosition": 77,
-			"yTile": 126
+			"x": 33073,
+			"y": 32333,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 56,
-			"xTile": 129,
-			"yPosition": 17,
-			"yTile": 126
+			"x": 33080,
+			"y": 32273,
+			"z": 10
 		},
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 56,
-			"xTile": 129,
-			"yPosition": 58,
-			"yTile": 126
+			"x": 33080,
+			"y": 32314,
+			"z": 10
 		},
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 58,
-			"xTile": 129,
-			"yPosition": 70,
-			"yTile": 126
+			"x": 33082,
+			"y": 32326,
+			"z": 10
 		},
 		{
 			"description": "Strange shrine",
 			"icon": "checkmark",
-			"xPosition": 64,
-			"xTile": 129,
-			"yPosition": 82,
-			"yTile": 126
+			"x": 33088,
+			"y": 32338,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 90,
-			"xTile": 129,
-			"yPosition": 40,
-			"yTile": 126
+			"x": 33114,
+			"y": 32296,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 98,
-			"xTile": 129,
-			"yPosition": 24,
-			"yTile": 126
+			"x": 33122,
+			"y": 32280,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 109,
-			"xTile": 129,
-			"yPosition": 65,
-			"yTile": 126
+			"x": 33133,
+			"y": 32321,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 115,
-			"xTile": 129,
-			"yPosition": 79,
-			"yTile": 126
+			"x": 33139,
+			"y": 32335,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 234,
-			"xTile": 129,
-			"yPosition": 19,
-			"yTile": 126
+			"x": 33258,
+			"y": 32275,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 240,
-			"xTile": 129,
-			"yPosition": 45,
-			"yTile": 126
+			"x": 33264,
+			"y": 32301,
+			"z": 10
 		}
 	],
 	"13012310": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 121,
-			"xTile": 130,
-			"yPosition": 127,
-			"yTile": 123
+			"x": 33401,
+			"y": 31615,
+			"z": 10
 		}
 	],
 	"13012710": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 50,
-			"xTile": 130,
-			"yPosition": 84,
-			"yTile": 127
+			"x": 33330,
+			"y": 32596,
+			"z": 10
 		}
 	],
 	"13112310": [
 		{
 			"description": "Treadmill",
 			"icon": "crossmark",
-			"xPosition": 71,
-			"xTile": 131,
-			"yPosition": 232,
-			"yTile": 123
+			"x": 33607,
+			"y": 31720,
+			"z": 10
 		},
 		{
 			"description": "Water conveyor",
 			"icon": "star",
-			"xPosition": 95,
-			"xTile": 131,
-			"yPosition": 239,
-			"yTile": 123
+			"x": 33631,
+			"y": 31727,
+			"z": 10
 		},
 		{
 			"description": "NPC An Imprisoned Goblin",
 			"icon": "mouth",
-			"xPosition": 96,
-			"xTile": 131,
-			"yPosition": 227,
-			"yTile": 123
+			"x": 33632,
+			"y": 31715,
+			"z": 10
 		}
 	],
 	"13112410": [
 		{
 			"description": "Abandoned Sewers",
 			"icon": "!",
-			"xPosition": 13,
-			"xTile": 131,
-			"yPosition": 230,
-			"yTile": 124
+			"x": 33549,
+			"y": 31974,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 50,
-			"xTile": 131,
-			"yPosition": 140,
-			"yTile": 124
+			"x": 33586,
+			"y": 31884,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 57,
-			"xTile": 131,
-			"yPosition": 148,
-			"yTile": 124
+			"x": 33593,
+			"y": 31892,
+			"z": 10
 		},
 		{
 			"description": "Water conveyor",
 			"icon": "star",
-			"xPosition": 70,
-			"xTile": 131,
-			"yPosition": 21,
-			"yTile": 124
+			"x": 33606,
+			"y": 31765,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 87,
-			"xTile": 131,
-			"yPosition": 239,
-			"yTile": 124
+			"x": 33623,
+			"y": 31983,
+			"z": 10
 		},
 		{
 			"description": "To exit",
 			"icon": "up",
-			"xPosition": 90,
-			"xTile": 131,
-			"yPosition": 3,
-			"yTile": 124
+			"x": 33626,
+			"y": 31747,
+			"z": 10
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 95,
-			"xTile": 131,
-			"yPosition": 18,
-			"yTile": 124
+			"x": 33631,
+			"y": 31762,
+			"z": 10
 		}
 	]
 }

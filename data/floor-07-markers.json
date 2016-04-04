@@ -3,3656 +3,3213 @@
 		{
 			"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
 			"icon": "red down",
-			"xPosition": 180,
-			"xTile": 124,
-			"yPosition": 123,
-			"yTile": 122
+			"x": 31924,
+			"y": 31355,
+			"z": 7
 		}
 	],
 	"12412507": [
 		{
 			"description": "Orc Fortress",
 			"icon": "skull",
-			"xPosition": 233,
-			"xTile": 124,
-			"yPosition": 157,
-			"yTile": 125
+			"x": 31977,
+			"y": 32157,
+			"z": 7
 		}
 	],
 	"12412707": [
 		{
 			"description": "",
 			"icon": "red down",
-			"xPosition": 171,
-			"xTile": 124,
-			"yPosition": 78,
-			"yTile": 127
+			"x": 31915,
+			"y": 32590,
+			"z": 7
 		},
 		{
 			"description": "To portals",
 			"icon": "down",
-			"xPosition": 177,
-			"xTile": 124,
-			"yPosition": 144,
-			"yTile": 127
+			"x": 31921,
+			"y": 32656,
+			"z": 7
 		},
 		{
 			"description": "To serpent spawns",
 			"icon": "red down",
-			"xPosition": 191,
-			"xTile": 124,
-			"yPosition": 166,
-			"yTile": 127
+			"x": 31935,
+			"y": 32678,
+			"z": 7
 		},
 		{
 			"description": "To portals",
 			"icon": "down",
-			"xPosition": 202,
-			"xTile": 124,
-			"yPosition": 44,
-			"yTile": 127
+			"x": 31946,
+			"y": 32556,
+			"z": 7
 		}
 	],
 	"12512107": [
 		{
 			"description": "Quara scouts",
 			"icon": "red down",
-			"xPosition": 24,
-			"xTile": 125,
-			"yPosition": 148,
-			"yTile": 121
+			"x": 32024,
+			"y": 31124,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 35,
-			"xTile": 125,
-			"yPosition": 80,
-			"yTile": 121
+			"x": 32035,
+			"y": 31056,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 85,
-			"xTile": 125,
-			"yPosition": 113,
-			"yTile": 121
+			"x": 32085,
+			"y": 31089,
+			"z": 7
 		},
 		{
 			"description": "Quara scouts",
 			"icon": "red down",
-			"xPosition": 86,
-			"xTile": 125,
-			"yPosition": 117,
-			"yTile": 121
+			"x": 32086,
+			"y": 31093,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 88,
-			"xTile": 125,
-			"yPosition": 42,
-			"yTile": 121
+			"x": 32088,
+			"y": 31018,
+			"z": 7
 		},
 		{
 			"description": "To GCTS",
 			"icon": "down",
-			"xPosition": 191,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 121
+			"x": 32191,
+			"y": 31180,
+			"z": 7
 		},
 		{
 			"description": "Temple",
 			"icon": "cross",
-			"xPosition": 213,
-			"xTile": 125,
-			"yPosition": 157,
-			"yTile": 121
+			"x": 32213,
+			"y": 31133,
+			"z": 7
 		}
 	],
 	"12512207": [
 		{
 			"description": "NPC Buddel",
 			"icon": "flag",
-			"xPosition": 21,
-			"xTile": 125,
-			"yPosition": 62,
-			"yTile": 122
+			"x": 32021,
+			"y": 31294,
+			"z": 7
 		},
 		{
 			"description": "Stone golems",
 			"icon": "red down",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 139,
-			"yTile": 122
+			"x": 32098,
+			"y": 31371,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 187,
-			"xTile": 125,
-			"yPosition": 198,
-			"yTile": 122
+			"x": 32187,
+			"y": 31430,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 189,
-			"xTile": 125,
-			"yPosition": 189,
-			"yTile": 122
+			"x": 32189,
+			"y": 31421,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 247,
-			"xTile": 125,
-			"yPosition": 156,
-			"yTile": 122
+			"x": 32247,
+			"y": 31388,
+			"z": 7
 		}
 	],
 	"12512307": [
 		{
 			"description": "Boat to Tibia",
 			"icon": "flag",
-			"xPosition": 20,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 123
+			"x": 32020,
+			"y": 31692,
+			"z": 7
 		},
 		{
 			"description": "Boat to Tibia",
 			"icon": "flag",
-			"xPosition": 45,
-			"xTile": 125,
-			"yPosition": 90,
-			"yTile": 123
+			"x": 32045,
+			"y": 31578,
+			"z": 7
 		},
 		{
 			"description": "Boat to Tibia",
 			"icon": "flag",
-			"xPosition": 126,
-			"xTile": 125,
-			"yPosition": 177,
-			"yTile": 123
+			"x": 32126,
+			"y": 31665,
+			"z": 7
 		},
 		{
 			"description": "Boat to Folda, Senja, and Vega",
 			"icon": "flag",
-			"xPosition": 235,
-			"xTile": 125,
-			"yPosition": 186,
-			"yTile": 123
+			"x": 32235,
+			"y": 31674,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 252,
-			"xTile": 125,
-			"yPosition": 229,
-			"yTile": 123
+			"x": 32252,
+			"y": 31717,
+			"z": 7
 		}
 	],
 	"12512407": [
 		{
 			"description": "Woodlings and meadow striders",
 			"icon": "red down",
-			"xPosition": 18,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 124
+			"x": 32018,
+			"y": 31920,
+			"z": 7
 		},
 		{
 			"description": "NPC Woblin",
 			"icon": "down",
-			"xPosition": 21,
-			"xTile": 125,
-			"yPosition": 141,
-			"yTile": 124
+			"x": 32021,
+			"y": 31885,
+			"z": 7
 		},
 		{
 			"description": "Minotaurs",
 			"icon": "red down",
-			"xPosition": 35,
-			"xTile": 125,
-			"yPosition": 146,
-			"yTile": 124
+			"x": 32035,
+			"y": 31890,
+			"z": 7
 		},
 		{
 			"description": "Minotaurs",
 			"icon": "red down",
-			"xPosition": 50,
-			"xTile": 125,
-			"yPosition": 130,
-			"yTile": 124
+			"x": 32050,
+			"y": 31874,
+			"z": 7
 		},
 		{
 			"description": "Brittle skeletons and rats",
 			"icon": "red down",
-			"xPosition": 66,
-			"xTile": 125,
-			"yPosition": 129,
-			"yTile": 124
+			"x": 32066,
+			"y": 31873,
+			"z": 7
 		},
 		{
 			"description": "Woodlings and meadow striders",
 			"icon": "red down",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 171,
-			"yTile": 124
+			"x": 32072,
+			"y": 31915,
+			"z": 7
 		},
 		{
 			"description": "Goblins",
 			"icon": "red down",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 193,
-			"yTile": 124
+			"x": 32072,
+			"y": 31937,
+			"z": 7
 		},
 		{
 			"description": "Brittle skeletons and rats",
 			"icon": "red down",
-			"xPosition": 93,
-			"xTile": 125,
-			"yPosition": 117,
-			"yTile": 124
+			"x": 32093,
+			"y": 31861,
+			"z": 7
 		},
 		{
 			"description": "Ship to the Mainland",
 			"icon": "up",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 242,
-			"yTile": 124
+			"x": 32098,
+			"y": 31986,
+			"z": 7
 		},
 		{
 			"description": "Island of Destiny — Training Centre",
 			"icon": "!",
-			"xPosition": 99,
-			"xTile": 125,
-			"yPosition": 252,
-			"yTile": 124
+			"x": 32099,
+			"y": 31996,
+			"z": 7
 		},
 		{
 			"description": "Goblins",
 			"icon": "red down",
-			"xPosition": 111,
-			"xTile": 125,
-			"yPosition": 159,
-			"yTile": 124
+			"x": 32111,
+			"y": 31903,
+			"z": 7
 		},
 		{
 			"description": "Spirit Grounds (world change)",
 			"icon": "!",
-			"xPosition": 172,
-			"xTile": 125,
-			"yPosition": 42,
-			"yTile": 124
+			"x": 32172,
+			"y": 31786,
+			"z": 7
 		},
 		{
 			"description": "Boat to Isle of Kings",
 			"icon": "flag",
-			"xPosition": 211,
-			"xTile": 125,
-			"yPosition": 12,
-			"yTile": 124
+			"x": 32211,
+			"y": 31756,
+			"z": 7
 		},
 		{
 			"description": "Passage to The Ghostlands",
 			"icon": "down",
-			"xPosition": 218,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 124
+			"x": 32218,
+			"y": 31766,
+			"z": 7
 		},
 		{
 			"description": "Passage out of The Ghostlands",
 			"icon": "down",
-			"xPosition": 221,
-			"xTile": 125,
-			"yPosition": 36,
-			"yTile": 124
+			"x": 32221,
+			"y": 31780,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 223,
-			"xTile": 125,
-			"yPosition": 116,
-			"yTile": 124
+			"x": 32223,
+			"y": 31860,
+			"z": 7
 		}
 	],
 	"12512507": [
 		{
 			"description": "Wasps’ nest",
 			"icon": "up",
-			"xPosition": 0,
-			"xTile": 125,
-			"yPosition": 139,
-			"yTile": 125
+			"x": 32000,
+			"y": 32139,
+			"z": 7
 		},
 		{
 			"description": "Lee'Delle’s Premium Store",
 			"icon": "bag",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 195,
-			"yTile": 125
+			"x": 32026,
+			"y": 32195,
+			"z": 7
 		},
 		{
 			"description": "West bridge",
 			"icon": "up",
-			"xPosition": 26,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
+			"x": 32026,
+			"y": 32203,
+			"z": 7
 		},
 		{
 			"description": "Rat dungeon",
 			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
+			"x": 32041,
+			"y": 32228,
+			"z": 7
 		},
 		{
 			"description": "Spider lair",
 			"icon": "down",
-			"xPosition": 51,
-			"xTile": 125,
-			"yPosition": 110,
-			"yTile": 125
+			"x": 32051,
+			"y": 32110,
+			"z": 7
 		},
 		{
 			"description": "General equipment store",
 			"icon": "bag",
-			"xPosition": 60,
-			"xTile": 125,
-			"yPosition": 180,
-			"yTile": 125
+			"x": 32060,
+			"y": 32180,
+			"z": 7
 		},
 		{
 			"description": "Farms and food store",
 			"icon": "bag",
-			"xPosition": 65,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
+			"x": 32065,
+			"y": 32204,
+			"z": 7
 		},
 		{
 			"description": "Lily’s Potion Shop",
 			"icon": "bag",
-			"xPosition": 68,
-			"xTile": 125,
-			"yPosition": 228,
-			"yTile": 125
+			"x": 32068,
+			"y": 32228,
+			"z": 7
 		},
 		{
 			"description": "Barn",
 			"icon": "flag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 182,
-			"yTile": 125
+			"x": 32082,
+			"y": 32182,
+			"z": 7
 		},
 		{
 			"description": "Tom the Tanner",
 			"icon": "bag",
-			"xPosition": 82,
-			"xTile": 125,
-			"yPosition": 199,
-			"yTile": 125
+			"x": 32082,
+			"y": 32199,
+			"z": 7
 		},
 		{
 			"description": "North exit",
 			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 178,
-			"yTile": 125
+			"x": 32091,
+			"y": 32178,
+			"z": 7
 		},
 		{
 			"description": "North bridge",
 			"icon": "up",
-			"xPosition": 91,
-			"xTile": 125,
-			"yPosition": 179,
-			"yTile": 125
+			"x": 32091,
+			"y": 32179,
+			"z": 7
 		},
 		{
 			"description": "Troll caves",
 			"icon": "down",
-			"xPosition": 94,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 125
+			"x": 32094,
+			"y": 32137,
+			"z": 7
 		},
 		{
 			"description": "Norma’s Bar",
 			"icon": "bag",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 181,
-			"yTile": 125
+			"x": 32097,
+			"y": 32181,
+			"z": 7
 		},
 		{
 			"description": "Rat dungeon",
 			"icon": "down",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 125
+			"x": 32097,
+			"y": 32205,
+			"z": 7
 		},
 		{
 			"description": "Temple of Rookgaard",
 			"icon": "cross",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 219,
-			"yTile": 125
+			"x": 32097,
+			"y": 32219,
+			"z": 7
 		},
 		{
 			"description": "The Academy",
 			"icon": "?",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
+			"x": 32098,
+			"y": 32196,
+			"z": 7
 		},
 		{
 			"description": "The Academy",
 			"icon": "flag",
-			"xPosition": 104,
-			"xTile": 125,
-			"yPosition": 196,
-			"yTile": 125
+			"x": 32104,
+			"y": 32196,
+			"z": 7
 		},
 		{
 			"description": "Obi’s Shop",
 			"icon": "bag",
-			"xPosition": 105,
-			"xTile": 125,
-			"yPosition": 203,
-			"yTile": 125
+			"x": 32105,
+			"y": 32203,
+			"z": 7
 		},
 		{
 			"description": "Weapon and armor shops",
 			"icon": "bag",
-			"xPosition": 106,
-			"xTile": 125,
-			"yPosition": 204,
-			"yTile": 125
+			"x": 32106,
+			"y": 32204,
+			"z": 7
 		},
 		{
 			"description": "Unholy Crypt",
 			"icon": "down",
-			"xPosition": 131,
-			"xTile": 125,
-			"yPosition": 201,
-			"yTile": 125
+			"x": 32131,
+			"y": 32201,
+			"z": 7
 		},
 		{
 			"description": "War Wolf Den",
 			"icon": "down",
-			"xPosition": 138,
-			"xTile": 125,
-			"yPosition": 132,
-			"yTile": 125
+			"x": 32138,
+			"y": 32132,
+			"z": 7
 		},
 		{
 			"description": "To NPC Hyacinth",
 			"icon": "up",
-			"xPosition": 139,
-			"xTile": 125,
-			"yPosition": 176,
-			"yTile": 125
+			"x": 32139,
+			"y": 32176,
+			"z": 7
 		}
 	],
 	"12512607": [
 		{
 			"description": "To the village",
 			"icon": "red right",
-			"xPosition": 1,
-			"xTile": 125,
-			"yPosition": 22,
-			"yTile": 126
+			"x": 32001,
+			"y": 32278,
+			"z": 7
 		},
 		{
 			"description": "Santiago’s hut",
 			"icon": "up",
-			"xPosition": 22,
-			"xTile": 125,
-			"yPosition": 17,
-			"yTile": 126
+			"x": 32022,
+			"y": 32273,
+			"z": 7
 		},
 		{
 			"description": "Boat to Meluna",
 			"icon": "flag",
-			"xPosition": 153,
-			"xTile": 125,
-			"yPosition": 201,
-			"yTile": 126
+			"x": 32153,
+			"y": 32457,
+			"z": 7
 		}
 	],
 	"12512707": [
 		{
 			"description": "To portals",
 			"icon": "down",
-			"xPosition": 19,
-			"xTile": 125,
-			"yPosition": 166,
-			"yTile": 127
+			"x": 32019,
+			"y": 32678,
+			"z": 7
 		},
 		{
 			"description": "Shattered Isles portals",
 			"icon": "down",
-			"xPosition": 38,
-			"xTile": 125,
-			"yPosition": 48,
-			"yTile": 127
+			"x": 32038,
+			"y": 32560,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 49,
-			"xTile": 125,
-			"yPosition": 88,
-			"yTile": 127
+			"x": 32049,
+			"y": 32600,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 50,
-			"xTile": 125,
-			"yPosition": 108,
-			"yTile": 127
+			"x": 32050,
+			"y": 32620,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 125,
-			"yPosition": 121,
-			"yTile": 127
+			"x": 32066,
+			"y": 32633,
+			"z": 7
 		},
 		{
 			"description": "NPC Atrad (assassin star vendor)",
 			"icon": "down",
-			"xPosition": 75,
-			"xTile": 125,
-			"yPosition": 26,
-			"yTile": 127
+			"x": 32075,
+			"y": 32538,
+			"z": 7
 		},
 		{
 			"description": "Fire field (needed for NPC Atrad)",
 			"icon": "star",
-			"xPosition": 75,
-			"xTile": 125,
-			"yPosition": 61,
-			"yTile": 127
+			"x": 32075,
+			"y": 32573,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 86,
-			"xTile": 125,
-			"yPosition": 65,
-			"yTile": 127
+			"x": 32086,
+			"y": 32577,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 64,
-			"yTile": 127
+			"x": 32097,
+			"y": 32576,
+			"z": 7
 		},
 		{
 			"description": "To demons",
 			"icon": "down",
-			"xPosition": 97,
-			"xTile": 125,
-			"yPosition": 119,
-			"yTile": 127
+			"x": 32097,
+			"y": 32631,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 201,
-			"xTile": 125,
-			"yPosition": 210,
-			"yTile": 127
+			"x": 32201,
+			"y": 32722,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 244,
-			"xTile": 125,
-			"yPosition": 211,
-			"yTile": 127
+			"x": 32244,
+			"y": 32723,
+			"z": 7
 		}
 	],
 	"12512807": [
 		{
 			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
-			"xPosition": 126,
-			"xTile": 125,
-			"yPosition": 166,
-			"yTile": 128
+			"x": 32126,
+			"y": 32934,
+			"z": 7
 		},
 		{
 			"description": "Boat to Liberty Bay",
 			"icon": "flag",
-			"xPosition": 132,
-			"xTile": 125,
-			"yPosition": 144,
-			"yTile": 128
+			"x": 32132,
+			"y": 32912,
+			"z": 7
 		},
 		{
 			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
-			"xPosition": 144,
-			"xTile": 125,
-			"yPosition": 179,
-			"yTile": 128
+			"x": 32144,
+			"y": 32947,
+			"z": 7
 		},
 		{
 			"description": "Bonelord Cave",
 			"icon": "red down",
-			"xPosition": 158,
-			"xTile": 125,
-			"yPosition": 14,
-			"yTile": 128
+			"x": 32158,
+			"y": 32782,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 181,
-			"xTile": 125,
-			"yPosition": 40,
-			"yTile": 128
+			"x": 32181,
+			"y": 32808,
+			"z": 7
 		},
 		{
 			"description": "Treasure hole (requires pirate treasure map)",
 			"icon": "red down",
-			"xPosition": 201,
-			"xTile": 125,
-			"yPosition": 179,
-			"yTile": 128
+			"x": 32201,
+			"y": 32947,
+			"z": 7
 		},
 		{
 			"description": "Quaras",
 			"icon": "red down",
-			"xPosition": 206,
-			"xTile": 125,
-			"yPosition": 115,
-			"yTile": 128
+			"x": 32206,
+			"y": 32883,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 225,
-			"xTile": 125,
-			"yPosition": 81,
-			"yTile": 128
+			"x": 32225,
+			"y": 32849,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 233,
-			"xTile": 125,
-			"yPosition": 6,
-			"yTile": 128
+			"x": 32233,
+			"y": 32774,
+			"z": 7
 		}
 	],
 	"12612107": [
 		{
 			"description": "NPC Buddel",
 			"icon": "flag",
-			"xPosition": 0,
-			"xTile": 126,
-			"yPosition": 221,
-			"yTile": 121
+			"x": 32256,
+			"y": 31197,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "lock",
-			"xPosition": 7,
-			"xTile": 126,
-			"yPosition": 164,
-			"yTile": 121
+			"x": 32263,
+			"y": 31140,
+			"z": 7
 		},
 		{
 			"description": "Passage to Nibelor",
 			"icon": "flag",
-			"xPosition": 45,
-			"xTile": 126,
-			"yPosition": 107,
-			"yTile": 121
+			"x": 32301,
+			"y": 31083,
+			"z": 7
 		},
 		{
 			"description": "Magic store, post office, and bank",
 			"icon": "star",
-			"xPosition": 47,
-			"xTile": 126,
-			"yPosition": 157,
-			"yTile": 121
+			"x": 32303,
+			"y": 31133,
+			"z": 7
 		},
 		{
 			"description": "Passage to Svargrond",
 			"icon": "flag",
-			"xPosition": 71,
-			"xTile": 126,
-			"yPosition": 68,
-			"yTile": 121
+			"x": 32327,
+			"y": 31044,
+			"z": 7
 		},
 		{
 			"description": "NPC Buddel",
 			"icon": "flag",
-			"xPosition": 77,
-			"xTile": 126,
-			"yPosition": 251,
-			"yTile": 121
+			"x": 32333,
+			"y": 31227,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 85,
-			"xTile": 126,
-			"yPosition": 140,
-			"yTile": 121
+			"x": 32341,
+			"y": 31116,
+			"z": 7
 		},
 		{
 			"description": "Ice golems and crystal spiders",
 			"icon": "red down",
-			"xPosition": 101,
-			"xTile": 126,
-			"yPosition": 111,
-			"yTile": 121
+			"x": 32357,
+			"y": 31087,
+			"z": 7
 		},
 		{
 			"description": "Passage to Inukaya (1 ham required)",
 			"icon": "flag",
-			"xPosition": 111,
-			"xTile": 126,
-			"yPosition": 82,
-			"yTile": 121
+			"x": 32367,
+			"y": 31058,
+			"z": 7
 		},
 		{
 			"description": "Passage to Nibelor (1 ham required)",
 			"icon": "flag",
-			"xPosition": 154,
-			"xTile": 126,
-			"yPosition": 90,
-			"yTile": 121
+			"x": 32410,
+			"y": 31066,
+			"z": 7
 		}
 	],
 	"12612207": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 0,
-			"xTile": 126,
-			"yPosition": 167,
-			"yTile": 122
+			"x": 32256,
+			"y": 31399,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 9,
-			"xTile": 126,
-			"yPosition": 111,
-			"yTile": 122
+			"x": 32265,
+			"y": 31343,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 10,
-			"xTile": 126,
-			"yPosition": 128,
-			"yTile": 122
+			"x": 32266,
+			"y": 31360,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 13,
-			"xTile": 126,
-			"yPosition": 121,
-			"yTile": 122
+			"x": 32269,
+			"y": 31353,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 29,
-			"xTile": 126,
-			"yPosition": 178,
-			"yTile": 122
+			"x": 32285,
+			"y": 31410,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 36,
-			"xTile": 126,
-			"yPosition": 192,
-			"yTile": 122
+			"x": 32292,
+			"y": 31424,
+			"z": 7
 		}
 	],
 	"12612307": [
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 12,
-			"xTile": 126,
-			"yPosition": 238,
-			"yTile": 123
+			"x": 32268,
+			"y": 31726,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 83,
-			"xTile": 126,
-			"yPosition": 187,
-			"yTile": 123
+			"x": 32339,
+			"y": 31675,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 128,
-			"xTile": 126,
-			"yPosition": 203,
-			"yTile": 123
+			"x": 32384,
+			"y": 31691,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 156,
-			"xTile": 126,
-			"yPosition": 113,
-			"yTile": 123
+			"x": 32412,
+			"y": 31601,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 164,
-			"xTile": 126,
-			"yPosition": 103,
-			"yTile": 123
+			"x": 32420,
+			"y": 31591,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 179,
-			"xTile": 126,
-			"yPosition": 148,
-			"yTile": 123
+			"x": 32435,
+			"y": 31636,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 232,
-			"xTile": 126,
-			"yPosition": 169,
-			"yTile": 123
+			"x": 32488,
+			"y": 31657,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 234,
-			"xTile": 126,
-			"yPosition": 210,
-			"yTile": 123
+			"x": 32490,
+			"y": 31698,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 254,
-			"xTile": 126,
-			"yPosition": 228,
-			"yTile": 123
+			"x": 32510,
+			"y": 31716,
+			"z": 7
 		}
 	],
 	"12612407": [
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 5,
-			"xTile": 126,
-			"yPosition": 104,
-			"yTile": 124
+			"x": 32261,
+			"y": 31848,
+			"z": 7
 		},
 		{
 			"description": "Bank",
 			"icon": "$",
-			"xPosition": 70,
-			"xTile": 126,
-			"yPosition": 38,
-			"yTile": 124
+			"x": 32326,
+			"y": 31782,
+			"z": 7
 		},
 		{
 			"description": "Depot and post office",
 			"icon": "lock",
-			"xPosition": 80,
-			"xTile": 126,
-			"yPosition": 40,
-			"yTile": 124
+			"x": 32336,
+			"y": 31784,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 90,
-			"xTile": 126,
-			"yPosition": 84,
-			"yTile": 124
+			"x": 32346,
+			"y": 31828,
+			"z": 7
 		},
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 94,
-			"xTile": 126,
-			"yPosition": 12,
-			"yTile": 124
+			"x": 32350,
+			"y": 31756,
+			"z": 7
 		},
 		{
 			"description": "Temple",
 			"icon": "cross",
-			"xPosition": 104,
-			"xTile": 126,
-			"yPosition": 38,
-			"yTile": 124
+			"x": 32360,
+			"y": 31782,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 122,
-			"xTile": 126,
-			"yPosition": 71,
-			"yTile": 124
+			"x": 32378,
+			"y": 31815,
+			"z": 7
 		},
 		{
 			"description": "Minotaurs (boss: The Horned Fox)",
 			"icon": "!",
-			"xPosition": 233,
-			"xTile": 126,
-			"yPosition": 220,
-			"yTile": 124
+			"x": 32489,
+			"y": 31964,
+			"z": 7
 		}
 	],
 	"12612507": [
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 14,
-			"xTile": 126,
-			"yPosition": 171,
-			"yTile": 125
+			"x": 32270,
+			"y": 32171,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 65,
-			"xTile": 126,
-			"yPosition": 211,
-			"yTile": 125
+			"x": 32321,
+			"y": 32211,
+			"z": 7
 		},
 		{
 			"description": "Depot & bank",
 			"icon": "lock",
-			"xPosition": 91,
-			"xTile": 126,
-			"yPosition": 226,
-			"yTile": 125
+			"x": 32347,
+			"y": 32226,
+			"z": 7
 		},
 		{
 			"description": "Offline training (distance)",
 			"icon": "sword",
-			"xPosition": 94,
-			"xTile": 126,
-			"yPosition": 238,
-			"yTile": 125
+			"x": 32350,
+			"y": 32238,
+			"z": 7
 		},
 		{
 			"description": "PvP arena",
 			"icon": "skull",
-			"xPosition": 97,
-			"xTile": 126,
-			"yPosition": 222,
-			"yTile": 125
+			"x": 32353,
+			"y": 32222,
+			"z": 7
 		},
 		{
 			"description": "Temple",
 			"icon": "cross",
-			"xPosition": 113,
-			"xTile": 126,
-			"yPosition": 239,
-			"yTile": 125
+			"x": 32369,
+			"y": 32239,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 143,
-			"xTile": 126,
-			"yPosition": 220,
-			"yTile": 125
+			"x": 32399,
+			"y": 32220,
+			"z": 7
 		}
 	],
 	"12612607": [
 		{
 			"description": "NPC Eclesius",
 			"icon": "mouth",
-			"xPosition": 35,
-			"xTile": 126,
-			"yPosition": 35,
-			"yTile": 126
+			"x": 32291,
+			"y": 32291,
+			"z": 7
 		},
 		{
 			"description": "Offline training (magic)",
 			"icon": "sword",
-			"xPosition": 41,
-			"xTile": 126,
-			"yPosition": 12,
-			"yTile": 126
+			"x": 32297,
+			"y": 32268,
+			"z": 7
 		},
 		{
 			"description": "Bank",
 			"icon": "$",
-			"xPosition": 62,
-			"xTile": 126,
-			"yPosition": 0,
-			"yTile": 126
+			"x": 32318,
+			"y": 32256,
+			"z": 7
 		},
 		{
 			"description": "Wasps",
 			"icon": "red down",
-			"xPosition": 172,
-			"xTile": 126,
-			"yPosition": 59,
-			"yTile": 126
+			"x": 32428,
+			"y": 32315,
+			"z": 7
 		},
 		{
 			"description": "Trolls",
 			"icon": "red down",
-			"xPosition": 237,
-			"xTile": 126,
-			"yPosition": 3,
-			"yTile": 126
+			"x": 32493,
+			"y": 32259,
+			"z": 7
 		}
 	],
 	"12612707": [
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 11,
-			"xTile": 126,
-			"yPosition": 187,
-			"yTile": 127
+			"x": 32267,
+			"y": 32699,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 65,
-			"xTile": 126,
-			"yPosition": 109,
-			"yTile": 127
+			"x": 32321,
+			"y": 32621,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 92,
-			"xTile": 126,
-			"yPosition": 183,
-			"yTile": 127
+			"x": 32348,
+			"y": 32695,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 104,
-			"xTile": 126,
-			"yPosition": 209,
-			"yTile": 127
+			"x": 32360,
+			"y": 32721,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 112,
-			"xTile": 126,
-			"yPosition": 217,
-			"yTile": 127
+			"x": 32368,
+			"y": 32729,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 128,
-			"xTile": 126,
-			"yPosition": 190,
-			"yTile": 127
+			"x": 32384,
+			"y": 32702,
+			"z": 7
 		},
 		{
 			"description": "Meriana Gargoyle Cave",
 			"icon": "down",
-			"xPosition": 133,
-			"xTile": 126,
-			"yPosition": 92,
-			"yTile": 127
+			"x": 32389,
+			"y": 32604,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 162,
-			"xTile": 126,
-			"yPosition": 246,
-			"yTile": 127
+			"x": 32418,
+			"y": 32758,
+			"z": 7
 		}
 	],
 	"12612807": [
 		{
 			"description": "Coryms",
 			"icon": "red down",
-			"xPosition": 12,
-			"xTile": 126,
-			"yPosition": 69,
-			"yTile": 128
+			"x": 32268,
+			"y": 32837,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 50,
-			"xTile": 126,
-			"yPosition": 100,
-			"yTile": 128
+			"x": 32306,
+			"y": 32868,
+			"z": 7
 		},
 		{
 			"description": "To the temple",
 			"icon": "cross",
-			"xPosition": 61,
-			"xTile": 126,
-			"yPosition": 57,
-			"yTile": 128
+			"x": 32317,
+			"y": 32825,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "lock",
-			"xPosition": 71,
-			"xTile": 126,
-			"yPosition": 67,
-			"yTile": 128
+			"x": 32327,
+			"y": 32835,
+			"z": 7
 		},
 		{
 			"description": "Bank and post office",
 			"icon": "$",
-			"xPosition": 81,
-			"xTile": 126,
-			"yPosition": 70,
-			"yTile": 128
+			"x": 32337,
+			"y": 32838,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 90,
-			"xTile": 126,
-			"yPosition": 42,
-			"yTile": 128
+			"x": 32346,
+			"y": 32810,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 117,
-			"xTile": 126,
-			"yPosition": 2,
-			"yTile": 128
+			"x": 32373,
+			"y": 32770,
+			"z": 7
 		},
 		{
 			"description": "Wyrms",
 			"icon": "red down",
-			"xPosition": 132,
-			"xTile": 126,
-			"yPosition": 73,
-			"yTile": 128
+			"x": 32388,
+			"y": 32841,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 173,
-			"xTile": 126,
-			"yPosition": 28,
-			"yTile": 128
+			"x": 32429,
+			"y": 32796,
+			"z": 7
 		}
 	],
 	"12712107": [
 		{
 			"description": "Mutated tigers",
 			"icon": "red down",
-			"xPosition": 152,
-			"xTile": 127,
-			"yPosition": 98,
-			"yTile": 121
+			"x": 32664,
+			"y": 31074,
+			"z": 7
 		},
 		{
 			"description": "To the Arena and Zoo Quarter",
 			"icon": "up",
-			"xPosition": 226,
-			"xTile": 127,
-			"yPosition": 225,
-			"yTile": 121
+			"x": 32738,
+			"y": 31201,
+			"z": 7
 		},
 		{
 			"description": "To the Alchemist Quarter",
 			"icon": "up",
-			"xPosition": 240,
-			"xTile": 127,
-			"yPosition": 193,
-			"yTile": 121
+			"x": 32752,
+			"y": 31169,
+			"z": 7
 		}
 	],
 	"12712207": [
 		{
 			"description": "To the Foreigner Quarter",
 			"icon": "up",
-			"xPosition": 251,
-			"xTile": 127,
-			"yPosition": 17,
-			"yTile": 122
+			"x": 32763,
+			"y": 31249,
+			"z": 7
 		}
 	],
 	"12712307": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 46,
-			"xTile": 127,
-			"yPosition": 192,
-			"yTile": 123
+			"x": 32558,
+			"y": 31680,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 69,
-			"xTile": 127,
-			"yPosition": 233,
-			"yTile": 123
+			"x": 32581,
+			"y": 31721,
+			"z": 7
 		},
 		{
 			"description": "Temple",
 			"icon": "cross",
-			"xPosition": 95,
-			"xTile": 127,
-			"yPosition": 192,
-			"yTile": 123
+			"x": 32607,
+			"y": 31680,
+			"z": 7
 		},
 		{
 			"description": "Rorcs or drillworms and lost dwarves",
 			"icon": "red down",
-			"xPosition": 141,
-			"xTile": 127,
-			"yPosition": 244,
-			"yTile": 123
+			"x": 32653,
+			"y": 31732,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 142,
-			"xTile": 127,
-			"yPosition": 186,
-			"yTile": 123
+			"x": 32654,
+			"y": 31674,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 144,
-			"xTile": 127,
-			"yPosition": 186,
-			"yTile": 123
+			"x": 32656,
+			"y": 31674,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 168,
-			"xTile": 127,
-			"yPosition": 232,
-			"yTile": 123
+			"x": 32680,
+			"y": 31720,
+			"z": 7
 		},
 		{
 			"description": "Opticording sphere quest",
 			"icon": "down",
-			"xPosition": 170,
-			"xTile": 127,
-			"yPosition": 116,
-			"yTile": 123
+			"x": 32682,
+			"y": 31604,
+			"z": 7
 		},
 		{
 			"description": "Depot & bank",
 			"icon": "lock",
-			"xPosition": 170,
-			"xTile": 127,
-			"yPosition": 197,
-			"yTile": 123
+			"x": 32682,
+			"y": 31685,
+			"z": 7
 		}
 	],
 	"12712407": [
 		{
 			"description": "To NPC Budrik",
 			"icon": "down",
-			"xPosition": 21,
-			"xTile": 127,
-			"yPosition": 169,
-			"yTile": 124
+			"x": 32533,
+			"y": 31913,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 36,
-			"xTile": 127,
-			"yPosition": 244,
-			"yTile": 124
+			"x": 32548,
+			"y": 31988,
+			"z": 7
 		},
 		{
 			"description": "Ore wagon",
 			"icon": "flag",
-			"xPosition": 41,
-			"xTile": 127,
-			"yPosition": 187,
-			"yTile": 124
+			"x": 32553,
+			"y": 31931,
+			"z": 7
 		},
 		{
 			"description": "Passage to Kazordoon",
 			"icon": "up",
-			"xPosition": 44,
-			"xTile": 127,
-			"yPosition": 180,
-			"yTile": 124
+			"x": 32556,
+			"y": 31924,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 62,
-			"xTile": 127,
-			"yPosition": 236,
-			"yTile": 124
+			"x": 32574,
+			"y": 31980,
+			"z": 7
 		},
 		{
 			"description": "Entrance to Kazordoon",
 			"icon": "down",
-			"xPosition": 66,
-			"xTile": 127,
-			"yPosition": 148,
-			"yTile": 124
+			"x": 32578,
+			"y": 31892,
+			"z": 7
 		},
 		{
 			"description": "Ore wagon",
 			"icon": "flag",
-			"xPosition": 89,
-			"xTile": 127,
-			"yPosition": 131,
-			"yTile": 124
+			"x": 32601,
+			"y": 31875,
+			"z": 7
 		},
 		{
 			"description": "Ore wagon",
 			"icon": "flag",
-			"xPosition": 106,
-			"xTile": 127,
-			"yPosition": 200,
-			"yTile": 124
+			"x": 32618,
+			"y": 31944,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 113,
-			"xTile": 127,
-			"yPosition": 55,
-			"yTile": 124
+			"x": 32625,
+			"y": 31799,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 120,
-			"xTile": 127,
-			"yPosition": 68,
-			"yTile": 124
+			"x": 32632,
+			"y": 31812,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 142,
-			"xTile": 127,
-			"yPosition": 85,
-			"yTile": 124
+			"x": 32654,
+			"y": 31829,
+			"z": 7
 		},
 		{
 			"description": "Trolls",
 			"icon": "red down",
-			"xPosition": 151,
-			"xTile": 127,
-			"yPosition": 219,
-			"yTile": 124
+			"x": 32663,
+			"y": 31963,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 159,
-			"xTile": 127,
-			"yPosition": 52,
-			"yTile": 124
+			"x": 32671,
+			"y": 31796,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 171,
-			"xTile": 127,
-			"yPosition": 63,
-			"yTile": 124
+			"x": 32683,
+			"y": 31807,
+			"z": 7
 		},
 		{
 			"description": "White deer (spawn location)",
 			"icon": "star",
-			"xPosition": 181,
-			"xTile": 127,
-			"yPosition": 146,
-			"yTile": 124
+			"x": 32693,
+			"y": 31890,
+			"z": 7
 		},
 		{
 			"description": "Tainted Caves",
 			"icon": "down",
-			"xPosition": 197,
-			"xTile": 127,
-			"yPosition": 195,
-			"yTile": 124
+			"x": 32709,
+			"y": 31939,
+			"z": 7
 		},
 		{
 			"description": "Poacher Caves",
 			"icon": "down",
-			"xPosition": 244,
-			"xTile": 127,
-			"yPosition": 184,
-			"yTile": 124
+			"x": 32756,
+			"y": 31928,
+			"z": 7
 		}
 	],
 	"12712507": [
 		{
 			"description": "Key 3302",
 			"icon": "star",
-			"xPosition": 98,
-			"xTile": 127,
-			"yPosition": 244,
-			"yTile": 125
+			"x": 32610,
+			"y": 32244,
+			"z": 7
 		},
 		{
 			"description": "Key 3301",
 			"icon": "star",
-			"xPosition": 105,
-			"xTile": 127,
-			"yPosition": 251,
-			"yTile": 125
+			"x": 32617,
+			"y": 32251,
+			"z": 7
 		},
 		{
 			"description": "Key 3303",
 			"icon": "star",
-			"xPosition": 140,
-			"xTile": 127,
-			"yPosition": 244,
-			"yTile": 125
+			"x": 32652,
+			"y": 32244,
+			"z": 7
 		},
 		{
 			"description": "NPC Rottin Wood",
 			"icon": "mouth",
-			"xPosition": 145,
-			"xTile": 127,
-			"yPosition": 201,
-			"yTile": 125
+			"x": 32657,
+			"y": 32201,
+			"z": 7
 		},
 		{
 			"description": "Rabbits",
 			"icon": "down",
-			"xPosition": 178,
-			"xTile": 127,
-			"yPosition": 204,
-			"yTile": 125
+			"x": 32690,
+			"y": 32204,
+			"z": 7
 		},
 		{
 			"description": "To Wyda’s hut",
 			"icon": "down",
-			"xPosition": 187,
-			"xTile": 127,
-			"yPosition": 18,
-			"yTile": 125
+			"x": 32699,
+			"y": 32018,
+			"z": 7
 		}
 	],
 	"12712607": [
 		{
 			"description": "Water elementals",
 			"icon": "red down",
-			"xPosition": 78,
-			"xTile": 127,
-			"yPosition": 58,
-			"yTile": 126
+			"x": 32590,
+			"y": 32314,
+			"z": 7
 		}
 	],
 	"12712707": [
 		{
 			"description": "Slime training spot",
 			"icon": "sword",
-			"xPosition": 17,
-			"xTile": 127,
-			"yPosition": 209,
-			"yTile": 127
+			"x": 32529,
+			"y": 32721,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 19,
-			"xTile": 127,
-			"yPosition": 199,
-			"yTile": 127
+			"x": 32531,
+			"y": 32711,
+			"z": 7
 		},
 		{
 			"description": "Smugglers",
 			"icon": "red down",
-			"xPosition": 43,
-			"xTile": 127,
-			"yPosition": 166,
-			"yTile": 127
+			"x": 32555,
+			"y": 32678,
+			"z": 7
 		},
 		{
 			"description": "To the harbour",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 127,
-			"yPosition": 254,
-			"yTile": 127
+			"x": 32578,
+			"y": 32766,
+			"z": 7
 		},
 		{
 			"description": "Slime training spot",
 			"icon": "sword",
-			"xPosition": 74,
-			"xTile": 127,
-			"yPosition": 199,
-			"yTile": 127
+			"x": 32586,
+			"y": 32711,
+			"z": 7
 		},
 		{
 			"description": "Temple",
 			"icon": "cross",
-			"xPosition": 83,
-			"xTile": 127,
-			"yPosition": 234,
-			"yTile": 127
+			"x": 32595,
+			"y": 32746,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 101,
-			"xTile": 127,
-			"yPosition": 45,
-			"yTile": 127
+			"x": 32613,
+			"y": 32557,
+			"z": 7
 		},
 		{
 			"description": "Crocodiles (task boss: The Snapper)",
 			"icon": "!",
-			"xPosition": 101,
-			"xTile": 127,
-			"yPosition": 191,
-			"yTile": 127
+			"x": 32613,
+			"y": 32703,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "lock",
-			"xPosition": 111,
-			"xTile": 127,
-			"yPosition": 234,
-			"yTile": 127
+			"x": 32623,
+			"y": 32746,
+			"z": 7
 		},
 		{
 			"description": "To the shops, post office, and bank",
 			"icon": "up",
-			"xPosition": 117,
-			"xTile": 127,
-			"yPosition": 237,
-			"yTile": 127
+			"x": 32629,
+			"y": 32749,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 128,
-			"xTile": 127,
-			"yPosition": 43,
-			"yTile": 127
+			"x": 32640,
+			"y": 32555,
+			"z": 7
 		},
 		{
 			"description": "Swamp trolls",
 			"icon": "red down",
-			"xPosition": 166,
-			"xTile": 127,
-			"yPosition": 97,
-			"yTile": 127
+			"x": 32678,
+			"y": 32609,
+			"z": 7
 		},
 		{
 			"description": "Task boss: Deathbine",
 			"icon": "!",
-			"xPosition": 219,
-			"xTile": 127,
-			"yPosition": 253,
-			"yTile": 127
+			"x": 32731,
+			"y": 32765,
+			"z": 7
 		}
 	],
 	"12712807": [
 		{
 			"description": "Water elementals (level 50+)",
 			"icon": "red down",
-			"xPosition": 48,
-			"xTile": 127,
-			"yPosition": 92,
-			"yTile": 128
+			"x": 32560,
+			"y": 32860,
+			"z": 7
 		},
 		{
 			"description": "Coryms",
 			"icon": "red down",
-			"xPosition": 94,
-			"xTile": 127,
-			"yPosition": 35,
-			"yTile": 128
+			"x": 32606,
+			"y": 32803,
+			"z": 7
 		},
 		{
 			"description": "Trap holes",
 			"icon": "skull",
-			"xPosition": 123,
-			"xTile": 127,
-			"yPosition": 147,
-			"yTile": 128
+			"x": 32635,
+			"y": 32915,
+			"z": 7
 		},
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 124,
-			"xTile": 127,
-			"yPosition": 28,
-			"yTile": 128
+			"x": 32636,
+			"y": 32796,
+			"z": 7
 		},
 		{
 			"description": "Dworcs",
 			"icon": "red down",
-			"xPosition": 132,
-			"xTile": 127,
-			"yPosition": 157,
-			"yTile": 128
+			"x": 32644,
+			"y": 32925,
+			"z": 7
 		},
 		{
 			"description": "Water elementals",
 			"icon": "red down",
-			"xPosition": 167,
-			"xTile": 127,
-			"yPosition": 196,
-			"yTile": 128
+			"x": 32679,
+			"y": 32964,
+			"z": 7
 		},
 		{
 			"description": "NPC Grizzly Adams",
 			"icon": "mouth",
-			"xPosition": 182,
-			"xTile": 127,
-			"yPosition": 4,
-			"yTile": 128
+			"x": 32694,
+			"y": 32772,
+			"z": 7
 		},
 		{
 			"description": "Trap holes",
 			"icon": "skull",
-			"xPosition": 182,
-			"xTile": 127,
-			"yPosition": 90,
-			"yTile": 128
+			"x": 32694,
+			"y": 32858,
+			"z": 7
 		},
 		{
 			"description": "Trap holes",
 			"icon": "skull",
-			"xPosition": 182,
-			"xTile": 127,
-			"yPosition": 170,
-			"yTile": 128
+			"x": 32694,
+			"y": 32938,
+			"z": 7
 		},
 		{
 			"description": "Trap holes",
 			"icon": "skull",
-			"xPosition": 208,
-			"xTile": 127,
-			"yPosition": 168,
-			"yTile": 128
+			"x": 32720,
+			"y": 32936,
+			"z": 7
 		},
 		{
 			"description": "Tarantulas",
 			"icon": "red down",
-			"xPosition": 214,
-			"xTile": 127,
-			"yPosition": 25,
-			"yTile": 128
+			"x": 32726,
+			"y": 32793,
+			"z": 7
 		},
 		{
 			"description": "Tarantulas",
 			"icon": "red down",
-			"xPosition": 246,
-			"xTile": 127,
-			"yPosition": 23,
-			"yTile": 128
+			"x": 32758,
+			"y": 32791,
+			"z": 7
 		},
 		{
 			"description": "Trap holes",
 			"icon": "skull",
-			"xPosition": 254,
-			"xTile": 127,
-			"yPosition": 126,
-			"yTile": 128
+			"x": 32766,
+			"y": 32894,
+			"z": 7
 		}
 	],
 	"12812107": [
 		{
 			"description": "To the Cemetery Quarter",
 			"icon": "up",
-			"xPosition": 12,
-			"xTile": 128,
-			"yPosition": 174,
-			"yTile": 121
+			"x": 32780,
+			"y": 31150,
+			"z": 7
 		},
 		{
 			"description": "To the Magician Quarter",
 			"icon": "up",
-			"xPosition": 65,
-			"xTile": 128,
-			"yPosition": 179,
-			"yTile": 121
+			"x": 32833,
+			"y": 31155,
+			"z": 7
 		},
 		{
 			"description": "To the Sunken Quarter",
 			"icon": "up",
-			"xPosition": 96,
-			"xTile": 128,
-			"yPosition": 225,
-			"yTile": 121
+			"x": 32864,
+			"y": 31201,
+			"z": 7
 		}
 	],
 	"12812207": [
 		{
 			"description": "Temple raft",
 			"icon": "cross",
-			"xPosition": 19,
-			"xTile": 128,
-			"yPosition": 43,
-			"yTile": 122
+			"x": 32787,
+			"y": 31275,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 22,
-			"xTile": 128,
-			"yPosition": 3,
-			"yTile": 122
+			"x": 32790,
+			"y": 31235,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "lock",
-			"xPosition": 25,
-			"xTile": 128,
-			"yPosition": 16,
-			"yTile": 122
+			"x": 32793,
+			"y": 31248,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 42,
-			"xTile": 128,
-			"yPosition": 37,
-			"yTile": 122
+			"x": 32810,
+			"y": 31269,
+			"z": 7
 		},
 		{
 			"description": "Bank and post office",
 			"icon": "$",
-			"xPosition": 58,
-			"xTile": 128,
-			"yPosition": 17,
-			"yTile": 122
+			"x": 32826,
+			"y": 31249,
+			"z": 7
 		},
 		{
 			"description": "To the Former Trade Quarter",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 128,
-			"yPosition": 31,
-			"yTile": 122
+			"x": 32834,
+			"y": 31263,
+			"z": 7
 		},
 		{
 			"description": "Boat to Vengoth",
 			"icon": "flag",
-			"xPosition": 69,
-			"xTile": 128,
-			"yPosition": 133,
-			"yTile": 122
+			"x": 32837,
+			"y": 31365,
+			"z": 7
 		},
 		{
 			"description": "To the Factory Quarter",
 			"icon": "up",
-			"xPosition": 82,
-			"xTile": 128,
-			"yPosition": 14,
-			"yTile": 122
+			"x": 32850,
+			"y": 31246,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 85,
-			"xTile": 128,
-			"yPosition": 39,
-			"yTile": 122
+			"x": 32853,
+			"y": 31271,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 104,
-			"xTile": 128,
-			"yPosition": 63,
-			"yTile": 122
+			"x": 32872,
+			"y": 31295,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 110,
-			"xTile": 128,
-			"yPosition": 36,
-			"yTile": 122
+			"x": 32878,
+			"y": 31268,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 122,
-			"xTile": 128,
-			"yPosition": 90,
-			"yTile": 122
+			"x": 32890,
+			"y": 31322,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 136,
-			"xTile": 128,
-			"yPosition": 53,
-			"yTile": 122
+			"x": 32904,
+			"y": 31285,
+			"z": 7
 		},
 		{
 			"description": "Worker golems / war golems",
 			"icon": "red down",
-			"xPosition": 140,
-			"xTile": 128,
-			"yPosition": 85,
-			"yTile": 122
+			"x": 32908,
+			"y": 31317,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 147,
-			"xTile": 128,
-			"yPosition": 27,
-			"yTile": 122
+			"x": 32915,
+			"y": 31259,
+			"z": 7
 		},
 		{
 			"description": "Worker golems",
 			"icon": "red down",
-			"xPosition": 168,
-			"xTile": 128,
-			"yPosition": 24,
-			"yTile": 122
+			"x": 32936,
+			"y": 31256,
+			"z": 7
 		}
 	],
 	"12812307": [
 		{
 			"description": "Boat to Yalahar",
 			"icon": "flag",
-			"xPosition": 89,
-			"xTile": 128,
-			"yPosition": 61,
-			"yTile": 123
+			"x": 32857,
+			"y": 31549,
+			"z": 7
 		},
 		{
 			"description": "Orc that drops Sam’s old and used backpack (spawn location)",
 			"icon": "star",
-			"xPosition": 210,
-			"xTile": 128,
-			"yPosition": 254,
-			"yTile": 123
+			"x": 32978,
+			"y": 31742,
+			"z": 7
 		},
 		{
 			"description": "Werewolves",
 			"icon": "red up",
-			"xPosition": 212,
-			"xTile": 128,
-			"yPosition": 7,
-			"yTile": 123
+			"x": 32980,
+			"y": 31495,
+			"z": 7
 		}
 	],
 	"12812507": [
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 64,
-			"xTile": 128,
-			"yPosition": 84,
-			"yTile": 125
+			"x": 32832,
+			"y": 32084,
+			"z": 7
 		}
 	],
 	"12812607": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 2,
-			"xTile": 128,
-			"yPosition": 85,
-			"yTile": 126
+			"x": 32770,
+			"y": 32341,
+			"z": 7
 		},
 		{
 			"description": "Swamp trolls / rotworms",
 			"icon": "red down",
-			"xPosition": 145,
-			"xTile": 128,
-			"yPosition": 5,
-			"yTile": 126
+			"x": 32913,
+			"y": 32261,
+			"z": 7
 		},
 		{
 			"description": "To exit",
 			"icon": "down",
-			"xPosition": 250,
-			"xTile": 128,
-			"yPosition": 173,
-			"yTile": 126
+			"x": 33018,
+			"y": 32429,
+			"z": 7
 		}
 	],
 	"12812707": [
 		{
 			"description": "Tarantulas",
 			"icon": "red down",
-			"xPosition": 9,
-			"xTile": 128,
-			"yPosition": 173,
-			"yTile": 127
+			"x": 32777,
+			"y": 32685,
+			"z": 7
 		},
 		{
 			"description": "Protection zone",
 			"icon": "cross",
-			"xPosition": 57,
-			"xTile": 128,
-			"yPosition": 120,
-			"yTile": 127
+			"x": 32825,
+			"y": 32632,
+			"z": 7
 		},
 		{
 			"description": "Tarantulas (task boss: Hide)",
 			"icon": "!",
-			"xPosition": 59,
-			"xTile": 128,
-			"yPosition": 179,
-			"yTile": 127
+			"x": 32827,
+			"y": 32691,
+			"z": 7
 		},
 		{
 			"description": "Midnight panther (spawn location)",
 			"icon": "star",
-			"xPosition": 79,
-			"xTile": 128,
-			"yPosition": 185,
-			"yTile": 127
+			"x": 32847,
+			"y": 32697,
+			"z": 7
 		},
 		{
 			"description": "Shortcut to Deeper Banuta",
 			"icon": "down",
-			"xPosition": 85,
-			"xTile": 128,
-			"yPosition": 157,
-			"yTile": 127
+			"x": 32853,
+			"y": 32669,
+			"z": 7
 		},
 		{
 			"description": "Midnight panther (spawn location)",
 			"icon": "star",
-			"xPosition": 89,
-			"xTile": 128,
-			"yPosition": 226,
-			"yTile": 127
+			"x": 32857,
+			"y": 32738,
+			"z": 7
 		},
 		{
 			"description": "Special task: Tiquanda’s Revenge",
 			"icon": "!",
-			"xPosition": 108,
-			"xTile": 128,
-			"yPosition": 71,
-			"yTile": 127
+			"x": 32876,
+			"y": 32583,
+			"z": 7
 		},
 		{
 			"description": "Midnight panther (spawn location)",
 			"icon": "star",
-			"xPosition": 117,
-			"xTile": 128,
-			"yPosition": 207,
-			"yTile": 127
+			"x": 32885,
+			"y": 32719,
+			"z": 7
 		},
 		{
 			"description": "Carniphila",
 			"icon": "red down",
-			"xPosition": 138,
-			"xTile": 128,
-			"yPosition": 222,
-			"yTile": 127
+			"x": 32906,
+			"y": 32734,
+			"z": 7
 		},
 		{
 			"description": "Giant spiders",
 			"icon": "red down",
-			"xPosition": 181,
-			"xTile": 128,
-			"yPosition": 22,
-			"yTile": 127
+			"x": 32949,
+			"y": 32534,
+			"z": 7
 		},
 		{
 			"description": "Giant spiders",
 			"icon": "red down",
-			"xPosition": 193,
-			"xTile": 128,
-			"yPosition": 33,
-			"yTile": 127
+			"x": 32961,
+			"y": 32545,
+			"z": 7
 		},
 		{
 			"description": "Terramites",
 			"icon": "red down",
-			"xPosition": 207,
-			"xTile": 128,
-			"yPosition": 174,
-			"yTile": 127
+			"x": 32975,
+			"y": 32686,
+			"z": 7
 		},
 		{
 			"description": "Dwarfs",
 			"icon": "red down",
-			"xPosition": 211,
-			"xTile": 128,
-			"yPosition": 148,
-			"yTile": 127
+			"x": 32979,
+			"y": 32660,
+			"z": 7
 		},
 		{
 			"description": "Passage to Darama",
 			"icon": "up",
-			"xPosition": 214,
-			"xTile": 128,
-			"yPosition": 204,
-			"yTile": 127
+			"x": 32982,
+			"y": 32716,
+			"z": 7
 		},
 		{
 			"description": "Dragons",
 			"icon": "red down",
-			"xPosition": 215,
-			"xTile": 128,
-			"yPosition": 134,
-			"yTile": 127
+			"x": 32983,
+			"y": 32646,
+			"z": 7
 		},
 		{
 			"description": "Hydras",
 			"icon": "red down",
-			"xPosition": 220,
-			"xTile": 128,
-			"yPosition": 11,
-			"yTile": 127
+			"x": 32988,
+			"y": 32523,
+			"z": 7
 		},
 		{
 			"description": "Behemoths",
 			"icon": "red down",
-			"xPosition": 245,
-			"xTile": 128,
-			"yPosition": 52,
-			"yTile": 127
+			"x": 33013,
+			"y": 32564,
+			"z": 7
 		},
 		{
 			"description": "Passage to the Forbidden Lands",
 			"icon": "flag",
-			"xPosition": 253,
-			"xTile": 128,
-			"yPosition": 92,
-			"yTile": 127
+			"x": 33021,
+			"y": 32604,
+			"z": 7
 		}
 	],
 	"12812807": [
 		{
 			"description": "Tarantulas",
 			"icon": "red down",
-			"xPosition": 50,
-			"xTile": 128,
-			"yPosition": 41,
-			"yTile": 128
+			"x": 32818,
+			"y": 32809,
+			"z": 7
 		},
 		{
 			"description": "Medusa Tower entrance",
 			"icon": "red down",
-			"xPosition": 85,
-			"xTile": 128,
-			"yPosition": 46,
-			"yTile": 128
+			"x": 32853,
+			"y": 32814,
+			"z": 7
 		},
 		{
 			"description": "Protection zone",
 			"icon": "cross",
-			"xPosition": 200,
-			"xTile": 128,
-			"yPosition": 32,
-			"yTile": 128
+			"x": 32968,
+			"y": 32800,
+			"z": 7
 		}
 	],
 	"12912107": [
 		{
 			"description": "Golden ewer (daily spawn)",
 			"icon": "bag",
-			"xPosition": 35,
-			"xTile": 129,
-			"yPosition": 123,
-			"yTile": 121
+			"x": 33059,
+			"y": 31099,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 149,
-			"xTile": 129,
-			"yPosition": 99,
-			"yTile": 121
+			"x": 33173,
+			"y": 31075,
+			"z": 7
 		},
 		{
 			"description": "Ghastly dragons",
 			"icon": "red down",
-			"xPosition": 152,
-			"xTile": 129,
-			"yPosition": 39,
-			"yTile": 121
+			"x": 33176,
+			"y": 31015,
+			"z": 7
 		}
 	],
 	"12912207": [
 		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
-			"xPosition": 80,
-			"xTile": 129,
-			"yPosition": 156,
-			"yTile": 122
+			"x": 33104,
+			"y": 31388,
+			"z": 7
 		},
 		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
-			"xPosition": 95,
-			"xTile": 129,
-			"yPosition": 224,
-			"yTile": 122
+			"x": 33119,
+			"y": 31456,
+			"z": 7
 		},
 		{
 			"description": "Lancer beetles",
 			"icon": "red down",
-			"xPosition": 106,
-			"xTile": 129,
-			"yPosition": 121,
-			"yTile": 122
+			"x": 33130,
+			"y": 31353,
+			"z": 7
 		},
 		{
 			"description": "Killer caimans",
 			"icon": "red down",
-			"xPosition": 113,
-			"xTile": 129,
-			"yPosition": 217,
-			"yTile": 122
+			"x": 33137,
+			"y": 31449,
+			"z": 7
 		},
 		{
 			"description": "Terramites",
 			"icon": "red down",
-			"xPosition": 117,
-			"xTile": 129,
-			"yPosition": 243,
-			"yTile": 122
+			"x": 33141,
+			"y": 31475,
+			"z": 7
 		},
 		{
 			"description": "Portal to Southern Zao",
 			"icon": "up",
-			"xPosition": 122,
-			"xTile": 129,
-			"yPosition": 17,
-			"yTile": 122
+			"x": 33146,
+			"y": 31249,
+			"z": 7
 		},
 		{
 			"description": "NPC Curos",
 			"icon": "mouth",
-			"xPosition": 148,
-			"xTile": 129,
-			"yPosition": 163,
-			"yTile": 122
+			"x": 33172,
+			"y": 31395,
+			"z": 7
 		},
 		{
 			"description": "High class lizards",
 			"icon": "red up",
-			"xPosition": 151,
-			"xTile": 129,
-			"yPosition": 73,
-			"yTile": 122
+			"x": 33175,
+			"y": 31305,
+			"z": 7
 		},
 		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
-			"xPosition": 171,
-			"xTile": 129,
-			"yPosition": 241,
-			"yTile": 122
+			"x": 33195,
+			"y": 31473,
+			"z": 7
 		},
 		{
 			"description": "Portal to Northern Zao",
 			"icon": "up",
-			"xPosition": 174,
-			"xTile": 129,
-			"yPosition": 116,
-			"yTile": 122
+			"x": 33198,
+			"y": 31348,
+			"z": 7
 		},
 		{
 			"description": "Lancer beetles",
 			"icon": "red down",
-			"xPosition": 199,
-			"xTile": 129,
-			"yPosition": 165,
-			"yTile": 122
+			"x": 33223,
+			"y": 31397,
+			"z": 7
 		}
 	],
 	"12912307": [
 		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
-			"xPosition": 38,
-			"xTile": 129,
-			"yPosition": 18,
-			"yTile": 123
+			"x": 33062,
+			"y": 31506,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 57,
-			"xTile": 129,
-			"yPosition": 44,
-			"yTile": 123
+			"x": 33081,
+			"y": 31532,
+			"z": 7
 		},
 		{
 			"description": "Dragons",
 			"icon": "red down",
-			"xPosition": 75,
-			"xTile": 129,
-			"yPosition": 211,
-			"yTile": 123
+			"x": 33099,
+			"y": 31699,
+			"z": 7
 		},
 		{
 			"description": "Vampire Crypts",
 			"icon": "red down",
-			"xPosition": 85,
-			"xTile": 129,
-			"yPosition": 233,
-			"yTile": 123
+			"x": 33109,
+			"y": 31721,
+			"z": 7
 		},
 		{
 			"description": "To the Mage’s Tower",
 			"icon": "up",
-			"xPosition": 111,
-			"xTile": 129,
-			"yPosition": 22,
-			"yTile": 123
+			"x": 33135,
+			"y": 31510,
+			"z": 7
 		},
 		{
 			"description": "Earth elementals and bog raiders",
 			"icon": "red down",
-			"xPosition": 133,
-			"xTile": 129,
-			"yPosition": 232,
-			"yTile": 123
+			"x": 33157,
+			"y": 31720,
+			"z": 7
 		},
 		{
 			"description": "Edron Ruins (a.k.a. Hero Cave)",
 			"icon": "red down",
-			"xPosition": 139,
-			"xTile": 129,
-			"yPosition": 148,
-			"yTile": 123
+			"x": 33163,
+			"y": 31636,
+			"z": 7
 		},
 		{
 			"description": "Terramites",
 			"icon": "red down",
-			"xPosition": 172,
-			"xTile": 129,
-			"yPosition": 56,
-			"yTile": 123
+			"x": 33196,
+			"y": 31544,
+			"z": 7
 		}
 	],
 	"12912407": [
 		{
 			"description": "Goblins",
 			"icon": "red down",
-			"xPosition": 83,
-			"xTile": 129,
-			"yPosition": 103,
-			"yTile": 124
+			"x": 33107,
+			"y": 31847,
+			"z": 7
 		},
 		{
 			"description": "Trolls",
 			"icon": "red down",
-			"xPosition": 93,
-			"xTile": 129,
-			"yPosition": 30,
-			"yTile": 124
+			"x": 33117,
+			"y": 31774,
+			"z": 7
 		},
 		{
 			"description": "Passage to Edron",
 			"icon": "down",
-			"xPosition": 104,
-			"xTile": 129,
-			"yPosition": 65,
-			"yTile": 124
+			"x": 33128,
+			"y": 31809,
+			"z": 7
 		},
 		{
 			"description": "Passage to west side",
 			"icon": "down",
-			"xPosition": 141,
-			"xTile": 129,
-			"yPosition": 83,
-			"yTile": 124
+			"x": 33165,
+			"y": 31827,
+			"z": 7
 		},
 		{
 			"description": "Underground depot",
 			"icon": "down",
-			"xPosition": 145,
-			"xTile": 129,
-			"yPosition": 68,
-			"yTile": 124
+			"x": 33169,
+			"y": 31812,
+			"z": 7
 		},
 		{
 			"description": "Bank and post office",
 			"icon": "$",
-			"xPosition": 148,
-			"xTile": 129,
-			"yPosition": 63,
-			"yTile": 124
+			"x": 33172,
+			"y": 31807,
+			"z": 7
 		},
 		{
 			"description": "Orcs",
 			"icon": "red down",
-			"xPosition": 149,
-			"xTile": 129,
-			"yPosition": 156,
-			"yTile": 124
+			"x": 33173,
+			"y": 31900,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 151,
-			"xTile": 129,
-			"yPosition": 31,
-			"yTile": 124
+			"x": 33175,
+			"y": 31775,
+			"z": 7
 		},
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 157,
-			"xTile": 129,
-			"yPosition": 47,
-			"yTile": 124
+			"x": 33181,
+			"y": 31791,
+			"z": 7
 		},
 		{
 			"description": "NPC Daniel Steelsoul",
 			"icon": "mouth",
-			"xPosition": 167,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 124
+			"x": 33191,
+			"y": 31795,
+			"z": 7
 		},
 		{
 			"description": "PvP arena",
 			"icon": "skull",
-			"xPosition": 175,
-			"xTile": 129,
-			"yPosition": 41,
-			"yTile": 124
+			"x": 33199,
+			"y": 31785,
+			"z": 7
 		},
 		{
 			"description": "To the temple",
 			"icon": "down",
-			"xPosition": 186,
-			"xTile": 129,
-			"yPosition": 70,
-			"yTile": 124
+			"x": 33210,
+			"y": 31814,
+			"z": 7
 		},
 		{
 			"description": "To the flying carpet",
 			"icon": "up",
-			"xPosition": 191,
-			"xTile": 129,
-			"yPosition": 40,
-			"yTile": 124
+			"x": 33215,
+			"y": 31784,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 197,
-			"xTile": 129,
-			"yPosition": 178,
-			"yTile": 124
+			"x": 33221,
+			"y": 31922,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 223,
-			"xTile": 129,
-			"yPosition": 97,
-			"yTile": 124
+			"x": 33247,
+			"y": 31841,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 253,
-			"xTile": 129,
-			"yPosition": 214,
-			"yTile": 124
+			"x": 33277,
+			"y": 31958,
+			"z": 7
 		}
 	],
 	"12912507": [
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 5,
-			"xTile": 129,
-			"yPosition": 89,
-			"yTile": 125
+			"x": 33029,
+			"y": 32089,
+			"z": 7
 		},
 		{
 			"description": "Rafzan",
 			"icon": "lock",
-			"xPosition": 30,
-			"xTile": 129,
-			"yPosition": 96,
-			"yTile": 125
+			"x": 33054,
+			"y": 32096,
+			"z": 7
 		},
 		{
 			"description": "Coryms",
 			"icon": "red down",
-			"xPosition": 48,
-			"xTile": 129,
-			"yPosition": 87,
-			"yTile": 125
+			"x": 33072,
+			"y": 32087,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 85,
-			"xTile": 129,
-			"yPosition": 104,
-			"yTile": 125
+			"x": 33109,
+			"y": 32104,
+			"z": 7
 		},
 		{
 			"description": "Dryad Gardens",
 			"icon": "down",
-			"xPosition": 240,
-			"xTile": 129,
-			"yPosition": 14,
-			"yTile": 125
+			"x": 33264,
+			"y": 32014,
+			"z": 7
 		}
 	],
 	"12912607": [
 		{
 			"description": "Grim reapers",
 			"icon": "red down",
-			"xPosition": 4,
-			"xTile": 129,
-			"yPosition": 183,
-			"yTile": 126
+			"x": 33028,
+			"y": 32439,
+			"z": 7
 		},
 		{
 			"description": "To NPC Zarifan",
 			"icon": "down",
-			"xPosition": 27,
-			"xTile": 129,
-			"yPosition": 215,
-			"yTile": 126
+			"x": 33051,
+			"y": 32471,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 34,
-			"xTile": 129,
-			"yPosition": 119,
-			"yTile": 126
+			"x": 33058,
+			"y": 32375,
+			"z": 7
 		},
 		{
 			"description": "To exit",
 			"icon": "up",
-			"xPosition": 41,
-			"xTile": 129,
-			"yPosition": 202,
-			"yTile": 126
+			"x": 33065,
+			"y": 32458,
+			"z": 7
 		},
 		{
 			"description": "Passage to Drefia",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 129,
-			"yPosition": 194,
-			"yTile": 126
+			"x": 33090,
+			"y": 32450,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 109,
-			"xTile": 129,
-			"yPosition": 176,
-			"yTile": 126
+			"x": 33133,
+			"y": 32432,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 113,
-			"xTile": 129,
-			"yPosition": 96,
-			"yTile": 126
+			"x": 33137,
+			"y": 32352,
+			"z": 7
 		},
 		{
 			"description": "To GCTS",
 			"icon": "up",
-			"xPosition": 151,
-			"xTile": 129,
-			"yPosition": 127,
-			"yTile": 126
+			"x": 33175,
+			"y": 32383,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "down",
-			"xPosition": 190,
-			"xTile": 129,
-			"yPosition": 199,
-			"yTile": 126
+			"x": 33214,
+			"y": 32455,
+			"z": 7
 		},
 		{
 			"description": "Bank",
 			"icon": "$",
-			"xPosition": 196,
-			"xTile": 129,
-			"yPosition": 135,
-			"yTile": 126
+			"x": 33220,
+			"y": 32391,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 197,
-			"xTile": 129,
-			"yPosition": 147,
-			"yTile": 126
+			"x": 33221,
+			"y": 32403,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 201,
-			"xTile": 129,
-			"yPosition": 44,
-			"yTile": 126
+			"x": 33225,
+			"y": 32300,
+			"z": 7
 		},
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 215,
-			"xTile": 129,
-			"yPosition": 153,
-			"yTile": 126
+			"x": 33239,
+			"y": 32409,
+			"z": 7
 		},
 		{
 			"description": "Dragons (level 40+)",
 			"icon": "?",
-			"xPosition": 241,
-			"xTile": 129,
-			"yPosition": 23,
-			"yTile": 126
+			"x": 33265,
+			"y": 32279,
+			"z": 7
 		},
 		{
 			"description": "To the flying carpet",
 			"icon": "up",
-			"xPosition": 241,
-			"xTile": 129,
-			"yPosition": 185,
-			"yTile": 126
+			"x": 33265,
+			"y": 32441,
+			"z": 7
 		}
 	],
 	"12912707": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 1,
-			"xTile": 129,
-			"yPosition": 198,
-			"yTile": 127
+			"x": 33025,
+			"y": 32710,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 2,
-			"xTile": 129,
-			"yPosition": 218,
-			"yTile": 127
+			"x": 33026,
+			"y": 32730,
+			"z": 7
 		},
 		{
 			"description": "Horestis Tomb",
 			"icon": "up",
-			"xPosition": 36,
-			"xTile": 129,
-			"yPosition": 222,
-			"yTile": 127
+			"x": 33060,
+			"y": 32734,
+			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs / ancient scarabs (task boss: Fleshcrawler)",
 			"icon": "red down",
-			"xPosition": 48,
-			"xTile": 129,
-			"yPosition": 248,
-			"yTile": 127
+			"x": 33072,
+			"y": 32760,
+			"z": 7
 		},
 		{
 			"description": "Kha'zeel Scarab Lair",
 			"icon": "red down",
-			"xPosition": 56,
-			"xTile": 129,
-			"yPosition": 33,
-			"yTile": 127
+			"x": 33080,
+			"y": 32545,
+			"z": 7
 		},
 		{
 			"description": "Green djinns (the Efreet)",
 			"icon": "up",
-			"xPosition": 77,
-			"xTile": 129,
-			"yPosition": 144,
-			"yTile": 127
+			"x": 33101,
+			"y": 32656,
+			"z": 7
 		},
 		{
 			"description": "Terramites",
 			"icon": "red down",
-			"xPosition": 79,
-			"xTile": 129,
-			"yPosition": 186,
-			"yTile": 127
+			"x": 33103,
+			"y": 32698,
+			"z": 7
 		},
 		{
 			"description": "Blue djinns (the Marid)",
 			"icon": "up",
-			"xPosition": 96,
-			"xTile": 129,
-			"yPosition": 65,
-			"yTile": 127
+			"x": 33120,
+			"y": 32577,
+			"z": 7
 		},
 		{
 			"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
 			"icon": "!",
-			"xPosition": 109,
-			"xTile": 129,
-			"yPosition": 56,
-			"yTile": 127
+			"x": 33133,
+			"y": 32568,
+			"z": 7
 		},
 		{
 			"description": "Oasis Tomb (boss: Rahemos) <hidden>",
 			"icon": "!",
-			"xPosition": 109,
-			"xTile": 129,
-			"yPosition": 128,
-			"yTile": 127
+			"x": 33133,
+			"y": 32640,
+			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs / ancient scarabs",
 			"icon": "red down",
-			"xPosition": 129,
-			"xTile": 129,
-			"yPosition": 174,
-			"yTile": 127
+			"x": 33153,
+			"y": 32686,
+			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs / ancient scarabs <hidden>",
 			"icon": "red down",
-			"xPosition": 137,
-			"xTile": 129,
-			"yPosition": 86,
-			"yTile": 127
+			"x": 33161,
+			"y": 32598,
+			"z": 7
 		},
 		{
 			"description": "Ancient Ruins Tomb (boss: Vashresamun) <hidden>",
 			"icon": "!",
-			"xPosition": 184,
-			"xTile": 129,
-			"yPosition": 79,
-			"yTile": 127
+			"x": 33208,
+			"y": 32591,
+			"z": 7
 		},
 		{
 			"description": "Nomads",
 			"icon": "red down",
-			"xPosition": 190,
-			"xTile": 129,
-			"yPosition": 40,
-			"yTile": 127
+			"x": 33214,
+			"y": 32552,
+			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs",
 			"icon": "red down",
-			"xPosition": 195,
-			"xTile": 129,
-			"yPosition": 128,
-			"yTile": 127
+			"x": 33219,
+			"y": 32640,
+			"z": 7
 		},
 		{
 			"description": "Tarpit Tomb (boss: Morguthis) <hidden>",
 			"icon": "!",
-			"xPosition": 209,
-			"xTile": 129,
-			"yPosition": 192,
-			"yTile": 127
+			"x": 33233,
+			"y": 32704,
+			"z": 7
 		},
 		{
 			"description": "Mother of Scarabs Lair",
 			"icon": "red down",
-			"xPosition": 212,
-			"xTile": 129,
-			"yPosition": 64,
-			"yTile": 127
+			"x": 33236,
+			"y": 32576,
+			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs / ancient scarabs",
 			"icon": "red down",
-			"xPosition": 233,
-			"xTile": 129,
-			"yPosition": 230,
-			"yTile": 127
+			"x": 33257,
+			"y": 32742,
+			"z": 7
 		}
 	],
 	"12912807": [
 		{
 			"description": "Peninsula Tomb (boss: Omruc) <hidden>",
 			"icon": "!",
-			"xPosition": 3,
-			"xTile": 129,
-			"yPosition": 101,
-			"yTile": 128
+			"x": 33027,
+			"y": 32869,
+			"z": 7
 		},
 		{
 			"description": "Post office",
 			"icon": "bag",
-			"xPosition": 45,
-			"xTile": 129,
-			"yPosition": 109,
-			"yTile": 128
+			"x": 33069,
+			"y": 32877,
+			"z": 7
 		},
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 60,
-			"xTile": 129,
-			"yPosition": 109,
-			"yTile": 128
+			"x": 33084,
+			"y": 32877,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "lock",
-			"xPosition": 103,
-			"xTile": 129,
-			"yPosition": 75,
-			"yTile": 128
+			"x": 33127,
+			"y": 32843,
+			"z": 7
 		},
 		{
 			"description": "To the shops and bank",
 			"icon": "up",
-			"xPosition": 104,
-			"xTile": 129,
-			"yPosition": 60,
-			"yTile": 128
+			"x": 33128,
+			"y": 32828,
+			"z": 7
 		},
 		{
 			"description": "PvP arena",
 			"icon": "skull",
-			"xPosition": 107,
-			"xTile": 129,
-			"yPosition": 91,
-			"yTile": 128
+			"x": 33131,
+			"y": 32859,
+			"z": 7
 		},
 		{
 			"description": "Ankrahmun Library Tomb (boss: Ashmunrah)",
 			"icon": "!",
-			"xPosition": 118,
-			"xTile": 129,
-			"yPosition": 70,
-			"yTile": 128
+			"x": 33142,
+			"y": 32838,
+			"z": 7
 		},
 		{
 			"description": "To the sorcerer trainer",
 			"icon": "up",
-			"xPosition": 131,
-			"xTile": 129,
-			"yPosition": 105,
-			"yTile": 128
+			"x": 33155,
+			"y": 32873,
+			"z": 7
 		},
 		{
 			"description": "Temple and druid spells",
 			"icon": "cross",
-			"xPosition": 170,
-			"xTile": 129,
-			"yPosition": 85,
-			"yTile": 128
+			"x": 33194,
+			"y": 32853,
+			"z": 7
 		},
 		{
 			"description": "Shadow Tomb (boss: Mahrdis) <hidden>",
 			"icon": "!",
-			"xPosition": 231,
-			"xTile": 129,
-			"yPosition": 65,
-			"yTile": 128
+			"x": 33255,
+			"y": 32833,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 244,
-			"xTile": 129,
-			"yPosition": 73,
-			"yTile": 128
+			"x": 33268,
+			"y": 32841,
+			"z": 7
 		}
 	],
 	"13012107": [
 		{
 			"description": "Brimstone bugs",
 			"icon": "red down",
-			"xPosition": 12,
-			"xTile": 130,
-			"yPosition": 164,
-			"yTile": 121
+			"x": 33292,
+			"y": 31140,
+			"z": 7
 		},
 		{
 			"description": "Task boss: Fazzrah",
 			"icon": "!",
-			"xPosition": 30,
-			"xTile": 130,
-			"yPosition": 207,
-			"yTile": 121
+			"x": 33310,
+			"y": 31183,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 32,
-			"xTile": 130,
-			"yPosition": 157,
-			"yTile": 121
+			"x": 33312,
+			"y": 31133,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 65,
-			"xTile": 130,
-			"yPosition": 140,
-			"yTile": 121
+			"x": 33345,
+			"y": 31116,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 68,
-			"xTile": 130,
-			"yPosition": 204,
-			"yTile": 121
+			"x": 33348,
+			"y": 31180,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 84,
-			"xTile": 130,
-			"yPosition": 149,
-			"yTile": 121
+			"x": 33364,
+			"y": 31125,
+			"z": 7
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 199,
-			"xTile": 130,
-			"yPosition": 221,
-			"yTile": 121
+			"x": 33479,
+			"y": 31197,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 200,
-			"xTile": 130,
-			"yPosition": 227,
-			"yTile": 121
+			"x": 33480,
+			"y": 31203,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 230,
-			"xTile": 130,
-			"yPosition": 215,
-			"yTile": 121
+			"x": 33510,
+			"y": 31191,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 239,
-			"xTile": 130,
-			"yPosition": 233,
-			"yTile": 121
+			"x": 33519,
+			"y": 31209,
+			"z": 7
 		}
 	],
 	"13012207": [
 		{
 			"description": "Bank, depot, and temple",
 			"icon": "down",
-			"xPosition": 166,
-			"xTile": 130,
-			"yPosition": 88,
-			"yTile": 122
+			"x": 33446,
+			"y": 31320,
+			"z": 7
 		},
 		{
 			"description": "NPC Orockle",
 			"icon": "mouth",
-			"xPosition": 169,
-			"xTile": 130,
-			"yPosition": 78,
-			"yTile": 122
+			"x": 33449,
+			"y": 31310,
+			"z": 7
 		},
 		{
 			"description": "To other cities",
 			"icon": "down",
-			"xPosition": 173,
-			"xTile": 130,
-			"yPosition": 113,
-			"yTile": 122
+			"x": 33453,
+			"y": 31345,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 177,
-			"xTile": 130,
-			"yPosition": 65,
-			"yTile": 122
+			"x": 33457,
+			"y": 31297,
+			"z": 7
 		},
 		{
 			"description": "Magic store",
 			"icon": "up",
-			"xPosition": 180,
-			"xTile": 130,
-			"yPosition": 75,
-			"yTile": 122
+			"x": 33460,
+			"y": 31307,
+			"z": 7
 		},
 		{
 			"description": "Teleport to Fiehonja",
 			"icon": "star",
-			"xPosition": 198,
-			"xTile": 130,
-			"yPosition": 80,
-			"yTile": 122
+			"x": 33478,
+			"y": 31312,
+			"z": 7
 		},
 		{
 			"description": "The Descent",
 			"icon": "crossmark",
-			"xPosition": 234,
-			"xTile": 130,
-			"yPosition": 91,
-			"yTile": 122
+			"x": 33514,
+			"y": 31323,
+			"z": 7
 		},
 		{
 			"description": "Drilling site",
 			"icon": "down",
-			"xPosition": 235,
-			"xTile": 130,
-			"yPosition": 77,
-			"yTile": 122
+			"x": 33515,
+			"y": 31309,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 255,
-			"xTile": 130,
-			"yPosition": 37,
-			"yTile": 122
+			"x": 33535,
+			"y": 31269,
+			"z": 7
 		}
 	],
 	"13012307": [
 		{
 			"description": "Boat to Grimvale",
 			"icon": "flag",
-			"xPosition": 24,
-			"xTile": 130,
-			"yPosition": 232,
-			"yTile": 123
+			"x": 33304,
+			"y": 31720,
+			"z": 7
 		},
 		{
 			"description": "Were-creatures",
 			"icon": "red down",
-			"xPosition": 73,
-			"xTile": 130,
-			"yPosition": 182,
-			"yTile": 123
+			"x": 33353,
+			"y": 31670,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 223,
-			"xTile": 130,
-			"yPosition": 90,
-			"yTile": 123
+			"x": 33503,
+			"y": 31578,
+			"z": 7
 		},
 		{
 			"description": "Shark teeth",
 			"icon": "star",
-			"xPosition": 236,
-			"xTile": 130,
-			"yPosition": 104,
-			"yTile": 123
+			"x": 33516,
+			"y": 31592,
+			"z": 7
 		},
 		{
 			"description": "To NPC A Runaway Goblin",
 			"icon": "down",
-			"xPosition": 248,
-			"xTile": 130,
-			"yPosition": 184,
-			"yTile": 123
+			"x": 33528,
+			"y": 31672,
+			"z": 7
 		},
 		{
 			"description": "To boat",
 			"icon": "flag",
-			"xPosition": 248,
-			"xTile": 130,
-			"yPosition": 208,
-			"yTile": 123
+			"x": 33528,
+			"y": 31696,
+			"z": 7
 		}
 	],
 	"13012407": [
 		{
 			"description": "Boat to Edron",
 			"icon": "flag",
-			"xPosition": 13,
-			"xTile": 130,
-			"yPosition": 216,
-			"yTile": 124
+			"x": 33293,
+			"y": 31960,
+			"z": 7
 		},
 		{
 			"description": "Rotworms / bog raiders",
 			"icon": "red down",
-			"xPosition": 23,
-			"xTile": 130,
-			"yPosition": 40,
-			"yTile": 124
+			"x": 33303,
+			"y": 31784,
+			"z": 7
 		},
 		{
 			"description": "Steamboat to Kazordoon and Farmine",
 			"icon": "flag",
-			"xPosition": 30,
-			"xTile": 130,
-			"yPosition": 252,
-			"yTile": 124
+			"x": 33310,
+			"y": 31996,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 60,
-			"xTile": 130,
-			"yPosition": 229,
-			"yTile": 124
+			"x": 33340,
+			"y": 31973,
+			"z": 7
 		},
 		{
 			"description": "To NPC A Majestic Warwolf",
 			"icon": "down",
-			"xPosition": 84,
-			"xTile": 130,
-			"yPosition": 231,
-			"yTile": 124
+			"x": 33364,
+			"y": 31975,
+			"z": 7
 		},
 		{
 			"description": "Hydra cave",
 			"icon": "red down",
-			"xPosition": 237,
-			"xTile": 130,
-			"yPosition": 162,
-			"yTile": 124
+			"x": 33517,
+			"y": 31906,
+			"z": 7
 		}
 	],
 	"13012507": [
 		{
 			"description": "Dwarfs",
 			"icon": "red down",
-			"xPosition": 67,
-			"xTile": 130,
-			"yPosition": 31,
-			"yTile": 125
+			"x": 33347,
+			"y": 32031,
+			"z": 7
 		}
 	],
 	"13012607": [
 		{
 			"description": "Harbour",
 			"icon": "flag",
-			"xPosition": 11,
-			"xTile": 130,
-			"yPosition": 216,
-			"yTile": 126
+			"x": 33291,
+			"y": 32472,
+			"z": 7
 		},
 		{
 			"description": "Rotworms",
 			"icon": "red down",
-			"xPosition": 13,
-			"xTile": 130,
-			"yPosition": 58,
-			"yTile": 126
+			"x": 33293,
+			"y": 32314,
+			"z": 7
 		},
 		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
-			"xPosition": 25,
-			"xTile": 130,
-			"yPosition": 117,
-			"yTile": 126
+			"x": 33305,
+			"y": 32373,
+			"z": 7
 		},
 		{
 			"description": "Overmaw shrines",
 			"icon": "!",
-			"xPosition": 255,
-			"xTile": 130,
-			"yPosition": 213,
-			"yTile": 126
+			"x": 33535,
+			"y": 32469,
+			"z": 7
 		}
 	],
 	"13012707": [
 		{
 			"description": "Stone Tomb (boss: Thalas) <hidden>",
 			"icon": "!",
-			"xPosition": 2,
-			"xTile": 130,
-			"yPosition": 231,
-			"yTile": 127
+			"x": 33282,
+			"y": 32743,
+			"z": 7
 		},
 		{
 			"description": "Mother of Scarabs Lair",
 			"icon": "red down",
-			"xPosition": 10,
-			"xTile": 130,
-			"yPosition": 90,
-			"yTile": 127
+			"x": 33290,
+			"y": 32602,
+			"z": 7
 		},
 		{
 			"description": "Cultists <hidden>",
 			"icon": "red down",
-			"xPosition": 35,
-			"xTile": 130,
-			"yPosition": 162,
-			"yTile": 127
+			"x": 33315,
+			"y": 32674,
+			"z": 7
 		},
 		{
 			"description": "Mouthpiece supply",
 			"icon": "!",
-			"xPosition": 222,
-			"xTile": 130,
-			"yPosition": 33,
-			"yTile": 127
+			"x": 33502,
+			"y": 32545,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 243,
-			"xTile": 130,
-			"yPosition": 36,
-			"yTile": 127
+			"x": 33523,
+			"y": 32548,
+			"z": 7
 		}
 	],
 	"13112107": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 60,
-			"xTile": 131,
-			"yPosition": 241,
-			"yTile": 121
+			"x": 33596,
+			"y": 31217,
+			"z": 7
 		}
 	],
 	"13112207": [
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 11,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
+			"x": 33547,
+			"y": 31284,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 13,
-			"xTile": 131,
-			"yPosition": 30,
-			"yTile": 122
+			"x": 33549,
+			"y": 31262,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 21,
-			"xTile": 131,
-			"yPosition": 43,
-			"yTile": 122
+			"x": 33557,
+			"y": 31275,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 21,
-			"xTile": 131,
-			"yPosition": 86,
-			"yTile": 122
+			"x": 33557,
+			"y": 31318,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 32,
-			"xTile": 131,
-			"yPosition": 46,
-			"yTile": 122
+			"x": 33568,
+			"y": 31278,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 39,
-			"xTile": 131,
-			"yPosition": 32,
-			"yTile": 122
+			"x": 33575,
+			"y": 31264,
+			"z": 7
 		},
 		{
 			"description": "Entrance to digestion chamber",
 			"icon": "red down",
-			"xPosition": 49,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 122
+			"x": 33585,
+			"y": 31284,
+			"z": 7
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 51,
-			"xTile": 131,
-			"yPosition": 18,
-			"yTile": 122
+			"x": 33587,
+			"y": 31250,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 54,
-			"xTile": 131,
-			"yPosition": 36,
-			"yTile": 122
+			"x": 33590,
+			"y": 31268,
+			"z": 7
 		},
 		{
 			"description": "Antenna",
 			"icon": "star",
-			"xPosition": 64,
-			"xTile": 131,
-			"yPosition": 35,
-			"yTile": 122
+			"x": 33600,
+			"y": 31267,
+			"z": 7
 		}
 	],
 	"13112307": [
 		{
 			"description": "Sleeping hyaena",
 			"icon": "red down",
-			"xPosition": 13,
-			"xTile": 131,
-			"yPosition": 174,
-			"yTile": 123
+			"x": 33549,
+			"y": 31662,
+			"z": 7
 		},
 		{
 			"description": "Undead gladiators / nightmare scions / nightmares",
 			"icon": "down",
-			"xPosition": 44,
-			"xTile": 131,
-			"yPosition": 97,
-			"yTile": 123
+			"x": 33580,
+			"y": 31585,
+			"z": 7
 		},
 		{
 			"description": "Sacred site",
 			"icon": "star",
-			"xPosition": 80,
-			"xTile": 131,
-			"yPosition": 117,
-			"yTile": 123
+			"x": 33616,
+			"y": 31605,
+			"z": 7
 		},
 		{
 			"description": "Sacred site",
 			"icon": "star",
-			"xPosition": 82,
-			"xTile": 131,
-			"yPosition": 251,
-			"yTile": 123
+			"x": 33618,
+			"y": 31739,
+			"z": 7
 		},
 		{
 			"description": "NPC Ghorza (magic shopkeeper)",
 			"icon": "star",
-			"xPosition": 91,
-			"xTile": 131,
-			"yPosition": 169,
-			"yTile": 123
+			"x": 33627,
+			"y": 31657,
+			"z": 7
 		},
 		{
 			"description": "NPC Mugruu (weapons and ammunition)",
 			"icon": "mouth",
-			"xPosition": 100,
-			"xTile": 131,
-			"yPosition": 190,
-			"yTile": 123
+			"x": 33636,
+			"y": 31678,
+			"z": 7
 		},
 		{
 			"description": "NPC Vuzrog",
 			"icon": "mouth",
-			"xPosition": 103,
-			"xTile": 131,
-			"yPosition": 171,
-			"yTile": 123
+			"x": 33639,
+			"y": 31659,
+			"z": 7
 		},
 		{
 			"description": "Ancient amulet",
 			"icon": "star",
-			"xPosition": 112,
-			"xTile": 131,
-			"yPosition": 253,
-			"yTile": 123
+			"x": 33648,
+			"y": 31741,
+			"z": 7
 		},
 		{
 			"description": "NPC Nibble",
 			"icon": "mouth",
-			"xPosition": 120,
-			"xTile": 131,
-			"yPosition": 162,
-			"yTile": 123
+			"x": 33656,
+			"y": 31650,
+			"z": 7
 		},
 		{
 			"description": "Depot",
 			"icon": "bag",
-			"xPosition": 121,
-			"xTile": 131,
-			"yPosition": 169,
-			"yTile": 123
+			"x": 33657,
+			"y": 31657,
+			"z": 7
 		},
 		{
 			"description": "NPC Larek",
 			"icon": "mouth",
-			"xPosition": 122,
-			"xTile": 131,
-			"yPosition": 176,
-			"yTile": 123
+			"x": 33658,
+			"y": 31664,
+			"z": 7
 		},
 		{
 			"description": "Ogre beer crate",
 			"icon": "star",
-			"xPosition": 147,
-			"xTile": 131,
-			"yPosition": 234,
-			"yTile": 123
+			"x": 33683,
+			"y": 31722,
+			"z": 7
 		},
 		{
 			"description": "Skull orchid",
 			"icon": "star",
-			"xPosition": 170,
-			"xTile": 131,
-			"yPosition": 254,
-			"yTile": 123
+			"x": 33706,
+			"y": 31742,
+			"z": 7
 		},
 		{
 			"description": "Hidden pick hole (opticording sphere quest)",
 			"icon": "red down",
-			"xPosition": 173,
-			"xTile": 131,
-			"yPosition": 199,
-			"yTile": 123
+			"x": 33709,
+			"y": 31687,
+			"z": 7
 		},
 		{
 			"description": "Sacred site",
 			"icon": "star",
-			"xPosition": 174,
-			"xTile": 131,
-			"yPosition": 147,
-			"yTile": 123
+			"x": 33710,
+			"y": 31635,
+			"z": 7
 		},
 		{
 			"description": "Skull orchid",
 			"icon": "star",
-			"xPosition": 193,
-			"xTile": 131,
-			"yPosition": 151,
-			"yTile": 123
+			"x": 33729,
+			"y": 31639,
+			"z": 7
 		},
 		{
 			"description": "To NPC A Goblin Exile",
 			"icon": "down",
-			"xPosition": 194,
-			"xTile": 131,
-			"yPosition": 245,
-			"yTile": 123
+			"x": 33730,
+			"y": 31733,
+			"z": 7
 		}
 	],
 	"13112407": [
 		{
 			"description": "Chavis’ Poor House",
 			"icon": "!",
-			"xPosition": 11,
-			"xTile": 131,
-			"yPosition": 208,
-			"yTile": 124
+			"x": 33547,
+			"y": 31952,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 33,
-			"xTile": 131,
-			"yPosition": 176,
-			"yTile": 124
+			"x": 33569,
+			"y": 31920,
+			"z": 7
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 36,
-			"xTile": 131,
-			"yPosition": 172,
-			"yTile": 124
+			"x": 33572,
+			"y": 31916,
+			"z": 7
 		},
 		{
 			"description": "Quandon’s Home",
 			"icon": "!",
-			"xPosition": 38,
-			"xTile": 131,
-			"yPosition": 209,
-			"yTile": 124
+			"x": 33574,
+			"y": 31953,
+			"z": 7
 		},
 		{
 			"description": "NPC The Beggar King",
 			"icon": "!",
-			"xPosition": 39,
-			"xTile": 131,
-			"yPosition": 240,
-			"yTile": 124
+			"x": 33575,
+			"y": 31984,
+			"z": 7
 		},
 		{
 			"description": "NPC Roswitha",
 			"icon": "!",
-			"xPosition": 48,
-			"xTile": 131,
-			"yPosition": 198,
-			"yTile": 124
+			"x": 33584,
+			"y": 31942,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 59,
-			"xTile": 131,
-			"yPosition": 208,
-			"yTile": 124
+			"x": 33595,
+			"y": 31952,
+			"z": 7
 		},
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 66,
-			"xTile": 131,
-			"yPosition": 155,
-			"yTile": 124
+			"x": 33602,
+			"y": 31899,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 69,
-			"xTile": 131,
-			"yPosition": 208,
-			"yTile": 124
+			"x": 33605,
+			"y": 31952,
+			"z": 7
 		},
 		{
 			"description": "Combinatorics task",
 			"icon": "down",
-			"xPosition": 74,
-			"xTile": 131,
-			"yPosition": 235,
-			"yTile": 124
+			"x": 33610,
+			"y": 31979,
+			"z": 7
 		},
 		{
 			"description": "To the city (Rathleton)",
 			"icon": "up",
-			"xPosition": 100,
-			"xTile": 131,
-			"yPosition": 200,
-			"yTile": 124
+			"x": 33636,
+			"y": 31944,
+			"z": 7
 		},
 		{
 			"description": "To the mines",
 			"icon": "down",
-			"xPosition": 101,
-			"xTile": 131,
-			"yPosition": 46,
-			"yTile": 124
+			"x": 33637,
+			"y": 31790,
+			"z": 7
 		},
 		{
 			"description": "To NPC Doubleday (tasks)",
 			"icon": "up",
-			"xPosition": 104,
-			"xTile": 131,
-			"yPosition": 217,
-			"yTile": 124
+			"x": 33640,
+			"y": 31961,
+			"z": 7
 		},
 		{
 			"description": "NPC Terrence (city guard)",
 			"icon": "!",
-			"xPosition": 111,
-			"xTile": 131,
-			"yPosition": 205,
-			"yTile": 124
+			"x": 33647,
+			"y": 31949,
+			"z": 7
 		},
 		{
 			"description": "Slide to Glooth Factory",
 			"icon": "checkmark",
-			"xPosition": 115,
-			"xTile": 131,
-			"yPosition": 197,
-			"yTile": 124
+			"x": 33651,
+			"y": 31941,
+			"z": 7
 		},
 		{
 			"description": "Mangate",
 			"icon": "!",
-			"xPosition": 130,
-			"xTile": 131,
-			"yPosition": 180,
-			"yTile": 124
+			"x": 33666,
+			"y": 31924,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 140,
-			"xTile": 131,
-			"yPosition": 50,
-			"yTile": 124
+			"x": 33676,
+			"y": 31794,
+			"z": 7
 		},
 		{
 			"description": "To exit",
 			"icon": "up",
-			"xPosition": 144,
-			"xTile": 131,
-			"yPosition": 49,
-			"yTile": 124
+			"x": 33680,
+			"y": 31793,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 145,
-			"xTile": 131,
-			"yPosition": 8,
-			"yTile": 124
+			"x": 33681,
+			"y": 31752,
+			"z": 7
 		},
 		{
 			"description": "Wailing widows / brimstone bugs / giant spiders",
 			"icon": "down",
-			"xPosition": 150,
-			"xTile": 131,
-			"yPosition": 0,
-			"yTile": 124
+			"x": 33686,
+			"y": 31744,
+			"z": 7
 		},
 		{
 			"description": "To NPC Grubokk",
 			"icon": "up",
-			"xPosition": 156,
-			"xTile": 131,
-			"yPosition": 31,
-			"yTile": 124
+			"x": 33692,
+			"y": 31775,
+			"z": 7
 		},
 		{
 			"description": "Hideout",
 			"icon": "!",
-			"xPosition": 157,
-			"xTile": 131,
-			"yPosition": 103,
-			"yTile": 124
+			"x": 33693,
+			"y": 31847,
+			"z": 7
 		}
 	],
 	"13112507": [
 		{
 			"description": "Passage to the other side",
 			"icon": "flag",
-			"xPosition": 92,
-			"xTile": 131,
-			"yPosition": 5,
-			"yTile": 125
+			"x": 33628,
+			"y": 32005,
+			"z": 7
 		}
 	],
 	"13112607": [
 		{
 			"description": "Safety spot",
 			"icon": "up",
-			"xPosition": 28,
-			"xTile": 131,
-			"yPosition": 209,
-			"yTile": 126
+			"x": 33564,
+			"y": 32465,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 47,
-			"xTile": 131,
-			"yPosition": 229,
-			"yTile": 126
+			"x": 33583,
+			"y": 32485,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "!",
-			"xPosition": 65,
-			"xTile": 131,
-			"yPosition": 135,
-			"yTile": 126
+			"x": 33601,
+			"y": 32391,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "!",
-			"xPosition": 99,
-			"xTile": 131,
-			"yPosition": 87,
-			"yTile": 126
+			"x": 33635,
+			"y": 32343,
+			"z": 7
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 142,
-			"xTile": 131,
-			"yPosition": 217,
-			"yTile": 126
+			"x": 33678,
+			"y": 32473,
+			"z": 7
 		}
 	],
 	"13112707": [
 		{
 			"description": "Gravel and chalk deposits",
 			"icon": "!",
-			"xPosition": 16,
-			"xTile": 131,
-			"yPosition": 26,
-			"yTile": 127
+			"x": 33552,
+			"y": 32538,
+			"z": 7
 		}
 	]
 }

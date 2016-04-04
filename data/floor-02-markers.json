@@ -3,164 +3,145 @@
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 84,
-			"xTile": 125,
-			"yPosition": 53,
-			"yTile": 121
+			"x": 32084,
+			"y": 31029,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 84,
-			"xTile": 125,
-			"yPosition": 56,
-			"yTile": 121
+			"x": 32084,
+			"y": 31032,
+			"z": 2
 		},
 		{
 			"description": "Task boss: The Bloodtusk",
 			"icon": "!",
-			"xPosition": 104,
-			"xTile": 125,
-			"yPosition": 140,
-			"yTile": 121
+			"x": 32104,
+			"y": 31116,
+			"z": 2
 		}
 	],
 	"12512702": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 75,
-			"xTile": 125,
-			"yPosition": 95,
-			"yTile": 127
+			"x": 32075,
+			"y": 32607,
+			"z": 2
 		}
 	],
 	"12612802": [
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 139,
-			"xTile": 126,
-			"yPosition": 54,
-			"yTile": 128
+			"x": 32395,
+			"y": 32822,
+			"z": 2
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 161,
-			"xTile": 126,
-			"yPosition": 10,
-			"yTile": 128
+			"x": 32417,
+			"y": 32778,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 181,
-			"xTile": 126,
-			"yPosition": 8,
-			"yTile": 128
+			"x": 32437,
+			"y": 32776,
+			"z": 2
 		}
 	],
 	"13012102": [
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 197,
-			"xTile": 130,
-			"yPosition": 224,
-			"yTile": 121
+			"x": 33477,
+			"y": 31200,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 221,
-			"xTile": 130,
-			"yPosition": 221,
-			"yTile": 121
+			"x": 33501,
+			"y": 31197,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 247,
-			"xTile": 130,
-			"yPosition": 239,
-			"yTile": 121
+			"x": 33527,
+			"y": 31215,
+			"z": 2
 		}
 	],
 	"13112102": [
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 26,
-			"xTile": 131,
-			"yPosition": 243,
-			"yTile": 121
+			"x": 33562,
+			"y": 31219,
+			"z": 2
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 59,
-			"xTile": 131,
-			"yPosition": 247,
-			"yTile": 121
+			"x": 33595,
+			"y": 31223,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 70,
-			"xTile": 131,
-			"yPosition": 253,
-			"yTile": 121
+			"x": 33606,
+			"y": 31229,
+			"z": 2
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 74,
-			"xTile": 131,
-			"yPosition": 247,
-			"yTile": 121
+			"x": 33610,
+			"y": 31223,
+			"z": 2
 		}
 	],
 	"13112202": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 15,
-			"xTile": 131,
-			"yPosition": 85,
-			"yTile": 122
+			"x": 33551,
+			"y": 31317,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 21,
-			"xTile": 131,
-			"yPosition": 85,
-			"yTile": 122
+			"x": 33557,
+			"y": 31317,
+			"z": 2
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 41,
-			"xTile": 131,
-			"yPosition": 3,
-			"yTile": 122
+			"x": 33577,
+			"y": 31235,
+			"z": 2
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 50,
-			"xTile": 131,
-			"yPosition": 3,
-			"yTile": 122
+			"x": 33586,
+			"y": 31235,
+			"z": 2
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 66,
-			"xTile": 131,
-			"yPosition": 0,
-			"yTile": 122
+			"x": 33602,
+			"y": 31232,
+			"z": 2
 		}
 	]
 }

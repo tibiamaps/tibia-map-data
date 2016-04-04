@@ -3,418 +3,370 @@
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 41,
-			"xTile": 125,
-			"yPosition": 50,
-			"yTile": 121
+			"x": 32041,
+			"y": 31026,
+			"z": 5
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 68,
-			"xTile": 125,
-			"yPosition": 59,
-			"yTile": 121
+			"x": 32068,
+			"y": 31035,
+			"z": 5
 		},
 		{
 			"description": "To Chyllfroest",
 			"icon": "down",
-			"xPosition": 89,
-			"xTile": 125,
-			"yPosition": 114,
-			"yTile": 121
+			"x": 32089,
+			"y": 31090,
+			"z": 5
 		},
 		{
 			"description": "Frost dragons and crystal spiders",
 			"icon": "red down",
-			"xPosition": 105,
-			"xTile": 125,
-			"yPosition": 138,
-			"yTile": 121
+			"x": 32105,
+			"y": 31114,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 146,
-			"xTile": 125,
-			"yPosition": 105,
-			"yTile": 121
+			"x": 32146,
+			"y": 31081,
+			"z": 5
 		}
 	],
 	"12512205": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 175,
-			"xTile": 125,
-			"yPosition": 207,
-			"yTile": 122
+			"x": 32175,
+			"y": 31439,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 189,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 122
+			"x": 32189,
+			"y": 31437,
+			"z": 5
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 195,
-			"xTile": 125,
-			"yPosition": 195,
-			"yTile": 122
+			"x": 32195,
+			"y": 31427,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 202,
-			"xTile": 125,
-			"yPosition": 197,
-			"yTile": 122
+			"x": 32202,
+			"y": 31429,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 214,
-			"xTile": 125,
-			"yPosition": 199,
-			"yTile": 122
+			"x": 32214,
+			"y": 31431,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 246,
-			"xTile": 125,
-			"yPosition": 172,
-			"yTile": 122
+			"x": 32246,
+			"y": 31404,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 250,
-			"xTile": 125,
-			"yPosition": 160,
-			"yTile": 122
+			"x": 32250,
+			"y": 31392,
+			"z": 5
 		}
 	],
 	"12512705": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 48,
-			"xTile": 125,
-			"yPosition": 97,
-			"yTile": 127
+			"x": 32048,
+			"y": 32609,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 58,
-			"xTile": 125,
-			"yPosition": 90,
-			"yTile": 127
+			"x": 32058,
+			"y": 32602,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 125,
-			"yPosition": 112,
-			"yTile": 127
+			"x": 32066,
+			"y": 32624,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 78,
-			"xTile": 125,
-			"yPosition": 97,
-			"yTile": 127
+			"x": 32078,
+			"y": 32609,
+			"z": 5
 		}
 	],
 	"12612205": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 5,
-			"xTile": 126,
-			"yPosition": 139,
-			"yTile": 122
+			"x": 32261,
+			"y": 31371,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 8,
-			"xTile": 126,
-			"yPosition": 174,
-			"yTile": 122
+			"x": 32264,
+			"y": 31406,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 10,
-			"xTile": 126,
-			"yPosition": 112,
-			"yTile": 122
+			"x": 32266,
+			"y": 31344,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 11,
-			"xTile": 126,
-			"yPosition": 120,
-			"yTile": 122
+			"x": 32267,
+			"y": 31352,
+			"z": 5
 		}
 	],
 	"12612805": [
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 154,
-			"xTile": 126,
-			"yPosition": 27,
-			"yTile": 128
+			"x": 32410,
+			"y": 32795,
+			"z": 5
 		}
 	],
 	"12712405": [
 		{
 			"description": "Magic store",
 			"icon": "star",
-			"xPosition": 118,
-			"xTile": 127,
-			"yPosition": 184,
-			"yTile": 124
+			"x": 32630,
+			"y": 31928,
+			"z": 5
 		}
 	],
 	"12812205": [
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 19,
-			"xTile": 128,
-			"yPosition": 17,
-			"yTile": 122
+			"x": 32787,
+			"y": 31249,
+			"z": 5
 		}
 	],
 	"12812505": [
 		{
 			"description": "NPC Boozer",
 			"icon": "mouth",
-			"xPosition": 153,
-			"xTile": 128,
-			"yPosition": 68,
-			"yTile": 125
+			"x": 32921,
+			"y": 32068,
+			"z": 5
 		}
 	],
 	"12912105": [
 		{
 			"description": "Silver ewer (daily spawn)",
 			"icon": "bag",
-			"xPosition": 67,
-			"xTile": 129,
-			"yPosition": 135,
-			"yTile": 121
+			"x": 33091,
+			"y": 31111,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 149,
-			"xTile": 129,
-			"yPosition": 51,
-			"yTile": 121
+			"x": 33173,
+			"y": 31027,
+			"z": 5
 		}
 	],
 	"12912205": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 152,
-			"xTile": 129,
-			"yPosition": 66,
-			"yTile": 122
+			"x": 33176,
+			"y": 31298,
+			"z": 5
 		}
 	],
 	"12912305": [
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 2,
-			"xTile": 129,
-			"yPosition": 60,
-			"yTile": 123
+			"x": 33026,
+			"y": 31548,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 117,
-			"xTile": 129,
-			"yPosition": 49,
-			"yTile": 123
+			"x": 33141,
+			"y": 31537,
+			"z": 5
 		}
 	],
 	"12912605": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 3,
-			"xTile": 129,
-			"yPosition": 161,
-			"yTile": 126
+			"x": 33027,
+			"y": 32417,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 38,
-			"xTile": 129,
-			"yPosition": 184,
-			"yTile": 126
+			"x": 33062,
+			"y": 32440,
+			"z": 5
 		}
 	],
 	"13012105": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 203,
-			"xTile": 130,
-			"yPosition": 223,
-			"yTile": 121
+			"x": 33483,
+			"y": 31199,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 238,
-			"xTile": 130,
-			"yPosition": 217,
-			"yTile": 121
+			"x": 33518,
+			"y": 31193,
+			"z": 5
 		}
 	],
 	"13112105": [
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 8,
-			"xTile": 131,
-			"yPosition": 233,
-			"yTile": 121
+			"x": 33544,
+			"y": 31209,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 58,
-			"xTile": 131,
-			"yPosition": 254,
-			"yTile": 121
+			"x": 33594,
+			"y": 31230,
+			"z": 5
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 73,
-			"xTile": 131,
-			"yPosition": 246,
-			"yTile": 121
+			"x": 33609,
+			"y": 31222,
+			"z": 5
 		}
 	],
 	"13112205": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 18,
-			"xTile": 131,
-			"yPosition": 83,
-			"yTile": 122
+			"x": 33554,
+			"y": 31315,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 19,
-			"xTile": 131,
-			"yPosition": 79,
-			"yTile": 122
+			"x": 33555,
+			"y": 31311,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 59,
-			"xTile": 131,
-			"yPosition": 11,
-			"yTile": 122
+			"x": 33595,
+			"y": 31243,
+			"z": 5
 		}
 	],
 	"13112405": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 78,
-			"xTile": 131,
-			"yPosition": 44,
-			"yTile": 124
+			"x": 33614,
+			"y": 31788,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 84,
-			"xTile": 131,
-			"yPosition": 48,
-			"yTile": 124
+			"x": 33620,
+			"y": 31792,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 87,
-			"xTile": 131,
-			"yPosition": 51,
-			"yTile": 124
+			"x": 33623,
+			"y": 31795,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 104,
-			"xTile": 131,
-			"yPosition": 50,
-			"yTile": 124
+			"x": 33640,
+			"y": 31794,
+			"z": 5
 		},
 		{
 			"description": "NPC Barazbaz",
 			"icon": "!",
-			"xPosition": 114,
-			"xTile": 131,
-			"yPosition": 140,
-			"yTile": 124
+			"x": 33650,
+			"y": 31884,
+			"z": 5
 		},
 		{
 			"description": "NPC Marvin",
 			"icon": "!",
-			"xPosition": 126,
-			"xTile": 131,
-			"yPosition": 134,
-			"yTile": 124
+			"x": 33662,
+			"y": 31878,
+			"z": 5
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 135,
-			"xTile": 131,
-			"yPosition": 52,
-			"yTile": 124
+			"x": 33671,
+			"y": 31796,
+			"z": 5
 		},
 		{
 			"description": "Water well",
 			"icon": "star",
-			"xPosition": 135,
-			"xTile": 131,
-			"yPosition": 56,
-			"yTile": 124
+			"x": 33671,
+			"y": 31800,
+			"z": 5
 		}
 	],
 	"13112705": [
 		{
 			"description": "Silencer plateau",
 			"icon": "!",
-			"xPosition": 104,
-			"xTile": 131,
-			"yPosition": 17,
-			"yTile": 127
+			"x": 33640,
+			"y": 32529,
+			"z": 5
 		}
 	]
 }

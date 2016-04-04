@@ -3,238 +3,211 @@
 		{
 			"description": "NPC Gnome Trooper",
 			"icon": "star",
-			"xPosition": 158,
-			"xTile": 125,
-			"yPosition": 6,
-			"yTile": 127
+			"x": 32158,
+			"y": 32518,
+			"z": 15
 		},
 		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
-			"xPosition": 175,
-			"xTile": 125,
-			"yPosition": 91,
-			"yTile": 127
+			"x": 32175,
+			"y": 32603,
+			"z": 15
 		},
 		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
-			"xPosition": 211,
-			"xTile": 125,
-			"yPosition": 19,
-			"yTile": 127
+			"x": 32211,
+			"y": 32531,
+			"z": 15
 		},
 		{
 			"description": "Teleport",
 			"icon": "checkmark",
-			"xPosition": 224,
-			"xTile": 125,
-			"yPosition": 94,
-			"yTile": 127
+			"x": 32224,
+			"y": 32606,
+			"z": 15
 		}
 	],
 	"12612715": [
 		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
-			"xPosition": 51,
-			"xTile": 126,
-			"yPosition": 71,
-			"yTile": 127
+			"x": 32307,
+			"y": 32583,
+			"z": 15
 		}
 	],
 	"12712315": [
 		{
 			"description": "Way out of Hellgate",
 			"icon": "up",
-			"xPosition": 149,
-			"xTile": 127,
-			"yPosition": 156,
-			"yTile": 123
+			"x": 32661,
+			"y": 31644,
+			"z": 15
 		},
 		{
 			"description": "To Draconia",
 			"icon": "up",
-			"xPosition": 173,
-			"xTile": 127,
-			"yPosition": 220,
-			"yTile": 123
+			"x": 32685,
+			"y": 31708,
+			"z": 15
 		}
 	],
 	"12712515": [
 		{
 			"description": "To exit",
 			"icon": "up",
-			"xPosition": 13,
-			"xTile": 127,
-			"yPosition": 145,
-			"yTile": 125
+			"x": 32525,
+			"y": 32145,
+			"z": 15
 		}
 	],
 	"12712715": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 220,
-			"xTile": 127,
-			"yPosition": 130,
-			"yTile": 127
+			"x": 32732,
+			"y": 32642,
+			"z": 15
 		}
 	],
 	"12812715": [
 		{
 			"description": "Altar of the sceptre",
 			"icon": "star",
-			"xPosition": 33,
-			"xTile": 128,
-			"yPosition": 128,
-			"yTile": 127
+			"x": 32801,
+			"y": 32640,
+			"z": 15
 		}
 	],
 	"12912715": [
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 46,
-			"xTile": 129,
-			"yPosition": 97,
-			"yTile": 127
+			"x": 33070,
+			"y": 32609,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 46,
-			"xTile": 129,
-			"yPosition": 105,
-			"yTile": 127
+			"x": 33070,
+			"y": 32617,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 46,
-			"xTile": 129,
-			"yPosition": 117,
-			"yTile": 127
+			"x": 33070,
+			"y": 32629,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 46,
-			"xTile": 129,
-			"yPosition": 125,
-			"yTile": 127
+			"x": 33070,
+			"y": 32637,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 49,
-			"xTile": 129,
-			"yPosition": 121,
-			"yTile": 127
+			"x": 33073,
+			"y": 32633,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 52,
-			"xTile": 129,
-			"yPosition": 101,
-			"yTile": 127
+			"x": 33076,
+			"y": 32613,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 52,
-			"xTile": 129,
-			"yPosition": 109,
-			"yTile": 127
+			"x": 33076,
+			"y": 32621,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "flag",
-			"xPosition": 52,
-			"xTile": 129,
-			"yPosition": 113,
-			"yTile": 127
+			"x": 33076,
+			"y": 32625,
+			"z": 15
 		}
 	],
 	"13012115": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 187,
-			"xTile": 130,
-			"yPosition": 200,
-			"yTile": 121
+			"x": 33467,
+			"y": 31176,
+			"z": 15
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 227,
-			"xTile": 130,
-			"yPosition": 210,
-			"yTile": 121
+			"x": 33507,
+			"y": 31186,
+			"z": 15
 		}
 	],
 	"13012315": [
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 145,
-			"xTile": 130,
-			"yPosition": 166,
-			"yTile": 123
+			"x": 33425,
+			"y": 31654,
+			"z": 15
 		},
 		{
 			"description": "Drowned seaman’s skull",
 			"icon": "crossmark",
-			"xPosition": 165,
-			"xTile": 130,
-			"yPosition": 253,
-			"yTile": 123
+			"x": 33445,
+			"y": 31741,
+			"z": 15
 		},
 		{
 			"description": "Drowned seaman’s skull",
 			"icon": "crossmark",
-			"xPosition": 176,
-			"xTile": 130,
-			"yPosition": 160,
-			"yTile": 123
+			"x": 33456,
+			"y": 31648,
+			"z": 15
 		}
 	],
 	"13012415": [
 		{
 			"description": "Drowned seaman’s skull",
 			"icon": "crossmark",
-			"xPosition": 131,
-			"xTile": 130,
-			"yPosition": 147,
-			"yTile": 124
+			"x": 33411,
+			"y": 31891,
+			"z": 15
 		},
 		{
 			"description": "Drowned seaman’s skull",
 			"icon": "crossmark",
-			"xPosition": 194,
-			"xTile": 130,
-			"yPosition": 114,
-			"yTile": 124
+			"x": 33474,
+			"y": 31858,
+			"z": 15
 		},
 		{
 			"description": "Drowned seaman’s skull",
 			"icon": "crossmark",
-			"xPosition": 220,
-			"xTile": 130,
-			"yPosition": 32,
-			"yTile": 124
+			"x": 33500,
+			"y": 31776,
+			"z": 15
 		}
 	],
 	"13112115": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 28,
-			"xTile": 131,
-			"yPosition": 203,
-			"yTile": 121
+			"x": 33564,
+			"y": 31179,
+			"z": 15
 		}
 	]
 }

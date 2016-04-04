@@ -3,506 +3,448 @@
 		{
 			"description": "Hellhounds",
 			"icon": "red down",
-			"xPosition": 48,
-			"xTile": 125,
-			"yPosition": 59,
-			"yTile": 127
+			"x": 32048,
+			"y": 32571,
+			"z": 13
 		},
 		{
 			"description": "Teleport to exit",
 			"icon": "checkmark",
-			"xPosition": 60,
-			"xTile": 125,
-			"yPosition": 42,
-			"yTile": 127
+			"x": 32060,
+			"y": 32554,
+			"z": 13
 		},
 		{
 			"description": "Demons",
 			"icon": "down",
-			"xPosition": 88,
-			"xTile": 125,
-			"yPosition": 61,
-			"yTile": 127
+			"x": 32088,
+			"y": 32573,
+			"z": 13
 		},
 		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
-			"xPosition": 131,
-			"xTile": 125,
-			"yPosition": 49,
-			"yTile": 127
+			"x": 32131,
+			"y": 32561,
+			"z": 13
 		},
 		{
 			"description": "NPC Gnome Trooper",
 			"icon": "star",
-			"xPosition": 169,
-			"xTile": 125,
-			"yPosition": 137,
-			"yTile": 127
+			"x": 32169,
+			"y": 32649,
+			"z": 13
 		},
 		{
 			"description": "Teleport",
 			"icon": "checkmark",
-			"xPosition": 244,
-			"xTile": 125,
-			"yPosition": 107,
-			"yTile": 127
+			"x": 32244,
+			"y": 32619,
+			"z": 13
 		}
 	],
 	"12612313": [
 		{
 			"description": "Way out",
 			"icon": "flag",
-			"xPosition": 139,
-			"xTile": 126,
-			"yPosition": 120,
-			"yTile": 123
+			"x": 32395,
+			"y": 31608,
+			"z": 13
 		},
 		{
 			"description": "Monks",
 			"icon": "skull",
-			"xPosition": 164,
-			"xTile": 126,
-			"yPosition": 76,
-			"yTile": 123
+			"x": 32420,
+			"y": 31564,
+			"z": 13
 		},
 		{
 			"description": "4. To Demona",
 			"icon": "red up",
-			"xPosition": 224,
-			"xTile": 126,
-			"yPosition": 158,
-			"yTile": 123
+			"x": 32480,
+			"y": 31646,
+			"z": 13
 		}
 	],
 	"12612513": [
 		{
 			"description": "To exit",
 			"icon": "up",
-			"xPosition": 238,
-			"xTile": 126,
-			"yPosition": 215,
-			"yTile": 125
+			"x": 32494,
+			"y": 32215,
+			"z": 13
 		}
 	],
 	"12612713": [
 		{
 			"description": "NPC Gnome Trooper",
 			"icon": "star",
-			"xPosition": 69,
-			"xTile": 126,
-			"yPosition": 77,
-			"yTile": 127
+			"x": 32325,
+			"y": 32589,
+			"z": 13
 		},
 		{
 			"description": "Undercover contact",
 			"icon": "crossmark",
-			"xPosition": 85,
-			"xTile": 126,
-			"yPosition": 21,
-			"yTile": 127
+			"x": 32341,
+			"y": 32533,
+			"z": 13
 		}
 	],
 	"12712313": [
 		{
 			"description": "To Draconia",
 			"icon": "up",
-			"xPosition": 227,
-			"xTile": 127,
-			"yPosition": 67,
-			"yTile": 123
+			"x": 32739,
+			"y": 31555,
+			"z": 13
 		}
 	],
 	"12712413": [
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 85,
-			"xTile": 127,
-			"yPosition": 139,
-			"yTile": 124
+			"x": 32597,
+			"y": 31883,
+			"z": 13
 		}
 	],
 	"12712513": [
 		{
 			"description": "To Mintwallin",
 			"icon": "down",
-			"xPosition": 65,
-			"xTile": 127,
-			"yPosition": 179,
-			"yTile": 125
+			"x": 32577,
+			"y": 32179,
+			"z": 13
 		}
 	],
 	"12812313": [
 		{
 			"description": "To Draconia",
 			"icon": "down",
-			"xPosition": 57,
-			"xTile": 128,
-			"yPosition": 213,
-			"yTile": 123
+			"x": 32825,
+			"y": 31701,
+			"z": 13
 		}
 	],
 	"12812413": [
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 75,
-			"xTile": 128,
-			"yPosition": 159,
-			"yTile": 124
+			"x": 32843,
+			"y": 31903,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 76,
-			"xTile": 128,
-			"yPosition": 151,
-			"yTile": 124
+			"x": 32844,
+			"y": 31895,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 81,
-			"xTile": 128,
-			"yPosition": 146,
-			"yTile": 124
+			"x": 32849,
+			"y": 31890,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 85,
-			"xTile": 128,
-			"yPosition": 141,
-			"yTile": 124
+			"x": 32853,
+			"y": 31885,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 89,
-			"xTile": 128,
-			"yPosition": 166,
-			"yTile": 124
+			"x": 32857,
+			"y": 31910,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 94,
-			"xTile": 128,
-			"yPosition": 91,
-			"yTile": 124
+			"x": 32862,
+			"y": 31835,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 99,
-			"xTile": 128,
-			"yPosition": 138,
-			"yTile": 124
+			"x": 32867,
+			"y": 31882,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 103,
-			"xTile": 128,
-			"yPosition": 158,
-			"yTile": 124
+			"x": 32871,
+			"y": 31902,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 111,
-			"xTile": 128,
-			"yPosition": 150,
-			"yTile": 124
+			"x": 32879,
+			"y": 31894,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "checkmark",
-			"xPosition": 123,
-			"xTile": 128,
-			"yPosition": 149,
-			"yTile": 124
+			"x": 32891,
+			"y": 31893,
+			"z": 13
 		},
 		{
 			"description": "Teleport to Gnomebase Alpha",
 			"icon": "flag",
-			"xPosition": 136,
-			"xTile": 128,
-			"yPosition": 149,
-			"yTile": 124
+			"x": 32904,
+			"y": 31893,
+			"z": 13
 		},
 		{
 			"description": "Red crystal",
 			"icon": "checkmark",
-			"xPosition": 227,
-			"xTile": 128,
-			"yPosition": 43,
-			"yTile": 124
+			"x": 32995,
+			"y": 31787,
+			"z": 13
 		},
 		{
 			"description": "Teleport to Gnomegate",
 			"icon": "flag",
-			"xPosition": 232,
-			"xTile": 128,
-			"yPosition": 127,
-			"yTile": 124
+			"x": 33000,
+			"y": 31871,
+			"z": 13
 		},
 		{
 			"description": "Red crystal",
 			"icon": "checkmark",
-			"xPosition": 233,
-			"xTile": 128,
-			"yPosition": 80,
-			"yTile": 124
+			"x": 33001,
+			"y": 31824,
+			"z": 13
 		}
 	],
 	"12812613": [
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 184,
-			"xTile": 128,
-			"yPosition": 129,
-			"yTile": 126
+			"x": 32952,
+			"y": 32385,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 186,
-			"xTile": 128,
-			"yPosition": 157,
-			"yTile": 126
+			"x": 32954,
+			"y": 32413,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "crossmark",
-			"xPosition": 202,
-			"xTile": 128,
-			"yPosition": 132,
-			"yTile": 126
+			"x": 32970,
+			"y": 32388,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 245,
-			"xTile": 128,
-			"yPosition": 216,
-			"yTile": 126
+			"x": 33013,
+			"y": 32472,
+			"z": 13
 		}
 	],
 	"12812713": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 15,
-			"xTile": 128,
-			"yPosition": 59,
-			"yTile": 127
+			"x": 32783,
+			"y": 32571,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 15,
-			"xTile": 128,
-			"yPosition": 97,
-			"yTile": 127
+			"x": 32783,
+			"y": 32609,
+			"z": 13
 		}
 	],
 	"12912213": [
 		{
 			"description": "Teleport",
 			"icon": "flag",
-			"xPosition": 175,
-			"xTile": 129,
-			"yPosition": 207,
-			"yTile": 122
+			"x": 33199,
+			"y": 31439,
+			"z": 13
 		}
 	],
 	"12912313": [
 		{
 			"description": "Parchment room quest (hidden)",
 			"icon": "red down",
-			"xPosition": 70,
-			"xTile": 129,
-			"yPosition": 138,
-			"yTile": 123
+			"x": 33094,
+			"y": 31626,
+			"z": 13
 		},
 		{
 			"description": "Shaburak demons / askarak demons",
 			"icon": "?",
-			"xPosition": 138,
-			"xTile": 129,
-			"yPosition": 162,
-			"yTile": 123
+			"x": 33162,
+			"y": 31650,
+			"z": 13
 		}
 	],
 	"12912413": [
 		{
 			"description": "Red crystal",
 			"icon": "checkmark",
-			"xPosition": 10,
-			"xTile": 129,
-			"yPosition": 93,
-			"yTile": 124
+			"x": 33034,
+			"y": 31837,
+			"z": 13
 		},
 		{
 			"description": "Red crystal",
 			"icon": "checkmark",
-			"xPosition": 15,
-			"xTile": 129,
-			"yPosition": 114,
-			"yTile": 124
+			"x": 33039,
+			"y": 31858,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 211,
-			"xTile": 129,
-			"yPosition": 178,
-			"yTile": 124
+			"x": 33235,
+			"y": 31922,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 222,
-			"xTile": 129,
-			"yPosition": 188,
-			"yTile": 124
+			"x": 33246,
+			"y": 31932,
+			"z": 13
 		}
 	],
 	"12912613": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 24,
-			"xTile": 129,
-			"yPosition": 201,
-			"yTile": 126
+			"x": 33048,
+			"y": 32457,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 29,
-			"xTile": 129,
-			"yPosition": 206,
-			"yTile": 126
+			"x": 33053,
+			"y": 32462,
+			"z": 13
 		},
 		{
 			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
-			"xPosition": 46,
-			"xTile": 129,
-			"yPosition": 152,
-			"yTile": 126
+			"x": 33070,
+			"y": 32408,
+			"z": 13
 		},
 		{
 			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
-			"xPosition": 50,
-			"xTile": 129,
-			"yPosition": 114,
-			"yTile": 126
+			"x": 33074,
+			"y": 32370,
+			"z": 13
 		},
 		{
 			"description": "Wyrms / elder wyrms",
 			"icon": "red down",
-			"xPosition": 65,
-			"xTile": 129,
-			"yPosition": 128,
-			"yTile": 126
+			"x": 33089,
+			"y": 32384,
+			"z": 13
 		}
 	],
 	"12912813": [
 		{
 			"description": "Task boss: Ribstride",
 			"icon": "!",
-			"xPosition": 85,
-			"xTile": 129,
-			"yPosition": 35,
-			"yTile": 128
+			"x": 33109,
+			"y": 32803,
+			"z": 13
 		}
 	],
 	"13012213": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 44,
-			"xTile": 130,
-			"yPosition": 235,
-			"yTile": 122
+			"x": 33324,
+			"y": 31467,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 66,
-			"xTile": 130,
-			"yPosition": 142,
-			"yTile": 122
+			"x": 33346,
+			"y": 31374,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 246,
-			"xTile": 130,
-			"yPosition": 23,
-			"yTile": 122
+			"x": 33526,
+			"y": 31255,
+			"z": 13
 		}
 	],
 	"13012313": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 170,
-			"xTile": 130,
-			"yPosition": 141,
-			"yTile": 123
+			"x": 33450,
+			"y": 31629,
+			"z": 13
 		}
 	],
 	"13012413": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 6,
-			"xTile": 130,
-			"yPosition": 186,
-			"yTile": 124
+			"x": 33286,
+			"y": 31930,
+			"z": 13
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 16,
-			"xTile": 130,
-			"yPosition": 204,
-			"yTile": 124
+			"x": 33296,
+			"y": 31948,
+			"z": 13
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 119,
-			"xTile": 130,
-			"yPosition": 58,
-			"yTile": 124
+			"x": 33399,
+			"y": 31802,
+			"z": 13
 		}
 	],
 	"13012613": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 30,
-			"xTile": 130,
-			"yPosition": 123,
-			"yTile": 126
+			"x": 33310,
+			"y": 32379,
+			"z": 13
 		}
 	],
 	"13012713": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 162,
-			"xTile": 130,
-			"yPosition": 243,
-			"yTile": 127
+			"x": 33442,
+			"y": 32755,
+			"z": 13
 		}
 	]
 }

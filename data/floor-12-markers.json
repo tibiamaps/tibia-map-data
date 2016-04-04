@@ -3,710 +3,627 @@
 		{
 			"description": "Exit",
 			"icon": "up",
-			"xPosition": 169,
-			"xTile": 124,
-			"yPosition": 201,
-			"yTile": 127
+			"x": 31913,
+			"y": 32713,
+			"z": 12
 		}
 	],
 	"12412812": [
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
-			"xPosition": 199,
-			"xTile": 124,
-			"yPosition": 5,
-			"yTile": 128
+			"x": 31943,
+			"y": 32773,
+			"z": 12
 		}
 	],
 	"12512112": [
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 95,
-			"xTile": 125,
-			"yPosition": 124,
-			"yTile": 121
+			"x": 32095,
+			"y": 31100,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 123,
-			"xTile": 125,
-			"yPosition": 173,
-			"yTile": 121
+			"x": 32123,
+			"y": 31149,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 146,
-			"xTile": 125,
-			"yPosition": 166,
-			"yTile": 121
+			"x": 32146,
+			"y": 31142,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 169,
-			"xTile": 125,
-			"yPosition": 103,
-			"yTile": 121
+			"x": 32169,
+			"y": 31079,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 189,
-			"xTile": 125,
-			"yPosition": 205,
-			"yTile": 121
+			"x": 32189,
+			"y": 31181,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 206,
-			"xTile": 125,
-			"yPosition": 148,
-			"yTile": 121
+			"x": 32206,
+			"y": 31124,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 227,
-			"xTile": 125,
-			"yPosition": 119,
-			"yTile": 121
+			"x": 32227,
+			"y": 31095,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 229,
-			"xTile": 125,
-			"yPosition": 213,
-			"yTile": 121
+			"x": 32229,
+			"y": 31189,
+			"z": 12
 		},
 		{
 			"description": "Demon spawn",
 			"icon": "!",
-			"xPosition": 241,
-			"xTile": 125,
-			"yPosition": 222,
-			"yTile": 121
+			"x": 32241,
+			"y": 31198,
+			"z": 12
 		}
 	],
 	"12512712": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 45,
-			"xTile": 125,
-			"yPosition": 100,
-			"yTile": 127
+			"x": 32045,
+			"y": 32612,
+			"z": 12
 		},
 		{
 			"description": "Mailbox (floor below)",
 			"icon": "flag",
-			"xPosition": 56,
-			"xTile": 125,
-			"yPosition": 224,
-			"yTile": 127
+			"x": 32056,
+			"y": 32736,
+			"z": 12
 		},
 		{
 			"description": "Crustacea gigantica (spawn location)",
 			"icon": "star",
-			"xPosition": 98,
-			"xTile": 125,
-			"yPosition": 226,
-			"yTile": 127
+			"x": 32098,
+			"y": 32738,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 104,
-			"xTile": 125,
-			"yPosition": 76,
-			"yTile": 127
+			"x": 32104,
+			"y": 32588,
+			"z": 12
 		}
 	],
 	"12512812": [
 		{
 			"description": "Task boss: Thul",
 			"icon": "!",
-			"xPosition": 85,
-			"xTile": 125,
-			"yPosition": 14,
-			"yTile": 128
+			"x": 32085,
+			"y": 32782,
+			"z": 12
 		},
 		{
 			"description": "Crustacea gigantica (spawn location)",
 			"icon": "star",
-			"xPosition": 107,
-			"xTile": 125,
-			"yPosition": 20,
-			"yTile": 128
+			"x": 32107,
+			"y": 32788,
+			"z": 12
 		}
 	],
 	"12612312": [
 		{
 			"description": "To monks",
 			"icon": "crossmark",
-			"xPosition": 139,
-			"xTile": 126,
-			"yPosition": 120,
-			"yTile": 123
+			"x": 32395,
+			"y": 31608,
+			"z": 12
 		},
 		{
 			"description": "4. To surface",
 			"icon": "up",
-			"xPosition": 153,
-			"xTile": 126,
-			"yPosition": 134,
-			"yTile": 123
+			"x": 32409,
+			"y": 31622,
+			"z": 12
 		},
 		{
 			"description": "10. To Demona",
 			"icon": "red up",
-			"xPosition": 162,
-			"xTile": 126,
-			"yPosition": 108,
-			"yTile": 123
+			"x": 32418,
+			"y": 31596,
+			"z": 12
 		},
 		{
 			"description": "8. To Demona",
 			"icon": "red up",
-			"xPosition": 162,
-			"xTile": 126,
-			"yPosition": 211,
-			"yTile": 123
+			"x": 32418,
+			"y": 31699,
+			"z": 12
 		},
 		{
 			"description": "6. To surface",
 			"icon": "up",
-			"xPosition": 176,
-			"xTile": 126,
-			"yPosition": 173,
-			"yTile": 123
+			"x": 32432,
+			"y": 31661,
+			"z": 12
 		},
 		{
 			"description": "Way out",
 			"icon": "flag",
-			"xPosition": 182,
-			"xTile": 126,
-			"yPosition": 138,
-			"yTile": 123
+			"x": 32438,
+			"y": 31626,
+			"z": 12
 		},
 		{
 			"description": "5. To Demona",
 			"icon": "red down",
-			"xPosition": 214,
-			"xTile": 126,
-			"yPosition": 181,
-			"yTile": 123
+			"x": 32470,
+			"y": 31669,
+			"z": 12
 		},
 		{
 			"description": "8. To surface",
 			"icon": "up",
-			"xPosition": 220,
-			"xTile": 126,
-			"yPosition": 188,
-			"yTile": 123
+			"x": 32476,
+			"y": 31676,
+			"z": 12
 		}
 	],
 	"12612412": [
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
-			"xPosition": 10,
-			"xTile": 126,
-			"yPosition": 148,
-			"yTile": 124
+			"x": 32266,
+			"y": 31892,
+			"z": 12
 		},
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
-			"xPosition": 115,
-			"xTile": 126,
-			"yPosition": 246,
-			"yTile": 124
+			"x": 32371,
+			"y": 31990,
+			"z": 12
 		},
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 171,
-			"xTile": 126,
-			"yPosition": 156,
-			"yTile": 124
+			"x": 32427,
+			"y": 31900,
+			"z": 12
 		},
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 171,
-			"xTile": 126,
-			"yPosition": 205,
-			"yTile": 124
+			"x": 32427,
+			"y": 31949,
+			"z": 12
 		},
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 247,
-			"xTile": 126,
-			"yPosition": 178,
-			"yTile": 124
+			"x": 32503,
+			"y": 31922,
+			"z": 12
 		},
 		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
-			"xPosition": 251,
-			"xTile": 126,
-			"yPosition": 219,
-			"yTile": 124
+			"x": 32507,
+			"y": 31963,
+			"z": 12
 		}
 	],
 	"12612512": [
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
-			"xPosition": 121,
-			"xTile": 126,
-			"yPosition": 29,
-			"yTile": 125
+			"x": 32377,
+			"y": 32029,
+			"z": 12
 		}
 	],
 	"12712312": [
 		{
 			"description": "6. To Demona",
 			"icon": "red up",
-			"xPosition": 13,
-			"xTile": 127,
-			"yPosition": 209,
-			"yTile": 123
+			"x": 32525,
+			"y": 31697,
+			"z": 12
 		},
 		{
 			"description": "MAGIC — red > green > yellow > blue",
 			"icon": "red down",
-			"xPosition": 67,
-			"xTile": 127,
-			"yPosition": 79,
-			"yTile": 123
+			"x": 32579,
+			"y": 31567,
+			"z": 12
 		},
 		{
 			"description": "Portal out of Hellgate",
 			"icon": "up",
-			"xPosition": 108,
-			"xTile": 127,
-			"yPosition": 213,
-			"yTile": 123
+			"x": 32620,
+			"y": 31701,
+			"z": 12
 		}
 	],
 	"12712512": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 146,
-			"xTile": 127,
-			"yPosition": 112,
-			"yTile": 125
+			"x": 32658,
+			"y": 32112,
+			"z": 12
 		}
 	],
 	"12812312": [
 		{
 			"description": "To Draconia",
 			"icon": "down",
-			"xPosition": 58,
-			"xTile": 128,
-			"yPosition": 178,
-			"yTile": 123
+			"x": 32826,
+			"y": 31666,
+			"z": 12
 		}
 	],
 	"12812612": [
 		{
 			"description": "Ancient Vampire Crypts — Sacrificial Chamber",
 			"icon": "crossmark",
-			"xPosition": 162,
-			"xTile": 128,
-			"yPosition": 191,
-			"yTile": 126
+			"x": 32930,
+			"y": 32447,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 244,
-			"xTile": 128,
-			"yPosition": 217,
-			"yTile": 126
+			"x": 33012,
+			"y": 32473,
+			"z": 12
 		}
 	],
 	"12812712": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 15,
-			"xTile": 128,
-			"yPosition": 59,
-			"yTile": 127
+			"x": 32783,
+			"y": 32571,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 38,
-			"xTile": 128,
-			"yPosition": 124,
-			"yTile": 127
+			"x": 32806,
+			"y": 32636,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "red up",
-			"xPosition": 201,
-			"xTile": 128,
-			"yPosition": 243,
-			"yTile": 127
+			"x": 32969,
+			"y": 32755,
+			"z": 12
 		},
 		{
 			"description": "Jar",
 			"icon": "checkmark",
-			"xPosition": 211,
-			"xTile": 128,
-			"yPosition": 226,
-			"yTile": 127
+			"x": 32979,
+			"y": 32738,
+			"z": 12
 		}
 	],
 	"12912112": [
 		{
 			"description": "Task boss: Zanakeph",
 			"icon": "!",
-			"xPosition": 71,
-			"xTile": 129,
-			"yPosition": 99,
-			"yTile": 121
+			"x": 33095,
+			"y": 31075,
+			"z": 12
 		}
 	],
 	"12912412": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 19,
-			"xTile": 129,
-			"yPosition": 10,
-			"yTile": 124
+			"x": 33043,
+			"y": 31754,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 25,
-			"xTile": 129,
-			"yPosition": 40,
-			"yTile": 124
+			"x": 33049,
+			"y": 31784,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 80,
-			"xTile": 129,
-			"yPosition": 15,
-			"yTile": 124
+			"x": 33104,
+			"y": 31759,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 82,
-			"xTile": 129,
-			"yPosition": 45,
-			"yTile": 124
+			"x": 33106,
+			"y": 31789,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 211,
-			"xTile": 129,
-			"yPosition": 178,
-			"yTile": 124
+			"x": 33235,
+			"y": 31922,
+			"z": 12
 		}
 	],
 	"12912612": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 7,
-			"xTile": 129,
-			"yPosition": 195,
-			"yTile": 126
+			"x": 33031,
+			"y": 32451,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 24,
-			"xTile": 129,
-			"yPosition": 201,
-			"yTile": 126
+			"x": 33048,
+			"y": 32457,
+			"z": 12
 		}
 	],
 	"13012112": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 177,
-			"xTile": 130,
-			"yPosition": 200,
-			"yTile": 121
+			"x": 33457,
+			"y": 31176,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 232,
-			"xTile": 130,
-			"yPosition": 247,
-			"yTile": 121
+			"x": 33512,
+			"y": 31223,
+			"z": 12
 		}
 	],
 	"13012212": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 50,
-			"xTile": 130,
-			"yPosition": 139,
-			"yTile": 122
+			"x": 33330,
+			"y": 31371,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 79,
-			"xTile": 130,
-			"yPosition": 219,
-			"yTile": 122
+			"x": 33359,
+			"y": 31451,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 246,
-			"xTile": 130,
-			"yPosition": 23,
-			"yTile": 122
+			"x": 33526,
+			"y": 31255,
+			"z": 12
 		}
 	],
 	"13012412": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 16,
-			"xTile": 130,
-			"yPosition": 204,
-			"yTile": 124
+			"x": 33296,
+			"y": 31948,
+			"z": 12
 		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 103,
-			"xTile": 130,
-			"yPosition": 190,
-			"yTile": 124
+			"x": 33383,
+			"y": 31934,
+			"z": 12
 		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 111,
-			"xTile": 130,
-			"yPosition": 200,
-			"yTile": 124
+			"x": 33391,
+			"y": 31944,
+			"z": 12
 		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 127,
-			"xTile": 130,
-			"yPosition": 186,
-			"yTile": 124
+			"x": 33407,
+			"y": 31930,
+			"z": 12
 		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 156,
-			"xTile": 130,
-			"yPosition": 230,
-			"yTile": 124
+			"x": 33436,
+			"y": 31974,
+			"z": 12
 		}
 	],
 	"13012512": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 234,
-			"xTile": 130,
-			"yPosition": 25,
-			"yTile": 125
+			"x": 33514,
+			"y": 32025,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 245,
-			"xTile": 130,
-			"yPosition": 38,
-			"yTile": 125
+			"x": 33525,
+			"y": 32038,
+			"z": 12
 		}
 	],
 	"13012812": [
 		{
 			"description": "Teleport",
 			"icon": "flag",
-			"xPosition": 202,
-			"xTile": 130,
-			"yPosition": 7,
-			"yTile": 128
+			"x": 33482,
+			"y": 32775,
+			"z": 12
 		},
 		{
 			"description": "Teleport",
 			"icon": "flag",
-			"xPosition": 232,
-			"xTile": 130,
-			"yPosition": 85,
-			"yTile": 128
+			"x": 33512,
+			"y": 32853,
+			"z": 12
 		}
 	],
 	"13112412": [
 		{
 			"description": "Slide back to town",
 			"icon": "checkmark",
-			"xPosition": 22,
-			"xTile": 131,
-			"yPosition": 226,
-			"yTile": 124
+			"x": 33558,
+			"y": 31970,
+			"z": 12
 		},
 		{
 			"description": "NPC Georgia Rainbird",
 			"icon": "mouth",
-			"xPosition": 48,
-			"xTile": 131,
-			"yPosition": 158,
-			"yTile": 124
+			"x": 33584,
+			"y": 31902,
+			"z": 12
 		},
 		{
 			"description": "NPC Elbert",
 			"icon": "mouth",
-			"xPosition": 50,
-			"xTile": 131,
-			"yPosition": 242,
-			"yTile": 124
+			"x": 33586,
+			"y": 31986,
+			"z": 12
 		},
 		{
 			"description": "NPC Wesley",
 			"icon": "mouth",
-			"xPosition": 87,
-			"xTile": 131,
-			"yPosition": 155,
-			"yTile": 124
+			"x": 33623,
+			"y": 31899,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 100,
-			"xTile": 131,
-			"yPosition": 180,
-			"yTile": 124
+			"x": 33636,
+			"y": 31924,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 102,
-			"xTile": 131,
-			"yPosition": 164,
-			"yTile": 124
+			"x": 33638,
+			"y": 31908,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 108,
-			"xTile": 131,
-			"yPosition": 109,
-			"yTile": 124
+			"x": 33644,
+			"y": 31853,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 108,
-			"xTile": 131,
-			"yPosition": 118,
-			"yTile": 124
+			"x": 33644,
+			"y": 31862,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 114,
-			"xTile": 131,
-			"yPosition": 117,
-			"yTile": 124
+			"x": 33650,
+			"y": 31861,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 117,
-			"xTile": 131,
-			"yPosition": 124,
-			"yTile": 124
+			"x": 33653,
+			"y": 31868,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 120,
-			"xTile": 131,
-			"yPosition": 117,
-			"yTile": 124
+			"x": 33656,
+			"y": 31861,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 124,
-			"xTile": 131,
-			"yPosition": 108,
-			"yTile": 124
+			"x": 33660,
+			"y": 31852,
+			"z": 12
 		},
 		{
 			"description": "Irrigation funnel",
 			"icon": "star",
-			"xPosition": 125,
-			"xTile": 131,
-			"yPosition": 117,
-			"yTile": 124
+			"x": 33661,
+			"y": 31861,
+			"z": 12
 		},
 		{
 			"description": "Crimson crest mushroom",
 			"icon": "star",
-			"xPosition": 149,
-			"xTile": 131,
-			"yPosition": 138,
-			"yTile": 124
+			"x": 33685,
+			"y": 31882,
+			"z": 12
 		}
 	],
 	"13112512": [
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 85,
-			"xTile": 131,
-			"yPosition": 19,
-			"yTile": 125
+			"x": 33621,
+			"y": 32019,
+			"z": 12
 		},
 		{
 			"description": "Dinky moss floret",
 			"icon": "star",
-			"xPosition": 87,
-			"xTile": 131,
-			"yPosition": 19,
-			"yTile": 125
+			"x": 33623,
+			"y": 32019,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 90,
-			"xTile": 131,
-			"yPosition": 20,
-			"yTile": 125
+			"x": 33626,
+			"y": 32020,
+			"z": 12
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 115,
-			"xTile": 131,
-			"yPosition": 15,
-			"yTile": 125
+			"x": 33651,
+			"y": 32015,
+			"z": 12
 		}
 	]
 }

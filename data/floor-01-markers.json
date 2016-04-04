@@ -3,116 +3,103 @@
 		{
 			"description": "Pile of bones (tinder box quest)",
 			"icon": "star",
-			"xPosition": 84,
-			"xTile": 125,
-			"yPosition": 49,
-			"yTile": 121
+			"x": 32084,
+			"y": 31025,
+			"z": 1
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 84,
-			"xTile": 125,
-			"yPosition": 52,
-			"yTile": 121
+			"x": 32084,
+			"y": 31028,
+			"z": 1
 		}
 	],
 	"12612801": [
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 161,
-			"xTile": 126,
-			"yPosition": 9,
-			"yTile": 128
+			"x": 32417,
+			"y": 32777,
+			"z": 1
 		}
 	],
 	"12912401": [
 		{
 			"description": "Spectulus",
 			"icon": "mouth",
-			"xPosition": 244,
-			"xTile": 129,
-			"yPosition": 88,
-			"yTile": 124
+			"x": 33268,
+			"y": 31832,
+			"z": 1
 		}
 	],
 	"13012101": [
 		{
 			"description": "Outfit chest; use 3× to get addons as well",
 			"icon": "flag",
-			"xPosition": 204,
-			"xTile": 130,
-			"yPosition": 222,
-			"yTile": 121
+			"x": 33484,
+			"y": 31198,
+			"z": 1
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 206,
-			"xTile": 130,
-			"yPosition": 217,
-			"yTile": 121
+			"x": 33486,
+			"y": 31193,
+			"z": 1
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 221,
-			"xTile": 130,
-			"yPosition": 221,
-			"yTile": 121
+			"x": 33501,
+			"y": 31197,
+			"z": 1
 		}
 	],
 	"13112101": [
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 40,
-			"xTile": 131,
-			"yPosition": 242,
-			"yTile": 121
+			"x": 33576,
+			"y": 31218,
+			"z": 1
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 55,
-			"xTile": 131,
-			"yPosition": 251,
-			"yTile": 121
+			"x": 33591,
+			"y": 31227,
+			"z": 1
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 68,
-			"xTile": 131,
-			"yPosition": 247,
-			"yTile": 121
+			"x": 33604,
+			"y": 31223,
+			"z": 1
 		}
 	],
 	"13112201": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 15,
-			"xTile": 131,
-			"yPosition": 85,
-			"yTile": 122
+			"x": 33551,
+			"y": 31317,
+			"z": 1
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 41,
-			"xTile": 131,
-			"yPosition": 3,
-			"yTile": 122
+			"x": 33577,
+			"y": 31235,
+			"z": 1
 		},
 		{
 			"description": "Insectoid monolith",
 			"icon": "star",
-			"xPosition": 53,
-			"xTile": 131,
-			"yPosition": 2,
-			"yTile": 122
+			"x": 33589,
+			"y": 31234,
+			"z": 1
 		}
 	]
 }

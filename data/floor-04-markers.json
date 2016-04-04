@@ -3,282 +3,250 @@
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 68,
-			"xTile": 125,
-			"yPosition": 58,
-			"yTile": 121
+			"x": 32068,
+			"y": 31034,
+			"z": 4
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 80,
-			"xTile": 125,
-			"yPosition": 56,
-			"yTile": 121
+			"x": 32080,
+			"y": 31032,
+			"z": 4
 		}
 	],
 	"12512204": [
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 195,
-			"xTile": 125,
-			"yPosition": 194,
-			"yTile": 122
+			"x": 32195,
+			"y": 31426,
+			"z": 4
 		}
 	],
 	"12512404": [
 		{
 			"description": "Adventurer’s bank",
 			"icon": "$",
-			"xPosition": 55,
-			"xTile": 125,
-			"yPosition": 155,
-			"yTile": 124
+			"x": 32055,
+			"y": 31899,
+			"z": 4
 		},
 		{
 			"description": "Druid and sorcerer spells",
 			"icon": "star",
-			"xPosition": 57,
-			"xTile": 125,
-			"yPosition": 138,
-			"yTile": 124
+			"x": 32057,
+			"y": 31882,
+			"z": 4
 		},
 		{
 			"description": "To the safe trade rooms",
 			"icon": "up",
-			"xPosition": 65,
-			"xTile": 125,
-			"yPosition": 146,
-			"yTile": 124
+			"x": 32065,
+			"y": 31890,
+			"z": 4
 		},
 		{
 			"description": "Knight and paladin spells",
 			"icon": "star",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 138,
-			"yTile": 124
+			"x": 32072,
+			"y": 31882,
+			"z": 4
 		},
 		{
 			"description": "Mr Morris’ room",
 			"icon": "!",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 155,
-			"yTile": 124
+			"x": 32072,
+			"y": 31899,
+			"z": 4
 		},
 		{
 			"description": "To the shops, temple, and vocation gates",
 			"icon": "down",
-			"xPosition": 73,
-			"xTile": 125,
-			"yPosition": 151,
-			"yTile": 124
+			"x": 32073,
+			"y": 31895,
+			"z": 4
 		}
 	],
 	"12512704": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 58,
-			"xTile": 125,
-			"yPosition": 90,
-			"yTile": 127
+			"x": 32058,
+			"y": 32602,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 61,
-			"xTile": 125,
-			"yPosition": 85,
-			"yTile": 127
+			"x": 32061,
+			"y": 32597,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 66,
-			"xTile": 125,
-			"yPosition": 111,
-			"yTile": 127
+			"x": 32066,
+			"y": 32623,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 72,
-			"xTile": 125,
-			"yPosition": 92,
-			"yTile": 127
+			"x": 32072,
+			"y": 32604,
+			"z": 4
 		}
 	],
 	"12612204": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 5,
-			"xTile": 126,
-			"yPosition": 139,
-			"yTile": 122
+			"x": 32261,
+			"y": 31371,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 10,
-			"xTile": 126,
-			"yPosition": 112,
-			"yTile": 122
+			"x": 32266,
+			"y": 31344,
+			"z": 4
 		}
 	],
 	"12612704": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 65,
-			"xTile": 126,
-			"yPosition": 115,
-			"yTile": 127
+			"x": 32321,
+			"y": 32627,
+			"z": 4
 		}
 	],
 	"12612804": [
 		{
 			"description": "Levitate spot",
 			"icon": "up",
-			"xPosition": 154,
-			"xTile": 126,
-			"yPosition": 22,
-			"yTile": 128
+			"x": 32410,
+			"y": 32790,
+			"z": 4
 		},
 		{
 			"description": "Levitate spot",
 			"icon": "down",
-			"xPosition": 154,
-			"xTile": 126,
-			"yPosition": 26,
-			"yTile": 128
+			"x": 32410,
+			"y": 32794,
+			"z": 4
 		}
 	],
 	"12812304": [
 		{
 			"description": "Flying carpet",
 			"icon": "up",
-			"xPosition": 223,
-			"xTile": 128,
-			"yPosition": 51,
-			"yTile": 123
+			"x": 32991,
+			"y": 31539,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 253,
-			"xTile": 128,
-			"yPosition": 48,
-			"yTile": 123
+			"x": 33021,
+			"y": 31536,
+			"z": 4
 		}
 	],
 	"12912804": [
 		{
 			"description": "Offline training",
 			"icon": "sword",
-			"xPosition": 145,
-			"xTile": 129,
-			"yPosition": 45,
-			"yTile": 128
+			"x": 33169,
+			"y": 32813,
+			"z": 4
 		}
 	],
 	"13012104": [
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 200,
-			"xTile": 130,
-			"yPosition": 221,
-			"yTile": 121
+			"x": 33480,
+			"y": 31197,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 238,
-			"xTile": 130,
-			"yPosition": 217,
-			"yTile": 121
+			"x": 33518,
+			"y": 31193,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 239,
-			"xTile": 130,
-			"yPosition": 230,
-			"yTile": 121
+			"x": 33519,
+			"y": 31206,
+			"z": 4
 		}
 	],
 	"13112104": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 44,
-			"xTile": 131,
-			"yPosition": 255,
-			"yTile": 121
+			"x": 33580,
+			"y": 31231,
+			"z": 4
 		},
 		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
-			"xPosition": 51,
-			"xTile": 131,
-			"yPosition": 237,
-			"yTile": 121
+			"x": 33587,
+			"y": 31213,
+			"z": 4
 		}
 	],
 	"13112204": [
 		{
 			"description": "",
 			"icon": "up",
-			"xPosition": 16,
-			"xTile": 131,
-			"yPosition": 84,
-			"yTile": 122
+			"x": 33552,
+			"y": 31316,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 19,
-			"xTile": 131,
-			"yPosition": 79,
-			"yTile": 122
+			"x": 33555,
+			"y": 31311,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 59,
-			"xTile": 131,
-			"yPosition": 11,
-			"yTile": 122
+			"x": 33595,
+			"y": 31243,
+			"z": 4
 		}
 	],
 	"13112404": [
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 78,
-			"xTile": 131,
-			"yPosition": 44,
-			"yTile": 124
+			"x": 33614,
+			"y": 31788,
+			"z": 4
 		},
 		{
 			"description": "",
 			"icon": "down",
-			"xPosition": 84,
-			"xTile": 131,
-			"yPosition": 48,
-			"yTile": 124
+			"x": 33620,
+			"y": 31792,
+			"z": 4
 		},
 		{
 			"description": "NPC Jondrin",
 			"icon": "!",
-			"xPosition": 115,
-			"xTile": 131,
-			"yPosition": 140,
-			"yTile": 124
+			"x": 33651,
+			"y": 31884,
+			"z": 4
 		}
 	]
 }
