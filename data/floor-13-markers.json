@@ -43,6 +43,22 @@
 			"z": 13
 		}
 	],
+	"12512813": [
+		{
+			"description": "Treasure chest (3 gold ingots)",
+			"icon": "star",
+			"x": 32139,
+			"y": 32978,
+			"z": 13
+		},
+		{
+			"description": "Treasure chest (bejeweled ship’s telescope)",
+			"icon": "star",
+			"x": 32143,
+			"y": 32968,
+			"z": 13
+		}
+	],
 	"12612313": [
 		{
 			"description": "Way out",
