@@ -1866,6 +1866,20 @@
 			"z": 7
 		},
 		{
+			"description": "Exit",
+			"icon": "down",
+			"x": 33008,
+			"y": 32622,
+			"z": 7
+		},
+		{
+			"description": "Northern Kha'zeel Dragon Lair",
+			"icon": "down",
+			"x": 33009,
+			"y": 32604,
+			"z": 7
+		},
+		{
 			"description": "Behemoths",
 			"icon": "red down",
 			"x": 33013,

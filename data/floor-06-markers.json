@@ -360,6 +360,22 @@
 			"z": 6
 		}
 	],
+	"12812706": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33008,
+			"y": 32618,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33014,
+			"y": 32618,
+			"z": 6
+		}
+	],
 	"12912106": [
 		{
 			"description": "Silver ewer (daily spawn)",
