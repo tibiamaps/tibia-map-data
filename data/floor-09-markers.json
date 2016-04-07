@@ -29,6 +29,13 @@
 			"x": 31966,
 			"y": 32864,
 			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31993,
+			"y": 32791,
+			"z": 9
 		}
 	],
 	"12512109": [
@@ -111,10 +118,31 @@
 	],
 	"12512809": [
 		{
+			"description": "Diblis the Fair (rare spawn)",
+			"icon": "red down",
+			"x": 32003,
+			"y": 32792,
+			"z": 9
+		},
+		{
 			"description": "Portal (red gem)",
 			"icon": "down",
 			"x": 32009,
 			"y": 32928,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32036,
+			"y": 32821,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32040,
+			"y": 32858,
 			"z": 9
 		},
 		{

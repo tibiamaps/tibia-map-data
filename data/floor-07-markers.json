@@ -47,6 +47,29 @@
 			"z": 7
 		}
 	],
+	"12412807": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31980,
+			"y": 32800,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31987,
+			"y": 32832,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31992,
+			"y": 32827,
+			"z": 7
+		}
+	],
 	"12512107": [
 		{
 			"description": "Quara scouts",
@@ -1321,6 +1344,13 @@
 			"z": 7
 		},
 		{
+			"description": "Rottin Wood",
+			"icon": "mouth",
+			"x": 32657,
+			"y": 32201,
+			"z": 7
+		},
+		{
 			"description": "Rabbits",
 			"icon": "down",
 			"x": 32690,
@@ -1859,6 +1889,13 @@
 			"z": 7
 		},
 		{
+			"description": "Hidden shovel hole (treasure hunt quest)",
+			"icon": "down",
+			"x": 32844,
+			"y": 32775,
+			"z": 7
+		},
+		{
 			"description": "Medusa Tower entrance",
 			"icon": "red down",
 			"x": 32853,
@@ -2095,6 +2132,13 @@
 			"icon": "sword",
 			"x": 33181,
 			"y": 31791,
+			"z": 7
+		},
+		{
+			"description": "Daniel Steelsoul",
+			"icon": "mouth",
+			"x": 33191,
+			"y": 31795,
 			"z": 7
 		},
 		{

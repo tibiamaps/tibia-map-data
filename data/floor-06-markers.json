@@ -1,4 +1,20 @@
 {
+	"12412806": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31992,
+			"y": 32827,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31998,
+			"y": 32876,
+			"z": 6
+		}
+	],
 	"12512106": [
 		{
 			"description": "",
@@ -309,6 +325,13 @@
 			"z": 6
 		},
 		{
+			"description": "To Boozer",
+			"icon": "up",
+			"x": 32921,
+			"y": 32072,
+			"z": 6
+		},
+		{
 			"description": "Temple",
 			"icon": "cross",
 			"x": 32953,
@@ -393,6 +416,13 @@
 	"12912406": [
 		{
 			"description": "To NPC Spectulus",
+			"icon": "up",
+			"x": 33263,
+			"y": 31835,
+			"z": 6
+		},
+		{
+			"description": "To Spectulus",
 			"icon": "up",
 			"x": 33263,
 			"y": 31835,
