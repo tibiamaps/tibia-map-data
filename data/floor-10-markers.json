@@ -633,6 +633,15 @@
 			"z": 10
 		}
 	],
+	"13012510": [
+		{
+			"description": "Glooth slide to depot",
+			"icon": "flag",
+			"x": 33392,
+			"y": 32086,
+			"z": 10
+		}
+	],
 	"13012710": [
 		{
 			"description": "",
@@ -667,7 +676,14 @@
 	],
 	"13112410": [
 		{
-			"description": "Abandoned Sewers",
+			"description": "Levitate spot",
+			"icon": "up",
+			"x": 33537,
+			"y": 31975,
+			"z": 10
+		},
+		{
+			"description": "Abandoned sewers (demons & grim reapers)",
 			"icon": "!",
 			"x": 33549,
 			"y": 31974,
