@@ -3254,10 +3254,129 @@
 			"z": 7
 		},
 		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33637,
+			"y": 32484,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33643,
+			"y": 32469,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33646,
+			"y": 32481,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33653,
+			"y": 32453,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33657,
+			"y": 32463,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33657,
+			"y": 32499,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33658,
+			"y": 32480,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33658,
+			"y": 32494,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33666,
+			"y": 32473,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33670,
+			"y": 32498,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33672,
+			"y": 32474,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33676,
+			"y": 32475,
+			"z": 7
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 33678,
 			"y": 32473,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33680,
+			"y": 32489,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33681,
+			"y": 32497,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33695,
+			"y": 32484,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33697,
+			"y": 32490,
+			"z": 7
+		},
+		{
+			"description": "Large pile of various bones",
+			"icon": "flag",
+			"x": 33707,
+			"y": 32488,
 			"z": 7
 		}
 	],
