@@ -220,6 +220,22 @@
 			"z": 11
 		}
 	],
+	"12712211": [
+		{
+			"description": "Shortcut to Beregar",
+			"icon": "flag",
+			"x": 32603,
+			"y": 31339,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32604,
+			"y": 31321,
+			"z": 11
+		}
+	],
 	"12712311": [
 		{
 			"description": "3. To Demona",
@@ -435,6 +451,34 @@
 			"x": 32799,
 			"y": 32501,
 			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32968,
+			"y": 32409,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32997,
+			"y": 32397,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33004,
+			"y": 32480,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33012,
+			"y": 32457,
+			"z": 11
 		}
 	],
 	"12812711": [
@@ -572,6 +616,13 @@
 		}
 	],
 	"12912611": [
+		{
+			"description": "Teleport to Halls of Sacrifice",
+			"icon": "flag",
+			"x": 33046,
+			"y": 32439,
+			"z": 11
+		},
 		{
 			"description": "",
 			"icon": "down",

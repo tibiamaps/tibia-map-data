@@ -3387,6 +3387,13 @@
 			"x": 33552,
 			"y": 32538,
 			"z": 7
+		},
+		{
+			"description": "To the Silencer Plateau",
+			"icon": "up",
+			"x": 33654,
+			"y": 32522,
+			"z": 7
 		}
 	]
 }

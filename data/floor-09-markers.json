@@ -267,6 +267,13 @@
 	],
 	"12712209": [
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32523,
+			"y": 31307,
+			"z": 9
+		},
+		{
 			"description": "Use pick on cracks to get down",
 			"icon": "red down",
 			"x": 32566,

@@ -208,6 +208,22 @@
 			"z": 10
 		}
 	],
+	"12712210": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32558,
+			"y": 31337,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32604,
+			"y": 31321,
+			"z": 10
+		}
+	],
 	"12712310": [
 		{
 			"description": "13. To Demona",
@@ -427,13 +443,6 @@
 			"z": 10
 		},
 		{
-			"description": "To Vampire Crypts",
-			"icon": "down",
-			"x": 32995,
-			"y": 32449,
-			"z": 10
-		},
-		{
 			"description": "Star Room",
 			"icon": "red down",
 			"x": 32997,
@@ -445,6 +454,13 @@
 			"icon": "up",
 			"x": 33003,
 			"y": 32412,
+			"z": 10
+		},
+		{
+			"description": "To the Vampire Crypts",
+			"icon": "down",
+			"x": 33004,
+			"y": 32480,
 			"z": 10
 		}
 	],

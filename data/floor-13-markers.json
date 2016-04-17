@@ -109,6 +109,13 @@
 	],
 	"12712313": [
 		{
+			"description": "Shortcut towards exit",
+			"icon": "flag",
+			"x": 32599,
+			"y": 31504,
+			"z": 13
+		},
+		{
 			"description": "To Draconia",
 			"icon": "up",
 			"x": 32739,

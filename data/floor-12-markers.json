@@ -289,6 +289,20 @@
 			"z": 12
 		},
 		{
+			"description": "The Pale Count",
+			"icon": "down",
+			"x": 33001,
+			"y": 32432,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33012,
+			"y": 32457,
+			"z": 12
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 33012,
