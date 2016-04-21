@@ -718,9 +718,9 @@
 	"13112606": [
 		{
 			"description": "Bowl of tea leaves",
-			"icon": "!",
+			"icon": "star",
 			"x": 33673,
-			"y": 32360,
+			"y": 32359,
 			"z": 6
 		}
 	]
