@@ -15,7 +15,7 @@
 			"z": 13
 		},
 		{
-			"description": "Glowing vortex",
+			"description": "Glowing vortex (teleport to exit)",
 			"icon": "star",
 			"x": 32115,
 			"y": 31355,
@@ -61,6 +61,15 @@
 			"icon": "up",
 			"x": 32155,
 			"y": 31342,
+			"z": 13
+		}
+	],
+	"12512513": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32255,
+			"y": 32192,
 			"z": 13
 		}
 	],
