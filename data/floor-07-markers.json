@@ -107,6 +107,20 @@
 			"z": 7
 		},
 		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"x": 32171,
+			"y": 31161,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32179,
+			"y": 31230,
+			"z": 7
+		},
+		{
 			"description": "To GCTS",
 			"icon": "down",
 			"x": 32191,
@@ -2432,6 +2446,13 @@
 			"icon": "red down",
 			"x": 33161,
 			"y": 32598,
+			"z": 7
+		},
+		{
+			"description": "Strange vortex",
+			"icon": "?",
+			"x": 33168,
+			"y": 32626,
 			"z": 7
 		},
 		{

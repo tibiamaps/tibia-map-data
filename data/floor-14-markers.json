@@ -29,6 +29,36 @@
 			"z": 14
 		}
 	],
+	"12512214": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32093,
+			"y": 31326,
+			"z": 14
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32113,
+			"y": 31317,
+			"z": 14
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32121,
+			"y": 31330,
+			"z": 14
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32132,
+			"y": 31334,
+			"z": 14
+		}
+	],
 	"12512414": [
 		{
 			"description": "Hidden pick hole",

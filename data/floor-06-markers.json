@@ -31,6 +31,13 @@
 			"z": 6
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32179,
+			"y": 31230,
+			"z": 6
+		},
+		{
 			"description": "Offline training",
 			"icon": "sword",
 			"x": 32249,
@@ -39,6 +46,13 @@
 		}
 	],
 	"12512206": [
+		{
+			"description": "Strange vortex",
+			"icon": "?",
+			"x": 32164,
+			"y": 31294,
+			"z": 6
+		},
 		{
 			"description": "",
 			"icon": "up",

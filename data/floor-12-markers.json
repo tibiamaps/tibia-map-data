@@ -82,6 +82,78 @@
 			"z": 12
 		}
 	],
+	"12512212": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32111,
+			"y": 31362,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32114,
+			"y": 31347,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32116,
+			"y": 31334,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32118,
+			"y": 31340,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32119,
+			"y": 31382,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32137,
+			"y": 31326,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32140,
+			"y": 31386,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32143,
+			"y": 31345,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32155,
+			"y": 31342,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32160,
+			"y": 31352,
+			"z": 12
+		}
+	],
 	"12512712": [
 		{
 			"description": "",
