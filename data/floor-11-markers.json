@@ -1,4 +1,20 @@
 {
+	"12412211": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31974,
+			"y": 31335,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31989,
+			"y": 31334,
+			"z": 11
+		}
+	],
 	"12512111": [
 		{
 			"description": "",
@@ -32,6 +48,41 @@
 	"12512211": [
 		{
 			"description": "",
+			"icon": "down",
+			"x": 32006,
+			"y": 31382,
+			"z": 11
+		},
+		{
+			"description": "Glowing vortex (teleport to exit)",
+			"icon": "star",
+			"x": 32015,
+			"y": 31357,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32018,
+			"y": 31384,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32043,
+			"y": 31352,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32047,
+			"y": 31362,
+			"z": 11
+		},
+		{
+			"description": "",
 			"icon": "up",
 			"x": 32106,
 			"y": 31238,
@@ -56,6 +107,13 @@
 			"icon": "down",
 			"x": 32119,
 			"y": 31382,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32140,
+			"y": 31386,
 			"z": 11
 		},
 		{

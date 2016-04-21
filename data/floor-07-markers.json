@@ -1963,6 +1963,13 @@
 	],
 	"12912207": [
 		{
+			"description": "Strange vortex",
+			"icon": "?",
+			"x": 33034,
+			"y": 31371,
+			"z": 7
+		},
+		{
 			"description": "Gnarlhounds",
 			"icon": "red down",
 			"x": 33104,
@@ -2088,6 +2095,13 @@
 			"icon": "red down",
 			"x": 33163,
 			"y": 31636,
+			"z": 7
+		},
+		{
+			"description": "Strange vortex",
+			"icon": "?",
+			"x": 33193,
+			"y": 31643,
 			"z": 7
 		},
 		{
