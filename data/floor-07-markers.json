@@ -1330,6 +1330,13 @@
 	],
 	"12712507": [
 		{
+			"description": "To glowing vortex: instable breach broods / instable sparkions",
+			"icon": "red down",
+			"x": 32541,
+			"y": 32021,
+			"z": 7
+		},
+		{
 			"description": "Key 3302",
 			"icon": "star",
 			"x": 32610,
@@ -1963,7 +1970,7 @@
 	],
 	"12912207": [
 		{
-			"description": "Strange vortex",
+			"description": "Glowing vortex",
 			"icon": "?",
 			"x": 33034,
 			"y": 31371,
@@ -2098,9 +2105,9 @@
 			"z": 7
 		},
 		{
-			"description": "Strange vortex",
+			"description": "Glowing vortex",
 			"icon": "?",
-			"x": 33193,
+			"x": 33192,
 			"y": 31643,
 			"z": 7
 		},
@@ -2463,7 +2470,7 @@
 			"z": 7
 		},
 		{
-			"description": "Strange vortex",
+			"description": "Glowing vortex",
 			"icon": "?",
 			"x": 33168,
 			"y": 32626,

@@ -183,6 +183,69 @@
 			"x": 32277,
 			"y": 32419,
 			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32432,
+			"y": 32385,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32434,
+			"y": 32379,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32441,
+			"y": 32411,
+			"z": 10
+		},
+		{
+			"description": "Glowing vortex (teleport to exit)",
+			"icon": "star",
+			"x": 32446,
+			"y": 32390,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32447,
+			"y": 32407,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32462,
+			"y": 32422,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32464,
+			"y": 32396,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32468,
+			"y": 32415,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32473,
+			"y": 32391,
+			"z": 10
 		}
 	],
 	"12612810": [

@@ -521,6 +521,15 @@
 			"z": 8
 		}
 	],
+	"12712508": [
+		{
+			"description": "Glowing vortex (teleport to Otherworld)",
+			"icon": "star",
+			"x": 32520,
+			"y": 32020,
+			"z": 8
+		}
+	],
 	"12712708": [
 		{
 			"description": "",
