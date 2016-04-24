@@ -128,6 +128,13 @@
 			"z": 12
 		},
 		{
+			"description": "Teleport to Anomaly waiting room",
+			"icon": "star",
+			"x": 32106,
+			"y": 31329,
+			"z": 12
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 32111,

@@ -57,6 +57,13 @@
 			"x": 32132,
 			"y": 31334,
 			"z": 14
+		},
+		{
+			"description": "Teleport to the Heart of Destruction",
+			"icon": "!",
+			"x": 32213,
+			"y": 31378,
+			"z": 14
 		}
 	],
 	"12512414": [
