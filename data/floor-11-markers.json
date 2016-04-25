@@ -136,6 +136,20 @@
 			"x": 32162,
 			"y": 31327,
 			"z": 11
+		},
+		{
+			"description": "Teleport to ??? (green vortex)",
+			"icon": "star",
+			"x": 32187,
+			"y": 31352,
+			"z": 11
+		},
+		{
+			"description": "To Foreshock/Aftershock/Realityquake waiting room",
+			"icon": "star",
+			"x": 32232,
+			"y": 31359,
+			"z": 11
 		}
 	],
 	"12512711": [
