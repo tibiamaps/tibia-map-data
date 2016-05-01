@@ -47,7 +47,7 @@ These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWik
 
 1. Install [Node.js v4+](https://nodejs.org/en/).
 
-2. Install the `tibia-maps` command-line utility:
+2. Install [the `tibia-maps` command-line utility](https://github.com/tibiamaps/tibia-maps-script):
 
     ```sh
     npm install -g tibia-maps

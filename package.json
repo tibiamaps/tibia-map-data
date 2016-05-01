@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "@alrra/travis-scripts": "^2.1.0",
+    "@alrra/travis-scripts": "^3.0.1",
     "imagemin-cli": "^2.1.0",
     "jsesc": "^1.0.0",
     "tibia-maps": "*"
