@@ -151,6 +151,20 @@
 			"z": 7
 		},
 		{
+			"description": "Glowing vortex",
+			"icon": "?",
+			"x": 32153,
+			"y": 31286,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32164,
+			"y": 31293,
+			"z": 7
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 32187,
@@ -1330,7 +1344,7 @@
 	],
 	"12712507": [
 		{
-			"description": "To glowing vortex: instable breach broods / instable sparkions",
+			"description": "To glowing vortex: instable breach broods & instable sparkions",
 			"icon": "red down",
 			"x": 32541,
 			"y": 32021,

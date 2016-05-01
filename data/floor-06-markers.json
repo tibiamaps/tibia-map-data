@@ -47,10 +47,10 @@
 	],
 	"12512206": [
 		{
-			"description": "Glowing vortex",
-			"icon": "?",
-			"x": 32164,
-			"y": 31294,
+			"description": "To glowing vortex: breach broods, dread intruders, sparkions",
+			"icon": "red down",
+			"x": 32163,
+			"y": 31293,
 			"z": 6
 		},
 		{
