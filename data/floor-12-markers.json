@@ -205,22 +205,6 @@
 			"z": 12
 		}
 	],
-	"12512512": [
-		{
-			"description": "Pitfall",
-			"icon": "red down",
-			"x": 32248,
-			"y": 32182,
-			"z": 12
-		},
-		{
-			"description": "Pitfall",
-			"icon": "red down",
-			"x": 32252,
-			"y": 32175,
-			"z": 12
-		}
-	],
 	"12512712": [
 		{
 			"description": "",
@@ -370,20 +354,6 @@
 		}
 	],
 	"12612512": [
-		{
-			"description": "Pitfall",
-			"icon": "red down",
-			"x": 32258,
-			"y": 32187,
-			"z": 12
-		},
-		{
-			"description": "Pitfall",
-			"icon": "red down",
-			"x": 32261,
-			"y": 32188,
-			"z": 12
-		},
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
