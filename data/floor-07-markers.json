@@ -1984,8 +1984,8 @@
 	],
 	"12912207": [
 		{
-			"description": "Glowing vortex",
-			"icon": "?",
+			"description": "To glowing vortex",
+			"icon": "red down",
 			"x": 33034,
 			"y": 31371,
 			"z": 7
