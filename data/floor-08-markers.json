@@ -829,6 +829,20 @@
 			"z": 8
 		},
 		{
+			"description": "Glowing vortex",
+			"icon": "?",
+			"x": 33158,
+			"y": 32635,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33168,
+			"y": 32638,
+			"z": 8
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 33236,

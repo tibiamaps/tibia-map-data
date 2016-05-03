@@ -2484,10 +2484,10 @@
 			"z": 7
 		},
 		{
-			"description": "Glowing vortex",
-			"icon": "?",
-			"x": 33168,
-			"y": 32626,
+			"description": "To glowing vortex",
+			"icon": "red down",
+			"x": 33167,
+			"y": 32638,
 			"z": 7
 		},
 		{
