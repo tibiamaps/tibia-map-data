@@ -716,6 +716,13 @@
 	],
 	"12912208": [
 		{
+			"description": "Glowing vortex",
+			"icon": "?",
+			"x": 33026,
+			"y": 31369,
+			"z": 8
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 33034,
