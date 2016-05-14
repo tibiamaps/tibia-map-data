@@ -704,6 +704,15 @@
 			"z": 9
 		}
 	],
+	"12912709": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33043,
+			"y": 32554,
+			"z": 9
+		}
+	],
 	"13012109": [
 		{
 			"description": "",
@@ -866,13 +875,6 @@
 		}
 	],
 	"13112409": [
-		{
-			"description": "Levitate spot (shortcut to abandoned sewers)",
-			"icon": "down",
-			"x": 33537,
-			"y": 31976,
-			"z": 9
-		},
 		{
 			"description": "To exit",
 			"icon": "up",
