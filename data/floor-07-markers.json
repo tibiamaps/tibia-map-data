@@ -2233,10 +2233,24 @@
 			"z": 7
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 33216,
+			"y": 31756,
+			"z": 7
+		},
+		{
 			"description": "Fury Gate (world change)",
 			"icon": "!",
 			"x": 33221,
 			"y": 31922,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33241,
+			"y": 31767,
 			"z": 7
 		},
 		{

@@ -1,4 +1,34 @@
 {
+	"12412710": [
+		{
+			"description": "Undead cavebear (spawn location)",
+			"icon": "star",
+			"x": 31913,
+			"y": 32561,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31947,
+			"y": 32593,
+			"z": 10
+		},
+		{
+			"description": "Undead cavebear (spawn location)",
+			"icon": "star",
+			"x": 31961,
+			"y": 32587,
+			"z": 10
+		},
+		{
+			"description": "Undead cavebear (spawn location)",
+			"icon": "star",
+			"x": 31980,
+			"y": 32575,
+			"z": 10
+		}
+	],
 	"12512110": [
 		{
 			"description": "",

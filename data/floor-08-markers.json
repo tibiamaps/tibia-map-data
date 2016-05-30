@@ -28,6 +28,13 @@
 	],
 	"12412708": [
 		{
+			"description": "Way to Lich Hell",
+			"icon": "down",
+			"x": 31936,
+			"y": 32594,
+			"z": 8
+		},
+		{
 			"description": "To Lich Hell",
 			"icon": "down",
 			"x": 31968,

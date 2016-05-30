@@ -8,7 +8,14 @@
 			"z": 9
 		},
 		{
-			"description": "Litch Hell <hidden>",
+			"description": "To exit",
+			"icon": "up",
+			"x": 31936,
+			"y": 32594,
+			"z": 9
+		},
+		{
+			"description": "Lich Hell (hidden pick hole)",
 			"icon": "red down",
 			"x": 31947,
 			"y": 32593,
