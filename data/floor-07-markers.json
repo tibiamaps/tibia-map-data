@@ -2591,6 +2591,13 @@
 			"z": 7
 		},
 		{
+			"description": "PvE arena",
+			"icon": "skull",
+			"x": 33134,
+			"y": 32861,
+			"z": 7
+		},
+		{
 			"description": "Ankrahmun Library Tomb (boss: Ashmunrah)",
 			"icon": "!",
 			"x": 33142,

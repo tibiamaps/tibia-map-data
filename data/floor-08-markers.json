@@ -493,6 +493,13 @@
 			"z": 8
 		},
 		{
+			"description": "PvE arena",
+			"icon": "skull",
+			"x": 32602,
+			"y": 31915,
+			"z": 8
+		},
+		{
 			"description": "PvP arena",
 			"icon": "skull",
 			"x": 32603,
