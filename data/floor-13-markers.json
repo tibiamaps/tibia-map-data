@@ -1,6 +1,13 @@
 {
 	"12512213": [
 		{
+			"description": "Teleport to Rupture waiting room",
+			"icon": "star",
+			"x": 32089,
+			"y": 31319,
+			"z": 13
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 32093,
