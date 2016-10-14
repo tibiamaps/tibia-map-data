@@ -35,9 +35,9 @@ That way, as soon as the maps are updated here, your project gets the same updat
 
 ## Contributing
 
-Not sure where to explore? [View the open issues.](https://github.com/tibiamaps/tibia-map-data/issues?q=is%3Aissue+is%3Aopen)
+Did you discover an area that’s missing from our maps? [Let us know!](https://github.com/tibiamaps/tibia-map-data/issues/new)
 
-The easiest and best way to contribute maps is to create a [Tibiacast](https://www.tibiacast.com/) recording of you exploring the area, walking along the edges as closely as possible. Then, [file an issue linking to your recording](https://github.com/tibiamaps/tibia-map-data/issues/new). **This method of contribution is strongly preferred.**
+Not sure where to explore? [View the open issues.](https://github.com/tibiamaps/tibia-map-data/issues?q=is%3Aissue+is%3Aopen)
 
 Alternatively, if you’re comfortable using command-line tools and Git, you could follow the instructions below to work with the map files directly. Use the official Tibia client to update your maps, [convert the maps to PNGs and JSON](#map--png--json), and submit a pull request containing your changes.
 
