@@ -671,6 +671,20 @@
 	"12812708": [
 		{
 			"description": "",
+			"icon": "up",
+			"x": 32870,
+			"y": 32669,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32902,
+			"y": 32515,
+			"z": 8
+		},
+		{
+			"description": "",
 			"icon": "red down",
 			"x": 32985,
 			"y": 32755,
