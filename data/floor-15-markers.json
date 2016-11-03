@@ -90,6 +90,13 @@
 			"z": 15
 		},
 		{
+			"description": "Teleport to Lloyd (boss) waiting room",
+			"icon": "flag",
+			"x": 32849,
+			"y": 32689,
+			"z": 15
+		},
+		{
 			"description": "Time machine",
 			"icon": "star",
 			"x": 32870,

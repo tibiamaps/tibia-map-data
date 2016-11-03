@@ -929,6 +929,48 @@
 			"z": 7
 		},
 		{
+			"description": "Portal of black energy",
+			"icon": "flag",
+			"x": 32325,
+			"y": 32087,
+			"z": 7
+		},
+		{
+			"description": "Portal of violet energy",
+			"icon": "flag",
+			"x": 32328,
+			"y": 32087,
+			"z": 7
+		},
+		{
+			"description": "Portal of green energy (teleport to  Outlaw Camp)",
+			"icon": "flag",
+			"x": 32331,
+			"y": 32087,
+			"z": 7
+		},
+		{
+			"description": "Portal of orange energy (teleport to northern Zao)",
+			"icon": "flag",
+			"x": 32334,
+			"y": 32087,
+			"z": 7
+		},
+		{
+			"description": "Portal of blue energy (teleport to Formorgar mines)",
+			"icon": "flag",
+			"x": 32337,
+			"y": 32087,
+			"z": 7
+		},
+		{
+			"description": "Portal of golden energy",
+			"icon": "flag",
+			"x": 32340,
+			"y": 32087,
+			"z": 7
+		},
+		{
 			"description": "Depot & bank",
 			"icon": "lock",
 			"x": 32347,
@@ -1362,6 +1404,13 @@
 			"icon": "star",
 			"x": 32617,
 			"y": 32251,
+			"z": 7
+		},
+		{
+			"description": "Portal of green energy",
+			"icon": "star",
+			"x": 32637,
+			"y": 32255,
 			"z": 7
 		},
 		{
@@ -3241,6 +3290,13 @@
 			"icon": "up",
 			"x": 33312,
 			"y": 31133,
+			"z": 7
+		},
+		{
+			"description": "Portal of orange energy",
+			"icon": "star",
+			"x": 33341,
+			"y": 31167,
 			"z": 7
 		},
 		{

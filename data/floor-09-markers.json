@@ -384,10 +384,38 @@
 	],
 	"12812309": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32797,
+			"y": 31655,
+			"z": 9
+		},
+		{
 			"description": "Thais",
 			"icon": "?",
 			"x": 32805,
 			"y": 31743,
+			"z": 9
+		},
+		{
+			"description": "Spider web (ghostsilver lantern)",
+			"icon": "star",
+			"x": 32825,
+			"y": 31664,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32827,
+			"y": 31665,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32849,
+			"y": 31697,
 			"z": 9
 		},
 		{

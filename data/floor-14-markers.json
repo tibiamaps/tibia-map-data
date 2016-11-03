@@ -268,6 +268,15 @@
 			"z": 14
 		}
 	],
+	"12712814": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32767,
+			"y": 32816,
+			"z": 14
+		}
+	],
 	"12812414": [
 		{
 			"description": "Red Crystal",
@@ -330,9 +339,18 @@
 			"z": 14
 		}
 	],
+	"12812814": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32795,
+			"y": 32876,
+			"z": 14
+		}
+	],
 	"12912314": [
 		{
-			"description": "To the Time Guardian",
+			"description": "To Time Guardian (boss) waiting room",
 			"icon": "!",
 			"x": 33024,
 			"y": 31664,

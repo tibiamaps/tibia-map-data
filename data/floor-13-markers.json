@@ -222,6 +222,15 @@
 			"z": 13
 		}
 	],
+	"12712813": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32767,
+			"y": 32816,
+			"z": 13
+		}
+	],
 	"12812313": [
 		{
 			"description": "To Draconia",
@@ -374,6 +383,29 @@
 			"icon": "down",
 			"x": 32783,
 			"y": 32609,
+			"z": 13
+		}
+	],
+	"12812813": [
+		{
+			"description": "Exit",
+			"icon": "flag",
+			"x": 32786,
+			"y": 32818,
+			"z": 13
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32795,
+			"y": 32876,
+			"z": 13
+		},
+		{
+			"description": "To Lloyd (boss)",
+			"icon": "!",
+			"x": 32815,
+			"y": 32870,
 			"z": 13
 		}
 	],

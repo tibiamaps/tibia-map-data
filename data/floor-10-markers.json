@@ -45,6 +45,13 @@
 			"z": 10
 		},
 		{
+			"description": "Portal of blue energy (teleport to Thais)",
+			"icon": "star",
+			"x": 32205,
+			"y": 31036,
+			"z": 10
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 32241,
@@ -384,6 +391,20 @@
 		}
 	],
 	"12812310": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32797,
+			"y": 31655,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32827,
+			"y": 31665,
+			"z": 10
+		},
 		{
 			"description": "Magic store",
 			"icon": "star",
