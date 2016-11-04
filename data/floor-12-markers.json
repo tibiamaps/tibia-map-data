@@ -96,6 +96,13 @@
 			"x": 32241,
 			"y": 31198,
 			"z": 12
+		},
+		{
+			"description": "Mystic flame",
+			"icon": "star",
+			"x": 32247,
+			"y": 31030,
+			"z": 12
 		}
 	],
 	"12512212": [
@@ -248,6 +255,22 @@
 			"icon": "star",
 			"x": 32107,
 			"y": 32788,
+			"z": 12
+		}
+	],
+	"12612112": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32278,
+			"y": 31037,
+			"z": 12
+		},
+		{
+			"description": "Mystic flame to NPC A Dragon Mother",
+			"icon": "star",
+			"x": 32299,
+			"y": 31025,
 			"z": 12
 		}
 	],

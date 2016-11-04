@@ -140,6 +140,29 @@
 			"z": 13
 		}
 	],
+	"12612113": [
+		{
+			"description": "Mystic flame",
+			"icon": "star",
+			"x": 32272,
+			"y": 31052,
+			"z": 13
+		},
+		{
+			"description": "Mystic flame",
+			"icon": "star",
+			"x": 32299,
+			"y": 31028,
+			"z": 13
+		},
+		{
+			"description": "NPC A Dragon Mother",
+			"icon": "mouth",
+			"x": 32306,
+			"y": 31021,
+			"z": 13
+		}
+	],
 	"12612313": [
 		{
 			"description": "Way out",

@@ -54,6 +54,13 @@
 		{
 			"description": "",
 			"icon": "down",
+			"x": 32220,
+			"y": 31015,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
 			"x": 32241,
 			"y": 31045,
 			"z": 10
