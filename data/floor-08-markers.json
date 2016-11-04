@@ -937,9 +937,23 @@
 		},
 		{
 			"description": "",
+			"icon": "down",
+			"x": 33411,
+			"y": 31186,
+			"z": 8
+		},
+		{
+			"description": "",
 			"icon": "up",
 			"x": 33480,
 			"y": 31203,
+			"z": 8
+		},
+		{
+			"description": "Exit",
+			"icon": "up",
+			"x": 33515,
+			"y": 31102,
 			"z": 8
 		}
 	],

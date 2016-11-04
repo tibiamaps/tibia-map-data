@@ -762,6 +762,41 @@
 			"x": 33306,
 			"y": 31125,
 			"z": 9
+		},
+		{
+			"description": "Teleport",
+			"icon": "!",
+			"x": 33396,
+			"y": 31129,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33411,
+			"y": 31185,
+			"z": 9
+		},
+		{
+			"description": "NPC A Strange Chalice",
+			"icon": "mouth",
+			"x": 33419,
+			"y": 31125,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33421,
+			"y": 31129,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33428,
+			"y": 31137,
+			"z": 9
 		}
 	],
 	"13012309": [

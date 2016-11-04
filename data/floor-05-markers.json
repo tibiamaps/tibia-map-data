@@ -269,6 +269,20 @@
 	],
 	"13012105": [
 		{
+			"description": "Dark cave entrance",
+			"icon": "flag",
+			"x": 33334,
+			"y": 31150,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33336,
+			"y": 31164,
+			"z": 5
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 33483,

@@ -511,6 +511,20 @@
 		{
 			"description": "",
 			"icon": "up",
+			"x": 33336,
+			"y": 31164,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33344,
+			"y": 31167,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"x": 33483,
 			"y": 31199,
 			"z": 6
