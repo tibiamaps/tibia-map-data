@@ -943,7 +943,7 @@
 			"z": 7
 		},
 		{
-			"description": "Portal of green energy (teleport to  Outlaw Camp)",
+			"description": "Portal of green energy (teleport to Outlaw Camp)",
 			"icon": "flag",
 			"x": 32331,
 			"y": 32087,
@@ -1407,7 +1407,7 @@
 			"z": 7
 		},
 		{
-			"description": "Portal of green energy",
+			"description": "Portal of green energy (teleport to Halls of Hope)",
 			"icon": "star",
 			"x": 32637,
 			"y": 32255,
@@ -3293,7 +3293,7 @@
 			"z": 7
 		},
 		{
-			"description": "Portal of orange energy",
+			"description": "Portal of orange energy (teleport to Halls of Hope)",
 			"icon": "star",
 			"x": 33341,
 			"y": 31167,
