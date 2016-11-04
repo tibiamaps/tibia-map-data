@@ -90,8 +90,8 @@
 			"z": 15
 		},
 		{
-			"description": "Teleport to Lloyd (boss) waiting room",
-			"icon": "flag",
+			"description": "Teleport to Lloyd waiting room",
+			"icon": "star",
 			"x": 32849,
 			"y": 32689,
 			"z": 15

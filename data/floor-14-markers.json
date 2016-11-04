@@ -350,8 +350,8 @@
 	],
 	"12912314": [
 		{
-			"description": "To Time Guardian (boss) waiting room",
-			"icon": "!",
+			"description": "Teleport to Time Guardian waiting room",
+			"icon": "star",
 			"x": 33024,
 			"y": 31664,
 			"z": 14

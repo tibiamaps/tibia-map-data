@@ -777,6 +777,20 @@
 	],
 	"13012110": [
 		{
+			"description": "Teleport to Dragonking Zyrtarch waiting room",
+			"icon": "star",
+			"x": 33408,
+			"y": 31171,
+			"z": 10
+		},
+		{
+			"description": "Back to main cave",
+			"icon": "flag",
+			"x": 33412,
+			"y": 31081,
+			"z": 10
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 33421,

@@ -778,8 +778,8 @@
 			"z": 9
 		},
 		{
-			"description": "Teleport",
-			"icon": "!",
+			"description": "Teleport towards Dragonking Zyrtarch",
+			"icon": "flag",
 			"x": 33396,
 			"y": 31129,
 			"z": 9
