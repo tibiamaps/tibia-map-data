@@ -1408,7 +1408,7 @@
 		},
 		{
 			"description": "Portal of green energy (teleport to Halls of Hope)",
-			"icon": "star",
+			"icon": "flag",
 			"x": 32637,
 			"y": 32255,
 			"z": 7
@@ -1455,6 +1455,20 @@
 			"icon": "red down",
 			"x": 32590,
 			"y": 32314,
+			"z": 7
+		},
+		{
+			"description": "NPC Weakened Forest Fury",
+			"icon": "mouth",
+			"x": 32615,
+			"y": 32269,
+			"z": 7
+		},
+		{
+			"description": "To the glade",
+			"icon": "down",
+			"x": 32616,
+			"y": 32265,
 			"z": 7
 		}
 	],
