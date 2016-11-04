@@ -133,6 +133,29 @@
 			"z": 14
 		}
 	],
+	"12612114": [
+		{
+			"description": "Dragon egg",
+			"icon": "star",
+			"x": 32269,
+			"y": 31084,
+			"z": 14
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"x": 32316,
+			"y": 31093,
+			"z": 14
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32323,
+			"y": 31095,
+			"z": 14
+		}
+	],
 	"12612414": [
 		{
 			"description": "High class dwarves",
