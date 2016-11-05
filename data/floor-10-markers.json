@@ -436,6 +436,27 @@
 			"z": 10
 		},
 		{
+			"description": "Old desk",
+			"icon": "star",
+			"x": 32860,
+			"y": 31644,
+			"z": 10
+		},
+		{
+			"description": "Heap of rubbish (painting of a girl)",
+			"icon": "star",
+			"x": 32883,
+			"y": 31686,
+			"z": 10
+		},
+		{
+			"description": "Hidden door",
+			"icon": "flag",
+			"x": 32891,
+			"y": 31619,
+			"z": 10
+		},
+		{
 			"description": "Magic store",
 			"icon": "star",
 			"x": 33010,

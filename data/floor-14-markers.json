@@ -300,6 +300,22 @@
 			"z": 14
 		}
 	],
+	"12812314": [
+		{
+			"description": "Teleport to Lady Tenebris waiting room",
+			"icon": "star",
+			"x": 32915,
+			"y": 31637,
+			"z": 14
+		},
+		{
+			"description": "Hidden door",
+			"icon": "flag",
+			"x": 32924,
+			"y": 31636,
+			"z": 14
+		}
+	],
 	"12812414": [
 		{
 			"description": "Red Crystal",
