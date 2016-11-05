@@ -1214,10 +1214,66 @@
 			"z": 7
 		},
 		{
+			"description": "To temple",
+			"icon": "red down",
+			"x": 32596,
+			"y": 31687,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red down",
+			"x": 32599,
+			"y": 31669,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red left",
+			"x": 32601,
+			"y": 31672,
+			"z": 7
+		},
+		{
 			"description": "Temple",
 			"icon": "cross",
 			"x": 32607,
 			"y": 31680,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red right",
+			"x": 32616,
+			"y": 31665,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red right",
+			"x": 32616,
+			"y": 31694,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red left",
+			"x": 32617,
+			"y": 31698,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "red right",
+			"x": 32623,
+			"y": 31689,
+			"z": 7
+		},
+		{
+			"description": "To temple",
+			"icon": "red left",
+			"x": 32627,
+			"y": 31702,
 			"z": 7
 		},
 		{
