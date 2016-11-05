@@ -388,6 +388,13 @@
 			"z": 10
 		},
 		{
+			"description": "Tree",
+			"icon": "star",
+			"x": 32737,
+			"y": 32117,
+			"z": 10
+		},
+		{
 			"description": "Teleport to exit",
 			"icon": "!",
 			"x": 32751,

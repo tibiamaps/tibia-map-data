@@ -293,6 +293,20 @@
 	],
 	"12712814": [
 		{
+			"description": "Teleport to Thorn Knight waiting room",
+			"icon": "star",
+			"x": 32676,
+			"y": 32888,
+			"z": 14
+		},
+		{
+			"description": "Back to cave",
+			"icon": "flag",
+			"x": 32720,
+			"y": 32925,
+			"z": 14
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 32767,
