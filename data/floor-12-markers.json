@@ -424,6 +424,20 @@
 	],
 	"12712512": [
 		{
+			"description": "Pile of bones",
+			"icon": "star",
+			"x": 32568,
+			"y": 32085,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32580,
+			"y": 32103,
+			"z": 12
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 32658,

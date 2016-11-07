@@ -479,6 +479,20 @@
 	],
 	"12712511": [
 		{
+			"description": "Hidden pick hole",
+			"icon": "red down",
+			"x": 32580,
+			"y": 32103,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32587,
+			"y": 32070,
+			"z": 11
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 32646,
