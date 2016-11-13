@@ -102,6 +102,29 @@
 			"z": 3
 		}
 	],
+	"12712403": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32589,
+			"y": 31950,
+			"z": 3
+		},
+		{
+			"description": "Key 3801 (copper key)",
+			"icon": "red down",
+			"x": 32624,
+			"y": 31929,
+			"z": 3
+		},
+		{
+			"description": "",
+			"icon": "red left",
+			"x": 32636,
+			"y": 31907,
+			"z": 3
+		}
+	],
 	"12812303": [
 		{
 			"description": "",

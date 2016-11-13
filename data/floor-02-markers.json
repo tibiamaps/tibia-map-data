@@ -24,6 +24,13 @@
 			"z": 2
 		},
 		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"x": 32093,
+			"y": 31188,
+			"z": 2
+		},
+		{
 			"description": "Task boss: The Bloodtusk",
 			"icon": "!",
 			"x": 32104,

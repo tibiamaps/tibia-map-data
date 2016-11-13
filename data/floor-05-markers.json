@@ -176,6 +176,20 @@
 	],
 	"12712405": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32607,
+			"y": 31925,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32618,
+			"y": 31927,
+			"z": 5
+		},
+		{
 			"description": "Magic store",
 			"icon": "star",
 			"x": 32630,

@@ -298,6 +298,20 @@
 	],
 	"12712406": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32602,
+			"y": 31923,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32607,
+			"y": 31925,
+			"z": 6
+		},
+		{
 			"description": "Key 5000 (silver key)",
 			"icon": "?",
 			"x": 32726,

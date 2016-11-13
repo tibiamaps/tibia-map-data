@@ -270,6 +270,13 @@
 	],
 	"12812313": [
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32798,
+			"y": 31611,
+			"z": 13
+		},
+		{
 			"description": "To Draconia",
 			"icon": "down",
 			"x": 32825,
@@ -461,6 +468,13 @@
 			"icon": "red down",
 			"x": 33094,
 			"y": 31626,
+			"z": 13
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33144,
+			"y": 31589,
 			"z": 13
 		},
 		{

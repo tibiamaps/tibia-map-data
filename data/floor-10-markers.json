@@ -347,6 +347,13 @@
 			"x": 32521,
 			"y": 31726,
 			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32612,
+			"y": 31683,
+			"z": 10
 		}
 	],
 	"12712410": [
@@ -695,6 +702,36 @@
 			"icon": "mouth",
 			"x": 33034,
 			"y": 31530,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33136,
+			"y": 31593,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33169,
+			"y": 31588,
+			"z": 10
+		}
+	],
+	"12912410": [
+		{
+			"description": "Deathstrike spawn tile",
+			"icon": "!",
+			"x": 33101,
+			"y": 31956,
+			"z": 10
+		},
+		{
+			"description": "Teleport to Deathstrike boss room",
+			"icon": "star",
+			"x": 33104,
+			"y": 31908,
 			"z": 10
 		}
 	],

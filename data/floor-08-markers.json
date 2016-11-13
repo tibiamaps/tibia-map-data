@@ -463,6 +463,13 @@
 			"z": 8
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32603,
+			"y": 31704,
+			"z": 8
+		},
+		{
 			"description": "Offline training",
 			"icon": "sword",
 			"x": 32690,
@@ -1083,6 +1090,13 @@
 		}
 	],
 	"13012708": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33290,
+			"y": 32602,
+			"z": 8
+		},
 		{
 			"description": "",
 			"icon": "down",

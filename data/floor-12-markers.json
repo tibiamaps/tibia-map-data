@@ -447,6 +447,13 @@
 	],
 	"12812312": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32788,
+			"y": 31596,
+			"z": 12
+		},
+		{
 			"description": "To Draconia",
 			"icon": "down",
 			"x": 32826,
@@ -523,6 +530,22 @@
 			"z": 12
 		}
 	],
+	"12912312": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33144,
+			"y": 31589,
+			"z": 12
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33150,
+			"y": 31595,
+			"z": 12
+		}
+	],
 	"12912412": [
 		{
 			"description": "",
@@ -536,6 +559,20 @@
 			"icon": "up",
 			"x": 33049,
 			"y": 31784,
+			"z": 12
+		},
+		{
+			"description": "Stack tile for pre-boss Versperoth",
+			"icon": "star",
+			"x": 33069,
+			"y": 31883,
+			"z": 12
+		},
+		{
+			"description": "Abyssador spawn tile",
+			"icon": "!",
+			"x": 33090,
+			"y": 31911,
 			"z": 12
 		},
 		{

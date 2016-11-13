@@ -148,6 +148,22 @@
 			"z": 4
 		}
 	],
+	"12712404": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32589,
+			"y": 31950,
+			"z": 4
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32618,
+			"y": 31927,
+			"z": 4
+		}
+	],
 	"12812304": [
 		{
 			"description": "Flying carpet",

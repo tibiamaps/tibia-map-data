@@ -2,7 +2,7 @@
 	"12412207": [
 		{
 			"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
-			"icon": "red down",
+			"icon": "down",
 			"x": 31924,
 			"y": 31355,
 			"z": 7
@@ -1723,6 +1723,13 @@
 			"z": 7
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32829,
+			"y": 31040,
+			"z": 7
+		},
+		{
 			"description": "To the Magician Quarter",
 			"icon": "up",
 			"x": 32833,
@@ -1899,6 +1906,13 @@
 			"z": 7
 		},
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32996,
+			"y": 32412,
+			"z": 7
+		},
+		{
 			"description": "To exit",
 			"icon": "down",
 			"x": 33018,
@@ -2006,7 +2020,7 @@
 			"z": 7
 		},
 		{
-			"description": "Dwarfs",
+			"description": "Dwarves",
 			"icon": "red down",
 			"x": 32979,
 			"y": 32660,
@@ -2919,14 +2933,14 @@
 		},
 		{
 			"description": "Nomads",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33214,
 			"y": 32552,
 			"z": 7
 		},
 		{
 			"description": "Larvas / scarabs",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33219,
 			"y": 32640,
 			"z": 7
@@ -3017,7 +3031,7 @@
 		},
 		{
 			"description": "Mother of Scarabs Lair",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33236,
 			"y": 32576,
 			"z": 7
@@ -3045,7 +3059,7 @@
 		},
 		{
 			"description": "Larvas / scarabs / ancient scarabs",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33257,
 			"y": 32742,
 			"z": 7
@@ -3343,7 +3357,7 @@
 	"13012107": [
 		{
 			"description": "Brimstone bugs",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33292,
 			"y": 31140,
 			"z": 7
@@ -3501,7 +3515,7 @@
 		},
 		{
 			"description": "Were-creatures",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33353,
 			"y": 31670,
 			"z": 7
@@ -3545,7 +3559,7 @@
 		},
 		{
 			"description": "Rotworms / bog raiders",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33303,
 			"y": 31784,
 			"z": 7
@@ -3573,7 +3587,7 @@
 		},
 		{
 			"description": "Hydra cave",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33517,
 			"y": 31906,
 			"z": 7
@@ -3581,8 +3595,8 @@
 	],
 	"13012507": [
 		{
-			"description": "Dwarfs",
-			"icon": "red down",
+			"description": "Dwarves",
+			"icon": "down",
 			"x": 33347,
 			"y": 32031,
 			"z": 7
@@ -3598,7 +3612,7 @@
 		},
 		{
 			"description": "Rotworms",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33293,
 			"y": 32314,
 			"z": 7
@@ -3670,14 +3684,14 @@
 		},
 		{
 			"description": "Mother of Scarabs Lair",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33290,
-			"y": 32602,
+			"y": 32603,
 			"z": 7
 		},
 		{
 			"description": "Cultists <hidden>",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33315,
 			"y": 32674,
 			"z": 7
@@ -3872,7 +3886,7 @@
 		},
 		{
 			"description": "Hidden pick hole (opticording sphere quest)",
-			"icon": "red down",
+			"icon": "down",
 			"x": 33709,
 			"y": 31687,
 			"z": 7
