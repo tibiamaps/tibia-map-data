@@ -4115,6 +4115,13 @@
 			"z": 7
 		},
 		{
+			"description": "Roshamuul Prison",
+			"icon": "down",
+			"x": 33589,
+			"y": 32432,
+			"z": 7
+		},
+		{
 			"description": "Bowl of tea leaves",
 			"icon": "star",
 			"x": 33601,
