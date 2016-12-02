@@ -3,7 +3,7 @@
   "devDependencies": {
     "@alrra/travis-scripts": "^3.0.1",
     "imagemin-cli": "^2.1.0",
-    "jsesc": "^1.0.0",
+    "jsesc": "^2.2.0",
     "tibia-maps": "*"
   },
   "scripts": {
