@@ -199,6 +199,27 @@
 	],
 	"12612410": [
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32401,
+			"y": 31990,
+			"z": 10
+		},
+		{
+			"description": "Dwarfs",
+			"icon": "down",
+			"x": 32428,
+			"y": 31989,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32443,
+			"y": 31993,
+			"z": 10
+		},
+		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"x": 32475,
@@ -222,10 +243,45 @@
 	],
 	"12612510": [
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32405,
+			"y": 32032,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32416,
+			"y": 32022,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32423,
+			"y": 32010,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32427,
+			"y": 32032,
+			"z": 10
+		},
+		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
 			"x": 32437,
 			"y": 32239,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32442,
+			"y": 32023,
 			"z": 10
 		}
 	],

@@ -238,6 +238,20 @@
 	],
 	"12612409": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32401,
+			"y": 31990,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32404,
+			"y": 31995,
+			"z": 9
+		},
+		{
 			"description": "To NPC A Dwarven Ghost",
 			"icon": "down",
 			"x": 32475,
@@ -251,6 +265,69 @@
 			"icon": "flag",
 			"x": 32330,
 			"y": 32173,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32403,
+			"y": 32068,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32405,
+			"y": 32033,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32416,
+			"y": 32023,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32418,
+			"y": 32041,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32423,
+			"y": 32010,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32431,
+			"y": 32064,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32442,
+			"y": 32015,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32442,
+			"y": 32022,
+			"z": 9
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32442,
+			"y": 32023,
 			"z": 9
 		}
 	],

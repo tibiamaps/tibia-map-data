@@ -376,6 +376,13 @@
 			"z": 12
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32438,
+			"y": 31967,
+			"z": 12
+		},
+		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"x": 32503,

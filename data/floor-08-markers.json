@@ -390,6 +390,13 @@
 	],
 	"12612408": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 32404,
+			"y": 31995,
+			"z": 8
+		},
+		{
 			"description": "Dwarven pickaxe (daily spawn)",
 			"icon": "bag",
 			"x": 32492,
@@ -403,6 +410,64 @@
 			"icon": "red down",
 			"x": 32395,
 			"y": 32110,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32403,
+			"y": 32068,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32410,
+			"y": 32008,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32418,
+			"y": 32041,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32431,
+			"y": 32064,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32442,
+			"y": 32015,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32442,
+			"y": 32022,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32448,
+			"y": 32069,
+			"z": 8
+		}
+	],
+	"12612608": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32346,
+			"y": 32360,
 			"z": 8
 		}
 	],

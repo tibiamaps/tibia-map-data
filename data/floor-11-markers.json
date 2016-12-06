@@ -318,10 +318,31 @@
 			"z": 11
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32428,
+			"y": 31989,
+			"z": 11
+		},
+		{
 			"description": "To NPC A Dwarven Ghost",
 			"icon": "down",
 			"x": 32438,
 			"y": 31902,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32438,
+			"y": 31967,
+			"z": 11
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32443,
+			"y": 31992,
 			"z": 11
 		},
 		{
