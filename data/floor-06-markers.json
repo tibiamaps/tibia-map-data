@@ -590,10 +590,38 @@
 	],
 	"13112106": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 33545,
+			"y": 31040,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33553,
+			"y": 31032,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33556,
+			"y": 31015,
+			"z": 6
+		},
+		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
 			"x": 33565,
 			"y": 31218,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33567,
+			"y": 31038,
 			"z": 6
 		},
 		{

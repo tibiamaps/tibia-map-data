@@ -212,6 +212,15 @@
 			"z": 12
 		}
 	],
+	"12512512": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32251,
+			"y": 32112,
+			"z": 12
+		}
+	],
 	"12512712": [
 		{
 			"description": "",
@@ -398,6 +407,13 @@
 		}
 	],
 	"12612512": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32261,
+			"y": 32110,
+			"z": 12
+		},
 		{
 			"description": "Hidden pick hole",
 			"icon": "red down",

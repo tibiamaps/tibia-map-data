@@ -75,6 +75,13 @@
 		{
 			"description": "",
 			"icon": "up",
+			"x": 32251,
+			"y": 32112,
+			"z": 13
+		},
+		{
+			"description": "",
+			"icon": "up",
 			"x": 32255,
 			"y": 32192,
 			"z": 13
@@ -201,6 +208,13 @@
 		}
 	],
 	"12612513": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32261,
+			"y": 32110,
+			"z": 13
+		},
 		{
 			"description": "To exit",
 			"icon": "up",

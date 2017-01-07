@@ -3433,6 +3433,13 @@
 			"z": 7
 		},
 		{
+			"description": "NPC Lora",
+			"icon": "mouth",
+			"x": 33470,
+			"y": 31023,
+			"z": 7
+		},
+		{
 			"description": "Insectoid cell (gooey mass)",
 			"icon": "!",
 			"x": 33479,
@@ -3444,6 +3451,13 @@
 			"icon": "down",
 			"x": 33480,
 			"y": 31203,
+			"z": 7
+		},
+		{
+			"description": "NPC Vigintius",
+			"icon": "mouth",
+			"x": 33491,
+			"y": 31036,
 			"z": 7
 		},
 		{
@@ -3734,10 +3748,31 @@
 	],
 	"13112107": [
 		{
+			"description": "Nostalgia arena",
+			"icon": "skull",
+			"x": 33547,
+			"y": 31038,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33567,
+			"y": 31038,
+			"z": 7
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 33596,
 			"y": 31217,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33630,
+			"y": 31026,
 			"z": 7
 		}
 	],
