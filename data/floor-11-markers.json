@@ -530,6 +530,29 @@
 			"z": 11
 		}
 	],
+	"12812311": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32999,
+			"y": 31611,
+			"z": 11
+		},
+		{
+			"description": "Teleport to Zorvorax boss room",
+			"icon": "!",
+			"x": 33003,
+			"y": 31593,
+			"z": 11
+		},
+		{
+			"description": "Teleport to exit",
+			"icon": "flag",
+			"x": 33019,
+			"y": 31605,
+			"z": 11
+		}
+	],
 	"12812411": [
 		{
 			"description": "",
@@ -821,6 +844,13 @@
 		}
 	],
 	"12912311": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33064,
+			"y": 31598,
+			"z": 11
+		},
 		{
 			"description": "Hidden pick hole (fire axe quest)",
 			"icon": "red down",

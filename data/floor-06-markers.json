@@ -466,6 +466,20 @@
 	],
 	"12912406": [
 		{
+			"description": "",
+			"icon": "down",
+			"x": 33216,
+			"y": 31757,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33241,
+			"y": 31767,
+			"z": 6
+		},
+		{
 			"description": "To NPC Spectulus",
 			"icon": "up",
 			"x": 33263,
@@ -509,6 +523,13 @@
 			"icon": "down",
 			"x": 33026,
 			"y": 32710,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33171,
+			"y": 32552,
 			"z": 6
 		}
 	],

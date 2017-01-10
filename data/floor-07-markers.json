@@ -2869,6 +2869,20 @@
 			"z": 7
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 33176,
+			"y": 32529,
+			"z": 7
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33177,
+			"y": 32557,
+			"z": 7
+		},
+		{
 			"description": "Digging spot (Gold Digger achievement)",
 			"icon": "star",
 			"x": 33201,

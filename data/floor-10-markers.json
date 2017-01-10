@@ -541,6 +541,13 @@
 			"z": 10
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32989,
+			"y": 31625,
+			"z": 10
+		},
+		{
 			"description": "Magic store",
 			"icon": "star",
 			"x": 33010,
@@ -758,6 +765,13 @@
 			"icon": "mouth",
 			"x": 33034,
 			"y": 31530,
+			"z": 10
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33064,
+			"y": 31598,
 			"z": 10
 		},
 		{
