@@ -441,6 +441,22 @@
 			"z": 6
 		}
 	],
+	"12912206": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 33164,
+			"y": 31322,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33166,
+			"y": 31329,
+			"z": 6
+		}
+	],
 	"12912306": [
 		{
 			"description": "Levitate spot",

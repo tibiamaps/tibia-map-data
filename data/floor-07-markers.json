@@ -2201,6 +2201,13 @@
 			"z": 7
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 33166,
+			"y": 31329,
+			"z": 7
+		},
+		{
 			"description": "NPC Curos",
 			"icon": "mouth",
 			"x": 33172,

@@ -242,6 +242,20 @@
 	],
 	"12912205": [
 		{
+			"description": "Teleport to Kalyassa boss room",
+			"icon": "!",
+			"x": 33160,
+			"y": 31320,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33164,
+			"y": 31322,
+			"z": 5
+		},
+		{
 			"description": "",
 			"icon": "down",
 			"x": 33176,
