@@ -634,6 +634,13 @@
 			"x": 33048,
 			"y": 32457,
 			"z": 12
+		},
+		{
+			"description": "Teleport to Tazhadur boss room",
+			"icon": "!",
+			"x": 33234,
+			"y": 32276,
+			"z": 12
 		}
 	],
 	"12912812": [
