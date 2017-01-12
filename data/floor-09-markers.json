@@ -1,4 +1,13 @@
 {
+	"12412609": [
+		{
+			"description": "Small lava pool (use to exit)",
+			"icon": "star",
+			"x": 31993,
+			"y": 32390,
+			"z": 9
+		}
+	],
 	"12412709": [
 		{
 			"description": "Serpent spawns / medusas",
@@ -97,6 +106,15 @@
 			"icon": "?",
 			"x": 32107,
 			"y": 31568,
+			"z": 9
+		}
+	],
+	"12512609": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32013,
+			"y": 32390,
 			"z": 9
 		}
 	],

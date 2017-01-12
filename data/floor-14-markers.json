@@ -687,6 +687,20 @@
 			"x": 33570,
 			"y": 31216,
 			"z": 14
+		},
+		{
+			"description": "Return to NPC Kizar",
+			"icon": "flag",
+			"x": 33583,
+			"y": 30988,
+			"z": 14
+		},
+		{
+			"description": "Teleport to The First Dragon waiting room",
+			"icon": "star",
+			"x": 33597,
+			"y": 30996,
+			"z": 14
 		}
 	],
 	"13112214": [

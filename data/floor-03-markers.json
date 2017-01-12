@@ -134,6 +134,22 @@
 			"z": 3
 		}
 	],
+	"12912703": [
+		{
+			"description": "Small lava pool (use to enter)",
+			"icon": "star",
+			"x": 33047,
+			"y": 32712,
+			"z": 3
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 33050,
+			"y": 32717,
+			"z": 3
+		}
+	],
 	"13012103": [
 		{
 			"description": "Insectoid cell (gooey mass)",
