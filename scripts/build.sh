@@ -48,6 +48,19 @@ rm maps-with-markers.exp;
 # Preserve `dist/Automap-with-markers/*.map`.
 mv Automap Automap-with-markers;
 
+# Generate `walkable-tiles.json`.
+# https://tibiamaps.io/blog/walkable-tile-count
+echo 'Saving the total number of walkable tiles as `walkable-tiles.json`…';
+for file in Automap-without-markers/*.map; do
+	# Get just the pathfinding data, and count only walkable tiles.
+	# In other words, discard 0xFA (unexplored) and 0xFF (non-walkable) bytes.
+	# https://tibiamaps.io/guides/map-file-format#pathfinding-data
+	dd if="${file}" skip=65536 count=65536 \
+		iflag=skip_bytes,count_bytes status=none | \
+		tr -d $'\xFA\xFF' | \
+		wc -c;
+done | awk '{s+=$1} END {print s}' | tee walkable-tiles.json;
+
 # Create optimized versions of each `*.map` file, intended for online map
 # viewer usage. Only the map data is needed; the pathfinding data and marker
 # data can be removed.

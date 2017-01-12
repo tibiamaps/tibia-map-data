@@ -1,14 +1,23 @@
 language: node_js
 before_install:
-  - "sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test"
-  - "sudo apt-get update"
-  - "sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++-4.8 --force-yes"
-  - "export CXX='g++-4.8'"
+  - |
+    version=8.26
+    wget "https://ftp.gnu.org/gnu/coreutils/coreutils-${version}.tar.xz"
+    tar xf "coreutils-${version}.tar.xz"
+    rm -rf "coreutils-${version}.tar.xz"
+    cd "coreutils-${version}"
+    ./configure --quiet && make && sudo make install
+    cd ..
+    rm -rf "coreutils-${version}"
+  - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+  - sudo apt-get update
+  - sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++-4.8 --force-yes
+  - export CXX='g++-4.8'
 script:
-  - "tibia-maps --version"
-  - "tibia-maps --from-data=./data --output-dir=./Automap"
-  - "tibia-maps --from-maps=./Automap --output-dir=./data"
-  - "git status && git diff-index --quiet HEAD --"
+  - tibia-maps --version
+  - tibia-maps --from-data=./data --output-dir=./Automap
+  - tibia-maps --from-maps=./Automap --output-dir=./data
+  - git status && git diff-index --quiet HEAD --
 after_success:
   - $(npm bin)/set-up-ssh --key "${encrypted_a9c94e6c75dd_key}"
       --iv "${encrypted_a9c94e6c75dd_iv}"
