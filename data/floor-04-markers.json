@@ -1,4 +1,34 @@
 {
+	"12412804": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31936,
+			"y": 32946,
+			"z": 4
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31945,
+			"y": 32876,
+			"z": 4
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31949,
+			"y": 32907,
+			"z": 4
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31951,
+			"y": 32928,
+			"z": 4
+		}
+	],
 	"12512104": [
 		{
 			"description": "Levitate spot",

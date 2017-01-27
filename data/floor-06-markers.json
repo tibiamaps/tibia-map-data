@@ -2,6 +2,41 @@
 	"12412806": [
 		{
 			"description": "",
+			"icon": "up",
+			"x": 31947,
+			"y": 32916,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31950,
+			"y": 32891,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31951,
+			"y": 32870,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31955,
+			"y": 32907,
+			"z": 6
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31979,
+			"y": 32854,
+			"z": 6
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"x": 31992,
 			"y": 32827,

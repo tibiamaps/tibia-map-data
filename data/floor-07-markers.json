@@ -179,6 +179,13 @@
 			"z": 7
 		},
 		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"x": 32240,
+			"y": 31407,
+			"z": 7
+		},
+		{
 			"description": "",
 			"icon": "up",
 			"x": 32247,
@@ -1745,6 +1752,13 @@
 		},
 		{
 			"description": "",
+			"icon": "checkmark",
+			"x": 32785,
+			"y": 31035,
+			"z": 7
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"x": 32829,
 			"y": 31040,
@@ -2110,6 +2124,13 @@
 			"icon": "down",
 			"x": 32844,
 			"y": 32775,
+			"z": 7
+		},
+		{
+			"description": "Spider Caves",
+			"icon": "down",
+			"x": 32851,
+			"y": 32870,
 			"z": 7
 		},
 		{

@@ -1,6 +1,27 @@
 {
 	"12412803": [
 		{
+			"description": "",
+			"icon": "up",
+			"x": 31939,
+			"y": 32950,
+			"z": 3
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31943,
+			"y": 32928,
+			"z": 3
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31951,
+			"y": 32928,
+			"z": 3
+		},
+		{
 			"description": "Tavern",
 			"icon": "up",
 			"x": 31986,

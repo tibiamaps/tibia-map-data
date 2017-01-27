@@ -2,6 +2,62 @@
 	"12412805": [
 		{
 			"description": "",
+			"icon": "up",
+			"x": 31936,
+			"y": 32946,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31945,
+			"y": 32877,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31947,
+			"y": 32916,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 31949,
+			"y": 32907,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31950,
+			"y": 32891,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31951,
+			"y": 32870,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31955,
+			"y": 32907,
+			"z": 5
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"x": 31979,
+			"y": 32854,
+			"z": 5
+		},
+		{
+			"description": "",
 			"icon": "down",
 			"x": 31998,
 			"y": 32876,

@@ -826,6 +826,22 @@
 			"z": 8
 		}
 	],
+	"12812808": [
+		{
+			"description": "",
+			"icon": "down",
+			"x": 32843,
+			"y": 32887,
+			"z": 8
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32851,
+			"y": 32870,
+			"z": 8
+		}
+	],
 	"12912108": [
 		{
 			"description": "Task boss: Ethershreck",

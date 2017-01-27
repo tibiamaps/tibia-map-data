@@ -171,6 +171,13 @@
 			"z": 9
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32041,
+			"y": 32909,
+			"z": 9
+		},
+		{
 			"description": "Portal",
 			"icon": "down",
 			"x": 32078,
@@ -722,6 +729,13 @@
 		}
 	],
 	"12812809": [
+		{
+			"description": "",
+			"icon": "up",
+			"x": 32843,
+			"y": 32887,
+			"z": 9
+		},
 		{
 			"description": "Jar",
 			"icon": "checkmark",
