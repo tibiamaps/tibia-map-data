@@ -21,32 +21,40 @@ imagemin data/*.png "${DIST_DIR}/";
 cd "${DIST_DIR}";
 
 # Generate `dist/Automap-without-markers.zip`.
-file='Automap-without-markers.zip';
+suffix='without-markers.zip';
 echo 'Generating maps without markers…';
 tibia-maps --from-data=../data --output-dir=Automap --no-markers;
-echo "Saving maps without markers as \`${DIST_DIR}/${file}\`…";
-zip -q -FS -r "${file}" Automap --exclude */.git* */.DS_Store;
+echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
+zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
+echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
+#imagemin minimap/*.png --out-dir=minimap;
+zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
 tibia-maps --from-data=../data --flash-export-file=./maps-without-markers.exp --no-markers;
 file='export-without-markers.zip';
 echo "Saving maps export file without markers as \`${DIST_DIR}/${file}\`…";
 zip -q "${file}" maps-without-markers.exp;
 rm maps-without-markers.exp;
-# Preserve `dist/Automap-without-markers/*.map`.
+# Preserve `dist/{Automap,minimap}-without-markers`.
 mv Automap Automap-without-markers;
+mv minimap minimap-without-markers;
 
 # Generate `dist/Automap-with-markers.zip`.
-file='Automap-with-markers.zip';
+suffix='with-markers.zip';
 echo 'Generating maps with markers…';
 tibia-maps --from-data=../data --output-dir=Automap;
-echo "Saving maps without markers as \`${DIST_DIR}/${file}\`…";
-zip -q -FS -r "${file}" Automap --exclude */.git* */.DS_Store;
+echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
+zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
+echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
+#imagemin minimap/*.png --out-dir=minimap;
+zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
 tibia-maps --from-data=../data --flash-export-file=./maps-with-markers.exp;
 file='export-with-markers.zip';
 echo "Saving maps export file with markers as \`${DIST_DIR}/${file}\`…";
 zip -q -FS "${file}" maps-with-markers.exp;
 rm maps-with-markers.exp;
-# Preserve `dist/Automap-with-markers/*.map`.
+# Preserve `dist/{Automap,minimap}-with-markers`.
 mv Automap Automap-with-markers;
+mv minimap minimap-with-markers;
 
 # Generate `walkable-tiles.json`.
 # https://tibiamaps.io/blog/walkable-tile-count
