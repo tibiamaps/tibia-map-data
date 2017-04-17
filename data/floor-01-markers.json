@@ -1,0 +1,50 @@
+{
+	"12912401": [
+		{
+			"description": "Spectulus",
+			"icon": "mouth",
+			"xPosition": 244,
+			"xTile": 129,
+			"yPosition": 88,
+			"yTile": 124
+		}
+	],
+	"13012101": [
+		{
+			"description": "Outfit Chest; use 3× to get addons as well",
+			"icon": "flag",
+			"xPosition": 204,
+			"xTile": 130,
+			"yPosition": 222,
+			"yTile": 121
+		}
+	],
+	"13112101": [
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 40,
+			"xTile": 131,
+			"yPosition": 242,
+			"yTile": 121
+		},
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 55,
+			"xTile": 131,
+			"yPosition": 251,
+			"yTile": 121
+		}
+	],
+	"13112201": [
+		{
+			"description": "Insectoid Monolith",
+			"icon": "star",
+			"xPosition": 53,
+			"xTile": 131,
+			"yPosition": 2,
+			"yTile": 122
+		}
+	]
+}

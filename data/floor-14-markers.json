@@ -1,0 +1,574 @@
+{
+	"12512114": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 138,
+			"xTile": 125,
+			"yPosition": 136,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 179,
+			"xTile": 125,
+			"yPosition": 94,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 210,
+			"xTile": 125,
+			"yPosition": 52,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 119,
+			"xTile": 125,
+			"yPosition": 17,
+			"yTile": 121
+		}
+	],
+	"12612414": [
+		{
+			"description": "High Class Dwarves",
+			"icon": "red down",
+			"xPosition": 168,
+			"xTile": 126,
+			"yPosition": 109,
+			"yTile": 124
+		},
+		{
+			"description": "High Class Dwarves",
+			"icon": "red down",
+			"xPosition": 222,
+			"xTile": 126,
+			"yPosition": 229,
+			"yTile": 124
+		},
+		{
+			"description": "Lost Dwarves",
+			"icon": "red down",
+			"xPosition": 207,
+			"xTile": 126,
+			"yPosition": 243,
+			"yTile": 124
+		}
+	],
+	"12612514": [
+		{
+			"description": "To Mintwallin",
+			"icon": "down",
+			"xPosition": 228,
+			"xTile": 126,
+			"yPosition": 102,
+			"yTile": 125
+		},
+		{
+			"description": "To exit (shortcut through Bonelords)",
+			"icon": "down",
+			"xPosition": 255,
+			"xTile": 126,
+			"yPosition": 147,
+			"yTile": 125
+		}
+	],
+	"12712314": [
+		{
+			"description": "To Draconia",
+			"icon": "down",
+			"xPosition": 196,
+			"xTile": 127,
+			"yPosition": 214,
+			"yTile": 123
+		}
+	],
+	"12712414": [
+		{
+			"description": "Key: 3802 (Copper Key)",
+			"icon": "?",
+			"xPosition": 90,
+			"xTile": 127,
+			"yPosition": 230,
+			"yTile": 124
+		},
+		{
+			"description": "Lost Dwarves",
+			"icon": "red down",
+			"xPosition": 115,
+			"xTile": 127,
+			"yPosition": 107,
+			"yTile": 124
+		}
+	],
+	"12712514": [
+		{
+			"description": "To Mintwallin",
+			"icon": "up",
+			"xPosition": 40,
+			"xTile": 127,
+			"yPosition": 153,
+			"yTile": 125
+		},
+		{
+			"description": "Drillworms",
+			"icon": "red down",
+			"xPosition": 168,
+			"xTile": 127,
+			"yPosition": 61,
+			"yTile": 125
+		},
+		{
+			"description": "Drillworms",
+			"icon": "red down",
+			"xPosition": 58,
+			"xTile": 127,
+			"yPosition": 48,
+			"yTile": 125
+		},
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 127,
+			"yPosition": 179,
+			"yTile": 125
+		}
+	],
+	"12812414": [
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 219,
+			"xTile": 128,
+			"yPosition": 96,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 221,
+			"xTile": 128,
+			"yPosition": 109,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 224,
+			"xTile": 128,
+			"yPosition": 55,
+			"yTile": 124
+		}
+	],
+	"12912814": [
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 73,
+			"xTile": 129,
+			"yPosition": 198,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 87,
+			"xTile": 129,
+			"yPosition": 229,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 106,
+			"xTile": 129,
+			"yPosition": 176,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 100,
+			"xTile": 129,
+			"yPosition": 202,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 102,
+			"xTile": 129,
+			"yPosition": 218,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 127,
+			"xTile": 129,
+			"yPosition": 199,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 123,
+			"xTile": 129,
+			"yPosition": 234,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 113,
+			"xTile": 129,
+			"yPosition": 122,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 99,
+			"xTile": 129,
+			"yPosition": 94,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 67,
+			"xTile": 129,
+			"yPosition": 94,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 78,
+			"xTile": 129,
+			"yPosition": 123,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 71,
+			"xTile": 129,
+			"yPosition": 147,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 42,
+			"xTile": 129,
+			"yPosition": 159,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 24,
+			"xTile": 129,
+			"yPosition": 173,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 80,
+			"xTile": 129,
+			"yPosition": 175,
+			"yTile": 128
+		}
+	],
+	"13012114": [
+		{
+			"description": "Unstable Passage",
+			"icon": "up",
+			"xPosition": 227,
+			"xTile": 130,
+			"yPosition": 213,
+			"yTile": 121
+		}
+	],
+	"13012214": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 250,
+			"xTile": 130,
+			"yPosition": 7,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 255,
+			"xTile": 130,
+			"yPosition": 22,
+			"yTile": 122
+		},
+		{
+			"description": "Teleport to Gray Beach",
+			"icon": "star",
+			"xPosition": 160,
+			"xTile": 130,
+			"yPosition": 50,
+			"yTile": 122
+		}
+	],
+	"13012414": [
+		{
+			"description": "Levitate spot",
+			"icon": "up",
+			"xPosition": 120,
+			"xTile": 130,
+			"yPosition": 58,
+			"yTile": 124
+		}
+	],
+	"13112114": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 24,
+			"xTile": 131,
+			"yPosition": 253,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 24,
+			"xTile": 131,
+			"yPosition": 244,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 34,
+			"xTile": 131,
+			"yPosition": 240,
+			"yTile": 121
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 27,
+			"xTile": 131,
+			"yPosition": 232,
+			"yTile": 121
+		}
+	],
+	"13112214": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 3,
+			"xTile": 131,
+			"yPosition": 11,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 0,
+			"xTile": 131,
+			"yPosition": 5,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 20,
+			"xTile": 131,
+			"yPosition": 16,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 21,
+			"xTile": 131,
+			"yPosition": 18,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 38,
+			"xTile": 131,
+			"yPosition": 9,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 38,
+			"xTile": 131,
+			"yPosition": 13,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 43,
+			"xTile": 131,
+			"yPosition": 26,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 42,
+			"xTile": 131,
+			"yPosition": 44,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 44,
+			"xTile": 131,
+			"yPosition": 66,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 31,
+			"xTile": 131,
+			"yPosition": 63,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 19,
+			"xTile": 131,
+			"yPosition": 66,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 17,
+			"xTile": 131,
+			"yPosition": 62,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 22,
+			"xTile": 131,
+			"yPosition": 50,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 16,
+			"xTile": 131,
+			"yPosition": 36,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 1,
+			"xTile": 131,
+			"yPosition": 28,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 8,
+			"xTile": 131,
+			"yPosition": 5,
+			"yTile": 122
+		}
+	],
+	"13112414": [
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 62,
+			"xTile": 131,
+			"yPosition": 186,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 62,
+			"xTile": 131,
+			"yPosition": 217,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 78,
+			"xTile": 131,
+			"yPosition": 244,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 99,
+			"xTile": 131,
+			"yPosition": 215,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 125,
+			"xTile": 131,
+			"yPosition": 194,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 157,
+			"xTile": 131,
+			"yPosition": 186,
+			"yTile": 124
+		},
+		{
+			"description": "Boss TP",
+			"icon": "flag",
+			"xPosition": 190,
+			"xTile": 131,
+			"yPosition": 209,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 176,
+			"xTile": 131,
+			"yPosition": 217,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 138,
+			"xTile": 131,
+			"yPosition": 244,
+			"yTile": 124
+		}
+	]
+}

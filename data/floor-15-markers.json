@@ -1,0 +1,150 @@
+{
+	"12712315": [
+		{
+			"description": "To Draconia",
+			"icon": "up",
+			"xPosition": 173,
+			"xTile": 127,
+			"yPosition": 220,
+			"yTile": 123
+		},
+		{
+			"description": "Way out of Hellgate",
+			"icon": "up",
+			"xPosition": 149,
+			"xTile": 127,
+			"yPosition": 156,
+			"yTile": 123
+		}
+	],
+	"12712515": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 13,
+			"xTile": 127,
+			"yPosition": 145,
+			"yTile": 125
+		}
+	],
+	"12812715": [
+		{
+			"description": "Altar of the sceptre",
+			"icon": "star",
+			"xPosition": 33,
+			"xTile": 128,
+			"yPosition": 128,
+			"yTile": 127
+		}
+	],
+	"12912715": [
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 46,
+			"xTile": 129,
+			"yPosition": 125,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 49,
+			"xTile": 129,
+			"yPosition": 121,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 46,
+			"xTile": 129,
+			"yPosition": 117,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 52,
+			"xTile": 129,
+			"yPosition": 113,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 52,
+			"xTile": 129,
+			"yPosition": 109,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 46,
+			"xTile": 129,
+			"yPosition": 105,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 52,
+			"xTile": 129,
+			"yPosition": 101,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "flag",
+			"xPosition": 46,
+			"xTile": 129,
+			"yPosition": 97,
+			"yTile": 127
+		}
+	],
+	"13012315": [
+		{
+			"description": "Seaman’s Skull",
+			"icon": "crossmark",
+			"xPosition": 176,
+			"xTile": 130,
+			"yPosition": 160,
+			"yTile": 123
+		},
+		{
+			"description": "Seaman’s Skull",
+			"icon": "crossmark",
+			"xPosition": 165,
+			"xTile": 130,
+			"yPosition": 253,
+			"yTile": 123
+		}
+	],
+	"13012415": [
+		{
+			"description": "Seaman’s Skull",
+			"icon": "crossmark",
+			"xPosition": 220,
+			"xTile": 130,
+			"yPosition": 32,
+			"yTile": 124
+		},
+		{
+			"description": "Seaman’s Skull",
+			"icon": "crossmark",
+			"xPosition": 131,
+			"xTile": 130,
+			"yPosition": 147,
+			"yTile": 124
+		},
+		{
+			"description": "Seaman’s Skull",
+			"icon": "crossmark",
+			"xPosition": 194,
+			"xTile": 130,
+			"yPosition": 114,
+			"yTile": 124
+		}
+	]
+}

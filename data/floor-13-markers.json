@@ -1,0 +1,278 @@
+{
+	"12512713": [
+		{
+			"description": "Hellhounds",
+			"icon": "red down",
+			"xPosition": 48,
+			"xTile": 125,
+			"yPosition": 59,
+			"yTile": 127
+		}
+	],
+	"12612313": [
+		{
+			"description": "4. To Demona",
+			"icon": "red up",
+			"xPosition": 224,
+			"xTile": 126,
+			"yPosition": 158,
+			"yTile": 123
+		},
+		{
+			"description": "Monks",
+			"icon": "skull",
+			"xPosition": 164,
+			"xTile": 126,
+			"yPosition": 76,
+			"yTile": 123
+		},
+		{
+			"description": "Way out",
+			"icon": "flag",
+			"xPosition": 139,
+			"xTile": 126,
+			"yPosition": 120,
+			"yTile": 123
+		}
+	],
+	"12612513": [
+		{
+			"description": "To exit",
+			"icon": "up",
+			"xPosition": 238,
+			"xTile": 126,
+			"yPosition": 215,
+			"yTile": 125
+		}
+	],
+	"12712313": [
+		{
+			"description": "To Draconia",
+			"icon": "up",
+			"xPosition": 227,
+			"xTile": 127,
+			"yPosition": 67,
+			"yTile": 123
+		}
+	],
+	"12712413": [
+		{
+			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 85,
+			"xTile": 127,
+			"yPosition": 139,
+			"yTile": 124
+		}
+	],
+	"12712513": [
+		{
+			"description": "To Mintwallin",
+			"icon": "down",
+			"xPosition": 65,
+			"xTile": 127,
+			"yPosition": 179,
+			"yTile": 125
+		}
+	],
+	"12812313": [
+		{
+			"description": "To Draconia",
+			"icon": "down",
+			"xPosition": 57,
+			"xTile": 128,
+			"yPosition": 213,
+			"yTile": 123
+		}
+	],
+	"12812413": [
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 227,
+			"xTile": 128,
+			"yPosition": 43,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 233,
+			"xTile": 128,
+			"yPosition": 80,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 123,
+			"xTile": 128,
+			"yPosition": 149,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 111,
+			"xTile": 128,
+			"yPosition": 150,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 103,
+			"xTile": 128,
+			"yPosition": 158,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 99,
+			"xTile": 128,
+			"yPosition": 138,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 89,
+			"xTile": 128,
+			"yPosition": 166,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 75,
+			"xTile": 128,
+			"yPosition": 159,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 76,
+			"xTile": 128,
+			"yPosition": 151,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 81,
+			"xTile": 128,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "checkmark",
+			"xPosition": 85,
+			"xTile": 128,
+			"yPosition": 141,
+			"yTile": 124
+		}
+	],
+	"12812613": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 202,
+			"xTile": 128,
+			"yPosition": 132,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 186,
+			"xTile": 128,
+			"yPosition": 157,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 184,
+			"xTile": 128,
+			"yPosition": 129,
+			"yTile": 126
+		}
+	],
+	"12912313": [
+		{
+			"description": "Parchment Room Quest <Hidden>",
+			"icon": "red down",
+			"xPosition": 70,
+			"xTile": 129,
+			"yPosition": 138,
+			"yTile": 123
+		}
+	],
+	"12912413": [
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 10,
+			"xTile": 129,
+			"yPosition": 93,
+			"yTile": 124
+		},
+		{
+			"description": "Red Crystal",
+			"icon": "checkmark",
+			"xPosition": 15,
+			"xTile": 129,
+			"yPosition": 114,
+			"yTile": 124
+		}
+	],
+	"12912613": [
+		{
+			"description": "Elder Wyrms + Wyrms",
+			"icon": "red down",
+			"xPosition": 65,
+			"xTile": 129,
+			"yPosition": 128,
+			"yTile": 126
+		},
+		{
+			"description": "Elder Wyrms + Wyrms",
+			"icon": "red down",
+			"xPosition": 50,
+			"xTile": 129,
+			"yPosition": 114,
+			"yTile": 126
+		},
+		{
+			"description": "Elder Wyrms + Wyrms",
+			"icon": "red down",
+			"xPosition": 46,
+			"xTile": 129,
+			"yPosition": 152,
+			"yTile": 126
+		}
+	],
+	"12912813": [
+		{
+			"description": "Task Boss: Ribstride",
+			"icon": "!",
+			"xPosition": 85,
+			"xTile": 129,
+			"yPosition": 35,
+			"yTile": 128
+		}
+	],
+	"13012413": [
+		{
+			"description": "Levitate spot",
+			"icon": "down",
+			"xPosition": 119,
+			"xTile": 130,
+			"yPosition": 58,
+			"yTile": 124
+		}
+	]
+}

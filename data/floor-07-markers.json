@@ -1,0 +1,2602 @@
+{
+	"12412207": [
+		{
+			"description": "Ice Witches, Ice Golems, etc. 2nd floor: Crystal Spiders etc. 3th floor: Frost Dragons",
+			"icon": "red down",
+			"xPosition": 180,
+			"xTile": 124,
+			"yPosition": 123,
+			"yTile": 122
+		}
+	],
+	"12412507": [
+		{
+			"description": "Orc Fortress",
+			"icon": "skull",
+			"xPosition": 233,
+			"xTile": 124,
+			"yPosition": 157,
+			"yTile": 125
+		}
+	],
+	"12412707": [
+		{
+			"description": "To Portals",
+			"icon": "down",
+			"xPosition": 202,
+			"xTile": 124,
+			"yPosition": 44,
+			"yTile": 127
+		},
+		{
+			"description": "To Serpent Spawns",
+			"icon": "red down",
+			"xPosition": 191,
+			"xTile": 124,
+			"yPosition": 166,
+			"yTile": 127
+		},
+		{
+			"description": "To Portals",
+			"icon": "down",
+			"xPosition": 177,
+			"xTile": 124,
+			"yPosition": 144,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 171,
+			"xTile": 124,
+			"yPosition": 78,
+			"yTile": 127
+		}
+	],
+	"12512107": [
+		{
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 213,
+			"xTile": 125,
+			"yPosition": 157,
+			"yTile": 121
+		},
+		{
+			"description": "Quara Scouts",
+			"icon": "red down",
+			"xPosition": 24,
+			"xTile": 125,
+			"yPosition": 148,
+			"yTile": 121
+		},
+		{
+			"description": "Quara Scouts",
+			"icon": "red down",
+			"xPosition": 86,
+			"xTile": 125,
+			"yPosition": 117,
+			"yTile": 121
+		}
+	],
+	"12512207": [
+		{
+			"description": "Stone Golems",
+			"icon": "red down",
+			"xPosition": 98,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 122
+		},
+		{
+			"description": "Buddel",
+			"icon": "flag",
+			"xPosition": 21,
+			"xTile": 125,
+			"yPosition": 62,
+			"yTile": 122
+		}
+	],
+	"12512307": [
+		{
+			"description": "Boat to Tibia",
+			"icon": "flag",
+			"xPosition": 45,
+			"xTile": 125,
+			"yPosition": 90,
+			"yTile": 123
+		},
+		{
+			"description": "Boat to Tibia",
+			"icon": "flag",
+			"xPosition": 126,
+			"xTile": 125,
+			"yPosition": 177,
+			"yTile": 123
+		},
+		{
+			"description": "Boat to Tibia",
+			"icon": "flag",
+			"xPosition": 20,
+			"xTile": 125,
+			"yPosition": 204,
+			"yTile": 123
+		},
+		{
+			"description": "Boat to Folda, Senja, and Vega",
+			"icon": "flag",
+			"xPosition": 235,
+			"xTile": 125,
+			"yPosition": 186,
+			"yTile": 123
+		}
+	],
+	"12512407": [
+		{
+			"description": "Passage to Ghostland",
+			"icon": "down",
+			"xPosition": 218,
+			"xTile": 125,
+			"yPosition": 22,
+			"yTile": 124
+		},
+		{
+			"description": "Passage out of The Ghostlands",
+			"icon": "down",
+			"xPosition": 221,
+			"xTile": 125,
+			"yPosition": 36,
+			"yTile": 124
+		},
+		{
+			"description": "Boat to Isle of Kings",
+			"icon": "flag",
+			"xPosition": 211,
+			"xTile": 125,
+			"yPosition": 12,
+			"yTile": 124
+		},
+		{
+			"description": "Island of Destiny — Training Centre",
+			"icon": "!",
+			"xPosition": 99,
+			"xTile": 125,
+			"yPosition": 252,
+			"yTile": 124
+		},
+		{
+			"description": "Ship to Mainland",
+			"icon": "up",
+			"xPosition": 98,
+			"xTile": 125,
+			"yPosition": 242,
+			"yTile": 124
+		},
+		{
+			"description": "Spirit Grounds (World Change)",
+			"icon": "!",
+			"xPosition": 172,
+			"xTile": 125,
+			"yPosition": 42,
+			"yTile": 124
+		},
+		{
+			"description": "Brittle Skeletons and Rats",
+			"icon": "red down",
+			"xPosition": 66,
+			"xTile": 125,
+			"yPosition": 129,
+			"yTile": 124
+		},
+		{
+			"description": "Minotaurs",
+			"icon": "red down",
+			"xPosition": 50,
+			"xTile": 125,
+			"yPosition": 130,
+			"yTile": 124
+		},
+		{
+			"description": "Brittle Skeletons and Rats",
+			"icon": "red down",
+			"xPosition": 93,
+			"xTile": 125,
+			"yPosition": 117,
+			"yTile": 124
+		},
+		{
+			"description": "Goblins",
+			"icon": "red down",
+			"xPosition": 111,
+			"xTile": 125,
+			"yPosition": 159,
+			"yTile": 124
+		},
+		{
+			"description": "Goblins",
+			"icon": "red down",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 193,
+			"yTile": 124
+		},
+		{
+			"description": "Woodlings and Meadow Striders",
+			"icon": "red down",
+			"xPosition": 18,
+			"xTile": 125,
+			"yPosition": 176,
+			"yTile": 124
+		},
+		{
+			"description": "Woodlings and Meadow Striders",
+			"icon": "red down",
+			"xPosition": 72,
+			"xTile": 125,
+			"yPosition": 171,
+			"yTile": 124
+		},
+		{
+			"description": "Minotaurs",
+			"icon": "red down",
+			"xPosition": 35,
+			"xTile": 125,
+			"yPosition": 146,
+			"yTile": 124
+		},
+		{
+			"description": "NPC Woblin",
+			"icon": "down",
+			"xPosition": 21,
+			"xTile": 125,
+			"yPosition": 141,
+			"yTile": 124
+		}
+	],
+	"12512507": [
+		{
+			"description": "Rat Dungeon",
+			"icon": "down",
+			"xPosition": 41,
+			"xTile": 125,
+			"yPosition": 228,
+			"yTile": 125
+		},
+		{
+			"description": "To Hyacinth",
+			"icon": "up",
+			"xPosition": 139,
+			"xTile": 125,
+			"yPosition": 176,
+			"yTile": 125
+		},
+		{
+			"description": "Spider Lair",
+			"icon": "down",
+			"xPosition": 51,
+			"xTile": 125,
+			"yPosition": 110,
+			"yTile": 125
+		},
+		{
+			"description": "War Wolf Den",
+			"icon": "down",
+			"xPosition": 138,
+			"xTile": 125,
+			"yPosition": 132,
+			"yTile": 125
+		},
+		{
+			"description": "Troll Caves",
+			"icon": "down",
+			"xPosition": 94,
+			"xTile": 125,
+			"yPosition": 137,
+			"yTile": 125
+		},
+		{
+			"description": "Unholy Crypt",
+			"icon": "down",
+			"xPosition": 131,
+			"xTile": 125,
+			"yPosition": 201,
+			"yTile": 125
+		},
+		{
+			"description": "Wasps’ Nest",
+			"icon": "up",
+			"xPosition": 0,
+			"xTile": 125,
+			"yPosition": 139,
+			"yTile": 125
+		},
+		{
+			"description": "Lily’s Potion Shop",
+			"icon": "bag",
+			"xPosition": 68,
+			"xTile": 125,
+			"yPosition": 228,
+			"yTile": 125
+		},
+		{
+			"description": "Temple of Rookgaard",
+			"icon": "cross",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 219,
+			"yTile": 125
+		},
+		{
+			"description": "Weapon and Armor Shops",
+			"icon": "bag",
+			"xPosition": 106,
+			"xTile": 125,
+			"yPosition": 204,
+			"yTile": 125
+		},
+		{
+			"description": "The Academy",
+			"icon": "?",
+			"xPosition": 98,
+			"xTile": 125,
+			"yPosition": 196,
+			"yTile": 125
+		},
+		{
+			"description": "General Equipment Store",
+			"icon": "bag",
+			"xPosition": 60,
+			"xTile": 125,
+			"yPosition": 180,
+			"yTile": 125
+		},
+		{
+			"description": "Farms and Food Store",
+			"icon": "bag",
+			"xPosition": 65,
+			"xTile": 125,
+			"yPosition": 204,
+			"yTile": 125
+		},
+		{
+			"description": "Lee'Delle’s Premium Store",
+			"icon": "bag",
+			"xPosition": 26,
+			"xTile": 125,
+			"yPosition": 195,
+			"yTile": 125
+		},
+		{
+			"description": "Tom the Tanner",
+			"icon": "bag",
+			"xPosition": 82,
+			"xTile": 125,
+			"yPosition": 199,
+			"yTile": 125
+		},
+		{
+			"description": "North Bridge",
+			"icon": "up",
+			"xPosition": 91,
+			"xTile": 125,
+			"yPosition": 179,
+			"yTile": 125
+		},
+		{
+			"description": "West Bridge",
+			"icon": "up",
+			"xPosition": 26,
+			"xTile": 125,
+			"yPosition": 203,
+			"yTile": 125
+		},
+		{
+			"description": "Academy",
+			"icon": "flag",
+			"xPosition": 104,
+			"xTile": 125,
+			"yPosition": 196,
+			"yTile": 125
+		},
+		{
+			"description": "Barn",
+			"icon": "flag",
+			"xPosition": 82,
+			"xTile": 125,
+			"yPosition": 182,
+			"yTile": 125
+		},
+		{
+			"description": "Norma’s Bar",
+			"icon": "bag",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 181,
+			"yTile": 125
+		},
+		{
+			"description": "Obi’s Shop",
+			"icon": "bag",
+			"xPosition": 105,
+			"xTile": 125,
+			"yPosition": 203,
+			"yTile": 125
+		},
+		{
+			"description": "Rat Dungeon",
+			"icon": "down",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 205,
+			"yTile": 125
+		},
+		{
+			"description": "North Exit",
+			"icon": "up",
+			"xPosition": 91,
+			"xTile": 125,
+			"yPosition": 178,
+			"yTile": 125
+		}
+	],
+	"12512607": [
+		{
+			"description": "Boat to Meluna",
+			"icon": "flag",
+			"xPosition": 153,
+			"xTile": 125,
+			"yPosition": 201,
+			"yTile": 126
+		},
+		{
+			"description": "To the Village",
+			"icon": "red right",
+			"xPosition": 1,
+			"xTile": 125,
+			"yPosition": 22,
+			"yTile": 126
+		},
+		{
+			"description": "Santiago’s Hut",
+			"icon": "up",
+			"xPosition": 22,
+			"xTile": 125,
+			"yPosition": 17,
+			"yTile": 126
+		}
+	],
+	"12512707": [
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 201,
+			"xTile": 125,
+			"yPosition": 210,
+			"yTile": 127
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 244,
+			"xTile": 125,
+			"yPosition": 211,
+			"yTile": 127
+		},
+		{
+			"description": "Assassin Star Vendor",
+			"icon": "down",
+			"xPosition": 75,
+			"xTile": 125,
+			"yPosition": 26,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 125,
+			"yPosition": 121,
+			"yTile": 127
+		},
+		{
+			"description": "Shattered Island Portals",
+			"icon": "down",
+			"xPosition": 38,
+			"xTile": 125,
+			"yPosition": 48,
+			"yTile": 127
+		},
+		{
+			"description": "To Portals",
+			"icon": "down",
+			"xPosition": 19,
+			"xTile": 125,
+			"yPosition": 166,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 86,
+			"xTile": 125,
+			"yPosition": 65,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 97,
+			"xTile": 125,
+			"yPosition": 64,
+			"yTile": 127
+		},
+		{
+			"description": "Fire field (needed for NPC Atrad)",
+			"icon": "star",
+			"xPosition": 75,
+			"xTile": 125,
+			"yPosition": 61,
+			"yTile": 127
+		}
+	],
+	"12512807": [
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 233,
+			"xTile": 125,
+			"yPosition": 6,
+			"yTile": 128
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 181,
+			"xTile": 125,
+			"yPosition": 40,
+			"yTile": 128
+		},
+		{
+			"description": "Boat to Liberty Bay",
+			"icon": "flag",
+			"xPosition": 132,
+			"xTile": 125,
+			"yPosition": 144,
+			"yTile": 128
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 225,
+			"xTile": 125,
+			"yPosition": 81,
+			"yTile": 128
+		},
+		{
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"icon": "red down",
+			"xPosition": 201,
+			"xTile": 125,
+			"yPosition": 179,
+			"yTile": 128
+		},
+		{
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"icon": "red down",
+			"xPosition": 144,
+			"xTile": 125,
+			"yPosition": 179,
+			"yTile": 128
+		},
+		{
+			"description": "Treasure Hole (requires Pirate Treasure Map)",
+			"icon": "red down",
+			"xPosition": 126,
+			"xTile": 125,
+			"yPosition": 166,
+			"yTile": 128
+		},
+		{
+			"description": "Quaras",
+			"icon": "red down",
+			"xPosition": 206,
+			"xTile": 125,
+			"yPosition": 115,
+			"yTile": 128
+		},
+		{
+			"description": "Bonelord Cave",
+			"icon": "red down",
+			"xPosition": 158,
+			"xTile": 125,
+			"yPosition": 14,
+			"yTile": 128
+		}
+	],
+	"12612107": [
+		{
+			"description": "Depot",
+			"icon": "lock",
+			"xPosition": 7,
+			"xTile": 126,
+			"yPosition": 164,
+			"yTile": 121
+		},
+		{
+			"description": "Passage to Svargrond",
+			"icon": "flag",
+			"xPosition": 71,
+			"xTile": 126,
+			"yPosition": 68,
+			"yTile": 121
+		},
+		{
+			"description": "Passage to Nibelor (1 Ham required)",
+			"icon": "flag",
+			"xPosition": 154,
+			"xTile": 126,
+			"yPosition": 90,
+			"yTile": 121
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 85,
+			"xTile": 126,
+			"yPosition": 140,
+			"yTile": 121
+		},
+		{
+			"description": "Passage to Nibelor",
+			"icon": "flag",
+			"xPosition": 45,
+			"xTile": 126,
+			"yPosition": 107,
+			"yTile": 121
+		},
+		{
+			"description": "Buddel",
+			"icon": "flag",
+			"xPosition": 77,
+			"xTile": 126,
+			"yPosition": 251,
+			"yTile": 121
+		},
+		{
+			"description": "Buddel",
+			"icon": "flag",
+			"xPosition": 0,
+			"xTile": 126,
+			"yPosition": 221,
+			"yTile": 121
+		},
+		{
+			"description": "Passage to Inukaya (1 Ham required)",
+			"icon": "flag",
+			"xPosition": 111,
+			"xTile": 126,
+			"yPosition": 82,
+			"yTile": 121
+		},
+		{
+			"description": "Magic Store, Post Office and Bank",
+			"icon": "star",
+			"xPosition": 47,
+			"xTile": 126,
+			"yPosition": 157,
+			"yTile": 121
+		},
+		{
+			"description": "Ice Golems and Crystal Spiders",
+			"icon": "red down",
+			"xPosition": 101,
+			"xTile": 126,
+			"yPosition": 111,
+			"yTile": 121
+		}
+	],
+	"12612307": [
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 234,
+			"xTile": 126,
+			"yPosition": 210,
+			"yTile": 123
+		}
+	],
+	"12612407": [
+		{
+			"description": "Minotaurs (Boss: The Horned Fox)",
+			"icon": "!",
+			"xPosition": 233,
+			"xTile": 126,
+			"yPosition": 220,
+			"yTile": 124
+		},
+		{
+			"description": "Depot and Post",
+			"icon": "lock",
+			"xPosition": 80,
+			"xTile": 126,
+			"yPosition": 40,
+			"yTile": 124
+		},
+		{
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 104,
+			"xTile": 126,
+			"yPosition": 38,
+			"yTile": 124
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 70,
+			"xTile": 126,
+			"yPosition": 38,
+			"yTile": 124
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 122,
+			"xTile": 126,
+			"yPosition": 71,
+			"yTile": 124
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 90,
+			"xTile": 126,
+			"yPosition": 84,
+			"yTile": 124
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 94,
+			"xTile": 126,
+			"yPosition": 12,
+			"yTile": 124
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 5,
+			"xTile": 126,
+			"yPosition": 104,
+			"yTile": 124
+		}
+	],
+	"12612507": [
+		{
+			"description": "Depot & Bank",
+			"icon": "lock",
+			"xPosition": 91,
+			"xTile": 126,
+			"yPosition": 226,
+			"yTile": 125
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 65,
+			"xTile": 126,
+			"yPosition": 211,
+			"yTile": 125
+		},
+		{
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 113,
+			"xTile": 126,
+			"yPosition": 239,
+			"yTile": 125
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 143,
+			"xTile": 126,
+			"yPosition": 220,
+			"yTile": 125
+		},
+		{
+			"description": "Offline Training (Distance)",
+			"icon": "sword",
+			"xPosition": 94,
+			"xTile": 126,
+			"yPosition": 238,
+			"yTile": 125
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 14,
+			"xTile": 126,
+			"yPosition": 171,
+			"yTile": 125
+		}
+	],
+	"12612607": [
+		{
+			"description": "Wasps",
+			"icon": "red down",
+			"xPosition": 172,
+			"xTile": 126,
+			"yPosition": 59,
+			"yTile": 126
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 62,
+			"xTile": 126,
+			"yPosition": 0,
+			"yTile": 126
+		},
+		{
+			"description": "Offline Training (Magic)",
+			"icon": "sword",
+			"xPosition": 41,
+			"xTile": 126,
+			"yPosition": 12,
+			"yTile": 126
+		},
+		{
+			"description": "Trolls",
+			"icon": "red down",
+			"xPosition": 237,
+			"xTile": 126,
+			"yPosition": 3,
+			"yTile": 126
+		},
+		{
+			"description": "Eclesius",
+			"icon": "mouth",
+			"xPosition": 35,
+			"xTile": 126,
+			"yPosition": 35,
+			"yTile": 126
+		}
+	],
+	"12612707": [
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 92,
+			"xTile": 126,
+			"yPosition": 183,
+			"yTile": 127
+		}
+	],
+	"12612807": [
+		{
+			"description": "Depot",
+			"icon": "lock",
+			"xPosition": 71,
+			"xTile": 126,
+			"yPosition": 67,
+			"yTile": 128
+		},
+		{
+			"description": "Post and Bank",
+			"icon": "$",
+			"xPosition": 81,
+			"xTile": 126,
+			"yPosition": 70,
+			"yTile": 128
+		},
+		{
+			"description": "To the Temple",
+			"icon": "cross",
+			"xPosition": 61,
+			"xTile": 126,
+			"yPosition": 57,
+			"yTile": 128
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 50,
+			"xTile": 126,
+			"yPosition": 100,
+			"yTile": 128
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 90,
+			"xTile": 126,
+			"yPosition": 42,
+			"yTile": 128
+		},
+		{
+			"description": "Coryms",
+			"icon": "red down",
+			"xPosition": 12,
+			"xTile": 126,
+			"yPosition": 69,
+			"yTile": 128
+		},
+		{
+			"description": "Wyrms",
+			"icon": "red down",
+			"xPosition": 132,
+			"xTile": 126,
+			"yPosition": 73,
+			"yTile": 128
+		}
+	],
+	"12712107": [
+		{
+			"description": "To the Arena and Zoo Quarter",
+			"icon": "up",
+			"xPosition": 226,
+			"xTile": 127,
+			"yPosition": 225,
+			"yTile": 121
+		},
+		{
+			"description": "To the Alchemist Quarter",
+			"icon": "up",
+			"xPosition": 240,
+			"xTile": 127,
+			"yPosition": 193,
+			"yTile": 121
+		},
+		{
+			"description": "Mutated Tigers",
+			"icon": "red down",
+			"xPosition": 152,
+			"xTile": 127,
+			"yPosition": 98,
+			"yTile": 121
+		}
+	],
+	"12712207": [
+		{
+			"description": "To the Foreigner Quarter",
+			"icon": "up",
+			"xPosition": 251,
+			"xTile": 127,
+			"yPosition": 17,
+			"yTile": 122
+		}
+	],
+	"12712307": [
+		{
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 95,
+			"xTile": 127,
+			"yPosition": 192,
+			"yTile": 123
+		},
+		{
+			"description": "Depot & Bank",
+			"icon": "lock",
+			"xPosition": 170,
+			"xTile": 127,
+			"yPosition": 197,
+			"yTile": 123
+		},
+		{
+			"description": "Rorcs or Drillworms and Lost Dwarves",
+			"icon": "red down",
+			"xPosition": 141,
+			"xTile": 127,
+			"yPosition": 244,
+			"yTile": 123
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 168,
+			"xTile": 127,
+			"yPosition": 232,
+			"yTile": 123
+		},
+		{
+			"description": "Opticording Sphere quest?",
+			"icon": "?",
+			"xPosition": 170,
+			"xTile": 127,
+			"yPosition": 116,
+			"yTile": 123
+		}
+	],
+	"12712407": [
+		{
+			"description": "Passage to Kazordoon",
+			"icon": "up",
+			"xPosition": 44,
+			"xTile": 127,
+			"yPosition": 180,
+			"yTile": 124
+		},
+		{
+			"description": "Entrance to Kazordoon",
+			"icon": "down",
+			"xPosition": 66,
+			"xTile": 127,
+			"yPosition": 148,
+			"yTile": 124
+		},
+		{
+			"description": "Trolls",
+			"icon": "red down",
+			"xPosition": 151,
+			"xTile": 127,
+			"yPosition": 219,
+			"yTile": 124
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 62,
+			"xTile": 127,
+			"yPosition": 236,
+			"yTile": 124
+		}
+	],
+	"12712507": [
+		{
+			"description": "To Wyda’s Hut",
+			"icon": "down",
+			"xPosition": 187,
+			"xTile": 127,
+			"yPosition": 18,
+			"yTile": 125
+		},
+		{
+			"description": "Rottin Wood",
+			"icon": "mouth",
+			"xPosition": 145,
+			"xTile": 127,
+			"yPosition": 201,
+			"yTile": 125
+		}
+	],
+	"12712607": [
+		{
+			"description": "Water Elementals",
+			"icon": "red down",
+			"xPosition": 78,
+			"xTile": 127,
+			"yPosition": 58,
+			"yTile": 126
+		}
+	],
+	"12712707": [
+		{
+			"description": "Depot",
+			"icon": "lock",
+			"xPosition": 111,
+			"xTile": 127,
+			"yPosition": 234,
+			"yTile": 127
+		},
+		{
+			"description": "To the Harbour",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 127,
+			"yPosition": 254,
+			"yTile": 127
+		},
+		{
+			"description": "Temple",
+			"icon": "cross",
+			"xPosition": 83,
+			"xTile": 127,
+			"yPosition": 234,
+			"yTile": 127
+		},
+		{
+			"description": "Crocodiles (Task Boss: The Snapper)",
+			"icon": "!",
+			"xPosition": 101,
+			"xTile": 127,
+			"yPosition": 191,
+			"yTile": 127
+		},
+		{
+			"description": "To the Shops, Post, and Bank",
+			"icon": "up",
+			"xPosition": 117,
+			"xTile": 127,
+			"yPosition": 237,
+			"yTile": 127
+		},
+		{
+			"description": "Smile Training Spot",
+			"icon": "sword",
+			"xPosition": 74,
+			"xTile": 127,
+			"yPosition": 199,
+			"yTile": 127
+		},
+		{
+			"description": "Slime Training Spot",
+			"icon": "sword",
+			"xPosition": 17,
+			"xTile": 127,
+			"yPosition": 209,
+			"yTile": 127
+		},
+		{
+			"description": "Smugglers",
+			"icon": "red down",
+			"xPosition": 43,
+			"xTile": 127,
+			"yPosition": 166,
+			"yTile": 127
+		},
+		{
+			"description": "Swamp Trolls",
+			"icon": "red down",
+			"xPosition": 166,
+			"xTile": 127,
+			"yPosition": 97,
+			"yTile": 127
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 19,
+			"xTile": 127,
+			"yPosition": 199,
+			"yTile": 127
+		},
+		{
+			"description": "Task Boss: Deathbine",
+			"icon": "!",
+			"xPosition": 219,
+			"xTile": 127,
+			"yPosition": 253,
+			"yTile": 127
+		}
+	],
+	"12712807": [
+		{
+			"description": "Dworcs",
+			"icon": "red down",
+			"xPosition": 132,
+			"xTile": 127,
+			"yPosition": 157,
+			"yTile": 128
+		},
+		{
+			"description": "Trap Holes",
+			"icon": "skull",
+			"xPosition": 123,
+			"xTile": 127,
+			"yPosition": 147,
+			"yTile": 128
+		},
+		{
+			"description": "Trap Holes",
+			"icon": "skull",
+			"xPosition": 182,
+			"xTile": 127,
+			"yPosition": 90,
+			"yTile": 128
+		},
+		{
+			"description": "Trap Holes",
+			"icon": "skull",
+			"xPosition": 182,
+			"xTile": 127,
+			"yPosition": 170,
+			"yTile": 128
+		},
+		{
+			"description": "Trap Holes",
+			"icon": "skull",
+			"xPosition": 208,
+			"xTile": 127,
+			"yPosition": 168,
+			"yTile": 128
+		},
+		{
+			"description": "Tarantulas",
+			"icon": "red down",
+			"xPosition": 246,
+			"xTile": 127,
+			"yPosition": 23,
+			"yTile": 128
+		},
+		{
+			"description": "Water Elementals (level 50+)",
+			"icon": "red down",
+			"xPosition": 48,
+			"xTile": 127,
+			"yPosition": 92,
+			"yTile": 128
+		},
+		{
+			"description": "Trap Holes",
+			"icon": "skull",
+			"xPosition": 254,
+			"xTile": 127,
+			"yPosition": 126,
+			"yTile": 128
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 124,
+			"xTile": 127,
+			"yPosition": 28,
+			"yTile": 128
+		},
+		{
+			"description": "Tarantulas",
+			"icon": "red down",
+			"xPosition": 214,
+			"xTile": 127,
+			"yPosition": 25,
+			"yTile": 128
+		},
+		{
+			"description": "Coryms",
+			"icon": "red down",
+			"xPosition": 94,
+			"xTile": 127,
+			"yPosition": 35,
+			"yTile": 128
+		},
+		{
+			"description": "Grizzly Adams",
+			"icon": "mouth",
+			"xPosition": 182,
+			"xTile": 127,
+			"yPosition": 4,
+			"yTile": 128
+		},
+		{
+			"description": "Water Elementals",
+			"icon": "red down",
+			"xPosition": 167,
+			"xTile": 127,
+			"yPosition": 196,
+			"yTile": 128
+		}
+	],
+	"12812107": [
+		{
+			"description": "To the Sunken Quarter",
+			"icon": "up",
+			"xPosition": 96,
+			"xTile": 128,
+			"yPosition": 225,
+			"yTile": 121
+		},
+		{
+			"description": "To the Magician Quarter",
+			"icon": "up",
+			"xPosition": 65,
+			"xTile": 128,
+			"yPosition": 179,
+			"yTile": 121
+		},
+		{
+			"description": "To the Cemetery Quarter",
+			"icon": "up",
+			"xPosition": 12,
+			"xTile": 128,
+			"yPosition": 174,
+			"yTile": 121
+		}
+	],
+	"12812207": [
+		{
+			"description": "Bank and Post",
+			"icon": "$",
+			"xPosition": 58,
+			"xTile": 128,
+			"yPosition": 17,
+			"yTile": 122
+		},
+		{
+			"description": "Depot",
+			"icon": "lock",
+			"xPosition": 25,
+			"xTile": 128,
+			"yPosition": 16,
+			"yTile": 122
+		},
+		{
+			"description": "Temple Raft",
+			"icon": "cross",
+			"xPosition": 19,
+			"xTile": 128,
+			"yPosition": 43,
+			"yTile": 122
+		},
+		{
+			"description": "Boat to Vengoth",
+			"icon": "flag",
+			"xPosition": 69,
+			"xTile": 128,
+			"yPosition": 133,
+			"yTile": 122
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 22,
+			"xTile": 128,
+			"yPosition": 3,
+			"yTile": 122
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 42,
+			"xTile": 128,
+			"yPosition": 37,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 110,
+			"xTile": 128,
+			"yPosition": 36,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 104,
+			"xTile": 128,
+			"yPosition": 63,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 122,
+			"xTile": 128,
+			"yPosition": 90,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems / War Golems",
+			"icon": "red down",
+			"xPosition": 140,
+			"xTile": 128,
+			"yPosition": 85,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 136,
+			"xTile": 128,
+			"yPosition": 53,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 147,
+			"xTile": 128,
+			"yPosition": 27,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 168,
+			"xTile": 128,
+			"yPosition": 24,
+			"yTile": 122
+		},
+		{
+			"description": "Worker Golems",
+			"icon": "red down",
+			"xPosition": 85,
+			"xTile": 128,
+			"yPosition": 39,
+			"yTile": 122
+		},
+		{
+			"description": "To the Former Trade Quarter",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 128,
+			"yPosition": 31,
+			"yTile": 122
+		},
+		{
+			"description": "To the Factory Quarter",
+			"icon": "up",
+			"xPosition": 82,
+			"xTile": 128,
+			"yPosition": 14,
+			"yTile": 122
+		}
+	],
+	"12812307": [
+		{
+			"description": "Boat to Yalahar",
+			"icon": "flag",
+			"xPosition": 89,
+			"xTile": 128,
+			"yPosition": 61,
+			"yTile": 123
+		},
+		{
+			"description": "Werewolves",
+			"icon": "red up",
+			"xPosition": 212,
+			"xTile": 128,
+			"yPosition": 7,
+			"yTile": 123
+		}
+	],
+	"12812507": [
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 64,
+			"xTile": 128,
+			"yPosition": 84,
+			"yTile": 125
+		}
+	],
+	"12812607": [
+		{
+			"description": "Swamp Trolls / Rotworms",
+			"icon": "red down",
+			"xPosition": 145,
+			"xTile": 128,
+			"yPosition": 5,
+			"yTile": 126
+		}
+	],
+	"12812707": [
+		{
+			"description": "Tarantulas",
+			"icon": "red down",
+			"xPosition": 9,
+			"xTile": 128,
+			"yPosition": 173,
+			"yTile": 127
+		},
+		{
+			"description": "Special Task: Tiquanda’s Revenge",
+			"icon": "!",
+			"xPosition": 108,
+			"xTile": 128,
+			"yPosition": 71,
+			"yTile": 127
+		},
+		{
+			"description": "Giant Spiders",
+			"icon": "red down",
+			"xPosition": 193,
+			"xTile": 128,
+			"yPosition": 33,
+			"yTile": 127
+		},
+		{
+			"description": "Giant Spiders",
+			"icon": "red down",
+			"xPosition": 181,
+			"xTile": 128,
+			"yPosition": 22,
+			"yTile": 127
+		},
+		{
+			"description": "Passage to Forbidden Lands",
+			"icon": "flag",
+			"xPosition": 253,
+			"xTile": 128,
+			"yPosition": 92,
+			"yTile": 127
+		},
+		{
+			"description": "Hydras",
+			"icon": "red down",
+			"xPosition": 220,
+			"xTile": 128,
+			"yPosition": 11,
+			"yTile": 127
+		},
+		{
+			"description": "Carniphila",
+			"icon": "red down",
+			"xPosition": 138,
+			"xTile": 128,
+			"yPosition": 222,
+			"yTile": 127
+		},
+		{
+			"description": "Midnight Panther (spawn location)",
+			"icon": "star",
+			"xPosition": 89,
+			"xTile": 128,
+			"yPosition": 226,
+			"yTile": 127
+		},
+		{
+			"description": "Midnight Panther (spawn location)",
+			"icon": "star",
+			"xPosition": 79,
+			"xTile": 128,
+			"yPosition": 185,
+			"yTile": 127
+		},
+		{
+			"description": "Midnight Panther (spawn location)",
+			"icon": "star",
+			"xPosition": 117,
+			"xTile": 128,
+			"yPosition": 207,
+			"yTile": 127
+		},
+		{
+			"description": "Passage to Darama",
+			"icon": "up",
+			"xPosition": 214,
+			"xTile": 128,
+			"yPosition": 204,
+			"yTile": 127
+		},
+		{
+			"description": "Dwarfs",
+			"icon": "red down",
+			"xPosition": 211,
+			"xTile": 128,
+			"yPosition": 148,
+			"yTile": 127
+		},
+		{
+			"description": "Behemoths",
+			"icon": "red down",
+			"xPosition": 245,
+			"xTile": 128,
+			"yPosition": 52,
+			"yTile": 127
+		},
+		{
+			"description": "Shortcut to Banuta",
+			"icon": "down",
+			"xPosition": 85,
+			"xTile": 128,
+			"yPosition": 157,
+			"yTile": 127
+		},
+		{
+			"description": "Tarantulas (Task Boss: Hide)",
+			"icon": "!",
+			"xPosition": 59,
+			"xTile": 128,
+			"yPosition": 179,
+			"yTile": 127
+		},
+		{
+			"description": "Protection Zone",
+			"icon": "cross",
+			"xPosition": 57,
+			"xTile": 128,
+			"yPosition": 120,
+			"yTile": 127
+		},
+		{
+			"description": "Terramites",
+			"icon": "red down",
+			"xPosition": 207,
+			"xTile": 128,
+			"yPosition": 174,
+			"yTile": 127
+		},
+		{
+			"description": "Dragons",
+			"icon": "red down",
+			"xPosition": 215,
+			"xTile": 128,
+			"yPosition": 134,
+			"yTile": 127
+		}
+	],
+	"12812807": [
+		{
+			"description": "Tarantulas",
+			"icon": "red down",
+			"xPosition": 50,
+			"xTile": 128,
+			"yPosition": 41,
+			"yTile": 128
+		},
+		{
+			"description": "Protection Zone",
+			"icon": "cross",
+			"xPosition": 200,
+			"xTile": 128,
+			"yPosition": 32,
+			"yTile": 128
+		},
+		{
+			"description": "Medusa Tower Entrance",
+			"icon": "red down",
+			"xPosition": 85,
+			"xTile": 128,
+			"yPosition": 46,
+			"yTile": 128
+		}
+	],
+	"12912107": [
+		{
+			"description": "Ghastly Dragons",
+			"icon": "red down",
+			"xPosition": 152,
+			"xTile": 129,
+			"yPosition": 39,
+			"yTile": 121
+		},
+		{
+			"description": "Golden Ewer (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 35,
+			"xTile": 129,
+			"yPosition": 123,
+			"yTile": 121
+		}
+	],
+	"12912207": [
+		{
+			"description": "Portal to Northern Zao",
+			"icon": "up",
+			"xPosition": 174,
+			"xTile": 129,
+			"yPosition": 116,
+			"yTile": 122
+		},
+		{
+			"description": "Lancer Beetles",
+			"icon": "red down",
+			"xPosition": 199,
+			"xTile": 129,
+			"yPosition": 165,
+			"yTile": 122
+		},
+		{
+			"description": "Gnarlhounds",
+			"icon": "red down",
+			"xPosition": 80,
+			"xTile": 129,
+			"yPosition": 156,
+			"yTile": 122
+		},
+		{
+			"description": "Gnarlhounds",
+			"icon": "red down",
+			"xPosition": 171,
+			"xTile": 129,
+			"yPosition": 241,
+			"yTile": 122
+		},
+		{
+			"description": "Gnarlhounds",
+			"icon": "red down",
+			"xPosition": 95,
+			"xTile": 129,
+			"yPosition": 224,
+			"yTile": 122
+		},
+		{
+			"description": "Terramites",
+			"icon": "red down",
+			"xPosition": 117,
+			"xTile": 129,
+			"yPosition": 243,
+			"yTile": 122
+		},
+		{
+			"description": "Killer Caimans",
+			"icon": "red down",
+			"xPosition": 113,
+			"xTile": 129,
+			"yPosition": 217,
+			"yTile": 122
+		},
+		{
+			"description": "High Class Lizards",
+			"icon": "red up",
+			"xPosition": 151,
+			"xTile": 129,
+			"yPosition": 73,
+			"yTile": 122
+		},
+		{
+			"description": "Portal to Southern Zao",
+			"icon": "up",
+			"xPosition": 122,
+			"xTile": 129,
+			"yPosition": 17,
+			"yTile": 122
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 106,
+			"xTile": 129,
+			"yPosition": 121,
+			"yTile": 122
+		}
+	],
+	"12912307": [
+		{
+			"description": "Terramites",
+			"icon": "red down",
+			"xPosition": 172,
+			"xTile": 129,
+			"yPosition": 56,
+			"yTile": 123
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 57,
+			"xTile": 129,
+			"yPosition": 44,
+			"yTile": 123
+		},
+		{
+			"description": "Earth Elementals and Bog Raiders",
+			"icon": "red down",
+			"xPosition": 133,
+			"xTile": 129,
+			"yPosition": 232,
+			"yTile": 123
+		},
+		{
+			"description": "Dragons",
+			"icon": "red down",
+			"xPosition": 75,
+			"xTile": 129,
+			"yPosition": 211,
+			"yTile": 123
+		},
+		{
+			"description": "Gnarlhounds",
+			"icon": "red down",
+			"xPosition": 38,
+			"xTile": 129,
+			"yPosition": 18,
+			"yTile": 123
+		},
+		{
+			"description": "Vampire Crypt",
+			"icon": "red down",
+			"xPosition": 85,
+			"xTile": 129,
+			"yPosition": 233,
+			"yTile": 123
+		}
+	],
+	"12912407": [
+		{
+			"description": "Passage to Edron",
+			"icon": "down",
+			"xPosition": 104,
+			"xTile": 129,
+			"yPosition": 65,
+			"yTile": 124
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 151,
+			"xTile": 129,
+			"yPosition": 31,
+			"yTile": 124
+		},
+		{
+			"description": "To the Carpet",
+			"icon": "up",
+			"xPosition": 191,
+			"xTile": 129,
+			"yPosition": 40,
+			"yTile": 124
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 253,
+			"xTile": 129,
+			"yPosition": 214,
+			"yTile": 124
+		},
+		{
+			"description": "Trolls",
+			"icon": "red down",
+			"xPosition": 93,
+			"xTile": 129,
+			"yPosition": 30,
+			"yTile": 124
+		},
+		{
+			"description": "Goblins",
+			"icon": "red down",
+			"xPosition": 83,
+			"xTile": 129,
+			"yPosition": 103,
+			"yTile": 124
+		},
+		{
+			"description": "Orcs",
+			"icon": "red down",
+			"xPosition": 149,
+			"xTile": 129,
+			"yPosition": 156,
+			"yTile": 124
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 157,
+			"xTile": 129,
+			"yPosition": 47,
+			"yTile": 124
+		},
+		{
+			"description": "To the Temple",
+			"icon": "down",
+			"xPosition": 186,
+			"xTile": 129,
+			"yPosition": 70,
+			"yTile": 124
+		},
+		{
+			"description": "Passage to west side",
+			"icon": "down",
+			"xPosition": 141,
+			"xTile": 129,
+			"yPosition": 83,
+			"yTile": 124
+		},
+		{
+			"description": "Underground Depot",
+			"icon": "down",
+			"xPosition": 145,
+			"xTile": 129,
+			"yPosition": 68,
+			"yTile": 124
+		},
+		{
+			"description": "Post and Bank",
+			"icon": "$",
+			"xPosition": 148,
+			"xTile": 129,
+			"yPosition": 63,
+			"yTile": 124
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 223,
+			"xTile": 129,
+			"yPosition": 97,
+			"yTile": 124
+		},
+		{
+			"description": "Daniel Steelsoul",
+			"icon": "mouth",
+			"xPosition": 167,
+			"xTile": 129,
+			"yPosition": 51,
+			"yTile": 124
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 197,
+			"xTile": 129,
+			"yPosition": 178,
+			"yTile": 124
+		}
+	],
+	"12912507": [
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 5,
+			"xTile": 129,
+			"yPosition": 89,
+			"yTile": 125
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 85,
+			"xTile": 129,
+			"yPosition": 104,
+			"yTile": 125
+		},
+		{
+			"description": "Coryms",
+			"icon": "red down",
+			"xPosition": 48,
+			"xTile": 129,
+			"yPosition": 87,
+			"yTile": 125
+		},
+		{
+			"description": "Rafzan",
+			"icon": "lock",
+			"xPosition": 30,
+			"xTile": 129,
+			"yPosition": 96,
+			"yTile": 125
+		}
+	],
+	"12912607": [
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 34,
+			"xTile": 129,
+			"yPosition": 119,
+			"yTile": 126
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 109,
+			"xTile": 129,
+			"yPosition": 176,
+			"yTile": 126
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 201,
+			"xTile": 129,
+			"yPosition": 44,
+			"yTile": 126
+		},
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 197,
+			"xTile": 129,
+			"yPosition": 147,
+			"yTile": 126
+		},
+		{
+			"description": "Depot",
+			"icon": "down",
+			"xPosition": 190,
+			"xTile": 129,
+			"yPosition": 199,
+			"yTile": 126
+		},
+		{
+			"description": "Dragons (level 40+)",
+			"icon": "?",
+			"xPosition": 241,
+			"xTile": 129,
+			"yPosition": 23,
+			"yTile": 126
+		},
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 196,
+			"xTile": 129,
+			"yPosition": 135,
+			"yTile": 126
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 215,
+			"xTile": 129,
+			"yPosition": 153,
+			"yTile": 126
+		},
+		{
+			"description": "Grim Reapers",
+			"icon": "red down",
+			"xPosition": 4,
+			"xTile": 129,
+			"yPosition": 183,
+			"yTile": 126
+		},
+		{
+			"description": "Zarifan",
+			"icon": "down",
+			"xPosition": 27,
+			"xTile": 129,
+			"yPosition": 215,
+			"yTile": 126
+		},
+		{
+			"description": "Passage to Drefia",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 129,
+			"yPosition": 194,
+			"yTile": 126
+		}
+	],
+	"12912707": [
+		{
+			"description": "Oasis Tomb <Hidden> (Boss: Rahemos)",
+			"icon": "!",
+			"xPosition": 109,
+			"xTile": 129,
+			"yPosition": 128,
+			"yTile": 127
+		},
+		{
+			"description": "Mountain Tomb <Hidden> (Boss: Dipthrah)",
+			"icon": "!",
+			"xPosition": 109,
+			"xTile": 129,
+			"yPosition": 56,
+			"yTile": 127
+		},
+		{
+			"description": "Nomads",
+			"icon": "red down",
+			"xPosition": 190,
+			"xTile": 129,
+			"yPosition": 40,
+			"yTile": 127
+		},
+		{
+			"description": "Ancient Ruins Tomb <Hidden> (Boss: Vashresamun)",
+			"icon": "!",
+			"xPosition": 184,
+			"xTile": 129,
+			"yPosition": 79,
+			"yTile": 127
+		},
+		{
+			"description": "Tarpit Tomb <Hidden> (Boss: Morguthis)",
+			"icon": "!",
+			"xPosition": 209,
+			"xTile": 129,
+			"yPosition": 192,
+			"yTile": 127
+		},
+		{
+			"description": "Larvas / Scarabs",
+			"icon": "red down",
+			"xPosition": 195,
+			"xTile": 129,
+			"yPosition": 128,
+			"yTile": 127
+		},
+		{
+			"description": "Larvas / Scarabs / Ancient Scarabs",
+			"icon": "red down",
+			"xPosition": 129,
+			"xTile": 129,
+			"yPosition": 174,
+			"yTile": 127
+		},
+		{
+			"description": "<Hidden> Larvas / Scarabs / Ancient Scarabs",
+			"icon": "red down",
+			"xPosition": 137,
+			"xTile": 129,
+			"yPosition": 86,
+			"yTile": 127
+		},
+		{
+			"description": "Green Djinn (Efreets)",
+			"icon": "up",
+			"xPosition": 77,
+			"xTile": 129,
+			"yPosition": 144,
+			"yTile": 127
+		},
+		{
+			"description": "Blue Djinn (Marids)",
+			"icon": "up",
+			"xPosition": 96,
+			"xTile": 129,
+			"yPosition": 65,
+			"yTile": 127
+		},
+		{
+			"description": "Larvas / Scarabs / Ancient Scarabs",
+			"icon": "red down",
+			"xPosition": 233,
+			"xTile": 129,
+			"yPosition": 230,
+			"yTile": 127
+		},
+		{
+			"description": "Terramites",
+			"icon": "red down",
+			"xPosition": 79,
+			"xTile": 129,
+			"yPosition": 186,
+			"yTile": 127
+		},
+		{
+			"description": "Larvas / Scarabs / Ancient Scarabs (Task Boss: Fleshcrawler)",
+			"icon": "red down",
+			"xPosition": 48,
+			"xTile": 129,
+			"yPosition": 248,
+			"yTile": 127
+		},
+		{
+			"description": "Horestis Tomb",
+			"icon": "up",
+			"xPosition": 36,
+			"xTile": 129,
+			"yPosition": 222,
+			"yTile": 127
+		}
+	],
+	"12912807": [
+		{
+			"description": "Library Tomb (Boss: Ashmunrah)",
+			"icon": "!",
+			"xPosition": 118,
+			"xTile": 129,
+			"yPosition": 70,
+			"yTile": 128
+		},
+		{
+			"description": "Shadow Tomb <Hidden> (Boss: Mahrdis)",
+			"icon": "!",
+			"xPosition": 231,
+			"xTile": 129,
+			"yPosition": 65,
+			"yTile": 128
+		},
+		{
+			"description": "Post",
+			"icon": "bag",
+			"xPosition": 45,
+			"xTile": 129,
+			"yPosition": 109,
+			"yTile": 128
+		},
+		{
+			"description": "Temple and Druid Spells",
+			"icon": "cross",
+			"xPosition": 170,
+			"xTile": 129,
+			"yPosition": 85,
+			"yTile": 128
+		},
+		{
+			"description": "To the Shops and Bank",
+			"icon": "up",
+			"xPosition": 104,
+			"xTile": 129,
+			"yPosition": 60,
+			"yTile": 128
+		},
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 60,
+			"xTile": 129,
+			"yPosition": 109,
+			"yTile": 128
+		},
+		{
+			"description": "To the Sorcerer Trainer",
+			"icon": "up",
+			"xPosition": 131,
+			"xTile": 129,
+			"yPosition": 105,
+			"yTile": 128
+		},
+		{
+			"description": "Peninsula Tomb <Hidden> (Boss: Omruc)",
+			"icon": "!",
+			"xPosition": 3,
+			"xTile": 129,
+			"yPosition": 101,
+			"yTile": 128
+		},
+		{
+			"description": "Depot",
+			"icon": "lock",
+			"xPosition": 103,
+			"xTile": 129,
+			"yPosition": 75,
+			"yTile": 128
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 244,
+			"xTile": 129,
+			"yPosition": 73,
+			"yTile": 128
+		}
+	],
+	"13012107": [
+		{
+			"description": "",
+			"icon": "crossmark",
+			"xPosition": 68,
+			"xTile": 130,
+			"yPosition": 204,
+			"yTile": 121
+		},
+		{
+			"description": "Brimstone Bugs",
+			"icon": "red down",
+			"xPosition": 12,
+			"xTile": 130,
+			"yPosition": 164,
+			"yTile": 121
+		}
+	],
+	"13012207": [
+		{
+			"description": "Drilling Site",
+			"icon": "down",
+			"xPosition": 235,
+			"xTile": 130,
+			"yPosition": 77,
+			"yTile": 122
+		},
+		{
+			"description": "The Descent",
+			"icon": "crossmark",
+			"xPosition": 234,
+			"xTile": 130,
+			"yPosition": 91,
+			"yTile": 122
+		},
+		{
+			"description": "Magic Store",
+			"icon": "up",
+			"xPosition": 180,
+			"xTile": 130,
+			"yPosition": 75,
+			"yTile": 122
+		},
+		{
+			"description": "Bank, Depot, and Temple",
+			"icon": "down",
+			"xPosition": 166,
+			"xTile": 130,
+			"yPosition": 88,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 255,
+			"xTile": 130,
+			"yPosition": 37,
+			"yTile": 122
+		},
+		{
+			"description": "Teleport to Fiehonja",
+			"icon": "star",
+			"xPosition": 198,
+			"xTile": 130,
+			"yPosition": 80,
+			"yTile": 122
+		}
+	],
+	"13012307": [
+		{
+			"description": "Were-Creatures",
+			"icon": "red down",
+			"xPosition": 73,
+			"xTile": 130,
+			"yPosition": 182,
+			"yTile": 123
+		},
+		{
+			"description": "Boat to Grimvale",
+			"icon": "flag",
+			"xPosition": 24,
+			"xTile": 130,
+			"yPosition": 232,
+			"yTile": 123
+		}
+	],
+	"13012407": [
+		{
+			"description": "Boat to Edron",
+			"icon": "flag",
+			"xPosition": 13,
+			"xTile": 130,
+			"yPosition": 216,
+			"yTile": 124
+		},
+		{
+			"description": "Steamboat to Kazordoon and Farmine",
+			"icon": "flag",
+			"xPosition": 30,
+			"xTile": 130,
+			"yPosition": 252,
+			"yTile": 124
+		},
+		{
+			"description": "Rotworms / Bog Raiders",
+			"icon": "red down",
+			"xPosition": 23,
+			"xTile": 130,
+			"yPosition": 40,
+			"yTile": 124
+		},
+		{
+			"description": "Hydra Cave",
+			"icon": "red down",
+			"xPosition": 237,
+			"xTile": 130,
+			"yPosition": 162,
+			"yTile": 124
+		}
+	],
+	"13012507": [
+		{
+			"description": "Dwarfs",
+			"icon": "red down",
+			"xPosition": 67,
+			"xTile": 130,
+			"yPosition": 31,
+			"yTile": 125
+		}
+	],
+	"13012607": [
+		{
+			"description": "Harbour",
+			"icon": "flag",
+			"xPosition": 11,
+			"xTile": 130,
+			"yPosition": 216,
+			"yTile": 126
+		},
+		{
+			"description": "Rotworms",
+			"icon": "red down",
+			"xPosition": 13,
+			"xTile": 130,
+			"yPosition": 58,
+			"yTile": 126
+		},
+		{
+			"description": "Fury Gate (World Change)",
+			"icon": "!",
+			"xPosition": 25,
+			"xTile": 130,
+			"yPosition": 117,
+			"yTile": 126
+		}
+	],
+	"13012707": [
+		{
+			"description": "Stone Tomb <Hidden> (Boss: Thalas)",
+			"icon": "!",
+			"xPosition": 2,
+			"xTile": 130,
+			"yPosition": 231,
+			"yTile": 127
+		},
+		{
+			"description": "Cultists <Hidden>",
+			"icon": "red down",
+			"xPosition": 35,
+			"xTile": 130,
+			"yPosition": 162,
+			"yTile": 127
+		}
+	],
+	"13112207": [
+		{
+			"description": "Entrance to digestion chamber",
+			"icon": "red down",
+			"xPosition": 49,
+			"xTile": 131,
+			"yPosition": 52,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 13,
+			"xTile": 131,
+			"yPosition": 30,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 39,
+			"xTile": 131,
+			"yPosition": 32,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 54,
+			"xTile": 131,
+			"yPosition": 36,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 64,
+			"xTile": 131,
+			"yPosition": 35,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 32,
+			"xTile": 131,
+			"yPosition": 46,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 21,
+			"xTile": 131,
+			"yPosition": 43,
+			"yTile": 122
+		},
+		{
+			"description": "Antenna",
+			"icon": "star",
+			"xPosition": 11,
+			"xTile": 131,
+			"yPosition": 52,
+			"yTile": 122
+		}
+	],
+	"13112407": [
+		{
+			"description": "Beggar King",
+			"icon": "!",
+			"xPosition": 39,
+			"xTile": 131,
+			"yPosition": 240,
+			"yTile": 124
+		},
+		{
+			"description": "Chavis’ Poor House",
+			"icon": "!",
+			"xPosition": 11,
+			"xTile": 131,
+			"yPosition": 208,
+			"yTile": 124
+		},
+		{
+			"description": "To City (Rathleton)",
+			"icon": "up",
+			"xPosition": 100,
+			"xTile": 131,
+			"yPosition": 200,
+			"yTile": 124
+		},
+		{
+			"description": "Hideout",
+			"icon": "!",
+			"xPosition": 157,
+			"xTile": 131,
+			"yPosition": 103,
+			"yTile": 124
+		},
+		{
+			"description": "Doubleday (Tasks)",
+			"icon": "up",
+			"xPosition": 104,
+			"xTile": 131,
+			"yPosition": 217,
+			"yTile": 124
+		},
+		{
+			"description": "Roswitha",
+			"icon": "!",
+			"xPosition": 48,
+			"xTile": 131,
+			"yPosition": 198,
+			"yTile": 124
+		},
+		{
+			"description": "Quandon’s Home",
+			"icon": "!",
+			"xPosition": 38,
+			"xTile": 131,
+			"yPosition": 209,
+			"yTile": 124
+		},
+		{
+			"description": "Mangate",
+			"icon": "!",
+			"xPosition": 130,
+			"xTile": 131,
+			"yPosition": 180,
+			"yTile": 124
+		},
+		{
+			"description": "City Guard Terrence",
+			"icon": "!",
+			"xPosition": 111,
+			"xTile": 131,
+			"yPosition": 205,
+			"yTile": 124
+		},
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 66,
+			"xTile": 131,
+			"yPosition": 155,
+			"yTile": 124
+		}
+	],
+	"13112507": [
+		{
+			"description": "Passage to the other side",
+			"icon": "flag",
+			"xPosition": 92,
+			"xTile": 131,
+			"yPosition": 5,
+			"yTile": 125
+		}
+	],
+	"13112607": [
+		{
+			"description": "Safety Spot",
+			"icon": "up",
+			"xPosition": 28,
+			"xTile": 131,
+			"yPosition": 209,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 47,
+			"xTile": 131,
+			"yPosition": 229,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "!",
+			"xPosition": 99,
+			"xTile": 131,
+			"yPosition": 87,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "!",
+			"xPosition": 65,
+			"xTile": 131,
+			"yPosition": 135,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 142,
+			"xTile": 131,
+			"yPosition": 217,
+			"yTile": 126
+		}
+	]
+}

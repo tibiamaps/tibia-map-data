@@ -1,0 +1,96 @@
+{
+	"12512105": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 146,
+			"xTile": 125,
+			"yPosition": 105,
+			"yTile": 121
+		},
+		{
+			"description": "Frost Dragons and Crystal Spiders",
+			"icon": "red down",
+			"xPosition": 105,
+			"xTile": 125,
+			"yPosition": 138,
+			"yTile": 121
+		}
+	],
+	"12512705": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 66,
+			"xTile": 125,
+			"yPosition": 112,
+			"yTile": 127
+		},
+		{
+			"description": "",
+			"icon": "down",
+			"xPosition": 48,
+			"xTile": 125,
+			"yPosition": 97,
+			"yTile": 127
+		}
+	],
+	"12712405": [
+		{
+			"description": "Magic Store",
+			"icon": "star",
+			"xPosition": 118,
+			"xTile": 127,
+			"yPosition": 184,
+			"yTile": 124
+		}
+	],
+	"12812205": [
+		{
+			"description": "Offline Training",
+			"icon": "sword",
+			"xPosition": 19,
+			"xTile": 128,
+			"yPosition": 17,
+			"yTile": 122
+		}
+	],
+	"12812505": [
+		{
+			"description": "Boozer",
+			"icon": "mouth",
+			"xPosition": 153,
+			"xTile": 128,
+			"yPosition": 68,
+			"yTile": 125
+		}
+	],
+	"12912105": [
+		{
+			"description": "Silver Ewer (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 67,
+			"xTile": 129,
+			"yPosition": 135,
+			"yTile": 121
+		}
+	],
+	"13112405": [
+		{
+			"description": "Barazbaz",
+			"icon": "!",
+			"xPosition": 114,
+			"xTile": 131,
+			"yPosition": 140,
+			"yTile": 124
+		},
+		{
+			"description": "Marvin",
+			"icon": "!",
+			"xPosition": 126,
+			"xTile": 131,
+			"yPosition": 134,
+			"yTile": 124
+		}
+	]
+}

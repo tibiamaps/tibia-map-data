@@ -1,0 +1,290 @@
+{
+	"12512310": [
+		{
+			"description": "Key: 4501 (Copper Key)",
+			"icon": "?",
+			"xPosition": 40,
+			"xTile": 125,
+			"yPosition": 115,
+			"yTile": 123
+		}
+	],
+	"12612310": [
+		{
+			"description": "2. To Surface",
+			"icon": "down",
+			"xPosition": 173,
+			"xTile": 126,
+			"yPosition": 91,
+			"yTile": 123
+		},
+		{
+			"description": "1. To Surface",
+			"icon": "down",
+			"xPosition": 251,
+			"xTile": 126,
+			"yPosition": 205,
+			"yTile": 123
+		},
+		{
+			"description": "10. To Surface",
+			"icon": "up",
+			"xPosition": 227,
+			"xTile": 126,
+			"yPosition": 145,
+			"yTile": 123
+		},
+		{
+			"description": "1. To Demona",
+			"icon": "red down",
+			"xPosition": 238,
+			"xTile": 126,
+			"yPosition": 149,
+			"yTile": 123
+		},
+		{
+			"description": "12. To Demona",
+			"icon": "red down",
+			"xPosition": 230,
+			"xTile": 126,
+			"yPosition": 200,
+			"yTile": 123
+		},
+		{
+			"description": "To monks",
+			"icon": "crossmark",
+			"xPosition": 212,
+			"xTile": 126,
+			"yPosition": 147,
+			"yTile": 123
+		}
+	],
+	"12612410": [
+		{
+			"description": "Dragons and Dragon Lords",
+			"icon": "red down",
+			"xPosition": 222,
+			"xTile": 126,
+			"yPosition": 114,
+			"yTile": 124
+		},
+		{
+			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 219,
+			"xTile": 126,
+			"yPosition": 252,
+			"yTile": 124
+		}
+	],
+	"12612510": [
+		{
+			"description": "Pickhole (Hidden)",
+			"icon": "red down",
+			"xPosition": 181,
+			"xTile": 126,
+			"yPosition": 239,
+			"yTile": 125
+		}
+	],
+	"12612610": [
+		{
+			"description": "Key: 3980 (Golden Key)",
+			"icon": "?",
+			"xPosition": 21,
+			"xTile": 126,
+			"yPosition": 163,
+			"yTile": 126
+		}
+	],
+	"12712310": [
+		{
+			"description": "13. To Demona",
+			"icon": "red down",
+			"xPosition": 9,
+			"xTile": 127,
+			"yPosition": 238,
+			"yTile": 123
+		}
+	],
+	"12712410": [
+		{
+			"description": "Dwarven Pickaxe (Daily Spawn)",
+			"icon": "bag",
+			"xPosition": 8,
+			"xTile": 127,
+			"yPosition": 185,
+			"yTile": 124
+		},
+		{
+			"description": "Coryms",
+			"icon": "red down",
+			"xPosition": 47,
+			"xTile": 127,
+			"yPosition": 115,
+			"yTile": 124
+		}
+	],
+	"12712510": [
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 116,
+			"xTile": 127,
+			"yPosition": 132,
+			"yTile": 125
+		}
+	],
+	"12812210": [
+		{
+			"description": "Depot",
+			"icon": "down",
+			"xPosition": 251,
+			"xTile": 128,
+			"yPosition": 226,
+			"yTile": 122
+		}
+	],
+	"12812310": [
+		{
+			"description": "Bank",
+			"icon": "$",
+			"xPosition": 244,
+			"xTile": 128,
+			"yPosition": 8,
+			"yTile": 123
+		}
+	],
+	"12812410": [
+		{
+			"description": "Gnomerik",
+			"icon": "cross",
+			"xPosition": 7,
+			"xTile": 128,
+			"yPosition": 1,
+			"yTile": 124
+		},
+		{
+			"description": "Commander Stone",
+			"icon": "cross",
+			"xPosition": 36,
+			"xTile": 128,
+			"yPosition": 53,
+			"yTile": 124
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 33,
+			"xTile": 128,
+			"yPosition": 24,
+			"yTile": 124
+		}
+	],
+	"12812610": [
+		{
+			"description": "Star Room",
+			"icon": "red down",
+			"xPosition": 229,
+			"xTile": 128,
+			"yPosition": 141,
+			"yTile": 126
+		},
+		{
+			"description": "",
+			"icon": "up",
+			"xPosition": 235,
+			"xTile": 128,
+			"yPosition": 156,
+			"yTile": 126
+		},
+		{
+			"description": "Akab’s Grave",
+			"icon": "crossmark",
+			"xPosition": 223,
+			"xTile": 128,
+			"yPosition": 196,
+			"yTile": 126
+		},
+		{
+			"description": "Elyen Ravenlock",
+			"icon": "down",
+			"xPosition": 227,
+			"xTile": 128,
+			"yPosition": 127,
+			"yTile": 126
+		},
+		{
+			"description": "Blood Priest (Tomruk the Ruddy)",
+			"icon": "down",
+			"xPosition": 200,
+			"xTile": 128,
+			"yPosition": 153,
+			"yTile": 126
+		}
+	],
+	"12812710": [
+		{
+			"description": "",
+			"icon": "red up",
+			"xPosition": 179,
+			"xTile": 128,
+			"yPosition": 243,
+			"yTile": 127
+		}
+	],
+	"12812810": [
+		{
+			"description": "Jar",
+			"icon": "checkmark",
+			"xPosition": 216,
+			"xTile": 128,
+			"yPosition": 4,
+			"yTile": 128
+		},
+		{
+			"description": "",
+			"icon": "red down",
+			"xPosition": 192,
+			"xTile": 128,
+			"yPosition": 8,
+			"yTile": 128
+		}
+	],
+	"12912610": [
+		{
+			"description": "Shadow Pupil (Oblivion)",
+			"icon": "!",
+			"xPosition": 0,
+			"xTile": 129,
+			"yPosition": 55,
+			"yTile": 126
+		},
+		{
+			"description": "Zarifan",
+			"icon": "down",
+			"xPosition": 19,
+			"xTile": 129,
+			"yPosition": 230,
+			"yTile": 126
+		},
+		{
+			"description": "Necromancer’s Pure Blood Chambers",
+			"icon": "crossmark",
+			"xPosition": 14,
+			"xTile": 129,
+			"yPosition": 184,
+			"yTile": 126
+		}
+	],
+	"13112410": [
+		{
+			"description": "Abandoned Sewers",
+			"icon": "!",
+			"xPosition": 13,
+			"xTile": 131,
+			"yPosition": 230,
+			"yTile": 124
+		}
+	]
+}
