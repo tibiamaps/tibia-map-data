@@ -791,6 +791,13 @@
 			"z": 8
 		},
 		{
+			"description": "NPC Kais",
+			"icon": "mouth",
+			"x": 32910,
+			"y": 32512,
+			"z": 8
+		},
+		{
 			"description": "",
 			"icon": "red down",
 			"x": 32985,

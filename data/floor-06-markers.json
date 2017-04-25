@@ -1,4 +1,20 @@
 {
+	"12412206": [
+		{
+			"description": "NPC Nomad",
+			"icon": "mouth",
+			"x": 31940,
+			"y": 31304,
+			"z": 6
+		},
+		{
+			"description": "Levitate spot",
+			"icon": "red down",
+			"x": 31940,
+			"y": 31306,
+			"z": 6
+		}
+	],
 	"12412806": [
 		{
 			"description": "",

@@ -6,6 +6,13 @@
 			"x": 31924,
 			"y": 31355,
 			"z": 7
+		},
+		{
+			"description": "Levitate spot (to NPC Nomad)",
+			"icon": "red up",
+			"x": 31940,
+			"y": 31307,
+			"z": 7
 		}
 	],
 	"12412507": [
@@ -2031,6 +2038,13 @@
 			"icon": "red down",
 			"x": 32906,
 			"y": 32734,
+			"z": 7
+		},
+		{
+			"description": "To NPC Kais",
+			"icon": "down",
+			"x": 32910,
+			"y": 32515,
 			"z": 7
 		},
 		{
