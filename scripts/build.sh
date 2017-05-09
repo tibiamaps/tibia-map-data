@@ -27,7 +27,8 @@ tibia-maps --from-data=../data --output-dir=Automap --no-markers;
 echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
 zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
-#imagemin minimap/*.png --out-dir=minimap;
+# Note: minimap images cannot be optimized — their color palette must be
+# preserved.
 zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
 tibia-maps --from-data=../data --flash-export-file=./maps-without-markers.exp --no-markers;
 file='export-without-markers.zip';
@@ -45,7 +46,8 @@ tibia-maps --from-data=../data --output-dir=Automap;
 echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
 zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
-#imagemin minimap/*.png --out-dir=minimap;
+# Note: minimap images cannot be optimized — their color palette must be
+# preserved.
 zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
 tibia-maps --from-data=../data --flash-export-file=./maps-with-markers.exp;
 file='export-with-markers.zip';
