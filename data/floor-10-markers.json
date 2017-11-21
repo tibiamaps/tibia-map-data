@@ -287,6 +287,13 @@
 			"z": 10
 		},
 		{
+			"description": "",
+			"icon": "up",
+			"x": 32436,
+			"y": 32202,
+			"z": 10
+		},
+		{
 			"description": "Hidden pick hole",
 			"icon": "red down",
 			"x": 32437,
