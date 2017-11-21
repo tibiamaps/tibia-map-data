@@ -3977,7 +3977,7 @@
 		},
 		{
 			"description": "Depot",
-			"icon": "bag",
+			"icon": "lock",
 			"x": 33657,
 			"y": 31657,
 			"z": 7
@@ -4207,7 +4207,7 @@
 		},
 		{
 			"description": "Depot",
-			"icon": "bag",
+			"icon": "lock",
 			"x": 33553,
 			"y": 32389,
 			"z": 7

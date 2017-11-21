@@ -514,7 +514,7 @@
 	"12812210": [
 		{
 			"description": "Depot",
-			"icon": "bag",
+			"icon": "lock",
 			"x": 33019,
 			"y": 31458,
 			"z": 10
@@ -672,7 +672,7 @@
 		},
 		{
 			"description": "Depot",
-			"icon": "bag",
+			"icon": "lock",
 			"x": 32826,
 			"y": 31764,
 			"z": 10
