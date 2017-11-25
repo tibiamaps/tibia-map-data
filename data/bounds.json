@@ -1,11 +1,11 @@
 {
 	"xMin": 124,
-	"xMax": 131,
+	"xMax": 132,
 	"yMin": 121,
 	"yMax": 128,
 	"zMin": 0,
 	"zMax": 15,
-	"width": 2048,
+	"width": 2304,
 	"height": 2048,
 	"floorIDs": [
 		"00",
