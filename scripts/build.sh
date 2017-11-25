@@ -20,72 +20,42 @@ imagemin data/*.png "${DIST_DIR}/";
 
 cd "${DIST_DIR}";
 
-# Generate `dist/Automap-without-markers.zip`.
-suffix='without-markers.zip';
-echo 'Generating maps without markers…';
-tibia-maps --from-data=../data --output-dir=Automap --no-markers;
-echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
-zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
-echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
+echo 'Generating minimap folders…';
+tibia-maps --from-data=../data;
 # Note: minimap images cannot be optimized — their color palette must be
 # preserved.
-zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
-tibia-maps --from-data=../data --flash-export-file=./maps-without-markers.exp --no-markers;
-file='export-without-markers.zip';
-echo "Saving maps export file without markers as \`${DIST_DIR}/${file}\`…";
-zip -q "${file}" maps-without-markers.exp;
-rm maps-without-markers.exp;
-# Preserve `dist/{Automap,minimap}-without-markers`.
-mv Automap Automap-without-markers;
-mv minimap minimap-without-markers;
+echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-with-markers.zip\`…";
+zip -q -FS -r "minimap-with-markers.zip" minimap --exclude */.git* */.DS_Store;
+echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-without-markers.zip\`…";
+zip -q -FS -r "minimap-without-markers.zip" minimap --exclude minimapmarkers.bin */.git* */.DS_Store;
 
-# Generate `dist/Automap-with-markers.zip`.
-suffix='with-markers.zip';
-echo 'Generating maps with markers…';
-tibia-maps --from-data=../data --output-dir=Automap;
-echo "Saving maps without markers as \`${DIST_DIR}/Automap-${suffix}\`…";
-zip -q -FS -r "Automap-${suffix}" Automap --exclude */.git* */.DS_Store;
-echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-${suffix}\`…";
-# Note: minimap images cannot be optimized — their color palette must be
-# preserved.
-zip -q -FS -r "minimap-${suffix}" minimap --exclude */.git* */.DS_Store;
-tibia-maps --from-data=../data --flash-export-file=./maps-with-markers.exp;
-file='export-with-markers.zip';
-echo "Saving maps export file with markers as \`${DIST_DIR}/${file}\`…";
-zip -q -FS "${file}" maps-with-markers.exp;
-rm maps-with-markers.exp;
-# Preserve `dist/{Automap,minimap}-with-markers`.
-mv Automap Automap-with-markers;
+# Preserve `dist/minimap-{with,without}-markers`.
 mv minimap minimap-with-markers;
+cp -r minimap-with-markers minimap-without-markers;
+rm minimap-without-markers/minimapmarkers.bin;
 
 # Generate `walkable-tiles.json`.
 # https://tibiamaps.io/blog/walkable-tile-count
 echo 'Saving the total number of walkable tiles as `walkable-tiles.json`…';
-for file in Automap-without-markers/*.map; do
-	# Get just the pathfinding data, and count only walkable tiles.
-	# In other words, discard 0xFA (unexplored) and 0xFF (non-walkable) bytes.
-	# https://tibiamaps.io/guides/map-file-format#pathfinding-data
-	dd if="${file}" skip=65536 count=65536 \
-		iflag=skip_bytes,count_bytes status=none | \
-		tr -d $'\xFA\xFF' | \
-		wc -c;
-done | awk '{s+=$1} END {print s}' | tee walkable-tiles.json;
+# TODO: Bring back this functionality.
+# Loop over pathfinding pixel data, and count only walkable tiles.
+# In other words, discard 0xFA (unexplored) and 0xFF (non-walkable)
+# bytes. https://tibiamaps.io/guides/map-file-format#pathfinding-data
+curl https://tibiamaps.github.io/archive/walkable-tiles.json > walkable-tiles.json;
 
-# Create optimized versions of each `*.map` file, intended for online map
-# viewer usage. Only the map data is needed; the pathfinding data and marker
-# data can be removed.
-echo 'Generating truncated & compressed map files for online mapper…';
+# Create optimized versions of each map tile, intended for online map viewer
+# usage. Only the map data is needed; the pathfinding data and marker data can
+# be removed.
+echo 'Generating optimized images for the online mapper…';
 mkdir -p mapper;
-for map in Automap-without-markers/*.map; do
-	file="$(basename ${map})";
-	head -c 65536 "${map}" > "mapper/${file}";
-done;
+imagemin minimap-without-markers/Minimap_Color_*.png mapper/;
+
 # Generate a list of known tile IDs, for online map viewers to use as a
 # whitelist.
 # Note: in Bash, file redirection occurs *before* the command is executed.
 # Because `tiles.json` shouldn’t get an entry in, well, `tiles.json`, we create
 # it outside of the `mapper` folder first, and move it afterwards.
-python -c 'import os, json; print json.dumps([name[0:8] for name in os.listdir("mapper")], separators=(",", ":"))' > tiles.json;
+python -c 'import os, json; print json.dumps([name.split(".")[0][14:] for name in os.listdir("mapper") if "_Color_" in name], separators=(",", ":"))' > tiles.json;
 mv tiles.json mapper/tiles.json;
 
-echo "All done.";
+echo 'All done.';
