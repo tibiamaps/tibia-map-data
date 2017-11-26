@@ -45,7 +45,7 @@ These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWik
 
 ## Set up
 
-1. Install [Node.js v4+](https://nodejs.org/en/).
+1. Install [Node.js v8+](https://nodejs.org/en/).
 
 2. Install [the `tibia-maps` command-line utility](https://github.com/tibiamaps/tibia-maps-script):
 
@@ -55,29 +55,29 @@ These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWik
 
 3. Clone this repository and `cd` to it in your favorite terminal.
 
-## `*.map` → `*.png` + `*.json`
+## `minimap/*` → `data/*`
 
-_If you’ve added new markers or explored new areas in-game, and you want to contribute them to our map data, then this is what you’re looking for. Copy the new map files to the `Automap` directory before continuing._
+_If you’ve added new markers or explored new areas in-game, and you want to contribute them to our map data, then this is what you’re looking for. Copy the new map files to the `minimap` directory before continuing._
 
-To generate PNGs for the maps + pathfinding visualization and JSON for the marker data based on the map files in the `Automap` directory, run:
+To generate PNGs for the maps + pathfinding visualization and JSON for the marker data based on the map files in the `minimap` directory, run:
 
 ```sh
-tibia-maps --from-maps=./Automap --output-dir=./data
+tibia-maps --from-minimap=./minimap --output-dir=./data
 ```
 
 The output is saved in the `data` directory.
 
-## `*.png` + `*.json` → `*.map`
+## `data/*` → `minimap/*`
 
 _If you’ve modified marker data by editing the JSON files, and you’re looking to contribute those changes back to our map data, then this is what you’re looking for._
 
-To generate Tibia-compatible `*.map` files based on the PNGs and JSON files in the `data` directory, run:
+To generate Tibia-compatible `minimap/*` files based on the PNGs and JSON files in the `data` directory, run:
 
 ```sh
-tibia-maps --from-data=./data --output-dir=./Automap-new
+tibia-maps --from-data=./data --output-dir=./minimap
 ```
 
-The output is saved in the `Automap-new` directory.
+The output is saved in the `minimap` directory.
 
 ## Maintainer
 
