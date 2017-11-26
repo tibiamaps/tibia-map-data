@@ -1526,13 +1526,6 @@
 			"z": 7
 		},
 		{
-			"description": "Rottin Wood",
-			"icon": "mouth",
-			"x": 32657,
-			"y": 32201,
-			"z": 7
-		},
-		{
 			"description": "Rabbits",
 			"icon": "down",
 			"x": 32690,
@@ -2412,13 +2405,6 @@
 			"icon": "sword",
 			"x": 33181,
 			"y": 31791,
-			"z": 7
-		},
-		{
-			"description": "Daniel Steelsoul",
-			"icon": "mouth",
-			"x": 33191,
-			"y": 31795,
 			"z": 7
 		},
 		{
