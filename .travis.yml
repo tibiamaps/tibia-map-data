@@ -16,8 +16,8 @@ before_install:
   - export CXX='g++-4.8'
 script:
   - tibia-maps --version
-  - tibia-maps --from-data=./data --output-dir=./Automap
-  - tibia-maps --from-maps=./Automap --output-dir=./data
+  - tibia-maps --from-data=./data --output-dir=./minimap
+  - tibia-maps --from-minimap=./minimap --output-dir=./data
   - git status && git diff-index --quiet HEAD --
 after_success:
   - scripts/install-ssh-key.sh

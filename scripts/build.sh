@@ -21,7 +21,7 @@ imagemin data/*.png "${DIST_DIR}/";
 cd "${DIST_DIR}";
 
 echo 'Generating minimap folders…';
-tibia-maps --from-data=../data;
+tibia-maps --from-data=../data --output-dir=./minimap;
 # Note: minimap images cannot be optimized — their color palette must be
 # preserved.
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-with-markers.zip\`…";
