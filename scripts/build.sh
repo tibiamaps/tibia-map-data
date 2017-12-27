@@ -27,7 +27,7 @@ tibia-maps --from-data=../data --output-dir=./minimap;
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-with-markers.zip\`…";
 zip -q -FS -r "minimap-with-markers.zip" minimap --exclude */.git* */.DS_Store;
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-without-markers.zip\`…";
-zip -q -FS -r "minimap-without-markers.zip" minimap --exclude minimapmarkers.bin */.git* */.DS_Store;
+zip -q -FS -r "minimap-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
 
 # Preserve `dist/minimap-{with,without}-markers`.
 mv minimap minimap-with-markers;
