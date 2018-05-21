@@ -4,6 +4,7 @@
 		"@alrra/travis-scripts": "^3.0.1",
 		"imagemin-cli": "^2.1.0",
 		"jsesc": "^2.2.0",
+		"tibia-count-walkable-tiles": "*",
 		"tibia-maps": "tibiamaps/tibia-maps-script"
 	},
 	"scripts": {

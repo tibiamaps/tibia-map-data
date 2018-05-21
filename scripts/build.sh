@@ -37,11 +37,7 @@ rm minimap-without-markers/minimapmarkers.bin;
 # Generate `walkable-tiles.json`.
 # https://tibiamaps.io/blog/walkable-tile-count
 echo 'Saving the total number of walkable tiles as `walkable-tiles.json`…';
-# TODO: Bring back this functionality.
-# Loop over pathfinding pixel data, and count only walkable tiles.
-# In other words, discard 0xFA (unexplored) and 0xFF (non-walkable)
-# bytes. https://tibiamaps.io/guides/map-file-format#pathfinding-data
-curl https://tibiamaps.github.io/archive/walkable-tiles.json > walkable-tiles.json;
+tibia-count-walkable-tiles ../data/floor-*-path.png > walkable-tiles.json;
 
 # Create optimized versions of each map tile, intended for online map viewer
 # usage. Only the map data is needed; the pathfinding data and marker data can
