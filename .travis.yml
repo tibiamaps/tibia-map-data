@@ -14,7 +14,7 @@ after_success:
   - scripts/install-ssh-key.sh
   - travis_wait scripts/update-gh-pages.sh
 git:
-  depth: 1
+  depth: 10
 branches:
   only:
     - master
