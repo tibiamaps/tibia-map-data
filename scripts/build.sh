@@ -24,7 +24,7 @@ echo 'Generating minimap folders…';
 tibia-maps --from-data=../data --output-dir=./minimap;
 # Note: minimap images cannot be optimized — their color palette must be
 # preserved.
-echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-with-markers.zip\`…";
+echo "Saving minimap maps with markers as \`${DIST_DIR}/minimap-with-markers.zip\`…";
 zip -q -FS -r "minimap-with-markers.zip" minimap --exclude */.git* */.DS_Store;
 echo "Saving minimap maps without markers as \`${DIST_DIR}/minimap-without-markers.zip\`…";
 zip -q -FS -r "minimap-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
@@ -33,6 +33,18 @@ zip -q -FS -r "minimap-without-markers.zip" minimap --exclude */minimapmarkers.b
 mv minimap minimap-with-markers;
 cp -r minimap-with-markers minimap-without-markers;
 rm minimap-without-markers/minimapmarkers.bin;
+
+echo 'Generating minimap folders with grid overlay…';
+tibia-maps --from-data=../data --output-dir=./minimap --overlay-grid;
+echo "Saving minimap maps with grid overlay and markers as \`${DIST_DIR}/minimap-with-grid-overlay-and-markers.zip\`…";
+zip -q -FS -r "minimap-with-grid-overlay-and-markers.zip" minimap --exclude */.git* */.DS_Store;
+echo "Saving minimap maps with grid overlay without markers as \`${DIST_DIR}/minimap-with-grid-overlay-without-markers.zip\`…";
+zip -q -FS -r "minimap-with-grid-overlay-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
+
+# Preserve `dist/minimap-with-grid-overlay-{and,without}-markers`.
+mv minimap minimap-with-grid-overlay-and-markers;
+cp -r minimap-with-grid-overlay-and-markers minimap-with-grid-overlay-without-markers;
+rm minimap-with-grid-overlay-without-markers/minimapmarkers.bin;
 
 # Generate `walkable-tiles.json`.
 # https://tibiamaps.io/blog/walkable-tile-count
