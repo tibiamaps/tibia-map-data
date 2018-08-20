@@ -1,4526 +1,4412 @@
-{
-	"12412207": [
-		{
-			"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
-			"icon": "down",
-			"x": 31924,
-			"y": 31355,
-			"z": 7
-		},
-		{
-			"description": "Levitate spot (to NPC Nomad)",
-			"icon": "red up",
-			"x": 31940,
-			"y": 31307,
-			"z": 7
-		}
-	],
-	"12412507": [
-		{
-			"description": "Orc Fortress",
-			"icon": "skull",
-			"x": 31977,
-			"y": 32157,
-			"z": 7
-		}
-	],
-	"12412707": [
-		{
-			"description": "",
-			"icon": "red down",
-			"x": 31915,
-			"y": 32590,
-			"z": 7
-		},
-		{
-			"description": "To portals",
-			"icon": "down",
-			"x": 31921,
-			"y": 32656,
-			"z": 7
-		},
-		{
-			"description": "To serpent spawns",
-			"icon": "red down",
-			"x": 31935,
-			"y": 32678,
-			"z": 7
-		},
-		{
-			"description": "To portals",
-			"icon": "down",
-			"x": 31946,
-			"y": 32556,
-			"z": 7
-		}
-	],
-	"12412807": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 31980,
-			"y": 32800,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 31987,
-			"y": 32832,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 31992,
-			"y": 32827,
-			"z": 7
-		}
-	],
-	"12512107": [
-		{
-			"description": "Quara scouts",
-			"icon": "red down",
-			"x": 32024,
-			"y": 31124,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32035,
-			"y": 31056,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32085,
-			"y": 31089,
-			"z": 7
-		},
-		{
-			"description": "Quara scouts",
-			"icon": "red down",
-			"x": 32086,
-			"y": 31093,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32088,
-			"y": 31018,
-			"z": 7
-		},
-		{
-			"description": "Levitate spot",
-			"icon": "up",
-			"x": 32171,
-			"y": 31161,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32179,
-			"y": 31230,
-			"z": 7
-		},
-		{
-			"description": "To GCTS",
-			"icon": "down",
-			"x": 32191,
-			"y": 31180,
-			"z": 7
-		},
-		{
-			"description": "Temple",
-			"icon": "cross",
-			"x": 32213,
-			"y": 31133,
-			"z": 7
-		}
-	],
-	"12512207": [
-		{
-			"description": "NPC Buddel",
-			"icon": "flag",
-			"x": 32021,
-			"y": 31294,
-			"z": 7
-		},
-		{
-			"description": "Stone golems",
-			"icon": "red down",
-			"x": 32098,
-			"y": 31371,
-			"z": 7
-		},
-		{
-			"description": "Glowing vortex",
-			"icon": "?",
-			"x": 32153,
-			"y": 31286,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32164,
-			"y": 31293,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32187,
-			"y": 31430,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32189,
-			"y": 31421,
-			"z": 7
-		},
-		{
-			"description": "Levitate spot",
-			"icon": "up",
-			"x": 32240,
-			"y": 31407,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32247,
-			"y": 31388,
-			"z": 7
-		}
-	],
-	"12512307": [
-		{
-			"description": "Boat to Tibia",
-			"icon": "flag",
-			"x": 32020,
-			"y": 31692,
-			"z": 7
-		},
-		{
-			"description": "Boat to Tibia",
-			"icon": "flag",
-			"x": 32045,
-			"y": 31578,
-			"z": 7
-		},
-		{
-			"description": "Boat to Tibia",
-			"icon": "flag",
-			"x": 32126,
-			"y": 31665,
-			"z": 7
-		},
-		{
-			"description": "Boat to Folda, Senja, and Vega",
-			"icon": "flag",
-			"x": 32235,
-			"y": 31674,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32252,
-			"y": 31717,
-			"z": 7
-		}
-	],
-	"12512407": [
-		{
-			"description": "Woodlings and meadow striders",
-			"icon": "red down",
-			"x": 32018,
-			"y": 31920,
-			"z": 7
-		},
-		{
-			"description": "NPC Woblin",
-			"icon": "down",
-			"x": 32021,
-			"y": 31885,
-			"z": 7
-		},
-		{
-			"description": "Minotaurs",
-			"icon": "red down",
-			"x": 32035,
-			"y": 31890,
-			"z": 7
-		},
-		{
-			"description": "Minotaurs",
-			"icon": "red down",
-			"x": 32050,
-			"y": 31874,
-			"z": 7
-		},
-		{
-			"description": "Brittle skeletons and rats",
-			"icon": "red down",
-			"x": 32066,
-			"y": 31873,
-			"z": 7
-		},
-		{
-			"description": "Woodlings and meadow striders",
-			"icon": "red down",
-			"x": 32072,
-			"y": 31915,
-			"z": 7
-		},
-		{
-			"description": "Goblins",
-			"icon": "red down",
-			"x": 32072,
-			"y": 31937,
-			"z": 7
-		},
-		{
-			"description": "Brittle skeletons and rats",
-			"icon": "red down",
-			"x": 32093,
-			"y": 31861,
-			"z": 7
-		},
-		{
-			"description": "Ship to the Mainland",
-			"icon": "up",
-			"x": 32098,
-			"y": 31986,
-			"z": 7
-		},
-		{
-			"description": "Island of Destiny — Training Centre",
-			"icon": "!",
-			"x": 32099,
-			"y": 31996,
-			"z": 7
-		},
-		{
-			"description": "Goblins",
-			"icon": "red down",
-			"x": 32111,
-			"y": 31903,
-			"z": 7
-		},
-		{
-			"description": "Spirit Grounds (world change)",
-			"icon": "!",
-			"x": 32172,
-			"y": 31786,
-			"z": 7
-		},
-		{
-			"description": "Boat to Isle of Kings",
-			"icon": "flag",
-			"x": 32211,
-			"y": 31756,
-			"z": 7
-		},
-		{
-			"description": "Passage to The Ghostlands",
-			"icon": "down",
-			"x": 32218,
-			"y": 31766,
-			"z": 7
-		},
-		{
-			"description": "Passage out of The Ghostlands",
-			"icon": "down",
-			"x": 32221,
-			"y": 31780,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32223,
-			"y": 31860,
-			"z": 7
-		}
-	],
-	"12512507": [
-		{
-			"description": "Wasps’ nest",
-			"icon": "up",
-			"x": 32000,
-			"y": 32139,
-			"z": 7
-		},
-		{
-			"description": "Lee'Delle’s Premium Store",
-			"icon": "bag",
-			"x": 32026,
-			"y": 32195,
-			"z": 7
-		},
-		{
-			"description": "West bridge",
-			"icon": "up",
-			"x": 32026,
-			"y": 32203,
-			"z": 7
-		},
-		{
-			"description": "Rat dungeon",
-			"icon": "down",
-			"x": 32041,
-			"y": 32228,
-			"z": 7
-		},
-		{
-			"description": "Spider lair",
-			"icon": "down",
-			"x": 32051,
-			"y": 32110,
-			"z": 7
-		},
-		{
-			"description": "General equipment store",
-			"icon": "bag",
-			"x": 32060,
-			"y": 32180,
-			"z": 7
-		},
-		{
-			"description": "Farms and food store",
-			"icon": "bag",
-			"x": 32065,
-			"y": 32204,
-			"z": 7
-		},
-		{
-			"description": "Lily’s Potion Shop",
-			"icon": "bag",
-			"x": 32068,
-			"y": 32228,
-			"z": 7
-		},
-		{
-			"description": "Barn",
-			"icon": "flag",
-			"x": 32082,
-			"y": 32182,
-			"z": 7
-		},
-		{
-			"description": "Tom the Tanner",
-			"icon": "bag",
-			"x": 32082,
-			"y": 32199,
-			"z": 7
-		},
-		{
-			"description": "North exit",
-			"icon": "up",
-			"x": 32091,
-			"y": 32178,
-			"z": 7
-		},
-		{
-			"description": "North bridge",
-			"icon": "up",
-			"x": 32091,
-			"y": 32179,
-			"z": 7
-		},
-		{
-			"description": "Troll caves",
-			"icon": "down",
-			"x": 32094,
-			"y": 32137,
-			"z": 7
-		},
-		{
-			"description": "Norma’s Bar",
-			"icon": "bag",
-			"x": 32097,
-			"y": 32181,
-			"z": 7
-		},
-		{
-			"description": "Rat dungeon",
-			"icon": "down",
-			"x": 32097,
-			"y": 32205,
-			"z": 7
-		},
-		{
-			"description": "Temple of Rookgaard",
-			"icon": "cross",
-			"x": 32097,
-			"y": 32219,
-			"z": 7
-		},
-		{
-			"description": "The Academy",
-			"icon": "?",
-			"x": 32098,
-			"y": 32196,
-			"z": 7
-		},
-		{
-			"description": "The Academy",
-			"icon": "flag",
-			"x": 32104,
-			"y": 32196,
-			"z": 7
-		},
-		{
-			"description": "Obi’s Shop",
-			"icon": "bag",
-			"x": 32105,
-			"y": 32203,
-			"z": 7
-		},
-		{
-			"description": "Weapon and armor shops",
-			"icon": "bag",
-			"x": 32106,
-			"y": 32204,
-			"z": 7
-		},
-		{
-			"description": "Unholy Crypt",
-			"icon": "down",
-			"x": 32131,
-			"y": 32201,
-			"z": 7
-		},
-		{
-			"description": "War Wolf Den",
-			"icon": "down",
-			"x": 32138,
-			"y": 32132,
-			"z": 7
-		},
-		{
-			"description": "To NPC Hyacinth",
-			"icon": "up",
-			"x": 32139,
-			"y": 32176,
-			"z": 7
-		}
-	],
-	"12512607": [
-		{
-			"description": "To the village",
-			"icon": "red right",
-			"x": 32001,
-			"y": 32278,
-			"z": 7
-		},
-		{
-			"description": "Santiago’s hut",
-			"icon": "up",
-			"x": 32022,
-			"y": 32273,
-			"z": 7
-		},
-		{
-			"description": "Boat to Meluna",
-			"icon": "flag",
-			"x": 32153,
-			"y": 32457,
-			"z": 7
-		}
-	],
-	"12512707": [
-		{
-			"description": "To portals",
-			"icon": "down",
-			"x": 32019,
-			"y": 32678,
-			"z": 7
-		},
-		{
-			"description": "Shattered Isles portals",
-			"icon": "down",
-			"x": 32038,
-			"y": 32560,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32049,
-			"y": 32600,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32050,
-			"y": 32620,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32066,
-			"y": 32633,
-			"z": 7
-		},
-		{
-			"description": "NPC Atrad (assassin star vendor)",
-			"icon": "down",
-			"x": 32075,
-			"y": 32538,
-			"z": 7
-		},
-		{
-			"description": "Fire field (needed for NPC Atrad)",
-			"icon": "star",
-			"x": 32075,
-			"y": 32573,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32086,
-			"y": 32577,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32097,
-			"y": 32576,
-			"z": 7
-		},
-		{
-			"description": "To demons",
-			"icon": "down",
-			"x": 32097,
-			"y": 32631,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32201,
-			"y": 32722,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32244,
-			"y": 32723,
-			"z": 7
-		}
-	],
-	"12512807": [
-		{
-			"description": "Treasure hole (requires pirate treasure map)",
-			"icon": "red down",
-			"x": 32126,
-			"y": 32934,
-			"z": 7
-		},
-		{
-			"description": "Boat to Liberty Bay",
-			"icon": "flag",
-			"x": 32132,
-			"y": 32912,
-			"z": 7
-		},
-		{
-			"description": "Treasure hole (requires pirate treasure map)",
-			"icon": "red down",
-			"x": 32144,
-			"y": 32947,
-			"z": 7
-		},
-		{
-			"description": "Bonelord Cave",
-			"icon": "red down",
-			"x": 32158,
-			"y": 32782,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32181,
-			"y": 32808,
-			"z": 7
-		},
-		{
-			"description": "Treasure hole (requires pirate treasure map)",
-			"icon": "red down",
-			"x": 32201,
-			"y": 32947,
-			"z": 7
-		},
-		{
-			"description": "Quaras",
-			"icon": "red down",
-			"x": 32206,
-			"y": 32883,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32225,
-			"y": 32849,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32233,
-			"y": 32774,
-			"z": 7
-		}
-	],
-	"12612107": [
-		{
-			"description": "NPC Buddel",
-			"icon": "flag",
-			"x": 32256,
-			"y": 31197,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 32263,
-			"y": 31140,
-			"z": 7
-		},
-		{
-			"description": "Passage to Nibelor",
-			"icon": "flag",
-			"x": 32301,
-			"y": 31083,
-			"z": 7
-		},
-		{
-			"description": "Magic store, post office, and bank",
-			"icon": "star",
-			"x": 32303,
-			"y": 31133,
-			"z": 7
-		},
-		{
-			"description": "Passage to Svargrond",
-			"icon": "flag",
-			"x": 32327,
-			"y": 31044,
-			"z": 7
-		},
-		{
-			"description": "NPC Buddel",
-			"icon": "flag",
-			"x": 32333,
-			"y": 31227,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 32341,
-			"y": 31116,
-			"z": 7
-		},
-		{
-			"description": "Ice golems and crystal spiders",
-			"icon": "red down",
-			"x": 32357,
-			"y": 31087,
-			"z": 7
-		},
-		{
-			"description": "Passage to Inukaya (1 ham required)",
-			"icon": "flag",
-			"x": 32367,
-			"y": 31058,
-			"z": 7
-		},
-		{
-			"description": "Passage to Nibelor (1 ham required)",
-			"icon": "flag",
-			"x": 32410,
-			"y": 31066,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32418,
-			"y": 31086,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32436,
-			"y": 31063,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32462,
-			"y": 31101,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32469,
-			"y": 31117,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32470,
-			"y": 31095,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32471,
-			"y": 31110,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32476,
-			"y": 31099,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32478,
-			"y": 31114,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32482,
-			"y": 31103,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32484,
-			"y": 31090,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32484,
-			"y": 31097,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32488,
-			"y": 31113,
-			"z": 7
-		}
-	],
-	"12612207": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32256,
-			"y": 31399,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32265,
-			"y": 31343,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32266,
-			"y": 31360,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32269,
-			"y": 31353,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32285,
-			"y": 31410,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32292,
-			"y": 31424,
-			"z": 7
-		}
-	],
-	"12612307": [
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32268,
-			"y": 31726,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32339,
-			"y": 31675,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32384,
-			"y": 31691,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32412,
-			"y": 31601,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32420,
-			"y": 31591,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32435,
-			"y": 31636,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32488,
-			"y": 31657,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32490,
-			"y": 31698,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32510,
-			"y": 31716,
-			"z": 7
-		}
-	],
-	"12612407": [
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32261,
-			"y": 31848,
-			"z": 7
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"x": 32326,
-			"y": 31782,
-			"z": 7
-		},
-		{
-			"description": "Depot and post office",
-			"icon": "lock",
-			"x": 32336,
-			"y": 31784,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 32346,
-			"y": 31828,
-			"z": 7
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 32350,
-			"y": 31756,
-			"z": 7
-		},
-		{
-			"description": "Temple",
-			"icon": "cross",
-			"x": 32360,
-			"y": 31782,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 32378,
-			"y": 31815,
-			"z": 7
-		},
-		{
-			"description": "Minotaurs (boss: The Horned Fox)",
-			"icon": "!",
-			"x": 32489,
-			"y": 31964,
-			"z": 7
-		}
-	],
-	"12612507": [
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32270,
-			"y": 32171,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 32321,
-			"y": 32211,
-			"z": 7
-		},
-		{
-			"description": "Portal of black energy (boss: Lady Tenebris)",
-			"icon": "flag",
-			"x": 32325,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Portal of violet energy (boss: Lloyd)",
-			"icon": "flag",
-			"x": 32328,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
-			"icon": "flag",
-			"x": 32331,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Portal of orange energy (teleport to northern Zao; boss: Dragonking Zyrtarch)",
-			"icon": "flag",
-			"x": 32334,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Portal of blue energy (teleport to Formorgar mines; boss: Solid Frozen Horror)",
-			"icon": "flag",
-			"x": 32337,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Portal of golden energy (boss: The Time Guardian)",
-			"icon": "flag",
-			"x": 32340,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Depot & bank",
-			"icon": "lock",
-			"x": 32347,
-			"y": 32226,
-			"z": 7
-		},
-		{
-			"description": "Offline training (distance)",
-			"icon": "sword",
-			"x": 32350,
-			"y": 32238,
-			"z": 7
-		},
-		{
-			"description": "PvE/PvP arena",
-			"icon": "skull",
-			"x": 32353,
-			"y": 32222,
-			"z": 7
-		},
-		{
-			"description": "Temple",
-			"icon": "cross",
-			"x": 32369,
-			"y": 32239,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 32399,
-			"y": 32220,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32410,
-			"y": 32008,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32448,
-			"y": 32069,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32453,
-			"y": 32065,
-			"z": 7
-		}
-	],
-	"12612607": [
-		{
-			"description": "NPC Eclesius",
-			"icon": "mouth",
-			"x": 32291,
-			"y": 32291,
-			"z": 7
-		},
-		{
-			"description": "Offline training (magic)",
-			"icon": "sword",
-			"x": 32297,
-			"y": 32268,
-			"z": 7
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"x": 32318,
-			"y": 32256,
-			"z": 7
-		},
-		{
-			"description": "Wasps",
-			"icon": "red down",
-			"x": 32428,
-			"y": 32315,
-			"z": 7
-		},
-		{
-			"description": "Trolls",
-			"icon": "red down",
-			"x": 32493,
-			"y": 32259,
-			"z": 7
-		}
-	],
-	"12612707": [
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 32267,
-			"y": 32699,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32321,
-			"y": 32621,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32348,
-			"y": 32695,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32360,
-			"y": 32721,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32368,
-			"y": 32729,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32384,
-			"y": 32702,
-			"z": 7
-		},
-		{
-			"description": "Meriana Gargoyle Cave",
-			"icon": "down",
-			"x": 32389,
-			"y": 32604,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32418,
-			"y": 32758,
-			"z": 7
-		}
-	],
-	"12612807": [
-		{
-			"description": "Coryms",
-			"icon": "red down",
-			"x": 32268,
-			"y": 32837,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 32306,
-			"y": 32868,
-			"z": 7
-		},
-		{
-			"description": "To the temple",
-			"icon": "cross",
-			"x": 32317,
-			"y": 32825,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 32327,
-			"y": 32835,
-			"z": 7
-		},
-		{
-			"description": "Bank and post office",
-			"icon": "$",
-			"x": 32337,
-			"y": 32838,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 32346,
-			"y": 32810,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32373,
-			"y": 32770,
-			"z": 7
-		},
-		{
-			"description": "Wyrms",
-			"icon": "red down",
-			"x": 32388,
-			"y": 32841,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32429,
-			"y": 32796,
-			"z": 7
-		},
-		{
-			"description": "Levitate spot",
-			"icon": "red up",
-			"x": 32433,
-			"y": 32807,
-			"z": 7
-		}
-	],
-	"12712107": [
-		{
-			"description": "Mutated tigers",
-			"icon": "red down",
-			"x": 32664,
-			"y": 31074,
-			"z": 7
-		},
-		{
-			"description": "To the Arena and Zoo Quarter",
-			"icon": "up",
-			"x": 32738,
-			"y": 31201,
-			"z": 7
-		},
-		{
-			"description": "To the Alchemist Quarter",
-			"icon": "up",
-			"x": 32752,
-			"y": 31169,
-			"z": 7
-		}
-	],
-	"12712207": [
-		{
-			"description": "To the Foreigner Quarter",
-			"icon": "up",
-			"x": 32763,
-			"y": 31249,
-			"z": 7
-		}
-	],
-	"12712307": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32558,
-			"y": 31680,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32581,
-			"y": 31721,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red down",
-			"x": 32596,
-			"y": 31687,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red down",
-			"x": 32599,
-			"y": 31669,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red left",
-			"x": 32601,
-			"y": 31672,
-			"z": 7
-		},
-		{
-			"description": "Temple",
-			"icon": "cross",
-			"x": 32607,
-			"y": 31680,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red right",
-			"x": 32616,
-			"y": 31665,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red right",
-			"x": 32616,
-			"y": 31694,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red left",
-			"x": 32617,
-			"y": 31698,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "red right",
-			"x": 32623,
-			"y": 31689,
-			"z": 7
-		},
-		{
-			"description": "To temple",
-			"icon": "red left",
-			"x": 32627,
-			"y": 31702,
-			"z": 7
-		},
-		{
-			"description": "Rorcs or drillworms and lost dwarves",
-			"icon": "red down",
-			"x": 32653,
-			"y": 31732,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32654,
-			"y": 31674,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32656,
-			"y": 31674,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32680,
-			"y": 31720,
-			"z": 7
-		},
-		{
-			"description": "Opticording sphere quest",
-			"icon": "down",
-			"x": 32682,
-			"y": 31604,
-			"z": 7
-		},
-		{
-			"description": "Depot & bank",
-			"icon": "lock",
-			"x": 32682,
-			"y": 31685,
-			"z": 7
-		}
-	],
-	"12712407": [
-		{
-			"description": "To NPC Budrik",
-			"icon": "down",
-			"x": 32533,
-			"y": 31913,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32548,
-			"y": 31988,
-			"z": 7
-		},
-		{
-			"description": "Ore wagon",
-			"icon": "flag",
-			"x": 32553,
-			"y": 31931,
-			"z": 7
-		},
-		{
-			"description": "Passage to Kazordoon",
-			"icon": "up",
-			"x": 32556,
-			"y": 31924,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32574,
-			"y": 31980,
-			"z": 7
-		},
-		{
-			"description": "Entrance to Kazordoon",
-			"icon": "down",
-			"x": 32578,
-			"y": 31892,
-			"z": 7
-		},
-		{
-			"description": "Ore wagon",
-			"icon": "flag",
-			"x": 32601,
-			"y": 31875,
-			"z": 7
-		},
-		{
-			"description": "Ore wagon",
-			"icon": "flag",
-			"x": 32618,
-			"y": 31944,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32625,
-			"y": 31799,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32632,
-			"y": 31812,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32654,
-			"y": 31829,
-			"z": 7
-		},
-		{
-			"description": "Trolls",
-			"icon": "red down",
-			"x": 32663,
-			"y": 31963,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32671,
-			"y": 31796,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32683,
-			"y": 31807,
-			"z": 7
-		},
-		{
-			"description": "White deer (spawn location)",
-			"icon": "star",
-			"x": 32693,
-			"y": 31890,
-			"z": 7
-		},
-		{
-			"description": "Tainted Caves",
-			"icon": "down",
-			"x": 32709,
-			"y": 31939,
-			"z": 7
-		},
-		{
-			"description": "Poacher Caves",
-			"icon": "down",
-			"x": 32756,
-			"y": 31928,
-			"z": 7
-		}
-	],
-	"12712507": [
-		{
-			"description": "To glowing vortex: instable breach broods & instable sparkions",
-			"icon": "red down",
-			"x": 32541,
-			"y": 32021,
-			"z": 7
-		},
-		{
-			"description": "Key 3302",
-			"icon": "star",
-			"x": 32610,
-			"y": 32244,
-			"z": 7
-		},
-		{
-			"description": "Key 3301",
-			"icon": "star",
-			"x": 32617,
-			"y": 32251,
-			"z": 7
-		},
-		{
-			"description": "Portal of green energy (teleport to Halls of Hope)",
-			"icon": "flag",
-			"x": 32637,
-			"y": 32255,
-			"z": 7
-		},
-		{
-			"description": "Key 3303",
-			"icon": "star",
-			"x": 32652,
-			"y": 32244,
-			"z": 7
-		},
-		{
-			"description": "NPC Rottin Wood",
-			"icon": "mouth",
-			"x": 32657,
-			"y": 32201,
-			"z": 7
-		},
-		{
-			"description": "Rabbits",
-			"icon": "down",
-			"x": 32690,
-			"y": 32204,
-			"z": 7
-		},
-		{
-			"description": "To Wyda’s hut",
-			"icon": "down",
-			"x": 32699,
-			"y": 32018,
-			"z": 7
-		}
-	],
-	"12712607": [
-		{
-			"description": "Water elementals",
-			"icon": "red down",
-			"x": 32590,
-			"y": 32314,
-			"z": 7
-		},
-		{
-			"description": "NPC Weakened Forest Fury",
-			"icon": "mouth",
-			"x": 32615,
-			"y": 32269,
-			"z": 7
-		},
-		{
-			"description": "To the glade",
-			"icon": "down",
-			"x": 32616,
-			"y": 32265,
-			"z": 7
-		}
-	],
-	"12712707": [
-		{
-			"description": "Slime training spot",
-			"icon": "sword",
-			"x": 32529,
-			"y": 32721,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32531,
-			"y": 32711,
-			"z": 7
-		},
-		{
-			"description": "Smugglers",
-			"icon": "red down",
-			"x": 32555,
-			"y": 32678,
-			"z": 7
-		},
-		{
-			"description": "To the harbour",
-			"icon": "up",
-			"x": 32578,
-			"y": 32766,
-			"z": 7
-		},
-		{
-			"description": "Slime training spot",
-			"icon": "sword",
-			"x": 32586,
-			"y": 32711,
-			"z": 7
-		},
-		{
-			"description": "Temple",
-			"icon": "cross",
-			"x": 32595,
-			"y": 32746,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32613,
-			"y": 32557,
-			"z": 7
-		},
-		{
-			"description": "Crocodiles (task boss: The Snapper)",
-			"icon": "!",
-			"x": 32613,
-			"y": 32703,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 32623,
-			"y": 32746,
-			"z": 7
-		},
-		{
-			"description": "To the shops, post office, and bank",
-			"icon": "up",
-			"x": 32629,
-			"y": 32749,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32640,
-			"y": 32555,
-			"z": 7
-		},
-		{
-			"description": "Swamp trolls",
-			"icon": "red down",
-			"x": 32678,
-			"y": 32609,
-			"z": 7
-		},
-		{
-			"description": "Task boss: Deathbine",
-			"icon": "!",
-			"x": 32731,
-			"y": 32765,
-			"z": 7
-		}
-	],
-	"12712807": [
-		{
-			"description": "Water elementals (level 50+)",
-			"icon": "red down",
-			"x": 32560,
-			"y": 32860,
-			"z": 7
-		},
-		{
-			"description": "Coryms",
-			"icon": "red down",
-			"x": 32606,
-			"y": 32803,
-			"z": 7
-		},
-		{
-			"description": "Trap holes",
-			"icon": "skull",
-			"x": 32635,
-			"y": 32915,
-			"z": 7
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 32636,
-			"y": 32796,
-			"z": 7
-		},
-		{
-			"description": "Dworcs",
-			"icon": "red down",
-			"x": 32644,
-			"y": 32925,
-			"z": 7
-		},
-		{
-			"description": "Water elementals",
-			"icon": "red down",
-			"x": 32679,
-			"y": 32964,
-			"z": 7
-		},
-		{
-			"description": "NPC Grizzly Adams",
-			"icon": "mouth",
-			"x": 32694,
-			"y": 32772,
-			"z": 7
-		},
-		{
-			"description": "Trap holes",
-			"icon": "skull",
-			"x": 32694,
-			"y": 32858,
-			"z": 7
-		},
-		{
-			"description": "Trap holes",
-			"icon": "skull",
-			"x": 32694,
-			"y": 32938,
-			"z": 7
-		},
-		{
-			"description": "Trap holes",
-			"icon": "skull",
-			"x": 32720,
-			"y": 32936,
-			"z": 7
-		},
-		{
-			"description": "Tarantulas",
-			"icon": "red down",
-			"x": 32726,
-			"y": 32793,
-			"z": 7
-		},
-		{
-			"description": "Tarantulas",
-			"icon": "red down",
-			"x": 32758,
-			"y": 32791,
-			"z": 7
-		},
-		{
-			"description": "Trap holes",
-			"icon": "skull",
-			"x": 32766,
-			"y": 32894,
-			"z": 7
-		}
-	],
-	"12812107": [
-		{
-			"description": "To the Cemetery Quarter",
-			"icon": "up",
-			"x": 32780,
-			"y": 31150,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "checkmark",
-			"x": 32785,
-			"y": 31035,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32829,
-			"y": 31040,
-			"z": 7
-		},
-		{
-			"description": "To the Magician Quarter",
-			"icon": "up",
-			"x": 32833,
-			"y": 31155,
-			"z": 7
-		},
-		{
-			"description": "To the Sunken Quarter",
-			"icon": "up",
-			"x": 32864,
-			"y": 31201,
-			"z": 7
-		}
-	],
-	"12812207": [
-		{
-			"description": "Temple raft",
-			"icon": "cross",
-			"x": 32787,
-			"y": 31275,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 32790,
-			"y": 31235,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 32793,
-			"y": 31248,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 32810,
-			"y": 31269,
-			"z": 7
-		},
-		{
-			"description": "Bank and post office",
-			"icon": "$",
-			"x": 32826,
-			"y": 31249,
-			"z": 7
-		},
-		{
-			"description": "To the Former Trade Quarter",
-			"icon": "up",
-			"x": 32834,
-			"y": 31263,
-			"z": 7
-		},
-		{
-			"description": "Boat to Vengoth",
-			"icon": "flag",
-			"x": 32837,
-			"y": 31365,
-			"z": 7
-		},
-		{
-			"description": "To the Factory Quarter",
-			"icon": "up",
-			"x": 32850,
-			"y": 31246,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32853,
-			"y": 31271,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32872,
-			"y": 31295,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32878,
-			"y": 31268,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32890,
-			"y": 31322,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32904,
-			"y": 31285,
-			"z": 7
-		},
-		{
-			"description": "Worker golems / war golems",
-			"icon": "red down",
-			"x": 32908,
-			"y": 31317,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32915,
-			"y": 31259,
-			"z": 7
-		},
-		{
-			"description": "Worker golems",
-			"icon": "red down",
-			"x": 32936,
-			"y": 31256,
-			"z": 7
-		}
-	],
-	"12812307": [
-		{
-			"description": "Boat to Yalahar",
-			"icon": "flag",
-			"x": 32857,
-			"y": 31549,
-			"z": 7
-		},
-		{
-			"description": "Orc that drops Sam’s old and used backpack (spawn location)",
-			"icon": "star",
-			"x": 32978,
-			"y": 31742,
-			"z": 7
-		},
-		{
-			"description": "Werewolves",
-			"icon": "red up",
-			"x": 32980,
-			"y": 31495,
-			"z": 7
-		}
-	],
-	"12812507": [
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 32832,
-			"y": 32084,
-			"z": 7
-		}
-	],
-	"12812607": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32770,
-			"y": 32341,
-			"z": 7
-		},
-		{
-			"description": "Swamp trolls / rotworms",
-			"icon": "red down",
-			"x": 32913,
-			"y": 32261,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32996,
-			"y": 32412,
-			"z": 7
-		},
-		{
-			"description": "To exit",
-			"icon": "down",
-			"x": 33018,
-			"y": 32429,
-			"z": 7
-		}
-	],
-	"12812707": [
-		{
-			"description": "Tarantulas",
-			"icon": "red down",
-			"x": 32777,
-			"y": 32685,
-			"z": 7
-		},
-		{
-			"description": "Protection zone",
-			"icon": "cross",
-			"x": 32825,
-			"y": 32632,
-			"z": 7
-		},
-		{
-			"description": "Tarantulas (task boss: Hide)",
-			"icon": "!",
-			"x": 32827,
-			"y": 32691,
-			"z": 7
-		},
-		{
-			"description": "Midnight panther (spawn location)",
-			"icon": "star",
-			"x": 32847,
-			"y": 32697,
-			"z": 7
-		},
-		{
-			"description": "Hidden shovel hole (treasure hunt quest)",
-			"icon": "down",
-			"x": 32852,
-			"y": 32669,
-			"z": 7
-		},
-		{
-			"description": "Shortcut to Deeper Banuta",
-			"icon": "down",
-			"x": 32853,
-			"y": 32669,
-			"z": 7
-		},
-		{
-			"description": "Midnight panther (spawn location)",
-			"icon": "star",
-			"x": 32857,
-			"y": 32738,
-			"z": 7
-		},
-		{
-			"description": "Special task: Tiquanda’s Revenge",
-			"icon": "!",
-			"x": 32876,
-			"y": 32583,
-			"z": 7
-		},
-		{
-			"description": "Midnight panther (spawn location)",
-			"icon": "star",
-			"x": 32885,
-			"y": 32719,
-			"z": 7
-		},
-		{
-			"description": "Hidden shovel hole (treasure hunt quest)",
-			"icon": "down",
-			"x": 32902,
-			"y": 32515,
-			"z": 7
-		},
-		{
-			"description": "Carniphila",
-			"icon": "red down",
-			"x": 32906,
-			"y": 32734,
-			"z": 7
-		},
-		{
-			"description": "To NPC Kais",
-			"icon": "down",
-			"x": 32910,
-			"y": 32515,
-			"z": 7
-		},
-		{
-			"description": "Giant spiders",
-			"icon": "red down",
-			"x": 32949,
-			"y": 32534,
-			"z": 7
-		},
-		{
-			"description": "Giant spiders",
-			"icon": "red down",
-			"x": 32961,
-			"y": 32545,
-			"z": 7
-		},
-		{
-			"description": "Terramites",
-			"icon": "red down",
-			"x": 32975,
-			"y": 32686,
-			"z": 7
-		},
-		{
-			"description": "Dwarves",
-			"icon": "red down",
-			"x": 32979,
-			"y": 32660,
-			"z": 7
-		},
-		{
-			"description": "Passage to Darama",
-			"icon": "up",
-			"x": 32982,
-			"y": 32716,
-			"z": 7
-		},
-		{
-			"description": "Dragons",
-			"icon": "red down",
-			"x": 32983,
-			"y": 32646,
-			"z": 7
-		},
-		{
-			"description": "Hydras",
-			"icon": "red down",
-			"x": 32988,
-			"y": 32523,
-			"z": 7
-		},
-		{
-			"description": "Exit",
-			"icon": "down",
-			"x": 33008,
-			"y": 32622,
-			"z": 7
-		},
-		{
-			"description": "Northern Kha'zeel Dragon Lair",
-			"icon": "down",
-			"x": 33009,
-			"y": 32604,
-			"z": 7
-		},
-		{
-			"description": "Behemoths",
-			"icon": "red down",
-			"x": 33013,
-			"y": 32564,
-			"z": 7
-		},
-		{
-			"description": "Passage to the Forbidden Lands",
-			"icon": "flag",
-			"x": 33021,
-			"y": 32604,
-			"z": 7
-		}
-	],
-	"12812807": [
-		{
-			"description": "Tarantulas",
-			"icon": "red down",
-			"x": 32818,
-			"y": 32809,
-			"z": 7
-		},
-		{
-			"description": "Hidden shovel hole (treasure hunt quest)",
-			"icon": "down",
-			"x": 32844,
-			"y": 32775,
-			"z": 7
-		},
-		{
-			"description": "Spider Caves",
-			"icon": "down",
-			"x": 32851,
-			"y": 32870,
-			"z": 7
-		},
-		{
-			"description": "Medusa Tower entrance",
-			"icon": "red down",
-			"x": 32853,
-			"y": 32814,
-			"z": 7
-		},
-		{
-			"description": "Protection zone",
-			"icon": "cross",
-			"x": 32968,
-			"y": 32800,
-			"z": 7
-		}
-	],
-	"12912107": [
-		{
-			"description": "Golden ewer (daily spawn)",
-			"icon": "bag",
-			"x": 33059,
-			"y": 31099,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33173,
-			"y": 31075,
-			"z": 7
-		},
-		{
-			"description": "Ghastly dragons",
-			"icon": "red down",
-			"x": 33176,
-			"y": 31015,
-			"z": 7
-		}
-	],
-	"12912207": [
-		{
-			"description": "To glowing vortex",
-			"icon": "red down",
-			"x": 33034,
-			"y": 31371,
-			"z": 7
-		},
-		{
-			"description": "Gnarlhounds",
-			"icon": "red down",
-			"x": 33104,
-			"y": 31388,
-			"z": 7
-		},
-		{
-			"description": "Gnarlhounds",
-			"icon": "red down",
-			"x": 33119,
-			"y": 31456,
-			"z": 7
-		},
-		{
-			"description": "Lancer beetles",
-			"icon": "red down",
-			"x": 33130,
-			"y": 31353,
-			"z": 7
-		},
-		{
-			"description": "Killer caimans",
-			"icon": "red down",
-			"x": 33137,
-			"y": 31449,
-			"z": 7
-		},
-		{
-			"description": "Terramites",
-			"icon": "red down",
-			"x": 33141,
-			"y": 31475,
-			"z": 7
-		},
-		{
-			"description": "Portal to Southern Zao",
-			"icon": "up",
-			"x": 33146,
-			"y": 31249,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33166,
-			"y": 31329,
-			"z": 7
-		},
-		{
-			"description": "NPC Curos",
-			"icon": "mouth",
-			"x": 33172,
-			"y": 31395,
-			"z": 7
-		},
-		{
-			"description": "High class lizards",
-			"icon": "red up",
-			"x": 33175,
-			"y": 31305,
-			"z": 7
-		},
-		{
-			"description": "Gnarlhounds",
-			"icon": "red down",
-			"x": 33195,
-			"y": 31473,
-			"z": 7
-		},
-		{
-			"description": "Portal to Northern Zao",
-			"icon": "up",
-			"x": 33198,
-			"y": 31348,
-			"z": 7
-		},
-		{
-			"description": "Lancer beetles",
-			"icon": "red down",
-			"x": 33223,
-			"y": 31397,
-			"z": 7
-		}
-	],
-	"12912307": [
-		{
-			"description": "Gnarlhounds",
-			"icon": "red down",
-			"x": 33062,
-			"y": 31506,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33081,
-			"y": 31532,
-			"z": 7
-		},
-		{
-			"description": "Dragons",
-			"icon": "red down",
-			"x": 33099,
-			"y": 31699,
-			"z": 7
-		},
-		{
-			"description": "Vampire Crypts",
-			"icon": "red down",
-			"x": 33109,
-			"y": 31721,
-			"z": 7
-		},
-		{
-			"description": "To the Mage’s Tower",
-			"icon": "up",
-			"x": 33135,
-			"y": 31510,
-			"z": 7
-		},
-		{
-			"description": "Earth elementals and bog raiders",
-			"icon": "red down",
-			"x": 33157,
-			"y": 31720,
-			"z": 7
-		},
-		{
-			"description": "Edron Ruins (a.k.a. Hero Cave)",
-			"icon": "red down",
-			"x": 33163,
-			"y": 31636,
-			"z": 7
-		},
-		{
-			"description": "To glowing vortex",
-			"icon": "red down",
-			"x": 33192,
-			"y": 31642,
-			"z": 7
-		},
-		{
-			"description": "Terramites",
-			"icon": "red down",
-			"x": 33196,
-			"y": 31544,
-			"z": 7
-		}
-	],
-	"12912407": [
-		{
-			"description": "Goblins",
-			"icon": "red down",
-			"x": 33107,
-			"y": 31847,
-			"z": 7
-		},
-		{
-			"description": "Trolls",
-			"icon": "red down",
-			"x": 33117,
-			"y": 31774,
-			"z": 7
-		},
-		{
-			"description": "Passage to Edron",
-			"icon": "down",
-			"x": 33128,
-			"y": 31809,
-			"z": 7
-		},
-		{
-			"description": "Passage to west side",
-			"icon": "down",
-			"x": 33165,
-			"y": 31827,
-			"z": 7
-		},
-		{
-			"description": "Underground depot",
-			"icon": "down",
-			"x": 33169,
-			"y": 31812,
-			"z": 7
-		},
-		{
-			"description": "Bank and post office",
-			"icon": "$",
-			"x": 33172,
-			"y": 31807,
-			"z": 7
-		},
-		{
-			"description": "Orcs",
-			"icon": "red down",
-			"x": 33173,
-			"y": 31900,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 33175,
-			"y": 31775,
-			"z": 7
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 33181,
-			"y": 31791,
-			"z": 7
-		},
-		{
-			"description": "NPC Daniel Steelsoul",
-			"icon": "mouth",
-			"x": 33191,
-			"y": 31795,
-			"z": 7
-		},
-		{
-			"description": "PvE/PvP arena",
-			"icon": "skull",
-			"x": 33199,
-			"y": 31785,
-			"z": 7
-		},
-		{
-			"description": "To the temple",
-			"icon": "down",
-			"x": 33210,
-			"y": 31814,
-			"z": 7
-		},
-		{
-			"description": "To the flying carpet",
-			"icon": "up",
-			"x": 33215,
-			"y": 31784,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33216,
-			"y": 31756,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 33221,
-			"y": 31922,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33241,
-			"y": 31767,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 33247,
-			"y": 31841,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33277,
-			"y": 31958,
-			"z": 7
-		}
-	],
-	"12912507": [
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33029,
-			"y": 32089,
-			"z": 7
-		},
-		{
-			"description": "Rafzan",
-			"icon": "lock",
-			"x": 33054,
-			"y": 32096,
-			"z": 7
-		},
-		{
-			"description": "Coryms",
-			"icon": "red down",
-			"x": 33072,
-			"y": 32087,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33109,
-			"y": 32104,
-			"z": 7
-		},
-		{
-			"description": "Dryad Gardens",
-			"icon": "down",
-			"x": 33264,
-			"y": 32014,
-			"z": 7
-		}
-	],
-	"12912607": [
-		{
-			"description": "Grim reapers",
-			"icon": "red down",
-			"x": 33028,
-			"y": 32439,
-			"z": 7
-		},
-		{
-			"description": "To NPC Zarifan",
-			"icon": "down",
-			"x": 33051,
-			"y": 32471,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33058,
-			"y": 32375,
-			"z": 7
-		},
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 33065,
-			"y": 32458,
-			"z": 7
-		},
-		{
-			"description": "Passage to Drefia",
-			"icon": "up",
-			"x": 33090,
-			"y": 32450,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33133,
-			"y": 32432,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33137,
-			"y": 32352,
-			"z": 7
-		},
-		{
-			"description": "To GCTS",
-			"icon": "up",
-			"x": 33175,
-			"y": 32383,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "down",
-			"x": 33214,
-			"y": 32455,
-			"z": 7
-		},
-		{
-			"description": "Bank",
-			"icon": "$",
-			"x": 33220,
-			"y": 32391,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "star",
-			"x": 33221,
-			"y": 32403,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "red down",
-			"x": 33225,
-			"y": 32300,
-			"z": 7
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 33239,
-			"y": 32409,
-			"z": 7
-		},
-		{
-			"description": "Dragons (level 40+)",
-			"icon": "?",
-			"x": 33265,
-			"y": 32279,
-			"z": 7
-		},
-		{
-			"description": "To the flying carpet",
-			"icon": "up",
-			"x": 33265,
-			"y": 32441,
-			"z": 7
-		}
-	],
-	"12912707": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33025,
-			"y": 32710,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33026,
-			"y": 32730,
-			"z": 7
-		},
-		{
-			"description": "Horestis Tomb",
-			"icon": "up",
-			"x": 33060,
-			"y": 32734,
-			"z": 7
-		},
-		{
-			"description": "Larvas / scarabs / ancient scarabs (task boss: Fleshcrawler)",
-			"icon": "red down",
-			"x": 33072,
-			"y": 32760,
-			"z": 7
-		},
-		{
-			"description": "Kha'zeel Scarab Lair",
-			"icon": "red down",
-			"x": 33080,
-			"y": 32545,
-			"z": 7
-		},
-		{
-			"description": "Green djinns (the Efreet)",
-			"icon": "up",
-			"x": 33101,
-			"y": 32656,
-			"z": 7
-		},
-		{
-			"description": "Terramites",
-			"icon": "red down",
-			"x": 33103,
-			"y": 32698,
-			"z": 7
-		},
-		{
-			"description": "Blue djinns (the Marid)",
-			"icon": "up",
-			"x": 33120,
-			"y": 32577,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33126,
-			"y": 32644,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33127,
-			"y": 32570,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33127,
-			"y": 32578,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33127,
-			"y": 32637,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33129,
-			"y": 32705,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33129,
-			"y": 32710,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33132,
-			"y": 32570,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33132,
-			"y": 32579,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33132,
-			"y": 32711,
-			"z": 7
-		},
-		{
-			"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
-			"icon": "!",
-			"x": 33133,
-			"y": 32568,
-			"z": 7
-		},
-		{
-			"description": "Oasis Tomb (boss: Rahemos) <hidden>",
-			"icon": "!",
-			"x": 33133,
-			"y": 32640,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33133,
-			"y": 32707,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33134,
-			"y": 32640,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33135,
-			"y": 32567,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33135,
-			"y": 32704,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33137,
-			"y": 32642,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33138,
-			"y": 32570,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33139,
-			"y": 32706,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33139,
-			"y": 32711,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33140,
-			"y": 32567,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33141,
-			"y": 32577,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33141,
-			"y": 32580,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33142,
-			"y": 32656,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33153,
-			"y": 32636,
-			"z": 7
-		},
-		{
-			"description": "Larvas / scarabs / ancient scarabs",
-			"icon": "red down",
-			"x": 33153,
-			"y": 32686,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33155,
-			"y": 32639,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33157,
-			"y": 32634,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33157,
-			"y": 32641,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33158,
-			"y": 32638,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33158,
-			"y": 32642,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33160,
-			"y": 32638,
-			"z": 7
-		},
-		{
-			"description": "Larvas / scarabs / ancient scarabs <hidden>",
-			"icon": "red down",
-			"x": 33161,
-			"y": 32598,
-			"z": 7
-		},
-		{
-			"description": "To glowing vortex",
-			"icon": "red down",
-			"x": 33167,
-			"y": 32638,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33176,
-			"y": 32529,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33177,
-			"y": 32557,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33201,
-			"y": 32591,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33203,
-			"y": 32584,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33203,
-			"y": 32592,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33204,
-			"y": 32588,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33204,
-			"y": 32595,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33207,
-			"y": 32590,
-			"z": 7
-		},
-		{
-			"description": "Ancient Ruins Tomb (boss: Vashresamun) <hidden>",
-			"icon": "!",
-			"x": 33208,
-			"y": 32591,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33209,
-			"y": 32596,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33211,
-			"y": 32586,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33211,
-			"y": 32593,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33212,
-			"y": 32590,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33213,
-			"y": 32595,
-			"z": 7
-		},
-		{
-			"description": "Nomads",
-			"icon": "down",
-			"x": 33214,
-			"y": 32552,
-			"z": 7
-		},
-		{
-			"description": "Larvas / scarabs",
-			"icon": "down",
-			"x": 33219,
-			"y": 32640,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33219,
-			"y": 32708,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33222,
-			"y": 32695,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33224,
-			"y": 32710,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33225,
-			"y": 32692,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33225,
-			"y": 32701,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33225,
-			"y": 32704,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33228,
-			"y": 32703,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33228,
-			"y": 32712,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33230,
-			"y": 32694,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33232,
-			"y": 32706,
-			"z": 7
-		},
-		{
-			"description": "Tarpit Tomb (boss: Morguthis) <hidden>",
-			"icon": "!",
-			"x": 33233,
-			"y": 32704,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33234,
-			"y": 32701,
-			"z": 7
-		},
-		{
-			"description": "Mother of Scarabs Lair",
-			"icon": "down",
-			"x": 33236,
-			"y": 32576,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33238,
-			"y": 32694,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33241,
-			"y": 32697,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33246,
-			"y": 32699,
-			"z": 7
-		},
-		{
-			"description": "Larvas / scarabs / ancient scarabs",
-			"icon": "down",
-			"x": 33257,
-			"y": 32742,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33268,
-			"y": 32669,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33270,
-			"y": 32611,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33270,
-			"y": 32666,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33272,
-			"y": 32664,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33272,
-			"y": 32666,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33272,
-			"y": 32670,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33272,
-			"y": 32739,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33273,
-			"y": 32668,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33274,
-			"y": 32740,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33274,
-			"y": 32743,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33275,
-			"y": 32745,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33276,
-			"y": 32612,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33276,
-			"y": 32669,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33276,
-			"y": 32737,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33277,
-			"y": 32664,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33277,
-			"y": 32670,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33278,
-			"y": 32605,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33279,
-			"y": 32613,
-			"z": 7
-		}
-	],
-	"12912807": [
-		{
-			"description": "Peninsula Tomb (boss: Omruc) <hidden>",
-			"icon": "!",
-			"x": 33027,
-			"y": 32869,
-			"z": 7
-		},
-		{
-			"description": "Post office",
-			"icon": "bag",
-			"x": 33069,
-			"y": 32877,
-			"z": 7
-		},
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 33084,
-			"y": 32877,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 33127,
-			"y": 32843,
-			"z": 7
-		},
-		{
-			"description": "To the shops and bank",
-			"icon": "up",
-			"x": 33128,
-			"y": 32828,
-			"z": 7
-		},
-		{
-			"description": "PvP arena",
-			"icon": "skull",
-			"x": 33131,
-			"y": 32859,
-			"z": 7
-		},
-		{
-			"description": "PvE arena",
-			"icon": "skull",
-			"x": 33134,
-			"y": 32861,
-			"z": 7
-		},
-		{
-			"description": "Ankrahmun Library Tomb (boss: Ashmunrah)",
-			"icon": "!",
-			"x": 33142,
-			"y": 32838,
-			"z": 7
-		},
-		{
-			"description": "To the sorcerer trainer",
-			"icon": "up",
-			"x": 33155,
-			"y": 32873,
-			"z": 7
-		},
-		{
-			"description": "Temple and druid spells",
-			"icon": "cross",
-			"x": 33194,
-			"y": 32853,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33249,
-			"y": 32825,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33251,
-			"y": 32834,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33252,
-			"y": 32820,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33252,
-			"y": 32827,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33253,
-			"y": 32834,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33255,
-			"y": 32832,
-			"z": 7
-		},
-		{
-			"description": "Shadow Tomb (boss: Mahrdis) <hidden>",
-			"icon": "!",
-			"x": 33255,
-			"y": 32833,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33256,
-			"y": 32833,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33258,
-			"y": 32828,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33259,
-			"y": 32831,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33260,
-			"y": 32824,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33262,
-			"y": 32821,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 33268,
-			"y": 32841,
-			"z": 7
-		}
-	],
-	"13012107": [
-		{
-			"description": "Brimstone bugs",
-			"icon": "down",
-			"x": 33292,
-			"y": 31140,
-			"z": 7
-		},
-		{
-			"description": "Task boss: Fazzrah",
-			"icon": "!",
-			"x": 33310,
-			"y": 31183,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33312,
-			"y": 31133,
-			"z": 7
-		},
-		{
-			"description": "Portal of orange energy (teleport to Halls of Hope)",
-			"icon": "star",
-			"x": 33341,
-			"y": 31167,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33344,
-			"y": 31167,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33345,
-			"y": 31116,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "crossmark",
-			"x": 33348,
-			"y": 31180,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33364,
-			"y": 31125,
-			"z": 7
-		},
-		{
-			"description": "NPC Lora",
-			"icon": "mouth",
-			"x": 33470,
-			"y": 31023,
-			"z": 7
-		},
-		{
-			"description": "Insectoid cell (gooey mass)",
-			"icon": "!",
-			"x": 33479,
-			"y": 31197,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33480,
-			"y": 31203,
-			"z": 7
-		},
-		{
-			"description": "NPC Vigintius",
-			"icon": "mouth",
-			"x": 33491,
-			"y": 31036,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33510,
-			"y": 31191,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33519,
-			"y": 31209,
-			"z": 7
-		}
-	],
-	"13012207": [
-		{
-			"description": "Bank, depot, and temple",
-			"icon": "down",
-			"x": 33446,
-			"y": 31320,
-			"z": 7
-		},
-		{
-			"description": "NPC Orockle",
-			"icon": "mouth",
-			"x": 33449,
-			"y": 31310,
-			"z": 7
-		},
-		{
-			"description": "To other cities",
-			"icon": "down",
-			"x": 33453,
-			"y": 31345,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33457,
-			"y": 31297,
-			"z": 7
-		},
-		{
-			"description": "Magic store",
-			"icon": "up",
-			"x": 33460,
-			"y": 31307,
-			"z": 7
-		},
-		{
-			"description": "Teleport to Fiehonja",
-			"icon": "star",
-			"x": 33478,
-			"y": 31312,
-			"z": 7
-		},
-		{
-			"description": "The Descent",
-			"icon": "crossmark",
-			"x": 33514,
-			"y": 31323,
-			"z": 7
-		},
-		{
-			"description": "Drilling site",
-			"icon": "down",
-			"x": 33515,
-			"y": 31309,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33535,
-			"y": 31269,
-			"z": 7
-		}
-	],
-	"13012307": [
-		{
-			"description": "Boat to Grimvale",
-			"icon": "flag",
-			"x": 33304,
-			"y": 31720,
-			"z": 7
-		},
-		{
-			"description": "Were-creatures",
-			"icon": "down",
-			"x": 33353,
-			"y": 31670,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33503,
-			"y": 31578,
-			"z": 7
-		},
-		{
-			"description": "Shark teeth",
-			"icon": "star",
-			"x": 33516,
-			"y": 31592,
-			"z": 7
-		},
-		{
-			"description": "To NPC A Runaway Goblin",
-			"icon": "down",
-			"x": 33528,
-			"y": 31672,
-			"z": 7
-		},
-		{
-			"description": "To boat",
-			"icon": "flag",
-			"x": 33528,
-			"y": 31696,
-			"z": 7
-		}
-	],
-	"13012407": [
-		{
-			"description": "Boat to Edron",
-			"icon": "flag",
-			"x": 33293,
-			"y": 31960,
-			"z": 7
-		},
-		{
-			"description": "Rotworms / bog raiders",
-			"icon": "down",
-			"x": 33303,
-			"y": 31784,
-			"z": 7
-		},
-		{
-			"description": "Steamboat to Kazordoon and Farmine",
-			"icon": "flag",
-			"x": 33310,
-			"y": 31996,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33340,
-			"y": 31973,
-			"z": 7
-		},
-		{
-			"description": "To NPC A Majestic Warwolf",
-			"icon": "down",
-			"x": 33364,
-			"y": 31975,
-			"z": 7
-		},
-		{
-			"description": "Hydra cave",
-			"icon": "down",
-			"x": 33517,
-			"y": 31906,
-			"z": 7
-		}
-	],
-	"13012507": [
-		{
-			"description": "Dwarves",
-			"icon": "down",
-			"x": 33347,
-			"y": 32031,
-			"z": 7
-		}
-	],
-	"13012607": [
-		{
-			"description": "Harbour",
-			"icon": "flag",
-			"x": 33291,
-			"y": 32472,
-			"z": 7
-		},
-		{
-			"description": "Rotworms",
-			"icon": "down",
-			"x": 33293,
-			"y": 32314,
-			"z": 7
-		},
-		{
-			"description": "Fury Gate (world change)",
-			"icon": "!",
-			"x": 33305,
-			"y": 32373,
-			"z": 7
-		},
-		{
-			"description": "Antique flying carpet",
-			"icon": "flag",
-			"x": 33513,
-			"y": 32351,
-			"z": 7
-		},
-		{
-			"description": "Overmaw shrines",
-			"icon": "!",
-			"x": 33535,
-			"y": 32469,
-			"z": 7
-		}
-	],
-	"13012707": [
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33280,
-			"y": 32744,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33281,
-			"y": 32607,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33282,
-			"y": 32741,
-			"z": 7
-		},
-		{
-			"description": "Stone Tomb (boss: Thalas) <hidden>",
-			"icon": "!",
-			"x": 33282,
-			"y": 32743,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33283,
-			"y": 32735,
-			"z": 7
-		},
-		{
-			"description": "Digging spot (Gold Digger achievement)",
-			"icon": "star",
-			"x": 33283,
-			"y": 32744,
-			"z": 7
-		},
-		{
-			"description": "Mother of Scarabs Lair",
-			"icon": "down",
-			"x": 33290,
-			"y": 32603,
-			"z": 7
-		},
-		{
-			"description": "Cultists <hidden>",
-			"icon": "down",
-			"x": 33315,
-			"y": 32674,
-			"z": 7
-		},
-		{
-			"description": "Mouthpiece supply",
-			"icon": "!",
-			"x": 33502,
-			"y": 32545,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33523,
-			"y": 32548,
-			"z": 7
-		}
-	],
-	"13112107": [
-		{
-			"description": "Nostalgia arena",
-			"icon": "skull",
-			"x": 33547,
-			"y": 31038,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33567,
-			"y": 31038,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33596,
-			"y": 31217,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33630,
-			"y": 31026,
-			"z": 7
-		}
-	],
-	"13112207": [
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33547,
-			"y": 31284,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33549,
-			"y": 31262,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33557,
-			"y": 31275,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33557,
-			"y": 31318,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33568,
-			"y": 31278,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33575,
-			"y": 31264,
-			"z": 7
-		},
-		{
-			"description": "Entrance to digestion chamber",
-			"icon": "red down",
-			"x": 33585,
-			"y": 31284,
-			"z": 7
-		},
-		{
-			"description": "Insectoid cell (gooey mass)",
-			"icon": "!",
-			"x": 33587,
-			"y": 31250,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33590,
-			"y": 31268,
-			"z": 7
-		},
-		{
-			"description": "Antenna",
-			"icon": "star",
-			"x": 33600,
-			"y": 31267,
-			"z": 7
-		}
-	],
-	"13112307": [
-		{
-			"description": "Sleeping hyaena",
-			"icon": "red down",
-			"x": 33549,
-			"y": 31662,
-			"z": 7
-		},
-		{
-			"description": "Undead gladiators / nightmare scions / nightmares",
-			"icon": "down",
-			"x": 33580,
-			"y": 31585,
-			"z": 7
-		},
-		{
-			"description": "Sacred site",
-			"icon": "star",
-			"x": 33616,
-			"y": 31605,
-			"z": 7
-		},
-		{
-			"description": "Sacred site",
-			"icon": "star",
-			"x": 33618,
-			"y": 31739,
-			"z": 7
-		},
-		{
-			"description": "NPC Ghorza (magic shopkeeper)",
-			"icon": "star",
-			"x": 33627,
-			"y": 31657,
-			"z": 7
-		},
-		{
-			"description": "NPC Mugruu (weapons and ammunition)",
-			"icon": "mouth",
-			"x": 33636,
-			"y": 31678,
-			"z": 7
-		},
-		{
-			"description": "NPC Vuzrog",
-			"icon": "mouth",
-			"x": 33639,
-			"y": 31659,
-			"z": 7
-		},
-		{
-			"description": "Ancient amulet",
-			"icon": "star",
-			"x": 33648,
-			"y": 31741,
-			"z": 7
-		},
-		{
-			"description": "NPC Nibble",
-			"icon": "mouth",
-			"x": 33656,
-			"y": 31650,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 33657,
-			"y": 31657,
-			"z": 7
-		},
-		{
-			"description": "NPC Larek",
-			"icon": "mouth",
-			"x": 33658,
-			"y": 31664,
-			"z": 7
-		},
-		{
-			"description": "Ogre beer crate",
-			"icon": "star",
-			"x": 33683,
-			"y": 31722,
-			"z": 7
-		},
-		{
-			"description": "Skull orchid",
-			"icon": "star",
-			"x": 33706,
-			"y": 31742,
-			"z": 7
-		},
-		{
-			"description": "Hidden pick hole (opticording sphere quest)",
-			"icon": "down",
-			"x": 33709,
-			"y": 31687,
-			"z": 7
-		},
-		{
-			"description": "Sacred site",
-			"icon": "star",
-			"x": 33710,
-			"y": 31635,
-			"z": 7
-		},
-		{
-			"description": "Skull orchid",
-			"icon": "star",
-			"x": 33729,
-			"y": 31639,
-			"z": 7
-		},
-		{
-			"description": "To NPC A Goblin Exile",
-			"icon": "down",
-			"x": 33730,
-			"y": 31733,
-			"z": 7
-		}
-	],
-	"13112407": [
-		{
-			"description": "Chavis’ Poor House",
-			"icon": "!",
-			"x": 33547,
-			"y": 31952,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33569,
-			"y": 31920,
-			"z": 7
-		},
-		{
-			"description": "Levitate spot",
-			"icon": "up",
-			"x": 33572,
-			"y": 31916,
-			"z": 7
-		},
-		{
-			"description": "Quandon’s Home",
-			"icon": "!",
-			"x": 33574,
-			"y": 31953,
-			"z": 7
-		},
-		{
-			"description": "NPC The Beggar King",
-			"icon": "!",
-			"x": 33575,
-			"y": 31984,
-			"z": 7
-		},
-		{
-			"description": "NPC Roswitha",
-			"icon": "!",
-			"x": 33584,
-			"y": 31942,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33595,
-			"y": 31952,
-			"z": 7
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 33602,
-			"y": 31899,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33605,
-			"y": 31952,
-			"z": 7
-		},
-		{
-			"description": "Combinatorics task",
-			"icon": "down",
-			"x": 33610,
-			"y": 31979,
-			"z": 7
-		},
-		{
-			"description": "To the city (Rathleton)",
-			"icon": "up",
-			"x": 33636,
-			"y": 31944,
-			"z": 7
-		},
-		{
-			"description": "To the mines",
-			"icon": "down",
-			"x": 33637,
-			"y": 31790,
-			"z": 7
-		},
-		{
-			"description": "To NPC Doubleday (tasks)",
-			"icon": "up",
-			"x": 33640,
-			"y": 31961,
-			"z": 7
-		},
-		{
-			"description": "NPC Terrence (city guard)",
-			"icon": "!",
-			"x": 33647,
-			"y": 31949,
-			"z": 7
-		},
-		{
-			"description": "Slide to Glooth Factory",
-			"icon": "checkmark",
-			"x": 33651,
-			"y": 31941,
-			"z": 7
-		},
-		{
-			"description": "Mangate",
-			"icon": "!",
-			"x": 33666,
-			"y": 31924,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33676,
-			"y": 31794,
-			"z": 7
-		},
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 33680,
-			"y": 31793,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33681,
-			"y": 31752,
-			"z": 7
-		},
-		{
-			"description": "Wailing widows / brimstone bugs / giant spiders",
-			"icon": "down",
-			"x": 33686,
-			"y": 31744,
-			"z": 7
-		},
-		{
-			"description": "To NPC Grubokk",
-			"icon": "up",
-			"x": 33692,
-			"y": 31775,
-			"z": 7
-		},
-		{
-			"description": "Hideout",
-			"icon": "!",
-			"x": 33693,
-			"y": 31847,
-			"z": 7
-		}
-	],
-	"13112507": [
-		{
-			"description": "Passage to the other side",
-			"icon": "flag",
-			"x": 33628,
-			"y": 32005,
-			"z": 7
-		}
-	],
-	"13112607": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33538,
-			"y": 32370,
-			"z": 7
-		},
-		{
-			"description": "Depot",
-			"icon": "lock",
-			"x": 33553,
-			"y": 32389,
-			"z": 7
-		},
-		{
-			"description": "Safety spot",
-			"icon": "up",
-			"x": 33564,
-			"y": 32465,
-			"z": 7
-		},
-		{
-			"description": "To Morax's bed",
-			"icon": "up",
-			"x": 33580,
-			"y": 32368,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33583,
-			"y": 32485,
-			"z": 7
-		},
-		{
-			"description": "Roshamuul Prison",
-			"icon": "down",
-			"x": 33589,
-			"y": 32432,
-			"z": 7
-		},
-		{
-			"description": "Bowl of tea leaves",
-			"icon": "star",
-			"x": 33601,
-			"y": 32391,
-			"z": 7
-		},
-		{
-			"description": "Safe spot",
-			"icon": "up",
-			"x": 33605,
-			"y": 32344,
-			"z": 7
-		},
-		{
-			"description": "Safe spot",
-			"icon": "up",
-			"x": 33614,
-			"y": 32344,
-			"z": 7
-		},
-		{
-			"description": "To NPC Eruaran",
-			"icon": "red up",
-			"x": 33622,
-			"y": 32358,
-			"z": 7
-		},
-		{
-			"description": "To NPC Morax",
-			"icon": "red up",
-			"x": 33632,
-			"y": 32342,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33637,
-			"y": 32484,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33643,
-			"y": 32469,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33646,
-			"y": 32481,
-			"z": 7
-		},
-		{
-			"description": "To NPC Eruaran",
-			"icon": "red up",
-			"x": 33648,
-			"y": 32370,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33653,
-			"y": 32453,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33657,
-			"y": 32463,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33657,
-			"y": 32499,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33658,
-			"y": 32480,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33658,
-			"y": 32494,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33666,
-			"y": 32473,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33670,
-			"y": 32498,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33672,
-			"y": 32474,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33674,
-			"y": 32360,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33676,
-			"y": 32475,
-			"z": 7
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33678,
-			"y": 32473,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33680,
-			"y": 32489,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33681,
-			"y": 32497,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33695,
-			"y": 32484,
-			"z": 7
-		},
-		{
-			"description": "Safe spot",
-			"icon": "up",
-			"x": 33697,
-			"y": 32378,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33697,
-			"y": 32490,
-			"z": 7
-		},
-		{
-			"description": "Large pile of various bones",
-			"icon": "flag",
-			"x": 33707,
-			"y": 32488,
-			"z": 7
-		},
-		{
-			"description": "To NPC Dream Butterfly",
-			"icon": "red up",
-			"x": 33711,
-			"y": 32376,
-			"z": 7
-		}
-	],
-	"13112707": [
-		{
-			"description": "Gravel and chalk deposits",
-			"icon": "!",
-			"x": 33552,
-			"y": 32538,
-			"z": 7
-		},
-		{
-			"description": "Safe spot",
-			"icon": "up",
-			"x": 33625,
-			"y": 32518,
-			"z": 7
-		},
-		{
-			"description": "To the Silencer Plateau",
-			"icon": "red up",
-			"x": 33654,
-			"y": 32522,
-			"z": 7
-		}
-	]
-}
+[
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 31915,
+		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "To portals",
+		"icon": "down",
+		"x": 31921,
+		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
+		"icon": "down",
+		"x": 31924,
+		"y": 31355,
+		"z": 7
+	},
+	{
+		"description": "To serpent spawns",
+		"icon": "red down",
+		"x": 31935,
+		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot (to NPC Nomad)",
+		"icon": "red up",
+		"x": 31940,
+		"y": 31307,
+		"z": 7
+	},
+	{
+		"description": "To portals",
+		"icon": "down",
+		"x": 31946,
+		"y": 32556,
+		"z": 7
+	},
+	{
+		"description": "Orc Fortress",
+		"icon": "skull",
+		"x": 31977,
+		"y": 32157,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31980,
+		"y": 32800,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31987,
+		"y": 32832,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31992,
+		"y": 32827,
+		"z": 7
+	},
+	{
+		"description": "Wasps’ nest",
+		"icon": "up",
+		"x": 32000,
+		"y": 32139,
+		"z": 7
+	},
+	{
+		"description": "To the village",
+		"icon": "red right",
+		"x": 32001,
+		"y": 32278,
+		"z": 7
+	},
+	{
+		"description": "Woodlings and meadow striders",
+		"icon": "red down",
+		"x": 32018,
+		"y": 31920,
+		"z": 7
+	},
+	{
+		"description": "To portals",
+		"icon": "down",
+		"x": 32019,
+		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "Boat to Tibia",
+		"icon": "flag",
+		"x": 32020,
+		"y": 31692,
+		"z": 7
+	},
+	{
+		"description": "NPC Buddel",
+		"icon": "flag",
+		"x": 32021,
+		"y": 31294,
+		"z": 7
+	},
+	{
+		"description": "NPC Woblin",
+		"icon": "down",
+		"x": 32021,
+		"y": 31885,
+		"z": 7
+	},
+	{
+		"description": "Santiago’s hut",
+		"icon": "up",
+		"x": 32022,
+		"y": 32273,
+		"z": 7
+	},
+	{
+		"description": "Quara scouts",
+		"icon": "red down",
+		"x": 32024,
+		"y": 31124,
+		"z": 7
+	},
+	{
+		"description": "Lee'Delle’s Premium Store",
+		"icon": "bag",
+		"x": 32026,
+		"y": 32195,
+		"z": 7
+	},
+	{
+		"description": "West bridge",
+		"icon": "up",
+		"x": 32026,
+		"y": 32203,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32035,
+		"y": 31056,
+		"z": 7
+	},
+	{
+		"description": "Minotaurs",
+		"icon": "red down",
+		"x": 32035,
+		"y": 31890,
+		"z": 7
+	},
+	{
+		"description": "Shattered Isles portals",
+		"icon": "down",
+		"x": 32038,
+		"y": 32560,
+		"z": 7
+	},
+	{
+		"description": "Rat dungeon",
+		"icon": "down",
+		"x": 32041,
+		"y": 32228,
+		"z": 7
+	},
+	{
+		"description": "Boat to Tibia",
+		"icon": "flag",
+		"x": 32045,
+		"y": 31578,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32049,
+		"y": 32600,
+		"z": 7
+	},
+	{
+		"description": "Minotaurs",
+		"icon": "red down",
+		"x": 32050,
+		"y": 31874,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32050,
+		"y": 32620,
+		"z": 7
+	},
+	{
+		"description": "Spider lair",
+		"icon": "down",
+		"x": 32051,
+		"y": 32110,
+		"z": 7
+	},
+	{
+		"description": "General equipment store",
+		"icon": "bag",
+		"x": 32060,
+		"y": 32180,
+		"z": 7
+	},
+	{
+		"description": "Farms and food store",
+		"icon": "bag",
+		"x": 32065,
+		"y": 32204,
+		"z": 7
+	},
+	{
+		"description": "Brittle skeletons and rats",
+		"icon": "red down",
+		"x": 32066,
+		"y": 31873,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32066,
+		"y": 32633,
+		"z": 7
+	},
+	{
+		"description": "Lily’s Potion Shop",
+		"icon": "bag",
+		"x": 32068,
+		"y": 32228,
+		"z": 7
+	},
+	{
+		"description": "Woodlings and meadow striders",
+		"icon": "red down",
+		"x": 32072,
+		"y": 31915,
+		"z": 7
+	},
+	{
+		"description": "Goblins",
+		"icon": "red down",
+		"x": 32072,
+		"y": 31937,
+		"z": 7
+	},
+	{
+		"description": "NPC Atrad (assassin star vendor)",
+		"icon": "down",
+		"x": 32075,
+		"y": 32538,
+		"z": 7
+	},
+	{
+		"description": "Fire field (needed for NPC Atrad)",
+		"icon": "star",
+		"x": 32075,
+		"y": 32573,
+		"z": 7
+	},
+	{
+		"description": "Barn",
+		"icon": "flag",
+		"x": 32082,
+		"y": 32182,
+		"z": 7
+	},
+	{
+		"description": "Tom the Tanner",
+		"icon": "bag",
+		"x": 32082,
+		"y": 32199,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32085,
+		"y": 31089,
+		"z": 7
+	},
+	{
+		"description": "Quara scouts",
+		"icon": "red down",
+		"x": 32086,
+		"y": 31093,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32086,
+		"y": 32577,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32088,
+		"y": 31018,
+		"z": 7
+	},
+	{
+		"description": "North exit",
+		"icon": "up",
+		"x": 32091,
+		"y": 32178,
+		"z": 7
+	},
+	{
+		"description": "North bridge",
+		"icon": "up",
+		"x": 32091,
+		"y": 32179,
+		"z": 7
+	},
+	{
+		"description": "Brittle skeletons and rats",
+		"icon": "red down",
+		"x": 32093,
+		"y": 31861,
+		"z": 7
+	},
+	{
+		"description": "Troll caves",
+		"icon": "down",
+		"x": 32094,
+		"y": 32137,
+		"z": 7
+	},
+	{
+		"description": "Norma’s Bar",
+		"icon": "bag",
+		"x": 32097,
+		"y": 32181,
+		"z": 7
+	},
+	{
+		"description": "Rat dungeon",
+		"icon": "down",
+		"x": 32097,
+		"y": 32205,
+		"z": 7
+	},
+	{
+		"description": "Temple of Rookgaard",
+		"icon": "cross",
+		"x": 32097,
+		"y": 32219,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32097,
+		"y": 32576,
+		"z": 7
+	},
+	{
+		"description": "To demons",
+		"icon": "down",
+		"x": 32097,
+		"y": 32631,
+		"z": 7
+	},
+	{
+		"description": "Stone golems",
+		"icon": "red down",
+		"x": 32098,
+		"y": 31371,
+		"z": 7
+	},
+	{
+		"description": "Ship to the Mainland",
+		"icon": "up",
+		"x": 32098,
+		"y": 31986,
+		"z": 7
+	},
+	{
+		"description": "The Academy",
+		"icon": "?",
+		"x": 32098,
+		"y": 32196,
+		"z": 7
+	},
+	{
+		"description": "Island of Destiny — Training Centre",
+		"icon": "!",
+		"x": 32099,
+		"y": 31996,
+		"z": 7
+	},
+	{
+		"description": "The Academy",
+		"icon": "flag",
+		"x": 32104,
+		"y": 32196,
+		"z": 7
+	},
+	{
+		"description": "Obi’s Shop",
+		"icon": "bag",
+		"x": 32105,
+		"y": 32203,
+		"z": 7
+	},
+	{
+		"description": "Weapon and armor shops",
+		"icon": "bag",
+		"x": 32106,
+		"y": 32204,
+		"z": 7
+	},
+	{
+		"description": "Goblins",
+		"icon": "red down",
+		"x": 32111,
+		"y": 31903,
+		"z": 7
+	},
+	{
+		"description": "Boat to Tibia",
+		"icon": "flag",
+		"x": 32126,
+		"y": 31665,
+		"z": 7
+	},
+	{
+		"description": "Treasure hole (requires pirate treasure map)",
+		"icon": "red down",
+		"x": 32126,
+		"y": 32934,
+		"z": 7
+	},
+	{
+		"description": "Unholy Crypt",
+		"icon": "down",
+		"x": 32131,
+		"y": 32201,
+		"z": 7
+	},
+	{
+		"description": "Boat to Liberty Bay",
+		"icon": "flag",
+		"x": 32132,
+		"y": 32912,
+		"z": 7
+	},
+	{
+		"description": "War Wolf Den",
+		"icon": "down",
+		"x": 32138,
+		"y": 32132,
+		"z": 7
+	},
+	{
+		"description": "To NPC Hyacinth",
+		"icon": "up",
+		"x": 32139,
+		"y": 32176,
+		"z": 7
+	},
+	{
+		"description": "Treasure hole (requires pirate treasure map)",
+		"icon": "red down",
+		"x": 32144,
+		"y": 32947,
+		"z": 7
+	},
+	{
+		"description": "Glowing vortex",
+		"icon": "?",
+		"x": 32153,
+		"y": 31286,
+		"z": 7
+	},
+	{
+		"description": "Boat to Meluna",
+		"icon": "flag",
+		"x": 32153,
+		"y": 32457,
+		"z": 7
+	},
+	{
+		"description": "Bonelord Cave",
+		"icon": "red down",
+		"x": 32158,
+		"y": 32782,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32164,
+		"y": 31293,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 32171,
+		"y": 31161,
+		"z": 7
+	},
+	{
+		"description": "Spirit Grounds (world change)",
+		"icon": "!",
+		"x": 32172,
+		"y": 31786,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32179,
+		"y": 31230,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32181,
+		"y": 32808,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32187,
+		"y": 31430,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32189,
+		"y": 31421,
+		"z": 7
+	},
+	{
+		"description": "To GCTS",
+		"icon": "down",
+		"x": 32191,
+		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32201,
+		"y": 32722,
+		"z": 7
+	},
+	{
+		"description": "Treasure hole (requires pirate treasure map)",
+		"icon": "red down",
+		"x": 32201,
+		"y": 32947,
+		"z": 7
+	},
+	{
+		"description": "Quaras",
+		"icon": "red down",
+		"x": 32206,
+		"y": 32883,
+		"z": 7
+	},
+	{
+		"description": "Boat to Isle of Kings",
+		"icon": "flag",
+		"x": 32211,
+		"y": 31756,
+		"z": 7
+	},
+	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32213,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Passage to The Ghostlands",
+		"icon": "down",
+		"x": 32218,
+		"y": 31766,
+		"z": 7
+	},
+	{
+		"description": "Passage out of The Ghostlands",
+		"icon": "down",
+		"x": 32221,
+		"y": 31780,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32223,
+		"y": 31860,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32225,
+		"y": 32849,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32233,
+		"y": 32774,
+		"z": 7
+	},
+	{
+		"description": "Boat to Folda, Senja, and Vega",
+		"icon": "flag",
+		"x": 32235,
+		"y": 31674,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 32240,
+		"y": 31407,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32244,
+		"y": 32723,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32247,
+		"y": 31388,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32252,
+		"y": 31717,
+		"z": 7
+	},
+	{
+		"description": "NPC Buddel",
+		"icon": "flag",
+		"x": 32256,
+		"y": 31197,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32256,
+		"y": 31399,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32261,
+		"y": 31848,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 32263,
+		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32265,
+		"y": 31343,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32266,
+		"y": 31360,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 32267,
+		"y": 32699,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32268,
+		"y": 31726,
+		"z": 7
+	},
+	{
+		"description": "Coryms",
+		"icon": "red down",
+		"x": 32268,
+		"y": 32837,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32269,
+		"y": 31353,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32270,
+		"y": 32171,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32285,
+		"y": 31410,
+		"z": 7
+	},
+	{
+		"description": "NPC Eclesius",
+		"icon": "mouth",
+		"x": 32291,
+		"y": 32291,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32292,
+		"y": 31424,
+		"z": 7
+	},
+	{
+		"description": "Offline training (magic)",
+		"icon": "sword",
+		"x": 32297,
+		"y": 32268,
+		"z": 7
+	},
+	{
+		"description": "Passage to Nibelor",
+		"icon": "flag",
+		"x": 32301,
+		"y": 31083,
+		"z": 7
+	},
+	{
+		"description": "Magic store, post office, and bank",
+		"icon": "star",
+		"x": 32303,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32306,
+		"y": 32868,
+		"z": 7
+	},
+	{
+		"description": "To the temple",
+		"icon": "cross",
+		"x": 32317,
+		"y": 32825,
+		"z": 7
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 32318,
+		"y": 32256,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32321,
+		"y": 32211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32321,
+		"y": 32621,
+		"z": 7
+	},
+	{
+		"description": "Portal of black energy (boss: Lady Tenebris)",
+		"icon": "flag",
+		"x": 32325,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 32326,
+		"y": 31782,
+		"z": 7
+	},
+	{
+		"description": "Passage to Svargrond",
+		"icon": "flag",
+		"x": 32327,
+		"y": 31044,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 32327,
+		"y": 32835,
+		"z": 7
+	},
+	{
+		"description": "Portal of violet energy (boss: Lloyd)",
+		"icon": "flag",
+		"x": 32328,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
+		"icon": "flag",
+		"x": 32331,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "NPC Buddel",
+		"icon": "flag",
+		"x": 32333,
+		"y": 31227,
+		"z": 7
+	},
+	{
+		"description": "Portal of orange energy (teleport to northern Zao; boss: Dragonking Zyrtarch)",
+		"icon": "flag",
+		"x": 32334,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Depot and post office",
+		"icon": "lock",
+		"x": 32336,
+		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "Portal of blue energy (teleport to Formorgar mines; boss: Solid Frozen Horror)",
+		"icon": "flag",
+		"x": 32337,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Bank and post office",
+		"icon": "$",
+		"x": 32337,
+		"y": 32838,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32339,
+		"y": 31675,
+		"z": 7
+	},
+	{
+		"description": "Portal of golden energy (boss: The Time Guardian)",
+		"icon": "flag",
+		"x": 32340,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32341,
+		"y": 31116,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 32346,
+		"y": 31828,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 32346,
+		"y": 32810,
+		"z": 7
+	},
+	{
+		"description": "Depot & bank",
+		"icon": "lock",
+		"x": 32347,
+		"y": 32226,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32348,
+		"y": 32695,
+		"z": 7
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 32350,
+		"y": 31756,
+		"z": 7
+	},
+	{
+		"description": "Offline training (distance)",
+		"icon": "sword",
+		"x": 32350,
+		"y": 32238,
+		"z": 7
+	},
+	{
+		"description": "PvE/PvP arena",
+		"icon": "skull",
+		"x": 32353,
+		"y": 32222,
+		"z": 7
+	},
+	{
+		"description": "Ice golems and crystal spiders",
+		"icon": "red down",
+		"x": 32357,
+		"y": 31087,
+		"z": 7
+	},
+	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32360,
+		"y": 31782,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32360,
+		"y": 32721,
+		"z": 7
+	},
+	{
+		"description": "Passage to Inukaya (1 ham required)",
+		"icon": "flag",
+		"x": 32367,
+		"y": 31058,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32368,
+		"y": 32729,
+		"z": 7
+	},
+	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32369,
+		"y": 32239,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32373,
+		"y": 32770,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32378,
+		"y": 31815,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32384,
+		"y": 31691,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32384,
+		"y": 32702,
+		"z": 7
+	},
+	{
+		"description": "Wyrms",
+		"icon": "red down",
+		"x": 32388,
+		"y": 32841,
+		"z": 7
+	},
+	{
+		"description": "Meriana Gargoyle Cave",
+		"icon": "down",
+		"x": 32389,
+		"y": 32604,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 32399,
+		"y": 32220,
+		"z": 7
+	},
+	{
+		"description": "Passage to Nibelor (1 ham required)",
+		"icon": "flag",
+		"x": 32410,
+		"y": 31066,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32410,
+		"y": 32008,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32412,
+		"y": 31601,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32418,
+		"y": 31086,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32418,
+		"y": 32758,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32420,
+		"y": 31591,
+		"z": 7
+	},
+	{
+		"description": "Wasps",
+		"icon": "red down",
+		"x": 32428,
+		"y": 32315,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32429,
+		"y": 32796,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32433,
+		"y": 32807,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32435,
+		"y": 31636,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32436,
+		"y": 31063,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32448,
+		"y": 32069,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32453,
+		"y": 32065,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32462,
+		"y": 31101,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32469,
+		"y": 31117,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32470,
+		"y": 31095,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32471,
+		"y": 31110,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32476,
+		"y": 31099,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32478,
+		"y": 31114,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32482,
+		"y": 31103,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32484,
+		"y": 31090,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32484,
+		"y": 31097,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32488,
+		"y": 31113,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32488,
+		"y": 31657,
+		"z": 7
+	},
+	{
+		"description": "Minotaurs (boss: The Horned Fox)",
+		"icon": "!",
+		"x": 32489,
+		"y": 31964,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32490,
+		"y": 31698,
+		"z": 7
+	},
+	{
+		"description": "Trolls",
+		"icon": "red down",
+		"x": 32493,
+		"y": 32259,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32510,
+		"y": 31716,
+		"z": 7
+	},
+	{
+		"description": "Slime training spot",
+		"icon": "sword",
+		"x": 32529,
+		"y": 32721,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32531,
+		"y": 32711,
+		"z": 7
+	},
+	{
+		"description": "To NPC Budrik",
+		"icon": "down",
+		"x": 32533,
+		"y": 31913,
+		"z": 7
+	},
+	{
+		"description": "To glowing vortex: instable breach broods & instable sparkions",
+		"icon": "red down",
+		"x": 32541,
+		"y": 32021,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32548,
+		"y": 31988,
+		"z": 7
+	},
+	{
+		"description": "Ore wagon",
+		"icon": "flag",
+		"x": 32553,
+		"y": 31931,
+		"z": 7
+	},
+	{
+		"description": "Smugglers",
+		"icon": "red down",
+		"x": 32555,
+		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "Passage to Kazordoon",
+		"icon": "up",
+		"x": 32556,
+		"y": 31924,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32558,
+		"y": 31680,
+		"z": 7
+	},
+	{
+		"description": "Water elementals (level 50+)",
+		"icon": "red down",
+		"x": 32560,
+		"y": 32860,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32574,
+		"y": 31980,
+		"z": 7
+	},
+	{
+		"description": "Entrance to Kazordoon",
+		"icon": "down",
+		"x": 32578,
+		"y": 31892,
+		"z": 7
+	},
+	{
+		"description": "To the harbour",
+		"icon": "up",
+		"x": 32578,
+		"y": 32766,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32581,
+		"y": 31721,
+		"z": 7
+	},
+	{
+		"description": "Slime training spot",
+		"icon": "sword",
+		"x": 32586,
+		"y": 32711,
+		"z": 7
+	},
+	{
+		"description": "Water elementals",
+		"icon": "red down",
+		"x": 32590,
+		"y": 32314,
+		"z": 7
+	},
+	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32595,
+		"y": 32746,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red down",
+		"x": 32596,
+		"y": 31687,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red down",
+		"x": 32599,
+		"y": 31669,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red left",
+		"x": 32601,
+		"y": 31672,
+		"z": 7
+	},
+	{
+		"description": "Ore wagon",
+		"icon": "flag",
+		"x": 32601,
+		"y": 31875,
+		"z": 7
+	},
+	{
+		"description": "Coryms",
+		"icon": "red down",
+		"x": 32606,
+		"y": 32803,
+		"z": 7
+	},
+	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32607,
+		"y": 31680,
+		"z": 7
+	},
+	{
+		"description": "Key 3302",
+		"icon": "star",
+		"x": 32610,
+		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32613,
+		"y": 32557,
+		"z": 7
+	},
+	{
+		"description": "Crocodiles (task boss: The Snapper)",
+		"icon": "!",
+		"x": 32613,
+		"y": 32703,
+		"z": 7
+	},
+	{
+		"description": "NPC Weakened Forest Fury",
+		"icon": "mouth",
+		"x": 32615,
+		"y": 32269,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red right",
+		"x": 32616,
+		"y": 31665,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red right",
+		"x": 32616,
+		"y": 31694,
+		"z": 7
+	},
+	{
+		"description": "To the glade",
+		"icon": "down",
+		"x": 32616,
+		"y": 32265,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red left",
+		"x": 32617,
+		"y": 31698,
+		"z": 7
+	},
+	{
+		"description": "Key 3301",
+		"icon": "star",
+		"x": 32617,
+		"y": 32251,
+		"z": 7
+	},
+	{
+		"description": "Ore wagon",
+		"icon": "flag",
+		"x": 32618,
+		"y": 31944,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32623,
+		"y": 31689,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 32623,
+		"y": 32746,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32625,
+		"y": 31799,
+		"z": 7
+	},
+	{
+		"description": "To temple",
+		"icon": "red left",
+		"x": 32627,
+		"y": 31702,
+		"z": 7
+	},
+	{
+		"description": "To the shops, post office, and bank",
+		"icon": "up",
+		"x": 32629,
+		"y": 32749,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32632,
+		"y": 31812,
+		"z": 7
+	},
+	{
+		"description": "Trap holes",
+		"icon": "skull",
+		"x": 32635,
+		"y": 32915,
+		"z": 7
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 32636,
+		"y": 32796,
+		"z": 7
+	},
+	{
+		"description": "Portal of green energy (teleport to Halls of Hope)",
+		"icon": "flag",
+		"x": 32637,
+		"y": 32255,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32640,
+		"y": 32555,
+		"z": 7
+	},
+	{
+		"description": "Dworcs",
+		"icon": "red down",
+		"x": 32644,
+		"y": 32925,
+		"z": 7
+	},
+	{
+		"description": "Key 3303",
+		"icon": "star",
+		"x": 32652,
+		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "Rorcs or drillworms and lost dwarves",
+		"icon": "red down",
+		"x": 32653,
+		"y": 31732,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32654,
+		"y": 31674,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32654,
+		"y": 31829,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32656,
+		"y": 31674,
+		"z": 7
+	},
+	{
+		"description": "NPC Rottin Wood",
+		"icon": "mouth",
+		"x": 32657,
+		"y": 32201,
+		"z": 7
+	},
+	{
+		"description": "Trolls",
+		"icon": "red down",
+		"x": 32663,
+		"y": 31963,
+		"z": 7
+	},
+	{
+		"description": "Mutated tigers",
+		"icon": "red down",
+		"x": 32664,
+		"y": 31074,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32671,
+		"y": 31796,
+		"z": 7
+	},
+	{
+		"description": "Swamp trolls",
+		"icon": "red down",
+		"x": 32678,
+		"y": 32609,
+		"z": 7
+	},
+	{
+		"description": "Water elementals",
+		"icon": "red down",
+		"x": 32679,
+		"y": 32964,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32680,
+		"y": 31720,
+		"z": 7
+	},
+	{
+		"description": "Opticording sphere quest",
+		"icon": "down",
+		"x": 32682,
+		"y": 31604,
+		"z": 7
+	},
+	{
+		"description": "Depot & bank",
+		"icon": "lock",
+		"x": 32682,
+		"y": 31685,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32683,
+		"y": 31807,
+		"z": 7
+	},
+	{
+		"description": "Rabbits",
+		"icon": "down",
+		"x": 32690,
+		"y": 32204,
+		"z": 7
+	},
+	{
+		"description": "White deer (spawn location)",
+		"icon": "star",
+		"x": 32693,
+		"y": 31890,
+		"z": 7
+	},
+	{
+		"description": "NPC Grizzly Adams",
+		"icon": "mouth",
+		"x": 32694,
+		"y": 32772,
+		"z": 7
+	},
+	{
+		"description": "Trap holes",
+		"icon": "skull",
+		"x": 32694,
+		"y": 32858,
+		"z": 7
+	},
+	{
+		"description": "Trap holes",
+		"icon": "skull",
+		"x": 32694,
+		"y": 32938,
+		"z": 7
+	},
+	{
+		"description": "To Wyda’s hut",
+		"icon": "down",
+		"x": 32699,
+		"y": 32018,
+		"z": 7
+	},
+	{
+		"description": "Tainted Caves",
+		"icon": "down",
+		"x": 32709,
+		"y": 31939,
+		"z": 7
+	},
+	{
+		"description": "Trap holes",
+		"icon": "skull",
+		"x": 32720,
+		"y": 32936,
+		"z": 7
+	},
+	{
+		"description": "Tarantulas",
+		"icon": "red down",
+		"x": 32726,
+		"y": 32793,
+		"z": 7
+	},
+	{
+		"description": "Task boss: Deathbine",
+		"icon": "!",
+		"x": 32731,
+		"y": 32765,
+		"z": 7
+	},
+	{
+		"description": "To the Arena and Zoo Quarter",
+		"icon": "up",
+		"x": 32738,
+		"y": 31201,
+		"z": 7
+	},
+	{
+		"description": "To the Alchemist Quarter",
+		"icon": "up",
+		"x": 32752,
+		"y": 31169,
+		"z": 7
+	},
+	{
+		"description": "Poacher Caves",
+		"icon": "down",
+		"x": 32756,
+		"y": 31928,
+		"z": 7
+	},
+	{
+		"description": "Tarantulas",
+		"icon": "red down",
+		"x": 32758,
+		"y": 32791,
+		"z": 7
+	},
+	{
+		"description": "To the Foreigner Quarter",
+		"icon": "up",
+		"x": 32763,
+		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "Trap holes",
+		"icon": "skull",
+		"x": 32766,
+		"y": 32894,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32770,
+		"y": 32341,
+		"z": 7
+	},
+	{
+		"description": "Tarantulas",
+		"icon": "red down",
+		"x": 32777,
+		"y": 32685,
+		"z": 7
+	},
+	{
+		"description": "To the Cemetery Quarter",
+		"icon": "up",
+		"x": 32780,
+		"y": 31150,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32785,
+		"y": 31035,
+		"z": 7
+	},
+	{
+		"description": "Temple raft",
+		"icon": "cross",
+		"x": 32787,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 32790,
+		"y": 31235,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 32793,
+		"y": 31248,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32810,
+		"y": 31269,
+		"z": 7
+	},
+	{
+		"description": "Tarantulas",
+		"icon": "red down",
+		"x": 32818,
+		"y": 32809,
+		"z": 7
+	},
+	{
+		"description": "Protection zone",
+		"icon": "cross",
+		"x": 32825,
+		"y": 32632,
+		"z": 7
+	},
+	{
+		"description": "Bank and post office",
+		"icon": "$",
+		"x": 32826,
+		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "Tarantulas (task boss: Hide)",
+		"icon": "!",
+		"x": 32827,
+		"y": 32691,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32829,
+		"y": 31040,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32832,
+		"y": 32084,
+		"z": 7
+	},
+	{
+		"description": "To the Magician Quarter",
+		"icon": "up",
+		"x": 32833,
+		"y": 31155,
+		"z": 7
+	},
+	{
+		"description": "To the Former Trade Quarter",
+		"icon": "up",
+		"x": 32834,
+		"y": 31263,
+		"z": 7
+	},
+	{
+		"description": "Boat to Vengoth",
+		"icon": "flag",
+		"x": 32837,
+		"y": 31365,
+		"z": 7
+	},
+	{
+		"description": "Hidden shovel hole (treasure hunt quest)",
+		"icon": "down",
+		"x": 32844,
+		"y": 32775,
+		"z": 7
+	},
+	{
+		"description": "Midnight panther (spawn location)",
+		"icon": "star",
+		"x": 32847,
+		"y": 32697,
+		"z": 7
+	},
+	{
+		"description": "To the Factory Quarter",
+		"icon": "up",
+		"x": 32850,
+		"y": 31246,
+		"z": 7
+	},
+	{
+		"description": "Spider Caves",
+		"icon": "down",
+		"x": 32851,
+		"y": 32870,
+		"z": 7
+	},
+	{
+		"description": "Hidden shovel hole (treasure hunt quest)",
+		"icon": "down",
+		"x": 32852,
+		"y": 32669,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32853,
+		"y": 31271,
+		"z": 7
+	},
+	{
+		"description": "Shortcut to Deeper Banuta",
+		"icon": "down",
+		"x": 32853,
+		"y": 32669,
+		"z": 7
+	},
+	{
+		"description": "Medusa Tower entrance",
+		"icon": "red down",
+		"x": 32853,
+		"y": 32814,
+		"z": 7
+	},
+	{
+		"description": "Boat to Yalahar",
+		"icon": "flag",
+		"x": 32857,
+		"y": 31549,
+		"z": 7
+	},
+	{
+		"description": "Midnight panther (spawn location)",
+		"icon": "star",
+		"x": 32857,
+		"y": 32738,
+		"z": 7
+	},
+	{
+		"description": "To the Sunken Quarter",
+		"icon": "up",
+		"x": 32864,
+		"y": 31201,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32872,
+		"y": 31295,
+		"z": 7
+	},
+	{
+		"description": "Special task: Tiquanda’s Revenge",
+		"icon": "!",
+		"x": 32876,
+		"y": 32583,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32878,
+		"y": 31268,
+		"z": 7
+	},
+	{
+		"description": "Midnight panther (spawn location)",
+		"icon": "star",
+		"x": 32885,
+		"y": 32719,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32890,
+		"y": 31322,
+		"z": 7
+	},
+	{
+		"description": "Hidden shovel hole (treasure hunt quest)",
+		"icon": "down",
+		"x": 32902,
+		"y": 32515,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32904,
+		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "Carniphila",
+		"icon": "red down",
+		"x": 32906,
+		"y": 32734,
+		"z": 7
+	},
+	{
+		"description": "Worker golems / war golems",
+		"icon": "red down",
+		"x": 32908,
+		"y": 31317,
+		"z": 7
+	},
+	{
+		"description": "To NPC Kais",
+		"icon": "down",
+		"x": 32910,
+		"y": 32515,
+		"z": 7
+	},
+	{
+		"description": "Swamp trolls / rotworms",
+		"icon": "red down",
+		"x": 32913,
+		"y": 32261,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32915,
+		"y": 31259,
+		"z": 7
+	},
+	{
+		"description": "Worker golems",
+		"icon": "red down",
+		"x": 32936,
+		"y": 31256,
+		"z": 7
+	},
+	{
+		"description": "Giant spiders",
+		"icon": "red down",
+		"x": 32949,
+		"y": 32534,
+		"z": 7
+	},
+	{
+		"description": "Giant spiders",
+		"icon": "red down",
+		"x": 32961,
+		"y": 32545,
+		"z": 7
+	},
+	{
+		"description": "Protection zone",
+		"icon": "cross",
+		"x": 32968,
+		"y": 32800,
+		"z": 7
+	},
+	{
+		"description": "Terramites",
+		"icon": "red down",
+		"x": 32975,
+		"y": 32686,
+		"z": 7
+	},
+	{
+		"description": "Orc that drops Sam’s old and used backpack (spawn location)",
+		"icon": "star",
+		"x": 32978,
+		"y": 31742,
+		"z": 7
+	},
+	{
+		"description": "Dwarves",
+		"icon": "red down",
+		"x": 32979,
+		"y": 32660,
+		"z": 7
+	},
+	{
+		"description": "Werewolves",
+		"icon": "red up",
+		"x": 32980,
+		"y": 31495,
+		"z": 7
+	},
+	{
+		"description": "Passage to Darama",
+		"icon": "up",
+		"x": 32982,
+		"y": 32716,
+		"z": 7
+	},
+	{
+		"description": "Dragons",
+		"icon": "red down",
+		"x": 32983,
+		"y": 32646,
+		"z": 7
+	},
+	{
+		"description": "Hydras",
+		"icon": "red down",
+		"x": 32988,
+		"y": 32523,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32996,
+		"y": 32412,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "down",
+		"x": 33008,
+		"y": 32622,
+		"z": 7
+	},
+	{
+		"description": "Northern Kha'zeel Dragon Lair",
+		"icon": "down",
+		"x": 33009,
+		"y": 32604,
+		"z": 7
+	},
+	{
+		"description": "Behemoths",
+		"icon": "red down",
+		"x": 33013,
+		"y": 32564,
+		"z": 7
+	},
+	{
+		"description": "To exit",
+		"icon": "down",
+		"x": 33018,
+		"y": 32429,
+		"z": 7
+	},
+	{
+		"description": "Passage to the Forbidden Lands",
+		"icon": "flag",
+		"x": 33021,
+		"y": 32604,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33025,
+		"y": 32710,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33026,
+		"y": 32730,
+		"z": 7
+	},
+	{
+		"description": "Peninsula Tomb (boss: Omruc) <hidden>",
+		"icon": "!",
+		"x": 33027,
+		"y": 32869,
+		"z": 7
+	},
+	{
+		"description": "Grim reapers",
+		"icon": "red down",
+		"x": 33028,
+		"y": 32439,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33029,
+		"y": 32089,
+		"z": 7
+	},
+	{
+		"description": "To glowing vortex",
+		"icon": "red down",
+		"x": 33034,
+		"y": 31371,
+		"z": 7
+	},
+	{
+		"description": "To NPC Zarifan",
+		"icon": "down",
+		"x": 33051,
+		"y": 32471,
+		"z": 7
+	},
+	{
+		"description": "Rafzan",
+		"icon": "lock",
+		"x": 33054,
+		"y": 32096,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33058,
+		"y": 32375,
+		"z": 7
+	},
+	{
+		"description": "Golden ewer (daily spawn)",
+		"icon": "bag",
+		"x": 33059,
+		"y": 31099,
+		"z": 7
+	},
+	{
+		"description": "Horestis Tomb",
+		"icon": "up",
+		"x": 33060,
+		"y": 32734,
+		"z": 7
+	},
+	{
+		"description": "Gnarlhounds",
+		"icon": "red down",
+		"x": 33062,
+		"y": 31506,
+		"z": 7
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33065,
+		"y": 32458,
+		"z": 7
+	},
+	{
+		"description": "Post office",
+		"icon": "bag",
+		"x": 33069,
+		"y": 32877,
+		"z": 7
+	},
+	{
+		"description": "Coryms",
+		"icon": "red down",
+		"x": 33072,
+		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Larvas / scarabs / ancient scarabs (task boss: Fleshcrawler)",
+		"icon": "red down",
+		"x": 33072,
+		"y": 32760,
+		"z": 7
+	},
+	{
+		"description": "Kha'zeel Scarab Lair",
+		"icon": "red down",
+		"x": 33080,
+		"y": 32545,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33081,
+		"y": 31532,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33084,
+		"y": 32877,
+		"z": 7
+	},
+	{
+		"description": "Passage to Drefia",
+		"icon": "up",
+		"x": 33090,
+		"y": 32450,
+		"z": 7
+	},
+	{
+		"description": "Dragons",
+		"icon": "red down",
+		"x": 33099,
+		"y": 31699,
+		"z": 7
+	},
+	{
+		"description": "Green djinns (the Efreet)",
+		"icon": "up",
+		"x": 33101,
+		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "Terramites",
+		"icon": "red down",
+		"x": 33103,
+		"y": 32698,
+		"z": 7
+	},
+	{
+		"description": "Gnarlhounds",
+		"icon": "red down",
+		"x": 33104,
+		"y": 31388,
+		"z": 7
+	},
+	{
+		"description": "Goblins",
+		"icon": "red down",
+		"x": 33107,
+		"y": 31847,
+		"z": 7
+	},
+	{
+		"description": "Vampire Crypts",
+		"icon": "red down",
+		"x": 33109,
+		"y": 31721,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33109,
+		"y": 32104,
+		"z": 7
+	},
+	{
+		"description": "Trolls",
+		"icon": "red down",
+		"x": 33117,
+		"y": 31774,
+		"z": 7
+	},
+	{
+		"description": "Gnarlhounds",
+		"icon": "red down",
+		"x": 33119,
+		"y": 31456,
+		"z": 7
+	},
+	{
+		"description": "Blue djinns (the Marid)",
+		"icon": "up",
+		"x": 33120,
+		"y": 32577,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33126,
+		"y": 32644,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33127,
+		"y": 32570,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33127,
+		"y": 32578,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33127,
+		"y": 32637,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33127,
+		"y": 32843,
+		"z": 7
+	},
+	{
+		"description": "Passage to Edron",
+		"icon": "down",
+		"x": 33128,
+		"y": 31809,
+		"z": 7
+	},
+	{
+		"description": "To the shops and bank",
+		"icon": "up",
+		"x": 33128,
+		"y": 32828,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33129,
+		"y": 32705,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33129,
+		"y": 32710,
+		"z": 7
+	},
+	{
+		"description": "Lancer beetles",
+		"icon": "red down",
+		"x": 33130,
+		"y": 31353,
+		"z": 7
+	},
+	{
+		"description": "PvP arena",
+		"icon": "skull",
+		"x": 33131,
+		"y": 32859,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33132,
+		"y": 32570,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33132,
+		"y": 32579,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33132,
+		"y": 32711,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33133,
+		"y": 32432,
+		"z": 7
+	},
+	{
+		"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
+		"icon": "!",
+		"x": 33133,
+		"y": 32568,
+		"z": 7
+	},
+	{
+		"description": "Oasis Tomb (boss: Rahemos) <hidden>",
+		"icon": "!",
+		"x": 33133,
+		"y": 32640,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33133,
+		"y": 32707,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33134,
+		"y": 32640,
+		"z": 7
+	},
+	{
+		"description": "PvE arena",
+		"icon": "skull",
+		"x": 33134,
+		"y": 32861,
+		"z": 7
+	},
+	{
+		"description": "To the Mage’s Tower",
+		"icon": "up",
+		"x": 33135,
+		"y": 31510,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33135,
+		"y": 32567,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33135,
+		"y": 32704,
+		"z": 7
+	},
+	{
+		"description": "Killer caimans",
+		"icon": "red down",
+		"x": 33137,
+		"y": 31449,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33137,
+		"y": 32352,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33137,
+		"y": 32642,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33138,
+		"y": 32570,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33139,
+		"y": 32706,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33139,
+		"y": 32711,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33140,
+		"y": 32567,
+		"z": 7
+	},
+	{
+		"description": "Terramites",
+		"icon": "red down",
+		"x": 33141,
+		"y": 31475,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33141,
+		"y": 32577,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33141,
+		"y": 32580,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33142,
+		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "Ankrahmun Library Tomb (boss: Ashmunrah)",
+		"icon": "!",
+		"x": 33142,
+		"y": 32838,
+		"z": 7
+	},
+	{
+		"description": "Portal to Southern Zao",
+		"icon": "up",
+		"x": 33146,
+		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33153,
+		"y": 32636,
+		"z": 7
+	},
+	{
+		"description": "Larvas / scarabs / ancient scarabs",
+		"icon": "red down",
+		"x": 33153,
+		"y": 32686,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33155,
+		"y": 32639,
+		"z": 7
+	},
+	{
+		"description": "To the sorcerer trainer",
+		"icon": "up",
+		"x": 33155,
+		"y": 32873,
+		"z": 7
+	},
+	{
+		"description": "Earth elementals and bog raiders",
+		"icon": "red down",
+		"x": 33157,
+		"y": 31720,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33157,
+		"y": 32634,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33157,
+		"y": 32641,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33158,
+		"y": 32638,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33158,
+		"y": 32642,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33160,
+		"y": 32638,
+		"z": 7
+	},
+	{
+		"description": "Larvas / scarabs / ancient scarabs <hidden>",
+		"icon": "red down",
+		"x": 33161,
+		"y": 32598,
+		"z": 7
+	},
+	{
+		"description": "Edron Ruins (a.k.a. Hero Cave)",
+		"icon": "red down",
+		"x": 33163,
+		"y": 31636,
+		"z": 7
+	},
+	{
+		"description": "Passage to west side",
+		"icon": "down",
+		"x": 33165,
+		"y": 31827,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33166,
+		"y": 31329,
+		"z": 7
+	},
+	{
+		"description": "To glowing vortex",
+		"icon": "red down",
+		"x": 33167,
+		"y": 32638,
+		"z": 7
+	},
+	{
+		"description": "Underground depot",
+		"icon": "down",
+		"x": 33169,
+		"y": 31812,
+		"z": 7
+	},
+	{
+		"description": "NPC Curos",
+		"icon": "mouth",
+		"x": 33172,
+		"y": 31395,
+		"z": 7
+	},
+	{
+		"description": "Bank and post office",
+		"icon": "$",
+		"x": 33172,
+		"y": 31807,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31075,
+		"z": 7
+	},
+	{
+		"description": "Orcs",
+		"icon": "red down",
+		"x": 33173,
+		"y": 31900,
+		"z": 7
+	},
+	{
+		"description": "High class lizards",
+		"icon": "red up",
+		"x": 33175,
+		"y": 31305,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33175,
+		"y": 31775,
+		"z": 7
+	},
+	{
+		"description": "To GCTS",
+		"icon": "up",
+		"x": 33175,
+		"y": 32383,
+		"z": 7
+	},
+	{
+		"description": "Ghastly dragons",
+		"icon": "red down",
+		"x": 33176,
+		"y": 31015,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33176,
+		"y": 32529,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33177,
+		"y": 32557,
+		"z": 7
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 33181,
+		"y": 31791,
+		"z": 7
+	},
+	{
+		"description": "NPC Daniel Steelsoul",
+		"icon": "mouth",
+		"x": 33191,
+		"y": 31795,
+		"z": 7
+	},
+	{
+		"description": "To glowing vortex",
+		"icon": "red down",
+		"x": 33192,
+		"y": 31642,
+		"z": 7
+	},
+	{
+		"description": "Temple and druid spells",
+		"icon": "cross",
+		"x": 33194,
+		"y": 32853,
+		"z": 7
+	},
+	{
+		"description": "Gnarlhounds",
+		"icon": "red down",
+		"x": 33195,
+		"y": 31473,
+		"z": 7
+	},
+	{
+		"description": "Terramites",
+		"icon": "red down",
+		"x": 33196,
+		"y": 31544,
+		"z": 7
+	},
+	{
+		"description": "Portal to Northern Zao",
+		"icon": "up",
+		"x": 33198,
+		"y": 31348,
+		"z": 7
+	},
+	{
+		"description": "PvE/PvP arena",
+		"icon": "skull",
+		"x": 33199,
+		"y": 31785,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33201,
+		"y": 32591,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33203,
+		"y": 32584,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33203,
+		"y": 32592,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33204,
+		"y": 32588,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33204,
+		"y": 32595,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33207,
+		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "Ancient Ruins Tomb (boss: Vashresamun) <hidden>",
+		"icon": "!",
+		"x": 33208,
+		"y": 32591,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33209,
+		"y": 32596,
+		"z": 7
+	},
+	{
+		"description": "To the temple",
+		"icon": "down",
+		"x": 33210,
+		"y": 31814,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33211,
+		"y": 32586,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33211,
+		"y": 32593,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33212,
+		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33213,
+		"y": 32595,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "down",
+		"x": 33214,
+		"y": 32455,
+		"z": 7
+	},
+	{
+		"description": "Nomads",
+		"icon": "down",
+		"x": 33214,
+		"y": 32552,
+		"z": 7
+	},
+	{
+		"description": "To the flying carpet",
+		"icon": "up",
+		"x": 33215,
+		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33216,
+		"y": 31756,
+		"z": 7
+	},
+	{
+		"description": "Larvas / scarabs",
+		"icon": "down",
+		"x": 33219,
+		"y": 32640,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33219,
+		"y": 32708,
+		"z": 7
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 33220,
+		"y": 32391,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33221,
+		"y": 31922,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 33221,
+		"y": 32403,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33222,
+		"y": 32695,
+		"z": 7
+	},
+	{
+		"description": "Lancer beetles",
+		"icon": "red down",
+		"x": 33223,
+		"y": 31397,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33224,
+		"y": 32710,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33225,
+		"y": 32300,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33225,
+		"y": 32692,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33225,
+		"y": 32701,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33225,
+		"y": 32704,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33228,
+		"y": 32703,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33228,
+		"y": 32712,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33230,
+		"y": 32694,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33232,
+		"y": 32706,
+		"z": 7
+	},
+	{
+		"description": "Tarpit Tomb (boss: Morguthis) <hidden>",
+		"icon": "!",
+		"x": 33233,
+		"y": 32704,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33234,
+		"y": 32701,
+		"z": 7
+	},
+	{
+		"description": "Mother of Scarabs Lair",
+		"icon": "down",
+		"x": 33236,
+		"y": 32576,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33238,
+		"y": 32694,
+		"z": 7
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 33239,
+		"y": 32409,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33241,
+		"y": 31767,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33241,
+		"y": 32697,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33246,
+		"y": 32699,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "star",
+		"x": 33247,
+		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33249,
+		"y": 32825,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33251,
+		"y": 32834,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33252,
+		"y": 32820,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33252,
+		"y": 32827,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33253,
+		"y": 32834,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33255,
+		"y": 32832,
+		"z": 7
+	},
+	{
+		"description": "Shadow Tomb (boss: Mahrdis) <hidden>",
+		"icon": "!",
+		"x": 33255,
+		"y": 32833,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33256,
+		"y": 32833,
+		"z": 7
+	},
+	{
+		"description": "Larvas / scarabs / ancient scarabs",
+		"icon": "down",
+		"x": 33257,
+		"y": 32742,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33258,
+		"y": 32828,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33259,
+		"y": 32831,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33260,
+		"y": 32824,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33262,
+		"y": 32821,
+		"z": 7
+	},
+	{
+		"description": "Dryad Gardens",
+		"icon": "down",
+		"x": 33264,
+		"y": 32014,
+		"z": 7
+	},
+	{
+		"description": "Dragons (level 40+)",
+		"icon": "?",
+		"x": 33265,
+		"y": 32279,
+		"z": 7
+	},
+	{
+		"description": "To the flying carpet",
+		"icon": "up",
+		"x": 33265,
+		"y": 32441,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33268,
+		"y": 32669,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33268,
+		"y": 32841,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33270,
+		"y": 32611,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33270,
+		"y": 32666,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33272,
+		"y": 32664,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33272,
+		"y": 32666,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33272,
+		"y": 32670,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33272,
+		"y": 32739,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33273,
+		"y": 32668,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33274,
+		"y": 32740,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33274,
+		"y": 32743,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33275,
+		"y": 32745,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33276,
+		"y": 32612,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33276,
+		"y": 32669,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33276,
+		"y": 32737,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "red down",
+		"x": 33277,
+		"y": 31958,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33277,
+		"y": 32664,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33277,
+		"y": 32670,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33278,
+		"y": 32605,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33279,
+		"y": 32613,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33280,
+		"y": 32744,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33281,
+		"y": 32607,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33282,
+		"y": 32741,
+		"z": 7
+	},
+	{
+		"description": "Stone Tomb (boss: Thalas) <hidden>",
+		"icon": "!",
+		"x": 33282,
+		"y": 32743,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33283,
+		"y": 32735,
+		"z": 7
+	},
+	{
+		"description": "Digging spot (Gold Digger achievement)",
+		"icon": "star",
+		"x": 33283,
+		"y": 32744,
+		"z": 7
+	},
+	{
+		"description": "Mother of Scarabs Lair",
+		"icon": "down",
+		"x": 33290,
+		"y": 32603,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33291,
+		"y": 32472,
+		"z": 7
+	},
+	{
+		"description": "Brimstone bugs",
+		"icon": "down",
+		"x": 33292,
+		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "Boat to Edron",
+		"icon": "flag",
+		"x": 33293,
+		"y": 31960,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "down",
+		"x": 33293,
+		"y": 32314,
+		"z": 7
+	},
+	{
+		"description": "Rotworms / bog raiders",
+		"icon": "down",
+		"x": 33303,
+		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "Boat to Grimvale",
+		"icon": "flag",
+		"x": 33304,
+		"y": 31720,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33305,
+		"y": 32373,
+		"z": 7
+	},
+	{
+		"description": "Task boss: Fazzrah",
+		"icon": "!",
+		"x": 33310,
+		"y": 31183,
+		"z": 7
+	},
+	{
+		"description": "Steamboat to Kazordoon and Farmine",
+		"icon": "flag",
+		"x": 33310,
+		"y": 31996,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33312,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Cultists <hidden>",
+		"icon": "down",
+		"x": 33315,
+		"y": 32674,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33340,
+		"y": 31973,
+		"z": 7
+	},
+	{
+		"description": "Portal of orange energy (teleport to Halls of Hope)",
+		"icon": "star",
+		"x": 33341,
+		"y": 31167,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33344,
+		"y": 31167,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33345,
+		"y": 31116,
+		"z": 7
+	},
+	{
+		"description": "Dwarves",
+		"icon": "down",
+		"x": 33347,
+		"y": 32031,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33348,
+		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "Were-creatures",
+		"icon": "down",
+		"x": 33353,
+		"y": 31670,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33364,
+		"y": 31125,
+		"z": 7
+	},
+	{
+		"description": "To NPC A Majestic Warwolf",
+		"icon": "down",
+		"x": 33364,
+		"y": 31975,
+		"z": 7
+	},
+	{
+		"description": "Bank, depot, and temple",
+		"icon": "down",
+		"x": 33446,
+		"y": 31320,
+		"z": 7
+	},
+	{
+		"description": "NPC Orockle",
+		"icon": "mouth",
+		"x": 33449,
+		"y": 31310,
+		"z": 7
+	},
+	{
+		"description": "To other cities",
+		"icon": "down",
+		"x": 33453,
+		"y": 31345,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33457,
+		"y": 31297,
+		"z": 7
+	},
+	{
+		"description": "Magic store",
+		"icon": "up",
+		"x": 33460,
+		"y": 31307,
+		"z": 7
+	},
+	{
+		"description": "NPC Lora",
+		"icon": "mouth",
+		"x": 33470,
+		"y": 31023,
+		"z": 7
+	},
+	{
+		"description": "Teleport to Fiehonja",
+		"icon": "star",
+		"x": 33478,
+		"y": 31312,
+		"z": 7
+	},
+	{
+		"description": "Insectoid cell (gooey mass)",
+		"icon": "!",
+		"x": 33479,
+		"y": 31197,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33480,
+		"y": 31203,
+		"z": 7
+	},
+	{
+		"description": "NPC Vigintius",
+		"icon": "mouth",
+		"x": 33491,
+		"y": 31036,
+		"z": 7
+	},
+	{
+		"description": "Mouthpiece supply",
+		"icon": "!",
+		"x": 33502,
+		"y": 32545,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33503,
+		"y": 31578,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33510,
+		"y": 31191,
+		"z": 7
+	},
+	{
+		"description": "Antique flying carpet",
+		"icon": "flag",
+		"x": 33513,
+		"y": 32351,
+		"z": 7
+	},
+	{
+		"description": "The Descent",
+		"icon": "crossmark",
+		"x": 33514,
+		"y": 31323,
+		"z": 7
+	},
+	{
+		"description": "Drilling site",
+		"icon": "down",
+		"x": 33515,
+		"y": 31309,
+		"z": 7
+	},
+	{
+		"description": "Shark teeth",
+		"icon": "star",
+		"x": 33516,
+		"y": 31592,
+		"z": 7
+	},
+	{
+		"description": "Hydra cave",
+		"icon": "down",
+		"x": 33517,
+		"y": 31906,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33519,
+		"y": 31209,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33523,
+		"y": 32548,
+		"z": 7
+	},
+	{
+		"description": "To NPC A Runaway Goblin",
+		"icon": "down",
+		"x": 33528,
+		"y": 31672,
+		"z": 7
+	},
+	{
+		"description": "To boat",
+		"icon": "flag",
+		"x": 33528,
+		"y": 31696,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33535,
+		"y": 31269,
+		"z": 7
+	},
+	{
+		"description": "Overmaw shrines",
+		"icon": "!",
+		"x": 33535,
+		"y": 32469,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33538,
+		"y": 32370,
+		"z": 7
+	},
+	{
+		"description": "Nostalgia arena",
+		"icon": "skull",
+		"x": 33547,
+		"y": 31038,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33547,
+		"y": 31284,
+		"z": 7
+	},
+	{
+		"description": "Chavis’ Poor House",
+		"icon": "!",
+		"x": 33547,
+		"y": 31952,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33549,
+		"y": 31262,
+		"z": 7
+	},
+	{
+		"description": "Sleeping hyaena",
+		"icon": "red down",
+		"x": 33549,
+		"y": 31662,
+		"z": 7
+	},
+	{
+		"description": "Gravel and chalk deposits",
+		"icon": "!",
+		"x": 33552,
+		"y": 32538,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33553,
+		"y": 32389,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33557,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31318,
+		"z": 7
+	},
+	{
+		"description": "Safety spot",
+		"icon": "up",
+		"x": 33564,
+		"y": 32465,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33567,
+		"y": 31038,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33568,
+		"y": 31278,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33569,
+		"y": 31920,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33572,
+		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "Quandon’s Home",
+		"icon": "!",
+		"x": 33574,
+		"y": 31953,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33575,
+		"y": 31264,
+		"z": 7
+	},
+	{
+		"description": "NPC The Beggar King",
+		"icon": "!",
+		"x": 33575,
+		"y": 31984,
+		"z": 7
+	},
+	{
+		"description": "Undead gladiators / nightmare scions / nightmares",
+		"icon": "down",
+		"x": 33580,
+		"y": 31585,
+		"z": 7
+	},
+	{
+		"description": "To Morax's bed",
+		"icon": "up",
+		"x": 33580,
+		"y": 32368,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33583,
+		"y": 32485,
+		"z": 7
+	},
+	{
+		"description": "NPC Roswitha",
+		"icon": "!",
+		"x": 33584,
+		"y": 31942,
+		"z": 7
+	},
+	{
+		"description": "Entrance to digestion chamber",
+		"icon": "red down",
+		"x": 33585,
+		"y": 31284,
+		"z": 7
+	},
+	{
+		"description": "Insectoid cell (gooey mass)",
+		"icon": "!",
+		"x": 33587,
+		"y": 31250,
+		"z": 7
+	},
+	{
+		"description": "Roshamuul Prison",
+		"icon": "down",
+		"x": 33589,
+		"y": 32432,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33590,
+		"y": 31268,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33595,
+		"y": 31952,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33596,
+		"y": 31217,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33600,
+		"y": 31267,
+		"z": 7
+	},
+	{
+		"description": "Bowl of tea leaves",
+		"icon": "star",
+		"x": 33601,
+		"y": 32391,
+		"z": 7
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 33602,
+		"y": 31899,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33605,
+		"y": 31952,
+		"z": 7
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33605,
+		"y": 32344,
+		"z": 7
+	},
+	{
+		"description": "Combinatorics task",
+		"icon": "down",
+		"x": 33610,
+		"y": 31979,
+		"z": 7
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33614,
+		"y": 32344,
+		"z": 7
+	},
+	{
+		"description": "Sacred site",
+		"icon": "star",
+		"x": 33616,
+		"y": 31605,
+		"z": 7
+	},
+	{
+		"description": "Sacred site",
+		"icon": "star",
+		"x": 33618,
+		"y": 31739,
+		"z": 7
+	},
+	{
+		"description": "To NPC Eruaran",
+		"icon": "red up",
+		"x": 33622,
+		"y": 32358,
+		"z": 7
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33625,
+		"y": 32518,
+		"z": 7
+	},
+	{
+		"description": "NPC Ghorza (magic shopkeeper)",
+		"icon": "star",
+		"x": 33627,
+		"y": 31657,
+		"z": 7
+	},
+	{
+		"description": "Passage to the other side",
+		"icon": "flag",
+		"x": 33628,
+		"y": 32005,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33630,
+		"y": 31026,
+		"z": 7
+	},
+	{
+		"description": "To NPC Morax",
+		"icon": "red up",
+		"x": 33632,
+		"y": 32342,
+		"z": 7
+	},
+	{
+		"description": "NPC Mugruu (weapons and ammunition)",
+		"icon": "mouth",
+		"x": 33636,
+		"y": 31678,
+		"z": 7
+	},
+	{
+		"description": "To the city (Rathleton)",
+		"icon": "up",
+		"x": 33636,
+		"y": 31944,
+		"z": 7
+	},
+	{
+		"description": "To the mines",
+		"icon": "down",
+		"x": 33637,
+		"y": 31790,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33637,
+		"y": 32484,
+		"z": 7
+	},
+	{
+		"description": "NPC Vuzrog",
+		"icon": "mouth",
+		"x": 33639,
+		"y": 31659,
+		"z": 7
+	},
+	{
+		"description": "To NPC Doubleday (tasks)",
+		"icon": "up",
+		"x": 33640,
+		"y": 31961,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33643,
+		"y": 32469,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33646,
+		"y": 32481,
+		"z": 7
+	},
+	{
+		"description": "NPC Terrence (city guard)",
+		"icon": "!",
+		"x": 33647,
+		"y": 31949,
+		"z": 7
+	},
+	{
+		"description": "Ancient amulet",
+		"icon": "star",
+		"x": 33648,
+		"y": 31741,
+		"z": 7
+	},
+	{
+		"description": "To NPC Eruaran",
+		"icon": "red up",
+		"x": 33648,
+		"y": 32370,
+		"z": 7
+	},
+	{
+		"description": "Slide to Glooth Factory",
+		"icon": "checkmark",
+		"x": 33651,
+		"y": 31941,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33653,
+		"y": 32453,
+		"z": 7
+	},
+	{
+		"description": "To the Silencer Plateau",
+		"icon": "red up",
+		"x": 33654,
+		"y": 32522,
+		"z": 7
+	},
+	{
+		"description": "NPC Nibble",
+		"icon": "mouth",
+		"x": 33656,
+		"y": 31650,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33657,
+		"y": 31657,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33657,
+		"y": 32463,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33657,
+		"y": 32499,
+		"z": 7
+	},
+	{
+		"description": "NPC Larek",
+		"icon": "mouth",
+		"x": 33658,
+		"y": 31664,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33658,
+		"y": 32480,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33658,
+		"y": 32494,
+		"z": 7
+	},
+	{
+		"description": "Mangate",
+		"icon": "!",
+		"x": 33666,
+		"y": 31924,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33666,
+		"y": 32473,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33670,
+		"y": 32498,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33672,
+		"y": 32474,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33674,
+		"y": 32360,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33676,
+		"y": 31794,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33676,
+		"y": 32475,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33678,
+		"y": 32473,
+		"z": 7
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33680,
+		"y": 31793,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33680,
+		"y": 32489,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33681,
+		"y": 31752,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33681,
+		"y": 32497,
+		"z": 7
+	},
+	{
+		"description": "Ogre beer crate",
+		"icon": "star",
+		"x": 33683,
+		"y": 31722,
+		"z": 7
+	},
+	{
+		"description": "Wailing widows / brimstone bugs / giant spiders",
+		"icon": "down",
+		"x": 33686,
+		"y": 31744,
+		"z": 7
+	},
+	{
+		"description": "To NPC Grubokk",
+		"icon": "up",
+		"x": 33692,
+		"y": 31775,
+		"z": 7
+	},
+	{
+		"description": "Hideout",
+		"icon": "!",
+		"x": 33693,
+		"y": 31847,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33695,
+		"y": 32484,
+		"z": 7
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33697,
+		"y": 32378,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33697,
+		"y": 32490,
+		"z": 7
+	},
+	{
+		"description": "Skull orchid",
+		"icon": "star",
+		"x": 33706,
+		"y": 31742,
+		"z": 7
+	},
+	{
+		"description": "Large pile of various bones",
+		"icon": "flag",
+		"x": 33707,
+		"y": 32488,
+		"z": 7
+	},
+	{
+		"description": "Hidden pick hole (opticording sphere quest)",
+		"icon": "down",
+		"x": 33709,
+		"y": 31687,
+		"z": 7
+	},
+	{
+		"description": "Sacred site",
+		"icon": "star",
+		"x": 33710,
+		"y": 31635,
+		"z": 7
+	},
+	{
+		"description": "To NPC Dream Butterfly",
+		"icon": "red up",
+		"x": 33711,
+		"y": 32376,
+		"z": 7
+	},
+	{
+		"description": "Skull orchid",
+		"icon": "star",
+		"x": 33729,
+		"y": 31639,
+		"z": 7
+	},
+	{
+		"description": "To NPC A Goblin Exile",
+		"icon": "down",
+		"x": 33730,
+		"y": 31733,
+		"z": 7
+	}
+]

@@ -1,1332 +1,1248 @@
-{
-	"12412609": [
-		{
-			"description": "Small lava pool (use to exit)",
-			"icon": "star",
-			"x": 31993,
-			"y": 32390,
-			"z": 9
-		}
-	],
-	"12412709": [
-		{
-			"description": "Serpent spawns / medusas",
-			"icon": "red down",
-			"x": 31928,
-			"y": 32670,
-			"z": 9
-		},
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 31936,
-			"y": 32594,
-			"z": 9
-		},
-		{
-			"description": "Lich Hell (hidden pick hole)",
-			"icon": "red down",
-			"x": 31947,
-			"y": 32593,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 31968,
-			"y": 32558,
-			"z": 9
-		}
-	],
-	"12412809": [
-		{
-			"description": "Portal",
-			"icon": "down",
-			"x": 31966,
-			"y": 32864,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 31993,
-			"y": 32791,
-			"z": 9
-		}
-	],
-	"12512109": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32192,
-			"y": 31154,
-			"z": 9
-		}
-	],
-	"12512209": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32155,
-			"y": 31439,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "red up",
-			"x": 32167,
-			"y": 31445,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32173,
-			"y": 31455,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32235,
-			"y": 31421,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32247,
-			"y": 31419,
-			"z": 9
-		}
-	],
-	"12512309": [
-		{
-			"description": "Key 4502 (copper key)",
-			"icon": "?",
-			"x": 32107,
-			"y": 31568,
-			"z": 9
-		}
-	],
-	"12512609": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32013,
-			"y": 32390,
-			"z": 9
-		}
-	],
-	"12512709": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32013,
-			"y": 32622,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32119,
-			"y": 32575,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32146,
-			"y": 32613,
-			"z": 9
-		}
-	],
-	"12512809": [
-		{
-			"description": "Diblis the Fair (rare spawn)",
-			"icon": "red down",
-			"x": 32003,
-			"y": 32792,
-			"z": 9
-		},
-		{
-			"description": "Portal (red gem)",
-			"icon": "down",
-			"x": 32009,
-			"y": 32928,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32036,
-			"y": 32821,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32040,
-			"y": 32858,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32041,
-			"y": 32909,
-			"z": 9
-		},
-		{
-			"description": "Portal",
-			"icon": "down",
-			"x": 32078,
-			"y": 32873,
-			"z": 9
-		},
-		{
-			"description": "Crustacea gigantica (spawn location)",
-			"icon": "star",
-			"x": 32182,
-			"y": 32935,
-			"z": 9
-		}
-	],
-	"12612109": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32354,
-			"y": 31065,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32424,
-			"y": 31027,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32431,
-			"y": 31110,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32461,
-			"y": 31075,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32461,
-			"y": 31101,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32468,
-			"y": 31024,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32469,
-			"y": 31095,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32470,
-			"y": 31110,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32481,
-			"y": 31103,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32483,
-			"y": 31089,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32487,
-			"y": 31113,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32505,
-			"y": 31072,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32506,
-			"y": 31093,
-			"z": 9
-		}
-	],
-	"12612209": [
-		{
-			"description": "",
-			"icon": "red up",
-			"x": 32257,
-			"y": 31410,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32259,
-			"y": 31428,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32262,
-			"y": 31356,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32269,
-			"y": 31347,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32295,
-			"y": 31441,
-			"z": 9
-		}
-	],
-	"12612309": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32404,
-			"y": 31728,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32480,
-			"y": 31721,
-			"z": 9
-		},
-		{
-			"description": "Maze of Lost Souls — lever required; see (!) on map",
-			"icon": "down",
-			"x": 32482,
-			"y": 31633,
-			"z": 9
-		}
-	],
-	"12612409": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32401,
-			"y": 31990,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32404,
-			"y": 31995,
-			"z": 9
-		},
-		{
-			"description": "To NPC A Dwarven Ghost",
-			"icon": "down",
-			"x": 32475,
-			"y": 31905,
-			"z": 9
-		}
-	],
-	"12612509": [
-		{
-			"description": "Teleport to Gnomegate",
-			"icon": "flag",
-			"x": 32330,
-			"y": 32173,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32389,
-			"y": 32197,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32403,
-			"y": 32068,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32405,
-			"y": 32033,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32416,
-			"y": 32023,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32418,
-			"y": 32041,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32423,
-			"y": 32010,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32431,
-			"y": 32064,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32436,
-			"y": 32202,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32442,
-			"y": 32015,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32442,
-			"y": 32022,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32442,
-			"y": 32023,
-			"z": 9
-		}
-	],
-	"12612709": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32420,
-			"y": 32740,
-			"z": 9
-		}
-	],
-	"12612809": [
-		{
-			"description": "Piano",
-			"icon": "checkmark",
-			"x": 32407,
-			"y": 32794,
-			"z": 9
-		}
-	],
-	"12712209": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32523,
-			"y": 31307,
-			"z": 9
-		},
-		{
-			"description": "Use pick on cracks to get down",
-			"icon": "red down",
-			"x": 32566,
-			"y": 31338,
-			"z": 9
-		}
-	],
-	"12712309": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32513,
-			"y": 31656,
-			"z": 9
-		},
-		{
-			"description": "Pull switch to the right to open MoLS",
-			"icon": "!",
-			"x": 32526,
-			"y": 31723,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32616,
-			"y": 31699,
-			"z": 9
-		}
-	],
-	"12712409": [
-		{
-			"description": "Dwarven pickaxe (daily spawn)",
-			"icon": "bag",
-			"x": 32551,
-			"y": 31950,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32562,
-			"y": 31994,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32564,
-			"y": 31992,
-			"z": 9
-		},
-		{
-			"description": "To Dwacatra",
-			"icon": "down",
-			"x": 32603,
-			"y": 31980,
-			"z": 9
-		},
-		{
-			"description": "Offline training",
-			"icon": "sword",
-			"x": 32610,
-			"y": 31946,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32718,
-			"y": 31846,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32759,
-			"y": 31864,
-			"z": 9
-		}
-	],
-	"12712509": [
-		{
-			"description": "Hidden pick hole",
-			"icon": "red down",
-			"x": 32595,
-			"y": 32068,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32671,
-			"y": 32099,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32747,
-			"y": 32203,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32755,
-			"y": 32189,
-			"z": 9
-		}
-	],
-	"12712709": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32656,
-			"y": 32549,
-			"z": 9
-		}
-	],
-	"12712809": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32600,
-			"y": 32813,
-			"z": 9
-		}
-	],
-	"12812309": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32797,
-			"y": 31655,
-			"z": 9
-		},
-		{
-			"description": "Thais",
-			"icon": "?",
-			"x": 32805,
-			"y": 31743,
-			"z": 9
-		},
-		{
-			"description": "Spider web (ghostsilver lantern)",
-			"icon": "star",
-			"x": 32825,
-			"y": 31664,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32827,
-			"y": 31665,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32849,
-			"y": 31697,
-			"z": 9
-		},
-		{
-			"description": "Uniwheel",
-			"icon": "star",
-			"x": 32939,
-			"y": 31584,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32949,
-			"y": 31620,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32989,
-			"y": 31625,
-			"z": 9
-		}
-	],
-	"12812409": [
-		{
-			"description": "Liberty Bay",
-			"icon": "?",
-			"x": 32772,
-			"y": 31776,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32776,
-			"y": 31932,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32777,
-			"y": 31949,
-			"z": 9
-		},
-		{
-			"description": "Svargrond",
-			"icon": "?",
-			"x": 32786,
-			"y": 31754,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32793,
-			"y": 31951,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32801,
-			"y": 31768,
-			"z": 9
-		},
-		{
-			"description": "Kazordoon",
-			"icon": "?",
-			"x": 32803,
-			"y": 31798,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 32807,
-			"y": 31939,
-			"z": 9
-		},
-		{
-			"description": "Darashia",
-			"icon": "?",
-			"x": 32827,
-			"y": 31757,
-			"z": 9
-		},
-		{
-			"description": "Edron",
-			"icon": "?",
-			"x": 32830,
-			"y": 31797,
-			"z": 9
-		},
-		{
-			"description": "Teleport to Gnomebase Alpha",
-			"icon": "flag",
-			"x": 32959,
-			"y": 31952,
-			"z": 9
-		},
-		{
-			"description": "NPC Gnomeral",
-			"icon": "mouth",
-			"x": 32965,
-			"y": 31878,
-			"z": 9
-		},
-		{
-			"description": "Teleport to Hot Spot",
-			"icon": "flag",
-			"x": 32979,
-			"y": 31907,
-			"z": 9
-		},
-		{
-			"description": "Teleport to Gnomegate",
-			"icon": "flag",
-			"x": 32986,
-			"y": 31861,
-			"z": 9
-		},
-		{
-			"description": "Mushroom Gardens",
-			"icon": "down",
-			"x": 32997,
-			"y": 31901,
-			"z": 9
-		},
-		{
-			"description": "Teleport to Golem Workshop",
-			"icon": "flag",
-			"x": 33002,
-			"y": 31916,
-			"z": 9
-		},
-		{
-			"description": "NPC Gnomission",
-			"icon": "mouth",
-			"x": 33006,
-			"y": 31889,
-			"z": 9
-		},
-		{
-			"description": "Warzone 1",
-			"icon": "!",
-			"x": 33013,
-			"y": 31880,
-			"z": 9
-		},
-		{
-			"description": "Warzone 2",
-			"icon": "!",
-			"x": 33019,
-			"y": 31886,
-			"z": 9
-		},
-		{
-			"description": "Warzone 3",
-			"icon": "!",
-			"x": 33022,
-			"y": 31902,
-			"z": 9
-		}
-	],
-	"12812709": [
-		{
-			"description": "",
-			"icon": "red down",
-			"x": 32948,
-			"y": 32755,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "red up",
-			"x": 32985,
-			"y": 32755,
-			"z": 9
-		}
-	],
-	"12812809": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 32843,
-			"y": 32887,
-			"z": 9
-		},
-		{
-			"description": "Jar",
-			"icon": "checkmark",
-			"x": 32940,
-			"y": 32777,
-			"z": 9
-		}
-	],
-	"12912109": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33202,
-			"y": 31059,
-			"z": 9
-		}
-	],
-	"12912309": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33059,
-			"y": 31693,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33136,
-			"y": 31593,
-			"z": 9
-		}
-	],
-	"12912509": [
-		{
-			"description": "Snake inscription",
-			"icon": "crossmark",
-			"x": 33095,
-			"y": 32243,
-			"z": 9
-		},
-		{
-			"description": "Old amphora",
-			"icon": "crossmark",
-			"x": 33119,
-			"y": 32248,
-			"z": 9
-		}
-	],
-	"12912609": [
-		{
-			"description": "To NPC Zarifan",
-			"icon": "down",
-			"x": 33051,
-			"y": 32470,
-			"z": 9
-		},
-		{
-			"description": "Hyaena’s maw (small ruby)",
-			"icon": "star",
-			"x": 33069,
-			"y": 32298,
-			"z": 9
-		},
-		{
-			"description": "Nest (small sapphire)",
-			"icon": "star",
-			"x": 33069,
-			"y": 32302,
-			"z": 9
-		},
-		{
-			"description": "Snake’s mouth (small topaz)",
-			"icon": "star",
-			"x": 33077,
-			"y": 32298,
-			"z": 9
-		},
-		{
-			"description": "Scorpion’s pincer (small amethyst)",
-			"icon": "star",
-			"x": 33077,
-			"y": 32302,
-			"z": 9
-		},
-		{
-			"description": "To noble lions",
-			"icon": "down",
-			"x": 33080,
-			"y": 32273,
-			"z": 9
-		},
-		{
-			"description": "Dusty amphora",
-			"icon": "crossmark",
-			"x": 33102,
-			"y": 32316,
-			"z": 9
-		},
-		{
-			"description": "Scorpion altar",
-			"icon": "crossmark",
-			"x": 33109,
-			"y": 32330,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33114,
-			"y": 32296,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33119,
-			"y": 32303,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33122,
-			"y": 32280,
-			"z": 9
-		},
-		{
-			"description": "Hyaena statue",
-			"icon": "crossmark",
-			"x": 33127,
-			"y": 32340,
-			"z": 9
-		},
-		{
-			"description": "Egg inscription",
-			"icon": "crossmark",
-			"x": 33131,
-			"y": 32302,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33133,
-			"y": 32321,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33139,
-			"y": 32335,
-			"z": 9
-		},
-		{
-			"description": "Dusty amphora",
-			"icon": "crossmark",
-			"x": 33148,
-			"y": 32331,
-			"z": 9
-		}
-	],
-	"12912709": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33043,
-			"y": 32554,
-			"z": 9
-		}
-	],
-	"13012109": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33286,
-			"y": 31204,
-			"z": 9
-		},
-		{
-			"description": "Tome of knowledge",
-			"icon": "star",
-			"x": 33306,
-			"y": 31125,
-			"z": 9
-		},
-		{
-			"description": "Teleport towards Dragonking Zyrtarch",
-			"icon": "flag",
-			"x": 33396,
-			"y": 31129,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33411,
-			"y": 31185,
-			"z": 9
-		},
-		{
-			"description": "NPC A Strange Chalice",
-			"icon": "mouth",
-			"x": 33419,
-			"y": 31125,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33421,
-			"y": 31129,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33428,
-			"y": 31137,
-			"z": 9
-		}
-	],
-	"13012309": [
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 33311,
-			"y": 31679,
-			"z": 9
-		},
-		{
-			"description": "Purple nightshade",
-			"icon": "star",
-			"x": 33314,
-			"y": 31637,
-			"z": 9
-		},
-		{
-			"description": "Purple nightshade",
-			"icon": "star",
-			"x": 33384,
-			"y": 31635,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33401,
-			"y": 31615,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33455,
-			"y": 31723,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33523,
-			"y": 31606,
-			"z": 9
-		}
-	],
-	"13012409": [
-		{
-			"description": "Mad Mage (spawn location)",
-			"icon": "star",
-			"x": 33328,
-			"y": 31861,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33329,
-			"y": 31976,
-			"z": 9
-		},
-		{
-			"description": "Mad Mage (spawn location)",
-			"icon": "star",
-			"x": 33348,
-			"y": 31898,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33350,
-			"y": 31959,
-			"z": 9
-		},
-		{
-			"description": "Mad Mage (spawn location)",
-			"icon": "star",
-			"x": 33364,
-			"y": 31873,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33365,
-			"y": 31938,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33505,
-			"y": 31888,
-			"z": 9
-		}
-	],
-	"13012609": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33511,
-			"y": 32378,
-			"z": 9
-		}
-	],
-	"13012709": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33296,
-			"y": 32587,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33330,
-			"y": 32596,
-			"z": 9
-		}
-	],
-	"13012809": [
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33467,
-			"y": 32797,
-			"z": 9
-		}
-	],
-	"13112109": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33647,
-			"y": 31045,
-			"z": 9
-		}
-	],
-	"13112209": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33587,
-			"y": 31261,
-			"z": 9
-		}
-	],
-	"13112309": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33546,
-			"y": 31625,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33552,
-			"y": 31559,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33619,
-			"y": 31603,
-			"z": 9
-		}
-	],
-	"13112409": [
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 33562,
-			"y": 31986,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33571,
-			"y": 31900,
-			"z": 9
-		},
-		{
-			"description": "Sewer warden",
-			"icon": "!",
-			"x": 33571,
-			"y": 31983,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33593,
-			"y": 31892,
-			"z": 9
-		},
-		{
-			"description": "Treadmill",
-			"icon": "crossmark",
-			"x": 33598,
-			"y": 31753,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33607,
-			"y": 31785,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33610,
-			"y": 31979,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33623,
-			"y": 31984,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "down",
-			"x": 33626,
-			"y": 31747,
-			"z": 9
-		},
-		{
-			"description": "To exit",
-			"icon": "up",
-			"x": 33626,
-			"y": 31789,
-			"z": 9
-		},
-		{
-			"description": "Water conveyors",
-			"icon": "star",
-			"x": 33632,
-			"y": 31761,
-			"z": 9
-		},
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33657,
-			"y": 31759,
-			"z": 9
-		},
-		{
-			"description": "Funghi",
-			"icon": "red down",
-			"x": 33660,
-			"y": 31892,
-			"z": 9
-		}
-	],
-	"13112609": [
-		{
-			"description": "",
-			"icon": "up",
-			"x": 33621,
-			"y": 32378,
-			"z": 9
-		}
-	]
-}
+[
+	{
+		"description": "Serpent spawns / medusas",
+		"icon": "red down",
+		"x": 31928,
+		"y": 32670,
+		"z": 9
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 31936,
+		"y": 32594,
+		"z": 9
+	},
+	{
+		"description": "Lich Hell (hidden pick hole)",
+		"icon": "red down",
+		"x": 31947,
+		"y": 32593,
+		"z": 9
+	},
+	{
+		"description": "Portal",
+		"icon": "down",
+		"x": 31966,
+		"y": 32864,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31968,
+		"y": 32558,
+		"z": 9
+	},
+	{
+		"description": "Small lava pool (use to exit)",
+		"icon": "star",
+		"x": 31993,
+		"y": 32390,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31993,
+		"y": 32791,
+		"z": 9
+	},
+	{
+		"description": "Diblis the Fair (rare spawn)",
+		"icon": "red down",
+		"x": 32003,
+		"y": 32792,
+		"z": 9
+	},
+	{
+		"description": "Portal (red gem)",
+		"icon": "down",
+		"x": 32009,
+		"y": 32928,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32013,
+		"y": 32390,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32013,
+		"y": 32622,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32036,
+		"y": 32821,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32040,
+		"y": 32858,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32041,
+		"y": 32909,
+		"z": 9
+	},
+	{
+		"description": "Portal",
+		"icon": "down",
+		"x": 32078,
+		"y": 32873,
+		"z": 9
+	},
+	{
+		"description": "Key 4502 (copper key)",
+		"icon": "?",
+		"x": 32107,
+		"y": 31568,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32119,
+		"y": 32575,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32146,
+		"y": 32613,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32155,
+		"y": 31439,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32167,
+		"y": 31445,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32173,
+		"y": 31455,
+		"z": 9
+	},
+	{
+		"description": "Crustacea gigantica (spawn location)",
+		"icon": "star",
+		"x": 32182,
+		"y": 32935,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32192,
+		"y": 31154,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32235,
+		"y": 31421,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32247,
+		"y": 31419,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32257,
+		"y": 31410,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32259,
+		"y": 31428,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32262,
+		"y": 31356,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32269,
+		"y": 31347,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32295,
+		"y": 31441,
+		"z": 9
+	},
+	{
+		"description": "Teleport to Gnomegate",
+		"icon": "flag",
+		"x": 32330,
+		"y": 32173,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32354,
+		"y": 31065,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32389,
+		"y": 32197,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32401,
+		"y": 31990,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32403,
+		"y": 32068,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32404,
+		"y": 31728,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32404,
+		"y": 31995,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32405,
+		"y": 32033,
+		"z": 9
+	},
+	{
+		"description": "Piano",
+		"icon": "checkmark",
+		"x": 32407,
+		"y": 32794,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32416,
+		"y": 32023,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32418,
+		"y": 32041,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32420,
+		"y": 32740,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32423,
+		"y": 32010,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32424,
+		"y": 31027,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32431,
+		"y": 31110,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32431,
+		"y": 32064,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32436,
+		"y": 32202,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32442,
+		"y": 32015,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32442,
+		"y": 32022,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32442,
+		"y": 32023,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32461,
+		"y": 31075,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32461,
+		"y": 31101,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32468,
+		"y": 31024,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32469,
+		"y": 31095,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32470,
+		"y": 31110,
+		"z": 9
+	},
+	{
+		"description": "To NPC A Dwarven Ghost",
+		"icon": "down",
+		"x": 32475,
+		"y": 31905,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32480,
+		"y": 31721,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32481,
+		"y": 31103,
+		"z": 9
+	},
+	{
+		"description": "Maze of Lost Souls — lever required; see (!) on map",
+		"icon": "down",
+		"x": 32482,
+		"y": 31633,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32483,
+		"y": 31089,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32487,
+		"y": 31113,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32505,
+		"y": 31072,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32506,
+		"y": 31093,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32513,
+		"y": 31656,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32523,
+		"y": 31307,
+		"z": 9
+	},
+	{
+		"description": "Pull switch to the right to open MoLS",
+		"icon": "!",
+		"x": 32526,
+		"y": 31723,
+		"z": 9
+	},
+	{
+		"description": "Dwarven pickaxe (daily spawn)",
+		"icon": "bag",
+		"x": 32551,
+		"y": 31950,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32562,
+		"y": 31994,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32564,
+		"y": 31992,
+		"z": 9
+	},
+	{
+		"description": "Use pick on cracks to get down",
+		"icon": "red down",
+		"x": 32566,
+		"y": 31338,
+		"z": 9
+	},
+	{
+		"description": "Hidden pick hole",
+		"icon": "red down",
+		"x": 32595,
+		"y": 32068,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32600,
+		"y": 32813,
+		"z": 9
+	},
+	{
+		"description": "To Dwacatra",
+		"icon": "down",
+		"x": 32603,
+		"y": 31980,
+		"z": 9
+	},
+	{
+		"description": "Offline training",
+		"icon": "sword",
+		"x": 32610,
+		"y": 31946,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32616,
+		"y": 31699,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32656,
+		"y": 32549,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32671,
+		"y": 32099,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32718,
+		"y": 31846,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32747,
+		"y": 32203,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32755,
+		"y": 32189,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32759,
+		"y": 31864,
+		"z": 9
+	},
+	{
+		"description": "Liberty Bay",
+		"icon": "?",
+		"x": 32772,
+		"y": 31776,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32776,
+		"y": 31932,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32777,
+		"y": 31949,
+		"z": 9
+	},
+	{
+		"description": "Svargrond",
+		"icon": "?",
+		"x": 32786,
+		"y": 31754,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32793,
+		"y": 31951,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32797,
+		"y": 31655,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32801,
+		"y": 31768,
+		"z": 9
+	},
+	{
+		"description": "Kazordoon",
+		"icon": "?",
+		"x": 32803,
+		"y": 31798,
+		"z": 9
+	},
+	{
+		"description": "Thais",
+		"icon": "?",
+		"x": 32805,
+		"y": 31743,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32807,
+		"y": 31939,
+		"z": 9
+	},
+	{
+		"description": "Spider web (ghostsilver lantern)",
+		"icon": "star",
+		"x": 32825,
+		"y": 31664,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32827,
+		"y": 31665,
+		"z": 9
+	},
+	{
+		"description": "Darashia",
+		"icon": "?",
+		"x": 32827,
+		"y": 31757,
+		"z": 9
+	},
+	{
+		"description": "Edron",
+		"icon": "?",
+		"x": 32830,
+		"y": 31797,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32843,
+		"y": 32887,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32849,
+		"y": 31697,
+		"z": 9
+	},
+	{
+		"description": "Uniwheel",
+		"icon": "star",
+		"x": 32939,
+		"y": 31584,
+		"z": 9
+	},
+	{
+		"description": "Jar",
+		"icon": "checkmark",
+		"x": 32940,
+		"y": 32777,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32948,
+		"y": 32755,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 31620,
+		"z": 9
+	},
+	{
+		"description": "Teleport to Gnomebase Alpha",
+		"icon": "flag",
+		"x": 32959,
+		"y": 31952,
+		"z": 9
+	},
+	{
+		"description": "NPC Gnomeral",
+		"icon": "mouth",
+		"x": 32965,
+		"y": 31878,
+		"z": 9
+	},
+	{
+		"description": "Teleport to Hot Spot",
+		"icon": "flag",
+		"x": 32979,
+		"y": 31907,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32985,
+		"y": 32755,
+		"z": 9
+	},
+	{
+		"description": "Teleport to Gnomegate",
+		"icon": "flag",
+		"x": 32986,
+		"y": 31861,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32989,
+		"y": 31625,
+		"z": 9
+	},
+	{
+		"description": "Mushroom Gardens",
+		"icon": "down",
+		"x": 32997,
+		"y": 31901,
+		"z": 9
+	},
+	{
+		"description": "Teleport to Golem Workshop",
+		"icon": "flag",
+		"x": 33002,
+		"y": 31916,
+		"z": 9
+	},
+	{
+		"description": "NPC Gnomission",
+		"icon": "mouth",
+		"x": 33006,
+		"y": 31889,
+		"z": 9
+	},
+	{
+		"description": "Warzone 1",
+		"icon": "!",
+		"x": 33013,
+		"y": 31880,
+		"z": 9
+	},
+	{
+		"description": "Warzone 2",
+		"icon": "!",
+		"x": 33019,
+		"y": 31886,
+		"z": 9
+	},
+	{
+		"description": "Warzone 3",
+		"icon": "!",
+		"x": 33022,
+		"y": 31902,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33043,
+		"y": 32554,
+		"z": 9
+	},
+	{
+		"description": "To NPC Zarifan",
+		"icon": "down",
+		"x": 33051,
+		"y": 32470,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33059,
+		"y": 31693,
+		"z": 9
+	},
+	{
+		"description": "Hyaena’s maw (small ruby)",
+		"icon": "star",
+		"x": 33069,
+		"y": 32298,
+		"z": 9
+	},
+	{
+		"description": "Nest (small sapphire)",
+		"icon": "star",
+		"x": 33069,
+		"y": 32302,
+		"z": 9
+	},
+	{
+		"description": "Snake’s mouth (small topaz)",
+		"icon": "star",
+		"x": 33077,
+		"y": 32298,
+		"z": 9
+	},
+	{
+		"description": "Scorpion’s pincer (small amethyst)",
+		"icon": "star",
+		"x": 33077,
+		"y": 32302,
+		"z": 9
+	},
+	{
+		"description": "To noble lions",
+		"icon": "down",
+		"x": 33080,
+		"y": 32273,
+		"z": 9
+	},
+	{
+		"description": "Snake inscription",
+		"icon": "crossmark",
+		"x": 33095,
+		"y": 32243,
+		"z": 9
+	},
+	{
+		"description": "Dusty amphora",
+		"icon": "crossmark",
+		"x": 33102,
+		"y": 32316,
+		"z": 9
+	},
+	{
+		"description": "Scorpion altar",
+		"icon": "crossmark",
+		"x": 33109,
+		"y": 32330,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33114,
+		"y": 32296,
+		"z": 9
+	},
+	{
+		"description": "Old amphora",
+		"icon": "crossmark",
+		"x": 33119,
+		"y": 32248,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33119,
+		"y": 32303,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33122,
+		"y": 32280,
+		"z": 9
+	},
+	{
+		"description": "Hyaena statue",
+		"icon": "crossmark",
+		"x": 33127,
+		"y": 32340,
+		"z": 9
+	},
+	{
+		"description": "Egg inscription",
+		"icon": "crossmark",
+		"x": 33131,
+		"y": 32302,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33133,
+		"y": 32321,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33136,
+		"y": 31593,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33139,
+		"y": 32335,
+		"z": 9
+	},
+	{
+		"description": "Dusty amphora",
+		"icon": "crossmark",
+		"x": 33148,
+		"y": 32331,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33202,
+		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33286,
+		"y": 31204,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33296,
+		"y": 32587,
+		"z": 9
+	},
+	{
+		"description": "Tome of knowledge",
+		"icon": "star",
+		"x": 33306,
+		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33311,
+		"y": 31679,
+		"z": 9
+	},
+	{
+		"description": "Purple nightshade",
+		"icon": "star",
+		"x": 33314,
+		"y": 31637,
+		"z": 9
+	},
+	{
+		"description": "Mad Mage (spawn location)",
+		"icon": "star",
+		"x": 33328,
+		"y": 31861,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33329,
+		"y": 31976,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33330,
+		"y": 32596,
+		"z": 9
+	},
+	{
+		"description": "Mad Mage (spawn location)",
+		"icon": "star",
+		"x": 33348,
+		"y": 31898,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33350,
+		"y": 31959,
+		"z": 9
+	},
+	{
+		"description": "Mad Mage (spawn location)",
+		"icon": "star",
+		"x": 33364,
+		"y": 31873,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33365,
+		"y": 31938,
+		"z": 9
+	},
+	{
+		"description": "Purple nightshade",
+		"icon": "star",
+		"x": 33384,
+		"y": 31635,
+		"z": 9
+	},
+	{
+		"description": "Teleport towards Dragonking Zyrtarch",
+		"icon": "flag",
+		"x": 33396,
+		"y": 31129,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33401,
+		"y": 31615,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33411,
+		"y": 31185,
+		"z": 9
+	},
+	{
+		"description": "NPC A Strange Chalice",
+		"icon": "mouth",
+		"x": 33419,
+		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33421,
+		"y": 31129,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33428,
+		"y": 31137,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33455,
+		"y": 31723,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33467,
+		"y": 32797,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33505,
+		"y": 31888,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33511,
+		"y": 32378,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33523,
+		"y": 31606,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33546,
+		"y": 31625,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33552,
+		"y": 31559,
+		"z": 9
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33562,
+		"y": 31986,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33571,
+		"y": 31900,
+		"z": 9
+	},
+	{
+		"description": "Sewer warden",
+		"icon": "!",
+		"x": 33571,
+		"y": 31983,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33587,
+		"y": 31261,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33593,
+		"y": 31892,
+		"z": 9
+	},
+	{
+		"description": "Treadmill",
+		"icon": "crossmark",
+		"x": 33598,
+		"y": 31753,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33607,
+		"y": 31785,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33610,
+		"y": 31979,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33619,
+		"y": 31603,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33621,
+		"y": 32378,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33623,
+		"y": 31984,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33626,
+		"y": 31747,
+		"z": 9
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33626,
+		"y": 31789,
+		"z": 9
+	},
+	{
+		"description": "Water conveyors",
+		"icon": "star",
+		"x": 33632,
+		"y": 31761,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33647,
+		"y": 31045,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33657,
+		"y": 31759,
+		"z": 9
+	},
+	{
+		"description": "Funghi",
+		"icon": "red down",
+		"x": 33660,
+		"y": 31892,
+		"z": 9
+	}
+]
