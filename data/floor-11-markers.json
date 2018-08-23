@@ -560,6 +560,34 @@
 		"z": 11
 	},
 	{
+		"description": "Shortcut out",
+		"icon": "flag",
+		"x": 32812,
+		"y": 32751,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32814,
+		"y": 32815,
+		"z": 11
+	},
+	{
+		"description": "Portal to The Lily of Night",
+		"icon": "flag",
+		"x": 32817,
+		"y": 32778,
+		"z": 11
+	},
+	{
+		"description": "Chest with The Peacock Ballad",
+		"icon": "bag",
+		"x": 32832,
+		"y": 32758,
+		"z": 11
+	},
+	{
 		"description": "Task boss: The Noxious Spawn",
 		"icon": "!",
 		"x": 32842,
@@ -578,6 +606,13 @@
 		"icon": "star",
 		"x": 32859,
 		"y": 32526,
+		"z": 11
+	},
+	{
+		"description": "Portal to silver chimes (item)",
+		"icon": "flag",
+		"x": 32859,
+		"y": 32796,
 		"z": 11
 	},
 	{

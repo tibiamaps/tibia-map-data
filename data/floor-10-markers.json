@@ -602,6 +602,20 @@
 		"z": 10
 	},
 	{
+		"description": "Energy portal",
+		"icon": "flag",
+		"x": 32808,
+		"y": 32765,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32814,
+		"y": 32815,
+		"z": 10
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32825,
@@ -630,6 +644,20 @@
 		"z": 10
 	},
 	{
+		"description": "Portal to The Blazing Rose",
+		"icon": "flag",
+		"x": 32855,
+		"y": 32737,
+		"z": 10
+	},
+	{
+		"description": "Portal to The Diamond Blossom",
+		"icon": "flag",
+		"x": 32858,
+		"y": 32766,
+		"z": 10
+	},
+	{
 		"description": "Old desk",
 		"icon": "star",
 		"x": 32860,
@@ -641,6 +669,13 @@
 		"icon": "star",
 		"x": 32883,
 		"y": 31686,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32884,
+		"y": 32805,
 		"z": 10
 	},
 	{

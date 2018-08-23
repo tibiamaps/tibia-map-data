@@ -2828,6 +2828,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lycantrophe Grounds (were-creatures)",
+		"icon": "down",
+		"x": 33186,
+		"y": 31916,
+		"z": 7
+	},
+	{
 		"description": "NPC Daniel Steelsoul",
 		"icon": "mouth",
 		"x": 33191,
@@ -3577,6 +3584,13 @@
 		"z": 7
 	},
 	{
+		"description": "Boat to the Zao Steppe",
+		"icon": "flag",
+		"x": 33345,
+		"y": 31349,
+		"z": 7
+	},
+	{
 		"description": "Dwarves",
 		"icon": "down",
 		"x": 33347,
@@ -3591,10 +3605,31 @@
 		"z": 7
 	},
 	{
+		"description": "Lycantrophe Grounds (were-creatures)",
+		"icon": "down",
+		"x": 33351,
+		"y": 32004,
+		"z": 7
+	},
+	{
 		"description": "Were-creatures",
 		"icon": "down",
 		"x": 33353,
 		"y": 31670,
+		"z": 7
+	},
+	{
+		"description": "Door - open with Key 0808",
+		"icon": "lock",
+		"x": 33360,
+		"y": 31350,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33361,
+		"y": 31344,
 		"z": 7
 	},
 	{
@@ -3605,10 +3640,66 @@
 		"z": 7
 	},
 	{
+		"description": "Can of grease",
+		"icon": "bag",
+		"x": 33364,
+		"y": 31335,
+		"z": 7
+	},
+	{
 		"description": "To NPC A Majestic Warwolf",
 		"icon": "down",
 		"x": 33364,
 		"y": 31975,
+		"z": 7
+	},
+	{
+		"description": "To the Thawing Dragon Lord",
+		"icon": "up",
+		"x": 33367,
+		"y": 31315,
+		"z": 7
+	},
+	{
+		"description": "The Grand Master of Vocal Debate VIII",
+		"icon": "bag",
+		"x": 33371,
+		"y": 31350,
+		"z": 7
+	},
+	{
+		"description": "Boat to island to the north",
+		"icon": "flag",
+		"x": 33373,
+		"y": 31309,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33376,
+		"y": 31346,
+		"z": 7
+	},
+	{
+		"description": "The Grand Master of Vocal Debate VII",
+		"icon": "bag",
+		"x": 33387,
+		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "Feyrist dark creatures",
+		"icon": "down",
+		"x": 33424,
+		"y": 32215,
+		"z": 7
+	},
+	{
+		"description": "Ice shrine (small sapphire)",
+		"icon": "flag",
+		"x": 33430,
+		"y": 32276,
 		"z": 7
 	},
 	{
@@ -3654,6 +3745,13 @@
 		"z": 7
 	},
 	{
+		"description": "Training School",
+		"icon": "down",
+		"x": 33476,
+		"y": 32227,
+		"z": 7
+	},
+	{
 		"description": "Teleport to Fiehonja",
 		"icon": "star",
 		"x": 33478,
@@ -3675,10 +3773,24 @@
 		"z": 7
 	},
 	{
+		"description": "Depot",
+		"icon": "up",
+		"x": 33488,
+		"y": 32220,
+		"z": 7
+	},
+	{
 		"description": "NPC Vigintius",
 		"icon": "mouth",
 		"x": 33491,
 		"y": 31036,
+		"z": 7
+	},
+	{
+		"description": "Feyrist dark creatures",
+		"icon": "down",
+		"x": 33492,
+		"y": 32292,
 		"z": 7
 	},
 	{
@@ -3700,6 +3812,13 @@
 		"icon": "up",
 		"x": 33510,
 		"y": 31191,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "up",
+		"x": 33512,
+		"y": 32251,
 		"z": 7
 	},
 	{
@@ -3787,6 +3906,13 @@
 		"z": 7
 	},
 	{
+		"description": "Earth shrine (small emerald)",
+		"icon": "flag",
+		"x": 33539,
+		"y": 32208,
+		"z": 7
+	},
+	{
 		"description": "Nostalgia arena",
 		"icon": "skull",
 		"x": 33547,
@@ -3805,6 +3931,13 @@
 		"icon": "!",
 		"x": 33547,
 		"y": 31952,
+		"z": 7
+	},
+	{
+		"description": "Weakened frazzlemaws, enfeebled silencers, and Kroazur",
+		"icon": "down",
+		"x": 33547,
+		"y": 32268,
 		"z": 7
 	},
 	{
@@ -3833,6 +3966,13 @@
 		"icon": "lock",
 		"x": 33553,
 		"y": 32389,
+		"z": 7
+	},
+	{
+		"description": "Feyrist dark creatures",
+		"icon": "down",
+		"x": 33554,
+		"y": 32211,
 		"z": 7
 	},
 	{
@@ -3938,6 +4078,13 @@
 		"icon": "red down",
 		"x": 33585,
 		"y": 31284,
+		"z": 7
+	},
+	{
+		"description": "Fire shrine (small ruby)",
+		"icon": "flag",
+		"x": 33586,
+		"y": 32262,
 		"z": 7
 	},
 	{

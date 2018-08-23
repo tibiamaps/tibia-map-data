@@ -154,6 +154,55 @@
 		"z": 3
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33361,
+		"y": 31354,
+		"z": 3
+	},
+	{
+		"description": "The Grand Master of Vocal Debate II",
+		"icon": "bag",
+		"x": 33362,
+		"y": 31319,
+		"z": 3
+	},
+	{
+		"description": "Door - open with Key 0909",
+		"icon": "lock",
+		"x": 33363,
+		"y": 31371,
+		"z": 3
+	},
+	{
+		"description": "The Grand Master of Vocal Debate I",
+		"icon": "bag",
+		"x": 33370,
+		"y": 31347,
+		"z": 3
+	},
+	{
+		"description": "The Grand Master of Vocal Debate IV",
+		"icon": "bag",
+		"x": 33372,
+		"y": 31337,
+		"z": 3
+	},
+	{
+		"description": "Spawn of Preceptor Lazare",
+		"icon": "sword",
+		"x": 33375,
+		"y": 31338,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33376,
+		"y": 31333,
+		"z": 3
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33478,

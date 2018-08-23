@@ -574,6 +574,55 @@
 		"z": 6
 	},
 	{
+		"description": "To the Thawing Dragon Lord",
+		"icon": "up",
+		"x": 33360,
+		"y": 31313,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33368,
+		"y": 31344,
+		"z": 6
+	},
+	{
+		"description": "The Grand Master of Vocal Debate V",
+		"icon": "bag",
+		"x": 33369,
+		"y": 31325,
+		"z": 6
+	},
+	{
+		"description": "The Grand Master of Vocal Debate VI",
+		"icon": "bag",
+		"x": 33369,
+		"y": 31326,
+		"z": 6
+	},
+	{
+		"description": "The Grand Master of Vocal Debate III",
+		"icon": "bag",
+		"x": 33373,
+		"y": 31349,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33376,
+		"y": 31346,
+		"z": 6
+	},
+	{
+		"description": "Spawn of Grand Canon Dominus",
+		"icon": "sword",
+		"x": 33384,
+		"y": 31281,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33483,

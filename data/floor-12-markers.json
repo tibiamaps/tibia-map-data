@@ -385,6 +385,13 @@
 		"z": 12
 	},
 	{
+		"description": "Teleport to Lokathmor lever room",
+		"icon": "flag",
+		"x": 32464,
+		"y": 32654,
+		"z": 12
+	},
+	{
 		"description": "5. To Demona",
 		"icon": "red down",
 		"x": 32470,
@@ -399,6 +406,13 @@
 		"z": 12
 	},
 	{
+		"description": "Safe room",
+		"icon": "up",
+		"x": 32479,
+		"y": 32780,
+		"z": 12
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32503,
@@ -410,6 +424,13 @@
 		"icon": "bag",
 		"x": 32507,
 		"y": 31963,
+		"z": 12
+	},
+	{
+		"description": "Teleport to the Isle of the Kings",
+		"icon": "flag",
+		"x": 32514,
+		"y": 32537,
 		"z": 12
 	},
 	{
@@ -452,6 +473,13 @@
 		"icon": "up",
 		"x": 32658,
 		"y": 32112,
+		"z": 12
+	},
+	{
+		"description": "Teleport to Gorzindel lever room",
+		"icon": "flag",
+		"x": 32660,
+		"y": 32736,
 		"z": 12
 	},
 	{

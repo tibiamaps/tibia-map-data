@@ -245,6 +245,20 @@
 		"z": 13
 	},
 	{
+		"description": "Teleport to Mazzinor lever room",
+		"icon": "flag",
+		"x": 32616,
+		"y": 32529,
+		"z": 13
+	},
+	{
+		"description": "Teleport to Ghulosh lever room",
+		"icon": "flag",
+		"x": 32662,
+		"y": 32713,
+		"z": 13
+	},
+	{
 		"description": "To Draconia",
 		"icon": "up",
 		"x": 32739,

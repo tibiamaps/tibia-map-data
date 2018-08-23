@@ -931,6 +931,13 @@
 		"z": 8
 	},
 	{
+		"description": "Portal to Bloodback",
+		"icon": "flag",
+		"x": 33166,
+		"y": 31977,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33168,
@@ -1015,6 +1022,27 @@
 		"z": 8
 	},
 	{
+		"description": "Dazed leaf golem",
+		"icon": "sword",
+		"x": 33306,
+		"y": 31284,
+		"z": 8
+	},
+	{
+		"description": "Shortcut to exit (room to the east)",
+		"icon": "flag",
+		"x": 33306,
+		"y": 31349,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33310,
+		"y": 31325,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33311,
@@ -1068,6 +1096,13 @@
 		"icon": "down",
 		"x": 33365,
 		"y": 31938,
+		"z": 8
+	},
+	{
+		"description": "The Grand Master of Vocal Debate IX",
+		"icon": "bag",
+		"x": 33371,
+		"y": 31343,
 		"z": 8
 	},
 	{

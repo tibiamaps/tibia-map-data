@@ -336,6 +336,34 @@
 		"z": 5
 	},
 	{
+		"description": "Spawn of golden key 0808",
+		"icon": "bag",
+		"x": 33357,
+		"y": 31358,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33368,
+		"y": 31344,
+		"z": 5
+	},
+	{
+		"description": "Spawn of Grand Chaplain Gaunder",
+		"icon": "sword",
+		"x": 33370,
+		"y": 31327,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33376,
+		"y": 31347,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33483,

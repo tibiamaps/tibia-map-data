@@ -84,6 +84,34 @@
 		"z": 2
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33361,
+		"y": 31354,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33367,
+		"y": 31331,
+		"z": 2
+	},
+	{
+		"description": "To key 0909",
+		"icon": "up",
+		"x": 33377,
+		"y": 31318,
+		"z": 2
+	},
+	{
+		"description": "Spawn of Grand Commander Soeren",
+		"icon": "sword",
+		"x": 33377,
+		"y": 31321,
+		"z": 2
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33477,

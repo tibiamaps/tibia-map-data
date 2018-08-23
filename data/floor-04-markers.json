@@ -203,6 +203,27 @@
 		"z": 4
 	},
 	{
+		"description": "Teleport back to Edron",
+		"icon": "flag",
+		"x": 33356,
+		"y": 31307,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33376,
+		"y": 31333,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33376,
+		"y": 31347,
+		"z": 4
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33480,
@@ -221,6 +242,13 @@
 		"icon": "up",
 		"x": 33519,
 		"y": 31206,
+		"z": 4
+	},
+	{
+		"description": "Energy shrine (small amethyst)",
+		"icon": "flag",
+		"x": 33527,
+		"y": 32300,
 		"z": 4
 	},
 	{

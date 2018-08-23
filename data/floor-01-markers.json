@@ -49,6 +49,13 @@
 		"z": 1
 	},
 	{
+		"description": "Chest with silver key 0909",
+		"icon": "bag",
+		"x": 33376,
+		"y": 31321,
+		"z": 1
+	},
+	{
 		"description": "Outfit chest; use 3× to get addons as well",
 		"icon": "flag",
 		"x": 33484,

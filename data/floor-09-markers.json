@@ -637,10 +637,38 @@
 		"z": 9
 	},
 	{
+		"description": "Portal back to Asura Palace",
+		"icon": "flag",
+		"x": 32812,
+		"y": 32754,
+		"z": 9
+	},
+	{
+		"description": "Locked door - requires lotus key",
+		"icon": "lock",
+		"x": 32813,
+		"y": 32813,
+		"z": 9
+	},
+	{
+		"description": "Cracks on the floor",
+		"icon": "down",
+		"x": 32815,
+		"y": 32748,
+		"z": 9
+	},
+	{
 		"description": "Spider web (ghostsilver lantern)",
 		"icon": "star",
 		"x": 32825,
 		"y": 31664,
+		"z": 9
+	},
+	{
+		"description": "Cracks on the floor (old letter and strand of hair)",
+		"icon": "down",
+		"x": 32825,
+		"y": 32775,
 		"z": 9
 	},
 	{
@@ -665,6 +693,13 @@
 		"z": 9
 	},
 	{
+		"description": "Cracks on the floor (eye key)",
+		"icon": "down",
+		"x": 32834,
+		"y": 32821,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32843,
@@ -676,6 +711,34 @@
 		"icon": "up",
 		"x": 32849,
 		"y": 31697,
+		"z": 9
+	},
+	{
+		"description": "Locked Door - requires eye key",
+		"icon": "lock",
+		"x": 32864,
+		"y": 32810,
+		"z": 9
+	},
+	{
+		"description": "Cracks on the floor (scribbled notes)",
+		"icon": "down",
+		"x": 32870,
+		"y": 32820,
+		"z": 9
+	},
+	{
+		"description": "Cracks on the floor (lotus key)",
+		"icon": "down",
+		"x": 32876,
+		"y": 32764,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32884,
+		"y": 32805,
 		"z": 9
 	},
 	{
@@ -805,10 +868,24 @@
 		"z": 9
 	},
 	{
+		"description": "Portal to Darkfang",
+		"icon": "flag",
+		"x": 33056,
+		"y": 31909,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33059,
 		"y": 31693,
+		"z": 9
+	},
+	{
+		"description": "Portal to Cormaya part of the cave",
+		"icon": "flag",
+		"x": 33064,
+		"y": 31977,
 		"z": 9
 	},
 	{
@@ -903,6 +980,13 @@
 		"z": 9
 	},
 	{
+		"description": "Portal to Sharpclaw",
+		"icon": "flag",
+		"x": 33128,
+		"y": 31971,
+		"z": 9
+	},
+	{
 		"description": "Egg inscription",
 		"icon": "crossmark",
 		"x": 33131,
@@ -959,6 +1043,13 @@
 		"z": 9
 	},
 	{
+		"description": "Teleport to Grand Master Oberon",
+		"icon": "flag",
+		"x": 33297,
+		"y": 31287,
+		"z": 9
+	},
+	{
 		"description": "Tome of knowledge",
 		"icon": "star",
 		"x": 33306,
@@ -977,6 +1068,13 @@
 		"icon": "star",
 		"x": 33314,
 		"y": 31637,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33326,
+		"y": 31331,
 		"z": 9
 	},
 	{
@@ -1050,6 +1148,13 @@
 		"z": 9
 	},
 	{
+		"description": "Portal to Shadowpelt",
+		"icon": "flag",
+		"x": 33402,
+		"y": 32097,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33411,
@@ -1075,6 +1180,20 @@
 		"icon": "down",
 		"x": 33428,
 		"y": 31137,
+		"z": 9
+	},
+	{
+		"description": "Portal to Edron part of the cave",
+		"icon": "flag",
+		"x": 33429,
+		"y": 32083,
+		"z": 9
+	},
+	{
+		"description": "Portal to Black Vixen",
+		"icon": "flag",
+		"x": 33442,
+		"y": 32051,
 		"z": 9
 	},
 	{

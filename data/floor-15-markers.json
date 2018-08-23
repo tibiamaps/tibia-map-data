@@ -35,6 +35,13 @@
 		"z": 15
 	},
 	{
+		"description": "Teleport to The Scourge of Oblivion lever room",
+		"icon": "flag",
+		"x": 32480,
+		"y": 32601,
+		"z": 15
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 32525,
