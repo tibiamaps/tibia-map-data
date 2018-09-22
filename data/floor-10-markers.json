@@ -357,6 +357,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32478,
+		"y": 31213,
+		"z": 10
+	},
+	{
 		"description": "Dragons and dragon lords",
 		"icon": "red down",
 		"x": 32478,
@@ -382,6 +389,20 @@
 		"icon": "red down",
 		"x": 32494,
 		"y": 31637,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32496,
+		"y": 31224,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32502,
+		"y": 31157,
 		"z": 10
 	},
 	{
@@ -676,6 +697,13 @@
 		"icon": "up",
 		"x": 32884,
 		"y": 32805,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32888,
+		"y": 32872,
 		"z": 10
 	},
 	{

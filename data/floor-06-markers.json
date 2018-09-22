@@ -336,6 +336,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 32630,
+		"y": 31433,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32639,

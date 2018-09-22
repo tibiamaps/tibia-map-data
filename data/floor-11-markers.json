@@ -413,10 +413,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32476,
+		"y": 31231,
+		"z": 11
+	},
+	{
 		"description": "9. To surface",
 		"icon": "up",
 		"x": 32480,
 		"y": 31644,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32496,
+		"y": 31224,
 		"z": 11
 	},
 	{
