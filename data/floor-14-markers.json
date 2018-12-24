@@ -1,5 +1,19 @@
 [
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32010,
+		"y": 31971,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32015,
+		"y": 31988,
+		"z": 14
+	},
+	{
 		"description": "Task boss: Kerberos",
 		"icon": "!",
 		"x": 32044,

@@ -1,5 +1,19 @@
 [
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32011,
+		"y": 31972,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32015,
+		"y": 31987,
+		"z": 13
+	},
+	{
 		"description": "Hellhounds",
 		"icon": "red down",
 		"x": 32048,
