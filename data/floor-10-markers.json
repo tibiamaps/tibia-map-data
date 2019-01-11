@@ -518,6 +518,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32749,
+		"y": 32619,
+		"z": 10
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "!",
 		"x": 32751,

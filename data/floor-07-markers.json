@@ -1771,6 +1771,13 @@
 		"z": 7
 	},
 	{
+		"description": "Carnivors",
+		"icon": "flag",
+		"x": 32761,
+		"y": 32631,
+		"z": 7
+	},
+	{
 		"description": "To the Foreigner Quarter",
 		"icon": "up",
 		"x": 32763,
@@ -4099,6 +4106,13 @@
 		"icon": "!",
 		"x": 33584,
 		"y": 31942,
+		"z": 7
+	},
+	{
+		"description": "Teleport to Summer Court",
+		"icon": "flag",
+		"x": 33584,
+		"y": 32207,
 		"z": 7
 	},
 	{

@@ -98,6 +98,13 @@
 		"z": 3
 	},
 	{
+		"description": "Teleport to Winter Court",
+		"icon": "flag",
+		"x": 32354,
+		"y": 31247,
+		"z": 3
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 32410,
