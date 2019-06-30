@@ -674,6 +674,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33541,
+		"y": 31933,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33541,
+		"y": 31933,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33545,
 		"y": 31040,
 		"z": 6
@@ -702,8 +716,22 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33556,
+		"y": 31921,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33557,
 		"y": 31318,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31918,
 		"z": 6
 	},
 	{

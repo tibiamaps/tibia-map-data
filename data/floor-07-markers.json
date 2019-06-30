@@ -3948,6 +3948,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33541,
+		"y": 31933,
+		"z": 7
+	},
+	{
 		"description": "Nostalgia arena",
 		"icon": "skull",
 		"x": 33547,
@@ -4011,6 +4018,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33556,
+		"y": 31920,
+		"z": 7
+	},
+	{
 		"description": "Antenna",
 		"icon": "star",
 		"x": 33557,
@@ -4022,6 +4036,13 @@
 		"icon": "up",
 		"x": 33557,
 		"y": 31318,
+		"z": 7
+	},
+	{
+		"description": "Glooth Tower",
+		"icon": "up",
+		"x": 33563,
+		"y": 31916,
 		"z": 7
 	},
 	{

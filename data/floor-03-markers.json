@@ -233,6 +233,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33551,
+		"y": 31922,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33552,
 		"y": 31316,
 		"z": 3

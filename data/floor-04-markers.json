@@ -253,6 +253,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33541,
+		"y": 31935,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33552,
 		"y": 31316,

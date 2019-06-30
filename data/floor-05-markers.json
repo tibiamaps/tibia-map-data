@@ -378,6 +378,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33541,
+		"y": 31935,
+		"z": 5
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33544,
