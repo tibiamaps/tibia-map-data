@@ -427,6 +427,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32107,
+		"y": 31241,
+		"z": 7
+	},
+	{
 		"description": "Goblins",
 		"icon": "red down",
 		"x": 32111,
@@ -4659,6 +4666,20 @@
 		"icon": "up",
 		"x": 33835,
 		"y": 31011,
+		"z": 7
+	},
+	{
+		"description": "Issavi sewers",
+		"icon": "red down",
+		"x": 33875,
+		"y": 31477,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33876,
+		"y": 31463,
 		"z": 7
 	}
 ]

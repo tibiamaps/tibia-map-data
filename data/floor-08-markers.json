@@ -148,6 +148,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32087,
+		"y": 32796,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32088,
 		"y": 31018,
@@ -182,6 +189,13 @@
 		"z": 8
 	},
 	{
+		"description": "Braindeaths",
+		"icon": "down",
+		"x": 32136,
+		"y": 32787,
+		"z": 8
+	},
+	{
 		"description": "Frozen ursagrodon",
 		"icon": "flag",
 		"x": 32140,
@@ -200,6 +214,13 @@
 		"icon": "down",
 		"x": 32155,
 		"y": 31439,
+		"z": 8
+	},
+	{
+		"description": "Exit to Liberty Bay",
+		"icon": "up",
+		"x": 32158,
+		"y": 32782,
 		"z": 8
 	},
 	{

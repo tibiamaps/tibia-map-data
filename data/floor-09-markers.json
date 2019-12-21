@@ -114,6 +114,20 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32111,
+		"y": 32790,
+		"z": 9
+	},
+	{
+		"description": "Teleport to exit",
+		"icon": "flag",
+		"x": 32117,
+		"y": 32750,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32119,
 		"y": 32575,
 		"z": 9

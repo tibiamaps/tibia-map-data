@@ -175,6 +175,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32107,
+		"y": 31241,
+		"z": 6
+	},
+	{
 		"description": "To glowing vortex: breach broods, dread intruders, sparkions",
 		"icon": "red down",
 		"x": 32163,

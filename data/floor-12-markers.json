@@ -518,6 +518,41 @@
 		"z": 12
 	},
 	{
+		"description": "Towards levers 3, 8, 13",
+		"icon": "down",
+		"x": 32834,
+		"y": 32363,
+		"z": 12
+	},
+	{
+		"description": "Towards levers 4, 5, 10",
+		"icon": "down",
+		"x": 32839,
+		"y": 32315,
+		"z": 12
+	},
+	{
+		"description": "Towards lever 14",
+		"icon": "down",
+		"x": 32857,
+		"y": 32366,
+		"z": 12
+	},
+	{
+		"description": "Towards levers 2, 7, 12, 15",
+		"icon": "down",
+		"x": 32870,
+		"y": 32359,
+		"z": 12
+	},
+	{
+		"description": "Towards lever 11",
+		"icon": "down",
+		"x": 32877,
+		"y": 32344,
+		"z": 12
+	},
+	{
 		"description": "Ancient Vampire Crypts — Sacrificial Chamber",
 		"icon": "crossmark",
 		"x": 32930,
