@@ -4649,9 +4649,44 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33778,
+		"y": 31600,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33791,
+		"y": 31518,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33791,
+		"y": 31522,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33800,
 		"y": 31012,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33808,
+		"y": 31666,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33811,
+		"y": 31657,
 		"z": 7
 	},
 	{
@@ -4664,8 +4699,57 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33819,
+		"y": 31680,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33835,
 		"y": 31011,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33839,
+		"y": 31710,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33851,
+		"y": 31613,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33854,
+		"y": 31469,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33862,
+		"y": 31454,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33870,
+		"y": 31446,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33870,
+		"y": 31607,
 		"z": 7
 	},
 	{
@@ -4680,6 +4764,69 @@
 		"icon": "up",
 		"x": 33876,
 		"y": 31463,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33884,
+		"y": 31596,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33893,
+		"y": 31511,
+		"z": 7
+	},
+	{
+		"description": "To boat",
+		"icon": "flag",
+		"x": 33894,
+		"y": 31470,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33900,
+		"y": 31511,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33920,
+		"y": 31480,
+		"z": 7
+	},
+	{
+		"description": "Towards Urmahlullu",
+		"icon": "down",
+		"x": 33924,
+		"y": 31609,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33925,
+		"y": 31466,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33939,
+		"y": 31536,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33939,
+		"y": 31550,
 		"z": 7
 	}
 ]

@@ -1442,10 +1442,59 @@
 		"z": 8
 	},
 	{
+		"description": "Wooden cage key (Kilmaresh quest)",
+		"icon": "star",
+		"x": 33768,
+		"y": 31625,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33789,
 		"y": 31022,
+		"z": 8
+	},
+	{
+		"description": "Use wooden cage key to unlock the door",
+		"icon": "star",
+		"x": 33835,
+		"y": 31666,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33846,
+		"y": 31667,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33851,
+		"y": 31612,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33854,
+		"y": 31469,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33862,
+		"y": 31454,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33870,
+		"y": 31446,
 		"z": 8
 	}
 ]
