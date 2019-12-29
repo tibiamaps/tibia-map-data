@@ -4753,6 +4753,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33871,
+		"y": 31458,
+		"z": 7
+	},
+	{
 		"description": "Issavi sewers",
 		"icon": "red down",
 		"x": 33875,
@@ -4764,6 +4771,13 @@
 		"icon": "up",
 		"x": 33884,
 		"y": 31596,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33885,
+		"y": 31460,
 		"z": 7
 	},
 	{
@@ -4785,6 +4799,20 @@
 		"icon": "up",
 		"x": 33900,
 		"y": 31511,
+		"z": 7
+	},
+	{
+		"description": "Post office",
+		"icon": "bag",
+		"x": 33905,
+		"y": 31500,
+		"z": 7
+	},
+	{
+		"description": "Magic store (potions)",
+		"icon": "star",
+		"x": 33910,
+		"y": 31513,
 		"z": 7
 	},
 	{
@@ -4820,6 +4848,13 @@
 		"icon": "up",
 		"x": 33939,
 		"y": 31550,
+		"z": 7
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 33947,
+		"y": 31508,
 		"z": 7
 	}
 ]
