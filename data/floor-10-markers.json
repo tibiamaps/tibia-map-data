@@ -1051,9 +1051,37 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33423,
+		"y": 32264,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33428,
 		"y": 31137,
+		"z": 10
+	},
+	{
+		"description": "Teleport to oasis",
+		"icon": "flag",
+		"x": 33459,
+		"y": 32267,
+		"z": 10
+	},
+	{
+		"description": "To exit",
+		"icon": "flag",
+		"x": 33491,
+		"y": 32290,
+		"z": 10
+	},
+	{
+		"description": "Teleport to exit",
+		"icon": "flag",
+		"x": 33493,
+		"y": 32242,
 		"z": 10
 	},
 	{

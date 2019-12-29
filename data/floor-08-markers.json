@@ -1,9 +1,23 @@
 [
 	{
+		"description": "Teleport to exit",
+		"icon": "flag",
+		"x": 31922,
+		"y": 32503,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 31924,
 		"y": 31355,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31930,
+		"y": 32446,
 		"z": 8
 	},
 	{
@@ -336,6 +350,13 @@
 		"z": 8
 	},
 	{
+		"description": "Teleport to exit",
+		"icon": "flag",
+		"x": 32351,
+		"y": 31679,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32354,
@@ -368,6 +389,13 @@
 		"icon": "red down",
 		"x": 32395,
 		"y": 32110,
+		"z": 8
+	},
+	{
+		"description": "Teleport to Zathroth cult",
+		"icon": "checkmark",
+		"x": 32403,
+		"y": 31812,
 		"z": 8
 	},
 	{

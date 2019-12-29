@@ -960,6 +960,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33418,
+		"y": 32316,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33422,
+		"y": 32264,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33439,
 		"y": 31808,

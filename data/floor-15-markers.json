@@ -42,6 +42,13 @@
 		"z": 15
 	},
 	{
+		"description": "Teleport to minotaur cult",
+		"icon": "flag",
+		"x": 32496,
+		"y": 32102,
+		"z": 15
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 32525,

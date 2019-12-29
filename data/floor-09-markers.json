@@ -7,6 +7,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 31930,
+		"y": 32446,
+		"z": 9
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 31936,
@@ -18,6 +25,13 @@
 		"icon": "red down",
 		"x": 31947,
 		"y": 32593,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 31957,
+		"y": 32469,
 		"z": 9
 	},
 	{
