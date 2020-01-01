@@ -831,5 +831,194 @@
 		"x": 33726,
 		"y": 31953,
 		"z": 14
+	},
+	{
+		"description": "Kazordoon",
+		"icon": "flag",
+		"x": 33743,
+		"y": 32191,
+		"z": 14
+	},
+	{
+		"description": "NPC Gnomus",
+		"icon": "mouth",
+		"x": 33750,
+		"y": 32167,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33773,
+		"y": 32231,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33775,
+		"y": 32217,
+		"z": 14
+	},
+	{
+		"description": "Warzone V",
+		"icon": "!",
+		"x": 33777,
+		"y": 32194,
+		"z": 14
+	},
+	{
+		"description": "Warzone IV",
+		"icon": "!",
+		"x": 33828,
+		"y": 32174,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33838,
+		"y": 32178,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33839,
+		"y": 32082,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33839,
+		"y": 32119,
+		"z": 14
+	},
+	{
+		"description": "NPC Lardoc Bashsmite",
+		"icon": "mouth",
+		"x": 33839,
+		"y": 32123,
+		"z": 14
+	},
+	{
+		"description": "Fourth room (use explosive barrel)",
+		"icon": "crossmark",
+		"x": 33849,
+		"y": 31989,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33857,
+		"y": 32174,
+		"z": 14
+	},
+	{
+		"description": "Broken Tower (use gnome chart)",
+		"icon": "star",
+		"x": 33866,
+		"y": 32363,
+		"z": 14
+	},
+	{
+		"description": "Outpost (use gnome chart)",
+		"icon": "star",
+		"x": 33870,
+		"y": 32015,
+		"z": 14
+	},
+	{
+		"description": "Third room (use explosive barrel)",
+		"icon": "crossmark",
+		"x": 33870,
+		"y": 32017,
+		"z": 14
+	},
+	{
+		"description": "Location E (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33878,
+		"y": 32173,
+		"z": 14
+	},
+	{
+		"description": "First room (use explosive barrel)",
+		"icon": "crossmark",
+		"x": 33882,
+		"y": 32065,
+		"z": 14
+	},
+	{
+		"description": "Location C (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33911,
+		"y": 32191,
+		"z": 14
+	},
+	{
+		"description": "Second room (use explosive barrel)",
+		"icon": "crossmark",
+		"x": 33913,
+		"y": 32034,
+		"z": 14
+	},
+	{
+		"description": "Location A (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33926,
+		"y": 32144,
+		"z": 14
+	},
+	{
+		"description": "Fifth room (use explosive barrel)",
+		"icon": "crossmark",
+		"x": 33928,
+		"y": 31989,
+		"z": 14
+	},
+	{
+		"description": "Bastion (use gnome chart)",
+		"icon": "star",
+		"x": 33931,
+		"y": 31987,
+		"z": 14
+	},
+	{
+		"description": "Location D (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33949,
+		"y": 32209,
+		"z": 14
+	},
+	{
+		"description": "Lost Ruin (use gnome chart)",
+		"icon": "star",
+		"x": 33950,
+		"y": 32163,
+		"z": 14
+	},
+	{
+		"description": "Location B (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33967,
+		"y": 32145,
+		"z": 14
+	},
+	{
+		"description": "The Gaze (use gnome chart)",
+		"icon": "star",
+		"x": 33970,
+		"y": 32142,
+		"z": 14
+	},
+	{
+		"description": "Old Gate (use gnome chart)",
+		"icon": "star",
+		"x": 33980,
+		"y": 32175,
+		"z": 14
 	}
 ]

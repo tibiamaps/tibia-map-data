@@ -2,6 +2,13 @@
 	{
 		"description": "Teleport to exit",
 		"icon": "flag",
+		"x": 31912,
+		"y": 32355,
+		"z": 8
+	},
+	{
+		"description": "Teleport to exit",
+		"icon": "flag",
 		"x": 31922,
 		"y": 32503,
 		"z": 8
@@ -32,6 +39,13 @@
 		"icon": "up",
 		"x": 31938,
 		"y": 31042,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31948,
+		"y": 32310,
 		"z": 8
 	},
 	{

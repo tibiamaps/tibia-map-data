@@ -1519,6 +1519,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Para Norbert",
+		"icon": "?",
+		"x": 32625,
+		"y": 32077,
+		"z": 7
+	},
+	{
 		"description": "To temple",
 		"icon": "red left",
 		"x": 32627,
@@ -4729,6 +4736,20 @@
 		"icon": "down",
 		"x": 33854,
 		"y": 31469,
+		"z": 7
+	},
+	{
+		"description": "Kilmaresh Catacombs",
+		"icon": "red down",
+		"x": 33857,
+		"y": 31529,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33859,
+		"y": 31656,
 		"z": 7
 	},
 	{

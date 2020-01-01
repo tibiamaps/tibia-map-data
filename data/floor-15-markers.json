@@ -222,5 +222,40 @@
 		"x": 33564,
 		"y": 31179,
 		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33754,
+		"y": 32162,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33838,
+		"y": 32178,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33839,
+		"y": 32082,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33839,
+		"y": 32119,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33857,
+		"y": 32174,
+		"z": 15
 	}
 ]
