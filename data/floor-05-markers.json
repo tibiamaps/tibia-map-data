@@ -463,14 +463,14 @@
 	},
 	{
 		"description": "NPC Barazbaz",
-		"icon": "!",
+		"icon": "mouth",
 		"x": 33650,
 		"y": 31884,
 		"z": 5
 	},
 	{
 		"description": "NPC Marvin",
-		"icon": "!",
+		"icon": "mouth",
 		"x": 33662,
 		"y": 31878,
 		"z": 5

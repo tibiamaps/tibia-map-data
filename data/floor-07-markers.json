@@ -1520,7 +1520,7 @@
 	},
 	{
 		"description": "NPC Para Norbert",
-		"icon": "?",
+		"icon": "mouth",
 		"x": 32625,
 		"y": 32077,
 		"z": 7
@@ -4110,7 +4110,7 @@
 	},
 	{
 		"description": "NPC The Beggar King",
-		"icon": "!",
+		"icon": "mouth",
 		"x": 33575,
 		"y": 31984,
 		"z": 7
@@ -4138,7 +4138,7 @@
 	},
 	{
 		"description": "NPC Roswitha",
-		"icon": "!",
+		"icon": "mouth",
 		"x": 33584,
 		"y": 31942,
 		"z": 7
@@ -4362,7 +4362,7 @@
 	},
 	{
 		"description": "NPC Terrence (city guard)",
-		"icon": "!",
+		"icon": "mouth",
 		"x": 33647,
 		"y": 31949,
 		"z": 7
