@@ -84,6 +84,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32836,
+		"y": 32868,
+		"z": 15
+	},
+	{
 		"description": "Teleport to Lloyd waiting room",
 		"icon": "star",
 		"x": 32849,
@@ -95,6 +102,20 @@
 		"icon": "star",
 		"x": 32870,
 		"y": 32723,
+		"z": 15
+	},
+	{
+		"description": "Stone rhinos",
+		"icon": "star",
+		"x": 32898,
+		"y": 32859,
+		"z": 15
+	},
+	{
+		"description": "Teleport to final boss room",
+		"icon": "flag",
+		"x": 32934,
+		"y": 32854,
 		"z": 15
 	},
 	{
@@ -161,6 +182,20 @@
 		"z": 15
 	},
 	{
+		"description": "Teleport location",
+		"icon": "star",
+		"x": 33275,
+		"y": 32316,
+		"z": 15
+	},
+	{
+		"description": "Teleport spot",
+		"icon": "star",
+		"x": 33325,
+		"y": 32108,
+		"z": 15
+	},
+	{
 		"description": "Drowned seaman’s skull",
 		"icon": "crossmark",
 		"x": 33411,
@@ -186,6 +221,13 @@
 		"icon": "crossmark",
 		"x": 33456,
 		"y": 31648,
+		"z": 15
+	},
+	{
+		"description": "Teleport spot",
+		"icon": "star",
+		"x": 33460,
+		"y": 32267,
 		"z": 15
 	},
 	{

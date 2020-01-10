@@ -91,6 +91,13 @@
 		"z": 12
 	},
 	{
+		"description": "To Anomaly pre-boss",
+		"icon": "flag",
+		"x": 32095,
+		"y": 31326,
+		"z": 12
+	},
+	{
 		"description": "Crustacea gigantica (spawn location)",
 		"icon": "star",
 		"x": 32098,
@@ -119,8 +126,8 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Towards Anomaly",
+		"icon": "red up",
 		"x": 32111,
 		"y": 31362,
 		"z": 12

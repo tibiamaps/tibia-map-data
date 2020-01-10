@@ -812,6 +812,13 @@
 		"z": 7
 	},
 	{
+		"description": "Inquisition",
+		"icon": "down",
+		"x": 32319,
+		"y": 32276,
+		"z": 7
+	},
+	{
 		"description": "Harbour",
 		"icon": "flag",
 		"x": 32321,
@@ -1029,6 +1036,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32383,
+		"y": 32971,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32384,
@@ -1061,6 +1075,13 @@
 		"icon": "star",
 		"x": 32399,
 		"y": 32220,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32400,
+		"y": 32912,
 		"z": 7
 	},
 	{
@@ -1185,6 +1206,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32472,
+		"y": 32888,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32476,
 		"y": 31099,
 		"z": 7
@@ -1260,10 +1288,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32496,
+		"y": 32915,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32510,
 		"y": 31716,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32527,
+		"y": 32954,
 		"z": 7
 	},
 	{
@@ -1582,6 +1624,13 @@
 		"z": 7
 	},
 	{
+		"description": "Coryms",
+		"icon": "down",
+		"x": 32645,
+		"y": 32851,
+		"z": 7
+	},
+	{
 		"description": "Key 3303",
 		"icon": "star",
 		"x": 32652,
@@ -1621,6 +1670,13 @@
 		"icon": "mouth",
 		"x": 32657,
 		"y": 32201,
+		"z": 7
+	},
+	{
+		"description": "Dark Cathedral",
+		"icon": "down",
+		"x": 32660,
+		"y": 32342,
 		"z": 7
 	},
 	{
@@ -2181,6 +2237,13 @@
 		"icon": "down",
 		"x": 32996,
 		"y": 32412,
+		"z": 7
+	},
+	{
+		"description": "Towards dragon cave",
+		"icon": "down",
+		"x": 33006,
+		"y": 32803,
 		"z": 7
 	},
 	{
@@ -3556,6 +3619,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Cobra Bastion",
+		"icon": "up",
+		"x": 33301,
+		"y": 32648,
+		"z": 7
+	},
+	{
 		"description": "Rotworms / bog raiders",
 		"icon": "down",
 		"x": 33303,
@@ -3731,10 +3801,24 @@
 		"z": 7
 	},
 	{
+		"description": "To Ankrahmun",
+		"icon": "flag",
+		"x": 33384,
+		"y": 32627,
+		"z": 7
+	},
+	{
 		"description": "The Grand Master of Vocal Debate VII",
 		"icon": "bag",
 		"x": 33387,
 		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "Towards Scarlett Etzel",
+		"icon": "up",
+		"x": 33397,
+		"y": 32676,
 		"z": 7
 	},
 	{
@@ -4095,13 +4179,6 @@
 		"z": 7
 	},
 	{
-		"description": "Quandon’s Home",
-		"icon": "!",
-		"x": 33574,
-		"y": 31953,
-		"z": 7
-	},
-	{
 		"description": "Antenna",
 		"icon": "star",
 		"x": 33575,
@@ -4260,6 +4337,13 @@
 		"icon": "star",
 		"x": 33618,
 		"y": 31739,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33618,
+		"y": 31832,
 		"z": 7
 	},
 	{
@@ -4515,6 +4599,13 @@
 		"z": 7
 	},
 	{
+		"description": "To minos",
+		"icon": "up",
+		"x": 33680,
+		"y": 31861,
+		"z": 7
+	},
+	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33680,
@@ -4557,10 +4648,10 @@
 		"z": 7
 	},
 	{
-		"description": "Hideout",
-		"icon": "!",
+		"description": "",
+		"icon": "down",
 		"x": 33693,
-		"y": 31847,
+		"y": 31848,
 		"z": 7
 	},
 	{

@@ -155,9 +155,51 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32347,
+		"y": 32907,
+		"z": 10
+	},
+	{
+		"description": "Blood crabs",
+		"icon": "down",
+		"x": 32349,
+		"y": 32902,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32376,
+		"y": 32961,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32377,
 		"y": 32779,
+		"z": 10
+	},
+	{
+		"description": "Blood crabs",
+		"icon": "red down",
+		"x": 32380,
+		"y": 32956,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32387,
+		"y": 32920,
+		"z": 10
+	},
+	{
+		"description": "Blood crabs",
+		"icon": "red down",
+		"x": 32393,
+		"y": 32881,
 		"z": 10
 	},
 	{
@@ -170,8 +212,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32397,
+		"y": 32879,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32401,
 		"y": 31990,
+		"z": 10
+	},
+	{
+		"description": "Blood crabs",
+		"icon": "red down",
+		"x": 32401,
+		"y": 32950,
 		"z": 10
 	},
 	{
@@ -179,6 +235,20 @@
 		"icon": "up",
 		"x": 32405,
 		"y": 32032,
+		"z": 10
+	},
+	{
+		"description": "Blood crabs",
+		"icon": "red down",
+		"x": 32411,
+		"y": 32911,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32411,
+		"y": 32974,
 		"z": 10
 	},
 	{
@@ -268,6 +338,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32438,
+		"y": 32958,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32441,
 		"y": 32411,
 		"z": 10
@@ -305,6 +382,13 @@
 		"icon": "down",
 		"x": 32453,
 		"y": 31082,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32461,
+		"y": 32985,
 		"z": 10
 	},
 	{

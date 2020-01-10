@@ -84,6 +84,13 @@
 		"z": 2
 	},
 	{
+		"description": "Elevator",
+		"icon": "flag",
+		"x": 32633,
+		"y": 31939,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33361,

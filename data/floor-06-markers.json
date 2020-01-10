@@ -574,6 +574,13 @@
 		"z": 6
 	},
 	{
+		"description": "To Cobra Bastion",
+		"icon": "flag",
+		"x": 33314,
+		"y": 32647,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33336,
@@ -788,6 +795,13 @@
 		"icon": "sword",
 		"x": 33612,
 		"y": 31899,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33617,
+		"y": 31832,
 		"z": 6
 	},
 	{

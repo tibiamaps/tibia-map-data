@@ -414,6 +414,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32905,
+		"y": 32847,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32935,
+		"y": 32940,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 32952,
 		"y": 32385,

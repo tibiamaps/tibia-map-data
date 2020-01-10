@@ -126,6 +126,13 @@
 		"z": 14
 	},
 	{
+		"description": "Towards exit",
+		"icon": "flag",
+		"x": 32213,
+		"y": 31369,
+		"z": 14
+	},
+	{
 		"description": "Teleport to the Heart of Destruction",
 		"icon": "!",
 		"x": 32213,
@@ -322,6 +329,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32835,
+		"y": 32868,
+		"z": 14
+	},
+	{
 		"description": "Time machine",
 		"icon": "star",
 		"x": 32870,
@@ -340,6 +354,13 @@
 		"icon": "flag",
 		"x": 32924,
 		"y": 31636,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32935,
+		"y": 32940,
 		"z": 14
 	},
 	{
@@ -875,6 +896,13 @@
 		"z": 14
 	},
 	{
+		"description": "Warzone VI",
+		"icon": "!",
+		"x": 33830,
+		"y": 32128,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33838,
@@ -952,6 +980,13 @@
 		"z": 14
 	},
 	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 33899,
+		"y": 32341,
+		"z": 14
+	},
+	{
 		"description": "Location C (use gnome trignometre)",
 		"icon": "crossmark",
 		"x": 33911,
@@ -966,10 +1001,24 @@
 		"z": 14
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33921,
+		"y": 32402,
+		"z": 14
+	},
+	{
 		"description": "Location A (use gnome trignometre)",
 		"icon": "crossmark",
 		"x": 33926,
 		"y": 32144,
+		"z": 14
+	},
+	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 33926,
+		"y": 32340,
 		"z": 14
 	},
 	{
@@ -987,6 +1036,13 @@
 		"z": 14
 	},
 	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 33947,
+		"y": 32258,
+		"z": 14
+	},
+	{
 		"description": "Location D (use gnome trignometre)",
 		"icon": "crossmark",
 		"x": 33949,
@@ -998,6 +1054,13 @@
 		"icon": "star",
 		"x": 33950,
 		"y": 32163,
+		"z": 14
+	},
+	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 33958,
+		"y": 32340,
 		"z": 14
 	},
 	{
@@ -1019,6 +1082,41 @@
 		"icon": "star",
 		"x": 33980,
 		"y": 32175,
+		"z": 14
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33982,
+		"y": 32234,
+		"z": 14
+	},
+	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 33991,
+		"y": 32262,
+		"z": 14
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 34024,
+		"y": 32037,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 34026,
+		"y": 32246,
+		"z": 14
+	},
+	{
+		"description": "Lava pump",
+		"icon": "star",
+		"x": 34032,
+		"y": 32001,
 		"z": 14
 	}
 ]

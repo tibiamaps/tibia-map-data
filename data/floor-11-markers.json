@@ -134,7 +134,7 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
+		"icon": "red down",
 		"x": 32119,
 		"y": 31382,
 		"z": 11
@@ -224,10 +224,31 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32348,
+		"y": 32902,
+		"z": 11
+	},
+	{
 		"description": "Coryms",
 		"icon": "red down",
 		"x": 32361,
 		"y": 31826,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32370,
+		"y": 32905,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32376,
+		"y": 32905,
 		"z": 11
 	},
 	{
@@ -239,9 +260,37 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32380,
+		"y": 32956,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 32384,
 		"y": 31420,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32387,
+		"y": 32920,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32393,
+		"y": 32881,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32400,
+		"y": 32951,
 		"z": 11
 	},
 	{
@@ -263,6 +312,20 @@
 		"icon": "red down",
 		"x": 32410,
 		"y": 31623,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32411,
+		"y": 32911,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32411,
+		"y": 32974,
 		"z": 11
 	},
 	{
@@ -340,6 +403,13 @@
 		"icon": "down",
 		"x": 32438,
 		"y": 31967,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32438,
+		"y": 32957,
 		"z": 11
 	},
 	{
@@ -907,6 +977,13 @@
 		"icon": "down",
 		"x": 33093,
 		"y": 31778,
+		"z": 11
+	},
+	{
+		"description": "Teleport to boss room (infected weepers)",
+		"icon": "star",
+		"x": 33097,
+		"y": 31977,
 		"z": 11
 	},
 	{
