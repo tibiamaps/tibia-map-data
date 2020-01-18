@@ -8,9 +8,30 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32014,
+		"y": 31946,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32015,
 		"y": 31987,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32016,
+		"y": 32023,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32016,
+		"y": 32037,
 		"z": 13
 	},
 	{
@@ -21,10 +42,38 @@
 		"z": 13
 	},
 	{
+		"description": "Troll skull",
+		"icon": "star",
+		"x": 32055,
+		"y": 31936,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32055,
+		"y": 32001,
+		"z": 13
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "checkmark",
 		"x": 32060,
 		"y": 32554,
+		"z": 13
+	},
+	{
+		"description": "Teleport to Winter Court",
+		"icon": "flag",
+		"x": 32066,
+		"y": 31949,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32086,
+		"y": 31932,
 		"z": 13
 	},
 	{
@@ -50,6 +99,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32103,
+		"y": 31922,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32113,
 		"y": 31317,
@@ -67,13 +123,6 @@
 		"icon": "up",
 		"x": 32116,
 		"y": 31334,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32118,
-		"y": 31340,
 		"z": 13
 	},
 	{
@@ -130,6 +179,27 @@
 		"icon": "star",
 		"x": 32169,
 		"y": 32649,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32197,
+		"y": 32083,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32208,
+		"y": 32033,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32208,
+		"y": 32091,
 		"z": 13
 	},
 	{
@@ -634,6 +704,20 @@
 		"icon": "up",
 		"x": 33526,
 		"y": 31255,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33583,
+		"y": 32534,
+		"z": 13
+	},
+	{
+		"description": "To exit",
+		"icon": "flag",
+		"x": 33618,
+		"y": 32546,
 		"z": 13
 	}
 ]

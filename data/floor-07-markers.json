@@ -119,6 +119,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32022,
+		"y": 31602,
+		"z": 7
+	},
+	{
 		"description": "Santiago’s hut",
 		"icon": "up",
 		"x": 32022,
@@ -1701,6 +1708,13 @@
 		"z": 7
 	},
 	{
+		"description": "Haunted Temple (gazer spectres)",
+		"icon": "red down",
+		"x": 32677,
+		"y": 32651,
+		"z": 7
+	},
+	{
 		"description": "Swamp trolls",
 		"icon": "red down",
 		"x": 32678,
@@ -1740,6 +1754,13 @@
 		"icon": "up",
 		"x": 32683,
 		"y": 31807,
+		"z": 7
+	},
+	{
+		"description": "Haunted Cellar (ripper spectres)",
+		"icon": "red down",
+		"x": 32688,
+		"y": 32235,
 		"z": 7
 	},
 	{
@@ -2422,6 +2443,13 @@
 		"z": 7
 	},
 	{
+		"description": "Haunted Tomb (burster spectres)",
+		"icon": "red down",
+		"x": 33093,
+		"y": 32389,
+		"z": 7
+	},
+	{
 		"description": "Dragons",
 		"icon": "red down",
 		"x": 33099,
@@ -2468,6 +2496,13 @@
 		"icon": "red down",
 		"x": 33109,
 		"y": 32104,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33110,
+		"y": 32385,
 		"z": 7
 	},
 	{
@@ -4536,6 +4571,13 @@
 		"z": 7
 	},
 	{
+		"description": "Colourful mushroom",
+		"icon": "star",
+		"x": 33664,
+		"y": 32192,
+		"z": 7
+	},
+	{
 		"description": "Mangate",
 		"icon": "!",
 		"x": 33666,
@@ -4554,6 +4596,20 @@
 		"icon": "flag",
 		"x": 33670,
 		"y": 32498,
+		"z": 7
+	},
+	{
+		"description": "Anatomy book",
+		"icon": "star",
+		"x": 33672,
+		"y": 32203,
+		"z": 7
+	},
+	{
+		"description": "Teleport back to Feyrist",
+		"icon": "flag",
+		"x": 33672,
+		"y": 32228,
 		"z": 7
 	},
 	{
@@ -4634,10 +4690,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33685,
+		"y": 32188,
+		"z": 7
+	},
+	{
 		"description": "Wailing widows / brimstone bugs / giant spiders",
 		"icon": "down",
 		"x": 33686,
 		"y": 31744,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33687,
+		"y": 32190,
 		"z": 7
 	},
 	{

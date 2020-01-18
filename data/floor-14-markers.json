@@ -1,5 +1,26 @@
 [
 	{
+		"description": "Use flask of medusa’s ointment",
+		"icon": "star",
+		"x": 31983,
+		"y": 31960,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 31983,
+		"y": 31999,
+		"z": 14
+	},
+	{
+		"description": "Use crowbar / Secret Agent tool to get old lock",
+		"icon": "star",
+		"x": 32006,
+		"y": 32003,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32010,
@@ -11,6 +32,20 @@
 		"icon": "up",
 		"x": 32015,
 		"y": 31988,
+		"z": 14
+	},
+	{
+		"description": "Minotaur skull",
+		"icon": "star",
+		"x": 32017,
+		"y": 31982,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32041,
+		"y": 32022,
 		"z": 14
 	},
 	{
@@ -28,10 +63,59 @@
 		"z": 14
 	},
 	{
+		"description": "Eat colourful mushroom and enter",
+		"icon": "red right",
+		"x": 32051,
+		"y": 31998,
+		"z": 14
+	},
+	{
+		"description": "Use ghost lantern",
+		"icon": "red right",
+		"x": 32061,
+		"y": 31938,
+		"z": 14
+	},
+	{
+		"description": "Use minotaur skull",
+		"icon": "checkmark",
+		"x": 32071,
+		"y": 31977,
+		"z": 14
+	},
+	{
+		"description": "Use orc skull",
+		"icon": "checkmark",
+		"x": 32074,
+		"y": 31977,
+		"z": 14
+	},
+	{
+		"description": "Use troll skull",
+		"icon": "checkmark",
+		"x": 32077,
+		"y": 31977,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32086,
+		"y": 31932,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32088,
 		"y": 32573,
+		"z": 14
+	},
+	{
+		"description": "Use old lock",
+		"icon": "red down",
+		"x": 32091,
+		"y": 31970,
 		"z": 14
 	},
 	{
@@ -112,6 +196,20 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32197,
+		"y": 32083,
+		"z": 14
+	},
+	{
+		"description": "To Winter Court",
+		"icon": "flag",
+		"x": 32203,
+		"y": 32078,
+		"z": 14
+	},
+	{
 		"description": "To exit (hidden shovel hole)",
 		"icon": "down",
 		"x": 32204,
@@ -137,6 +235,20 @@
 		"icon": "!",
 		"x": 32213,
 		"y": 31378,
+		"z": 14
+	},
+	{
+		"description": "Towards end boss",
+		"icon": "down",
+		"x": 32216,
+		"y": 32088,
+		"z": 14
+	},
+	{
+		"description": "To Summer Court",
+		"icon": "flag",
+		"x": 32217,
+		"y": 32071,
 		"z": 14
 	},
 	{
@@ -757,9 +869,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33576,
+		"y": 32544,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33578,
 		"y": 31276,
+		"z": 14
+	},
+	{
+		"description": "Acid-resistant fishing rod",
+		"icon": "star",
+		"x": 33578,
+		"y": 32528,
 		"z": 14
 	},
 	{
@@ -784,6 +910,20 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33583,
+		"y": 32534,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33596,
+		"y": 32497,
+		"z": 14
+	},
+	{
 		"description": "Teleport to The First Dragon waiting room",
 		"icon": "star",
 		"x": 33597,
@@ -805,6 +945,20 @@
 		"z": 14
 	},
 	{
+		"description": "Barrel",
+		"icon": "star",
+		"x": 33598,
+		"y": 32534,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "down",
+		"x": 33612,
+		"y": 32523,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33614,
@@ -812,10 +966,31 @@
 		"z": 14
 	},
 	{
+		"description": "Statue",
+		"icon": "star",
+		"x": 33618,
+		"y": 32519,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33618,
+		"y": 32539,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33635,
 		"y": 31959,
+		"z": 14
+	},
+	{
+		"description": "Bed",
+		"icon": "star",
+		"x": 33640,
+		"y": 32507,
 		"z": 14
 	},
 	{

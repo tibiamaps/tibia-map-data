@@ -49,6 +49,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 31963,
+		"y": 31640,
+		"z": 8
+	},
+	{
 		"description": "To Lich Hell",
 		"icon": "down",
 		"x": 31968,
@@ -95,6 +102,13 @@
 		"icon": "up",
 		"x": 32019,
 		"y": 32814,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32022,
+		"y": 31602,
 		"z": 8
 	},
 	{
@@ -700,6 +714,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32625,
+		"y": 32620,
+		"z": 8
+	},
+	{
 		"description": "Elevator",
 		"icon": "flag",
 		"x": 32633,
@@ -728,6 +749,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32677,
+		"y": 32651,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32688,
+		"y": 32235,
+		"z": 8
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32690,
@@ -736,9 +771,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 32699,
+		"y": 32275,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32709,
 		"y": 31939,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32719,
+		"y": 32263,
 		"z": 8
 	},
 	{
@@ -1031,6 +1080,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33093,
+		"y": 32389,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33109,
 		"y": 31721,
 		"z": 8
@@ -1254,6 +1310,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33361,
+		"y": 31344,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33365,
 		"y": 31938,
@@ -1390,6 +1453,13 @@
 		"icon": "star",
 		"x": 33553,
 		"y": 31240,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33554,
+		"y": 32211,
 		"z": 8
 	},
 	{

@@ -994,6 +994,13 @@
 		"z": 11
 	},
 	{
+		"description": "Gnomevil spawn tile",
+		"icon": "!",
+		"x": 33116,
+		"y": 31956,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33150,

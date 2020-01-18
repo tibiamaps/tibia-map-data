@@ -903,6 +903,34 @@
 		"z": 6
 	},
 	{
+		"description": "Orc skull",
+		"icon": "star",
+		"x": 33684,
+		"y": 32124,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33686,
+		"y": 32111,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33686,
+		"y": 32201,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33688,
+		"y": 32137,
+		"z": 6
+	},
+	{
 		"description": "Dragon egg shells",
 		"icon": "star",
 		"x": 33690,

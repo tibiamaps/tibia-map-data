@@ -492,6 +492,41 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33686,
+		"y": 32201,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33688,
+		"y": 32111,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33688,
+		"y": 32137,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33695,
+		"y": 32191,
+		"z": 5
+	},
+	{
+		"description": "Rosebush",
+		"icon": "star",
+		"x": 33703,
+		"y": 32186,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33865,
 		"y": 31489,
 		"z": 5
