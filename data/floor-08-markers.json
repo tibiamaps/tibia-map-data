@@ -680,6 +680,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32555,
+		"y": 32678,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32559,
+		"y": 32667,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32562,
 		"y": 31994,
@@ -952,6 +966,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32906,
+		"y": 32734,
+		"z": 8
+	},
+	{
 		"description": "NPC Kais",
 		"icon": "mouth",
 		"x": 32910,
@@ -1087,6 +1108,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33102,
+		"y": 31811,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33109,
 		"y": 31721,
 		"z": 8
@@ -1176,6 +1204,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33181,
+		"y": 31680,
+		"z": 8
+	},
+	{
 		"description": "Teleport to Gnomegate",
 		"icon": "flag",
 		"x": 33187,
@@ -1215,6 +1250,20 @@
 		"icon": "up",
 		"x": 33236,
 		"y": 32577,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33251,
+		"y": 31697,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33266,
+		"y": 31591,
 		"z": 8
 	},
 	{
@@ -1430,6 +1479,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33547,
+		"y": 32268,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33549,
 		"y": 31662,
 		"z": 8
@@ -1530,6 +1586,13 @@
 		"icon": "crossmark",
 		"x": 33599,
 		"y": 31791,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33610,
+		"y": 32267,
 		"z": 8
 	},
 	{

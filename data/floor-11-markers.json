@@ -1017,8 +1017,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33254,
+		"y": 31682,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33264,
 		"y": 32301,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33303,
+		"y": 31692,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33306,
+		"y": 31705,
 		"z": 11
 	},
 	{

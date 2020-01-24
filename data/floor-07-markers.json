@@ -1134,6 +1134,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32425,
+		"y": 31276,
+		"z": 7
+	},
+	{
 		"description": "Wasps",
 		"icon": "red down",
 		"x": 32428,
@@ -2345,6 +2352,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33048,
+		"y": 32757,
+		"z": 7
+	},
+	{
 		"description": "To NPC Zarifan",
 		"icon": "down",
 		"x": 33051,
@@ -2461,6 +2475,13 @@
 		"icon": "up",
 		"x": 33101,
 		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "Lost Mines",
+		"icon": "red down",
+		"x": 33102,
+		"y": 31811,
 		"z": 7
 	},
 	{
@@ -3171,6 +3192,13 @@
 		"z": 7
 	},
 	{
+		"description": "Old Fortress",
+		"icon": "up",
+		"x": 33221,
+		"y": 31654,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 33221,
@@ -3329,6 +3357,13 @@
 		"icon": "star",
 		"x": 33249,
 		"y": 32825,
+		"z": 7
+	},
+	{
+		"description": "Cyclopolis",
+		"icon": "down",
+		"x": 33251,
+		"y": 31697,
 		"z": 7
 	},
 	{
@@ -3707,6 +3742,13 @@
 		"icon": "down",
 		"x": 33315,
 		"y": 32674,
+		"z": 7
+	},
+	{
+		"description": "Teleport to Falcon Bastion",
+		"icon": "flag",
+		"x": 33328,
+		"y": 31351,
 		"z": 7
 	},
 	{
@@ -4627,6 +4669,13 @@
 		"z": 7
 	},
 	{
+		"description": "Teleport to Tyrsung",
+		"icon": "flag",
+		"x": 33675,
+		"y": 32147,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33676,
@@ -4701,6 +4750,13 @@
 		"icon": "down",
 		"x": 33686,
 		"y": 31744,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33686,
+		"y": 32111,
 		"z": 7
 	},
 	{

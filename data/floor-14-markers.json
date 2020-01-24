@@ -448,10 +448,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32842,
+		"y": 31785,
+		"z": 14
+	},
+	{
 		"description": "Time machine",
 		"icon": "star",
 		"x": 32870,
 		"y": 32722,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32907,
+		"y": 31804,
 		"z": 14
 	},
 	{

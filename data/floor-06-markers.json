@@ -301,6 +301,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32404,
+		"y": 31267,
+		"z": 6
+	},
+	{
 		"description": "Offline training (melee)",
 		"icon": "sword",
 		"x": 32412,
@@ -312,6 +319,13 @@
 		"icon": "down",
 		"x": 32418,
 		"y": 32758,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32425,
+		"y": 31276,
 		"z": 6
 	},
 	{

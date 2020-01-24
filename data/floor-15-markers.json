@@ -91,6 +91,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32842,
+		"y": 31785,
+		"z": 15
+	},
+	{
 		"description": "Teleport to Lloyd waiting room",
 		"icon": "star",
 		"x": 32849,
@@ -182,6 +189,13 @@
 		"z": 15
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33206,
+		"y": 32119,
+		"z": 15
+	},
+	{
 		"description": "Teleport location",
 		"icon": "star",
 		"x": 33275,
@@ -193,6 +207,13 @@
 		"icon": "star",
 		"x": 33325,
 		"y": 32108,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33367,
+		"y": 32309,
 		"z": 15
 	},
 	{
@@ -256,6 +277,13 @@
 		"icon": "up",
 		"x": 33507,
 		"y": 31186,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33534,
+		"y": 32182,
 		"z": 15
 	},
 	{

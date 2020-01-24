@@ -709,8 +709,22 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33285,
+		"y": 31700,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33296,
 		"y": 31948,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33306,
+		"y": 31705,
 		"z": 12
 	},
 	{
