@@ -91,6 +91,13 @@
 		"z": 8
 	},
 	{
+		"description": "Yarn",
+		"icon": "star",
+		"x": 32009,
+		"y": 32353,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32018,
@@ -1058,6 +1065,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33031,
+		"y": 31274,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33031,
 		"y": 32432,
@@ -1128,7 +1142,7 @@
 	},
 	{
 		"description": "Teleport to inner sanctum",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33128,
 		"y": 32308,
 		"z": 8
@@ -1360,6 +1374,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33356,
+		"y": 31180,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33361,
 		"y": 31344,
 		"z": 8
@@ -1436,6 +1457,20 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33484,
+		"y": 31435,
+		"z": 8
+	},
+	{
+		"description": "Irgix the Flimsy",
+		"icon": "sword",
+		"x": 33491,
+		"y": 31398,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33503,
 		"y": 31578,
@@ -1467,6 +1502,20 @@
 		"icon": "up",
 		"x": 33528,
 		"y": 31672,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33535,
+		"y": 31444,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33544,
+		"y": 31444,
 		"z": 8
 	},
 	{
@@ -1526,6 +1575,13 @@
 		"z": 8
 	},
 	{
+		"description": "Unaz the Mean",
+		"icon": "sword",
+		"x": 33566,
+		"y": 31475,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33569,
@@ -1544,6 +1600,13 @@
 		"icon": "down",
 		"x": 33571,
 		"y": 31900,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33572,
+		"y": 31459,
 		"z": 8
 	},
 	{
@@ -1593,6 +1656,13 @@
 		"icon": "down",
 		"x": 33610,
 		"y": 32267,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33615,
+		"y": 31413,
 		"z": 8
 	},
 	{
@@ -1761,6 +1831,13 @@
 		"icon": "up",
 		"x": 33870,
 		"y": 31446,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33876,
+		"y": 31883,
 		"z": 8
 	}
 ]

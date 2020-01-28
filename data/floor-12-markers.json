@@ -673,6 +673,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33122,
+		"y": 31253,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33144,
 		"y": 31589,
@@ -693,6 +700,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33185,
+		"y": 31215,
+		"z": 12
+	},
+	{
 		"description": "Teleport to Tazhadur boss room",
 		"icon": "!",
 		"x": 33234,
@@ -704,6 +718,13 @@
 		"icon": "down",
 		"x": 33235,
 		"y": 31922,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33252,
+		"y": 32848,
 		"z": 12
 	},
 	{

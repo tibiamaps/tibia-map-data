@@ -469,10 +469,38 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33028,
+		"y": 31286,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33034,
+		"y": 31276,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33060,
+		"y": 31327,
+		"z": 6
+	},
+	{
 		"description": "North Drefia",
 		"icon": "up",
 		"x": 33062,
 		"y": 32440,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "up",
+		"x": 33066,
+		"y": 31305,
 		"z": 6
 	},
 	{
@@ -564,6 +592,20 @@
 		"icon": "red down",
 		"x": 33177,
 		"y": 31192,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33179,
+		"y": 31060,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33210,
+		"y": 31037,
 		"z": 6
 	},
 	{

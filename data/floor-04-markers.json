@@ -217,6 +217,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33176,
+		"y": 31050,
+		"z": 4
+	},
+	{
 		"description": "Teleport back to Edron",
 		"icon": "flag",
 		"x": 33356,

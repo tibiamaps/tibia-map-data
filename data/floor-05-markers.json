@@ -294,6 +294,13 @@
 		"z": 5
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "down",
+		"x": 33066,
+		"y": 31304,
+		"z": 5
+	},
+	{
 		"description": "Silver ewer (daily spawn)",
 		"icon": "bag",
 		"x": 33091,
@@ -330,9 +337,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33176,
+		"y": 31051,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33176,
 		"y": 31298,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33179,
+		"y": 31060,
 		"z": 5
 	},
 	{

@@ -2121,6 +2121,13 @@
 		"z": 7
 	},
 	{
+		"description": "The Netherworld",
+		"icon": "flag",
+		"x": 32885,
+		"y": 32520,
+		"z": 7
+	},
+	{
 		"description": "Midnight panther (spawn location)",
 		"icon": "star",
 		"x": 32885,
@@ -2331,6 +2338,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33028,
+		"y": 31286,
+		"z": 7
+	},
+	{
 		"description": "Grim reapers",
 		"icon": "red down",
 		"x": 33028,
@@ -2342,6 +2356,13 @@
 		"icon": "red down",
 		"x": 33029,
 		"y": 32089,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33031,
+		"y": 31274,
 		"z": 7
 	},
 	{
@@ -2387,6 +2408,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Zao Orc Fortress",
+		"icon": "up",
+		"x": 33060,
+		"y": 31327,
+		"z": 7
+	},
+	{
 		"description": "Horestis Tomb",
 		"icon": "up",
 		"x": 33060,
@@ -2429,6 +2457,20 @@
 		"z": 7
 	},
 	{
+		"description": "Door",
+		"icon": "red down",
+		"x": 33074,
+		"y": 31168,
+		"z": 7
+	},
+	{
+		"description": "Door",
+		"icon": "red right",
+		"x": 33079,
+		"y": 31215,
+		"z": 7
+	},
+	{
 		"description": "Kha'zeel Scarab Lair",
 		"icon": "red down",
 		"x": 33080,
@@ -2447,6 +2489,20 @@
 		"icon": "flag",
 		"x": 33084,
 		"y": 32877,
+		"z": 7
+	},
+	{
+		"description": "Door",
+		"icon": "red right",
+		"x": 33085,
+		"y": 31199,
+		"z": 7
+	},
+	{
+		"description": "Door",
+		"icon": "red down",
+		"x": 33090,
+		"y": 31189,
 		"z": 7
 	},
 	{
@@ -2716,7 +2772,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Lion’s Rock",
 		"icon": "down",
 		"x": 33137,
 		"y": 32352,
@@ -3105,6 +3161,13 @@
 		"icon": "star",
 		"x": 33209,
 		"y": 32596,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33210,
+		"y": 31037,
 		"z": 7
 	},
 	{
@@ -3672,6 +3735,13 @@
 		"icon": "down",
 		"x": 33292,
 		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "To safe spot",
+		"icon": "up",
+		"x": 33292,
+		"y": 31220,
 		"z": 7
 	},
 	{
@@ -5093,6 +5163,20 @@
 		"icon": "$",
 		"x": 33947,
 		"y": 31508,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33955,
+		"y": 31467,
+		"z": 7
+	},
+	{
+		"description": "To magical carpet",
+		"icon": "up",
+		"x": 33955,
+		"y": 31495,
 		"z": 7
 	}
 ]

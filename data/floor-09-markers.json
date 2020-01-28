@@ -1191,9 +1191,72 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33158,
+		"y": 31186,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33164,
+		"y": 31173,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33165,
+		"y": 31158,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33167,
+		"y": 31149,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33181,
+		"y": 31202,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33181,
 		"y": 31680,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33184,
+		"y": 31186,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33192,
+		"y": 31215,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33198,
+		"y": 31195,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33201,
+		"y": 31206,
 		"z": 9
 	},
 	{
@@ -1408,9 +1471,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33481,
+		"y": 31452,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33505,
 		"y": 31888,
+		"z": 9
+	},
+	{
+		"description": "Vok the Freakish",
+		"icon": "sword",
+		"x": 33509,
+		"y": 31450,
 		"z": 9
 	},
 	{
