@@ -392,6 +392,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32862,
+		"y": 32126,
+		"z": 6
+	},
+	{
 		"description": "Depot",
 		"icon": "down",
 		"x": 32919,

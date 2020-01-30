@@ -567,6 +567,20 @@
 		"z": 11
 	},
 	{
+		"description": "Warzones 4-5-6",
+		"icon": "flag",
+		"x": 32624,
+		"y": 31870,
+		"z": 11
+	},
+	{
+		"description": "Warzones 1-2-3",
+		"icon": "flag",
+		"x": 32628,
+		"y": 31863,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32646,

@@ -1260,6 +1260,13 @@
 		"z": 8
 	},
 	{
+		"description": "The missing piece of the cube",
+		"icon": "star",
+		"x": 33219,
+		"y": 31737,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33236,
