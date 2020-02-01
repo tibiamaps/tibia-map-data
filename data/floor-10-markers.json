@@ -1246,6 +1246,20 @@
 		"z": 10
 	},
 	{
+		"description": "The Dread Maiden",
+		"icon": "sword",
+		"x": 33554,
+		"y": 31518,
+		"z": 10
+	},
+	{
+		"description": "The Pale Worm",
+		"icon": "sword",
+		"x": 33570,
+		"y": 31444,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33586,
@@ -1267,10 +1281,24 @@
 		"z": 10
 	},
 	{
+		"description": "The Fear Feaster",
+		"icon": "sword",
+		"x": 33607,
+		"y": 31492,
+		"z": 10
+	},
+	{
 		"description": "Treadmill",
 		"icon": "crossmark",
 		"x": 33607,
 		"y": 31720,
+		"z": 10
+	},
+	{
+		"description": "The Unwelcome",
+		"icon": "sword",
+		"x": 33609,
+		"y": 31521,
 		"z": 10
 	},
 	{
@@ -1313,6 +1341,13 @@
 		"icon": "down",
 		"x": 33637,
 		"y": 31898,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33649,
+		"y": 31438,
 		"z": 10
 	},
 	{

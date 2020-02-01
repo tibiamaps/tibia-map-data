@@ -2219,6 +2219,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32962,
+		"y": 31497,
+		"z": 7
+	},
+	{
 		"description": "Protection zone",
 		"icon": "cross",
 		"x": 32968,
