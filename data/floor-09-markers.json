@@ -1591,8 +1591,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33615,
+		"y": 32166,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33619,
 		"y": 31603,
+		"z": 9
+	},
+	{
+		"description": "Kroazur",
+		"icon": "sword",
+		"x": 33619,
+		"y": 32304,
 		"z": 9
 	},
 	{

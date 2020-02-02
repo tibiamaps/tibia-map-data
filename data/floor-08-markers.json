@@ -1675,6 +1675,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33615,
+		"y": 32166,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33619,
 		"y": 31603,
 		"z": 8
