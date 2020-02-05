@@ -225,6 +225,27 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32235,
+		"y": 32870,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32235,
+		"y": 32922,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32244,
+		"y": 32891,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32247,
 		"y": 31419,
@@ -254,8 +275,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32266,
+		"y": 32912,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32269,
 		"y": 31347,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32273,
+		"y": 32871,
 		"z": 9
 	},
 	{

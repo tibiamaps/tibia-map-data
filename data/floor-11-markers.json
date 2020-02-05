@@ -938,6 +938,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33013,
+		"y": 31934,
+		"z": 11
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 33019,
