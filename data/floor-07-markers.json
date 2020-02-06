@@ -4963,6 +4963,13 @@
 		"z": 7
 	},
 	{
+		"description": "Xogixath",
+		"icon": "red down",
+		"x": 33791,
+		"y": 31478,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33791,
@@ -4974,6 +4981,27 @@
 		"icon": "up",
 		"x": 33791,
 		"y": 31522,
+		"z": 7
+	},
+	{
+		"description": "Swim",
+		"icon": "red left",
+		"x": 33791,
+		"y": 31645,
+		"z": 7
+	},
+	{
+		"description": "Bragrumol",
+		"icon": "red down",
+		"x": 33792,
+		"y": 31594,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33795,
+		"y": 31551,
 		"z": 7
 	},
 	{
@@ -5058,6 +5086,13 @@
 		"icon": "down",
 		"x": 33862,
 		"y": 31454,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33869,
+		"y": 31596,
 		"z": 7
 	},
 	{

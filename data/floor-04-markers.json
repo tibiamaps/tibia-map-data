@@ -348,5 +348,12 @@
 		"x": 33885,
 		"y": 31485,
 		"z": 4
+	},
+	{
+		"description": "To magical carpet",
+		"icon": "up",
+		"x": 33956,
+		"y": 31512,
+		"z": 4
 	}
 ]

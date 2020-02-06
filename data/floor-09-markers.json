@@ -1745,8 +1745,92 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33852,
+		"y": 31442,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33853,
+		"y": 31464,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33854,
+		"y": 31521,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33855,
+		"y": 31450,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33855,
+		"y": 31496,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33865,
+		"y": 31443,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33865,
+		"y": 31458,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33869,
+		"y": 31519,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33873,
+		"y": 31433,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33877,
 		"y": 31843,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33879,
+		"y": 31545,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33884,
+		"y": 31510,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33891,
+		"y": 31504,
 		"z": 9
 	},
 	{
