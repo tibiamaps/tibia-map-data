@@ -1841,6 +1841,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33793,
+		"y": 31597,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33796,
+		"y": 31472,
+		"z": 8
+	},
+	{
 		"description": "Use wooden cage key to unlock the door",
 		"icon": "star",
 		"x": 33835,
@@ -1906,6 +1920,13 @@
 	{
 		"description": "Mozradek",
 		"icon": "red down",
+		"x": 33943,
+		"y": 31450,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33955,
 		"y": 31467,
 		"z": 8
