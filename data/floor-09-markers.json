@@ -1316,6 +1316,13 @@
 		"z": 9
 	},
 	{
+		"description": "Hellgorak",
+		"icon": "sword",
+		"x": 33225,
+		"y": 31607,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33266,

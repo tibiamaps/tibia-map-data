@@ -623,6 +623,13 @@
 		"z": 13
 	},
 	{
+		"description": "Temple of Xayepocax",
+		"icon": "down",
+		"x": 33192,
+		"y": 31658,
+		"z": 13
+	},
+	{
 		"description": "Teleport",
 		"icon": "flag",
 		"x": 33199,
@@ -648,6 +655,13 @@
 		"icon": "down",
 		"x": 33246,
 		"y": 31932,
+		"z": 13
+	},
+	{
+		"description": "Zugurosh",
+		"icon": "sword",
+		"x": 33260,
+		"y": 31750,
 		"z": 13
 	},
 	{
@@ -686,10 +700,24 @@
 		"z": 13
 	},
 	{
+		"description": "Latrivan & Golgordan",
+		"icon": "sword",
+		"x": 33339,
+		"y": 31632,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33346,
 		"y": 31374,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33350,
+		"y": 31610,
 		"z": 13
 	},
 	{

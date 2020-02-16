@@ -1099,6 +1099,13 @@
 		"z": 11
 	},
 	{
+		"description": "Madareth",
+		"icon": "sword",
+		"x": 33365,
+		"y": 31613,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33370,

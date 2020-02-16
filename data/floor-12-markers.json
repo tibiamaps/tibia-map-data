@@ -518,10 +518,59 @@
 		"z": 12
 	},
 	{
+		"description": "The Throne of Damnation (Tafariel)",
+		"icon": "flag",
+		"x": 32820,
+		"y": 32238,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Inferno (Infernatil)",
+		"icon": "flag",
+		"x": 32820,
+		"y": 32241,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Plague (Verminor)",
+		"icon": "flag",
+		"x": 32820,
+		"y": 32244,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Destruction (Apocalypse)",
+		"icon": "flag",
+		"x": 32824,
+		"y": 32236,
+		"z": 12
+	},
+	{
 		"description": "To Draconia",
 		"icon": "down",
 		"x": 32826,
 		"y": 31666,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Despair (Pumin)",
+		"icon": "flag",
+		"x": 32828,
+		"y": 32238,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Deceit (Bazir)",
+		"icon": "flag",
+		"x": 32828,
+		"y": 32241,
+		"z": 12
+	},
+	{
+		"description": "The Throne of Decay (Ashfalor)",
+		"icon": "flag",
+		"x": 32828,
+		"y": 32244,
 		"z": 12
 	},
 	{
@@ -711,6 +760,13 @@
 		"icon": "up",
 		"x": 33185,
 		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "Ushuriel",
+		"icon": "sword",
+		"x": 33230,
+		"y": 31633,
 		"z": 12
 	},
 	{

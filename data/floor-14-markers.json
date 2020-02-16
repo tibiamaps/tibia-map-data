@@ -651,6 +651,20 @@
 		"z": 14
 	},
 	{
+		"description": "The Dark Path (Ushuriel)",
+		"icon": "up",
+		"x": 33163,
+		"y": 31715,
+		"z": 14
+	},
+	{
+		"description": "Teleport to Demon Forge",
+		"icon": "flag",
+		"x": 33192,
+		"y": 31691,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33246,
@@ -690,6 +704,13 @@
 		"icon": "checkmark",
 		"x": 33355,
 		"y": 32680,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33358,
+		"y": 31591,
 		"z": 14
 	},
 	{
