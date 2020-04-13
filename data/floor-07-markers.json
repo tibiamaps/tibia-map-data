@@ -1953,10 +1953,24 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32803,
+		"y": 31601,
+		"z": 7
+	},
+	{
 		"description": "Harbour",
 		"icon": "flag",
 		"x": 32810,
 		"y": 31269,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32816,
+		"y": 31496,
 		"z": 7
 	},
 	{
@@ -1978,6 +1992,13 @@
 		"icon": "$",
 		"x": 32826,
 		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32826,
+		"y": 31497,
 		"z": 7
 	},
 	{
@@ -2594,6 +2615,13 @@
 		"icon": "down",
 		"x": 33110,
 		"y": 32385,
+		"z": 7
+	},
+	{
+		"description": "Dragon lair",
+		"icon": "up",
+		"x": 33116,
+		"y": 32605,
 		"z": 7
 	},
 	{
@@ -3574,6 +3602,13 @@
 		"icon": "star",
 		"x": 33270,
 		"y": 32666,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33271,
+		"y": 32395,
 		"z": 7
 	},
 	{

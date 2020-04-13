@@ -945,6 +945,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32816,
+		"y": 31512,
+		"z": 8
+	},
+	{
 		"description": "Sewer problem #1",
 		"icon": "crossmark",
 		"x": 32823,
@@ -963,6 +970,13 @@
 		"icon": "down",
 		"x": 32825,
 		"y": 31694,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32836,
+		"y": 31486,
 		"z": 8
 	},
 	{
@@ -1901,6 +1915,13 @@
 		"icon": "up",
 		"x": 33862,
 		"y": 31454,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33865,
+		"y": 31458,
 		"z": 8
 	},
 	{

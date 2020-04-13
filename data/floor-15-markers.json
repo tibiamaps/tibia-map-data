@@ -65,6 +65,13 @@
 	{
 		"description": "To Draconia",
 		"icon": "up",
+		"x": 32666,
+		"y": 31672,
+		"z": 15
+	},
+	{
+		"description": "To Draconia",
+		"icon": "up",
 		"x": 32685,
 		"y": 31708,
 		"z": 15
