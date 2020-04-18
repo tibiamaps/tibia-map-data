@@ -413,6 +413,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32936,
+		"y": 32159,
+		"z": 6
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32953,
@@ -435,9 +442,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33004,
+		"y": 32095,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33008,
 		"y": 32618,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33009,
+		"y": 32100,
 		"z": 6
 	},
 	{
@@ -480,6 +501,13 @@
 		"icon": "down",
 		"x": 33028,
 		"y": 31286,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33032,
+		"y": 32096,
 		"z": 6
 	},
 	{

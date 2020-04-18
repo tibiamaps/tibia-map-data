@@ -2226,6 +2226,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32936,
+		"y": 32159,
+		"z": 7
+	},
+	{
 		"description": "Giant spiders",
 		"icon": "red down",
 		"x": 32949,
@@ -2310,6 +2317,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33004,
+		"y": 32095,
+		"z": 7
+	},
+	{
 		"description": "Towards dragon cave",
 		"icon": "down",
 		"x": 33006,
@@ -2324,10 +2338,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33009,
+		"y": 32100,
+		"z": 7
+	},
+	{
 		"description": "Northern Kha'zeel Dragon Lair",
 		"icon": "down",
 		"x": 33009,
 		"y": 32604,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33012,
+		"y": 32079,
 		"z": 7
 	},
 	{
@@ -2342,6 +2370,13 @@
 		"icon": "down",
 		"x": 33018,
 		"y": 32429,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33019,
+		"y": 32064,
 		"z": 7
 	},
 	{
@@ -2398,6 +2433,13 @@
 		"icon": "down",
 		"x": 33031,
 		"y": 31274,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33032,
+		"y": 32096,
 		"z": 7
 	},
 	{
@@ -2475,6 +2517,13 @@
 		"icon": "bag",
 		"x": 33069,
 		"y": 32877,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33071,
+		"y": 32089,
 		"z": 7
 	},
 	{

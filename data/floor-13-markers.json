@@ -553,10 +553,24 @@
 		"z": 13
 	},
 	{
+		"description": "Rusted key fragment (handle)",
+		"icon": "star",
+		"x": 33031,
+		"y": 32050,
+		"z": 13
+	},
+	{
 		"description": "Red crystal",
 		"icon": "checkmark",
 		"x": 33034,
 		"y": 31837,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33037,
+		"y": 32009,
 		"z": 13
 	},
 	{
@@ -592,6 +606,20 @@
 		"icon": "red down",
 		"x": 33074,
 		"y": 32370,
+		"z": 13
+	},
+	{
+		"description": "Metal file",
+		"icon": "star",
+		"x": 33079,
+		"y": 31981,
+		"z": 13
+	},
+	{
+		"description": "Rusted key fragment (head)",
+		"icon": "star",
+		"x": 33079,
+		"y": 32014,
 		"z": 13
 	},
 	{

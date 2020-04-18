@@ -875,6 +875,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32965,
+		"y": 32199,
+		"z": 10
+	},
+	{
 		"description": "To NPC Tomruk the Ruddy (blood priest)",
 		"icon": "down",
 		"x": 32968,
@@ -952,6 +959,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33007,
+		"y": 32185,
+		"z": 10
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33010,
@@ -973,6 +987,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33023,
+		"y": 32018,
+		"z": 10
+	},
+	{
 		"description": "NPC Oblivion (shadow pupil)",
 		"icon": "!",
 		"x": 33024,
@@ -984,6 +1005,13 @@
 		"icon": "mouth",
 		"x": 33034,
 		"y": 31530,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33037,
+		"y": 32159,
 		"z": 10
 	},
 	{
@@ -1036,6 +1064,20 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33070,
+		"y": 32098,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33071,
+		"y": 32102,
+		"z": 10
+	},
+	{
 		"description": "Strange shrine",
 		"icon": "checkmark",
 		"x": 33073,
@@ -1068,6 +1110,13 @@
 		"icon": "checkmark",
 		"x": 33088,
 		"y": 32338,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33092,
+		"y": 32068,
 		"z": 10
 	},
 	{

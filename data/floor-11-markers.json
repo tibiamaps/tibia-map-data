@@ -863,6 +863,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32965,
+		"y": 32199,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32968,
 		"y": 32409,
 		"z": 11
@@ -939,6 +946,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33007,
+		"y": 32185,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33012,
 		"y": 32457,
@@ -959,10 +973,31 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33023,
+		"y": 32018,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33037,
+		"y": 32159,
+		"z": 11
+	},
+	{
 		"description": "Teleport to Halls of Sacrifice",
 		"icon": "flag",
 		"x": 33046,
 		"y": 32439,
+		"z": 11
+	},
+	{
+		"description": "Teleport to stone refiners",
+		"icon": "flag",
+		"x": 33053,
+		"y": 32005,
 		"z": 11
 	},
 	{
@@ -984,6 +1019,13 @@
 		"icon": "up",
 		"x": 33067,
 		"y": 31778,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33071,
+		"y": 32102,
 		"z": 11
 	},
 	{

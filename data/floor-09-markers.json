@@ -1155,6 +1155,20 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33084,
+		"y": 32088,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33092,
+		"y": 32069,
+		"z": 9
+	},
+	{
 		"description": "Snake inscription",
 		"icon": "crossmark",
 		"x": 33095,

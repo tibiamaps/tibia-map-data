@@ -680,9 +680,30 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33035,
+		"y": 32008,
+		"z": 12
+	},
+	{
+		"description": "Teleport back to coryms",
+		"icon": "flag",
+		"x": 33040,
+		"y": 32081,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33043,
 		"y": 31754,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33046,
+		"y": 32067,
 		"z": 12
 	},
 	{
