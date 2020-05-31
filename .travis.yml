@@ -9,7 +9,9 @@ script:
   - tibia-maps --version
   - tibia-maps --from-data=./data --output-dir=./minimap
   - tibia-maps --from-minimap=./minimap --output-dir=./data
-  - git status && git diff-index --quiet HEAD --
+  #- git status && git diff-index --quiet HEAD --
+  - git status
+  - git diff
 after_success:
   - scripts/install-ssh-key.sh
   - travis_wait scripts/update-gh-pages.sh

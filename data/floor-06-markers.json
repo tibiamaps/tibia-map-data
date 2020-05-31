@@ -345,6 +345,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32556,
+		"y": 32766,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32602,
 		"y": 31923,
 		"z": 6

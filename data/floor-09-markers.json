@@ -253,13 +253,6 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
-		"x": 32242,
-		"y": 32620,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32244,
 		"y": 32891,
@@ -1603,6 +1596,13 @@
 		"z": 9
 	},
 	{
+		"description": "Fairy",
+		"icon": "star",
+		"x": 33559,
+		"y": 32202,
+		"z": 9
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 33562,
@@ -1642,6 +1642,13 @@
 		"icon": "down",
 		"x": 33594,
 		"y": 31857,
+		"z": 9
+	},
+	{
+		"description": "Dark moon mirror",
+		"icon": "star",
+		"x": 33594,
+		"y": 32215,
 		"z": 9
 	},
 	{
@@ -1688,7 +1695,7 @@
 	},
 	{
 		"description": "Kroazur",
-		"icon": "sword",
+		"icon": "flag",
 		"x": 33619,
 		"y": 32304,
 		"z": 9

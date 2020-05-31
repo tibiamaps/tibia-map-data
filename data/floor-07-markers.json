@@ -1380,6 +1380,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32556,
+		"y": 32766,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32558,
 		"y": 31680,
@@ -2048,6 +2055,13 @@
 		"icon": "down",
 		"x": 32844,
 		"y": 32775,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32845,
+		"y": 31170,
 		"z": 7
 	},
 	{
@@ -4109,6 +4123,13 @@
 		"z": 7
 	},
 	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33459,
+		"y": 32293,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "up",
 		"x": 33460,
@@ -4116,10 +4137,24 @@
 		"z": 7
 	},
 	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33464,
+		"y": 32230,
+		"z": 7
+	},
+	{
 		"description": "NPC Lora",
 		"icon": "mouth",
 		"x": 33470,
 		"y": 31023,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33470,
+		"y": 32251,
 		"z": 7
 	},
 	{
@@ -4169,6 +4204,20 @@
 		"icon": "down",
 		"x": 33492,
 		"y": 32292,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33494,
+		"y": 32318,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33499,
+		"y": 32193,
 		"z": 7
 	},
 	{
@@ -4246,6 +4295,13 @@
 		"icon": "up",
 		"x": 33523,
 		"y": 32548,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33526,
+		"y": 32256,
 		"z": 7
 	},
 	{
@@ -4337,6 +4393,13 @@
 		"icon": "red down",
 		"x": 33549,
 		"y": 31662,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33550,
+		"y": 32222,
 		"z": 7
 	},
 	{
@@ -4491,6 +4554,13 @@
 		"icon": "!",
 		"x": 33587,
 		"y": 31250,
+		"z": 7
+	},
+	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33589,
+		"y": 32196,
 		"z": 7
 	},
 	{

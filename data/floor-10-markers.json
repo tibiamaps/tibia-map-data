@@ -140,6 +140,13 @@
 		"z": 10
 	},
 	{
+		"description": "Pile of bones (floor plan)",
+		"icon": "star",
+		"x": 32211,
+		"y": 31273,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32220,

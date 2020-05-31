@@ -917,20 +917,6 @@
 		"z": 8
 	},
 	{
-		"description": "Sewer problem #2",
-		"icon": "crossmark",
-		"x": 32795,
-		"y": 31152,
-		"z": 8
-	},
-	{
-		"description": "Sewer problem #4",
-		"icon": "crossmark",
-		"x": 32796,
-		"y": 31191,
-		"z": 8
-	},
-	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32805,
@@ -952,13 +938,6 @@
 		"z": 8
 	},
 	{
-		"description": "Sewer problem #1",
-		"icon": "crossmark",
-		"x": 32823,
-		"y": 31161,
-		"z": 8
-	},
-	{
 		"description": "Key 5010 (silver key)",
 		"icon": "?",
 		"x": 32824,
@@ -977,13 +956,6 @@
 		"icon": "down",
 		"x": 32836,
 		"y": 31486,
-		"z": 8
-	},
-	{
-		"description": "Sewer problem #3",
-		"icon": "crossmark",
-		"x": 32842,
-		"y": 31250,
 		"z": 8
 	},
 	{
@@ -1540,6 +1512,13 @@
 		"z": 8
 	},
 	{
+		"description": "Fairy",
+		"icon": "star",
+		"x": 33505,
+		"y": 32287,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "up",
 		"x": 33515,
@@ -1673,6 +1652,13 @@
 		"z": 8
 	},
 	{
+		"description": "Fairy",
+		"icon": "star",
+		"x": 33576,
+		"y": 32186,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33580,
@@ -1740,6 +1726,13 @@
 		"icon": "down",
 		"x": 33619,
 		"y": 31603,
+		"z": 8
+	},
+	{
+		"description": "Fairy",
+		"icon": "star",
+		"x": 33621,
+		"y": 32215,
 		"z": 8
 	},
 	{
