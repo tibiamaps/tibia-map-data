@@ -1120,10 +1120,31 @@
 		"z": 8
 	},
 	{
+		"description": "Elf overseer (spawn location)",
+		"icon": "star",
+		"x": 33056,
+		"y": 32217,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33058,
+		"y": 32158,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33059,
 		"y": 31693,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33059,
+		"y": 32181,
 		"z": 8
 	},
 	{
@@ -1136,8 +1157,22 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33074,
+		"y": 31929,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33076,
 		"y": 32424,
+		"z": 8
+	},
+	{
+		"description": "Elf overseer (spawn location)",
+		"icon": "star",
+		"x": 33086,
+		"y": 32199,
 		"z": 8
 	},
 	{
@@ -1166,6 +1201,13 @@
 		"icon": "!",
 		"x": 33115,
 		"y": 31004,
+		"z": 8
+	},
+	{
+		"description": "Elf overseer (spawn location)",
+		"icon": "star",
+		"x": 33122,
+		"y": 32152,
 		"z": 8
 	},
 	{
@@ -1204,6 +1246,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33151,
+		"y": 31849,
+		"z": 8
+	},
+	{
 		"description": "Ornamented stone pedestal (ewer)",
 		"icon": "crossmark",
 		"x": 33154,
@@ -1218,8 +1267,15 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33159,
+		"y": 31854,
+		"z": 8
+	},
+	{
 		"description": "Portal to Bloodback",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33166,
 		"y": 31977,
 		"z": 8
@@ -1229,6 +1285,13 @@
 		"icon": "up",
 		"x": 33168,
 		"y": 32638,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33172,
+		"y": 31843,
 		"z": 8
 	},
 	{
@@ -1250,6 +1313,20 @@
 		"icon": "down",
 		"x": 33181,
 		"y": 31680,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33186,
+		"y": 31840,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33186,
+		"y": 31916,
 		"z": 8
 	},
 	{

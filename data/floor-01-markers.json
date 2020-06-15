@@ -1,6 +1,20 @@
 [
 	{
 		"description": "",
+		"icon": "down",
+		"x": 31951,
+		"y": 32865,
+		"z": 1
+	},
+	{
+		"description": "Teleport to pirate bosses",
+		"icon": "flag",
+		"x": 31977,
+		"y": 32853,
+		"z": 1
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32070,
 		"y": 31165,

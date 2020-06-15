@@ -757,9 +757,30 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 32282,
+		"y": 32287,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32285,
 		"y": 31410,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32288,
+		"y": 32275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32290,
+		"y": 32309,
 		"z": 7
 	},
 	{
@@ -819,6 +840,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32318,
+		"y": 32310,
+		"z": 7
+	},
+	{
 		"description": "Inquisition",
 		"icon": "down",
 		"x": 32319,
@@ -875,6 +903,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32330,
+		"y": 32294,
+		"z": 7
+	},
+	{
 		"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
 		"icon": "flag",
 		"x": 32331,
@@ -928,6 +963,13 @@
 		"icon": "flag",
 		"x": 32340,
 		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32340,
+		"y": 32300,
 		"z": 7
 	},
 	{
@@ -1404,6 +1446,13 @@
 		"icon": "!",
 		"x": 32574,
 		"y": 31980,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32576,
+		"y": 31797,
 		"z": 7
 	},
 	{
@@ -2243,6 +2292,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 32936,
+		"y": 31542,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32936,
 		"y": 32159,
 		"z": 7
 	},
@@ -2485,6 +2541,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33058,
+		"y": 32158,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 33058,
@@ -2506,10 +2569,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33060,
+		"y": 32181,
+		"z": 7
+	},
+	{
 		"description": "Horestis Tomb",
 		"icon": "up",
 		"x": 33060,
 		"y": 32734,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33061,
+		"y": 32166,
 		"z": 7
 	},
 	{
@@ -2562,6 +2639,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33076,
+		"y": 32155,
+		"z": 7
+	},
+	{
 		"description": "Door",
 		"icon": "red right",
 		"x": 33079,
@@ -2597,6 +2681,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33087,
+		"y": 32189,
+		"z": 7
+	},
+	{
 		"description": "Door",
 		"icon": "red down",
 		"x": 33090,
@@ -2622,6 +2713,13 @@
 		"icon": "red down",
 		"x": 33099,
 		"y": 31699,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33099,
+		"y": 32085,
 		"z": 7
 	},
 	{
@@ -3102,7 +3200,7 @@
 	},
 	{
 		"description": "Orcs",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33173,
 		"y": 31900,
 		"z": 7
@@ -3157,8 +3255,15 @@
 		"z": 7
 	},
 	{
-		"description": "Lycantrophe Grounds (were-creatures)",
+		"description": "",
 		"icon": "down",
+		"x": 33185,
+		"y": 31840,
+		"z": 7
+	},
+	{
+		"description": "Lycantrophe Grounds (were-creatures)",
+		"icon": "red down",
 		"x": 33186,
 		"y": 31916,
 		"z": 7
@@ -4379,6 +4484,13 @@
 		"icon": "down",
 		"x": 33547,
 		"y": 32268,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33548,
+		"y": 31869,
 		"z": 7
 	},
 	{

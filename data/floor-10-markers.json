@@ -813,14 +813,14 @@
 	},
 	{
 		"description": "Portal to The Blazing Rose",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 32855,
 		"y": 32737,
 		"z": 10
 	},
 	{
 		"description": "Portal to The Diamond Blossom",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 32858,
 		"y": 32766,
 		"z": 10
@@ -1229,6 +1229,13 @@
 		"icon": "up",
 		"x": 33330,
 		"y": 32596,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33352,
+		"y": 32093,
 		"z": 10
 	},
 	{

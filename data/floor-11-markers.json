@@ -680,7 +680,7 @@
 	},
 	{
 		"description": "Portal to The Lily of Night",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 32817,
 		"y": 32778,
 		"z": 11
@@ -1131,6 +1131,13 @@
 		"icon": "down",
 		"x": 33306,
 		"y": 31705,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33352,
+		"y": 32094,
 		"z": 11
 	},
 	{

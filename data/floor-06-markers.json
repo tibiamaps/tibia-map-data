@@ -43,6 +43,20 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 31956,
+		"y": 32802,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 31962,
+		"y": 32801,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 31979,
 		"y": 32854,
@@ -352,6 +366,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32576,
+		"y": 31797,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32602,
 		"y": 31923,
 		"z": 6
@@ -529,6 +550,20 @@
 		"icon": "down",
 		"x": 33060,
 		"y": 31327,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33060,
+		"y": 32181,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33061,
+		"y": 32166,
 		"z": 6
 	},
 	{

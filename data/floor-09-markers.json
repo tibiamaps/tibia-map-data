@@ -1093,7 +1093,7 @@
 	},
 	{
 		"description": "Portal to Darkfang",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33056,
 		"y": 31909,
 		"z": 9
@@ -1124,6 +1124,13 @@
 		"icon": "star",
 		"x": 33069,
 		"y": 32302,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33074,
+		"y": 31929,
 		"z": 9
 	},
 	{
@@ -1219,7 +1226,7 @@
 	},
 	{
 		"description": "Portal to Sharpclaw",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33128,
 		"y": 31971,
 		"z": 9
@@ -1268,6 +1275,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33160,
+		"y": 31853,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33164,
 		"y": 31173,
@@ -1285,6 +1299,13 @@
 		"icon": "down",
 		"x": 33167,
 		"y": 31149,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33173,
+		"y": 31843,
 		"z": 9
 	},
 	{
@@ -1449,6 +1470,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33352,
+		"y": 32093,
+		"z": 9
+	},
+	{
 		"description": "Mad Mage (spawn location)",
 		"icon": "star",
 		"x": 33364,
@@ -1478,6 +1506,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33399,
+		"y": 32025,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33401,
 		"y": 31615,
@@ -1485,9 +1520,16 @@
 	},
 	{
 		"description": "Portal to Shadowpelt",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33402,
 		"y": 32097,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33405,
+		"y": 32020,
 		"z": 9
 	},
 	{
@@ -1527,7 +1569,7 @@
 	},
 	{
 		"description": "Portal to Black Vixen",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33442,
 		"y": 32051,
 		"z": 9
