@@ -4,4 +4,4 @@
 	--commit-message "Update generated map data @ ${TRAVIS_COMMIT}" \
 	--directory 'dist' \
 	--distribution-branch 'gh-pages' \
-	--source-branch 'master';
+	--source-branch 'main';
