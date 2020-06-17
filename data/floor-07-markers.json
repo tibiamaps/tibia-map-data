@@ -1050,6 +1050,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32365,
+		"y": 32484,
+		"z": 7
+	},
+	{
 		"description": "Passage to Inukaya (1 ham required)",
 		"icon": "flag",
 		"x": 32367,
@@ -1176,6 +1183,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Edron",
+		"icon": "flag",
+		"x": 32424,
+		"y": 32446,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32425,
@@ -1234,6 +1248,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32461,
+		"y": 32508,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32462,
 		"y": 31101,
 		"z": 7
@@ -1243,6 +1264,13 @@
 		"icon": "down",
 		"x": 32469,
 		"y": 31117,
+		"z": 7
+	},
+	{
+		"description": "Parchment",
+		"icon": "star",
+		"x": 32469,
+		"y": 32503,
 		"z": 7
 	},
 	{
@@ -1274,6 +1302,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot (face south)",
+		"icon": "up",
+		"x": 32476,
+		"y": 32494,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32477,
@@ -1292,6 +1327,13 @@
 		"icon": "down",
 		"x": 32482,
 		"y": 31103,
+		"z": 7
+	},
+	{
+		"description": "Map",
+		"icon": "star",
+		"x": 32482,
+		"y": 32495,
 		"z": 7
 	},
 	{
@@ -3252,6 +3294,13 @@
 		"icon": "sword",
 		"x": 33181,
 		"y": 31791,
+		"z": 7
+	},
+	{
+		"description": "To Bounac",
+		"icon": "flag",
+		"x": 33183,
+		"y": 31756,
 		"z": 7
 	},
 	{

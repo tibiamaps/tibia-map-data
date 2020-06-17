@@ -168,6 +168,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32381,
+		"y": 32485,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 32410,
