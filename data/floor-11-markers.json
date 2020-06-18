@@ -1251,5 +1251,40 @@
 		"x": 33637,
 		"y": 31898,
 		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33889,
+		"y": 31196,
+		"z": 11
+	},
+	{
+		"description": "The Mirrored Nightmare",
+		"icon": "checkmark",
+		"x": 33937,
+		"y": 31213,
+		"z": 11
+	},
+	{
+		"description": "ignore this",
+		"icon": "checkmark",
+		"x": 33957,
+		"y": 31227,
+		"z": 11
+	},
+	{
+		"description": "Exit to Goshnar's Taint",
+		"icon": "flag",
+		"x": 34001,
+		"y": 31070,
+		"z": 11
+	},
+	{
+		"description": "Claustrophobic Inferno",
+		"icon": "crossmark",
+		"x": 34022,
+		"y": 31088,
+		"z": 11
 	}
 ]

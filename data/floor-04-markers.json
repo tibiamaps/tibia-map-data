@@ -189,6 +189,20 @@
 		"z": 4
 	},
 	{
+		"description": "Jehan the Baker",
+		"icon": "mouth",
+		"x": 32421,
+		"y": 32481,
+		"z": 4
+	},
+	{
+		"description": "Fral The Butcher",
+		"icon": "mouth",
+		"x": 32444,
+		"y": 32481,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32589,

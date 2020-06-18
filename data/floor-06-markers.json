@@ -331,6 +331,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32417,
+		"y": 32503,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32418,
 		"y": 32758,
 		"z": 6
@@ -1131,6 +1138,13 @@
 		"icon": "down",
 		"x": 33835,
 		"y": 31011,
+		"z": 6
+	},
+	{
+		"description": "Furious Crater",
+		"icon": "crossmark",
+		"x": 33857,
+		"y": 31867,
 		"z": 6
 	},
 	{

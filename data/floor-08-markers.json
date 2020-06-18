@@ -533,6 +533,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32420,
+		"y": 32500,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32420,
 		"y": 32740,
@@ -2037,10 +2044,24 @@
 		"z": 8
 	},
 	{
+		"description": "Exit to Goshnar's Taint",
+		"icon": "flag",
+		"x": 33891,
+		"y": 31020,
+		"z": 8
+	},
+	{
 		"description": "Mozradek",
 		"icon": "red down",
 		"x": 33943,
 		"y": 31450,
+		"z": 8
+	},
+	{
+		"description": "Ebb and Flow",
+		"icon": "crossmark",
+		"x": 33950,
+		"y": 31109,
 		"z": 8
 	},
 	{

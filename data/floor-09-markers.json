@@ -1944,5 +1944,26 @@
 		"x": 33943,
 		"y": 31450,
 		"z": 9
+	},
+	{
+		"description": "Exit to Goshnar's Taint",
+		"icon": "flag",
+		"x": 34002,
+		"y": 31075,
+		"z": 9
+	},
+	{
+		"description": "Exit to Goshnar's Taint",
+		"icon": "flag",
+		"x": 34011,
+		"y": 31011,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34013,
+		"y": 31098,
+		"z": 9
 	}
 ]

@@ -1069,5 +1069,12 @@
 		"x": 33685,
 		"y": 31882,
 		"z": 12
+	},
+	{
+		"description": "Rotten Wasteland",
+		"icon": "crossmark",
+		"x": 33914,
+		"y": 31036,
+		"z": 12
 	}
 ]

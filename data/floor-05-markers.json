@@ -231,6 +231,27 @@
 		"z": 5
 	},
 	{
+		"description": "Wes The Blacksmith",
+		"icon": "mouth",
+		"x": 32423,
+		"y": 32480,
+		"z": 5
+	},
+	{
+		"description": "Onfroi",
+		"icon": "mouth",
+		"x": 32430,
+		"y": 32489,
+		"z": 5
+	},
+	{
+		"description": "Dal The Huntress",
+		"icon": "mouth",
+		"x": 32435,
+		"y": 32492,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32607,

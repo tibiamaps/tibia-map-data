@@ -1351,6 +1351,13 @@
 		"z": 10
 	},
 	{
+		"description": "Entrance to Goshnar's Taint",
+		"icon": "flag",
+		"x": 33567,
+		"y": 31538,
+		"z": 10
+	},
+	{
 		"description": "The Pale Worm",
 		"icon": "sword",
 		"x": 33570,
@@ -1435,6 +1442,41 @@
 		"z": 10
 	},
 	{
+		"description": "Claustrophobic Inferno (Goshnar's Malice)",
+		"icon": "sword",
+		"x": 33635,
+		"y": 31422,
+		"z": 10
+	},
+	{
+		"description": "Rotten Wasteland (Goshnar's Hatred)",
+		"icon": "sword",
+		"x": 33635,
+		"y": 31424,
+		"z": 10
+	},
+	{
+		"description": "Ebb and Flow (Goshnar's Spite)",
+		"icon": "sword",
+		"x": 33635,
+		"y": 31426,
+		"z": 10
+	},
+	{
+		"description": "Furious Crater (Goshnar's Cruelty)",
+		"icon": "sword",
+		"x": 33635,
+		"y": 31428,
+		"z": 10
+	},
+	{
+		"description": "The Mirrored Nightmare (Goshnar's Greed)",
+		"icon": "sword",
+		"x": 33635,
+		"y": 31430,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33637,
@@ -1453,6 +1495,20 @@
 		"icon": "up",
 		"x": 33660,
 		"y": 31891,
+		"z": 10
+	},
+	{
+		"description": "Exit to Goshnar's Taint",
+		"icon": "flag",
+		"x": 33888,
+		"y": 31183,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34013,
+		"y": 31098,
 		"z": 10
 	}
 ]

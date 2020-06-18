@@ -1163,6 +1163,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32417,
+		"y": 32503,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32418,
 		"y": 31086,
@@ -1183,6 +1190,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32420,
+		"y": 32500,
+		"z": 7
+	},
+	{
 		"description": "To Edron",
 		"icon": "flag",
 		"x": 32424,
@@ -1194,6 +1208,13 @@
 		"icon": "up",
 		"x": 32425,
 		"y": 31276,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32427,
+		"y": 32461,
 		"z": 7
 	},
 	{
@@ -3297,7 +3318,7 @@
 		"z": 7
 	},
 	{
-		"description": "To Bounac",
+		"description": "Boat to Bounac (Order of the Lion)",
 		"icon": "flag",
 		"x": 33183,
 		"y": 31756,
