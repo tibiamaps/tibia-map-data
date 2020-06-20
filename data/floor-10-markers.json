@@ -156,6 +156,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32232,
+		"y": 31278,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32235,
 		"y": 32870,
 		"z": 10
@@ -869,9 +876,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32943,
+		"y": 32276,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32943,
+		"y": 32278,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 32947,
 		"y": 32755,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 32295,
+		"z": 10
+	},
+	{
+		"description": "Ritual sword",
+		"icon": "star",
+		"x": 32955,
+		"y": 32280,
 		"z": 10
 	},
 	{
@@ -896,10 +931,31 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 32977,
+		"y": 32290,
+		"z": 10
+	},
+	{
+		"description": "Ritual figurine",
+		"icon": "star",
+		"x": 32982,
+		"y": 32289,
+		"z": 10
+	},
+	{
 		"description": "Jar",
 		"icon": "checkmark",
 		"x": 32984,
 		"y": 32772,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32986,
+		"y": 32294,
 		"z": 10
 	},
 	{
@@ -928,6 +984,13 @@
 		"icon": "down",
 		"x": 32995,
 		"y": 32383,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32997,
+		"y": 32280,
 		"z": 10
 	},
 	{

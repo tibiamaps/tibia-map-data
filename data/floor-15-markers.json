@@ -308,6 +308,20 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33511,
+		"y": 31351,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33522,
+		"y": 31367,
+		"z": 15
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33534,

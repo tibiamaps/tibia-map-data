@@ -149,6 +149,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32125,
+		"y": 31109,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32132,
 		"y": 31334,
 		"z": 14
@@ -771,6 +778,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33522,
+		"y": 31367,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33530,
 		"y": 31239,
@@ -869,6 +883,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33562,
+		"y": 31378,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33563,
 		"y": 31208,
@@ -886,6 +907,13 @@
 		"icon": "crossmark",
 		"x": 33570,
 		"y": 31216,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33572,
+		"y": 31413,
 		"z": 14
 	},
 	{

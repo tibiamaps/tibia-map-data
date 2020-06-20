@@ -1267,13 +1267,6 @@
 		"z": 11
 	},
 	{
-		"description": "ignore this",
-		"icon": "checkmark",
-		"x": 33957,
-		"y": 31227,
-		"z": 11
-	},
-	{
 		"description": "Exit to Goshnar's Taint",
 		"icon": "flag",
 		"x": 34001,

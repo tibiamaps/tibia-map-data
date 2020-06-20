@@ -1113,6 +1113,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Museum of Tibian Arts",
+		"icon": "down",
+		"x": 32387,
+		"y": 32208,
+		"z": 7
+	},
+	{
 		"description": "Wyrms",
 		"icon": "red down",
 		"x": 32388,
@@ -1229,6 +1236,13 @@
 		"icon": "down",
 		"x": 32429,
 		"y": 32796,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32430,
+		"y": 32461,
 		"z": 7
 	},
 	{
@@ -2254,6 +2268,13 @@
 		"z": 7
 	},
 	{
+		"description": "Deathlings' Sunken Temple",
+		"icon": "up",
+		"x": 32869,
+		"y": 32518,
+		"z": 7
+	},
+	{
 		"description": "Worker golems",
 		"icon": "red down",
 		"x": 32872,
@@ -2612,7 +2633,7 @@
 	},
 	{
 		"description": "Rotworms",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33058,
 		"y": 32375,
 		"z": 7
@@ -2835,8 +2856,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Deep Desert",
+		"icon": "red down",
 		"x": 33110,
 		"y": 32385,
 		"z": 7
@@ -2969,7 +2990,7 @@
 	},
 	{
 		"description": "Rotworms",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33133,
 		"y": 32432,
 		"z": 7
@@ -3578,7 +3599,7 @@
 	},
 	{
 		"description": "Rotworms",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33225,
 		"y": 32300,
 		"z": 7
@@ -4432,7 +4453,7 @@
 	},
 	{
 		"description": "The Descent",
-		"icon": "crossmark",
+		"icon": "red down",
 		"x": 33514,
 		"y": 31323,
 		"z": 7

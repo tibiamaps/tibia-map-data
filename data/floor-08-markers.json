@@ -457,8 +457,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32387,
+		"y": 32208,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32389,
 		"y": 32604,
+		"z": 8
+	},
+	{
+		"description": "Museum of Tibian arts",
+		"icon": "flag",
+		"x": 32394,
+		"y": 32192,
 		"z": 8
 	},
 	{
@@ -543,6 +557,13 @@
 		"icon": "down",
 		"x": 32420,
 		"y": 32740,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32423,
+		"y": 32499,
 		"z": 8
 	},
 	{
@@ -1002,9 +1023,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32861,
+		"y": 32436,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32870,
 		"y": 32669,
+		"z": 8
+	},
+	{
+		"description": "Levitate spot (face east)",
+		"icon": "down",
+		"x": 32880,
+		"y": 32438,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32881,
+		"y": 32465,
 		"z": 8
 	},
 	{
@@ -1036,10 +1078,38 @@
 		"z": 8
 	},
 	{
+		"description": "Parchment of interest",
+		"icon": "star",
+		"x": 32945,
+		"y": 32309,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32949,
 		"y": 31620,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32958,
+		"y": 32322,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32963,
+		"y": 32296,
+		"z": 8
+	},
+	{
+		"description": "Furious Scorpion (boss)",
+		"icon": "sword",
+		"x": 32963,
+		"y": 32312,
 		"z": 8
 	},
 	{
@@ -1054,6 +1124,13 @@
 		"icon": "checkmark",
 		"x": 32991,
 		"y": 32721,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32996,
+		"y": 32296,
 		"z": 8
 	},
 	{
@@ -1170,6 +1247,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33070,
+		"y": 31402,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33072,
 		"y": 32086,
@@ -1198,6 +1282,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33088,
+		"y": 31474,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33093,
 		"y": 32389,
@@ -1205,9 +1296,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33098,
+		"y": 31440,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33102,
 		"y": 31811,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33103,
+		"y": 31388,
 		"z": 8
 	},
 	{
@@ -1225,6 +1330,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33119,
+		"y": 31456,
+		"z": 8
+	},
+	{
 		"description": "Elf overseer (spawn location)",
 		"icon": "star",
 		"x": 33122,
@@ -1236,6 +1348,20 @@
 		"icon": "flag",
 		"x": 33128,
 		"y": 32308,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33131,
+		"y": 31428,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33137,
+		"y": 31449,
 		"z": 8
 	},
 	{
@@ -1332,6 +1458,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33179,
+		"y": 31459,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33181,
 		"y": 31680,
 		"z": 8
@@ -1380,9 +1513,37 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33195,
+		"y": 31473,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33202,
 		"y": 31059,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33207,
+		"y": 32088,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33208,
+		"y": 32070,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33208,
+		"y": 32075,
 		"z": 8
 	},
 	{
@@ -1393,6 +1554,13 @@
 		"z": 8
 	},
 	{
+		"description": "Sample of monster blood",
+		"icon": "star",
+		"x": 33231,
+		"y": 32015,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33236,
@@ -1400,10 +1568,38 @@
 		"z": 8
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33246,
+		"y": 32098,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33246,
+		"y": 32107,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33246,
+		"y": 32123,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33251,
 		"y": 31697,
+		"z": 8
+	},
+	{
+		"description": "Lever",
+		"icon": "star",
+		"x": 33251,
+		"y": 32040,
 		"z": 8
 	},
 	{
@@ -1449,6 +1645,13 @@
 		"z": 8
 	},
 	{
+		"description": "NPC Gareth",
+		"icon": "mouth",
+		"x": 33306,
+		"y": 32143,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33310,
@@ -1460,6 +1663,13 @@
 		"icon": "down",
 		"x": 33311,
 		"y": 31680,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33317,
+		"y": 32146,
 		"z": 8
 	},
 	{
@@ -1614,6 +1824,20 @@
 		"icon": "star",
 		"x": 33505,
 		"y": 32287,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33511,
+		"y": 31333,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33514,
+		"y": 31323,
 		"z": 8
 	},
 	{

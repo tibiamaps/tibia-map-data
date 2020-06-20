@@ -161,6 +161,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32123,
+		"y": 31109,
+		"z": 12
+	},
+	{
 		"description": "Demon spawn",
 		"icon": "!",
 		"x": 32123,

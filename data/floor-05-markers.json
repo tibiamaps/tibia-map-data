@@ -231,10 +231,24 @@
 		"z": 5
 	},
 	{
-		"description": "Wes The Blacksmith",
+		"description": "Levitate spot (face west)",
+		"icon": "down",
+		"x": 32419,
+		"y": 32491,
+		"z": 5
+	},
+	{
+		"description": "Wes the Blacksmith",
 		"icon": "mouth",
 		"x": 32423,
 		"y": 32480,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32429,
+		"y": 32487,
 		"z": 5
 	},
 	{
@@ -245,7 +259,7 @@
 		"z": 5
 	},
 	{
-		"description": "Dal The Huntress",
+		"description": "Dal the Huntress",
 		"icon": "mouth",
 		"x": 32435,
 		"y": 32492,

@@ -786,8 +786,36 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33562,
+		"y": 31378,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33572,
+		"y": 31413,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33583,
 		"y": 32534,
+		"z": 13
+	},
+	{
+		"description": "Deepling Ancestorial Grounds",
+		"icon": "flag",
+		"x": 33584,
+		"y": 31388,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33602,
+		"y": 31435,
 		"z": 13
 	},
 	{

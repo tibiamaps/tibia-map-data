@@ -196,7 +196,14 @@
 		"z": 4
 	},
 	{
-		"description": "Fral The Butcher",
+		"description": "",
+		"icon": "down",
+		"x": 32429,
+		"y": 32487,
+		"z": 4
+	},
+	{
+		"description": "Fral the Butcher",
 		"icon": "mouth",
 		"x": 32444,
 		"y": 32481,

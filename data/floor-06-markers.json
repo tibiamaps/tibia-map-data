@@ -336,6 +336,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate spot (face east)",
+		"icon": "up",
+		"x": 32418,
+		"y": 32491,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32418,

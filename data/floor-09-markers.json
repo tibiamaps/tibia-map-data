@@ -232,6 +232,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32232,
+		"y": 31278,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32235,
 		"y": 31421,
@@ -931,7 +938,14 @@
 		"z": 9
 	},
 	{
-		"description": "Locked Door - requires eye key",
+		"description": "",
+		"icon": "up",
+		"x": 32861,
+		"y": 32436,
+		"z": 9
+	},
+	{
+		"description": "Locked door (requires eye key)",
 		"icon": "lock",
 		"x": 32864,
 		"y": 32810,
@@ -949,6 +963,13 @@
 		"icon": "down",
 		"x": 32876,
 		"y": 32764,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot (face west)",
+		"icon": "up",
+		"x": 32881,
+		"y": 32438,
 		"z": 9
 	},
 	{
@@ -994,10 +1015,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32949,
+		"y": 32295,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Gnomebase Alpha",
 		"icon": "flag",
 		"x": 32959,
 		"y": 31952,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32964,
+		"y": 32319,
 		"z": 9
 	},
 	{
@@ -1008,10 +1043,38 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32967,
+		"y": 32303,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32967,
+		"y": 32324,
+		"z": 9
+	},
+	{
+		"description": "Ritual stone tablet",
+		"icon": "star",
+		"x": 32970,
+		"y": 32315,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Hot Spot",
 		"icon": "flag",
 		"x": 32979,
 		"y": 31907,
+		"z": 9
+	},
+	{
+		"description": "Exultant ritual figurine",
+		"icon": "star",
+		"x": 32981,
+		"y": 32308,
 		"z": 9
 	},
 	{
@@ -1033,6 +1096,13 @@
 		"icon": "down",
 		"x": 32989,
 		"y": 31625,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32996,
+		"y": 32296,
 		"z": 9
 	},
 	{
@@ -1129,6 +1199,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33070,
+		"y": 31402,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33074,
 		"y": 31929,
 		"z": 9
@@ -1163,6 +1240,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33088,
+		"y": 31474,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33092,
 		"y": 32069,
@@ -1173,6 +1257,13 @@
 		"icon": "crossmark",
 		"x": 33095,
 		"y": 32243,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33098,
+		"y": 31440,
 		"z": 9
 	},
 	{
@@ -1229,6 +1320,13 @@
 		"icon": "sword",
 		"x": 33128,
 		"y": 31971,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33131,
+		"y": 31428,
 		"z": 9
 	},
 	{
@@ -1311,6 +1409,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33179,
+		"y": 31459,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33181,
 		"y": 31202,
 		"z": 9
@@ -1355,6 +1460,20 @@
 		"icon": "up",
 		"x": 33202,
 		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33207,
+		"y": 32088,
+		"z": 9
+	},
+	{
+		"description": "Bony rod",
+		"icon": "star",
+		"x": 33211,
+		"y": 32080,
 		"z": 9
 	},
 	{
