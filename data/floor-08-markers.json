@@ -217,6 +217,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32104,
+		"y": 31732,
+		"z": 8
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32117,

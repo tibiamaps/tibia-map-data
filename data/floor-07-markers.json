@@ -413,6 +413,13 @@
 		"z": 7
 	},
 	{
+		"description": "Arctic fauns",
+		"icon": "down",
+		"x": 32104,
+		"y": 31732,
+		"z": 7
+	},
+	{
 		"description": "The Academy",
 		"icon": "flag",
 		"x": 32104,
@@ -445,6 +452,13 @@
 		"icon": "red down",
 		"x": 32111,
 		"y": 31903,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32119,
+		"y": 31734,
 		"z": 7
 	},
 	{
