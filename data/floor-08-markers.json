@@ -51,6 +51,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 31962,
+		"y": 31378,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 31963,
 		"y": 31640,
 		"z": 8
@@ -60,6 +67,13 @@
 		"icon": "down",
 		"x": 31968,
 		"y": 32558,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 31976,
+		"y": 32305,
 		"z": 8
 	},
 	{
@@ -107,6 +121,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32018,
+		"y": 32882,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32019,
 		"y": 32814,
 		"z": 8
@@ -126,10 +147,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32028,
+		"y": 31539,
+		"z": 8
+	},
+	{
 		"description": "Key 4503 (copper key)",
 		"icon": "?",
 		"x": 32034,
 		"y": 31642,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32038,
+		"y": 32561,
 		"z": 8
 	},
 	{
@@ -144,6 +179,13 @@
 		"icon": "down",
 		"x": 32040,
 		"y": 32858,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32040,
+		"y": 32910,
 		"z": 8
 	},
 	{
@@ -232,6 +274,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32117,
+		"y": 32713,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32119,
 		"y": 32575,
@@ -263,6 +312,13 @@
 		"icon": "flag",
 		"x": 32143,
 		"y": 30993,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 32145,
+		"y": 31433,
 		"z": 8
 	},
 	{
@@ -312,6 +368,13 @@
 		"icon": "?",
 		"x": 32190,
 		"y": 32432,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32193,
+		"y": 31788,
 		"z": 8
 	},
 	{
@@ -623,6 +686,13 @@
 		"z": 8
 	},
 	{
+		"description": "Druid spells",
+		"icon": "star",
+		"x": 32438,
+		"y": 32213,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32442,
@@ -820,6 +890,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32623,
+		"y": 32625,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32625,
 		"y": 32620,
@@ -840,6 +917,13 @@
 		"z": 8
 	},
 	{
+		"description": "Weapon and Armor Store",
+		"icon": "sword",
+		"x": 32657,
+		"y": 31656,
+		"z": 8
+	},
+	{
 		"description": "Depot and bank",
 		"icon": "lock",
 		"x": 32657,
@@ -854,10 +938,45 @@
 		"z": 8
 	},
 	{
+		"description": "Tool Store",
+		"icon": "bag",
+		"x": 32667,
+		"y": 31656,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32677,
 		"y": 32651,
+		"z": 8
+	},
+	{
+		"description": "Port Hope (Spectres)",
+		"icon": "checkmark",
+		"x": 32681,
+		"y": 32292,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32684,
+		"y": 31430,
+		"z": 8
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 32686,
+		"y": 31687,
+		"z": 8
+	},
+	{
+		"description": "Training Statues",
+		"icon": "star",
+		"x": 32688,
+		"y": 31672,
 		"z": 8
 	},
 	{
@@ -872,6 +991,13 @@
 		"icon": "sword",
 		"x": 32690,
 		"y": 31673,
+		"z": 8
+	},
+	{
+		"description": "To Tomb (Darashia) (Entrance)",
+		"icon": "flag",
+		"x": 32697,
+		"y": 32235,
 		"z": 8
 	},
 	{
@@ -900,6 +1026,34 @@
 		"icon": "up",
 		"x": 32720,
 		"y": 32243,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32722,
+		"y": 32659,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32739,
+		"y": 32259,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32743,
+		"y": 31408,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32745,
+		"y": 31464,
 		"z": 8
 	},
 	{
@@ -966,6 +1120,27 @@
 		"z": 8
 	},
 	{
+		"description": "Sewer Problem 2",
+		"icon": "crossmark",
+		"x": 32795,
+		"y": 31152,
+		"z": 8
+	},
+	{
+		"description": "Sewer Problem 4",
+		"icon": "crossmark",
+		"x": 32796,
+		"y": 31191,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32804,
+		"y": 31258,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32805,
@@ -987,6 +1162,13 @@
 		"z": 8
 	},
 	{
+		"description": "Sewer Problem 1",
+		"icon": "crossmark",
+		"x": 32823,
+		"y": 31161,
+		"z": 8
+	},
+	{
 		"description": "Key 5010 (silver key)",
 		"icon": "?",
 		"x": 32824,
@@ -1002,9 +1184,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32830,
+		"y": 31040,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32836,
 		"y": 31486,
+		"z": 8
+	},
+	{
+		"description": "Sewer Problem 3",
+		"icon": "crossmark",
+		"x": 32842,
+		"y": 31250,
 		"z": 8
 	},
 	{
@@ -1026,6 +1222,13 @@
 		"icon": "up",
 		"x": 32851,
 		"y": 32870,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32857,
+		"y": 31052,
 		"z": 8
 	},
 	{
@@ -1054,6 +1257,13 @@
 		"icon": "down",
 		"x": 32881,
 		"y": 32465,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32899,
+		"y": 31047,
 		"z": 8
 	},
 	{
@@ -1135,9 +1345,30 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 32991,
+		"y": 32724,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32996,
 		"y": 32296,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33003,
+		"y": 32459,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33007,
+		"y": 32455,
 		"z": 8
 	},
 	{
@@ -1163,9 +1394,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33013,
+		"y": 32416,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33013,
 		"y": 32564,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33018,
+		"y": 32453,
 		"z": 8
 	},
 	{
@@ -1215,6 +1460,13 @@
 		"icon": "down",
 		"x": 33043,
 		"y": 32554,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33047,
+		"y": 32441,
 		"z": 8
 	},
 	{
@@ -1268,6 +1520,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33073,
+		"y": 31159,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33074,
 		"y": 31929,
@@ -1295,10 +1554,24 @@
 		"z": 8
 	},
 	{
+		"description": "Portal to Gazers Port Hope",
+		"icon": "flag",
+		"x": 33089,
+		"y": 32298,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33093,
 		"y": 32389,
+		"z": 8
+	},
+	{
+		"description": "To Haunted House (Outlaw Camp)",
+		"icon": "flag",
+		"x": 33095,
+		"y": 32398,
 		"z": 8
 	},
 	{
@@ -1618,6 +1891,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33270,
+		"y": 31844,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33288,
 		"y": 31204,
@@ -1642,6 +1922,13 @@
 		"icon": "sword",
 		"x": 33306,
 		"y": 31284,
+		"z": 8
+	},
+	{
+		"description": "Dazed Leaf Golem",
+		"icon": "checkmark",
+		"x": 33306,
+		"y": 31286,
 		"z": 8
 	},
 	{
@@ -1764,6 +2051,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33437,
+		"y": 32218,
+		"z": 8
+	},
+	{
 		"description": "Temple",
 		"icon": "down",
 		"x": 33447,
@@ -1799,6 +2093,13 @@
 		"z": 8
 	},
 	{
+		"description": "Shadowstalker (Crawler)",
+		"icon": "checkmark",
+		"x": 33476,
+		"y": 31247,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33480,
@@ -1810,6 +2111,27 @@
 		"icon": "flag",
 		"x": 33484,
 		"y": 31435,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33486,
+		"y": 31739,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33486,
+		"y": 31760,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33486,
+		"y": 31784,
 		"z": 8
 	},
 	{
@@ -1862,6 +2184,13 @@
 		"z": 8
 	},
 	{
+		"description": "Chopper",
+		"icon": "checkmark",
+		"x": 33521,
+		"y": 31263,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33523,
@@ -1873,6 +2202,13 @@
 		"icon": "up",
 		"x": 33528,
 		"y": 31672,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33534,
+		"y": 31731,
 		"z": 8
 	},
 	{
@@ -1925,6 +2261,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 33553,
+		"y": 31238,
+		"z": 8
+	},
+	{
 		"description": "The Hive I–VIII (books)",
 		"icon": "star",
 		"x": 33553,
@@ -1950,6 +2293,20 @@
 		"icon": "sword",
 		"x": 33566,
 		"y": 31475,
+		"z": 8
+	},
+	{
+		"description": "Unaz the Mean",
+		"icon": "sword",
+		"x": 33566,
+		"y": 31478,
+		"z": 8
+	},
+	{
+		"description": "To Jakundaf Desert",
+		"icon": "flag",
+		"x": 33569,
+		"y": 31459,
 		"z": 8
 	},
 	{
@@ -2073,6 +2430,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33623,
+		"y": 32379,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33630,
 		"y": 31026,
@@ -2170,10 +2534,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33768,
+		"y": 31623,
+		"z": 8
+	},
+	{
 		"description": "Wooden cage key (Kilmaresh quest)",
 		"icon": "star",
 		"x": 33768,
 		"y": 31625,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33773,
+		"y": 31016,
 		"z": 8
 	},
 	{
@@ -2262,6 +2640,27 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33875,
+		"y": 31477,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33876,
+		"y": 31480,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33876,
+		"y": 31497,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33876,
 		"y": 31883,
@@ -2275,10 +2674,52 @@
 		"z": 8
 	},
 	{
+		"description": "To Banuta",
+		"icon": "flag",
+		"x": 33886,
+		"y": 31785,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33889,
+		"y": 31481,
+		"z": 8
+	},
+	{
 		"description": "Exit to Goshnar's Taint",
 		"icon": "flag",
 		"x": 33891,
 		"y": 31020,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33905,
+		"y": 31480,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33905,
+		"y": 31501,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33918,
+		"y": 31496,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33925,
+		"y": 31466,
 		"z": 8
 	},
 	{
@@ -2293,6 +2734,13 @@
 		"icon": "crossmark",
 		"x": 33950,
 		"y": 31109,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33953,
+		"y": 31497,
 		"z": 8
 	},
 	{

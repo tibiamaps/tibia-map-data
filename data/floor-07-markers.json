@@ -14,6 +14,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 31921,
+		"y": 32658,
+		"z": 7
+	},
+	{
 		"description": "Ice witches, ice golems, etc. 2nd floor: crystal spiders etc. 3th floor: frost dragons",
 		"icon": "down",
 		"x": 31924,
@@ -25,6 +32,13 @@
 		"icon": "red down",
 		"x": 31935,
 		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 31936,
+		"y": 32676,
 		"z": 7
 	},
 	{
@@ -91,6 +105,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32019,
+		"y": 31294,
+		"z": 7
+	},
+	{
 		"description": "To portals",
 		"icon": "down",
 		"x": 32019,
@@ -133,10 +154,24 @@
 		"z": 7
 	},
 	{
+		"description": "Ferumbras",
+		"icon": "down",
+		"x": 32023,
+		"y": 32736,
+		"z": 7
+	},
+	{
 		"description": "Quara scouts",
 		"icon": "red down",
 		"x": 32024,
 		"y": 31124,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 32025,
+		"y": 31545,
 		"z": 7
 	},
 	{
@@ -186,6 +221,13 @@
 		"icon": "flag",
 		"x": 32045,
 		"y": 31578,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32046,
+		"y": 31581,
 		"z": 7
 	},
 	{
@@ -319,6 +361,13 @@
 		"icon": "down",
 		"x": 32088,
 		"y": 31018,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32090,
+		"y": 31247,
 		"z": 7
 	},
 	{
@@ -476,6 +525,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32127,
+		"y": 31662,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32129,
+		"y": 31088,
+		"z": 7
+	},
+	{
 		"description": "Unholy Crypt",
 		"icon": "down",
 		"x": 32131,
@@ -487,6 +550,13 @@
 		"icon": "flag",
 		"x": 32132,
 		"y": 32912,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32133,
+		"y": 32914,
 		"z": 7
 	},
 	{
@@ -560,6 +630,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 32181,
+		"y": 31231,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32181,
@@ -581,10 +658,24 @@
 		"z": 7
 	},
 	{
+		"description": "Bank Robbery",
+		"icon": "down",
+		"x": 32190,
+		"y": 31781,
+		"z": 7
+	},
+	{
 		"description": "To GCTS",
 		"icon": "down",
 		"x": 32191,
 		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32198,
+		"y": 32950,
 		"z": 7
 	},
 	{
@@ -616,10 +707,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32212,
+		"y": 32056,
+		"z": 7
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32213,
 		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "cross",
+		"x": 32213,
+		"y": 31135,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32214,
+		"y": 32077,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 32217,
+		"y": 31124,
 		"z": 7
 	},
 	{
@@ -644,6 +763,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32223,
+		"y": 32098,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32224,
+		"y": 32038,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32225,
@@ -651,10 +784,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32229,
+		"y": 32077,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32233,
 		"y": 32774,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32234,
+		"y": 32056,
 		"z": 7
 	},
 	{
@@ -669,6 +816,13 @@
 		"icon": "up",
 		"x": 32240,
 		"y": 31407,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32244,
+		"y": 31110,
 		"z": 7
 	},
 	{
@@ -693,6 +847,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "lock",
+		"x": 32253,
+		"y": 31141,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32256,
+		"y": 31124,
+		"z": 7
+	},
+	{
 		"description": "NPC Buddel",
 		"icon": "flag",
 		"x": 32256,
@@ -707,6 +875,34 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32256,
+		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32256,
+		"y": 32725,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32259,
+		"y": 32262,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32260,
+		"y": 32102,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 32261,
@@ -714,10 +910,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32262,
+		"y": 31802,
+		"z": 7
+	},
+	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 32263,
 		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32263,
+		"y": 32306,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32264,
+		"y": 32326,
 		"z": 7
 	},
 	{
@@ -732,6 +949,13 @@
 		"icon": "up",
 		"x": 32266,
 		"y": 31360,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32267,
+		"y": 32355,
 		"z": 7
 	},
 	{
@@ -763,10 +987,59 @@
 		"z": 7
 	},
 	{
+		"description": "Druid spells",
+		"icon": "star",
+		"x": 32269,
+		"y": 32842,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 32270,
 		"y": 32171,
+		"z": 7
+	},
+	{
+		"description": "Pig",
+		"icon": "sword",
+		"x": 32271,
+		"y": 32855,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32272,
+		"y": 32377,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "lock",
+		"x": 32276,
+		"y": 31141,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32276,
+		"y": 32281,
+		"z": 7
+	},
+	{
+		"description": "Dark Stone Totem",
+		"icon": "star",
+		"x": 32277,
+		"y": 31737,
+		"z": 7
+	},
+	{
+		"description": "Equipment Store",
+		"icon": "bag",
+		"x": 32281,
+		"y": 32823,
 		"z": 7
 	},
 	{
@@ -812,6 +1085,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32292,
+		"y": 32277,
+		"z": 7
+	},
+	{
+		"description": "Weapon and Armor Store",
+		"icon": "sword",
+		"x": 32293,
+		"y": 32820,
+		"z": 7
+	},
+	{
 		"description": "Offline training (magic)",
 		"icon": "sword",
 		"x": 32297,
@@ -819,10 +1106,52 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "$",
+		"x": 32299,
+		"y": 31134,
+		"z": 7
+	},
+	{
+		"description": "Sorcerer spells and Magic Training",
+		"icon": "star",
+		"x": 32299,
+		"y": 32263,
+		"z": 7
+	},
+	{
+		"description": "Paladin spells and Distance Store",
+		"icon": "star",
+		"x": 32300,
+		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32300,
+		"y": 32326,
+		"z": 7
+	},
+	{
 		"description": "Passage to Nibelor",
 		"icon": "flag",
 		"x": 32301,
 		"y": 31083,
+		"z": 7
+	},
+	{
+		"description": "Druid spells",
+		"icon": "star",
+		"x": 32302,
+		"y": 31816,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32302,
+		"y": 32378,
 		"z": 7
 	},
 	{
@@ -837,6 +1166,48 @@
 		"icon": "flag",
 		"x": 32306,
 		"y": 32868,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 32308,
+		"y": 31132,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32309,
+		"y": 31251,
+		"z": 7
+	},
+	{
+		"description": "Thais Castle",
+		"icon": "star",
+		"x": 32313,
+		"y": 32181,
+		"z": 7
+	},
+	{
+		"description": "Queen Eloise",
+		"icon": "star",
+		"x": 32316,
+		"y": 31754,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32317,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32317,
+		"y": 31291,
 		"z": 7
 	},
 	{
@@ -861,10 +1232,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32319,
+		"y": 31237,
+		"z": 7
+	},
+	{
 		"description": "Inquisition",
 		"icon": "down",
 		"x": 32319,
 		"y": 32276,
+		"z": 7
+	},
+	{
+		"description": "Tools",
+		"icon": "bag",
+		"x": 32321,
+		"y": 31113,
 		"z": 7
 	},
 	{
@@ -896,10 +1281,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32326,
+		"y": 32355,
+		"z": 7
+	},
+	{
 		"description": "Passage to Svargrond",
 		"icon": "flag",
 		"x": 32327,
 		"y": 31044,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32327,
+		"y": 32339,
 		"z": 7
 	},
 	{
@@ -918,6 +1317,20 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 32328,
+		"y": 32529,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32330,
+		"y": 31046,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "sword",
 		"x": 32330,
 		"y": 32294,
@@ -928,6 +1341,20 @@
 		"icon": "flag",
 		"x": 32331,
 		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32332,
+		"y": 32089,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32332,
+		"y": 32315,
 		"z": 7
 	},
 	{
@@ -973,6 +1400,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32339,
+		"y": 32538,
+		"z": 7
+	},
+	{
+		"description": "Shops",
+		"icon": "bag",
+		"x": 32340,
+		"y": 31802,
+		"z": 7
+	},
+	{
 		"description": "Portal of golden energy (boss: The Time Guardian)",
 		"icon": "flag",
 		"x": 32340,
@@ -987,10 +1428,45 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32341,
+		"y": 31112,
+		"z": 7
+	},
+	{
 		"description": "Harbour",
 		"icon": "flag",
 		"x": 32341,
 		"y": 31116,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32341,
+		"y": 32117,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32343,
+		"y": 31217,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32343,
+		"y": 32159,
+		"z": 7
+	},
+	{
+		"description": "Paladin spells, Distance Store and Training",
+		"icon": "star",
+		"x": 32344,
+		"y": 32241,
 		"z": 7
 	},
 	{
@@ -1001,10 +1477,24 @@
 		"z": 7
 	},
 	{
+		"description": "Depot, Post and Bank",
+		"icon": "lock",
+		"x": 32346,
+		"y": 32220,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 32346,
 		"y": 32810,
+		"z": 7
+	},
+	{
+		"description": "Knight spells and training statues",
+		"icon": "star",
+		"x": 32347,
+		"y": 31749,
 		"z": 7
 	},
 	{
@@ -1036,6 +1526,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32352,
+		"y": 32331,
+		"z": 7
+	},
+	{
 		"description": "PvE/PvP arena",
 		"icon": "skull",
 		"x": 32353,
@@ -1050,10 +1547,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32359,
+		"y": 32315,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32359,
+		"y": 32900,
+		"z": 7
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32360,
 		"y": 31782,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 32360,
+		"y": 32298,
 		"z": 7
 	},
 	{
@@ -1071,10 +1589,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32366,
+		"y": 32348,
+		"z": 7
+	},
+	{
 		"description": "Passage to Inukaya (1 ham required)",
 		"icon": "flag",
 		"x": 32367,
 		"y": 31058,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32367,
+		"y": 32369,
+		"z": 7
+	},
+	{
+		"description": "Shops",
+		"icon": "bag",
+		"x": 32368,
+		"y": 32198,
 		"z": 7
 	},
 	{
@@ -1092,6 +1631,20 @@
 		"z": 7
 	},
 	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32369,
+		"y": 32241,
+		"z": 7
+	},
+	{
+		"description": "(Shortcut after quest access)",
+		"icon": "up",
+		"x": 32371,
+		"y": 32496,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32373,
@@ -1103,6 +1656,20 @@
 		"icon": "flag",
 		"x": 32378,
 		"y": 31815,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32382,
+		"y": 32611,
+		"z": 7
+	},
+	{
+		"description": "To the Fortress",
+		"icon": "up",
+		"x": 32382,
+		"y": 32813,
 		"z": 7
 	},
 	{
@@ -1141,6 +1708,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32389,
+		"y": 32302,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32389,
+		"y": 32323,
+		"z": 7
+	},
+	{
 		"description": "Meriana Gargoyle Cave",
 		"icon": "down",
 		"x": 32389,
@@ -1176,10 +1757,45 @@
 		"z": 7
 	},
 	{
+		"description": "Fitzmaurice",
+		"icon": "checkmark",
+		"x": 32411,
+		"y": 32486,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32412,
 		"y": 31601,
+		"z": 7
+	},
+	{
+		"description": "To the Knight and Melee Trainer",
+		"icon": "up",
+		"x": 32413,
+		"y": 32208,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32413,
+		"y": 32270,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32414,
+		"y": 32916,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32417,
+		"y": 32333,
 		"z": 7
 	},
 	{
@@ -1194,6 +1810,13 @@
 		"icon": "down",
 		"x": 32418,
 		"y": 31086,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32418,
+		"y": 32354,
 		"z": 7
 	},
 	{
@@ -1218,6 +1841,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32422,
+		"y": 32100,
+		"z": 7
+	},
+	{
 		"description": "To Edron",
 		"icon": "flag",
 		"x": 32424,
@@ -1229,6 +1859,27 @@
 		"icon": "up",
 		"x": 32425,
 		"y": 31276,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32426,
+		"y": 31278,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32426,
+		"y": 32391,
+		"z": 7
+	},
+	{
+		"description": "To the Druid Trainer",
+		"icon": "up",
+		"x": 32427,
+		"y": 32211,
 		"z": 7
 	},
 	{
@@ -1282,6 +1933,41 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32440,
+		"y": 32115,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32440,
+		"y": 32971,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32445,
+		"y": 32334,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32446,
+		"y": 32288,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32448,
+		"y": 31265,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32448,
 		"y": 32069,
@@ -1289,9 +1975,37 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32449,
+		"y": 32159,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32453,
 		"y": 32065,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32454,
+		"y": 32190,
+		"z": 7
+	},
+	{
+		"description": "Tree 1",
+		"icon": "crossmark",
+		"x": 32458,
+		"y": 31997,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32458,
+		"y": 32308,
 		"z": 7
 	},
 	{
@@ -1306,6 +2020,20 @@
 		"icon": "down",
 		"x": 32462,
 		"y": 31101,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32464,
+		"y": 32203,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32468,
+		"y": 32274,
 		"z": 7
 	},
 	{
@@ -1338,9 +2066,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32472,
+		"y": 32869,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32472,
 		"y": 32888,
+		"z": 7
+	},
+	{
+		"description": "Tree 2",
+		"icon": "crossmark",
+		"x": 32474,
+		"y": 31947,
 		"z": 7
 	},
 	{
@@ -1348,6 +2090,20 @@
 		"icon": "down",
 		"x": 32476,
 		"y": 31099,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32476,
+		"y": 31154,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32476,
+		"y": 32216,
 		"z": 7
 	},
 	{
@@ -1369,6 +2125,13 @@
 		"icon": "down",
 		"x": 32478,
 		"y": 31114,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32480,
+		"y": 32172,
 		"z": 7
 	},
 	{
@@ -1401,6 +2164,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32485,
+		"y": 32251,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32488,
 		"y": 31113,
@@ -1428,6 +2198,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32490,
+		"y": 32980,
+		"z": 7
+	},
+	{
 		"description": "Trolls",
 		"icon": "red down",
 		"x": 32493,
@@ -1442,6 +2219,27 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32497,
+		"y": 32141,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32498,
+		"y": 31656,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32504,
+		"y": 32236,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32510,
@@ -1450,9 +2248,44 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32513,
+		"y": 31624,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32513,
+		"y": 32181,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32521,
+		"y": 32162,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32522,
+		"y": 32923,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32527,
 		"y": 32954,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32528,
+		"y": 32951,
 		"z": 7
 	},
 	{
@@ -1474,6 +2307,13 @@
 		"icon": "down",
 		"x": 32533,
 		"y": 31913,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32540,
+		"y": 31942,
 		"z": 7
 	},
 	{
@@ -1526,10 +2366,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32558,
+		"y": 32780,
+		"z": 7
+	},
+	{
 		"description": "Water elementals (level 50+)",
 		"icon": "red down",
 		"x": 32560,
 		"y": 32860,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32566,
+		"y": 31728,
 		"z": 7
 	},
 	{
@@ -1544,6 +2398,13 @@
 		"icon": "up",
 		"x": 32576,
 		"y": 31797,
+		"z": 7
+	},
+	{
+		"description": "Tavern and Spell Trainers",
+		"icon": "star",
+		"x": 32576,
+		"y": 32755,
 		"z": 7
 	},
 	{
@@ -1596,6 +2457,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32597,
+		"y": 31746,
+		"z": 7
+	},
+	{
 		"description": "To temple",
 		"icon": "red down",
 		"x": 32599,
@@ -1628,6 +2496,13 @@
 		"icon": "cross",
 		"x": 32607,
 		"y": 31680,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32608,
+		"y": 31736,
 		"z": 7
 	},
 	{
@@ -1694,10 +2569,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32618,
+		"y": 31737,
+		"z": 7
+	},
+	{
 		"description": "Ore wagon",
 		"icon": "flag",
 		"x": 32618,
 		"y": 31944,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32620,
+		"y": 31867,
 		"z": 7
 	},
 	{
@@ -1736,6 +2625,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 32627,
+		"y": 32123,
+		"z": 7
+	},
+	{
 		"description": "To the shops, post office, and bank",
 		"icon": "up",
 		"x": 32629,
@@ -1768,6 +2664,13 @@
 		"icon": "flag",
 		"x": 32637,
 		"y": 32255,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32637,
+		"y": 32267,
 		"z": 7
 	},
 	{
@@ -1834,6 +2737,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32658,
+		"y": 31291,
+		"z": 7
+	},
+	{
+		"description": "Ambush",
+		"icon": "crossmark",
+		"x": 32659,
+		"y": 32183,
+		"z": 7
+	},
+	{
 		"description": "Dark Cathedral",
 		"icon": "down",
 		"x": 32660,
@@ -1855,10 +2772,24 @@
 		"z": 7
 	},
 	{
+		"description": "Gazer Spectres",
+		"icon": "checkmark",
+		"x": 32670,
+		"y": 32652,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32671,
 		"y": 31796,
+		"z": 7
+	},
+	{
+		"description": "Post",
+		"icon": "flag",
+		"x": 32672,
+		"y": 31699,
 		"z": 7
 	},
 	{
@@ -1890,6 +2821,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32681,
+		"y": 32777,
+		"z": 7
+	},
+	{
 		"description": "Opticording sphere quest",
 		"icon": "down",
 		"x": 32682,
@@ -1911,6 +2849,34 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32684,
+		"y": 31587,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 32686,
+		"y": 31998,
+		"z": 7
+	},
+	{
+		"description": "Distance Store",
+		"icon": "spear",
+		"x": 32687,
+		"y": 31613,
+		"z": 7
+	},
+	{
+		"description": "To the Upper Shops",
+		"icon": "up",
+		"x": 32687,
+		"y": 31658,
+		"z": 7
+	},
+	{
 		"description": "Haunted Cellar (ripper spectres)",
 		"icon": "red down",
 		"x": 32688,
@@ -1922,6 +2888,13 @@
 		"icon": "down",
 		"x": 32690,
 		"y": 32204,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32690,
+		"y": 32234,
 		"z": 7
 	},
 	{
@@ -1960,10 +2933,45 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32700,
+		"y": 31991,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32702,
+		"y": 32350,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32706,
+		"y": 32342,
+		"z": 7
+	},
+	{
 		"description": "Tainted Caves",
 		"icon": "down",
 		"x": 32709,
 		"y": 31939,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32712,
+		"y": 32360,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32713,
+		"y": 32339,
 		"z": 7
 	},
 	{
@@ -1974,10 +2982,45 @@
 		"z": 7
 	},
 	{
+		"description": "Knight spells",
+		"icon": "star",
+		"x": 32721,
+		"y": 31288,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32722,
+		"y": 31669,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32725,
+		"y": 31055,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas",
 		"icon": "red down",
 		"x": 32726,
 		"y": 32793,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32729,
+		"y": 31087,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32729,
+		"y": 32344,
 		"z": 7
 	},
 	{
@@ -1988,6 +3031,20 @@
 		"z": 7
 	},
 	{
+		"description": "Temple",
+		"icon": "cross",
+		"x": 32732,
+		"y": 31634,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32738,
+		"y": 31100,
+		"z": 7
+	},
+	{
 		"description": "To the Arena and Zoo Quarter",
 		"icon": "up",
 		"x": 32738,
@@ -1995,10 +3052,38 @@
 		"z": 7
 	},
 	{
+		"description": "To the Arena Quarter",
+		"icon": "up",
+		"x": 32740,
+		"y": 31202,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32745,
+		"y": 32183,
+		"z": 7
+	},
+	{
+		"description": "To the Alchemist Quarter",
+		"icon": "up",
+		"x": 32751,
+		"y": 31172,
+		"z": 7
+	},
+	{
 		"description": "To the Alchemist Quarter",
 		"icon": "up",
 		"x": 32752,
 		"y": 31169,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32755,
+		"y": 31076,
 		"z": 7
 	},
 	{
@@ -2016,6 +3101,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32759,
+		"y": 31030,
+		"z": 7
+	},
+	{
 		"description": "Carnivors",
 		"icon": "flag",
 		"x": 32761,
@@ -2030,10 +3122,24 @@
 		"z": 7
 	},
 	{
+		"description": "To the Foreigner Quarter",
+		"icon": "up",
+		"x": 32765,
+		"y": 31250,
+		"z": 7
+	},
+	{
 		"description": "Trap holes",
 		"icon": "skull",
 		"x": 32766,
 		"y": 32894,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32769,
+		"y": 31040,
 		"z": 7
 	},
 	{
@@ -2058,10 +3164,31 @@
 		"z": 7
 	},
 	{
+		"description": "To the Cemetery Quarter",
+		"icon": "up",
+		"x": 32780,
+		"y": 31152,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32782,
+		"y": 32087,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32785,
 		"y": 31035,
+		"z": 7
+	},
+	{
+		"description": "To the Training Statues",
+		"icon": "up",
+		"x": 32786,
+		"y": 31248,
 		"z": 7
 	},
 	{
@@ -2100,10 +3227,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32794,
+		"y": 32085,
+		"z": 7
+	},
+	{
+		"description": "PoI",
+		"icon": "red down",
+		"x": 32796,
+		"y": 32341,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 32803,
+		"y": 31271,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 32803,
 		"y": 31601,
+		"z": 7
+	},
+	{
+		"description": "Grimvale quest",
+		"icon": "star",
+		"x": 32809,
+		"y": 32582,
 		"z": 7
 	},
 	{
@@ -2121,10 +3276,24 @@
 		"z": 7
 	},
 	{
+		"description": "Knightwatch Tower",
+		"icon": "red down",
+		"x": 32816,
+		"y": 32322,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas",
 		"icon": "red down",
 		"x": 32818,
 		"y": 32809,
+		"z": 7
+	},
+	{
+		"description": "Weapons and Armor",
+		"icon": "sword",
+		"x": 32824,
+		"y": 31238,
 		"z": 7
 	},
 	{
@@ -2149,6 +3318,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32827,
+		"y": 31958,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -2160,6 +3336,13 @@
 		"icon": "down",
 		"x": 32829,
 		"y": 31040,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 32830,
+		"y": 32710,
 		"z": 7
 	},
 	{
@@ -2177,6 +3360,20 @@
 		"z": 7
 	},
 	{
+		"description": "To the Magician Quarter",
+		"icon": "up",
+		"x": 32833,
+		"y": 31157,
+		"z": 7
+	},
+	{
+		"description": "To the Former Trade Quarter",
+		"icon": "up",
+		"x": 32833,
+		"y": 31261,
+		"z": 7
+	},
+	{
 		"description": "To the Former Trade Quarter",
 		"icon": "up",
 		"x": 32834,
@@ -2188,6 +3385,13 @@
 		"icon": "flag",
 		"x": 32837,
 		"y": 31365,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Banuta",
+		"icon": "checkmark",
+		"x": 32837,
+		"y": 32557,
 		"z": 7
 	},
 	{
@@ -2214,8 +3418,22 @@
 	{
 		"description": "To the Factory Quarter",
 		"icon": "up",
+		"x": 32848,
+		"y": 31246,
+		"z": 7
+	},
+	{
+		"description": "To the Factory Quarter",
+		"icon": "up",
 		"x": 32850,
 		"y": 31246,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 32850,
+		"y": 32744,
 		"z": 7
 	},
 	{
@@ -2254,6 +3472,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 32854,
+		"y": 31323,
+		"z": 7
+	},
+	{
 		"description": "Boat to Yalahar",
 		"icon": "flag",
 		"x": 32857,
@@ -2265,6 +3490,20 @@
 		"icon": "star",
 		"x": 32857,
 		"y": 32738,
+		"z": 7
+	},
+	{
+		"description": "To the western gate",
+		"icon": "up",
+		"x": 32860,
+		"y": 32126,
+		"z": 7
+	},
+	{
+		"description": "To the Sunken Quarter",
+		"icon": "up",
+		"x": 32862,
+		"y": 31201,
 		"z": 7
 	},
 	{
@@ -2296,6 +3535,27 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "!",
+		"x": 32872,
+		"y": 32717,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32873,
+		"y": 32518,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Banuta",
+		"icon": "star",
+		"x": 32873,
+		"y": 32532,
+		"z": 7
+	},
+	{
 		"description": "Special task: Tiquanda’s Revenge",
 		"icon": "!",
 		"x": 32876,
@@ -2307,6 +3567,13 @@
 		"icon": "red down",
 		"x": 32878,
 		"y": 31268,
+		"z": 7
+	},
+	{
+		"description": "Paladin spells",
+		"icon": "star",
+		"x": 32879,
+		"y": 31077,
 		"z": 7
 	},
 	{
@@ -2324,10 +3591,31 @@
 		"z": 7
 	},
 	{
+		"description": "GOblin Scavenger",
+		"icon": "checkmark",
+		"x": 32886,
+		"y": 31283,
+		"z": 7
+	},
+	{
 		"description": "Worker golems",
 		"icon": "red down",
 		"x": 32890,
 		"y": 31322,
+		"z": 7
+	},
+	{
+		"description": "Druid spells",
+		"icon": "star",
+		"x": 32894,
+		"y": 31059,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Banuta",
+		"icon": "star",
+		"x": 32902,
+		"y": 32504,
 		"z": 7
 	},
 	{
@@ -2342,6 +3630,13 @@
 		"icon": "red down",
 		"x": 32904,
 		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "Sorcerer spells",
+		"icon": "star",
+		"x": 32905,
+		"y": 31020,
 		"z": 7
 	},
 	{
@@ -2380,6 +3675,27 @@
 		"z": 7
 	},
 	{
+		"description": "Goblin Scavenger",
+		"icon": "checkmark",
+		"x": 32922,
+		"y": 31253,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32925,
+		"y": 32677,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Banuta",
+		"icon": "star",
+		"x": 32927,
+		"y": 32483,
+		"z": 7
+	},
+	{
 		"description": "Worker golems",
 		"icon": "red down",
 		"x": 32936,
@@ -2401,10 +3717,38 @@
 		"z": 7
 	},
 	{
+		"description": "To the southern gate",
+		"icon": "up",
+		"x": 32936,
+		"y": 32161,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "skull",
+		"x": 32938,
+		"y": 32744,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32942,
+		"y": 32677,
+		"z": 7
+	},
+	{
 		"description": "Giant spiders",
 		"icon": "red down",
 		"x": 32949,
 		"y": 32534,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32960,
+		"y": 31744,
 		"z": 7
 	},
 	{
@@ -2419,6 +3763,13 @@
 		"icon": "flag",
 		"x": 32962,
 		"y": 31497,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32967,
+		"y": 32142,
 		"z": 7
 	},
 	{
@@ -2486,9 +3837,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32997,
+		"y": 32643,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Banuta",
+		"icon": "star",
+		"x": 32998,
+		"y": 32411,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33004,
 		"y": 32095,
+		"z": 7
+	},
+	{
+		"description": "Eastern Entrance to Venore",
+		"icon": "up",
+		"x": 33004,
+		"y": 32100,
 		"z": 7
 	},
 	{
@@ -2496,6 +3868,13 @@
 		"icon": "down",
 		"x": 33006,
 		"y": 32803,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33007,
+		"y": 32454,
 		"z": 7
 	},
 	{
@@ -2521,9 +3900,23 @@
 	},
 	{
 		"description": "",
+		"icon": "$",
+		"x": 33011,
+		"y": 32686,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33012,
 		"y": 32079,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33012,
+		"y": 32635,
 		"z": 7
 	},
 	{
@@ -2590,6 +3983,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33029,
+		"y": 31388,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 33029,
@@ -2618,10 +4018,45 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "$",
+		"x": 33036,
+		"y": 32665,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "skull",
+		"x": 33037,
+		"y": 31372,
+		"z": 7
+	},
+	{
+		"description": "NK",
+		"icon": "skull",
+		"x": 33037,
+		"y": 32394,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33038,
+		"y": 32810,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 33048,
 		"y": 32757,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33049,
+		"y": 32429,
 		"z": 7
 	},
 	{
@@ -2688,6 +4123,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ley Lines banuta",
+		"icon": "star",
+		"x": 33061,
+		"y": 32351,
+		"z": 7
+	},
+	{
 		"description": "Gnarlhounds",
 		"icon": "red down",
 		"x": 33062,
@@ -2734,6 +4176,13 @@
 		"icon": "red down",
 		"x": 33074,
 		"y": 31168,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33074,
+		"y": 31185,
 		"z": 7
 	},
 	{
@@ -2800,6 +4249,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ley Line Vengoth",
+		"icon": "star",
+		"x": 33092,
+		"y": 31675,
+		"z": 7
+	},
+	{
 		"description": "Haunted Tomb (burster spectres)",
 		"icon": "red down",
 		"x": 33093,
@@ -2818,6 +4274,13 @@
 		"icon": "up",
 		"x": 33099,
 		"y": 32085,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33101,
+		"y": 32630,
 		"z": 7
 	},
 	{
@@ -2877,6 +4340,13 @@
 		"z": 7
 	},
 	{
+		"description": "Skeles",
+		"icon": "star",
+		"x": 33110,
+		"y": 32387,
+		"z": 7
+	},
+	{
 		"description": "Dragon lair",
 		"icon": "up",
 		"x": 33116,
@@ -2902,6 +4372,20 @@
 		"icon": "up",
 		"x": 33120,
 		"y": 32577,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Vengoth",
+		"icon": "star",
+		"x": 33123,
+		"y": 31723,
+		"z": 7
+	},
+	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33125,
+		"y": 32837,
 		"z": 7
 	},
 	{
@@ -3010,6 +4494,13 @@
 		"z": 7
 	},
 	{
+		"description": "Zomba",
+		"icon": "star",
+		"x": 33133,
+		"y": 32441,
+		"z": 7
+	},
+	{
 		"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
 		"icon": "!",
 		"x": 33133,
@@ -3084,6 +4575,13 @@
 		"icon": "star",
 		"x": 33137,
 		"y": 32642,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33138,
+		"y": 32408,
 		"z": 7
 	},
 	{
@@ -3164,6 +4662,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33151,
+		"y": 31680,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33153,
@@ -3227,6 +4732,13 @@
 		"z": 7
 	},
 	{
+		"description": "To the Knight and Paladin Trainer",
+		"icon": "up",
+		"x": 33159,
+		"y": 32810,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33160,
@@ -3248,6 +4760,27 @@
 		"z": 7
 	},
 	{
+		"description": "Otherworld",
+		"icon": "skull",
+		"x": 33163,
+		"y": 32638,
+		"z": 7
+	},
+	{
+		"description": "Undead Jester spawns",
+		"icon": "star",
+		"x": 33163,
+		"y": 32862,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33165,
+		"y": 31825,
+		"z": 7
+	},
+	{
 		"description": "Passage to west side",
 		"icon": "down",
 		"x": 33165,
@@ -3262,10 +4795,24 @@
 		"z": 7
 	},
 	{
+		"description": "Underground Depot",
+		"icon": "down",
+		"x": 33167,
+		"y": 31811,
+		"z": 7
+	},
+	{
 		"description": "To glowing vortex",
 		"icon": "red down",
 		"x": 33167,
 		"y": 32638,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33169,
+		"y": 31650,
 		"z": 7
 	},
 	{
@@ -3301,6 +4848,13 @@
 		"icon": "down",
 		"x": 33173,
 		"y": 31900,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33174,
+		"y": 32529,
 		"z": 7
 	},
 	{
@@ -3346,6 +4900,34 @@
 		"z": 7
 	},
 	{
+		"description": "Temple of Equilibrium",
+		"icon": "crossmark",
+		"x": 33178,
+		"y": 31211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33178,
+		"y": 31710,
+		"z": 7
+	},
+	{
+		"description": "Training Statues",
+		"icon": "star",
+		"x": 33179,
+		"y": 31790,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33180,
+		"y": 31678,
+		"z": 7
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 33181,
@@ -3371,6 +4953,13 @@
 		"icon": "red down",
 		"x": 33186,
 		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33188,
+		"y": 31239,
 		"z": 7
 	},
 	{
@@ -3423,6 +5012,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33201,
+		"y": 31894,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33201,
@@ -3458,6 +5054,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33206,
+		"y": 31656,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33207,
@@ -3469,6 +5072,13 @@
 		"icon": "!",
 		"x": 33208,
 		"y": 32591,
+		"z": 7
+	},
+	{
+		"description": "To the Shops",
+		"icon": "up",
+		"x": 33209,
+		"y": 31819,
 		"z": 7
 	},
 	{
@@ -3507,10 +5117,31 @@
 		"z": 7
 	},
 	{
+		"description": "Hyaena Lairs",
+		"icon": "down",
+		"x": 33212,
+		"y": 32358,
+		"z": 7
+	},
+	{
+		"description": "To the Temple",
+		"icon": "cross",
+		"x": 33212,
+		"y": 32454,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33212,
 		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 33213,
+		"y": 32452,
 		"z": 7
 	},
 	{
@@ -3549,6 +5180,13 @@
 		"z": 7
 	},
 	{
+		"description": "Magic Shop",
+		"icon": "bag",
+		"x": 33217,
+		"y": 32402,
+		"z": 7
+	},
+	{
 		"description": "Larvas / scarabs",
 		"icon": "down",
 		"x": 33219,
@@ -3584,10 +5222,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "skull",
+		"x": 33221,
+		"y": 32281,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33221,
 		"y": 32403,
+		"z": 7
+	},
+	{
+		"description": "Sorcerer and Druid spells",
+		"icon": "star",
+		"x": 33221,
+		"y": 32410,
 		"z": 7
 	},
 	{
@@ -3598,10 +5250,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33223,
+		"y": 31227,
+		"z": 7
+	},
+	{
 		"description": "Lancer beetles",
 		"icon": "red down",
 		"x": 33223,
 		"y": 31397,
+		"z": 7
+	},
+	{
+		"description": "Shops",
+		"icon": "bag",
+		"x": 33224,
+		"y": 32425,
 		"z": 7
 	},
 	{
@@ -3654,6 +5320,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33229,
+		"y": 31246,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33230,
@@ -3668,10 +5341,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33233,
+		"y": 31152,
+		"z": 7
+	},
+	{
 		"description": "Tarpit Tomb (boss: Morguthis) <hidden>",
 		"icon": "!",
 		"x": 33233,
 		"y": 32704,
+		"z": 7
+	},
+	{
+		"description": "Chaochai",
+		"icon": "crossmark",
+		"x": 33234,
+		"y": 31183,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33234,
+		"y": 31185,
 		"z": 7
 	},
 	{
@@ -3696,6 +5390,20 @@
 		"z": 7
 	},
 	{
+		"description": "Ley Line Vengoth",
+		"icon": "star",
+		"x": 33239,
+		"y": 31902,
+		"z": 7
+	},
+	{
+		"description": "Paladin and Knight spells",
+		"icon": "star",
+		"x": 33239,
+		"y": 32404,
+		"z": 7
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 33239,
@@ -3717,6 +5425,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33243,
+		"y": 31294,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33244,
+		"y": 31240,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33246,
@@ -3724,10 +5446,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33247,
+		"y": 31163,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33247,
 		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Blue Nomads",
+		"icon": "checkmark",
+		"x": 33249,
+		"y": 32748,
 		"z": 7
 	},
 	{
@@ -3773,6 +5509,13 @@
 		"z": 7
 	},
 	{
+		"description": "NK",
+		"icon": "skull",
+		"x": 33254,
+		"y": 32660,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33255,
@@ -3784,6 +5527,13 @@
 		"icon": "!",
 		"x": 33255,
 		"y": 32833,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33256,
+		"y": 31242,
 		"z": 7
 	},
 	{
@@ -3861,6 +5611,13 @@
 		"icon": "!",
 		"x": 33268,
 		"y": 32841,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33270,
+		"y": 31159,
 		"z": 7
 	},
 	{
@@ -3997,6 +5754,13 @@
 		"z": 7
 	},
 	{
+		"description": "Vengoth Ley Line",
+		"icon": "star",
+		"x": 33280,
+		"y": 31959,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33280,
@@ -4081,10 +5845,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33295,
+		"y": 31961,
+		"z": 7
+	},
+	{
 		"description": "Towards Cobra Bastion",
 		"icon": "up",
 		"x": 33301,
 		"y": 32648,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33301,
+		"y": 32776,
 		"z": 7
 	},
 	{
@@ -4106,6 +5884,20 @@
 		"icon": "!",
 		"x": 33305,
 		"y": 32373,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33307,
+		"y": 31174,
+		"z": 7
+	},
+	{
+		"description": "Grand Mother Fouscale",
+		"icon": "star",
+		"x": 33310,
+		"y": 31180,
 		"z": 7
 	},
 	{
@@ -4137,6 +5929,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ley Line Vengoth",
+		"icon": "star",
+		"x": 33322,
+		"y": 32028,
+		"z": 7
+	},
+	{
 		"description": "Teleport to Falcon Bastion",
 		"icon": "flag",
 		"x": 33328,
@@ -4155,6 +5954,13 @@
 		"icon": "star",
 		"x": 33341,
 		"y": 31167,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33341,
+		"y": 31692,
 		"z": 7
 	},
 	{
@@ -4193,6 +5999,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33351,
+		"y": 31671,
+		"z": 7
+	},
+	{
 		"description": "Lycantrophe Grounds (were-creatures)",
 		"icon": "down",
 		"x": 33351,
@@ -4204,6 +6017,13 @@
 		"icon": "down",
 		"x": 33353,
 		"y": 31670,
+		"z": 7
+	},
+	{
+		"description": "Maintenance Tunnel Entry",
+		"icon": "crossmark",
+		"x": 33356,
+		"y": 31180,
 		"z": 7
 	},
 	{
@@ -4235,10 +6055,24 @@
 		"z": 7
 	},
 	{
+		"description": "Blacksmith's Note",
+		"icon": "checkmark",
+		"x": 33364,
+		"y": 31342,
+		"z": 7
+	},
+	{
 		"description": "To NPC A Majestic Warwolf",
 		"icon": "down",
 		"x": 33364,
 		"y": 31975,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "lock",
+		"x": 33366,
+		"y": 32646,
 		"z": 7
 	},
 	{
@@ -4256,6 +6090,13 @@
 		"z": 7
 	},
 	{
+		"description": "Letter to the Guild",
+		"icon": "checkmark",
+		"x": 33372,
+		"y": 31327,
+		"z": 7
+	},
+	{
 		"description": "Boat to island to the north",
 		"icon": "flag",
 		"x": 33373,
@@ -4263,10 +6104,24 @@
 		"z": 7
 	},
 	{
+		"description": "Debate VIII",
+		"icon": "checkmark",
+		"x": 33373,
+		"y": 31350,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33376,
 		"y": 31346,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "lock",
+		"x": 33378,
+		"y": 32692,
 		"z": 7
 	},
 	{
@@ -4284,10 +6139,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "cross",
+		"x": 33387,
+		"y": 32215,
+		"z": 7
+	},
+	{
 		"description": "Towards Scarlett Etzel",
 		"icon": "up",
 		"x": 33397,
 		"y": 32676,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "lock",
+		"x": 33404,
+		"y": 32662,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33419,
+		"y": 32243,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33422,
+		"y": 32262,
 		"z": 7
 	},
 	{
@@ -4305,10 +6188,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "!",
+		"x": 33442,
+		"y": 32200,
+		"z": 7
+	},
+	{
 		"description": "Bank, depot, and temple",
 		"icon": "down",
 		"x": 33446,
 		"y": 31320,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33447,
+		"y": 32246,
 		"z": 7
 	},
 	{
@@ -4330,6 +6227,13 @@
 		"icon": "up",
 		"x": 33457,
 		"y": 31297,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 33458,
+		"y": 32298,
 		"z": 7
 	},
 	{
@@ -4396,6 +6300,34 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33484,
+		"y": 32193,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33484,
+		"y": 32238,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33485,
+		"y": 32531,
+		"z": 7
+	},
+	{
+		"description": "Harbour/Guide Kunibert",
+		"icon": "flag",
+		"x": 33486,
+		"y": 31984,
+		"z": 7
+	},
+	{
 		"description": "Depot",
 		"icon": "up",
 		"x": 33488,
@@ -4403,10 +6335,31 @@
 		"z": 7
 	},
 	{
+		"description": "Swan Feathers",
+		"icon": "spear",
+		"x": 33488,
+		"y": 32246,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33489,
+		"y": 32550,
+		"z": 7
+	},
+	{
 		"description": "NPC Vigintius",
 		"icon": "mouth",
 		"x": 33491,
 		"y": 31036,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33492,
+		"y": 32226,
 		"z": 7
 	},
 	{
@@ -4421,6 +6374,27 @@
 		"icon": "star",
 		"x": 33494,
 		"y": 32318,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33497,
+		"y": 32197,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33497,
+		"y": 32566,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33498,
+		"y": 32475,
 		"z": 7
 	},
 	{
@@ -4446,6 +6420,27 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33503,
+		"y": 32239,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33508,
+		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33509,
+		"y": 32224,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33510,
 		"y": 31191,
@@ -4463,6 +6458,20 @@
 		"icon": "flag",
 		"x": 33513,
 		"y": 32351,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "cross",
+		"x": 33513,
+		"y": 32362,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33513,
+		"y": 32447,
 		"z": 7
 	},
 	{
@@ -4495,9 +6504,58 @@
 	},
 	{
 		"description": "",
+		"icon": "cross",
+		"x": 33518,
+		"y": 32193,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33518,
+		"y": 32243,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33518,
+		"y": 32441,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33519,
 		"y": 31209,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33519,
+		"y": 32489,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 33520,
+		"y": 32559,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33522,
+		"y": 32462,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33523,
+		"y": 32212,
 		"z": 7
 	},
 	{
@@ -4515,6 +6573,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33526,
+		"y": 32387,
+		"z": 7
+	},
+	{
 		"description": "To NPC A Runaway Goblin",
 		"icon": "down",
 		"x": 33528,
@@ -4529,6 +6594,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "!",
+		"x": 33530,
+		"y": 32187,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33532,
+		"y": 31294,
+		"z": 7
+	},
+	{
 		"description": "Antenna",
 		"icon": "star",
 		"x": 33535,
@@ -4536,10 +6615,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33535,
+		"y": 32007,
+		"z": 7
+	},
+	{
 		"description": "Overmaw shrines",
 		"icon": "!",
 		"x": 33535,
 		"y": 32469,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33536,
+		"y": 31199,
 		"z": 7
 	},
 	{
@@ -4558,9 +6651,72 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33539,
+		"y": 32210,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33541,
 		"y": 31933,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 33541,
+		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33542,
+		"y": 31293,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33543,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33544,
+		"y": 32384,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33545,
+		"y": 31267,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33545,
+		"y": 32156,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33546,
+		"y": 31212,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33546,
+		"y": 31948,
 		"z": 7
 	},
 	{
@@ -4585,6 +6741,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33547,
+		"y": 32151,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33547,
+		"y": 32206,
+		"z": 7
+	},
+	{
 		"description": "Weakened frazzlemaws, enfeebled silencers, and Kroazur",
 		"icon": "down",
 		"x": 33547,
@@ -4596,6 +6766,13 @@
 		"icon": "flag",
 		"x": 33548,
 		"y": 31869,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33548,
+		"y": 32011,
 		"z": 7
 	},
 	{
@@ -4613,10 +6790,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33549,
+		"y": 32437,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "cross",
+		"x": 33550,
+		"y": 32219,
+		"z": 7
+	},
+	{
 		"description": "Swan feathers",
 		"icon": "star",
 		"x": 33550,
 		"y": 32222,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33551,
+		"y": 31286,
 		"z": 7
 	},
 	{
@@ -4634,10 +6832,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33554,
+		"y": 32028,
+		"z": 7
+	},
+	{
 		"description": "Feyrist dark creatures",
 		"icon": "down",
 		"x": 33554,
 		"y": 32211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33554,
+		"y": 32221,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33555,
+		"y": 32011,
 		"z": 7
 	},
 	{
@@ -4656,9 +6875,65 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33557,
+		"y": 31289,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33557,
 		"y": 31318,
+		"z": 7
+	},
+	{
+		"description": "Krailos Ley Line",
+		"icon": "star",
+		"x": 33558,
+		"y": 31738,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33558,
+		"y": 32022,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33558,
+		"y": 32033,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 33558,
+		"y": 32373,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33560,
+		"y": 32494,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 33561,
+		"y": 32257,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33562,
+		"y": 31272,
 		"z": 7
 	},
 	{
@@ -4666,6 +6941,13 @@
 		"icon": "up",
 		"x": 33563,
 		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33564,
+		"y": 31992,
 		"z": 7
 	},
 	{
@@ -4677,9 +6959,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33566,
+		"y": 32037,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33567,
 		"y": 31038,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33567,
+		"y": 32244,
 		"z": 7
 	},
 	{
@@ -4697,10 +6993,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33571,
+		"y": 32012,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33572,
+		"y": 31289,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 33572,
 		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33574,
+		"y": 31271,
+		"z": 7
+	},
+	{
+		"description": "Quandons Home",
+		"icon": "!",
+		"x": 33574,
+		"y": 31953,
 		"z": 7
 	},
 	{
@@ -4718,10 +7042,52 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33576,
+		"y": 32565,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33577,
+		"y": 31299,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33577,
+		"y": 32035,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33578,
+		"y": 32013,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33579,
+		"y": 31306,
+		"z": 7
+	},
+	{
 		"description": "Undead gladiators / nightmare scions / nightmares",
 		"icon": "down",
 		"x": 33580,
 		"y": 31585,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33580,
+		"y": 31942,
 		"z": 7
 	},
 	{
@@ -4767,10 +7133,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33586,
+		"y": 32451,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33587,
+		"y": 31213,
+		"z": 7
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33587,
 		"y": 31250,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33588,
+		"y": 32037,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33588,
+		"y": 32056,
 		"z": 7
 	},
 	{
@@ -4796,6 +7190,34 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33590,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33592,
+		"y": 31262,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Krailos",
+		"icon": "star",
+		"x": 33592,
+		"y": 31712,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33593,
+		"y": 32017,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33595,
 		"y": 31952,
@@ -4809,10 +7231,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "cross",
+		"x": 33596,
+		"y": 32183,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33598,
+		"y": 32058,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33599,
+		"y": 32495,
+		"z": 7
+	},
+	{
 		"description": "Antenna",
 		"icon": "star",
 		"x": 33600,
 		"y": 31267,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33601,
+		"y": 32027,
 		"z": 7
 	},
 	{
@@ -4831,6 +7281,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33602,
+		"y": 32038,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33604,
+		"y": 31232,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33605,
 		"y": 31952,
@@ -4844,6 +7308,27 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33607,
+		"y": 32060,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33608,
+		"y": 32008,
+		"z": 7
+	},
+	{
+		"description": "Krailos Ley Line",
+		"icon": "star",
+		"x": 33609,
+		"y": 31684,
+		"z": 7
+	},
+	{
 		"description": "Combinatorics task",
 		"icon": "down",
 		"x": 33610,
@@ -4851,10 +7336,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33610,
+		"y": 32037,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33612,
+		"y": 32051,
+		"z": 7
+	},
+	{
 		"description": "Safe spot",
 		"icon": "up",
 		"x": 33614,
 		"y": 32344,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33615,
+		"y": 32024,
 		"z": 7
 	},
 	{
@@ -4876,6 +7382,27 @@
 		"icon": "up",
 		"x": 33618,
 		"y": 31832,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33620,
+		"y": 32029,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33620,
+		"y": 32540,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33621,
+		"y": 31979,
 		"z": 7
 	},
 	{
@@ -4914,10 +7441,31 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 33630,
+		"y": 31654,
+		"z": 7
+	},
+	{
 		"description": "To NPC Morax",
 		"icon": "red up",
 		"x": 33632,
 		"y": 32342,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33633,
+		"y": 31979,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33634,
+		"y": 31678,
 		"z": 7
 	},
 	{
@@ -4953,6 +7501,13 @@
 		"icon": "mouth",
 		"x": 33639,
 		"y": 31659,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33639,
+		"y": 32487,
 		"z": 7
 	},
 	{
@@ -4998,10 +7553,38 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33649,
+		"y": 32485,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33650,
+		"y": 32396,
+		"z": 7
+	},
+	{
 		"description": "Slide to Glooth Factory",
 		"icon": "checkmark",
 		"x": 33651,
 		"y": 31941,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33651,
+		"y": 32439,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33653,
+		"y": 31990,
 		"z": 7
 	},
 	{
@@ -5033,10 +7616,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33657,
+		"y": 31759,
+		"z": 7
+	},
+	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33657,
 		"y": 32463,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33657,
+		"y": 32490,
 		"z": 7
 	},
 	{
@@ -5065,6 +7662,27 @@
 		"icon": "flag",
 		"x": 33658,
 		"y": 32494,
+		"z": 7
+	},
+	{
+		"description": "City Guard Terrence",
+		"icon": "!",
+		"x": 33659,
+		"y": 31949,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33659,
+		"y": 32386,
+		"z": 7
+	},
+	{
+		"description": "Ley Line Krailos",
+		"icon": "star",
+		"x": 33660,
+		"y": 31645,
 		"z": 7
 	},
 	{
@@ -5124,6 +7742,13 @@
 		"z": 7
 	},
 	{
+		"description": "Grimvale Quest",
+		"icon": "star",
+		"x": 33675,
+		"y": 31627,
+		"z": 7
+	},
+	{
 		"description": "Teleport to Tyrsung",
 		"icon": "flag",
 		"x": 33675,
@@ -5132,9 +7757,30 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33675,
+		"y": 32150,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33676,
 		"y": 31794,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33676,
+		"y": 31928,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33676,
+		"y": 32473,
 		"z": 7
 	},
 	{
@@ -5146,9 +7792,30 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33676,
+		"y": 32509,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33678,
 		"y": 32473,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33678,
+		"y": 32503,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33679,
+		"y": 32532,
 		"z": 7
 	},
 	{
@@ -5163,6 +7830,13 @@
 		"icon": "up",
 		"x": 33680,
 		"y": 31861,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33680,
+		"y": 31930,
 		"z": 7
 	},
 	{
@@ -5195,6 +7869,34 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33683,
+		"y": 31750,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33683,
+		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33684,
+		"y": 31924,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33684,
+		"y": 32526,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33685,
 		"y": 32188,
@@ -5222,10 +7924,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33688,
+		"y": 31934,
+		"z": 7
+	},
+	{
 		"description": "To NPC Grubokk",
 		"icon": "up",
 		"x": 33692,
 		"y": 31775,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33692,
+		"y": 32506,
 		"z": 7
 	},
 	{
@@ -5240,6 +7956,13 @@
 		"icon": "flag",
 		"x": 33695,
 		"y": 32484,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33696,
+		"y": 32509,
 		"z": 7
 	},
 	{
@@ -5264,10 +7987,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33706,
+		"y": 32499,
+		"z": 7
+	},
+	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33707,
 		"y": 32488,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33708,
+		"y": 31937,
 		"z": 7
 	},
 	{
@@ -5285,6 +8022,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33710,
+		"y": 32112,
+		"z": 7
+	},
+	{
 		"description": "To NPC Dream Butterfly",
 		"icon": "red up",
 		"x": 33711,
@@ -5299,10 +8043,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33728,
+		"y": 32468,
+		"z": 7
+	},
+	{
 		"description": "Skull orchid",
 		"icon": "star",
 		"x": 33729,
 		"y": 31639,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33730,
+		"y": 31040,
 		"z": 7
 	},
 	{
@@ -5321,6 +8079,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33756,
+		"y": 31021,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33756,
 		"y": 31042,
@@ -5328,9 +8093,30 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33776,
+		"y": 31023,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33776,
+		"y": 31043,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33778,
 		"y": 31600,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33790,
+		"y": 31061,
 		"z": 7
 	},
 	{
@@ -5377,6 +8163,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33798,
+		"y": 31006,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33800,
 		"y": 31012,
@@ -5398,9 +8191,23 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33812,
+		"y": 31648,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33817,
 		"y": 31021,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33818,
+		"y": 31095,
 		"z": 7
 	},
 	{
@@ -5460,6 +8267,13 @@
 		"z": 7
 	},
 	{
+		"description": "Temple of Sun and Sea",
+		"icon": "cross",
+		"x": 33865,
+		"y": 31527,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33869,
@@ -5495,6 +8309,13 @@
 		"z": 7
 	},
 	{
+		"description": "Training Statues",
+		"icon": "sword",
+		"x": 33882,
+		"y": 31531,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33884,
@@ -5506,6 +8327,13 @@
 		"icon": "up",
 		"x": 33885,
 		"y": 31460,
+		"z": 7
+	},
+	{
+		"description": "Palace and Library",
+		"icon": "star",
+		"x": 33887,
+		"y": 31502,
 		"z": 7
 	},
 	{
@@ -5523,6 +8351,20 @@
 		"z": 7
 	},
 	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33894,
+		"y": 31473,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "!",
+		"x": 33896,
+		"y": 31665,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33900,
@@ -5537,6 +8379,13 @@
 		"z": 7
 	},
 	{
+		"description": "Post",
+		"icon": "up",
+		"x": 33907,
+		"y": 31499,
+		"z": 7
+	},
+	{
 		"description": "Magic store (potions)",
 		"icon": "star",
 		"x": 33910,
@@ -5544,10 +8393,31 @@
 		"z": 7
 	},
 	{
+		"description": "Magic Store",
+		"icon": "bag",
+		"x": 33915,
+		"y": 31508,
+		"z": 7
+	},
+	{
+		"description": "Market Place",
+		"icon": "bag",
+		"x": 33915,
+		"y": 31516,
+		"z": 7
+	},
+	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 33920,
 		"y": 31480,
+		"z": 7
+	},
+	{
+		"description": "To the Temple of Eternal Light",
+		"icon": "cross",
+		"x": 33921,
+		"y": 31490,
 		"z": 7
 	},
 	{
@@ -5566,6 +8436,20 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33930,
+		"y": 31568,
+		"z": 7
+	},
+	{
+		"description": "Hanging Gardens of Meketre",
+		"icon": "star",
+		"x": 33934,
+		"y": 31491,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33939,
 		"y": 31536,
@@ -5579,10 +8463,24 @@
 		"z": 7
 	},
 	{
+		"description": "Seaside Theatre",
+		"icon": "mouth",
+		"x": 33941,
+		"y": 31468,
+		"z": 7
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 33947,
 		"y": 31508,
+		"z": 7
+	},
+	{
+		"description": "To the Carpet",
+		"icon": "up",
+		"x": 33953,
+		"y": 31494,
 		"z": 7
 	},
 	{

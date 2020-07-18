@@ -28,6 +28,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 31963,
+		"y": 32809,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 32005,
@@ -119,6 +126,20 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32095,
+		"y": 31158,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32119,
+		"y": 31150,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 32195,
@@ -175,6 +196,13 @@
 		"z": 4
 	},
 	{
+		"description": "Bounac Guard",
+		"icon": "checkmark",
+		"x": 32400,
+		"y": 32481,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 32410,
@@ -189,6 +217,13 @@
 		"z": 4
 	},
 	{
+		"description": "Paladin spells",
+		"icon": "star",
+		"x": 32414,
+		"y": 32831,
+		"z": 4
+	},
+	{
 		"description": "Jehan the Baker",
 		"icon": "mouth",
 		"x": 32421,
@@ -200,6 +235,13 @@
 		"icon": "down",
 		"x": 32429,
 		"y": 32487,
+		"z": 4
+	},
+	{
+		"description": "Dal the Huntress (night)",
+		"icon": "checkmark",
+		"x": 32436,
+		"y": 32493,
 		"z": 4
 	},
 	{
@@ -224,6 +266,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32936,
+		"y": 32683,
+		"z": 4
+	},
+	{
 		"description": "Flying carpet",
 		"icon": "up",
 		"x": 32991,
@@ -235,6 +284,34 @@
 		"icon": "down",
 		"x": 33021,
 		"y": 31536,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33063,
+		"y": 31102,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33079,
+		"y": 31120,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33084,
+		"y": 31114,
+		"z": 4
+	},
+	{
+		"description": "Paladin spells and training statues",
+		"icon": "star",
+		"x": 33156,
+		"y": 32812,
 		"z": 4
 	},
 	{
@@ -252,10 +329,52 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33190,
+		"y": 31076,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33268,
+		"y": 31831,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33270,
+		"y": 31834,
+		"z": 4
+	},
+	{
+		"description": "Chirzzoron",
+		"icon": "star",
+		"x": 33347,
+		"y": 31609,
+		"z": 4
+	},
+	{
 		"description": "Teleport back to Edron",
 		"icon": "flag",
 		"x": 33356,
 		"y": 31307,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33357,
+		"y": 31343,
+		"z": 4
+	},
+	{
+		"description": "Chest golden",
+		"icon": "checkmark",
+		"x": 33373,
+		"y": 31339,
 		"z": 4
 	},
 	{
@@ -273,10 +392,31 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "lock",
+		"x": 33402,
+		"y": 32648,
+		"z": 4
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33480,
 		"y": 31197,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33482,
+		"y": 31200,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33509,
+		"y": 31217,
 		"z": 4
 	},
 	{
@@ -298,6 +438,13 @@
 		"icon": "flag",
 		"x": 33527,
 		"y": 32300,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33536,
+		"y": 31199,
 		"z": 4
 	},
 	{

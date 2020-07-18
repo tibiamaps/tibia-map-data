@@ -35,6 +35,13 @@
 		"z": 3
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32007,
+		"y": 32874,
+		"z": 3
+	},
+	{
 		"description": "Northern safe trade room",
 		"icon": "lock",
 		"x": 32057,
@@ -70,6 +77,13 @@
 		"z": 3
 	},
 	{
+		"description": "Yeti",
+		"icon": "star",
+		"x": 32076,
+		"y": 31029,
+		"z": 3
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32077,
@@ -91,6 +105,13 @@
 		"z": 3
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32117,
+		"y": 31153,
+		"z": 3
+	},
+	{
 		"description": "Man in the Cave rope spot",
 		"icon": "star",
 		"x": 32131,
@@ -109,6 +130,13 @@
 		"icon": "down",
 		"x": 32367,
 		"y": 31259,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32374,
+		"y": 32498,
 		"z": 3
 	},
 	{
@@ -148,6 +176,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32959,
+		"y": 32675,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33004,
 		"y": 31520,
@@ -165,6 +200,20 @@
 		"icon": "down",
 		"x": 33050,
 		"y": 32717,
+		"z": 3
+	},
+	{
+		"description": "Carpet",
+		"icon": "flag",
+		"x": 33193,
+		"y": 31784,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33267,
+		"y": 31837,
 		"z": 3
 	},
 	{
@@ -203,6 +252,13 @@
 		"z": 3
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33375,
+		"y": 31336,
+		"z": 3
+	},
+	{
 		"description": "Spawn of Preceptor Lazare",
 		"icon": "sword",
 		"x": 33375,
@@ -225,6 +281,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33492,
+		"y": 31206,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33519,
 		"y": 31206,
@@ -235,6 +298,20 @@
 		"icon": "up",
 		"x": 33527,
 		"y": 31215,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33529,
+		"y": 31200,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33542,
+		"y": 31213,
 		"z": 3
 	},
 	{
@@ -281,6 +358,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33586,
+		"y": 31228,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33606,
 		"y": 31229,
@@ -298,6 +382,13 @@
 		"icon": "mouth",
 		"x": 33651,
 		"y": 31883,
+		"z": 3
+	},
+	{
+		"description": "Exit to portal hub",
+		"icon": "flag",
+		"x": 33860,
+		"y": 31832,
 		"z": 3
 	},
 	{

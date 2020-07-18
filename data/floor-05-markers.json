@@ -50,6 +50,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 31964,
+		"y": 32811,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 31979,
 		"y": 32854,
@@ -70,6 +77,13 @@
 		"z": 5
 	},
 	{
+		"description": "Ship to the Mainland",
+		"icon": "flag",
+		"x": 32033,
+		"y": 31874,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32041,
@@ -84,10 +98,52 @@
 		"z": 5
 	},
 	{
+		"description": "Sorcerer's gate",
+		"icon": "red left",
+		"x": 32055,
+		"y": 31890,
+		"z": 5
+	},
+	{
+		"description": "Food and Equipment",
+		"icon": "bag",
+		"x": 32057,
+		"y": 31881,
+		"z": 5
+	},
+	{
+		"description": "Potions and Magic Store",
+		"icon": "bag",
+		"x": 32057,
+		"y": 31900,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32058,
 		"y": 32602,
+		"z": 5
+	},
+	{
+		"description": "Knight's gate",
+		"icon": "red up",
+		"x": 32064,
+		"y": 31880,
+		"z": 5
+	},
+	{
+		"description": "Druid's gate",
+		"icon": "red down",
+		"x": 32064,
+		"y": 31901,
+		"z": 5
+	},
+	{
+		"description": "To the temple and vocation doors",
+		"icon": "cross",
+		"x": 32065,
+		"y": 31888,
 		"z": 5
 	},
 	{
@@ -105,6 +161,34 @@
 		"z": 5
 	},
 	{
+		"description": "Weapons and armor",
+		"icon": "bag",
+		"x": 32071,
+		"y": 31881,
+		"z": 5
+	},
+	{
+		"description": "General information and creature products",
+		"icon": "!",
+		"x": 32071,
+		"y": 31900,
+		"z": 5
+	},
+	{
+		"description": "To the bank, spells trainers, safe trade rooms, and Mr Morris",
+		"icon": "up",
+		"x": 32074,
+		"y": 31895,
+		"z": 5
+	},
+	{
+		"description": "Paladin's gate",
+		"icon": "red right",
+		"x": 32075,
+		"y": 31891,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32078,
@@ -112,10 +196,24 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32086,
+		"y": 31120,
+		"z": 5
+	},
+	{
 		"description": "To Chyllfroest",
 		"icon": "down",
 		"x": 32089,
 		"y": 31090,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32095,
+		"y": 31157,
 		"z": 5
 	},
 	{
@@ -127,9 +225,72 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32113,
+		"y": 31072,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32119,
+		"y": 31086,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32123,
+		"y": 31058,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32134,
+		"y": 31051,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32144,
+		"y": 31041,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32146,
 		"y": 31081,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32150,
+		"y": 31070,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32153,
+		"y": 31035,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32153,
+		"y": 31086,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32164,
+		"y": 31030,
 		"z": 5
 	},
 	{
@@ -141,9 +302,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32187,
+		"y": 31092,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32189,
 		"y": 31437,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32192,
+		"y": 31051,
 		"z": 5
 	},
 	{
@@ -162,9 +337,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32203,
+		"y": 31058,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32214,
 		"y": 31431,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32218,
+		"y": 31095,
 		"z": 5
 	},
 	{
@@ -176,9 +365,30 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32250,
+		"y": 31387,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32250,
 		"y": 31392,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32253,
+		"y": 31077,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32256,
+		"y": 31066,
 		"z": 5
 	},
 	{
@@ -211,6 +421,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32373,
+		"y": 31245,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32375,
 		"y": 31265,
@@ -221,6 +438,13 @@
 		"icon": "down",
 		"x": 32404,
 		"y": 31267,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32410,
+		"y": 32482,
 		"z": 5
 	},
 	{
@@ -242,6 +466,13 @@
 		"icon": "mouth",
 		"x": 32423,
 		"y": 32480,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32426,
+		"y": 32484,
 		"z": 5
 	},
 	{
@@ -323,6 +554,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33062,
+		"y": 31099,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33062,
 		"y": 32440,
@@ -333,6 +571,13 @@
 		"icon": "down",
 		"x": 33066,
 		"y": 31304,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33084,
+		"y": 31115,
 		"z": 5
 	},
 	{
@@ -357,6 +602,13 @@
 		"z": 5
 	},
 	{
+		"description": "Knight spells",
+		"icon": "star",
+		"x": 33160,
+		"y": 32812,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33164,
@@ -368,6 +620,13 @@
 		"icon": "down",
 		"x": 33173,
 		"y": 31027,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33173,
+		"y": 31309,
 		"z": 5
 	},
 	{
@@ -389,6 +648,13 @@
 		"icon": "down",
 		"x": 33179,
 		"y": 31060,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33188,
+		"y": 31281,
 		"z": 5
 	},
 	{
@@ -442,9 +708,30 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33494,
+		"y": 31211,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33518,
 		"y": 31193,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33520,
+		"y": 31216,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33530,
+		"y": 31185,
 		"z": 5
 	},
 	{
@@ -480,6 +767,27 @@
 		"icon": "up",
 		"x": 33555,
 		"y": 31311,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33575,
+		"y": 31217,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33577,
+		"y": 31242,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33593,
+		"y": 31251,
 		"z": 5
 	},
 	{
@@ -568,6 +876,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33687,
+		"y": 32207,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33688,
 		"y": 32111,
@@ -592,6 +907,20 @@
 		"icon": "star",
 		"x": 33703,
 		"y": 32186,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33709,
+		"y": 32137,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33710,
+		"y": 32110,
 		"z": 5
 	},
 	{

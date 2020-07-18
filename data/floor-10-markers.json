@@ -8,6 +8,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 31928,
+		"y": 32634,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 31929,
 		"y": 31655,
@@ -18,6 +25,13 @@
 		"icon": "up",
 		"x": 31931,
 		"y": 31252,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 31938,
+		"y": 31653,
 		"z": 10
 	},
 	{
@@ -154,6 +168,13 @@
 		"z": 10
 	},
 	{
+		"description": "White Pale",
+		"icon": "checkmark",
+		"x": 32226,
+		"y": 32760,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32232,
@@ -189,6 +210,13 @@
 		"z": 10
 	},
 	{
+		"description": "Frozen Horror",
+		"icon": "star",
+		"x": 32324,
+		"y": 31092,
+		"z": 10
+	},
+	{
 		"description": "Towards dragon egg",
 		"icon": "down",
 		"x": 32328,
@@ -203,10 +231,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 32349,
+		"y": 31666,
+		"z": 10
+	},
+	{
 		"description": "Blood crabs",
 		"icon": "down",
 		"x": 32349,
 		"y": 32902,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32357,
+		"y": 32232,
 		"z": 10
 	},
 	{
@@ -637,6 +679,20 @@
 		"z": 10
 	},
 	{
+		"description": "Gorzindel room",
+		"icon": "checkmark",
+		"x": 32687,
+		"y": 32719,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32698,
+		"y": 32232,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32715,
@@ -651,10 +707,45 @@
 		"z": 10
 	},
 	{
+		"description": "Lever to Lokathmor",
+		"icon": "checkmark",
+		"x": 32723,
+		"y": 32749,
+		"z": 10
+	},
+	{
+		"description": "Lever to Mazzinor",
+		"icon": "checkmark",
+		"x": 32723,
+		"y": 32773,
+		"z": 10
+	},
+	{
+		"description": "Mazzinor Room",
+		"icon": "checkmark",
+		"x": 32724,
+		"y": 32720,
+		"z": 10
+	},
+	{
 		"description": "Tree",
 		"icon": "star",
 		"x": 32737,
 		"y": 32117,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32742,
+		"y": 32585,
+		"z": 10
+	},
+	{
+		"description": "Gorzindel Lever",
+		"icon": "checkmark",
+		"x": 32748,
+		"y": 32748,
 		"z": 10
 	},
 	{
@@ -665,6 +756,13 @@
 		"z": 10
 	},
 	{
+		"description": "Ghoulosh Lever",
+		"icon": "checkmark",
+		"x": 32749,
+		"y": 32773,
+		"z": 10
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "!",
 		"x": 32751,
@@ -672,10 +770,31 @@
 		"z": 10
 	},
 	{
+		"description": "Lokathmor room",
+		"icon": "checkmark",
+		"x": 32751,
+		"y": 32688,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32755,
 		"y": 32189,
+		"z": 10
+	},
+	{
+		"description": "Ghoulosh room",
+		"icon": "checkmark",
+		"x": 32756,
+		"y": 32721,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32770,
+		"y": 32620,
 		"z": 10
 	},
 	{
@@ -704,6 +823,13 @@
 		"icon": "down",
 		"x": 32792,
 		"y": 31960,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32792,
+		"y": 32520,
 		"z": 10
 	},
 	{
@@ -749,6 +875,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32802,
+		"y": 31770,
+		"z": 10
+	},
+	{
 		"description": "Teleport to Truffels Garden",
 		"icon": "flag",
 		"x": 32803,
@@ -791,10 +924,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32823,
+		"y": 32519,
+		"z": 10
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32825,
 		"y": 31752,
+		"z": 10
+	},
+	{
+		"description": "Old Letter e Strand of Hair",
+		"icon": "checkmark",
+		"x": 32825,
+		"y": 32773,
 		"z": 10
 	},
 	{
@@ -809,6 +956,20 @@
 		"icon": "up",
 		"x": 32827,
 		"y": 31665,
+		"z": 10
+	},
+	{
+		"description": "Eye Key",
+		"icon": "checkmark",
+		"x": 32836,
+		"y": 32820,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32848,
+		"y": 32806,
 		"z": 10
 	},
 	{
@@ -837,6 +998,34 @@
 		"icon": "star",
 		"x": 32860,
 		"y": 31644,
+		"z": 10
+	},
+	{
+		"description": "Diamond Blossom",
+		"icon": "star",
+		"x": 32861,
+		"y": 32771,
+		"z": 10
+	},
+	{
+		"description": "Scribbled Notes",
+		"icon": "checkmark",
+		"x": 32871,
+		"y": 32816,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32875,
+		"y": 32575,
+		"z": 10
+	},
+	{
+		"description": "Lotus Key",
+		"icon": "checkmark",
+		"x": 32875,
+		"y": 32761,
 		"z": 10
 	},
 	{
@@ -872,6 +1061,20 @@
 		"icon": "down",
 		"x": 32891,
 		"y": 32645,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32919,
+		"y": 32764,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32940,
+		"y": 32727,
 		"z": 10
 	},
 	{
@@ -939,9 +1142,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32972,
+		"y": 32274,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "red right",
 		"x": 32977,
 		"y": 32290,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32980,
+		"y": 32728,
 		"z": 10
 	},
 	{
@@ -981,6 +1198,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32991,
+		"y": 32463,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32991,
+		"y": 32741,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32992,
 		"y": 31885,
@@ -991,6 +1222,13 @@
 		"icon": "down",
 		"x": 32995,
 		"y": 32383,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32995,
+		"y": 32396,
 		"z": 10
 	},
 	{
@@ -1043,10 +1281,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33009,
+		"y": 32476,
+		"z": 10
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33010,
 		"y": 31534,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "$",
+		"x": 33012,
+		"y": 31492,
 		"z": 10
 	},
 	{
@@ -1071,6 +1323,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33023,
+		"y": 32313,
+		"z": 10
+	},
+	{
 		"description": "NPC Oblivion (shadow pupil)",
 		"icon": "!",
 		"x": 33024,
@@ -1082,6 +1341,13 @@
 		"icon": "mouth",
 		"x": 33034,
 		"y": 31530,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 33037,
+		"y": 31541,
 		"z": 10
 	},
 	{
@@ -1099,10 +1365,31 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33039,
+		"y": 32357,
+		"z": 10
+	},
+	{
 		"description": "To NPC Zarifan",
 		"icon": "down",
 		"x": 33043,
 		"y": 32486,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33053,
+		"y": 31086,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33055,
+		"y": 31118,
 		"z": 10
 	},
 	{
@@ -1142,6 +1429,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33066,
+		"y": 31079,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33070,
 		"y": 32098,
@@ -1152,6 +1446,13 @@
 		"icon": "down",
 		"x": 33071,
 		"y": 32102,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33073,
+		"y": 31087,
 		"z": 10
 	},
 	{
@@ -1183,6 +1484,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33085,
+		"y": 31101,
+		"z": 10
+	},
+	{
 		"description": "Strange shrine",
 		"icon": "checkmark",
 		"x": 33088,
@@ -1204,10 +1512,45 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33101,
+		"y": 32376,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33102,
+		"y": 31155,
+		"z": 10
+	},
+	{
 		"description": "Teleport to Deathstrike boss room",
 		"icon": "star",
 		"x": 33104,
 		"y": 31908,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33106,
+		"y": 31079,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33109,
+		"y": 31078,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33110,
+		"y": 31122,
 		"z": 10
 	},
 	{
@@ -1226,9 +1569,51 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33128,
+		"y": 32127,
+		"z": 10
+	},
+	{
+		"description": "Lion Sanctum",
+		"icon": "down",
+		"x": 33128,
+		"y": 32250,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33129,
+		"y": 31165,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33129,
+		"y": 32118,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33130,
+		"y": 31846,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33133,
 		"y": 32321,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33134,
+		"y": 32015,
 		"z": 10
 	},
 	{
@@ -1240,9 +1625,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33136,
+		"y": 32076,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33139,
 		"y": 32335,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33143,
+		"y": 32051,
 		"z": 10
 	},
 	{
@@ -1254,9 +1653,58 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33172,
+		"y": 32451,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33174,
+		"y": 32383,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33182,
 		"y": 31287,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33192,
+		"y": 32399,
+		"z": 10
+	},
+	{
+		"description": "Blood-stained Pagoda",
+		"icon": "crossmark",
+		"x": 33206,
+		"y": 32432,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33222,
+		"y": 32353,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33231,
+		"y": 32107,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33246,
+		"y": 32099,
 		"z": 10
 	},
 	{
@@ -1275,6 +1723,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33260,
+		"y": 32105,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33264,
 		"y": 32301,
@@ -1285,6 +1740,20 @@
 		"icon": "up",
 		"x": 33283,
 		"y": 31635,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33284,
+		"y": 32107,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33298,
+		"y": 32099,
 		"z": 10
 	},
 	{
@@ -1303,6 +1772,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33350,
+		"y": 31671,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33352,
 		"y": 32093,
@@ -1313,6 +1789,13 @@
 		"icon": "down",
 		"x": 33355,
 		"y": 32612,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33378,
+		"y": 31699,
 		"z": 10
 	},
 	{
@@ -1354,6 +1837,13 @@
 		"description": "",
 		"icon": "down",
 		"x": 33423,
+		"y": 31567,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33423,
 		"y": 32264,
 		"z": 10
 	},
@@ -1372,6 +1862,27 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33465,
+		"y": 31920,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33466,
+		"y": 31895,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33491,
+		"y": 31952,
+		"z": 10
+	},
+	{
 		"description": "To exit",
 		"icon": "flag",
 		"x": 33491,
@@ -1383,6 +1894,27 @@
 		"icon": "flag",
 		"x": 33493,
 		"y": 32242,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33501,
+		"y": 31301,
+		"z": 10
+	},
+	{
+		"description": "Sandking lever room",
+		"icon": "sword",
+		"x": 33506,
+		"y": 32229,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33508,
+		"y": 32379,
 		"z": 10
 	},
 	{
@@ -1400,10 +1932,31 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33526,
+		"y": 31939,
+		"z": 10
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 33537,
 		"y": 31975,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33544,
+		"y": 31966,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33546,
+		"y": 31293,
 		"z": 10
 	},
 	{
@@ -1418,6 +1971,13 @@
 		"icon": "sword",
 		"x": 33554,
 		"y": 31518,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33560,
+		"y": 31983,
 		"z": 10
 	},
 	{
@@ -1436,6 +1996,27 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33571,
+		"y": 31982,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33571,
+		"y": 31990,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33580,
+		"y": 31984,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33586,
 		"y": 31884,
@@ -1446,6 +2027,34 @@
 		"icon": "up",
 		"x": 33593,
 		"y": 31892,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33596,
+		"y": 31934,
+		"z": 10
+	},
+	{
+		"description": "To Edron",
+		"icon": "star",
+		"x": 33601,
+		"y": 31441,
+		"z": 10
+	},
+	{
+		"description": "to Edron",
+		"icon": "flag",
+		"x": 33602,
+		"y": 31441,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33604,
+		"y": 31765,
 		"z": 10
 	},
 	{
@@ -1477,6 +2086,27 @@
 		"z": 10
 	},
 	{
+		"description": "Claustrophobic Inferno (Goshnar's Malice)",
+		"icon": "sword",
+		"x": 33615,
+		"y": 31422,
+		"z": 10
+	},
+	{
+		"description": "Rotten Wasteland (Goshnar's Hatred)",
+		"icon": "sword",
+		"x": 33618,
+		"y": 31422,
+		"z": 10
+	},
+	{
+		"description": "Ebb and Flow (Goshnar's Spite)",
+		"icon": "sword",
+		"x": 33621,
+		"y": 31422,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33623,
@@ -1484,10 +2114,24 @@
 		"z": 10
 	},
 	{
+		"description": "Furious Crater (Goshnar's Cruelty)",
+		"icon": "sword",
+		"x": 33624,
+		"y": 31422,
+		"z": 10
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 33626,
 		"y": 31747,
+		"z": 10
+	},
+	{
+		"description": "The Mirrored Nightmare (Goshnar's Greed)",
+		"icon": "sword",
+		"x": 33627,
+		"y": 31422,
 		"z": 10
 	},
 	{
@@ -1572,6 +2216,20 @@
 		"icon": "flag",
 		"x": 33888,
 		"y": 31183,
+		"z": 10
+	},
+	{
+		"description": "? Exit to portal hub",
+		"icon": "flag",
+		"x": 33984,
+		"y": 31031,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34011,
+		"y": 31019,
 		"z": 10
 	},
 	{

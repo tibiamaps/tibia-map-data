@@ -56,6 +56,13 @@
 		"z": 1
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32944,
+		"y": 32679,
+		"z": 1
+	},
+	{
 		"description": "Spectulus",
 		"icon": "mouth",
 		"x": 33268,
@@ -67,6 +74,13 @@
 		"icon": "bag",
 		"x": 33376,
 		"y": 31321,
+		"z": 1
+	},
+	{
+		"description": "Outfit and Addons",
+		"icon": "star",
+		"x": 33482,
+		"y": 31200,
 		"z": 1
 	},
 	{
@@ -85,9 +99,37 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33492,
+		"y": 31188,
+		"z": 1
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33501,
 		"y": 31197,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33512,
+		"y": 31186,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33513,
+		"y": 31206,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33533,
+		"y": 31208,
 		"z": 1
 	},
 	{

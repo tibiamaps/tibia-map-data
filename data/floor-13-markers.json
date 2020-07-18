@@ -1,5 +1,19 @@
 [
 	{
+		"description": "Recipe",
+		"icon": "checkmark",
+		"x": 31997,
+		"y": 31981,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32010,
+		"y": 31947,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32011,
@@ -18,6 +32,13 @@
 		"icon": "down",
 		"x": 32015,
 		"y": 31987,
+		"z": 13
+	},
+	{
+		"description": "Door with Roses",
+		"icon": "checkmark",
+		"x": 32015,
+		"y": 32034,
 		"z": 13
 	},
 	{
@@ -70,6 +91,13 @@
 		"z": 13
 	},
 	{
+		"description": "Rupture - Zao",
+		"icon": "star",
+		"x": 32079,
+		"y": 31315,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32086,
@@ -98,6 +126,20 @@
 		"z": 13
 	},
 	{
+		"description": "Portal to Mixed area",
+		"icon": "flag",
+		"x": 32101,
+		"y": 31922,
+		"z": 13
+	},
+	{
+		"description": "Vortex where?",
+		"icon": "?",
+		"x": 32103,
+		"y": 31403,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 32103,
@@ -109,6 +151,13 @@
 		"icon": "down",
 		"x": 32113,
 		"y": 31317,
+		"z": 13
+	},
+	{
+		"description": "Portal to Winter",
+		"icon": "flag",
+		"x": 32114,
+		"y": 32014,
 		"z": 13
 	},
 	{
@@ -126,10 +175,24 @@
 		"z": 13
 	},
 	{
+		"description": "To Vortex Hub",
+		"icon": "up",
+		"x": 32118,
+		"y": 31340,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32121,
 		"y": 31330,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32130,
+		"y": 32555,
 		"z": 13
 	},
 	{
@@ -175,10 +238,31 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32163,
+		"y": 31922,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32165,
+		"y": 32648,
+		"z": 13
+	},
+	{
 		"description": "NPC Gnome Trooper",
 		"icon": "star",
 		"x": 32169,
 		"y": 32649,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32170,
+		"y": 32567,
 		"z": 13
 	},
 	{
@@ -200,6 +284,13 @@
 		"icon": "flag",
 		"x": 32208,
 		"y": 32091,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32208,
+		"y": 32669,
 		"z": 13
 	},
 	{
@@ -228,6 +319,13 @@
 		"icon": "up",
 		"x": 32261,
 		"y": 32110,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32264,
+		"y": 32490,
 		"z": 13
 	},
 	{
@@ -267,9 +365,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32326,
+		"y": 32586,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32329,
 		"y": 31090,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32338,
+		"y": 32526,
 		"z": 13
 	},
 	{
@@ -308,6 +420,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "?",
+		"x": 32575,
+		"y": 32535,
+		"z": 13
+	},
+	{
 		"description": "To Mintwallin",
 		"icon": "down",
 		"x": 32577,
@@ -326,6 +445,20 @@
 		"icon": "flag",
 		"x": 32599,
 		"y": 31504,
+		"z": 13
+	},
+	{
+		"description": "DLs",
+		"icon": "red up",
+		"x": 32607,
+		"y": 31472,
+		"z": 13
+	},
+	{
+		"description": "DLs",
+		"icon": "red down",
+		"x": 32607,
+		"y": 31501,
 		"z": 13
 	},
 	{
@@ -379,6 +512,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32794,
+		"y": 32822,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32795,
 		"y": 32876,
@@ -406,10 +546,24 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32825,
+		"y": 31703,
+		"z": 13
+	},
+	{
 		"description": "To Draconia",
 		"icon": "up",
 		"x": 32826,
 		"y": 31560,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32840,
+		"y": 32822,
 		"z": 13
 	},
 	{
@@ -427,10 +581,24 @@
 		"z": 13
 	},
 	{
+		"description": "10",
+		"icon": "checkmark",
+		"x": 32846,
+		"y": 32333,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32849,
 		"y": 31890,
+		"z": 13
+	},
+	{
+		"description": "13",
+		"icon": "checkmark",
+		"x": 32849,
+		"y": 32368,
 		"z": 13
 	},
 	{
@@ -445,6 +613,13 @@
 		"icon": "checkmark",
 		"x": 32857,
 		"y": 31910,
+		"z": 13
+	},
+	{
+		"description": "14",
+		"icon": "checkmark",
+		"x": 32859,
+		"y": 32368,
 		"z": 13
 	},
 	{
@@ -465,7 +640,28 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 32871,
+		"y": 31900,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32871,
 		"y": 31902,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32872,
+		"y": 31908,
+		"z": 13
+	},
+	{
+		"description": "12",
+		"icon": "checkmark",
+		"x": 32874,
+		"y": 32365,
 		"z": 13
 	},
 	{
@@ -478,8 +674,50 @@
 	{
 		"description": "",
 		"icon": "checkmark",
+		"x": 32886,
+		"y": 31964,
+		"z": 13
+	},
+	{
+		"description": "11",
+		"icon": "checkmark",
+		"x": 32886,
+		"y": 32337,
+		"z": 13
+	},
+	{
+		"description": "7",
+		"icon": "checkmark",
+		"x": 32887,
+		"y": 32357,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
 		"x": 32891,
 		"y": 31893,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32891,
+		"y": 31917,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32892,
+		"y": 31952,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32901,
+		"y": 31972,
 		"z": 13
 	},
 	{
@@ -525,6 +763,27 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 32974,
+		"y": 32394,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32979,
+		"y": 32490,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32982,
+		"y": 32483,
+		"z": 13
+	},
+	{
 		"description": "Red crystal",
 		"icon": "checkmark",
 		"x": 32995,
@@ -560,6 +819,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33031,
+		"y": 32052,
+		"z": 13
+	},
+	{
 		"description": "Red crystal",
 		"icon": "checkmark",
 		"x": 33034,
@@ -578,6 +844,13 @@
 		"icon": "checkmark",
 		"x": 33039,
 		"y": 31858,
+		"z": 13
+	},
+	{
+		"description": "Silver",
+		"icon": "crossmark",
+		"x": 33040,
+		"y": 32037,
 		"z": 13
 	},
 	{
@@ -623,6 +896,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33080,
+		"y": 31081,
+		"z": 13
+	},
+	{
 		"description": "Wyrms / elder wyrms",
 		"icon": "red down",
 		"x": 33089,
@@ -648,6 +928,13 @@
 		"icon": "up",
 		"x": 33144,
 		"y": 31589,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33146,
+		"y": 31697,
 		"z": 13
 	},
 	{
@@ -722,6 +1009,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33297,
+		"y": 32860,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33310,
 		"y": 32379,
@@ -756,10 +1050,59 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33358,
+		"y": 31601,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33364,
+		"y": 31638,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33394,
+		"y": 31701,
+		"z": 13
+	},
+	{
+		"description": "West Teleport",
+		"icon": "flag",
+		"x": 33397,
+		"y": 31808,
+		"z": 13
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 33399,
 		"y": 31802,
+		"z": 13
+	},
+	{
+		"description": "North Teleport",
+		"icon": "flag",
+		"x": 33421,
+		"y": 31664,
+		"z": 13
+	},
+	{
+		"description": "Lord Azaram / Carlin",
+		"icon": "checkmark",
+		"x": 33424,
+		"y": 31486,
+		"z": 13
+	},
+	{
+		"description": "Nictors e Baeloc / GFB",
+		"icon": "checkmark",
+		"x": 33426,
+		"y": 31409,
 		"z": 13
 	},
 	{
@@ -777,10 +1120,31 @@
 		"z": 13
 	},
 	{
+		"description": "Duke Krule / Thais / GFB",
+		"icon": "checkmark",
+		"x": 33453,
+		"y": 31497,
+		"z": 13
+	},
+	{
+		"description": "Vlarkorth, yes SD",
+		"icon": "checkmark",
+		"x": 33456,
+		"y": 31409,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33526,
 		"y": 31255,
+		"z": 13
+	},
+	{
+		"description": "East Teleport",
+		"icon": "flag",
+		"x": 33558,
+		"y": 31774,
 		"z": 13
 	},
 	{
@@ -814,6 +1178,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33596,
+		"y": 32497,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33602,
 		"y": 31435,
 		"z": 13
@@ -823,6 +1194,20 @@
 		"icon": "flag",
 		"x": 33618,
 		"y": 32546,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33957,
+		"y": 31173,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33971,
+		"y": 31206,
 		"z": 13
 	}
 ]

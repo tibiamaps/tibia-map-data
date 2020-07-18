@@ -64,9 +64,23 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 32145,
+		"y": 31176,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32147,
 		"y": 31179,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32148,
+		"y": 31181,
 		"z": 2
 	},
 	{
@@ -74,6 +88,20 @@
 		"icon": "down",
 		"x": 32163,
 		"y": 31161,
+		"z": 2
+	},
+	{
+		"description": "Kesar the Younger (day)",
+		"icon": "checkmark",
+		"x": 32365,
+		"y": 32478,
+		"z": 2
+	},
+	{
+		"description": "Knight spells and training statues",
+		"icon": "star",
+		"x": 32394,
+		"y": 32826,
 		"z": 2
 	},
 	{
@@ -88,6 +116,13 @@
 		"icon": "up",
 		"x": 32417,
 		"y": 32778,
+		"z": 2
+	},
+	{
+		"description": "Onfroi (night)",
+		"icon": "checkmark",
+		"x": 32429,
+		"y": 32489,
 		"z": 2
 	},
 	{
@@ -141,6 +176,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33480,
+		"y": 31203,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33501,
 		"y": 31197,
@@ -148,9 +190,30 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33519,
+		"y": 31214,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33524,
+		"y": 31179,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33527,
 		"y": 31215,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33531,
+		"y": 31218,
 		"z": 2
 	},
 	{
@@ -196,6 +259,13 @@
 		"z": 2
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33595,
+		"y": 31225,
+		"z": 2
+	},
+	{
 		"description": "Insectoid monolith",
 		"icon": "star",
 		"x": 33602,
@@ -207,6 +277,13 @@
 		"icon": "down",
 		"x": 33606,
 		"y": 31229,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33608,
+		"y": 31223,
 		"z": 2
 	},
 	{

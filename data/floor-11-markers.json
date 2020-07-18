@@ -126,6 +126,13 @@
 		"z": 11
 	},
 	{
+		"description": "Vortex Realityquake Svargrond",
+		"icon": "star",
+		"x": 32112,
+		"y": 31391,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32114,
@@ -162,6 +169,13 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 32154,
+		"y": 31126,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32160,
 		"y": 31352,
@@ -186,6 +200,13 @@
 		"icon": "up",
 		"x": 32220,
 		"y": 31015,
+		"z": 11
+	},
+	{
+		"description": "Realityquake - Svargrond",
+		"icon": "star",
+		"x": 32226,
+		"y": 31344,
 		"z": 11
 	},
 	{
@@ -589,6 +610,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32636,
+		"y": 31465,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32646,
 		"y": 32110,
@@ -606,6 +634,20 @@
 		"icon": "up",
 		"x": 32715,
 		"y": 31896,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "skull",
+		"x": 32729,
+		"y": 31274,
+		"z": 11
+	},
+	{
+		"description": "Hydra",
+		"icon": "skull",
+		"x": 32739,
+		"y": 31324,
 		"z": 11
 	},
 	{
@@ -658,10 +700,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32808,
+		"y": 32611,
+		"z": 11
+	},
+	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32808,
 		"y": 32613,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32808,
+		"y": 32631,
 		"z": 11
 	},
 	{
@@ -686,10 +742,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32827,
+		"y": 32786,
+		"z": 11
+	},
+	{
 		"description": "Chest with The Peacock Ballad",
 		"icon": "bag",
 		"x": 32832,
 		"y": 32758,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32838,
+		"y": 32818,
 		"z": 11
 	},
 	{
@@ -707,6 +777,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32843,
+		"y": 32653,
+		"z": 11
+	},
+	{
 		"description": "Statue of the snake god",
 		"icon": "star",
 		"x": 32859,
@@ -721,10 +798,24 @@
 		"z": 11
 	},
 	{
+		"description": "Blazing Rose Room",
+		"icon": "checkmark",
+		"x": 32861,
+		"y": 32773,
+		"z": 11
+	},
+	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32862,
 		"y": 32557,
+		"z": 11
+	},
+	{
+		"description": "The Lily of Night room, Skull here",
+		"icon": "checkmark",
+		"x": 32862,
+		"y": 32746,
 		"z": 11
 	},
 	{
@@ -739,6 +830,13 @@
 		"icon": "?",
 		"x": 32881,
 		"y": 32527,
+		"z": 11
+	},
+	{
+		"description": "Diamond Blossom Room - Piece of Ebony",
+		"icon": "checkmark",
+		"x": 32881,
+		"y": 32792,
 		"z": 11
 	},
 	{
@@ -777,10 +875,31 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32922,
+		"y": 32743,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32923,
+		"y": 32769,
+		"z": 11
+	},
+	{
 		"description": "Spore",
 		"icon": "checkmark",
 		"x": 32928,
 		"y": 31928,
+		"z": 11
+	},
+	{
+		"description": "Knight and Paladin spells",
+		"icon": "star",
+		"x": 32931,
+		"y": 32074,
 		"z": 11
 	},
 	{
@@ -812,10 +931,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 32939,
+		"y": 32751,
+		"z": 11
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32941,
 		"y": 32077,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32943,
+		"y": 32791,
 		"z": 11
 	},
 	{
@@ -830,6 +963,13 @@
 		"icon": "checkmark",
 		"x": 32951,
 		"y": 31927,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32951,
+		"y": 32747,
 		"z": 11
 	},
 	{
@@ -926,6 +1066,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32998,
+		"y": 31877,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32999,
 		"y": 31611,
 		"z": 11
@@ -981,6 +1128,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33033,
+		"y": 32395,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33037,
 		"y": 32159,
@@ -991,6 +1145,13 @@
 		"icon": "flag",
 		"x": 33046,
 		"y": 32439,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33050,
+		"y": 31080,
 		"z": 11
 	},
 	{
@@ -1005,6 +1166,13 @@
 		"icon": "up",
 		"x": 33064,
 		"y": 31598,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33066,
+		"y": 31079,
 		"z": 11
 	},
 	{
@@ -1029,6 +1197,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33077,
+		"y": 31141,
+		"z": 11
+	},
+	{
 		"description": "Hidden pick hole (fire axe quest)",
 		"icon": "red down",
 		"x": 33081,
@@ -1044,9 +1219,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33092,
+		"y": 32074,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33092,
+		"y": 32314,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33093,
 		"y": 31778,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33096,
+		"y": 32087,
+		"z": 11
+	},
+	{
+		"description": "Altar",
+		"icon": "crossmark",
+		"x": 33096,
+		"y": 32266,
 		"z": 11
 	},
 	{
@@ -1072,6 +1275,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33120,
+		"y": 32156,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33122,
 		"y": 31254,
@@ -1079,9 +1289,72 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33128,
+		"y": 32250,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33129,
+		"y": 32118,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33130,
+		"y": 31846,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33134,
+		"y": 32016,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33143,
+		"y": 31893,
+		"z": 11
+	},
+	{
+		"description": "Pool of Blood",
+		"icon": "crossmark",
+		"x": 33149,
+		"y": 32437,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33150,
 		"y": 31595,
+		"z": 11
+	},
+	{
+		"description": "Campire for Hydra Egg",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 32394,
+		"z": 11
+	},
+	{
+		"description": "A Skull",
+		"icon": "checkmark",
+		"x": 33165,
+		"y": 32492,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33168,
+		"y": 32537,
 		"z": 11
 	},
 	{
@@ -1093,6 +1366,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33172,
+		"y": 32451,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33174,
+		"y": 32382,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33186,
 		"y": 31215,
@@ -1100,9 +1387,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33192,
+		"y": 32399,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33196,
 		"y": 31182,
+		"z": 11
+	},
+	{
+		"description": "Skulls on a Stonepile",
+		"icon": "crossmark",
+		"x": 33201,
+		"y": 32442,
 		"z": 11
 	},
 	{
@@ -1148,6 +1449,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33363,
+		"y": 31702,
+		"z": 11
+	},
+	{
 		"description": "Madareth",
 		"icon": "sword",
 		"x": 33365,
@@ -1159,6 +1467,13 @@
 		"icon": "down",
 		"x": 33370,
 		"y": 32616,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33379,
+		"y": 31701,
 		"z": 11
 	},
 	{
@@ -1185,8 +1500,64 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33424,
+		"y": 31568,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33424,
+		"y": 32265,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33439,
 		"y": 31808,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33443,
+		"y": 31575,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33447,
+		"y": 31555,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33454,
+		"y": 31530,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33456,
+		"y": 31568,
+		"z": 11
+	},
+	{
+		"description": "Fossilised Coral",
+		"icon": "!",
+		"x": 33458,
+		"y": 31178,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33472,
+		"y": 31561,
 		"z": 11
 	},
 	{
@@ -1194,6 +1565,34 @@
 		"icon": "up",
 		"x": 33489,
 		"y": 32806,
+		"z": 11
+	},
+	{
+		"description": "Obujos",
+		"icon": "up",
+		"x": 33499,
+		"y": 31246,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33502,
+		"y": 31283,
+		"z": 11
+	},
+	{
+		"description": "Anchor",
+		"icon": "flag",
+		"x": 33504,
+		"y": 31251,
+		"z": 11
+	},
+	{
+		"description": "Jaul",
+		"icon": "up",
+		"x": 33504,
+		"y": 31264,
 		"z": 11
 	},
 	{
@@ -1218,10 +1617,31 @@
 		"z": 11
 	},
 	{
+		"description": "Tanjis",
+		"icon": "up",
+		"x": 33524,
+		"y": 31240,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33535,
 		"y": 31744,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33546,
+		"y": 31293,
+		"z": 11
+	},
+	{
+		"description": "Jaul",
+		"icon": "star",
+		"x": 33558,
+		"y": 31282,
 		"z": 11
 	},
 	{
@@ -1236,6 +1656,13 @@
 		"icon": "lock",
 		"x": 33578,
 		"y": 31296,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "bag",
+		"x": 33632,
+		"y": 31259,
 		"z": 11
 	},
 	{
@@ -1254,6 +1681,13 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33649,
+		"y": 31261,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33889,
 		"y": 31196,
@@ -1267,10 +1701,52 @@
 		"z": 11
 	},
 	{
+		"description": "Portal to Goshnar's Greed",
+		"icon": "sword",
+		"x": 33937,
+		"y": 31217,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33955,
+		"y": 31184,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33958,
+		"y": 31201,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33970,
+		"y": 31222,
+		"z": 11
+	},
+	{
+		"description": "Exit to portal hub",
+		"icon": "flag",
+		"x": 33974,
+		"y": 31043,
+		"z": 11
+	},
+	{
 		"description": "Exit to Goshnar's Taint",
 		"icon": "flag",
 		"x": 34001,
 		"y": 31070,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34011,
+		"y": 31019,
 		"z": 11
 	},
 	{

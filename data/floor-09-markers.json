@@ -1,9 +1,30 @@
 [
 	{
+		"description": "To Banuta",
+		"icon": "flag",
+		"x": 31904,
+		"y": 32346,
+		"z": 9
+	},
+	{
+		"description": "Loom",
+		"icon": "checkmark",
+		"x": 31904,
+		"y": 32351,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 31909,
 		"y": 31187,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 31920,
+		"y": 32313,
 		"z": 9
 	},
 	{
@@ -65,8 +86,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 31962,
+		"y": 31378,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 31963,
 		"y": 31640,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 31963,
+		"y": 32328,
 		"z": 9
 	},
 	{
@@ -81,6 +116,13 @@
 		"icon": "up",
 		"x": 31968,
 		"y": 32558,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 31975,
+		"y": 32350,
 		"z": 9
 	},
 	{
@@ -130,6 +172,13 @@
 		"icon": "down",
 		"x": 32013,
 		"y": 32622,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32028,
+		"y": 31539,
 		"z": 9
 	},
 	{
@@ -204,6 +253,13 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 32156,
+		"y": 31126,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 32167,
 		"y": 31445,
@@ -221,6 +277,13 @@
 		"icon": "star",
 		"x": 32182,
 		"y": 32935,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32190,
+		"y": 31147,
 		"z": 9
 	},
 	{
@@ -322,6 +385,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32327,
+		"y": 31695,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Gnomegate",
 		"icon": "flag",
 		"x": 32330,
@@ -337,9 +407,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32351,
+		"y": 31653,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32354,
 		"y": 31065,
+		"z": 9
+	},
+	{
+		"description": "Bank Robbery",
+		"icon": "down",
+		"x": 32371,
+		"y": 32243,
 		"z": 9
 	},
 	{
@@ -575,6 +659,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32484,
+		"y": 31634,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32486,
 		"y": 32968,
@@ -617,6 +708,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32511,
+		"y": 32343,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32513,
 		"y": 31656,
@@ -634,6 +732,13 @@
 		"icon": "!",
 		"x": 32526,
 		"y": 31723,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32527,
+		"y": 32400,
 		"z": 9
 	},
 	{
@@ -743,9 +848,58 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32683,
+		"y": 31538,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32698,
+		"y": 32232,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32718,
 		"y": 31846,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32730,
+		"y": 31532,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32739,
+		"y": 31508,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32740,
+		"y": 31490,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32740,
+		"y": 32259,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32745,
+		"y": 31524,
 		"z": 9
 	},
 	{
@@ -774,6 +928,13 @@
 		"icon": "up",
 		"x": 32759,
 		"y": 31864,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32761,
+		"y": 31519,
 		"z": 9
 	},
 	{
@@ -889,6 +1050,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32825,
+		"y": 32773,
+		"z": 9
+	},
+	{
 		"description": "Cracks on the floor (old letter and strand of hair)",
 		"icon": "down",
 		"x": 32825,
@@ -966,6 +1134,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32878,
+		"y": 32762,
+		"z": 9
+	},
+	{
 		"description": "Levitate spot (face west)",
 		"icon": "up",
 		"x": 32881,
@@ -987,6 +1162,13 @@
 		"z": 9
 	},
 	{
+		"description": "Silver Chimes",
+		"icon": "checkmark",
+		"x": 32891,
+		"y": 32768,
+		"z": 9
+	},
+	{
 		"description": "Uniwheel",
 		"icon": "star",
 		"x": 32939,
@@ -998,6 +1180,13 @@
 		"icon": "checkmark",
 		"x": 32940,
 		"y": 32777,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32948,
+		"y": 31618,
 		"z": 9
 	},
 	{
@@ -1085,6 +1274,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32985,
+		"y": 32757,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Gnomegate",
 		"icon": "flag",
 		"x": 32986,
@@ -1120,10 +1316,31 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33003,
+		"y": 32459,
+		"z": 9
+	},
+	{
 		"description": "NPC Gnomission",
 		"icon": "mouth",
 		"x": 33006,
 		"y": 31889,
+		"z": 9
+	},
+	{
+		"description": "DS spawn",
+		"icon": "checkmark",
+		"x": 33006,
+		"y": 32467,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33009,
+		"y": 32477,
 		"z": 9
 	},
 	{
@@ -1183,6 +1400,13 @@
 		"z": 9
 	},
 	{
+		"description": "Shadow Bite Berries",
+		"icon": "star",
+		"x": 33067,
+		"y": 31985,
+		"z": 9
+	},
+	{
 		"description": "Hyaena’s maw (small ruby)",
 		"icon": "star",
 		"x": 33069,
@@ -1201,6 +1425,20 @@
 		"icon": "up",
 		"x": 33070,
 		"y": 31402,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33071,
+		"y": 31925,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33073,
+		"y": 31159,
 		"z": 9
 	},
 	{
@@ -1324,6 +1562,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33129,
+		"y": 31166,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33131,
 		"y": 31428,
@@ -1348,6 +1593,13 @@
 		"icon": "down",
 		"x": 33136,
 		"y": 31593,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33137,
+		"y": 31919,
 		"z": 9
 	},
 	{
@@ -1477,10 +1729,45 @@
 		"z": 9
 	},
 	{
+		"description": "Bony Rod",
+		"icon": "checkmark",
+		"x": 33213,
+		"y": 32082,
+		"z": 9
+	},
+	{
+		"description": "Yellow",
+		"icon": "star",
+		"x": 33219,
+		"y": 32099,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33222,
+		"y": 32354,
+		"z": 9
+	},
+	{
 		"description": "Hellgorak",
 		"icon": "sword",
 		"x": 33225,
 		"y": 31607,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33241,
+		"y": 32099,
+		"z": 9
+	},
+	{
+		"description": "Green Basin",
+		"icon": "star",
+		"x": 33261,
+		"y": 32084,
 		"z": 9
 	},
 	{
@@ -1506,6 +1793,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33291,
+		"y": 31306,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33296,
 		"y": 32587,
@@ -1519,10 +1813,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33297,
+		"y": 31290,
+		"z": 9
+	},
+	{
 		"description": "Tome of knowledge",
 		"icon": "star",
 		"x": 33306,
 		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33306,
+		"y": 31320,
 		"z": 9
 	},
 	{
@@ -1537,6 +1845,27 @@
 		"icon": "star",
 		"x": 33314,
 		"y": 31637,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33316,
+		"y": 31636,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33317,
+		"y": 31298,
+		"z": 9
+	},
+	{
+		"description": "Red Basin",
+		"icon": "star",
+		"x": 33319,
+		"y": 32091,
 		"z": 9
 	},
 	{
@@ -1558,6 +1887,13 @@
 		"icon": "star",
 		"x": 33328,
 		"y": 31861,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33329,
+		"y": 31333,
 		"z": 9
 	},
 	{
@@ -1596,6 +1932,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33358,
+		"y": 31635,
+		"z": 9
+	},
+	{
 		"description": "Mad Mage (spawn location)",
 		"icon": "star",
 		"x": 33364,
@@ -1607,6 +1950,13 @@
 		"icon": "up",
 		"x": 33365,
 		"y": 31938,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33376,
+		"y": 31664,
 		"z": 9
 	},
 	{
@@ -1642,6 +1992,13 @@
 		"icon": "sword",
 		"x": 33402,
 		"y": 32097,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33405,
+		"y": 32018,
 		"z": 9
 	},
 	{
@@ -1695,9 +2052,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33451,
+		"y": 31890,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33455,
 		"y": 31723,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33465,
+		"y": 31919,
 		"z": 9
 	},
 	{
@@ -1712,6 +2083,13 @@
 		"icon": "flag",
 		"x": 33481,
 		"y": 31452,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33492,
+		"y": 31953,
 		"z": 9
 	},
 	{
@@ -1744,6 +2122,48 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33530,
+		"y": 32386,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33531,
+		"y": 31410,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33531,
+		"y": 32341,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33539,
+		"y": 31440,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33540,
+		"y": 31411,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33542,
+		"y": 32372,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33546,
 		"y": 31625,
@@ -1751,9 +2171,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 33549,
+		"y": 31440,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33552,
 		"y": 31559,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33558,
+		"y": 31467,
 		"z": 9
 	},
 	{
@@ -1772,6 +2206,48 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33563,
+		"y": 32354,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33564,
+		"y": 31959,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33565,
+		"y": 31965,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33565,
+		"y": 32358,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33569,
+		"y": 32401,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33570,
+		"y": 31467,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33571,
 		"y": 31900,
@@ -1786,9 +2262,51 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 33578,
+		"y": 31465,
+		"z": 9
+	},
+	{
+		"description": "To Edron",
+		"icon": "flag",
+		"x": 33581,
+		"y": 31466,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33581,
+		"y": 32350,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33586,
+		"y": 32388,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33587,
 		"y": 31261,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33588,
+		"y": 31972,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33590,
+		"y": 31943,
 		"z": 9
 	},
 	{
@@ -1806,10 +2324,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33594,
+		"y": 31961,
+		"z": 9
+	},
+	{
 		"description": "Dark moon mirror",
 		"icon": "star",
 		"x": 33594,
 		"y": 32215,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33595,
+		"y": 31930,
 		"z": 9
 	},
 	{
@@ -1828,6 +2360,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33607,
+		"y": 32354,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33610,
 		"y": 31979,
@@ -1838,6 +2377,13 @@
 		"icon": "up",
 		"x": 33610,
 		"y": 32267,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33611,
+		"y": 32269,
 		"z": 9
 	},
 	{
@@ -1859,6 +2405,13 @@
 		"icon": "flag",
 		"x": 33619,
 		"y": 32304,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33621,
+		"y": 31979,
 		"z": 9
 	},
 	{
@@ -1926,9 +2479,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33663,
+		"y": 31985,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33752,
 		"y": 31083,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33786,
+		"y": 31024,
 		"z": 9
 	},
 	{
@@ -1996,6 +2563,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33856,
+		"y": 31814,
+		"z": 9
+	},
+	{
+		"description": "To Vengoth",
+		"icon": "flag",
+		"x": 33863,
+		"y": 31852,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "star",
 		"x": 33865,
 		"y": 31443,
@@ -2046,6 +2627,13 @@
 	{
 		"description": "",
 		"icon": "star",
+		"x": 33888,
+		"y": 31618,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "star",
 		"x": 33891,
 		"y": 31504,
 		"z": 9
@@ -2069,6 +2657,13 @@
 		"icon": "flag",
 		"x": 34002,
 		"y": 31075,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "cross",
+		"x": 34005,
+		"y": 31055,
 		"z": 9
 	},
 	{
