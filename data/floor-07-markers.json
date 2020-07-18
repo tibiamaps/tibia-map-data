@@ -1729,6 +1729,13 @@
 		"z": 7
 	},
 	{
+		"description": "To depot",
+		"icon": "bag",
+		"x": 32392,
+		"y": 32497,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 32399,
@@ -4774,13 +4781,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33165,
-		"y": 31825,
-		"z": 7
-	},
-	{
 		"description": "Passage to west side",
 		"icon": "down",
 		"x": 33165,
@@ -4792,13 +4792,6 @@
 		"icon": "up",
 		"x": 33166,
 		"y": 31329,
-		"z": 7
-	},
-	{
-		"description": "Underground Depot",
-		"icon": "down",
-		"x": 33167,
-		"y": 31811,
 		"z": 7
 	},
 	{
