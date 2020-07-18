@@ -7,7 +7,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Paint Door?",
 		"icon": "red down",
 		"x": 31983,
 		"y": 31999,
@@ -42,7 +42,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Portal to Arena",
 		"icon": "flag",
 		"x": 32041,
 		"y": 32022,
