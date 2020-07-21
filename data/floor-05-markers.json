@@ -702,6 +702,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33389,
+		"y": 32680,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33483,
 		"y": 31199,
 		"z": 5

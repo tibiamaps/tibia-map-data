@@ -840,6 +840,20 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33103,
+		"y": 32538,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33120,
+		"y": 32577,
+		"z": 6
+	},
+	{
 		"description": "NPC Ahmet",
 		"icon": "mouth",
 		"x": 33126,

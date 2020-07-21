@@ -1813,13 +1813,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33297,
-		"y": 31290,
-		"z": 9
-	},
-	{
 		"description": "Tome of knowledge",
 		"icon": "star",
 		"x": 33306,
@@ -1887,13 +1880,6 @@
 		"icon": "star",
 		"x": 33328,
 		"y": 31861,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33329,
-		"y": 31333,
 		"z": 9
 	},
 	{

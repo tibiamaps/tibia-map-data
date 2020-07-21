@@ -1627,13 +1627,6 @@
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32369,
-		"y": 32239,
-		"z": 7
-	},
-	{
-		"description": "Temple",
-		"icon": "cross",
-		"x": 32369,
 		"y": 32241,
 		"z": 7
 	},
@@ -1950,6 +1943,13 @@
 		"icon": "flag",
 		"x": 32440,
 		"y": 32971,
+		"z": 7
+	},
+	{
+		"description": "Towards Ancient Lion Knight",
+		"icon": "red down",
+		"x": 32441,
+		"y": 32468,
 		"z": 7
 	},
 	{
@@ -4844,13 +4844,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33174,
-		"y": 32529,
-		"z": 7
-	},
-	{
 		"description": "High class lizards",
 		"icon": "red up",
 		"x": 33175,
@@ -5117,24 +5110,10 @@
 		"z": 7
 	},
 	{
-		"description": "To the Temple",
-		"icon": "cross",
-		"x": 33212,
-		"y": 32454,
-		"z": 7
-	},
-	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33212,
 		"y": 32590,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "bag",
-		"x": 33213,
-		"y": 32452,
 		"z": 7
 	},
 	{
@@ -5170,13 +5149,6 @@
 		"icon": "up",
 		"x": 33216,
 		"y": 31756,
-		"z": 7
-	},
-	{
-		"description": "Magic Shop",
-		"icon": "bag",
-		"x": 33217,
-		"y": 32402,
 		"z": 7
 	},
 	{
