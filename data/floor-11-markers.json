@@ -1337,6 +1337,13 @@
 		"z": 11
 	},
 	{
+		"description": "To Lion Sanctum",
+		"icon": "down",
+		"x": 33159,
+		"y": 32335,
+		"z": 11
+	},
+	{
 		"description": "Campire for Hydra Egg",
 		"icon": "crossmark",
 		"x": 33160,

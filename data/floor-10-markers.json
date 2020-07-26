@@ -1561,6 +1561,13 @@
 		"z": 10
 	},
 	{
+		"description": "To Lion's Rock (exit)",
+		"icon": "flag",
+		"x": 33117,
+		"y": 32252,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33122,
