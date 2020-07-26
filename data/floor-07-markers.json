@@ -5551,6 +5551,13 @@
 		"z": 7
 	},
 	{
+		"description": "Tome of knowledge",
+		"icon": "star",
+		"x": 33265,
+		"y": 31129,
+		"z": 7
+	},
+	{
 		"description": "Dragons (level 40+)",
 		"icon": "?",
 		"x": 33265,
@@ -5681,6 +5688,13 @@
 		"icon": "star",
 		"x": 33276,
 		"y": 32737,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot (face south)",
+		"icon": "up",
+		"x": 33277,
+		"y": 31110,
 		"z": 7
 	},
 	{

@@ -1569,6 +1569,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33124,
+		"y": 32262,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33128,
 		"y": 32127,
