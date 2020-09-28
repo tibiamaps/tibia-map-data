@@ -5061,7 +5061,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the Shops",
+		"description": "To the shops",
 		"icon": "up",
 		"x": 33209,
 		"y": 31819,
@@ -6118,7 +6118,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Moon sculpture (use lit moon mirror at night)",
 		"icon": "cross",
 		"x": 33387,
 		"y": 32215,
@@ -6139,17 +6139,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33419,
 		"y": 32243,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33422,
-		"y": 32262,
 		"z": 7
 	},
 	{
@@ -6167,7 +6160,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dream bird tree (use gleaming starlight vial at night)",
 		"icon": "!",
 		"x": 33442,
 		"y": 32200,
@@ -6178,13 +6171,6 @@
 		"icon": "down",
 		"x": 33446,
 		"y": 31320,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33447,
-		"y": 32246,
 		"z": 7
 	},
 	{
@@ -6209,7 +6195,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dream bird tree (use gleaming starlight vial at night)",
 		"icon": "!",
 		"x": 33458,
 		"y": 32298,
@@ -6279,17 +6265,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33484,
 		"y": 32193,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33484,
-		"y": 32238,
 		"z": 7
 	},
 	{
@@ -6314,13 +6293,6 @@
 		"z": 7
 	},
 	{
-		"description": "Swan Feathers",
-		"icon": "spear",
-		"x": 33488,
-		"y": 32246,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33489,
@@ -6335,13 +6307,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33492,
-		"y": 32226,
-		"z": 7
-	},
-	{
 		"description": "Feyrist dark creatures",
 		"icon": "down",
 		"x": 33492,
@@ -6353,13 +6318,6 @@
 		"icon": "star",
 		"x": 33494,
 		"y": 32318,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33497,
-		"y": 32197,
 		"z": 7
 	},
 	{
@@ -6409,13 +6367,6 @@
 		"icon": "crossmark",
 		"x": 33508,
 		"y": 31180,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33509,
-		"y": 32224,
 		"z": 7
 	},
 	{
@@ -6482,7 +6433,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Moon sculpture (use lit moon mirror at night)",
 		"icon": "cross",
 		"x": 33518,
 		"y": 32193,
@@ -6532,13 +6483,6 @@
 	},
 	{
 		"description": "",
-		"icon": "star",
-		"x": 33523,
-		"y": 32212,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33523,
 		"y": 32548,
@@ -6573,7 +6517,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dream bird tree (use gleaming starlight vial at night)",
 		"icon": "!",
 		"x": 33530,
 		"y": 32187,
@@ -6643,7 +6587,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dream bird tree (use gleaming starlight vial at night)",
 		"icon": "!",
 		"x": 33541,
 		"y": 32244,
@@ -6678,7 +6622,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33545,
 		"y": 32156,
@@ -6727,7 +6671,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33547,
 		"y": 32206,
@@ -6776,7 +6720,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Moon sculpture (use lit moon mirror at night)",
 		"icon": "cross",
 		"x": 33550,
 		"y": 32219,
@@ -6822,13 +6766,6 @@
 		"icon": "down",
 		"x": 33554,
 		"y": 32211,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33554,
-		"y": 32221,
 		"z": 7
 	},
 	{
@@ -6902,7 +6839,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dream bird tree (use gleaming starlight vial at night)",
 		"icon": "!",
 		"x": 33561,
 		"y": 32257,
@@ -6951,7 +6888,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33567,
 		"y": 32244,
@@ -7210,7 +7147,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Moon sculpture (use lit moon mirror at night)",
 		"icon": "cross",
 		"x": 33596,
 		"y": 32183,
