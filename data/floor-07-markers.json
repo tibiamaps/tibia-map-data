@@ -84,6 +84,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 31998,
+		"y": 31570,
+		"z": 7
+	},
+	{
 		"description": "Wasps’ nest",
 		"icon": "up",
 		"x": 32000,
@@ -220,14 +227,7 @@
 		"description": "Boat to Tibia",
 		"icon": "flag",
 		"x": 32045,
-		"y": 31578,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32046,
-		"y": 31581,
+		"y": 31579,
 		"z": 7
 	},
 	{
@@ -1652,8 +1652,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Ward stone",
+		"icon": "star",
 		"x": 32382,
 		"y": 32611,
 		"z": 7
@@ -3563,6 +3563,13 @@
 		"z": 7
 	},
 	{
+		"description": "Orc Fortress",
+		"icon": "up",
+		"x": 32874,
+		"y": 31772,
+		"z": 7
+	},
+	{
 		"description": "Special task: Tiquanda’s Revenge",
 		"icon": "!",
 		"x": 32876,
@@ -4285,6 +4292,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33100,
+		"y": 32517,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33101,
 		"y": 32630,
@@ -4302,6 +4316,13 @@
 		"icon": "red down",
 		"x": 33102,
 		"y": 31811,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33102,
+		"y": 32499,
 		"z": 7
 	},
 	{
@@ -5824,13 +5845,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 33295,
-		"y": 31961,
-		"z": 7
-	},
-	{
 		"description": "Towards Cobra Bastion",
 		"icon": "up",
 		"x": 33301,
@@ -6570,13 +6584,6 @@
 		"icon": "flag",
 		"x": 33539,
 		"y": 32208,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33539,
-		"y": 32210,
 		"z": 7
 	},
 	{
