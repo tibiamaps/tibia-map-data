@@ -63,6 +63,13 @@
 		"z": 12
 	},
 	{
+		"description": "Hidden pick hole",
+		"icon": "red down",
+		"x": 32052,
+		"y": 32794,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32054,

@@ -2506,6 +2506,13 @@
 		"z": 8
 	},
 	{
+		"description": "Elven parchment",
+		"icon": "star",
+		"x": 33691,
+		"y": 32177,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33693,

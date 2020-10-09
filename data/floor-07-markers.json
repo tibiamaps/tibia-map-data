@@ -848,13 +848,6 @@
 	},
 	{
 		"description": "",
-		"icon": "lock",
-		"x": 32253,
-		"y": 31141,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "red left",
 		"x": 32256,
 		"y": 31124,
@@ -1012,13 +1005,6 @@
 		"icon": "checkmark",
 		"x": 32272,
 		"y": 32377,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "lock",
-		"x": 32276,
-		"y": 31141,
 		"z": 7
 	},
 	{
@@ -1432,13 +1418,6 @@
 		"icon": "flag",
 		"x": 32341,
 		"y": 31112,
-		"z": 7
-	},
-	{
-		"description": "Harbour",
-		"icon": "flag",
-		"x": 32341,
-		"y": 31116,
 		"z": 7
 	},
 	{
