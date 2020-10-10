@@ -952,6 +952,13 @@
 		"z": 10
 	},
 	{
+		"description": "To reward room",
+		"icon": "flag",
+		"x": 32826,
+		"y": 32249,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32827,

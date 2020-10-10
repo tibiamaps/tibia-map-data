@@ -3381,6 +3381,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards key 3700",
+		"icon": "down",
+		"x": 32841,
+		"y": 32231,
+		"z": 7
+	},
+	{
 		"description": "Hidden shovel hole (treasure hunt quest)",
 		"icon": "down",
 		"x": 32844,
@@ -3476,13 +3483,6 @@
 		"icon": "star",
 		"x": 32857,
 		"y": 32738,
-		"z": 7
-	},
-	{
-		"description": "To the western gate",
-		"icon": "up",
-		"x": 32860,
-		"y": 32126,
 		"z": 7
 	},
 	{

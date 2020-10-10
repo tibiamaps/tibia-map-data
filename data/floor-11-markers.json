@@ -742,6 +742,20 @@
 		"z": 11
 	},
 	{
+		"description": "Knight",
+		"icon": "red down",
+		"x": 32826,
+		"y": 32321,
+		"z": 11
+	},
+	{
+		"description": "Sorcerer",
+		"icon": "red down",
+		"x": 32826,
+		"y": 32345,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 32827,
@@ -760,6 +774,20 @@
 		"icon": "sword",
 		"x": 32838,
 		"y": 32818,
+		"z": 11
+	},
+	{
+		"description": "Druid",
+		"icon": "red down",
+		"x": 32841,
+		"y": 32327,
+		"z": 11
+	},
+	{
+		"description": "Paladin",
+		"icon": "red down",
+		"x": 32841,
+		"y": 32339,
 		"z": 11
 	},
 	{

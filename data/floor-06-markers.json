@@ -686,16 +686,9 @@
 		"z": 6
 	},
 	{
-		"description": "House of Wealth",
-		"icon": "$",
-		"x": 33015,
-		"y": 32053,
-		"z": 6
-	},
-	{
 		"description": "Bank",
 		"icon": "$",
-		"x": 33017,
+		"x": 33019,
 		"y": 32053,
 		"z": 6
 	},
