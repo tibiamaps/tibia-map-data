@@ -885,7 +885,7 @@
 		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 33860,
-		"y": 31832,
+		"y": 31830,
 		"z": 3
 	},
 	{
@@ -900,6 +900,13 @@
 		"icon": "down",
 		"x": 33885,
 		"y": 31485,
+		"z": 3
+	},
+	{
+		"description": "Fog to lower floor",
+		"icon": "sword",
+		"x": 33889,
+		"y": 31873,
 		"z": 3
 	},
 	{
@@ -1414,10 +1421,24 @@
 		"z": 4
 	},
 	{
+		"description": "Fog to lower floor",
+		"icon": "sword",
+		"x": 33829,
+		"y": 31879,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33868,
 		"y": 31503,
+		"z": 4
+	},
+	{
+		"description": "Exit to entrance",
+		"icon": "flag",
+		"x": 33881,
+		"y": 31872,
 		"z": 4
 	},
 	{
@@ -1533,21 +1554,21 @@
 		"z": 5
 	},
 	{
-		"description": "Sorcerer's gate",
+		"description": "Sorcerer’s gate",
 		"icon": "red left",
 		"x": 32055,
 		"y": 31890,
 		"z": 5
 	},
 	{
-		"description": "Food and Equipment",
+		"description": "Food and equipment",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31881,
 		"z": 5
 	},
 	{
-		"description": "Potions and Magic Store",
+		"description": "Potions and magic store",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31900,
@@ -1561,21 +1582,21 @@
 		"z": 5
 	},
 	{
-		"description": "Knight's gate",
+		"description": "Knight’s gate",
 		"icon": "red up",
 		"x": 32064,
 		"y": 31880,
 		"z": 5
 	},
 	{
-		"description": "Druid's gate",
+		"description": "Druid’s gate",
 		"icon": "red down",
 		"x": 32064,
 		"y": 31901,
 		"z": 5
 	},
 	{
-		"description": "To the temple and vocation doors",
+		"description": "To the temple and vocation ddors",
 		"icon": "cross",
 		"x": 32065,
 		"y": 31888,
@@ -1610,14 +1631,14 @@
 		"z": 5
 	},
 	{
-		"description": "To the bank, spells trainers, safe trade rooms, and Mr Morris",
+		"description": "To the bank, spell trainers, safe trade rooms, and Mr Morris",
 		"icon": "up",
 		"x": 32074,
 		"y": 31895,
 		"z": 5
 	},
 	{
-		"description": "Paladin's gate",
+		"description": "Paladin’s gate",
 		"icon": "red right",
 		"x": 32075,
 		"y": 31891,
@@ -2394,6 +2415,13 @@
 		"z": 5
 	},
 	{
+		"description": "Exit to entrance",
+		"icon": "flag",
+		"x": 33835,
+		"y": 31866,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33839,
@@ -2415,7 +2443,7 @@
 		"z": 5
 	},
 	{
-		"description": "NPC Nomad",
+		"description": "NPC Nomad (enhanced blessing)",
 		"icon": "mouth",
 		"x": 31940,
 		"y": 31304,
@@ -2527,7 +2555,7 @@
 		"z": 6
 	},
 	{
-		"description": "To Main",
+		"description": "To the Mainland",
 		"icon": "red left",
 		"x": 32048,
 		"y": 31878,
@@ -2594,6 +2622,13 @@
 		"icon": "up",
 		"x": 32078,
 		"y": 32609,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32087,
+		"y": 31120,
 		"z": 6
 	},
 	{
@@ -2877,6 +2912,13 @@
 		"z": 6
 	},
 	{
+		"description": "Special plum tree",
+		"icon": "star",
+		"x": 32550,
+		"y": 31828,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32556,
@@ -2961,6 +3003,13 @@
 		"z": 6
 	},
 	{
+		"description": "North-western gate",
+		"icon": "down",
+		"x": 32867,
+		"y": 32032,
+		"z": 6
+	},
+	{
 		"description": "Useful things",
 		"icon": "bag",
 		"x": 32886,
@@ -2989,7 +3038,7 @@
 		"z": 6
 	},
 	{
-		"description": "To the Knight and Paladin Trainer",
+		"description": "To the knight and paladin trainer",
 		"icon": "down",
 		"x": 32936,
 		"y": 32075,
@@ -3710,17 +3759,10 @@
 		"z": 6
 	},
 	{
-		"description": "Tools, Magic Equipment and Potions",
+		"description": "Tools, magic equipment, and potions",
 		"icon": "star",
 		"x": 33619,
 		"y": 31885,
-		"z": 6
-	},
-	{
-		"description": "Magic store upstairs",
-		"icon": "star",
-		"x": 33620,
-		"y": 31883,
 		"z": 6
 	},
 	{
@@ -4613,10 +4655,24 @@
 		"z": 7
 	},
 	{
+		"description": "To the Secret Library",
+		"icon": "flag",
+		"x": 32177,
+		"y": 31925,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32179,
 		"y": 31230,
+		"z": 7
+	},
+	{
+		"description": "To Thais",
+		"icon": "down",
+		"x": 32179,
+		"y": 32367,
 		"z": 7
 	},
 	{
@@ -4722,13 +4778,6 @@
 		"icon": "checkmark",
 		"x": 32214,
 		"y": 32077,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 32217,
-		"y": 31124,
 		"z": 7
 	},
 	{
@@ -4890,6 +4939,13 @@
 		"icon": "!",
 		"x": 32261,
 		"y": 31848,
+		"z": 7
+	},
+	{
+		"description": "To Fibula",
+		"icon": "down",
+		"x": 32261,
+		"y": 32384,
 		"z": 7
 	},
 	{
@@ -5152,7 +5208,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32309,
 		"y": 31251,
@@ -5173,14 +5229,14 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32317,
 		"y": 31275,
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32317,
 		"y": 31291,
@@ -5191,6 +5247,13 @@
 		"icon": "cross",
 		"x": 32317,
 		"y": 32825,
+		"z": 7
+	},
+	{
+		"description": "Baby seal",
+		"icon": "checkmark",
+		"x": 32318,
+		"y": 31238,
 		"z": 7
 	},
 	{
@@ -5404,10 +5467,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Harbour",
 		"icon": "flag",
 		"x": 32341,
-		"y": 31112,
+		"y": 31116,
 		"z": 7
 	},
 	{
@@ -5418,10 +5481,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Baby Seal",
 		"icon": "checkmark",
-		"x": 32343,
-		"y": 31217,
+		"x": 32342,
+		"y": 31218,
 		"z": 7
 	},
 	{
@@ -5446,13 +5509,6 @@
 		"z": 7
 	},
 	{
-		"description": "Depot, Post and Bank",
-		"icon": "lock",
-		"x": 32346,
-		"y": 32220,
-		"z": 7
-	},
-	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 32346,
@@ -5471,6 +5527,13 @@
 		"icon": "lock",
 		"x": 32347,
 		"y": 32226,
+		"z": 7
+	},
+	{
+		"description": "Boat to Meriana (peg leg)",
+		"icon": "flag",
+		"x": 32347,
+		"y": 32858,
 		"z": 7
 	},
 	{
@@ -5845,7 +5908,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the Druid Trainer",
+		"description": "To the druid trainer",
 		"icon": "up",
 		"x": 32427,
 		"y": 32211,
@@ -5957,6 +6020,13 @@
 		"z": 7
 	},
 	{
+		"description": "Horse (gray) spawn",
+		"icon": "checkmark",
+		"x": 32452,
+		"y": 32255,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32453,
@@ -5982,6 +6052,13 @@
 		"icon": "checkmark",
 		"x": 32458,
 		"y": 32308,
+		"z": 7
+	},
+	{
+		"description": "Horse (taupe) spawn",
+		"icon": "checkmark",
+		"x": 32461,
+		"y": 32265,
 		"z": 7
 	},
 	{
@@ -6066,13 +6143,6 @@
 		"icon": "down",
 		"x": 32476,
 		"y": 31099,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32476,
-		"y": 31154,
 		"z": 7
 	},
 	{
@@ -6315,7 +6385,7 @@
 	},
 	{
 		"description": "Smugglers",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32555,
 		"y": 32678,
 		"z": 7
@@ -6377,7 +6447,7 @@
 		"z": 7
 	},
 	{
-		"description": "Tavern and Spell Trainers",
+		"description": "Tavern and spell trainers",
 		"icon": "star",
 		"x": 32576,
 		"y": 32755,
@@ -6462,7 +6532,7 @@
 	},
 	{
 		"description": "Coryms",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32606,
 		"y": 32803,
 		"z": 7
@@ -6475,17 +6545,17 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32608,
-		"y": 31736,
-		"z": 7
-	},
-	{
 		"description": "Key 3302",
 		"icon": "star",
 		"x": 32610,
 		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "NPC Grumpy Stone",
+		"icon": "mouth",
+		"x": 32613,
+		"y": 31866,
 		"z": 7
 	},
 	{
@@ -6542,13 +6612,6 @@
 		"icon": "star",
 		"x": 32617,
 		"y": 32251,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32618,
-		"y": 31737,
 		"z": 7
 	},
 	{
@@ -6748,13 +6811,6 @@
 		"z": 7
 	},
 	{
-		"description": "Gazer Spectres",
-		"icon": "checkmark",
-		"x": 32670,
-		"y": 32652,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32671,
@@ -6777,7 +6833,7 @@
 	},
 	{
 		"description": "Swamp trolls",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32678,
 		"y": 32609,
 		"z": 7
@@ -6864,13 +6920,6 @@
 		"icon": "down",
 		"x": 32690,
 		"y": 32204,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32690,
-		"y": 32234,
 		"z": 7
 	},
 	{
@@ -7023,13 +7072,6 @@
 	{
 		"description": "To the Arena and Zoo Quarter",
 		"icon": "up",
-		"x": 32738,
-		"y": 31201,
-		"z": 7
-	},
-	{
-		"description": "To the Arena Quarter",
-		"icon": "up",
 		"x": 32740,
 		"y": 31202,
 		"z": 7
@@ -7039,13 +7081,6 @@
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 32183,
-		"z": 7
-	},
-	{
-		"description": "To the Alchemist Quarter",
-		"icon": "up",
-		"x": 32751,
-		"y": 31172,
 		"z": 7
 	},
 	{
@@ -7098,13 +7133,6 @@
 		"z": 7
 	},
 	{
-		"description": "To the Foreigner Quarter",
-		"icon": "up",
-		"x": 32765,
-		"y": 31250,
-		"z": 7
-	},
-	{
 		"description": "Trap holes",
 		"icon": "skull",
 		"x": 32766,
@@ -7127,7 +7155,7 @@
 	},
 	{
 		"description": "Tarantulas",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32777,
 		"y": 32685,
 		"z": 7
@@ -7137,13 +7165,6 @@
 		"icon": "up",
 		"x": 32778,
 		"y": 31150,
-		"z": 7
-	},
-	{
-		"description": "To the Cemetery Quarter",
-		"icon": "up",
-		"x": 32780,
-		"y": 31152,
 		"z": 7
 	},
 	{
@@ -7245,6 +7266,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32815,
+		"y": 31911,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32815,
+		"y": 31916,
+		"z": 7
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32816,
@@ -7294,13 +7329,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32827,
-		"y": 31958,
-		"z": 7
-	},
-	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -7336,24 +7364,10 @@
 		"z": 7
 	},
 	{
-		"description": "To the Magician Quarter",
-		"icon": "up",
-		"x": 32833,
-		"y": 31157,
-		"z": 7
-	},
-	{
 		"description": "To the Former Trade Quarter",
 		"icon": "up",
 		"x": 32833,
 		"y": 31261,
-		"z": 7
-	},
-	{
-		"description": "To the Former Trade Quarter",
-		"icon": "up",
-		"x": 32834,
-		"y": 31263,
 		"z": 7
 	},
 	{
@@ -7396,13 +7410,6 @@
 		"icon": "star",
 		"x": 32847,
 		"y": 32697,
-		"z": 7
-	},
-	{
-		"description": "To the Factory Quarter",
-		"icon": "up",
-		"x": 32848,
-		"y": 31246,
 		"z": 7
 	},
 	{
@@ -7490,10 +7497,10 @@
 		"z": 7
 	},
 	{
-		"description": "To the Sunken Quarter",
+		"description": "To Venore",
 		"icon": "up",
-		"x": 32864,
-		"y": 31201,
+		"x": 32867,
+		"y": 32032,
 		"z": 7
 	},
 	{
@@ -7511,17 +7518,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "!",
+		"description": "Midnight panther (spawn location)",
+		"icon": "star",
 		"x": 32872,
 		"y": 32717,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32873,
-		"y": 32518,
 		"z": 7
 	},
 	{
@@ -7564,13 +7564,6 @@
 		"icon": "flag",
 		"x": 32885,
 		"y": 32520,
-		"z": 7
-	},
-	{
-		"description": "Midnight panther (spawn location)",
-		"icon": "star",
-		"x": 32885,
-		"y": 32719,
 		"z": 7
 	},
 	{
@@ -7637,7 +7630,7 @@
 		"z": 7
 	},
 	{
-		"description": "To NPC Kais",
+		"description": "To NPC Kais (enhanced blessing)",
 		"icon": "down",
 		"x": 32910,
 		"y": 32515,
@@ -7700,14 +7693,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the southern gate",
-		"icon": "up",
-		"x": 32936,
-		"y": 32161,
-		"z": 7
-	},
-	{
-		"description": "",
+		"description": "Hydra spawn",
 		"icon": "skull",
 		"x": 32938,
 		"y": 32744,
@@ -7725,13 +7711,6 @@
 		"icon": "red down",
 		"x": 32949,
 		"y": 32534,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32960,
-		"y": 31744,
 		"z": 7
 	},
 	{
@@ -7764,7 +7743,7 @@
 	},
 	{
 		"description": "Terramites",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32975,
 		"y": 32686,
 		"z": 7
@@ -7778,7 +7757,7 @@
 	},
 	{
 		"description": "Dwarves",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32979,
 		"y": 32660,
 		"z": 7
@@ -7799,7 +7778,7 @@
 	},
 	{
 		"description": "Dragons",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32983,
 		"y": 32646,
 		"z": 7
@@ -7833,17 +7812,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Eastern entrance to Venore",
 		"icon": "up",
 		"x": 33004,
 		"y": 32095,
-		"z": 7
-	},
-	{
-		"description": "Eastern Entrance to Venore",
-		"icon": "up",
-		"x": 33004,
-		"y": 32100,
 		"z": 7
 	},
 	{
@@ -7994,10 +7966,10 @@
 		"z": 7
 	},
 	{
-		"description": "To glowing vortex",
+		"description": "Otherworld",
 		"icon": "red down",
-		"x": 33034,
-		"y": 31371,
+		"x": 33035,
+		"y": 31372,
 		"z": 7
 	},
 	{
@@ -8008,14 +7980,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "skull",
-		"x": 33037,
-		"y": 31372,
-		"z": 7
-	},
-	{
-		"description": "NK",
+		"description": "Nightmare Isles",
 		"icon": "skull",
 		"x": 33037,
 		"y": 32394,
@@ -8114,7 +8079,7 @@
 	},
 	{
 		"description": "Gnarlhounds",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33062,
 		"y": 31506,
 		"z": 7
@@ -8124,6 +8089,13 @@
 		"icon": "up",
 		"x": 33065,
 		"y": 32458,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33067,
+		"y": 31111,
 		"z": 7
 	},
 	{
@@ -8152,6 +8124,13 @@
 		"icon": "red down",
 		"x": 33072,
 		"y": 32760,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33074,
+		"y": 31107,
 		"z": 7
 	},
 	{
@@ -8303,7 +8282,7 @@
 	},
 	{
 		"description": "Gnarlhounds",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33104,
 		"y": 31388,
 		"z": 7
@@ -8344,6 +8323,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33115,
+		"y": 32483,
+		"z": 7
+	},
+	{
 		"description": "Dragon lair",
 		"icon": "up",
 		"x": 33116,
@@ -8359,7 +8345,7 @@
 	},
 	{
 		"description": "Gnarlhounds",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33119,
 		"y": 31456,
 		"z": 7
@@ -8376,13 +8362,6 @@
 		"icon": "star",
 		"x": 33123,
 		"y": 31723,
-		"z": 7
-	},
-	{
-		"description": "Depot",
-		"icon": "lock",
-		"x": 33125,
-		"y": 32837,
 		"z": 7
 	},
 	{
@@ -8450,7 +8429,7 @@
 	},
 	{
 		"description": "Lancer beetles",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33130,
 		"y": 31353,
 		"z": 7
@@ -8555,7 +8534,7 @@
 	},
 	{
 		"description": "Killer caimans",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33137,
 		"y": 31449,
 		"z": 7
@@ -8611,7 +8590,7 @@
 	},
 	{
 		"description": "Terramites",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33141,
 		"y": 31475,
 		"z": 7
@@ -8744,7 +8723,7 @@
 	},
 	{
 		"description": "Larvas / scarabs / ancient scarabs <hidden>",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33161,
 		"y": 32598,
 		"z": 7
@@ -8754,13 +8733,6 @@
 		"icon": "red down",
 		"x": 33163,
 		"y": 31636,
-		"z": 7
-	},
-	{
-		"description": "Otherworld",
-		"icon": "skull",
-		"x": 33163,
-		"y": 32638,
 		"z": 7
 	},
 	{
@@ -8785,7 +8757,7 @@
 		"z": 7
 	},
 	{
-		"description": "To glowing vortex",
+		"description": "To glowing vortex (Otherworld)",
 		"icon": "red down",
 		"x": 33167,
 		"y": 32638,
@@ -8904,13 +8876,6 @@
 		"z": 7
 	},
 	{
-		"description": "Offline training",
-		"icon": "sword",
-		"x": 33181,
-		"y": 31791,
-		"z": 7
-	},
-	{
 		"description": "Boat to Bounac (Order of the Lion)",
 		"icon": "flag",
 		"x": 33183,
@@ -8961,7 +8926,7 @@
 	},
 	{
 		"description": "Gnarlhounds",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33195,
 		"y": 31473,
 		"z": 7
@@ -9213,7 +9178,7 @@
 	},
 	{
 		"description": "Lancer beetles",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33223,
 		"y": 31397,
 		"z": 7
@@ -9335,6 +9300,13 @@
 		"icon": "down",
 		"x": 33236,
 		"y": 32576,
+		"z": 7
+	},
+	{
+		"description": "Blue nomads",
+		"icon": "star",
+		"x": 33238,
+		"y": 32569,
 		"z": 7
 	},
 	{
@@ -9464,8 +9436,8 @@
 		"z": 7
 	},
 	{
-		"description": "NK",
-		"icon": "skull",
+		"description": "Nightmare Isles",
+		"icon": "sword",
 		"x": 33254,
 		"y": 32660,
 		"z": 7
@@ -9821,13 +9793,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33301,
-		"y": 32776,
-		"z": 7
-	},
-	{
 		"description": "Rotworms / bog raiders",
 		"icon": "down",
 		"x": 33303,
@@ -10129,6 +10094,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 33422,
+		"y": 32262,
+		"z": 7
+	},
+	{
 		"description": "Feyrist dark creatures",
 		"icon": "down",
 		"x": 33424,
@@ -10154,6 +10126,13 @@
 		"icon": "down",
 		"x": 33446,
 		"y": 31320,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33447,
+		"y": 32246,
 		"z": 7
 	},
 	{
@@ -10256,6 +10235,13 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33484,
+		"y": 32238,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33485,
 		"y": 32531,
@@ -10276,6 +10262,13 @@
 		"z": 7
 	},
 	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33488,
+		"y": 32246,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33489,
@@ -10290,6 +10283,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 33492,
+		"y": 32226,
+		"z": 7
+	},
+	{
 		"description": "Feyrist dark creatures",
 		"icon": "down",
 		"x": 33492,
@@ -10301,6 +10301,13 @@
 		"icon": "star",
 		"x": 33494,
 		"y": 32318,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33497,
+		"y": 32197,
 		"z": 7
 	},
 	{
@@ -10350,6 +10357,13 @@
 		"icon": "crossmark",
 		"x": 33508,
 		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "Magic shop",
+		"icon": "star",
+		"x": 33509,
+		"y": 32224,
 		"z": 7
 	},
 	{
@@ -10462,6 +10476,13 @@
 		"icon": "sword",
 		"x": 33522,
 		"y": 32462,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33523,
+		"y": 32212,
 		"z": 7
 	},
 	{
@@ -10696,7 +10717,7 @@
 		"z": 7
 	},
 	{
-		"description": "Moon sculpture (use lit moon mirror at night)",
+		"description": "",
 		"icon": "cross",
 		"x": 33550,
 		"y": 32219,
@@ -10742,6 +10763,13 @@
 		"icon": "down",
 		"x": 33554,
 		"y": 32211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33554,
+		"y": 32221,
 		"z": 7
 	},
 	{
@@ -11012,7 +11040,7 @@
 	},
 	{
 		"description": "Entrance to digestion chamber",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33585,
 		"y": 31284,
 		"z": 7
@@ -11123,7 +11151,7 @@
 		"z": 7
 	},
 	{
-		"description": "Moon sculpture (use lit moon mirror at night)",
+		"description": "",
 		"icon": "cross",
 		"x": 33596,
 		"y": 32183,
@@ -12174,6 +12202,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33869,
+		"y": 31601,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33870,
 		"y": 31446,
@@ -12240,13 +12275,6 @@
 		"icon": "flag",
 		"x": 33894,
 		"y": 31470,
-		"z": 7
-	},
-	{
-		"description": "Harbour",
-		"icon": "flag",
-		"x": 33894,
-		"y": 31473,
 		"z": 7
 	},
 	{
@@ -12366,13 +12394,6 @@
 		"icon": "$",
 		"x": 33947,
 		"y": 31508,
-		"z": 7
-	},
-	{
-		"description": "To the Carpet",
-		"icon": "up",
-		"x": 33953,
-		"y": 31494,
 		"z": 7
 	},
 	{
@@ -12744,6 +12765,13 @@
 		"icon": "down",
 		"x": 32173,
 		"y": 31455,
+		"z": 8
+	},
+	{
+		"description": "King Zelos",
+		"icon": "flag",
+		"x": 32174,
+		"y": 31916,
 		"z": 8
 	},
 	{
@@ -13196,7 +13224,7 @@
 	},
 	{
 		"description": "Glowing vortex (teleport to Otherworld)",
-		"icon": "star",
+		"icon": "flag",
 		"x": 32520,
 		"y": 32020,
 		"z": 8
@@ -13462,6 +13490,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32757,
+		"y": 31172,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32759,
 		"y": 31864,
@@ -13479,6 +13514,20 @@
 		"icon": "up",
 		"x": 32770,
 		"y": 32341,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32772,
+		"y": 31240,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32775,
+		"y": 31200,
 		"z": 8
 	},
 	{
@@ -13521,6 +13570,13 @@
 		"icon": "crossmark",
 		"x": 32796,
 		"y": 31191,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32802,
+		"y": 31239,
 		"z": 8
 	},
 	{
@@ -13581,6 +13637,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32836,
+		"y": 31255,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32836,
 		"y": 31486,
@@ -13605,6 +13668,13 @@
 		"icon": "down",
 		"x": 32843,
 		"y": 32887,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32845,
+		"y": 31169,
 		"z": 8
 	},
 	{
@@ -13735,16 +13805,9 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
-		"x": 32991,
-		"y": 32721,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "star",
 		"x": 32991,
-		"y": 32724,
+		"y": 32721,
 		"z": 8
 	},
 	{
@@ -13903,6 +13966,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33067,
+		"y": 31111,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33070,
 		"y": 31402,
@@ -13990,6 +14060,13 @@
 		"icon": "up",
 		"x": 33103,
 		"y": 31388,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33108,
+		"y": 31120,
 		"z": 8
 	},
 	{
@@ -14298,6 +14375,41 @@
 		"icon": "crossmark",
 		"x": 33270,
 		"y": 31844,
+		"z": 8
+	},
+	{
+		"description": "Off",
+		"icon": "crossmark",
+		"x": 33276,
+		"y": 32444,
+		"z": 8
+	},
+	{
+		"description": "Off",
+		"icon": "crossmark",
+		"x": 33278,
+		"y": 32450,
+		"z": 8
+	},
+	{
+		"description": "On",
+		"icon": "star",
+		"x": 33281,
+		"y": 32442,
+		"z": 8
+	},
+	{
+		"description": "Off",
+		"icon": "crossmark",
+		"x": 33284,
+		"y": 32450,
+		"z": 8
+	},
+	{
+		"description": "On",
+		"icon": "star",
+		"x": 33286,
+		"y": 32444,
 		"z": 8
 	},
 	{
@@ -16339,7 +16451,7 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 32940,
 		"y": 32777,
 		"z": 9
@@ -16598,6 +16710,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33073,
+		"y": 31087,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33073,
 		"y": 31159,
@@ -16671,6 +16790,13 @@
 		"icon": "crossmark",
 		"x": 33102,
 		"y": 32316,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33108,
+		"y": 31120,
 		"z": 9
 	},
 	{
@@ -16895,6 +17021,13 @@
 		"icon": "checkmark",
 		"x": 33213,
 		"y": 32082,
+		"z": 9
+	},
+	{
+		"description": "Teleport to entrance",
+		"icon": "flag",
+		"x": 33218,
+		"y": 32389,
 		"z": 9
 	},
 	{
@@ -17214,9 +17347,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 33465,
-		"y": 31919,
+		"icon": "down",
+		"x": 33464,
+		"y": 31920,
 		"z": 9
 	},
 	{
@@ -17235,8 +17368,8 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 33492,
+		"icon": "down",
+		"x": 33491,
 		"y": 31953,
 		"z": 9
 	},
@@ -17270,23 +17403,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33530,
-		"y": 32386,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "red right",
 		"x": 33531,
 		"y": 31410,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33531,
-		"y": 32341,
 		"z": 9
 	},
 	{
@@ -17301,13 +17420,6 @@
 		"icon": "red left",
 		"x": 33540,
 		"y": 31411,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33542,
-		"y": 32372,
 		"z": 9
 	},
 	{
@@ -17354,13 +17466,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33563,
-		"y": 32354,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 33564,
 		"y": 31959,
@@ -17371,20 +17476,6 @@
 		"icon": "checkmark",
 		"x": 33565,
 		"y": 31965,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33565,
-		"y": 32358,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33569,
-		"y": 32401,
 		"z": 9
 	},
 	{
@@ -17420,20 +17511,6 @@
 		"icon": "flag",
 		"x": 33581,
 		"y": 31466,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33581,
-		"y": 32350,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33586,
-		"y": 32388,
 		"z": 9
 	},
 	{
@@ -17504,13 +17581,6 @@
 		"icon": "up",
 		"x": 33607,
 		"y": 31785,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33607,
-		"y": 32354,
 		"z": 9
 	},
 	{
@@ -17676,6 +17746,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33849,
+		"y": 31440,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33852,
 		"y": 31442,
@@ -17739,6 +17816,20 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33865,
+		"y": 31494,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33869,
+		"y": 31473,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33869,
 		"y": 31519,
@@ -17760,6 +17851,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33879,
+		"y": 31497,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "star",
 		"x": 33879,
 		"y": 31545,
@@ -17770,6 +17868,13 @@
 		"icon": "red up",
 		"x": 33884,
 		"y": 31510,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33886,
+		"y": 31450,
 		"z": 9
 	},
 	{
@@ -17788,9 +17893,30 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33895,
+		"y": 31438,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33901,
+		"y": 31495,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33903,
 		"y": 31623,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33911,
+		"y": 31480,
 		"z": 9
 	},
 	{
@@ -18029,6 +18155,13 @@
 		"icon": "down",
 		"x": 32241,
 		"y": 31045,
+		"z": 10
+	},
+	{
+		"description": "NPC A Restless Soul",
+		"icon": "mouth",
+		"x": 32257,
+		"y": 31101,
 		"z": 10
 	},
 	{
@@ -18901,20 +19034,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32919,
-		"y": 32764,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32940,
-		"y": 32727,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "red down",
 		"x": 32943,
 		"y": 32276,
@@ -18991,13 +19110,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32980,
-		"y": 32728,
-		"z": 10
-	},
-	{
 		"description": "Ritual figurine",
 		"icon": "star",
 		"x": 32982,
@@ -19006,7 +19118,7 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 32984,
 		"y": 32772,
 		"z": 10
@@ -19037,13 +19149,6 @@
 		"icon": "checkmark",
 		"x": 32991,
 		"y": 32463,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32991,
-		"y": 32741,
 		"z": 10
 	},
 	{
@@ -19371,13 +19476,6 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33106,
-		"y": 31079,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
 		"x": 33109,
 		"y": 31078,
 		"z": 10
@@ -19523,6 +19621,13 @@
 		"z": 10
 	},
 	{
+		"description": "Purple nightshade blossom",
+		"icon": "star",
+		"x": 33192,
+		"y": 32388,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33192,
@@ -19539,8 +19644,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33222,
-		"y": 32353,
+		"x": 33221,
+		"y": 32354,
 		"z": 10
 	},
 	{
@@ -19622,7 +19727,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33350,
 		"y": 31671,
 		"z": 10
@@ -19643,7 +19748,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33378,
 		"y": 31699,
 		"z": 10
@@ -19758,13 +19863,6 @@
 		"icon": "sword",
 		"x": 33506,
 		"y": 32229,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33508,
-		"y": 32379,
 		"z": 10
 	},
 	{
@@ -19887,13 +19985,6 @@
 		"z": 10
 	},
 	{
-		"description": "To Edron",
-		"icon": "star",
-		"x": 33601,
-		"y": 31441,
-		"z": 10
-	},
-	{
 		"description": "to Edron",
 		"icon": "flag",
 		"x": 33602,
@@ -19958,6 +20049,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33622,
+		"y": 32379,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33623,
 		"y": 31983,
@@ -20006,41 +20104,6 @@
 		"z": 10
 	},
 	{
-		"description": "Claustrophobic Inferno (Goshnar's Malice)",
-		"icon": "sword",
-		"x": 33635,
-		"y": 31422,
-		"z": 10
-	},
-	{
-		"description": "Rotten Wasteland (Goshnar's Hatred)",
-		"icon": "sword",
-		"x": 33635,
-		"y": 31424,
-		"z": 10
-	},
-	{
-		"description": "Ebb and Flow (Goshnar's Spite)",
-		"icon": "sword",
-		"x": 33635,
-		"y": 31426,
-		"z": 10
-	},
-	{
-		"description": "Furious Crater (Goshnar's Cruelty)",
-		"icon": "sword",
-		"x": 33635,
-		"y": 31428,
-		"z": 10
-	},
-	{
-		"description": "The Mirrored Nightmare (Goshnar's Greed)",
-		"icon": "sword",
-		"x": 33635,
-		"y": 31430,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33637,
@@ -20048,7 +20111,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "To Vengoth",
 		"icon": "flag",
 		"x": 33649,
 		"y": 31438,
@@ -20209,14 +20272,14 @@
 		"z": 11
 	},
 	{
-		"description": "To Vortex Hub",
+		"description": "To Vortex hub",
 		"icon": "down",
 		"x": 32111,
 		"y": 31362,
 		"z": 11
 	},
 	{
-		"description": "Vortex Realityquake Svargrond",
+		"description": "Glowing vortex (Svargrond entrance/exit)",
 		"icon": "star",
 		"x": 32112,
 		"y": 31391,
@@ -20230,8 +20293,8 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "red down",
+		"description": "To Anomaly/Realityquake (Darama/Svargrond)",
+		"icon": "down",
 		"x": 32119,
 		"y": 31382,
 		"z": 11
@@ -20272,15 +20335,22 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Entrance to vortex hub",
+		"icon": "star",
 		"x": 32162,
 		"y": 31327,
 		"z": 11
 	},
 	{
-		"description": "Teleport to ??? (green vortex)",
-		"icon": "star",
+		"description": "Wall change Svargrond",
+		"icon": "!",
+		"x": 32177,
+		"y": 31359,
+		"z": 11
+	},
+	{
+		"description": "Emergency exit",
+		"icon": "red left",
 		"x": 32187,
 		"y": 31352,
 		"z": 11
@@ -20293,14 +20363,14 @@
 		"z": 11
 	},
 	{
-		"description": "Realityquake - Svargrond",
+		"description": "Puzzle Realityquake - Svargrond",
 		"icon": "star",
 		"x": 32226,
 		"y": 31344,
 		"z": 11
 	},
 	{
-		"description": "Teleport to Foreshock/Aftershock/Realityquake waiting room",
+		"description": "Boss Realityquake - Svargrond",
 		"icon": "star",
 		"x": 32232,
 		"y": 31359,
@@ -20993,20 +21063,6 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32922,
-		"y": 32743,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32923,
-		"y": 32769,
-		"z": 11
-	},
-	{
 		"description": "Spore",
 		"icon": "checkmark",
 		"x": 32928,
@@ -21036,7 +21092,7 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 32937,
 		"y": 32752,
 		"z": 11
@@ -21431,6 +21487,13 @@
 		"icon": "red up",
 		"x": 33134,
 		"y": 32016,
+		"z": 11
+	},
+	{
+		"description": "Purple Nightshade Blossom",
+		"icon": "star",
+		"x": 33141,
+		"y": 32359,
 		"z": 11
 	},
 	{
@@ -21945,13 +22008,6 @@
 		"z": 12
 	},
 	{
-		"description": "Hidden pick hole",
-		"icon": "red down",
-		"x": 32052,
-		"y": 32794,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32054,
@@ -21966,8 +22022,8 @@
 		"z": 12
 	},
 	{
-		"description": "Vortex Where?",
-		"icon": "?",
+		"description": "Emergency exit",
+		"icon": "red right",
 		"x": 32078,
 		"y": 31363,
 		"z": 12
@@ -21987,17 +22043,17 @@
 		"z": 12
 	},
 	{
+		"description": "Puzzle Anomaly - Darama",
+		"icon": "star",
+		"x": 32092,
+		"y": 31326,
+		"z": 12
+	},
+	{
 		"description": "Demon spawn",
 		"icon": "!",
 		"x": 32095,
 		"y": 31100,
-		"z": 12
-	},
-	{
-		"description": "To Anomaly pre-boss",
-		"icon": "flag",
-		"x": 32095,
-		"y": 31326,
 		"z": 12
 	},
 	{
@@ -22008,13 +22064,6 @@
 		"z": 12
 	},
 	{
-		"description": "Anomaly - Ankrahmun",
-		"icon": "star",
-		"x": 32103,
-		"y": 31326,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32104,
@@ -22022,7 +22071,7 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport to Anomaly waiting room",
+		"description": "Boss Anomaly - Darama",
 		"icon": "star",
 		"x": 32106,
 		"y": 31329,
@@ -22036,15 +22085,15 @@
 		"z": 12
 	},
 	{
-		"description": "Towards Anomaly",
-		"icon": "red up",
+		"description": "To Anomaly (Darama boss)",
+		"icon": "up",
 		"x": 32111,
 		"y": 31362,
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "To Vortex hub",
+		"icon": "up",
 		"x": 32114,
 		"y": 31347,
 		"z": 12
@@ -22106,7 +22155,7 @@
 		"z": 12
 	},
 	{
-		"description": "Vortex Ankrahmun Anomaly",
+		"description": "Glowing vortex (Darama entrance/exit)",
 		"icon": "star",
 		"x": 32129,
 		"y": 31359,
@@ -22120,14 +22169,14 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "To Realityquake (Svargrond boss)",
 		"icon": "up",
 		"x": 32140,
 		"y": 31386,
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "To Vortex hub",
 		"icon": "up",
 		"x": 32143,
 		"y": 31345,
@@ -22687,13 +22736,6 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32953,
-		"y": 32742,
-		"z": 12
-	},
-	{
 		"description": "Arachir",
 		"icon": "star",
 		"x": 32965,
@@ -22709,13 +22751,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32973,
-		"y": 32776,
-		"z": 12
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32974,
 		"y": 32393,
@@ -22723,16 +22758,9 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
-		"x": 32979,
-		"y": 32738,
-		"z": 12
-	},
-	{
-		"description": "",
 		"icon": "star",
 		"x": 32979,
-		"y": 32740,
+		"y": 32738,
 		"z": 12
 	},
 	{
@@ -23072,14 +23100,14 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "To Ascending Ferumbras",
 		"icon": "down",
 		"x": 33330,
 		"y": 31371,
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "To Ascending Ferumbras",
 		"icon": "down",
 		"x": 33359,
 		"y": 31451,
@@ -23492,7 +23520,7 @@
 		"z": 13
 	},
 	{
-		"description": "Rupture - Zao",
+		"description": "Puzzle Rupture - Zao",
 		"icon": "star",
 		"x": 32079,
 		"y": 31315,
@@ -23513,7 +23541,7 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to Rupture waiting room",
+		"description": "Boss Rupture - Zao",
 		"icon": "star",
 		"x": 32089,
 		"y": 31319,
@@ -23562,7 +23590,7 @@
 		"z": 13
 	},
 	{
-		"description": "Glowing vortex (teleport to exit)",
+		"description": "Glowing vortex (Zao entrance/exit)",
 		"icon": "star",
 		"x": 32115,
 		"y": 31355,
@@ -23576,14 +23604,14 @@
 		"z": 13
 	},
 	{
-		"description": "To Vortex Hub",
+		"description": "To Vortex hub",
 		"icon": "up",
 		"x": 32118,
 		"y": 31340,
 		"z": 13
 	},
 	{
-		"description": "To Rupture - Zao",
+		"description": "To Rupture (Zao boss)",
 		"icon": "down",
 		"x": 32121,
 		"y": 31330,
@@ -24423,7 +24451,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "To Ascending Ferumbras",
 		"icon": "down",
 		"x": 33324,
 		"y": 31467,
@@ -24437,7 +24465,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "To Ascending Ferumbras",
 		"icon": "up",
 		"x": 33346,
 		"y": 31374,
@@ -24745,17 +24773,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "To Rupture (Zao boss)",
 		"icon": "up",
 		"x": 32113,
 		"y": 31317,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 32115,
-		"y": 30996,
 		"z": 14
 	},
 	{
@@ -24868,13 +24889,6 @@
 		"icon": "sword",
 		"x": 32207,
 		"y": 31370,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 32209,
-		"y": 31026,
 		"z": 14
 	},
 	{
@@ -25327,13 +25341,6 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
-		"x": 33048,
-		"y": 32941,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33050,
 		"y": 32455,
@@ -25351,104 +25358,6 @@
 		"icon": "checkmark",
 		"x": 33056,
 		"y": 32393,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33066,
-		"y": 32927,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33091,
-		"y": 32862,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33095,
-		"y": 32915,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33097,
-		"y": 32966,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33102,
-		"y": 32891,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33104,
-		"y": 32943,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33111,
-		"y": 32997,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33123,
-		"y": 32862,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33124,
-		"y": 32970,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33126,
-		"y": 32986,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33130,
-		"y": 32944,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33137,
-		"y": 32890,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33147,
-		"y": 33002,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33151,
-		"y": 32967,
 		"z": 14
 	},
 	{
@@ -25487,10 +25396,24 @@
 		"z": 14
 	},
 	{
-		"description": "Teleport",
+		"description": "Grounds of Damnation / Shulgrax / Tafariel",
 		"icon": "flag",
 		"x": 33288,
 		"y": 32353,
+		"z": 14
+	},
+	{
+		"description": "Grounds of Plague / Plagirath / Verminor",
+		"icon": "flag",
+		"x": 33292,
+		"y": 32322,
+		"z": 14
+	},
+	{
+		"description": "Grounds of Despair / Tarbaz / Pumin",
+		"icon": "flag",
+		"x": 33297,
+		"y": 32403,
 		"z": 14
 	},
 	{
@@ -25502,16 +25425,37 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33309,
+		"y": 32375,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33320,
 		"y": 32681,
 		"z": 14
 	},
 	{
-		"description": "Teleport",
+		"description": "To Ascending Ferumbras",
 		"icon": "flag",
 		"x": 33324,
 		"y": 31372,
+		"z": 14
+	},
+	{
+		"description": "Grounds of Undeath / Ragiaz / Ashfalor",
+		"icon": "flag",
+		"x": 33325,
+		"y": 32400,
+		"z": 14
+	},
+	{
+		"description": "Grounds of Deceit / Zamulosh / Bazir",
+		"icon": "flag",
+		"x": 33328,
+		"y": 32321,
 		"z": 14
 	},
 	{
@@ -25529,10 +25473,24 @@
 		"z": 14
 	},
 	{
+		"description": "Grounds of Fire / Mazoran / Infernatil",
+		"icon": "flag",
+		"x": 33355,
+		"y": 32336,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33355,
 		"y": 32680,
+		"z": 14
+	},
+	{
+		"description": "Grounds of Destruction / Razzagorn / Apocalypse",
+		"icon": "flag",
+		"x": 33356,
+		"y": 32366,
 		"z": 14
 	},
 	{
@@ -26278,13 +26236,6 @@
 		"z": 14
 	},
 	{
-		"description": "E",
-		"icon": "star",
-		"x": 33881,
-		"y": 32174,
-		"z": 14
-	},
-	{
 		"description": "First room (use explosive barrel)",
 		"icon": "crossmark",
 		"x": 33882,
@@ -26306,13 +26257,6 @@
 		"z": 14
 	},
 	{
-		"description": "Location C (use gnome trignometre)",
-		"icon": "crossmark",
-		"x": 33911,
-		"y": 32191,
-		"z": 14
-	},
-	{
 		"description": "Second room (use explosive barrel)",
 		"icon": "crossmark",
 		"x": 33913,
@@ -26327,9 +26271,9 @@
 		"z": 14
 	},
 	{
-		"description": "C",
-		"icon": "star",
-		"x": 33916,
+		"description": "Location C (use gnome trignometre)",
+		"icon": "crossmark",
+		"x": 33915,
 		"y": 32180,
 		"z": 14
 	},
@@ -26352,13 +26296,6 @@
 		"icon": "crossmark",
 		"x": 33926,
 		"y": 32144,
-		"z": 14
-	},
-	{
-		"description": "A",
-		"icon": "star",
-		"x": 33926,
-		"y": 32147,
 		"z": 14
 	},
 	{
@@ -26446,13 +26383,6 @@
 		"z": 14
 	},
 	{
-		"description": "B",
-		"icon": "star",
-		"x": 33973,
-		"y": 32145,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "skull",
 		"x": 33973,
@@ -26474,13 +26404,6 @@
 		"z": 14
 	},
 	{
-		"description": "Old Gate",
-		"icon": "flag",
-		"x": 33980,
-		"y": 32177,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 33982,
@@ -26492,13 +26415,6 @@
 		"icon": "flag",
 		"x": 33982,
 		"y": 32234,
-		"z": 14
-	},
-	{
-		"description": "Lava pump",
-		"icon": "star",
-		"x": 33991,
-		"y": 32262,
 		"z": 14
 	},
 	{
@@ -26541,13 +26457,6 @@
 		"icon": "star",
 		"x": 34026,
 		"y": 32246,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 34028,
-		"y": 32245,
 		"z": 14
 	},
 	{
@@ -26604,6 +26513,13 @@
 		"icon": "crossmark",
 		"x": 32211,
 		"y": 32531,
+		"z": 15
+	},
+	{
+		"description": "The Nightmare Beast",
+		"icon": "sword",
+		"x": 32212,
+		"y": 32072,
 		"z": 15
 	},
 	{
@@ -27323,8 +27239,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33546,
-		"y": 32238,
+		"x": 33541,
+		"y": 32245,
 		"z": 15
 	},
 	{
@@ -27338,7 +27254,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33552,
-		"y": 32202,
+		"y": 32203,
 		"z": 15
 	},
 	{
