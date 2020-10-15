@@ -4375,8 +4375,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
 		"x": 32090,
 		"y": 31247,
 		"z": 7
@@ -4697,6 +4697,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32197,
+		"y": 32376,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32198,
@@ -4830,6 +4837,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32241,
+		"y": 32292,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 32244,
@@ -4855,6 +4869,13 @@
 		"icon": "star",
 		"x": 32252,
 		"y": 31717,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32255,
+		"y": 32725,
 		"z": 7
 	},
 	{
@@ -4974,6 +4995,13 @@
 		"icon": "up",
 		"x": 32269,
 		"y": 31353,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32269,
+		"y": 31659,
 		"z": 7
 	},
 	{
@@ -6419,6 +6447,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32593,
+		"y": 32830,
+		"z": 7
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32595,
@@ -6458,6 +6493,13 @@
 		"icon": "flag",
 		"x": 32601,
 		"y": 31875,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32605,
+		"y": 31721,
 		"z": 7
 	},
 	{
@@ -6804,6 +6846,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32683,
+		"y": 31907,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32684,
@@ -7000,10 +7049,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
 		"x": 32745,
-		"y": 32183,
+		"y": 32182,
 		"z": 7
 	},
 	{
@@ -7284,6 +7333,13 @@
 		"icon": "up",
 		"x": 32833,
 		"y": 31155,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32833,
+		"y": 31164,
 		"z": 7
 	},
 	{
@@ -9051,6 +9107,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33220,
+		"y": 32753,
+		"z": 7
+	},
+	{
 		"description": "Old Fortress",
 		"icon": "up",
 		"x": 33221,
@@ -9548,6 +9611,13 @@
 		"z": 7
 	},
 	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33275,
+		"y": 31711,
+		"z": 7
+	},
+	{
 		"description": "Digging spot (Gold Digger achievement)",
 		"icon": "star",
 		"x": 33275,
@@ -9790,6 +9860,13 @@
 		"icon": "flag",
 		"x": 33328,
 		"y": 31351,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33331,
+		"y": 32034,
 		"z": 7
 	},
 	{
@@ -10812,6 +10889,13 @@
 		"icon": "up",
 		"x": 33567,
 		"y": 31038,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33567,
+		"y": 31951,
 		"z": 7
 	},
 	{
@@ -12198,6 +12282,13 @@
 		"icon": "up",
 		"x": 33900,
 		"y": 31511,
+		"z": 7
+	},
+	{
+		"description": "Omnious Cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33901,
+		"y": 31592,
 		"z": 7
 	},
 	{
