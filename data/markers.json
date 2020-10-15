@@ -267,23 +267,9 @@
 	},
 	{
 		"description": "",
-		"icon": "star",
-		"x": 32145,
-		"y": 31176,
-		"z": 2
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32147,
-		"y": 31179,
-		"z": 2
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32148,
-		"y": 31181,
+		"y": 31180,
 		"z": 2
 	},
 	{
@@ -4144,13 +4130,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32019,
-		"y": 31294,
-		"z": 7
-	},
-	{
 		"description": "To portals",
 		"icon": "down",
 		"x": 32019,
@@ -4768,13 +4747,6 @@
 	},
 	{
 		"description": "",
-		"icon": "cross",
-		"x": 32213,
-		"y": 31135,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 32214,
 		"y": 32077,
@@ -4886,13 +4858,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "red left",
-		"x": 32256,
-		"y": 31124,
-		"z": 7
-	},
-	{
 		"description": "NPC Buddel",
 		"icon": "flag",
 		"x": 32256,
@@ -4911,20 +4876,6 @@
 		"icon": "flag",
 		"x": 32256,
 		"y": 32244,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32256,
-		"y": 32725,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32259,
-		"y": 32262,
 		"z": 7
 	},
 	{
@@ -5138,13 +5089,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "$",
-		"x": 32299,
-		"y": 31134,
-		"z": 7
-	},
-	{
 		"description": "Sorcerer spells and Magic Training",
 		"icon": "star",
 		"x": 32299,
@@ -5198,13 +5142,6 @@
 		"icon": "flag",
 		"x": 32306,
 		"y": 32868,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "bag",
-		"x": 32308,
-		"y": 31132,
 		"z": 7
 	},
 	{
@@ -5359,13 +5296,6 @@
 		"icon": "star",
 		"x": 32328,
 		"y": 32529,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32330,
-		"y": 31046,
 		"z": 7
 	},
 	{
@@ -6623,13 +6553,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32620,
-		"y": 31867,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "red right",
 		"x": 32623,
 		"y": 31689,
@@ -6664,8 +6587,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "NPC Demon Mother (Demons Lullaby event)",
+		"icon": "mouth",
 		"x": 32627,
 		"y": 32123,
 		"z": 7
@@ -11361,13 +11284,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33630,
-		"y": 31654,
-		"z": 7
-	},
-	{
 		"description": "To NPC Morax",
 		"icon": "red up",
 		"x": 33632,
@@ -11385,13 +11301,6 @@
 		"description": "",
 		"icon": "sword",
 		"x": 33634,
-		"y": 31678,
-		"z": 7
-	},
-	{
-		"description": "NPC Mugruu (weapons and ammunition)",
-		"icon": "mouth",
-		"x": 33636,
 		"y": 31678,
 		"z": 7
 	},
@@ -12289,13 +12198,6 @@
 		"icon": "up",
 		"x": 33900,
 		"y": 31511,
-		"z": 7
-	},
-	{
-		"description": "Post office",
-		"icon": "bag",
-		"x": 33905,
-		"y": 31500,
 		"z": 7
 	},
 	{
@@ -24500,6 +24402,13 @@
 		"z": 13
 	},
 	{
+		"description": "Shortcut to second floor",
+		"icon": "star",
+		"x": 33395,
+		"y": 32460,
+		"z": 13
+	},
+	{
 		"description": "West Teleport",
 		"icon": "flag",
 		"x": 33397,
@@ -24532,6 +24441,13 @@
 		"icon": "checkmark",
 		"x": 33426,
 		"y": 31409,
+		"z": 13
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33426,
+		"y": 32447,
 		"z": 13
 	},
 	{
@@ -26887,8 +26803,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33211,
 		"y": 32147,
 		"z": 15
@@ -26901,8 +26817,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33223,
 		"y": 32182,
 		"z": 15
@@ -26915,64 +26831,43 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33245,
 		"y": 32163,
 		"z": 15
 	},
 	{
-		"description": "Teleport location",
+		"description": "Teleport to The Duke of the Depths",
 		"icon": "star",
 		"x": 33275,
 		"y": 32316,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33277,
 		"y": 32172,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "skull",
-		"x": 33278,
-		"y": 32314,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33300,
 		"y": 32135,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "skull",
-		"x": 33323,
-		"y": 32109,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33324,
-		"y": 32297,
-		"z": 15
-	},
-	{
-		"description": "Teleport spot",
+		"description": "Teleport to The Count of the Core",
 		"icon": "star",
 		"x": 33325,
 		"y": 32108,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33332,
 		"y": 32171,
 		"z": 15
@@ -27007,23 +26902,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33398,
-		"y": 32394,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "flag",
 		"x": 33400,
 		"y": 32404,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33408,
-		"y": 32437,
 		"z": 15
 	},
 	{
@@ -27055,8 +26936,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33428,
 		"y": 32181,
 		"z": 15
@@ -27070,23 +26951,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33437,
-		"y": 32421,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "flag",
 		"x": 33437,
 		"y": 32444,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33440,
-		"y": 32385,
 		"z": 15
 	},
 	{
@@ -27104,8 +26971,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33454,
 		"y": 32215,
 		"z": 15
@@ -27125,22 +26992,22 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Mole Spawn",
+		"icon": "crossmark",
 		"x": 33459,
 		"y": 32225,
 		"z": 15
 	},
 	{
-		"description": "Teleport spot",
+		"description": "Teleport to The Baron from Below",
 		"icon": "star",
 		"x": 33460,
 		"y": 32267,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Mole Spawn",
+		"icon": "crossmark",
 		"x": 33465,
 		"y": 32189,
 		"z": 15
@@ -27167,15 +27034,15 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33491,
 		"y": 32180,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33494,
 		"y": 32216,
 		"z": 15
@@ -27188,8 +27055,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33501,
 		"y": 32254,
 		"z": 15
@@ -27230,15 +27097,15 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Blue Crystal",
+		"icon": "!",
 		"x": 33539,
 		"y": 32213,
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Mole Spawn",
+		"icon": "crossmark",
 		"x": 33541,
 		"y": 32245,
 		"z": 15
@@ -27251,8 +27118,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Mole spawn",
+		"icon": "crossmark",
 		"x": 33552,
 		"y": 32203,
 		"z": 15
