@@ -693,7 +693,7 @@
 		"z": 3
 	},
 	{
-		"description": "",
+		"description": "Piece of parchment (Grimvale quest)",
 		"icon": "crossmark",
 		"x": 33267,
 		"y": 31837,
@@ -1232,14 +1232,14 @@
 		"z": 4
 	},
 	{
-		"description": "",
+		"description": "Piece of parchment (Grimvale quest)",
 		"icon": "crossmark",
 		"x": 33268,
 		"y": 31831,
 		"z": 4
 	},
 	{
-		"description": "",
+		"description": "Piece of parchment (Grimvale quest)",
 		"icon": "crossmark",
 		"x": 33270,
 		"y": 31834,
@@ -11697,20 +11697,6 @@
 		"z": 7
 	},
 	{
-		"description": "Magic Store",
-		"icon": "bag",
-		"x": 33915,
-		"y": 31508,
-		"z": 7
-	},
-	{
-		"description": "Market Place",
-		"icon": "bag",
-		"x": 33915,
-		"y": 31516,
-		"z": 7
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 33920,
@@ -13755,7 +13741,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Piece of parchment (Grimvale quest)",
 		"icon": "crossmark",
 		"x": 33270,
 		"y": 31844,
