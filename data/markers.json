@@ -17262,8 +17262,8 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Exit",
+		"icon": "flag",
 		"x": 33888,
 		"y": 31618,
 		"z": 9
@@ -17290,8 +17290,8 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Memory enlightener (use shards here)",
+		"icon": "star",
 		"x": 33903,
 		"y": 31623,
 		"z": 9
@@ -17301,6 +17301,13 @@
 		"icon": "sword",
 		"x": 33911,
 		"y": 31480,
+		"z": 9
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33925,
+		"y": 31621,
 		"z": 9
 	},
 	{
