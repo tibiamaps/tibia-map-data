@@ -26159,14 +26159,7 @@
 		"z": 15
 	},
 	{
-		"description": "Cabale pre-lever room",
-		"icon": "sword",
-		"x": 33091,
-		"y": 31963,
-		"z": 15
-	},
-	{
-		"description": "Cabale pre-lever room",
+		"description": "Essence of Malice pre-lever room",
 		"icon": "sword",
 		"x": 33095,
 		"y": 31946,
@@ -26180,7 +26173,7 @@
 		"z": 15
 	},
 	{
-		"description": "Cabale room",
+		"description": "Essence of Malice room",
 		"icon": "sword",
 		"x": 33098,
 		"y": 31921,
