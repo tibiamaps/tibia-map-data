@@ -1176,6 +1176,13 @@
 		"z": 4
 	},
 	{
+		"description": "Old shrine (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32934,
+		"y": 31562,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32936,
@@ -3115,10 +3122,17 @@
 		"z": 6
 	},
 	{
-		"description": "Ley line Vengoth",
+		"description": "Dark stone totem (use golden symbol of Suon)",
 		"icon": "star",
-		"x": 32949,
+		"x": 32950,
 		"y": 31488,
+		"z": 6
+	},
+	{
+		"description": "Castle entrance (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32952,
+		"y": 31486,
 		"z": 6
 	},
 	{
@@ -3133,6 +3147,13 @@
 		"icon": "flag",
 		"x": 32954,
 		"y": 32024,
+		"z": 6
+	},
+	{
+		"description": "Castle garden (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32962,
+		"y": 31496,
 		"z": 6
 	},
 	{
@@ -7679,6 +7700,13 @@
 		"z": 7
 	},
 	{
+		"description": "Miraculously burning trees (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32883,
+		"y": 31500,
+		"z": 7
+	},
+	{
 		"description": "The Netherworld",
 		"icon": "flag",
 		"x": 32885,
@@ -7728,6 +7756,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lonely grave (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32904,
+		"y": 31469,
+		"z": 7
+	},
+	{
 		"description": "Sorcerer spells",
 		"icon": "star",
 		"x": 32905,
@@ -7760,6 +7795,13 @@
 		"icon": "red down",
 		"x": 32913,
 		"y": 32261,
+		"z": 7
+	},
+	{
+		"description": "Haunted ruin (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32914,
+		"y": 31490,
 		"z": 7
 	},
 	{
@@ -7819,10 +7861,24 @@
 		"z": 7
 	},
 	{
+		"description": "Bone circle (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32942,
+		"y": 31497,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32942,
 		"y": 32677,
+		"z": 7
+	},
+	{
+		"description": "Bottomless pit (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32949,
+		"y": 31519,
 		"z": 7
 	},
 	{
@@ -8919,7 +8975,7 @@
 	},
 	{
 		"description": "Hyaena Lairs",
-		"icon": "down",
+		"icon": "red down",
 		"x": 33212,
 		"y": 32358,
 		"z": 7
@@ -9261,7 +9317,7 @@
 		"z": 7
 	},
 	{
-		"description": "Vengoth Ley Line",
+		"description": "Vengoth ley line",
 		"icon": "star",
 		"x": 33280,
 		"y": 31959,
