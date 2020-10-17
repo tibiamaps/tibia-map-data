@@ -18606,13 +18606,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32802,
-		"y": 31770,
-		"z": 10
-	},
-	{
 		"description": "Teleport to Truffels Garden",
 		"icon": "flag",
 		"x": 32803,
