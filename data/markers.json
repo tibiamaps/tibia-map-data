@@ -2661,13 +2661,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 32177,
-		"y": 31233,
-		"z": 6
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32179,
 		"y": 31230,
@@ -4652,13 +4645,6 @@
 		"icon": "down",
 		"x": 32179,
 		"y": 32367,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 32181,
-		"y": 31231,
 		"z": 7
 	},
 	{
@@ -6853,8 +6839,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Jungle Grass (cut to access Barkless)",
+		"icon": "crossmark",
 		"x": 32684,
 		"y": 31587,
 		"z": 7
@@ -8985,6 +8971,13 @@
 		"icon": "checkmark",
 		"x": 33244,
 		"y": 31240,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33246,
+		"y": 32345,
 		"z": 7
 	},
 	{
@@ -12747,7 +12740,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32684,
 		"y": 31430,
@@ -12810,10 +12803,24 @@
 		"z": 8
 	},
 	{
+		"description": "Cult Symbol",
+		"icon": "checkmark",
+		"x": 32720,
+		"y": 31546,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "up",
 		"x": 32720,
 		"y": 32243,
+		"z": 8
+	},
+	{
+		"description": "To Barkless",
+		"icon": "star",
+		"x": 32721,
+		"y": 31544,
 		"z": 8
 	},
 	{
@@ -12831,14 +12838,14 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32743,
 		"y": 31408,
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 31464,
@@ -15491,7 +15498,7 @@
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32683,
 		"y": 31538,
@@ -15513,23 +15520,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32725,
+		"y": 31528,
+		"z": 9
+	},
+	{
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32730,
 		"y": 31532,
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32739,
-		"y": 31508,
+		"y": 31490,
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
-		"x": 32740,
-		"y": 31490,
+		"x": 32739,
+		"y": 31508,
 		"z": 9
 	},
 	{
@@ -15540,7 +15554,7 @@
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 31524,
@@ -15575,7 +15589,7 @@
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Cult Symbol",
 		"icon": "checkmark",
 		"x": 32761,
 		"y": 31519,
