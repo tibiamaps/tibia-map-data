@@ -938,6 +938,20 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32006,
+		"y": 31567,
+		"z": 4
+	},
+	{
+		"description": "Broken mailbox (use crowbar on it during The Postman Missions quest)",
+		"icon": "star",
+		"x": 32013,
+		"y": 31563,
+		"z": 4
+	},
+	{
 		"description": "Adventurer’s bank",
 		"icon": "$",
 		"x": 32055,
@@ -1507,6 +1521,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 31997,
+		"y": 31571,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 31998,
 		"y": 32876,
 		"z": 5
@@ -1516,6 +1537,13 @@
 		"icon": "up",
 		"x": 32004,
 		"y": 32876,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32006,
+		"y": 31567,
 		"z": 5
 	},
 	{
@@ -2501,8 +2529,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 31997,
+		"y": 31571,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 31998,
 		"y": 32876,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32000,
+		"y": 31566,
 		"z": 6
 	},
 	{
@@ -2940,10 +2982,38 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32609,
+		"y": 31963,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32614,
+		"y": 31976,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32624,
+		"y": 31974,
+		"z": 6
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 32630,
 		"y": 31433,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32630,
+		"y": 31962,
 		"z": 6
 	},
 	{
@@ -3413,6 +3483,13 @@
 		"icon": "down",
 		"x": 33241,
 		"y": 31767,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33247,
+		"y": 31841,
 		"z": 6
 	},
 	{
@@ -4102,6 +4179,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32000,
+		"y": 31566,
+		"z": 7
+	},
+	{
 		"description": "Wasps’ nest",
 		"icon": "up",
 		"x": 32000,
@@ -4610,6 +4694,13 @@
 		"icon": "up",
 		"x": 32164,
 		"y": 31293,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32169,
+		"y": 32439,
 		"z": 7
 	},
 	{
@@ -5173,8 +5264,8 @@
 		"z": 7
 	},
 	{
-		"description": "Queen Eloise",
-		"icon": "star",
+		"description": "NPC Queen Eloise",
+		"icon": "mouth",
 		"x": 32316,
 		"y": 31754,
 		"z": 7
@@ -6237,6 +6328,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards flying carpet",
+		"icon": "up",
+		"x": 32512,
+		"y": 31839,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 32513,
@@ -6321,10 +6419,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32548,
+		"y": 32076,
+		"z": 7
+	},
+	{
 		"description": "Ore wagon",
 		"icon": "flag",
 		"x": 32553,
 		"y": 31931,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32554,
+		"y": 32076,
 		"z": 7
 	},
 	{
@@ -6374,6 +6486,13 @@
 		"icon": "checkmark",
 		"x": 32566,
 		"y": 31728,
+		"z": 7
+	},
+	{
+		"description": "To NPC Kevin (The Postman Missions quest)",
+		"icon": "mouth",
+		"x": 32567,
+		"y": 32021,
 		"z": 7
 	},
 	{
@@ -6503,6 +6622,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32609,
+		"y": 31963,
+		"z": 7
+	},
+	{
 		"description": "Key 3302",
 		"icon": "star",
 		"x": 32610,
@@ -6528,6 +6654,13 @@
 		"icon": "!",
 		"x": 32613,
 		"y": 32703,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32614,
+		"y": 31976,
 		"z": 7
 	},
 	{
@@ -6594,6 +6727,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32624,
+		"y": 31974,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32625,
@@ -6626,6 +6766,13 @@
 		"icon": "up",
 		"x": 32629,
 		"y": 32749,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32630,
+		"y": 31962,
 		"z": 7
 	},
 	{
@@ -7042,6 +7189,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32748,
+		"y": 31256,
+		"z": 7
+	},
+	{
 		"description": "To the Alchemist Quarter",
 		"icon": "up",
 		"x": 32752,
@@ -7210,7 +7364,7 @@
 		"z": 7
 	},
 	{
-		"description": "Grimvale quest",
+		"description": "Dark stone totem (use golden symbol of Suon)",
 		"icon": "star",
 		"x": 32809,
 		"y": 32582,
@@ -7427,13 +7581,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 32854,
-		"y": 31323,
-		"z": 7
-	},
-	{
 		"description": "Boat to Yalahar",
 		"icon": "flag",
 		"x": 32857,
@@ -7445,6 +7592,13 @@
 		"icon": "star",
 		"x": 32857,
 		"y": 32738,
+		"z": 7
+	},
+	{
+		"description": "NPC Armenius",
+		"icon": "mouth",
+		"x": 32860,
+		"y": 31323,
 		"z": 7
 	},
 	{
@@ -8631,8 +8785,8 @@
 		"z": 7
 	},
 	{
-		"description": "Training Statues",
-		"icon": "star",
+		"description": "Training statues",
+		"icon": "sword",
 		"x": 33179,
 		"y": 31790,
 		"z": 7
@@ -9310,15 +9464,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33351,
-		"y": 31671,
-		"z": 7
-	},
-	{
 		"description": "Lycantrophe Grounds (were-creatures)",
-		"icon": "down",
+		"icon": "red down",
 		"x": 33351,
 		"y": 32004,
 		"z": 7
@@ -11039,7 +11186,7 @@
 		"z": 7
 	},
 	{
-		"description": "Grimvale Quest",
+		"description": "Dark stone totem (use golden symbol of Suon)",
 		"icon": "star",
 		"x": 33675,
 		"y": 31627,
@@ -12125,6 +12272,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32172,
+		"y": 32439,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32173,
 		"y": 31455,
@@ -12135,6 +12289,13 @@
 		"icon": "flag",
 		"x": 32174,
 		"y": 31916,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32179,
+		"y": 32367,
 		"z": 8
 	},
 	{
@@ -12156,6 +12317,13 @@
 		"icon": "down",
 		"x": 32193,
 		"y": 31788,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32198,
+		"y": 32367,
 		"z": 8
 	},
 	{
@@ -12189,6 +12357,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32244,
+		"y": 32370,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32247,
 		"y": 31419,
 		"z": 8
@@ -12212,6 +12387,13 @@
 		"icon": "down",
 		"x": 32259,
 		"y": 31428,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32261,
+		"y": 32384,
 		"z": 8
 	},
 	{
@@ -13322,6 +13504,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33057,
+		"y": 31830,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33058,
 		"y": 32158,
@@ -13339,6 +13528,13 @@
 		"icon": "up",
 		"x": 33059,
 		"y": 32181,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33060,
+		"y": 31853,
 		"z": 8
 	},
 	{
@@ -13384,6 +13580,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33078,
+		"y": 32079,
+		"z": 8
+	},
+	{
 		"description": "Elf overseer (spawn location)",
 		"icon": "star",
 		"x": 33086,
@@ -13402,6 +13605,13 @@
 		"icon": "flag",
 		"x": 33089,
 		"y": 32298,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33092,
+		"y": 31837,
 		"z": 8
 	},
 	{
@@ -13437,6 +13647,13 @@
 		"icon": "up",
 		"x": 33103,
 		"y": 31388,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33107,
+		"y": 31847,
 		"z": 8
 	},
 	{
@@ -14946,6 +15163,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32198,
+		"y": 32367,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32208,
+		"y": 32370,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32232,
 		"y": 31278,
@@ -14970,6 +15201,20 @@
 		"icon": "up",
 		"x": 32235,
 		"y": 32922,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32236,
+		"y": 32370,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32244,
+		"y": 32370,
 		"z": 9
 	},
 	{
@@ -15605,6 +15850,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32775,
+		"y": 31200,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32776,
 		"y": 31932,
 		"z": 9
@@ -16046,8 +16298,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33057,
+		"y": 31830,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33059,
 		"y": 31693,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33060,
+		"y": 31853,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33063,
+		"y": 31822,
 		"z": 9
 	},
 	{
@@ -16062,6 +16335,13 @@
 		"icon": "star",
 		"x": 33067,
 		"y": 31985,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33069,
+		"y": 31848,
 		"z": 9
 	},
 	{
@@ -16150,6 +16430,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33092,
+		"y": 31837,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33092,
 		"y": 32069,
@@ -16170,10 +16457,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33102,
+		"y": 31822,
+		"z": 9
+	},
+	{
 		"description": "Dusty amphora",
 		"icon": "crossmark",
 		"x": 33102,
 		"y": 32316,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33106,
+		"y": 31851,
 		"z": 9
 	},
 	{
@@ -16291,6 +16592,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33151,
+		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33158,
 		"y": 31186,
 		"z": 9
@@ -16321,6 +16629,13 @@
 		"icon": "down",
 		"x": 33167,
 		"y": 31149,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33168,
+		"y": 31823,
 		"z": 9
 	},
 	{
@@ -16521,13 +16836,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33316,
-		"y": 31636,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "sword",
 		"x": 33317,
 		"y": 31298,
@@ -16613,6 +16921,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33364,
+		"y": 32008,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33365,
 		"y": 31938,
 		"z": 9
@@ -16657,13 +16972,6 @@
 		"icon": "sword",
 		"x": 33402,
 		"y": 32097,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33405,
-		"y": 32018,
 		"z": 9
 	},
 	{
@@ -17500,6 +17808,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32208,
+		"y": 32370,
+		"z": 10
+	},
+	{
 		"description": "Pile of bones (floor plan)",
 		"icon": "star",
 		"x": 32211,
@@ -17532,6 +17847,13 @@
 		"icon": "up",
 		"x": 32235,
 		"y": 32870,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32236,
+		"y": 32370,
 		"z": 10
 	},
 	{
@@ -18740,6 +19062,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33063,
+		"y": 31822,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33064,
 		"y": 31598,
@@ -18764,6 +19093,13 @@
 		"icon": "down",
 		"x": 33066,
 		"y": 31079,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33069,
+		"y": 31848,
 		"z": 10
 	},
 	{
@@ -18858,10 +19194,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33102,
+		"y": 31822,
+		"z": 10
+	},
+	{
 		"description": "Teleport to Deathstrike boss room",
 		"icon": "star",
 		"x": 33104,
 		"y": 31908,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33106,
+		"y": 31851,
 		"z": 10
 	},
 	{
@@ -20895,6 +21245,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33147,
+		"y": 31824,
+		"z": 11
+	},
+	{
 		"description": "Pool of Blood",
 		"icon": "crossmark",
 		"x": 33149,
@@ -21847,6 +22204,20 @@
 		"z": 12
 	},
 	{
+		"description": "NPC Talphion",
+		"icon": "mouth",
+		"x": 32563,
+		"y": 31894,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32564,
+		"y": 31950,
+		"z": 12
+	},
+	{
 		"description": "Pile of bones",
 		"icon": "star",
 		"x": 32568,
@@ -22267,7 +22638,7 @@
 		"z": 12
 	},
 	{
-		"description": "Gold Nuggets",
+		"description": "Gold nuggets (use pick)",
 		"icon": "crossmark",
 		"x": 33051,
 		"y": 32085,
@@ -23639,13 +24010,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33031,
-		"y": 32052,
-		"z": 13
-	},
-	{
 		"description": "Red crystal",
 		"icon": "checkmark",
 		"x": 33034,
@@ -23667,7 +24031,7 @@
 		"z": 13
 	},
 	{
-		"description": "Silver",
+		"description": "Silver nuggets (use pick)",
 		"icon": "crossmark",
 		"x": 33040,
 		"y": 32037,
