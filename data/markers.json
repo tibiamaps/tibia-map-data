@@ -5951,13 +5951,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32426,
-		"y": 31278,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 32426,
 		"y": 32391,
@@ -11253,13 +11246,6 @@
 		"icon": "flag",
 		"x": 33675,
 		"y": 32147,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33675,
-		"y": 32150,
 		"z": 7
 	},
 	{
@@ -24437,10 +24423,66 @@
 		"z": 13
 	},
 	{
+		"description": "Green lever",
+		"icon": "checkmark",
+		"x": 33613,
+		"y": 32690,
+		"z": 13
+	},
+	{
 		"description": "To exit",
 		"icon": "flag",
 		"x": 33618,
 		"y": 32546,
+		"z": 13
+	},
+	{
+		"description": "Fount",
+		"icon": "crossmark",
+		"x": 33625,
+		"y": 32620,
+		"z": 13
+	},
+	{
+		"description": "Fount",
+		"icon": "crossmark",
+		"x": 33634,
+		"y": 32681,
+		"z": 13
+	},
+	{
+		"description": "Red lever",
+		"icon": "checkmark",
+		"x": 33651,
+		"y": 32660,
+		"z": 13
+	},
+	{
+		"description": "Fount",
+		"icon": "crossmark",
+		"x": 33659,
+		"y": 32626,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33663,
+		"y": 32706,
+		"z": 13
+	},
+	{
+		"description": "Blue lever",
+		"icon": "checkmark",
+		"x": 33671,
+		"y": 32637,
+		"z": 13
+	},
+	{
+		"description": "To Mazoran",
+		"icon": "flag",
+		"x": 33672,
+		"y": 32688,
 		"z": 13
 	},
 	{
@@ -25789,6 +25831,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33663,
+		"y": 32706,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33674,
 		"y": 31988,
@@ -25998,13 +26047,6 @@
 		"z": 14
 	},
 	{
-		"description": "Fourth Room",
-		"icon": "crossmark",
-		"x": 33847,
-		"y": 31987,
-		"z": 14
-	},
-	{
 		"description": "Fourth room (use explosive barrel)",
 		"icon": "crossmark",
 		"x": 33849,
@@ -26040,13 +26082,6 @@
 		"z": 14
 	},
 	{
-		"description": "Outpost & Third Room",
-		"icon": "flag",
-		"x": 33870,
-		"y": 32019,
-		"z": 14
-	},
-	{
 		"description": "Location E (use gnome trignometre)",
 		"icon": "crossmark",
 		"x": 33878,
@@ -26061,17 +26096,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33899,
-		"y": 32339,
-		"z": 14
-	},
-	{
 		"description": "Lava pump",
 		"icon": "star",
-		"x": 33899,
-		"y": 32341,
+		"x": 33898,
+		"y": 32339,
 		"z": 14
 	},
 	{
@@ -26119,15 +26147,8 @@
 	{
 		"description": "Lava pump",
 		"icon": "star",
-		"x": 33926,
-		"y": 32340,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "star",
 		"x": 33927,
-		"y": 32338,
+		"y": 32339,
 		"z": 14
 	},
 	{
@@ -26145,17 +26166,10 @@
 		"z": 14
 	},
 	{
-		"description": "Bastion",
-		"icon": "flag",
-		"x": 33931,
-		"y": 31991,
-		"z": 14
-	},
-	{
 		"description": "Lava pump",
 		"icon": "star",
 		"x": 33947,
-		"y": 32258,
+		"y": 32259,
 		"z": 14
 	},
 	{
@@ -26173,17 +26187,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33958,
-		"y": 32338,
-		"z": 14
-	},
-	{
 		"description": "Lava pump",
 		"icon": "star",
 		"x": 33958,
-		"y": 32340,
+		"y": 32339,
 		"z": 14
 	},
 	{
@@ -26243,10 +26250,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Lava pump",
 		"icon": "star",
-		"x": 33992,
-		"y": 32264,
+		"x": 33993,
+		"y": 32265,
 		"z": 14
 	},
 	{
@@ -26271,24 +26278,17 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Lava pump",
 		"icon": "star",
-		"x": 34026,
+		"x": 34027,
 		"y": 32246,
 		"z": 14
 	},
 	{
 		"description": "Lava pump",
 		"icon": "star",
-		"x": 34032,
+		"x": 34033,
 		"y": 32001,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 34034,
-		"y": 32000,
 		"z": 14
 	},
 	{
