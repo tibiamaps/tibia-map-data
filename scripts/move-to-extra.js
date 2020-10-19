@@ -3,9 +3,29 @@ const path = require('path');
 
 const sortMarkers = require('tibia-maps/src/sort-markers.js');
 
-// TODO: Make these command-line parameters, in case that’s useful (?).
-const DESCRIPTION = 'Ice flower';
-const SPECIAL_ID = 'achievements';
+const SPECIAL_ID = 'percht-island';
+
+const isSpecial = (marker) => {
+	//return marker.description === 'Ice flower';
+	// https://tibiamaps.io/map#33686,30971,9:1
+	const TOP_LEFT_COORDINATE = { x: 33686, y: 30971 };
+	// https://tibiamaps.io/map#33862,31136,9:1
+	const BOTTOM_RIGHT_COORDINATE = { x: 33862, y: 31136 };
+	const HIGHEST_FLOOR = 1;
+	const LOWEST_FLOOR = 9;
+	const isWithinX = (
+		marker.x >= TOP_LEFT_COORDINATE.x &&
+		marker.x <= BOTTOM_RIGHT_COORDINATE.x
+	);
+	const isWithinY = (
+		marker.y >= TOP_LEFT_COORDINATE.y &&
+		marker.y <= BOTTOM_RIGHT_COORDINATE.y
+	);
+	const isWithinZ = (
+		marker.z >= HIGHEST_FLOOR && marker.z <= LOWEST_FLOOR
+	);
+	return isWithinX && isWithinY && isWithinZ;
+};
 
 const readJSON = (filePath) => {
 	const absolutePath = path.resolve(__dirname, filePath);
@@ -36,7 +56,7 @@ const specials = [];
 const rest = [];
 const oldMarkers = readJSON('../data/markers.json');
 for (const oldMarker of oldMarkers) {
-	if (oldMarker.description === DESCRIPTION) {
+	if (isSpecial(oldMarker)) {
 		specials.push(oldMarker);
 	} else {
 		rest.push(oldMarker);
