@@ -7455,7 +7455,7 @@
 		"z": 7
 	},
 	{
-		"description": "Hidden shovel hole (treasure hunt quest)",
+		"description": "Shortcut to Deeper Banuta",
 		"icon": "down",
 		"x": 32853,
 		"y": 32669,
@@ -9688,7 +9688,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33485,
 		"y": 32531,
@@ -9716,7 +9716,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33489,
 		"y": 32550,
@@ -9758,14 +9758,14 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33497,
 		"y": 32566,
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33498,
 		"y": 32475,
@@ -9884,7 +9884,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33518,
 		"y": 32441,
@@ -10381,7 +10381,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33576,
 		"y": 32565,
@@ -10717,7 +10717,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33620,
 		"y": 32540,
@@ -10857,8 +10857,8 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate Spot",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 33649,
 		"y": 32485,
 		"z": 7
@@ -11081,7 +11081,7 @@
 		"z": 7
 	},
 	{
-		"description": "Secret hole (Messages in a Bottle required)",
+		"description": "Secret hole (messages in a bottle required)",
 		"icon": "down",
 		"x": 33677,
 		"y": 32511,
@@ -11095,7 +11095,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33679,
 		"y": 32532,
@@ -11172,7 +11172,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33684,
 		"y": 32526,
@@ -11235,7 +11235,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33696,
 		"y": 32509,
@@ -11312,7 +11312,7 @@
 		"z": 7
 	},
 	{
-		"description": "Message in a Bottle",
+		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33728,
 		"y": 32468,
