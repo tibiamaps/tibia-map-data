@@ -9793,8 +9793,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33485,
 		"y": 32531,
 		"z": 7
@@ -9821,8 +9821,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33489,
 		"y": 32550,
 		"z": 7
@@ -9863,15 +9863,15 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33497,
 		"y": 32566,
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33498,
 		"y": 32475,
 		"z": 7
@@ -9947,13 +9947,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33513,
-		"y": 32447,
-		"z": 7
-	},
-	{
 		"description": "The Descent",
 		"icon": "red down",
 		"x": 33514,
@@ -9996,8 +9989,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33518,
 		"y": 32441,
 		"z": 7
@@ -10011,23 +10004,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33519,
-		"y": 32489,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "bag",
 		"x": 33520,
 		"y": 32559,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33522,
-		"y": 32462,
 		"z": 7
 	},
 	{
@@ -10263,13 +10242,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33549,
-		"y": 32437,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "cross",
 		"x": 33550,
 		"y": 32219,
@@ -10385,13 +10357,6 @@
 		"icon": "bag",
 		"x": 33558,
 		"y": 32373,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33560,
-		"y": 32494,
 		"z": 7
 	},
 	{
@@ -10521,8 +10486,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33576,
 		"y": 32565,
 		"z": 7
@@ -10577,13 +10542,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33583,
-		"y": 32485,
-		"z": 7
-	},
-	{
 		"description": "NPC Roswitha",
 		"icon": "mouth",
 		"x": 33584,
@@ -10598,6 +10556,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33584,
+		"y": 32484,
+		"z": 7
+	},
+	{
 		"description": "Entrance to digestion chamber",
 		"icon": "down",
 		"x": 33585,
@@ -10609,13 +10574,6 @@
 		"icon": "flag",
 		"x": 33586,
 		"y": 32262,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33586,
-		"y": 32451,
 		"z": 7
 	},
 	{
@@ -10721,13 +10679,6 @@
 		"icon": "checkmark",
 		"x": 33598,
 		"y": 32058,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33599,
-		"y": 32495,
 		"z": 7
 	},
 	{
@@ -10871,8 +10822,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33620,
 		"y": 32540,
 		"z": 7
@@ -10969,13 +10920,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33639,
-		"y": 32487,
-		"z": 7
-	},
-	{
 		"description": "To NPC Doubleday (tasks)",
 		"icon": "up",
 		"x": 33640,
@@ -11018,7 +10962,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Levitate Spot",
 		"icon": "up",
 		"x": 33649,
 		"y": 32485,
@@ -11092,13 +11036,6 @@
 		"icon": "flag",
 		"x": 33657,
 		"y": 32463,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33657,
-		"y": 32490,
 		"z": 7
 	},
 	{
@@ -11223,6 +11160,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33675,
+		"y": 32303,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33676,
 		"y": 31794,
 		"z": 7
@@ -11235,13 +11179,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33676,
-		"y": 32473,
-		"z": 7
-	},
-	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33676,
@@ -11249,10 +11186,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33676,
-		"y": 32509,
+		"description": "Secret hole (Messages in a Bottle required)",
+		"icon": "down",
+		"x": 33677,
+		"y": 32511,
 		"z": 7
 	},
 	{
@@ -11263,15 +11200,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Message in a Bottle",
 		"icon": "crossmark",
-		"x": 33678,
-		"y": 32503,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
 		"x": 33679,
 		"y": 32532,
 		"z": 7
@@ -11347,8 +11277,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33684,
 		"y": 32526,
 		"z": 7
@@ -11397,13 +11327,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33692,
-		"y": 32506,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33693,
 		"y": 31848,
@@ -11417,8 +11340,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33696,
 		"y": 32509,
 		"z": 7
@@ -11442,13 +11365,6 @@
 		"icon": "star",
 		"x": 33706,
 		"y": 31742,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33706,
-		"y": 32499,
 		"z": 7
 	},
 	{
@@ -11501,8 +11417,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Message in a Bottle",
+		"icon": "crossmark",
 		"x": 33728,
 		"y": 32468,
 		"z": 7
@@ -14550,13 +14466,6 @@
 		"icon": "down",
 		"x": 33621,
 		"y": 32378,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33623,
-		"y": 32379,
 		"z": 8
 	},
 	{
