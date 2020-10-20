@@ -1,0 +1,25 @@
+name: 'Enable Percht Island pack'
+
+on:
+  schedule:
+    # Run annually at 04:00 UTC on December 1st.
+    - cron: '0 4 1 12 *'
+  workflow_dispatch:
+
+jobs:
+  import-markers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Install dependencies
+        run: npm install
+      - name: Enable pack
+        run: |
+          scripts/enable-pack.sh percht
+          git config user.name 'Mathias Bynens'
+          git config user.email 'mathias@qiwi.be'
+          git commit data -m 'Enable Percht Island maps' -m 'This patch replaces the Orcsoberfest Island maps (and their markers) with the Percht Island maps (and their markers) in preparation for the upcoming event.'
+          git push

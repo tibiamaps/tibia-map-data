@@ -12,8 +12,8 @@ const sortMarkers = require('tibia-maps/src/sort-markers.js');
 const arg = process.argv[2];
 
 const map = new Map([
-	['percht', { old: 'percht-island', new: 'orcsoberfest-island' }],
-	['orcsoberfest', { old: 'orcsoberfest-island', new: 'percht-island' }],
+	['percht', { old: 'orcsoberfest-island', new: 'percht-island' }],
+	['orcsoberfest', { old: 'percht-island', new: 'orcsoberfest-island' }],
 ]);
 const config = map.get(arg);
 const isSpecialCase = Boolean(config);
