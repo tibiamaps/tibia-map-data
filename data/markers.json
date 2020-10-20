@@ -3921,58 +3921,9 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33742,
-		"y": 31035,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33756,
-		"y": 31042,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33774,
-		"y": 31036,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33783,
-		"y": 31041,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33800,
-		"y": 31012,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33817,
-		"y": 31021,
-		"z": 6
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33827,
 		"y": 31658,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33835,
-		"y": 31011,
 		"z": 6
 	},
 	{
@@ -11312,13 +11263,6 @@
 		"z": 7
 	},
 	{
-		"description": "Boat to Svargrond",
-		"icon": "flag",
-		"x": 33719,
-		"y": 31105,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33728,
@@ -11333,13 +11277,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33730,
-		"y": 31040,
-		"z": 7
-	},
-	{
 		"description": "To NPC A Goblin Exile",
 		"icon": "down",
 		"x": 33730,
@@ -11349,50 +11286,8 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33745,
-		"y": 31063,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33756,
-		"y": 31021,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33756,
-		"y": 31042,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33776,
-		"y": 31023,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33776,
-		"y": 31043,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 33778,
 		"y": 31600,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33790,
-		"y": 31061,
 		"z": 7
 	},
 	{
@@ -11439,20 +11334,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33798,
-		"y": 31006,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33800,
-		"y": 31012,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33808,
 		"y": 31666,
@@ -11475,29 +11356,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33817,
-		"y": 31021,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33818,
-		"y": 31095,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33819,
 		"y": 31680,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33835,
-		"y": 31011,
 		"z": 7
 	},
 	{
@@ -14470,13 +14330,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33745,
-		"y": 31063,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 33768,
 		"y": 31623,
@@ -14487,20 +14340,6 @@
 		"icon": "star",
 		"x": 33768,
 		"y": 31625,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33773,
-		"y": 31016,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33789,
-		"y": 31022,
 		"z": 8
 	},
 	{
@@ -17217,27 +17056,6 @@
 		"icon": "checkmark",
 		"x": 33663,
 		"y": 31985,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 33752,
-		"y": 31083,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33786,
-		"y": 31024,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33789,
-		"y": 31023,
 		"z": 9
 	},
 	{
