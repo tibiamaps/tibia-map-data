@@ -45,12 +45,12 @@ These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWik
 
 ## Set up
 
-1. Install [Node.js v8+](https://nodejs.org/en/).
+1. Install the [expected](https://github.com/tibiamaps/tibia-map-data/blob/main/.nvmrc) version of [Node.js](https://nodejs.org/en/).
 
 2. Install [the `tibia-maps` command-line utility](https://github.com/tibiamaps/tibia-maps-script):
 
     ```sh
-    npm install -g tibia-maps
+    npm install -g github:tibiamaps/tibia-maps-script
     ```
 
 3. Clone this repository and `cd` to it in your favorite terminal.
