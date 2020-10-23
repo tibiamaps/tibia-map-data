@@ -5,7 +5,7 @@ const path = require('path');
 
 const sortMarkers = require('tibia-maps/src/sort-markers.js');
 
-const SPECIAL_ID = 'percht-island';
+const SPECIAL_ID = 'orcsoberfest-island';
 
 const isSpecial = (marker) => {
 	//return marker.description === 'Ice flower';

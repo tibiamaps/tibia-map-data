@@ -1,1 +1,100 @@
-[]
+[
+	{
+		"description": "Teleport to The Feeding Grounds",
+		"icon": "flag",
+		"x": 33751,
+		"y": 31073,
+		"z": 7
+	},
+	{
+		"description": "The Great Food Race",
+		"icon": "flag",
+		"x": 33804,
+		"y": 31077,
+		"z": 7
+	},
+	{
+		"description": "Whack the Orc",
+		"icon": "flag",
+		"x": 33804,
+		"y": 31110,
+		"z": 7
+	},
+	{
+		"description": "Sausage Eating Contest",
+		"icon": "flag",
+		"x": 33822,
+		"y": 31069,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33725,
+		"y": 31082,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33773,
+		"y": 31016,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33782,
+		"y": 31076,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33786,
+		"y": 31024,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33807,
+		"y": 31063,
+		"z": 8
+	},
+	{
+		"description": "The Feast",
+		"icon": "flag",
+		"x": 33768,
+		"y": 31100,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33773,
+		"y": 31016,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33782,
+		"y": 31076,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33786,
+		"y": 31024,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33807,
+		"y": 31063,
+		"z": 9
+	}
+]
