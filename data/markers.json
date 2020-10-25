@@ -280,8 +280,8 @@
 		"z": 2
 	},
 	{
-		"description": "Kesar the Younger (day)",
-		"icon": "checkmark",
+		"description": "NPC Kesar the Younger (day)",
+		"icon": "mouth",
 		"x": 32365,
 		"y": 32478,
 		"z": 2
@@ -308,8 +308,8 @@
 		"z": 2
 	},
 	{
-		"description": "Onfroi (night)",
-		"icon": "checkmark",
+		"description": "NPC Onfroi (night)",
+		"icon": "mouth",
 		"x": 32429,
 		"y": 32489,
 		"z": 2
@@ -1134,7 +1134,7 @@
 		"z": 4
 	},
 	{
-		"description": "Jehan the Baker",
+		"description": "NPC Jehan the Baker (day)",
 		"icon": "mouth",
 		"x": 32421,
 		"y": 32481,
@@ -1148,14 +1148,14 @@
 		"z": 4
 	},
 	{
-		"description": "Dal the Huntress (night)",
-		"icon": "checkmark",
+		"description": "NPC Dal the Huntress (night)",
+		"icon": "mouth",
 		"x": 32436,
 		"y": 32493,
 		"z": 4
 	},
 	{
-		"description": "Fral the Butcher",
+		"description": "NPC Fral the Butcher (day)",
 		"icon": "mouth",
 		"x": 32444,
 		"y": 32481,
@@ -1834,7 +1834,7 @@
 		"z": 5
 	},
 	{
-		"description": "Wes the Blacksmith",
+		"description": "NPC Wes the Blacksmith (day)",
 		"icon": "mouth",
 		"x": 32423,
 		"y": 32480,
@@ -1855,14 +1855,14 @@
 		"z": 5
 	},
 	{
-		"description": "Onfroi",
+		"description": "NPC Onfroi (day)",
 		"icon": "mouth",
 		"x": 32430,
 		"y": 32489,
 		"z": 5
 	},
 	{
-		"description": "Dal the Huntress",
+		"description": "NPC Dal the Huntress (day)",
 		"icon": "mouth",
 		"x": 32435,
 		"y": 32492,
@@ -2723,22 +2723,22 @@
 		"z": 6
 	},
 	{
-		"description": "Wes The Blacksmith (night)",
-		"icon": "checkmark",
+		"description": "NPC Wes the Blacksmith (night)",
+		"icon": "mouth",
 		"x": 32374,
 		"y": 32466,
 		"z": 6
 	},
 	{
-		"description": "Jehan the Baker (night)",
-		"icon": "checkmark",
+		"description": "NPC Jehan the Baker (night)",
+		"icon": "mouth",
 		"x": 32391,
 		"y": 32458,
 		"z": 6
 	},
 	{
-		"description": "Fral the Butcher (night)",
-		"icon": "checkmark",
+		"description": "NPC Fral the Butcher (night)",
+		"icon": "mouth",
 		"x": 32399,
 		"y": 32495,
 		"z": 6
