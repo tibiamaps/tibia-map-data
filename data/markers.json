@@ -3325,6 +3325,13 @@
 		"z": 6
 	},
 	{
+		"description": "Ewer with holy water",
+		"icon": "star",
+		"x": 33137,
+		"y": 32352,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33141,
@@ -8502,6 +8509,13 @@
 		"icon": "red down",
 		"x": 33157,
 		"y": 31720,
+		"z": 7
+	},
+	{
+		"description": "Towards Lion Sanctum shortcut",
+		"icon": "up",
+		"x": 33159,
+		"y": 32364,
 		"z": 7
 	},
 	{
@@ -13874,7 +13888,7 @@
 		"z": 8
 	},
 	{
-		"description": "Purple nightshade",
+		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33353,
 		"y": 31687,
@@ -16597,7 +16611,7 @@
 		"z": 9
 	},
 	{
-		"description": "Purple nightshade",
+		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33314,
 		"y": 31637,
@@ -16709,7 +16723,7 @@
 		"z": 9
 	},
 	{
-		"description": "Purple nightshade",
+		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33384,
 		"y": 31635,
@@ -20937,17 +20951,17 @@
 		"z": 11
 	},
 	{
-		"description": "Altar",
-		"icon": "crossmark",
-		"x": 33096,
-		"y": 32266,
-		"z": 11
-	},
-	{
 		"description": "Teleport to Gnomevil",
 		"icon": "star",
 		"x": 33097,
 		"y": 31977,
+		"z": 11
+	},
+	{
+		"description": "Altar (sprinkle chopped petals onto lit torch)",
+		"icon": "crossmark",
+		"x": 33097,
+		"y": 32267,
 		"z": 11
 	},
 	{
@@ -21007,7 +21021,7 @@
 		"z": 11
 	},
 	{
-		"description": "Purple Nightshade Blossom",
+		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33141,
 		"y": 32359,
@@ -21049,7 +21063,7 @@
 		"z": 11
 	},
 	{
-		"description": "Campire for Hydra Egg",
+		"description": "Campfire (use hydra egg)",
 		"icon": "crossmark",
 		"x": 33160,
 		"y": 32394,
