@@ -8533,6 +8533,13 @@
 		"z": 7
 	},
 	{
+		"description": "Stampor cave",
+		"icon": "down",
+		"x": 33165,
+		"y": 31211,
+		"z": 7
+	},
+	{
 		"description": "Passage to west side",
 		"icon": "down",
 		"x": 33165,
@@ -13426,6 +13433,13 @@
 		"z": 8
 	},
 	{
+		"description": "Task boss: Tromphonyte",
+		"icon": "!",
+		"x": 33136,
+		"y": 31186,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33137,
@@ -13475,6 +13489,13 @@
 		"z": 8
 	},
 	{
+		"description": "To other part of the cave",
+		"icon": "flag",
+		"x": 33156,
+		"y": 31198,
+		"z": 8
+	},
+	{
 		"description": "Glowing vortex",
 		"icon": "?",
 		"x": 33158,
@@ -13486,6 +13507,27 @@
 		"icon": "down",
 		"x": 33159,
 		"y": 31854,
+		"z": 8
+	},
+	{
+		"description": "To cave entrance",
+		"icon": "flag",
+		"x": 33160,
+		"y": 31368,
+		"z": 8
+	},
+	{
+		"description": "One-way rope spot to Zao Steppe",
+		"icon": "red up",
+		"x": 33160,
+		"y": 31396,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33165,
+		"y": 31211,
 		"z": 8
 	},
 	{
