@@ -15967,13 +15967,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32985,
-		"y": 32757,
-		"z": 9
-	},
-	{
 		"description": "Teleport to Gnomegate",
 		"icon": "flag",
 		"x": 32986,
@@ -16020,13 +16013,6 @@
 		"icon": "mouth",
 		"x": 33006,
 		"y": 31889,
-		"z": 9
-	},
-	{
-		"description": "DS spawn",
-		"icon": "checkmark",
-		"x": 33006,
-		"y": 32467,
 		"z": 9
 	},
 	{
@@ -20636,24 +20622,10 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 32939,
-		"y": 32751,
-		"z": 11
-	},
-	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32941,
 		"y": 32077,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32943,
-		"y": 32791,
 		"z": 11
 	},
 	{
@@ -20668,13 +20640,6 @@
 		"icon": "checkmark",
 		"x": 32951,
 		"y": 31927,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32951,
-		"y": 32747,
 		"z": 11
 	},
 	{
