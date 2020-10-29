@@ -2828,10 +2828,10 @@
 		"z": 6
 	},
 	{
-		"description": "Harbour",
+		"description": "Boat",
 		"icon": "flag",
-		"x": 32536,
-		"y": 32778,
+		"x": 32530,
+		"y": 32783,
 		"z": 6
 	},
 	{
@@ -5390,7 +5390,7 @@
 		"z": 7
 	},
 	{
-		"description": "Baby Seal",
+		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32342,
 		"y": 31218,
@@ -17577,6 +17577,13 @@
 		"z": 10
 	},
 	{
+		"description": "Witches’ cap spot (The Ape City quest)",
+		"icon": "star",
+		"x": 32183,
+		"y": 32468,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32192,
@@ -23947,10 +23954,10 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33297,
-		"y": 32860,
+		"description": "Obelisk (The Ape City quest)",
+		"icon": "star",
+		"x": 33305,
+		"y": 32861,
 		"z": 13
 	},
 	{
