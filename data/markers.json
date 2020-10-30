@@ -231,8 +231,8 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 32075,
 		"y": 32607,
 		"z": 2
@@ -539,8 +539,8 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 32060,
 		"y": 32596,
 		"z": 3
@@ -567,8 +567,8 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32077,
 		"y": 32606,
 		"z": 3
@@ -973,8 +973,8 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32061,
 		"y": 32597,
 		"z": 4
@@ -987,8 +987,8 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 32066,
 		"y": 32623,
 		"z": 4
@@ -1568,8 +1568,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 32048,
 		"y": 32609,
 		"z": 5
@@ -1624,8 +1624,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red up",
 		"x": 32066,
 		"y": 32624,
 		"z": 5
@@ -2478,8 +2478,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red up",
 		"x": 32047,
 		"y": 32610,
 		"z": 6
@@ -2527,8 +2527,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 32067,
 		"y": 32632,
 		"z": 6
@@ -3972,14 +3972,7 @@
 		"description": "To portals",
 		"icon": "down",
 		"x": 31921,
-		"y": 32656,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 31921,
-		"y": 32658,
+		"y": 32657,
 		"z": 7
 	},
 	{
@@ -3997,13 +3990,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "red down",
-		"x": 31936,
-		"y": 32676,
-		"z": 7
-	},
-	{
 		"description": "Levitate spot (to NPC Nomad)",
 		"icon": "red up",
 		"x": 31940,
@@ -4015,6 +4001,13 @@
 		"icon": "down",
 		"x": 31946,
 		"y": 32556,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 31966,
+		"y": 32679,
 		"z": 7
 	},
 	{
@@ -4242,8 +4235,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red up",
 		"x": 32066,
 		"y": 32633,
 		"z": 7
@@ -11669,6 +11662,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 31915,
+		"y": 32590,
+		"z": 8
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 31922,
@@ -11708,6 +11708,13 @@
 		"icon": "down",
 		"x": 31948,
 		"y": 32310,
+		"z": 8
+	},
+	{
+		"description": "To Talahu surface",
+		"icon": "up",
+		"x": 31961,
+		"y": 32636,
 		"z": 8
 	},
 	{
@@ -11771,6 +11778,13 @@
 		"icon": "star",
 		"x": 32009,
 		"y": 32353,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32016,
+		"y": 32696,
 		"z": 8
 	},
 	{
@@ -14672,6 +14686,13 @@
 		"z": 9
 	},
 	{
+		"description": "Towards mushroom island teleport",
+		"icon": "down",
+		"x": 31919,
+		"y": 32591,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 31920,
@@ -14736,6 +14757,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 31959,
+		"y": 32695,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 31962,
 		"y": 31378,
@@ -14753,6 +14781,13 @@
 		"icon": "sword",
 		"x": 31963,
 		"y": 32328,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31965,
+		"y": 32632,
 		"z": 9
 	},
 	{
@@ -14802,6 +14837,13 @@
 		"icon": "down",
 		"x": 32005,
 		"y": 32344,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32007,
+		"y": 32712,
 		"z": 9
 	},
 	{
@@ -17483,6 +17525,13 @@
 		"icon": "star",
 		"x": 31961,
 		"y": 32587,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31977,
+		"y": 32696,
 		"z": 10
 	},
 	{
