@@ -13818,6 +13818,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33300,
+		"y": 32290,
+		"z": 8
+	},
+	{
 		"description": "Dazed leaf golem",
 		"icon": "sword",
 		"x": 33306,
@@ -13857,6 +13864,13 @@
 		"icon": "down",
 		"x": 33311,
 		"y": 31680,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33312,
+		"y": 32281,
 		"z": 8
 	},
 	{
@@ -16618,6 +16632,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33300,
+		"y": 32290,
+		"z": 9
+	},
+	{
 		"description": "Tome of knowledge",
 		"icon": "star",
 		"x": 33306,
@@ -18466,7 +18487,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Towards ghostsilver lantern",
 		"icon": "up",
 		"x": 32827,
 		"y": 31665,
@@ -21240,7 +21261,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33422,
+		"x": 33423,
 		"y": 32264,
 		"z": 11
 	},
@@ -21249,13 +21270,6 @@
 		"icon": "up",
 		"x": 33424,
 		"y": 31568,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33424,
-		"y": 32265,
 		"z": 11
 	},
 	{
@@ -22656,6 +22670,20 @@
 		"icon": "down",
 		"x": 33285,
 		"y": 31700,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33293,
+		"y": 32291,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33295,
+		"y": 32270,
 		"z": 12
 	},
 	{
