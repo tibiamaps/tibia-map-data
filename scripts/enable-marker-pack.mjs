@@ -1,14 +1,16 @@
-'use strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import url from 'node:url';
 
-const fs = require('fs');
-const path = require('path');
+const __filename = url.fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const sortMarkers = require('tibia-maps/src/sort-markers.js');
+import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 
 // Example usage:
-// node scripts/enable-marker-pack.js 'percht'
-// node scripts/enable-marker-pack.js 'orcsoberfest'
-// node scripts/enable-marker-pack.js 'some-other-category' # non-special case
+// node scripts/enable-marker-pack.mjs 'percht'
+// node scripts/enable-marker-pack.mjs 'orcsoberfest'
+// node scripts/enable-marker-pack.mjs 'some-other-category' # non-special case
 const arg = process.argv[2];
 
 const map = new Map([

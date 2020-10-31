@@ -1,9 +1,11 @@
-'use strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import url from 'node:url';
 
-const fs = require('fs');
-const path = require('path');
+const __filename = url.fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const sortMarkers = require('tibia-maps/src/sort-markers.js');
+import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 
 const SPECIAL_ID = 'orcsoberfest-island';
 

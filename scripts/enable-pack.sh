@@ -26,4 +26,4 @@ cp -f extra/"${1}"-island/*.png minimap;
 echo 'Converting updated minimap back to `data/*`…';
 tibia-maps --from-minimap=./minimap --output-dir=./data;
 echo 'Updating markers…';
-node scripts/enable-marker-pack.js "${1}";
+node scripts/enable-marker-pack.mjs "${1}";
