@@ -16,7 +16,7 @@ for file in data/*.json; do
 	jsesc --object --json < "${file}" > "${DIST_DIR}/$(basename ${file})";
 done;
 echo 'Compressing PNG images…';
-imagemin data/*.png "${DIST_DIR}/";
+imagemin data/*.png --out-dir="${DIST_DIR}";
 
 cd "${DIST_DIR}";
 
@@ -56,7 +56,7 @@ tibia-count-walkable-tiles ../data/floor-*-path.png > walkable-tiles.json;
 # be removed.
 echo 'Generating optimized images for the online mapper…';
 mkdir -p mapper;
-imagemin minimap-without-markers/Minimap_Color_*.png mapper/;
+imagemin minimap-without-markers/Minimap_Color_*.png --out-dir=mapper;
 
 # Generate a list of known tile IDs, for online map viewers to use as a
 # whitelist.

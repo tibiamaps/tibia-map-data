@@ -2,8 +2,8 @@
 	"private": true,
 	"devDependencies": {
 		"@alrra/travis-scripts": "^3.0.1",
-		"imagemin-cli": "^2.1.0",
-		"jsesc": "^2.2.0",
+		"imagemin-cli": "^6.0.0",
+		"jsesc": "^3.0.2",
 		"tibia-count-walkable-tiles": "*",
 		"tibia-maps": "github:tibiamaps/tibia-maps-script"
 	},
