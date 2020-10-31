@@ -3,7 +3,7 @@ language: node_js
 before_install:
   - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
   - sudo apt-get update
-  - sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++-4.8 --force-yes
+  - sudo apt-get install build-essential g++-4.8 libcairo2-dev libpango1.0-dev --force-yes
   - export CXX='g++-4.8'
 script:
   - tibia-maps --version
