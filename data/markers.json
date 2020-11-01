@@ -1176,6 +1176,27 @@
 		"z": 4
 	},
 	{
+		"description": "Darashia",
+		"icon": "flag",
+		"x": 32815,
+		"y": 32344,
+		"z": 4
+	},
+	{
+		"description": "Mintwallin",
+		"icon": "flag",
+		"x": 32817,
+		"y": 32347,
+		"z": 4
+	},
+	{
+		"description": "Ankrahmun",
+		"icon": "flag",
+		"x": 32822,
+		"y": 32344,
+		"z": 4
+	},
+	{
 		"description": "Old shrine (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32934,
@@ -1894,6 +1915,27 @@
 		"icon": "sword",
 		"x": 32787,
 		"y": 31249,
+		"z": 5
+	},
+	{
+		"description": "Ab'dendriel",
+		"icon": "flag",
+		"x": 32815,
+		"y": 32344,
+		"z": 5
+	},
+	{
+		"description": "Kazordoon",
+		"icon": "flag",
+		"x": 32818,
+		"y": 32347,
+		"z": 5
+	},
+	{
+		"description": "Fibula",
+		"icon": "flag",
+		"x": 32822,
+		"y": 32344,
 		"z": 5
 	},
 	{
@@ -2944,6 +2986,27 @@
 		"icon": "?",
 		"x": 32726,
 		"y": 31976,
+		"z": 6
+	},
+	{
+		"description": "Thais",
+		"icon": "flag",
+		"x": 32815,
+		"y": 32344,
+		"z": 6
+	},
+	{
+		"description": "Realm of Dreams",
+		"icon": "flag",
+		"x": 32818,
+		"y": 32347,
+		"z": 6
+	},
+	{
+		"description": "Carlin",
+		"icon": "flag",
+		"x": 32822,
+		"y": 32344,
 		"z": 6
 	},
 	{
@@ -8873,13 +8936,6 @@
 		"icon": "!",
 		"x": 33221,
 		"y": 31922,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "skull",
-		"x": 33221,
-		"y": 32281,
 		"z": 7
 	},
 	{
@@ -16584,6 +16640,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33299,
+		"y": 32279,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33300,
 		"y": 32290,
@@ -17070,13 +17133,6 @@
 		"icon": "up",
 		"x": 33610,
 		"y": 32267,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33611,
-		"y": 32269,
 		"z": 9
 	},
 	{
@@ -19259,6 +19315,20 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33299,
+		"y": 32279,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33306,
+		"y": 32290,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33322,
 		"y": 31548,
 		"z": 10
@@ -21141,6 +21211,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33293,
+		"y": 32291,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "red left",
 		"x": 33303,
 		"y": 31692,
@@ -21151,6 +21228,13 @@
 		"icon": "down",
 		"x": 33306,
 		"y": 31705,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33306,
+		"y": 32290,
 		"z": 11
 	},
 	{
@@ -24752,6 +24836,27 @@
 		"z": 14
 	},
 	{
+		"description": "Towards exit",
+		"icon": "flag",
+		"x": 32749,
+		"y": 32344,
+		"z": 14
+	},
+	{
+		"description": "Brotherhood of Bones",
+		"icon": "flag",
+		"x": 32754,
+		"y": 32326,
+		"z": 14
+	},
+	{
+		"description": "Nightmare Knights",
+		"icon": "flag",
+		"x": 32760,
+		"y": 32330,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32767,
@@ -24763,6 +24868,13 @@
 		"icon": "up",
 		"x": 32767,
 		"y": 32816,
+		"z": 14
+	},
+	{
+		"description": "Towards exit",
+		"icon": "flag",
+		"x": 32770,
+		"y": 32252,
 		"z": 14
 	},
 	{
@@ -24819,6 +24931,13 @@
 		"icon": "checkmark",
 		"x": 32843,
 		"y": 32348,
+		"z": 14
+	},
+	{
+		"description": "Towards exit",
+		"icon": "flag",
+		"x": 32844,
+		"y": 32239,
 		"z": 14
 	},
 	{
