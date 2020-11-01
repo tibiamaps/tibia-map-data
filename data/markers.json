@@ -9513,9 +9513,9 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33422,
+		"description": "NPC Aurita",
+		"icon": "mouth",
+		"x": 33423,
 		"y": 32262,
 		"z": 7
 	},
@@ -9548,8 +9548,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "NPC Gerimor",
+		"icon": "mouth",
 		"x": 33447,
 		"y": 32246,
 		"z": 7
@@ -9653,8 +9653,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "NPC Maelyrra",
+		"icon": "mouth",
 		"x": 33484,
 		"y": 32238,
 		"z": 7
@@ -9681,13 +9681,6 @@
 		"z": 7
 	},
 	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33488,
-		"y": 32246,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33489,
@@ -9702,8 +9695,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "NPC Taegen",
+		"icon": "mouth",
 		"x": 33492,
 		"y": 32226,
 		"z": 7
@@ -9720,13 +9713,6 @@
 		"icon": "star",
 		"x": 33494,
 		"y": 32318,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33497,
-		"y": 32197,
 		"z": 7
 	},
 	{
@@ -9766,13 +9752,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33503,
-		"y": 32239,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "crossmark",
 		"x": 33508,
 		"y": 31180,
@@ -9780,7 +9759,7 @@
 	},
 	{
 		"description": "Magic shop",
-		"icon": "star",
+		"icon": "bag",
 		"x": 33509,
 		"y": 32224,
 		"z": 7
@@ -9849,13 +9828,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33518,
-		"y": 32243,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33518,
@@ -9874,13 +9846,6 @@
 		"icon": "bag",
 		"x": 33520,
 		"y": 32559,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33523,
-		"y": 32212,
 		"z": 7
 	},
 	{
@@ -10059,13 +10024,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33547,
-		"y": 32151,
-		"z": 7
-	},
-	{
 		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33547,
@@ -10154,13 +10112,6 @@
 		"icon": "down",
 		"x": 33554,
 		"y": 32211,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33554,
-		"y": 32221,
 		"z": 7
 	},
 	{
