@@ -16555,6 +16555,13 @@
 		"z": 9
 	},
 	{
+		"description": "NPC Denominator",
+		"icon": "mouth",
+		"x": 33216,
+		"y": 32144,
+		"z": 9
+	},
+	{
 		"description": "Teleport to entrance",
 		"icon": "flag",
 		"x": 33218,
@@ -16566,6 +16573,13 @@
 		"icon": "star",
 		"x": 33219,
 		"y": 32099,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33221,
+		"y": 32147,
 		"z": 9
 	},
 	{
@@ -16594,6 +16608,13 @@
 		"icon": "star",
 		"x": 33261,
 		"y": 32084,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33264,
+		"y": 32171,
 		"z": 9
 	},
 	{
@@ -19245,6 +19266,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33217,
+		"y": 32147,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33221,
 		"y": 32354,
 		"z": 10
@@ -19310,6 +19338,13 @@
 		"icon": "checkmark",
 		"x": 33298,
 		"y": 32099,
+		"z": 10
+	},
+	{
+		"description": "Lever",
+		"icon": "star",
+		"x": 33298,
+		"y": 32144,
 		"z": 10
 	},
 	{
