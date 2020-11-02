@@ -13560,6 +13560,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33164,
+		"y": 31932,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33165,
 		"y": 31211,
@@ -13581,6 +13588,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33171,
+		"y": 31896,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33172,
 		"y": 31843,
@@ -13591,6 +13605,13 @@
 		"icon": "up",
 		"x": 33173,
 		"y": 31075,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33173,
+		"y": 31900,
 		"z": 8
 	},
 	{
@@ -16352,6 +16373,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33123,
+		"y": 31919,
+		"z": 9
+	},
+	{
 		"description": "Hyaena statue",
 		"icon": "crossmark",
 		"x": 33127,
@@ -16402,13 +16430,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33137,
-		"y": 31919,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33139,
 		"y": 32335,
@@ -16447,6 +16468,13 @@
 		"icon": "down",
 		"x": 33164,
 		"y": 31173,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33164,
+		"y": 31932,
 		"z": 9
 	},
 	{
@@ -19128,6 +19156,13 @@
 		"icon": "up",
 		"x": 33122,
 		"y": 32280,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33123,
+		"y": 31919,
 		"z": 10
 	},
 	{
@@ -22680,10 +22715,10 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33169,
-		"y": 31928,
+		"description": "To Voidborn pre-lever room",
+		"icon": "flag",
+		"x": 33167,
+		"y": 31930,
 		"z": 12
 	},
 	{
@@ -26593,10 +26628,10 @@
 		"z": 15
 	},
 	{
-		"description": "Voidborn pre-lever room",
-		"icon": "sword",
-		"x": 33180,
-		"y": 31840,
+		"description": "To Voidborn lever room",
+		"icon": "flag",
+		"x": 33178,
+		"y": 31845,
 		"z": 15
 	},
 	{
