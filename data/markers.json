@@ -231,8 +231,8 @@
 		"z": 2
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red right",
+		"description": "",
+		"icon": "down",
 		"x": 32075,
 		"y": 32607,
 		"z": 2
@@ -539,8 +539,8 @@
 		"z": 3
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red right",
+		"description": "",
+		"icon": "down",
 		"x": 32060,
 		"y": 32596,
 		"z": 3
@@ -567,8 +567,8 @@
 		"z": 3
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
+		"description": "",
+		"icon": "up",
 		"x": 32077,
 		"y": 32606,
 		"z": 3
@@ -973,8 +973,8 @@
 		"z": 4
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
+		"description": "",
+		"icon": "up",
 		"x": 32061,
 		"y": 32597,
 		"z": 4
@@ -987,8 +987,8 @@
 		"z": 4
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red down",
+		"description": "",
+		"icon": "down",
 		"x": 32066,
 		"y": 32623,
 		"z": 4
@@ -1173,27 +1173,6 @@
 		"icon": "down",
 		"x": 32618,
 		"y": 31927,
-		"z": 4
-	},
-	{
-		"description": "Darashia",
-		"icon": "flag",
-		"x": 32815,
-		"y": 32344,
-		"z": 4
-	},
-	{
-		"description": "Mintwallin",
-		"icon": "flag",
-		"x": 32817,
-		"y": 32347,
-		"z": 4
-	},
-	{
-		"description": "Ankrahmun",
-		"icon": "flag",
-		"x": 32822,
-		"y": 32344,
 		"z": 4
 	},
 	{
@@ -1589,8 +1568,8 @@
 		"z": 5
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red down",
+		"description": "",
+		"icon": "down",
 		"x": 32048,
 		"y": 32609,
 		"z": 5
@@ -1645,8 +1624,8 @@
 		"z": 5
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red up",
+		"description": "",
+		"icon": "up",
 		"x": 32066,
 		"y": 32624,
 		"z": 5
@@ -1915,27 +1894,6 @@
 		"icon": "sword",
 		"x": 32787,
 		"y": 31249,
-		"z": 5
-	},
-	{
-		"description": "Ab'dendriel",
-		"icon": "flag",
-		"x": 32815,
-		"y": 32344,
-		"z": 5
-	},
-	{
-		"description": "Kazordoon",
-		"icon": "flag",
-		"x": 32818,
-		"y": 32347,
-		"z": 5
-	},
-	{
-		"description": "Fibula",
-		"icon": "flag",
-		"x": 32822,
-		"y": 32344,
 		"z": 5
 	},
 	{
@@ -2520,8 +2478,8 @@
 		"z": 6
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red up",
+		"description": "",
+		"icon": "up",
 		"x": 32047,
 		"y": 32610,
 		"z": 6
@@ -2569,8 +2527,8 @@
 		"z": 6
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red down",
+		"description": "",
+		"icon": "down",
 		"x": 32067,
 		"y": 32632,
 		"z": 6
@@ -2870,10 +2828,10 @@
 		"z": 6
 	},
 	{
-		"description": "Boat",
+		"description": "Harbour",
 		"icon": "flag",
-		"x": 32530,
-		"y": 32783,
+		"x": 32536,
+		"y": 32778,
 		"z": 6
 	},
 	{
@@ -2986,27 +2944,6 @@
 		"icon": "?",
 		"x": 32726,
 		"y": 31976,
-		"z": 6
-	},
-	{
-		"description": "Thais",
-		"icon": "flag",
-		"x": 32815,
-		"y": 32344,
-		"z": 6
-	},
-	{
-		"description": "Realm of Dreams",
-		"icon": "flag",
-		"x": 32818,
-		"y": 32347,
-		"z": 6
-	},
-	{
-		"description": "Carlin",
-		"icon": "flag",
-		"x": 32822,
-		"y": 32344,
 		"z": 6
 	},
 	{
@@ -4026,6 +3963,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33879,
+		"y": 31252,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 31915,
 		"y": 32590,
@@ -4035,7 +3979,14 @@
 		"description": "To portals",
 		"icon": "down",
 		"x": 31921,
-		"y": 32657,
+		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 31921,
+		"y": 32658,
 		"z": 7
 	},
 	{
@@ -4053,6 +4004,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 31936,
+		"y": 32676,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot (to NPC Nomad)",
 		"icon": "red up",
 		"x": 31940,
@@ -4064,13 +4022,6 @@
 		"icon": "down",
 		"x": 31946,
 		"y": 32556,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 31966,
-		"y": 32679,
 		"z": 7
 	},
 	{
@@ -4298,8 +4249,8 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red up",
+		"description": "",
+		"icon": "up",
 		"x": 32066,
 		"y": 32633,
 		"z": 7
@@ -5446,7 +5397,7 @@
 		"z": 7
 	},
 	{
-		"description": "Baby seal",
+		"description": "Baby Seal",
 		"icon": "checkmark",
 		"x": 32342,
 		"y": 31218,
@@ -5933,13 +5884,6 @@
 		"icon": "flag",
 		"x": 32440,
 		"y": 32971,
-		"z": 7
-	},
-	{
-		"description": "Towards Ancient Lion Knight",
-		"icon": "red down",
-		"x": 32441,
-		"y": 32468,
 		"z": 7
 	},
 	{
@@ -8939,6 +8883,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "skull",
+		"x": 33221,
+		"y": 32281,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33221,
@@ -9569,9 +9520,9 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Aurita",
-		"icon": "mouth",
-		"x": 33423,
+		"description": "",
+		"icon": "star",
+		"x": 33422,
 		"y": 32262,
 		"z": 7
 	},
@@ -9604,8 +9555,8 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Gerimor",
-		"icon": "mouth",
+		"description": "",
+		"icon": "star",
 		"x": 33447,
 		"y": 32246,
 		"z": 7
@@ -9709,8 +9660,8 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Maelyrra",
-		"icon": "mouth",
+		"description": "",
+		"icon": "star",
 		"x": 33484,
 		"y": 32238,
 		"z": 7
@@ -9737,6 +9688,13 @@
 		"z": 7
 	},
 	{
+		"description": "Swan feathers",
+		"icon": "star",
+		"x": 33488,
+		"y": 32246,
+		"z": 7
+	},
+	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33489,
@@ -9751,8 +9709,8 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Taegen",
-		"icon": "mouth",
+		"description": "",
+		"icon": "star",
 		"x": 33492,
 		"y": 32226,
 		"z": 7
@@ -9769,6 +9727,13 @@
 		"icon": "star",
 		"x": 33494,
 		"y": 32318,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33497,
+		"y": 32197,
 		"z": 7
 	},
 	{
@@ -9808,6 +9773,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33503,
+		"y": 32239,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33508,
 		"y": 31180,
@@ -9815,7 +9787,7 @@
 	},
 	{
 		"description": "Magic shop",
-		"icon": "bag",
+		"icon": "star",
 		"x": 33509,
 		"y": 32224,
 		"z": 7
@@ -9884,6 +9856,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33518,
+		"y": 32243,
+		"z": 7
+	},
+	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33518,
@@ -9902,6 +9881,13 @@
 		"icon": "bag",
 		"x": 33520,
 		"y": 32559,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33523,
+		"y": 32212,
 		"z": 7
 	},
 	{
@@ -10080,6 +10066,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33547,
+		"y": 32151,
+		"z": 7
+	},
+	{
 		"description": "Stone mosaics (use shining sun catcher during daytime)",
 		"icon": "crossmark",
 		"x": 33547,
@@ -10168,6 +10161,13 @@
 		"icon": "down",
 		"x": 33554,
 		"y": 32211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33554,
+		"y": 32221,
 		"z": 7
 	},
 	{
@@ -11291,6 +11291,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Tik'hi Tak'he",
+		"icon": "mouth",
+		"x": 33729,
+		"y": 31342,
+		"z": 7
+	},
+	{
 		"description": "Skull orchid",
 		"icon": "star",
 		"x": 33729,
@@ -11305,6 +11312,20 @@
 		"z": 7
 	},
 	{
+		"description": "Journey task",
+		"icon": "star",
+		"x": 33734,
+		"y": 31273,
+		"z": 7
+	},
+	{
+		"description": "Om'Wake Naha",
+		"icon": "mouth",
+		"x": 33744,
+		"y": 31330,
+		"z": 7
+	},
+	{
 		"description": "Teleport to The Feeding Grounds",
 		"icon": "flag",
 		"x": 33751,
@@ -11312,10 +11333,24 @@
 		"z": 7
 	},
 	{
+		"description": "Memory Test",
+		"icon": "crossmark",
+		"x": 33752,
+		"y": 31302,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33778,
 		"y": 31600,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33788,
+		"y": 31335,
 		"z": 7
 	},
 	{
@@ -11358,6 +11393,20 @@
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
+		"z": 7
+	},
+	{
+		"description": "To The Wreckoning/Tentugly",
+		"icon": "flag",
+		"x": 33800,
+		"y": 31358,
+		"z": 7
+	},
+	{
+		"description": "Small boat",
+		"icon": "flag",
+		"x": 33801,
+		"y": 31320,
 		"z": 7
 	},
 	{
@@ -11498,6 +11547,13 @@
 		"icon": "red down",
 		"x": 33875,
 		"y": 31477,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33879,
+		"y": 31252,
 		"z": 7
 	},
 	{
@@ -11669,13 +11725,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 31915,
-		"y": 32590,
-		"z": 8
-	},
-	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 31922,
@@ -11715,13 +11764,6 @@
 		"icon": "down",
 		"x": 31948,
 		"y": 32310,
-		"z": 8
-	},
-	{
-		"description": "To Talahu surface",
-		"icon": "up",
-		"x": 31961,
-		"y": 32636,
 		"z": 8
 	},
 	{
@@ -11785,13 +11827,6 @@
 		"icon": "star",
 		"x": 32009,
 		"y": 32353,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32016,
-		"y": 32696,
 		"z": 8
 	},
 	{
@@ -13560,13 +13595,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33164,
-		"y": 31932,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33165,
 		"y": 31211,
@@ -13588,13 +13616,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 33171,
-		"y": 31896,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33172,
 		"y": 31843,
@@ -13605,13 +13626,6 @@
 		"icon": "up",
 		"x": 33173,
 		"y": 31075,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33173,
-		"y": 31900,
 		"z": 8
 	},
 	{
@@ -13846,13 +13860,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33300,
-		"y": 32290,
-		"z": 8
-	},
-	{
 		"description": "Dazed leaf golem",
 		"icon": "sword",
 		"x": 33306,
@@ -13892,13 +13899,6 @@
 		"icon": "down",
 		"x": 33311,
 		"y": 31680,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33312,
-		"y": 32281,
 		"z": 8
 	},
 	{
@@ -14513,6 +14513,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33788,
+		"y": 31335,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33793,
 		"y": 31597,
 		"z": 8
@@ -14575,6 +14582,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33862,
+		"y": 31362,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33862,
 		"y": 31454,
@@ -14626,6 +14640,13 @@
 		"description": "",
 		"icon": "down",
 		"x": 33877,
+		"y": 31400,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33877,
 		"y": 31843,
 		"z": 8
 	},
@@ -14662,6 +14683,13 @@
 		"icon": "checkmark",
 		"x": 33905,
 		"y": 31501,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33917,
+		"y": 31469,
 		"z": 8
 	},
 	{
@@ -14725,13 +14753,6 @@
 		"icon": "flag",
 		"x": 31909,
 		"y": 31187,
-		"z": 9
-	},
-	{
-		"description": "Towards mushroom island teleport",
-		"icon": "down",
-		"x": 31919,
-		"y": 32591,
 		"z": 9
 	},
 	{
@@ -14799,13 +14820,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 31959,
-		"y": 32695,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 31962,
 		"y": 31378,
@@ -14823,13 +14837,6 @@
 		"icon": "sword",
 		"x": 31963,
 		"y": 32328,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 31965,
-		"y": 32632,
 		"z": 9
 	},
 	{
@@ -14879,13 +14886,6 @@
 		"icon": "down",
 		"x": 32005,
 		"y": 32344,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32007,
-		"y": 32712,
 		"z": 9
 	},
 	{
@@ -16373,13 +16373,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33123,
-		"y": 31919,
-		"z": 9
-	},
-	{
 		"description": "Hyaena statue",
 		"icon": "crossmark",
 		"x": 33127,
@@ -16430,6 +16423,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33137,
+		"y": 31919,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33139,
 		"y": 32335,
@@ -16468,13 +16468,6 @@
 		"icon": "down",
 		"x": 33164,
 		"y": 31173,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33164,
-		"y": 31932,
 		"z": 9
 	},
 	{
@@ -16583,13 +16576,6 @@
 		"z": 9
 	},
 	{
-		"description": "NPC Denominator",
-		"icon": "mouth",
-		"x": 33216,
-		"y": 32144,
-		"z": 9
-	},
-	{
 		"description": "Teleport to entrance",
 		"icon": "flag",
 		"x": 33218,
@@ -16601,13 +16587,6 @@
 		"icon": "star",
 		"x": 33219,
 		"y": 32099,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33221,
-		"y": 32147,
 		"z": 9
 	},
 	{
@@ -16636,13 +16615,6 @@
 		"icon": "star",
 		"x": 33261,
 		"y": 32084,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33264,
-		"y": 32171,
 		"z": 9
 	},
 	{
@@ -16685,20 +16657,6 @@
 		"icon": "flag",
 		"x": 33297,
 		"y": 31287,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33299,
-		"y": 32279,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33300,
-		"y": 32290,
 		"z": 9
 	},
 	{
@@ -17186,6 +17144,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33611,
+		"y": 32269,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33615,
 		"y": 32166,
@@ -17388,6 +17353,20 @@
 		"z": 9
 	},
 	{
+		"description": "NPC Eustacios Spy Rat",
+		"icon": "mouth",
+		"x": 33857,
+		"y": 31334,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33862,
+		"y": 31362,
+		"z": 9
+	},
+	{
 		"description": "To Vengoth",
 		"icon": "flag",
 		"x": 33863,
@@ -17434,6 +17413,13 @@
 		"icon": "star",
 		"x": 33873,
 		"y": 31433,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33877,
+		"y": 31400,
 		"z": 9
 	},
 	{
@@ -17605,13 +17591,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 31977,
-		"y": 32696,
-		"z": 10
-	},
-	{
 		"description": "Undead cavebear (spawn location)",
 		"icon": "star",
 		"x": 31980,
@@ -17700,13 +17679,6 @@
 		"icon": "up",
 		"x": 32146,
 		"y": 32613,
-		"z": 10
-	},
-	{
-		"description": "Witches’ cap spot (The Ape City quest)",
-		"icon": "star",
-		"x": 32183,
-		"y": 32468,
 		"z": 10
 	},
 	{
@@ -18543,7 +18515,7 @@
 		"z": 10
 	},
 	{
-		"description": "Towards ghostsilver lantern",
+		"description": "",
 		"icon": "up",
 		"x": 32827,
 		"y": 31665,
@@ -19160,13 +19132,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33123,
-		"y": 31919,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "red up",
 		"x": 33124,
 		"y": 32262,
@@ -19301,13 +19266,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33217,
-		"y": 32147,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33221,
 		"y": 32354,
 		"z": 10
@@ -19373,27 +19331,6 @@
 		"icon": "checkmark",
 		"x": 33298,
 		"y": 32099,
-		"z": 10
-	},
-	{
-		"description": "Lever",
-		"icon": "star",
-		"x": 33298,
-		"y": 32144,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33299,
-		"y": 32279,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33306,
-		"y": 32290,
 		"z": 10
 	},
 	{
@@ -21281,13 +21218,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33293,
-		"y": 32291,
-		"z": 11
-	},
-	{
-		"description": "",
 		"icon": "red left",
 		"x": 33303,
 		"y": 31692,
@@ -21298,13 +21228,6 @@
 		"icon": "down",
 		"x": 33306,
 		"y": 31705,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33306,
-		"y": 32290,
 		"z": 11
 	},
 	{
@@ -21366,7 +21289,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33423,
+		"x": 33422,
 		"y": 32264,
 		"z": 11
 	},
@@ -21375,6 +21298,13 @@
 		"icon": "up",
 		"x": 33424,
 		"y": 31568,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33424,
+		"y": 32265,
 		"z": 11
 	},
 	{
@@ -22715,10 +22645,10 @@
 		"z": 12
 	},
 	{
-		"description": "To Voidborn pre-lever room",
-		"icon": "flag",
-		"x": 33167,
-		"y": 31930,
+		"description": "",
+		"icon": "star",
+		"x": 33169,
+		"y": 31928,
 		"z": 12
 	},
 	{
@@ -22775,20 +22705,6 @@
 		"icon": "down",
 		"x": 33285,
 		"y": 31700,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33293,
-		"y": 32291,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33295,
-		"y": 32270,
 		"z": 12
 	},
 	{
@@ -23143,13 +23059,6 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
-		"x": 32010,
-		"y": 31947,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32011,
 		"y": 31972,
@@ -23258,13 +23167,6 @@
 		"icon": "down",
 		"x": 32093,
 		"y": 31326,
-		"z": 13
-	},
-	{
-		"description": "Portal to Mixed area",
-		"icon": "flag",
-		"x": 32101,
-		"y": 31922,
 		"z": 13
 	},
 	{
@@ -24136,10 +24038,10 @@
 		"z": 13
 	},
 	{
-		"description": "Obelisk (The Ape City quest)",
-		"icon": "star",
-		"x": 33305,
-		"y": 32861,
+		"description": "",
+		"icon": "checkmark",
+		"x": 33297,
+		"y": 32860,
 		"z": 13
 	},
 	{
@@ -24906,27 +24808,6 @@
 		"z": 14
 	},
 	{
-		"description": "Towards exit",
-		"icon": "flag",
-		"x": 32749,
-		"y": 32344,
-		"z": 14
-	},
-	{
-		"description": "Brotherhood of Bones",
-		"icon": "flag",
-		"x": 32754,
-		"y": 32326,
-		"z": 14
-	},
-	{
-		"description": "Nightmare Knights",
-		"icon": "flag",
-		"x": 32760,
-		"y": 32330,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32767,
@@ -24938,13 +24819,6 @@
 		"icon": "up",
 		"x": 32767,
 		"y": 32816,
-		"z": 14
-	},
-	{
-		"description": "Towards exit",
-		"icon": "flag",
-		"x": 32770,
-		"y": 32252,
 		"z": 14
 	},
 	{
@@ -25001,13 +24875,6 @@
 		"icon": "checkmark",
 		"x": 32843,
 		"y": 32348,
-		"z": 14
-	},
-	{
-		"description": "Towards exit",
-		"icon": "flag",
-		"x": 32844,
-		"y": 32239,
 		"z": 14
 	},
 	{
@@ -26628,10 +26495,10 @@
 		"z": 15
 	},
 	{
-		"description": "To Voidborn lever room",
-		"icon": "flag",
-		"x": 33178,
-		"y": 31845,
+		"description": "Voidborn pre-lever room",
+		"icon": "sword",
+		"x": 33180,
+		"y": 31840,
 		"z": 15
 	},
 	{
