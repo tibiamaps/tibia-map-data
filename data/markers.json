@@ -11291,6 +11291,13 @@
 		"z": 7
 	},
 	{
+		"description": "Tik'hi Tak'he",
+		"icon": "mouth",
+		"x": 33729,
+		"y": 31343,
+		"z": 7
+	},
+	{
 		"description": "Skull orchid",
 		"icon": "star",
 		"x": 33729,
@@ -11305,6 +11312,20 @@
 		"z": 7
 	},
 	{
+		"description": "Journey task",
+		"icon": "crossmark",
+		"x": 33734,
+		"y": 31273,
+		"z": 7
+	},
+	{
+		"description": "Supplies task",
+		"icon": "crossmark",
+		"x": 33740,
+		"y": 31334,
+		"z": 7
+	},
+	{
 		"description": "Teleport to The Feeding Grounds",
 		"icon": "flag",
 		"x": 33751,
@@ -11312,10 +11333,24 @@
 		"z": 7
 	},
 	{
+		"description": "Memory task",
+		"icon": "crossmark",
+		"x": 33762,
+		"y": 31299,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33778,
 		"y": 31600,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33788,
+		"y": 31335,
 		"z": 7
 	},
 	{
@@ -11358,6 +11393,20 @@
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
+		"z": 7
+	},
+	{
+		"description": "The Wreckoning/Tentugly",
+		"icon": "crossmark",
+		"x": 33800,
+		"y": 31358,
+		"z": 7
+	},
+	{
+		"description": "Small Boat",
+		"icon": "flag",
+		"x": 33801,
+		"y": 31319,
 		"z": 7
 	},
 	{
@@ -14513,6 +14562,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33787,
+		"y": 31335,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33793,
 		"y": 31597,
 		"z": 8
@@ -14575,6 +14631,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33862,
+		"y": 31362,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33862,
 		"y": 31454,
@@ -14620,6 +14683,13 @@
 		"icon": "flag",
 		"x": 33876,
 		"y": 31883,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33877,
+		"y": 31400,
 		"z": 8
 	},
 	{
@@ -17360,6 +17430,13 @@
 		"z": 9
 	},
 	{
+		"description": "Stealth task",
+		"icon": "crossmark",
+		"x": 33854,
+		"y": 31334,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 33854,
@@ -17385,6 +17462,13 @@
 		"icon": "checkmark",
 		"x": 33856,
 		"y": 31814,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33862,
+		"y": 31362,
 		"z": 9
 	},
 	{
@@ -17434,6 +17518,13 @@
 		"icon": "star",
 		"x": 33873,
 		"y": 31433,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33877,
+		"y": 31400,
 		"z": 9
 	},
 	{
