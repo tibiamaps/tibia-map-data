@@ -2401,6 +2401,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33890,
+		"y": 31203,
+		"z": 5
+	},
+	{
 		"description": "NPC Nomad (enhanced blessing)",
 		"icon": "mouth",
 		"x": 31940,
@@ -3052,6 +3059,13 @@
 		"z": 6
 	},
 	{
+		"description": "Eustacio's Home",
+		"icon": "mouth",
+		"x": 32922,
+		"y": 32140,
+		"z": 6
+	},
+	{
 		"description": "To the knight and paladin trainer",
 		"icon": "down",
 		"x": 32936,
@@ -3147,13 +3161,6 @@
 		"icon": "down",
 		"x": 32998,
 		"y": 32096,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33004,
-		"y": 32095,
 		"z": 6
 	},
 	{
@@ -4022,6 +4029,13 @@
 		"icon": "up",
 		"x": 33865,
 		"y": 31489,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33897,
+		"y": 31230,
 		"z": 6
 	},
 	{
@@ -11550,6 +11564,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33879,
+		"y": 31252,
+		"z": 7
+	},
+	{
 		"description": "Training Statues",
 		"icon": "sword",
 		"x": 33882,
@@ -14732,6 +14753,13 @@
 		"icon": "checkmark",
 		"x": 33905,
 		"y": 31501,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33917,
+		"y": 31469,
 		"z": 8
 	},
 	{
@@ -20157,6 +20185,13 @@
 		"icon": "up",
 		"x": 32241,
 		"y": 31045,
+		"z": 11
+	},
+	{
+		"description": "Larry",
+		"icon": "mouth",
+		"x": 32268,
+		"y": 32811,
 		"z": 11
 	},
 	{
