@@ -3165,6 +3165,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33004,
+		"y": 32095,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33008,
 		"y": 32618,
@@ -7231,7 +7238,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the Training Statues",
+		"description": "To the training statues",
 		"icon": "up",
 		"x": 32786,
 		"y": 31248,
@@ -11571,7 +11578,7 @@
 		"z": 7
 	},
 	{
-		"description": "Training Statues",
+		"description": "Training statues",
 		"icon": "sword",
 		"x": 33882,
 		"y": 31531,
@@ -12768,7 +12775,7 @@
 		"z": 8
 	},
 	{
-		"description": "Training Statues",
+		"description": "Training statues",
 		"icon": "star",
 		"x": 32688,
 		"y": 31672,
