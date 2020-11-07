@@ -2387,6 +2387,13 @@
 		"z": 5
 	},
 	{
+		"description": "Fog to lower floor",
+		"icon": "sword",
+		"x": 33856,
+		"y": 31884,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33865,
@@ -11421,13 +11428,6 @@
 		"icon": "crossmark",
 		"x": 33800,
 		"y": 31358,
-		"z": 7
-	},
-	{
-		"description": "Small Boat",
-		"icon": "flag",
-		"x": 33801,
-		"y": 31319,
 		"z": 7
 	},
 	{
