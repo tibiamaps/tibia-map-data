@@ -2639,13 +2639,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "skull",
-		"x": 32163,
-		"y": 31290,
-		"z": 6
-	},
-	{
 		"description": "To glowing vortex: breach broods, dread intruders, sparkions",
 		"icon": "red down",
 		"x": 32163,
@@ -11365,6 +11358,13 @@
 		"icon": "crossmark",
 		"x": 33762,
 		"y": 31299,
+		"z": 7
+	},
+	{
+		"description": "Shortcut to Venore",
+		"icon": "flag",
+		"x": 33774,
+		"y": 31348,
 		"z": 7
 	},
 	{
