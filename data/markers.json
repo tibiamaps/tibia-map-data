@@ -274,7 +274,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red right",
 		"x": 32163,
 		"y": 31161,
 		"z": 2
@@ -1722,8 +1722,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32146,
 		"y": 31081,
 		"z": 5
@@ -4046,6 +4046,13 @@
 		"z": 6
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 31895,
+		"y": 32585,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 31915,
@@ -4656,7 +4663,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red left",
 		"x": 32171,
 		"y": 31161,
 		"z": 7
@@ -7973,6 +7980,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33020,
+		"y": 32580,
+		"z": 7
+	},
+	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 33021,
+		"y": 32557,
+		"z": 7
+	},
+	{
 		"description": "Passage to the Forbidden Lands",
 		"icon": "flag",
 		"x": 33021,
@@ -8841,7 +8862,7 @@
 		"z": 7
 	},
 	{
-		"description": "Female Nomads",
+		"description": "Female nomads",
 		"icon": "checkmark",
 		"x": 33200,
 		"y": 32617,
@@ -13013,6 +13034,13 @@
 		"z": 8
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 32824,
+		"y": 31032,
+		"z": 8
+	},
+	{
 		"description": "Key 5010 (silver key)",
 		"icon": "?",
 		"x": 32824,
@@ -13266,9 +13294,16 @@
 	},
 	{
 		"description": "",
-		"icon": "crossmark",
+		"icon": "up",
+		"x": 33017,
+		"y": 32454,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33018,
-		"y": 32453,
+		"y": 32429,
 		"z": 8
 	},
 	{
@@ -13283,6 +13318,13 @@
 		"icon": "?",
 		"x": 33026,
 		"y": 31369,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33027,
+		"y": 32420,
 		"z": 8
 	},
 	{
@@ -13322,8 +13364,8 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33047,
+		"icon": "up",
+		"x": 33049,
 		"y": 32441,
 		"z": 8
 	},
@@ -15690,7 +15732,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 32616,
-		"y": 31699,
+		"y": 31700,
 		"z": 9
 	},
 	{
@@ -19026,6 +19068,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33033,
+		"y": 32395,
+		"z": 10
+	},
+	{
 		"description": "NPC Esrik",
 		"icon": "mouth",
 		"x": 33034,
@@ -19065,6 +19114,13 @@
 		"icon": "down",
 		"x": 33043,
 		"y": 32486,
+		"z": 10
+	},
+	{
+		"description": "Coffin (medusa shield quest)",
+		"icon": "star",
+		"x": 33048,
+		"y": 32399,
 		"z": 10
 	},
 	{
@@ -21084,6 +21140,13 @@
 		"z": 11
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 33015,
+		"y": 32384,
+		"z": 11
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 33019,
@@ -21382,6 +21445,13 @@
 		"icon": "up",
 		"x": 33192,
 		"y": 32399,
+		"z": 11
+	},
+	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 33193,
+		"y": 32690,
 		"z": 11
 	},
 	{
@@ -22317,9 +22387,9 @@
 	},
 	{
 		"description": "Portal out of Hellgate",
-		"icon": "up",
+		"icon": "flag",
 		"x": 32620,
-		"y": 31701,
+		"y": 31702,
 		"z": 12
 	},
 	{
@@ -23807,17 +23877,10 @@
 		"z": 13
 	},
 	{
-		"description": "To Draconia",
-		"icon": "down",
-		"x": 32825,
-		"y": 31701,
-		"z": 13
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32825,
-		"y": 31703,
+		"y": 31702,
 		"z": 13
 	},
 	{
@@ -24976,6 +25039,13 @@
 		"z": 14
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 32599,
+		"y": 31899,
+		"z": 14
+	},
+	{
 		"description": "Key 3802 (copper key)",
 		"icon": "red up",
 		"x": 32602,
@@ -25033,7 +25103,7 @@
 	},
 	{
 		"description": "DS teleport",
-		"icon": "star",
+		"icon": "red up",
 		"x": 32739,
 		"y": 31686,
 		"z": 14
@@ -25043,6 +25113,13 @@
 		"icon": "flag",
 		"x": 32749,
 		"y": 32344,
+		"z": 14
+	},
+	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 32752,
+		"y": 31638,
 		"z": 14
 	},
 	{
