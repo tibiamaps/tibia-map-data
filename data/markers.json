@@ -49,6 +49,13 @@
 		"z": 1
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 32080,
+		"y": 31122,
+		"z": 1
+	},
+	{
 		"description": "Pile of bones (tinder box quest)",
 		"icon": "star",
 		"x": 32084,
@@ -4049,7 +4056,7 @@
 		"description": "Lightbringer's basin",
 		"icon": "star",
 		"x": 31895,
-		"y": 32585,
+		"y": 32586,
 		"z": 7
 	},
 	{
@@ -7389,6 +7396,13 @@
 		"icon": "red up",
 		"x": 32826,
 		"y": 31497,
+		"z": 7
+	},
+	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 32827,
+		"y": 32362,
 		"z": 7
 	},
 	{
@@ -16612,6 +16626,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33161,
+		"y": 31624,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33164,
 		"y": 31173,
@@ -18435,6 +18456,13 @@
 		"icon": "up",
 		"x": 32628,
 		"y": 32132,
+		"z": 10
+	},
+	{
+		"description": "Towards Hellgate",
+		"icon": "red up",
+		"x": 32676,
+		"y": 31672,
 		"z": 10
 	},
 	{
@@ -24283,6 +24311,13 @@
 		"z": 13
 	},
 	{
+		"description": "Lightbringer's basin",
+		"icon": "star",
+		"x": 33231,
+		"y": 31639,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33235,
@@ -25099,13 +25134,6 @@
 		"icon": "down",
 		"x": 32732,
 		"y": 32642,
-		"z": 14
-	},
-	{
-		"description": "DS teleport",
-		"icon": "red up",
-		"x": 32739,
-		"y": 31686,
 		"z": 14
 	},
 	{
