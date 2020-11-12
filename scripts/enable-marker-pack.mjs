@@ -10,6 +10,7 @@ import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 // Example usage:
 // node scripts/enable-marker-pack.mjs 'percht'
 // node scripts/enable-marker-pack.mjs 'orcsoberfest'
+// node scripts/enable-marker-pack.mjs 'lightbearer' # non-special case
 // node scripts/enable-marker-pack.mjs 'some-other-category' # non-special case
 const arg = process.argv[2];
 
@@ -46,7 +47,7 @@ if (isSpecialCase) {
 	}
 }
 let currentMarkers = readJSON('../data/markers.json');
-const newSpecialMarkers = readJSON(`../extra/${NEW_SPECIAL_ID}/markers.json`);
+const newSpecialMarkers = readJSON(`../extra/${NEW_SPECIAL_ID || arg}/markers.json`);
 
 if (isSpecialCase) {
 	currentMarkers = currentMarkers.filter(marker => {
