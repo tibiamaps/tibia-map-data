@@ -1,0 +1,36 @@
+name: 'Disable Lightbearer pack'
+
+on:
+  schedule:
+    # Run annually at 04:00 UTC on November 16th.
+    - cron: '0 4 16 11 *'
+  workflow_dispatch:
+
+jobs:
+  import-markers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Read .nvmrc
+        run: echo ::set-output name=NVMRC::$(cat .nvmrc)
+        id: nvm
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Disable pack
+        run: |
+          node scripts/disable-marker-pack.mjs lightbearer
+          git config user.name 'Mathias Bynens'
+          git config user.email 'mathias@qiwi.be'
+          git commit data -m 'Disable Lightbearer pack' -m 'This patch disables the Lightbearer markers now that the event (which runs from November 11th until November 15th) has come to and end.'
+          git push
