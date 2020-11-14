@@ -7794,7 +7794,7 @@
 		"description": "Bone circle (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32942,
-		"y": 31497,
+		"y": 31496,
 		"z": 7
 	},
 	{
@@ -7805,17 +7805,17 @@
 		"z": 7
 	},
 	{
-		"description": "Bottomless pit (Blood Brothers quest)",
-		"icon": "crossmark",
-		"x": 32949,
-		"y": 31519,
-		"z": 7
-	},
-	{
 		"description": "Giant spiders",
 		"icon": "red down",
 		"x": 32949,
 		"y": 32534,
+		"z": 7
+	},
+	{
+		"description": "Bottomless pit (Blood Brothers quest)",
+		"icon": "crossmark",
+		"x": 32950,
+		"y": 31520,
 		"z": 7
 	},
 	{
@@ -19295,7 +19295,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33092,
-		"y": 32068,
+		"y": 32069,
 		"z": 10
 	},
 	{
