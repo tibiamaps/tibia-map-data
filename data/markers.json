@@ -78,7 +78,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red right",
 		"x": 32092,
 		"y": 31188,
 		"z": 1
@@ -260,7 +260,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red left",
 		"x": 32093,
 		"y": 31188,
 		"z": 2
@@ -4652,6 +4652,13 @@
 		"icon": "red down",
 		"x": 32158,
 		"y": 32782,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32159,
+		"y": 32555,
 		"z": 7
 	},
 	{
@@ -11382,13 +11389,6 @@
 		"z": 7
 	},
 	{
-		"description": "Mailbox",
-		"icon": "lock",
-		"x": 33744,
-		"y": 31322,
-		"z": 7
-	},
-	{
 		"description": "Teleport to The Feeding Grounds",
 		"icon": "flag",
 		"x": 33751,
@@ -11648,13 +11648,6 @@
 		"z": 7
 	},
 	{
-		"description": "To Ratmiral Blackwhiskers",
-		"icon": "sword",
-		"x": 33892,
-		"y": 31196,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33893,
@@ -11729,6 +11722,13 @@
 		"icon": "red down",
 		"x": 33925,
 		"y": 31466,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33930,
+		"y": 31568,
 		"z": 7
 	},
 	{
@@ -14620,6 +14620,13 @@
 		"icon": "checkmark",
 		"x": 33768,
 		"y": 31623,
+		"z": 8
+	},
+	{
+		"description": "Wooden cage key (Kilmaresh quest)",
+		"icon": "star",
+		"x": 33768,
+		"y": 31625,
 		"z": 8
 	},
 	{
@@ -23374,6 +23381,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32010,
+		"y": 31947,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32011,
 		"y": 31972,
@@ -23482,6 +23496,13 @@
 		"icon": "down",
 		"x": 32093,
 		"y": 31326,
+		"z": 13
+	},
+	{
+		"description": "Portal to Mixed area",
+		"icon": "flag",
+		"x": 32101,
+		"y": 31922,
 		"z": 13
 	},
 	{
