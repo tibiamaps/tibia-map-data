@@ -7539,13 +7539,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Banuta",
-		"icon": "checkmark",
-		"x": 32837,
-		"y": 32557,
-		"z": 7
-	},
-	{
 		"description": "Towards key 3700",
 		"icon": "down",
 		"x": 32841,
@@ -7672,13 +7665,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Banuta",
-		"icon": "star",
-		"x": 32873,
-		"y": 32532,
-		"z": 7
-	},
-	{
 		"description": "Orc Fortress",
 		"icon": "up",
 		"x": 32874,
@@ -7739,13 +7725,6 @@
 		"icon": "star",
 		"x": 32894,
 		"y": 31059,
-		"z": 7
-	},
-	{
-		"description": "Ley line Banuta",
-		"icon": "star",
-		"x": 32902,
-		"y": 32504,
 		"z": 7
 	},
 	{
@@ -7830,13 +7809,6 @@
 		"icon": "checkmark",
 		"x": 32925,
 		"y": 32677,
-		"z": 7
-	},
-	{
-		"description": "Ley line Banuta",
-		"icon": "star",
-		"x": 32927,
-		"y": 32483,
 		"z": 7
 	},
 	{
@@ -7984,13 +7956,6 @@
 		"icon": "down",
 		"x": 32997,
 		"y": 32643,
-		"z": 7
-	},
-	{
-		"description": "Ley line Banuta",
-		"icon": "star",
-		"x": 32998,
-		"y": 32411,
 		"z": 7
 	},
 	{
@@ -8267,13 +8232,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Banuta",
-		"icon": "star",
-		"x": 33061,
-		"y": 32351,
-		"z": 7
-	},
-	{
 		"description": "Gnarlhounds",
 		"icon": "down",
 		"x": 33062,
@@ -8407,13 +8365,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Vengoth",
-		"icon": "star",
-		"x": 33092,
-		"y": 31675,
-		"z": 7
-	},
-	{
 		"description": "Haunted Tomb (burster spectres)",
 		"icon": "red down",
 		"x": 33093,
@@ -8544,13 +8495,6 @@
 		"icon": "up",
 		"x": 33120,
 		"y": 32577,
-		"z": 7
-	},
-	{
-		"description": "Ley line Vengoth",
-		"icon": "star",
-		"x": 33123,
-		"y": 31723,
 		"z": 7
 	},
 	{
@@ -9170,14 +9114,7 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Vengoth",
-		"icon": "star",
-		"x": 33239,
-		"y": 31902,
-		"z": 7
-	},
-	{
-		"description": "Paladin and Knight spells",
+		"description": "Paladin and knight spells",
 		"icon": "star",
 		"x": 33239,
 		"y": 32404,
@@ -9345,13 +9282,6 @@
 		"z": 7
 	},
 	{
-		"description": "Vengoth ley line",
-		"icon": "star",
-		"x": 33280,
-		"y": 31959,
-		"z": 7
-	},
-	{
 		"description": "Stone Tomb (boss: Thalas) <hidden>",
 		"icon": "!",
 		"x": 33282,
@@ -9468,13 +9398,6 @@
 		"icon": "down",
 		"x": 33315,
 		"y": 32674,
-		"z": 7
-	},
-	{
-		"description": "Ley line Vengoth",
-		"icon": "star",
-		"x": 33322,
-		"y": 32028,
 		"z": 7
 	},
 	{
@@ -10367,13 +10290,6 @@
 		"z": 7
 	},
 	{
-		"description": "Krailos Ley Line",
-		"icon": "star",
-		"x": 33558,
-		"y": 31738,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33558,
@@ -10675,13 +10591,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ley line Krailos",
-		"icon": "star",
-		"x": 33592,
-		"y": 31712,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33593,
@@ -10784,13 +10693,6 @@
 		"icon": "checkmark",
 		"x": 33608,
 		"y": 32008,
-		"z": 7
-	},
-	{
-		"description": "Ley line Krailos",
-		"icon": "star",
-		"x": 33609,
-		"y": 31684,
 		"z": 7
 	},
 	{
@@ -11113,13 +11015,6 @@
 		"icon": "star",
 		"x": 33659,
 		"y": 32386,
-		"z": 7
-	},
-	{
-		"description": "Ley line Krailos",
-		"icon": "star",
-		"x": 33660,
-		"y": 31645,
 		"z": 7
 	},
 	{
