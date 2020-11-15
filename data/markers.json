@@ -9842,6 +9842,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33498,
+		"y": 31710,
+		"z": 7
+	},
+	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33498,
