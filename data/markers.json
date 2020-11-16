@@ -11396,6 +11396,13 @@
 		"z": 7
 	},
 	{
+		"description": "Way to Issavi",
+		"icon": "down",
+		"x": 33788,
+		"y": 31335,
+		"z": 7
+	},
+	{
 		"description": "Xogixath",
 		"icon": "red down",
 		"x": 33791,
@@ -11673,6 +11680,13 @@
 		"icon": "star",
 		"x": 33910,
 		"y": 31513,
+		"z": 7
+	},
+	{
+		"description": "Rascacoon (use shell)",
+		"icon": "flag",
+		"x": 33918,
+		"y": 31471,
 		"z": 7
 	},
 	{
@@ -14616,6 +14630,13 @@
 		"z": 8
 	},
 	{
+		"description": "Exit to Rascacoon",
+		"icon": "up",
+		"x": 33788,
+		"y": 31335,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33793,
@@ -14686,6 +14707,13 @@
 		"z": 8
 	},
 	{
+		"description": "Way to Issavi",
+		"icon": "down",
+		"x": 33862,
+		"y": 31362,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33862,
@@ -14742,6 +14770,13 @@
 		"z": 8
 	},
 	{
+		"description": "Way to Rascacoon",
+		"icon": "down",
+		"x": 33877,
+		"y": 31400,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33877,
@@ -14786,6 +14821,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33917,
+		"y": 31469,
+		"z": 8
+	},
+	{
+		"description": "Exit to Issavi",
+		"icon": "flag",
 		"x": 33917,
 		"y": 31469,
 		"z": 8
@@ -17535,6 +17577,13 @@
 		"z": 9
 	},
 	{
+		"description": "Way to Rascacoon",
+		"icon": "up",
+		"x": 33862,
+		"y": 31362,
+		"z": 9
+	},
+	{
 		"description": "To Vengoth",
 		"icon": "flag",
 		"x": 33863,
@@ -17585,6 +17634,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33877,
+		"y": 31400,
+		"z": 9
+	},
+	{
+		"description": "Way to Issavi",
 		"icon": "up",
 		"x": 33877,
 		"y": 31400,
