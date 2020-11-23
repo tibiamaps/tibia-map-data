@@ -567,7 +567,7 @@
 		"z": 3
 	},
 	{
-		"description": "To the shops, temple, bank and vocation gates",
+		"description": "To the shops, temple, bank, and vocation gates",
 		"icon": "down",
 		"x": 32065,
 		"y": 31890,
@@ -987,7 +987,7 @@
 		"z": 4
 	},
 	{
-		"description": "Adventurer's bank",
+		"description": "Adventurer’s bank",
 		"icon": "$",
 		"x": 32055,
 		"y": 31899,
@@ -1043,7 +1043,7 @@
 		"z": 4
 	},
 	{
-		"description": "Mr Morris' room",
+		"description": "Mr Morris’ room",
 		"icon": "!",
 		"x": 32072,
 		"y": 31899,
@@ -1057,7 +1057,7 @@
 		"z": 4
 	},
 	{
-		"description": "To the Shops, Temple and Vocation Gates",
+		"description": "To the shops, temple, and vocation gates",
 		"icon": "down",
 		"x": 32073,
 		"y": 31895,
@@ -1645,7 +1645,7 @@
 		"z": 5
 	},
 	{
-		"description": "Sorcerer's gate",
+		"description": "Sorcerer’s gate",
 		"icon": "red left",
 		"x": 32055,
 		"y": 31890,
@@ -1673,14 +1673,14 @@
 		"z": 5
 	},
 	{
-		"description": "Knight's gate",
+		"description": "Knight’s gate",
 		"icon": "red up",
 		"x": 32064,
 		"y": 31880,
 		"z": 5
 	},
 	{
-		"description": "Druid's gate",
+		"description": "Druid’s gate",
 		"icon": "red down",
 		"x": 32064,
 		"y": 31901,
@@ -1722,14 +1722,14 @@
 		"z": 5
 	},
 	{
-		"description": "To the bank and spell trainers, safe trade rooms and Mr Morris",
+		"description": "To the bank, spell trainers, safe trade rooms, and Mr Morris",
 		"icon": "up",
 		"x": 32074,
 		"y": 31895,
 		"z": 5
 	},
 	{
-		"description": "Paladin's gate",
+		"description": "Paladin’s gate",
 		"icon": "red right",
 		"x": 32075,
 		"y": 31891,
@@ -1988,7 +1988,7 @@
 		"z": 5
 	},
 	{
-		"description": "To NPC Boozer",
+		"description": "NPC Boozer",
 		"icon": "mouth",
 		"x": 32921,
 		"y": 32068,
@@ -2618,7 +2618,7 @@
 		"z": 6
 	},
 	{
-		"description": "Sorcerer bocation door",
+		"description": "Sorcerer vocation door",
 		"icon": "star",
 		"x": 32055,
 		"y": 31886,
@@ -3115,14 +3115,14 @@
 		"z": 6
 	},
 	{
-		"description": "To Boozer",
+		"description": "To NPC Boozer",
 		"icon": "up",
 		"x": 32921,
 		"y": 32072,
 		"z": 6
 	},
 	{
-		"description": "Eustacio's Home",
+		"description": "Eustacio’s home",
 		"icon": "mouth",
 		"x": 32922,
 		"y": 32140,
@@ -3444,7 +3444,7 @@
 		"z": 6
 	},
 	{
-		"description": "NPC Ahmed",
+		"description": "NPC Ahmet",
 		"icon": "mouth",
 		"x": 33126,
 		"y": 32810,
