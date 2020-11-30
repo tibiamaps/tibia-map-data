@@ -2016,6 +2016,13 @@
 		"z": 5
 	},
 	{
+		"description": "NPC Ra'Clette",
+		"icon": "mouth",
+		"x": 33029,
+		"y": 32138,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 33062,
@@ -8085,6 +8092,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards NPC Ra'Clette",
+		"icon": "up",
+		"x": 33029,
+		"y": 32140,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33031,
@@ -12279,6 +12293,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32268,
+		"y": 32837,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32269,
 		"y": 31347,
@@ -12303,6 +12324,13 @@
 		"icon": "red down",
 		"x": 32295,
 		"y": 31441,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32326,
+		"y": 32794,
 		"z": 8
 	},
 	{
@@ -15282,9 +15310,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32276,
+		"y": 32840,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32295,
 		"y": 31441,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32326,
+		"y": 32794,
 		"z": 9
 	},
 	{
@@ -17948,10 +17990,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32276,
+		"y": 32840,
+		"z": 10
+	},
+	{
 		"description": "Key 3980 (golden key)",
 		"icon": "?",
 		"x": 32277,
 		"y": 32419,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32290,
+		"y": 32812,
 		"z": 10
 	},
 	{
@@ -20252,6 +20308,27 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32290,
+		"y": 32812,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32296,
+		"y": 32793,
+		"z": 11
+	},
+	{
+		"description": "Rita's letter",
+		"icon": "star",
+		"x": 32301,
+		"y": 32791,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32322,
 		"y": 31093,
@@ -22134,6 +22211,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32296,
+		"y": 32793,
+		"z": 12
+	},
+	{
 		"description": "Mystic flame to NPC A Dragon Mother",
 		"icon": "star",
 		"x": 32299,
@@ -23643,6 +23727,13 @@
 		"icon": "mouth",
 		"x": 32306,
 		"y": 31021,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32309,
+		"y": 32811,
 		"z": 13
 	},
 	{
