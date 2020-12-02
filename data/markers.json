@@ -11389,7 +11389,7 @@
 		"z": 7
 	},
 	{
-		"description": "Tik'hi Tak'he",
+		"description": "NPC Tik'hi Tak'he",
 		"icon": "mouth",
 		"x": 33729,
 		"y": 31343,
@@ -11805,7 +11805,7 @@
 		"description": "Rascacoon (use shell)",
 		"icon": "flag",
 		"x": 33918,
-		"y": 31471,
+		"y": 31470,
 		"z": 7
 	},
 	{
@@ -14927,7 +14927,7 @@
 		"description": "Exit to Issavi",
 		"icon": "flag",
 		"x": 33917,
-		"y": 31469,
+		"y": 31470,
 		"z": 8
 	},
 	{
