@@ -14744,13 +14744,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33787,
-		"y": 31335,
-		"z": 8
-	},
-	{
-		"description": "Exit to Rascacoon",
-		"icon": "up",
 		"x": 33788,
 		"y": 31335,
 		"z": 8
@@ -14855,20 +14848,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33876,
-		"y": 31480,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33876,
-		"y": 31497,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "flag",
 		"x": 33876,
 		"y": 31883,
@@ -14896,13 +14875,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33889,
-		"y": 31481,
-		"z": 8
-	},
-	{
 		"description": "Exit to Goshnar’s Taint",
 		"icon": "flag",
 		"x": 33891,
@@ -14910,31 +14882,10 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33905,
-		"y": 31480,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33905,
-		"y": 31501,
-		"z": 8
-	},
-	{
 		"description": "Exit to Issavi",
 		"icon": "flag",
 		"x": 33917,
 		"y": 31470,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33918,
-		"y": 31496,
 		"z": 8
 	},
 	{
@@ -14956,13 +14907,6 @@
 		"icon": "crossmark",
 		"x": 33950,
 		"y": 31109,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33953,
-		"y": 31497,
 		"z": 8
 	},
 	{
@@ -15687,13 +15631,6 @@
 		"z": 9
 	},
 	{
-		"description": "Maze of Lost Souls — lever required; see (!) on map",
-		"icon": "down",
-		"x": 32482,
-		"y": 31633,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32483,
@@ -15701,10 +15638,10 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "red down",
-		"x": 32484,
-		"y": 31634,
+		"description": "Maze of Lost Souls ? lever required; see (!) on map",
+		"icon": "down",
+		"x": 32483,
+		"y": 31633,
 		"z": 9
 	},
 	{
@@ -17599,13 +17536,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33849,
-		"y": 31440,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33852,
 		"y": 31442,
@@ -17683,20 +17613,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33865,
-		"y": 31494,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33869,
-		"y": 31473,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33869,
 		"y": 31519,
@@ -17725,13 +17641,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33879,
-		"y": 31497,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "star",
 		"x": 33879,
 		"y": 31545,
@@ -17742,13 +17651,6 @@
 		"icon": "red up",
 		"x": 33884,
 		"y": 31510,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33886,
-		"y": 31450,
 		"z": 9
 	},
 	{
@@ -17766,31 +17668,10 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33895,
-		"y": 31438,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33901,
-		"y": 31495,
-		"z": 9
-	},
-	{
 		"description": "Memory enlightener (use shards here)",
 		"icon": "star",
 		"x": 33903,
 		"y": 31623,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33911,
-		"y": 31480,
 		"z": 9
 	},
 	{
