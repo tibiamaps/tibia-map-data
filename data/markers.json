@@ -1498,6 +1498,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33729,
+		"y": 31284,
+		"z": 4
+	},
+	{
 		"description": "Fog to lower floor",
 		"icon": "sword",
 		"x": 33829,
@@ -2438,6 +2445,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33732,
+		"y": 31283,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33827,
 		"y": 31658,
 		"z": 5
@@ -2447,6 +2461,20 @@
 		"icon": "flag",
 		"x": 33835,
 		"y": 31866,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33838,
+		"y": 31225,
+		"z": 5
+	},
+	{
+		"description": "Teleport back to Rascacoon",
+		"icon": "flag",
+		"x": 33839,
+		"y": 31220,
 		"z": 5
 	},
 	{
@@ -2482,6 +2510,13 @@
 		"icon": "down",
 		"x": 33890,
 		"y": 31203,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33897,
+		"y": 31230,
 		"z": 5
 	},
 	{
@@ -4089,6 +4124,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33732,
+		"y": 31283,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33738,
+		"y": 31282,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33742,
 		"y": 31035,
@@ -4116,10 +4165,24 @@
 		"z": 6
 	},
 	{
+		"description": "NPC Captain Jack Rat (hi / sail / safe / yes)",
+		"icon": "mouth",
+		"x": 33791,
+		"y": 31383,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33800,
 		"y": 31012,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33803,
+		"y": 31390,
 		"z": 6
 	},
 	{
@@ -4141,6 +4204,13 @@
 		"icon": "down",
 		"x": 33835,
 		"y": 31011,
+		"z": 6
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 33838,
+		"y": 31225,
 		"z": 6
 	},
 	{
@@ -4169,6 +4239,13 @@
 		"icon": "up",
 		"x": 33865,
 		"y": 31489,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33890,
+		"y": 31203,
 		"z": 6
 	},
 	{
@@ -8876,6 +8953,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "star",
+		"x": 33186,
+		"y": 31353,
+		"z": 7
+	},
+	{
 		"description": "Lycantrophe Grounds (were-creatures)",
 		"icon": "red down",
 		"x": 33186,
@@ -11568,6 +11652,13 @@
 		"icon": "crossmark",
 		"x": 33800,
 		"y": 31358,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33803,
+		"y": 31390,
 		"z": 7
 	},
 	{
