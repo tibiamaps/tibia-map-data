@@ -11928,6 +11928,13 @@
 		"z": 7
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33925,
+		"y": 31355,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 33925,
@@ -20860,13 +20867,6 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32808,
-		"y": 32611,
-		"z": 11
-	},
-	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32808,
@@ -20962,13 +20962,6 @@
 		"icon": "checkmark",
 		"x": 32843,
 		"y": 32649,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32843,
-		"y": 32653,
 		"z": 11
 	},
 	{
