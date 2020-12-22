@@ -49,6 +49,13 @@
 		"z": 6
 	},
 	{
+		"description": "Percht Island",
+		"icon": "flag",
+		"x": 32328,
+		"y": 31106,
+		"z": 7
+	},
+	{
 		"description": "Boat to Svargrond",
 		"icon": "flag",
 		"x": 33719,
