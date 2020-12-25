@@ -11473,6 +11473,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny",
+		"icon": "checkmark",
+		"x": 33722,
+		"y": 31071,
+		"z": 7
+	},
+	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33728,
@@ -11505,13 +11512,6 @@
 		"icon": "down",
 		"x": 33730,
 		"y": 31733,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33733,
-		"y": 31187,
 		"z": 7
 	},
 	{
@@ -11554,6 +11554,13 @@
 		"icon": "up",
 		"x": 33756,
 		"y": 31042,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny",
+		"icon": "checkmark",
+		"x": 33760,
+		"y": 31086,
 		"z": 7
 	},
 	{
