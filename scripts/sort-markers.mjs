@@ -24,6 +24,20 @@ const writeJSON = (filePath, data) => {
 	fs.writeFileSync(absolutePath, json);
 };
 
-const markers = readJSON(arg);
+const set = new Set();
+const dedupe = (markers) => {
+	const deduped = [];
+	for (const marker of markers) {
+		const hash = JSON.stringify(marker);
+		if (set.has(hash)) {
+			continue;
+		}
+		deduped.push(marker);
+		set.add(hash);
+	}
+	return deduped;
+};
+
+const markers = dedupe(readJSON(arg));
 sortMarkers(markers);
 writeJSON(arg, markers);
