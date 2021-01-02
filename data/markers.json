@@ -11473,7 +11473,7 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33722,
 		"y": 31071,
@@ -11501,7 +11501,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33730,
 		"y": 31040,
@@ -11543,7 +11543,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33756,
 		"y": 31021,
@@ -11557,7 +11557,7 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33760,
 		"y": 31086,
@@ -11571,6 +11571,13 @@
 		"z": 7
 	},
 	{
+		"description": "Bunnies",
+		"icon": "checkmark",
+		"x": 33765,
+		"y": 31071,
+		"z": 7
+	},
+	{
 		"description": "Shortcut to Venore",
 		"icon": "flag",
 		"x": 33774,
@@ -11578,14 +11585,14 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33776,
 		"y": 31023,
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33776,
 		"y": 31043,
@@ -11606,7 +11613,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33790,
 		"y": 31061,
@@ -11655,7 +11662,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
 		"x": 33798,
 		"y": 31006,
@@ -11711,10 +11718,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bunnies",
 		"icon": "checkmark",
-		"x": 33818,
-		"y": 31095,
+		"x": 33819,
+		"y": 31079,
 		"z": 7
 	},
 	{
