@@ -2122,13 +2122,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33173,
-		"y": 31309,
-		"z": 5
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33176,
 		"y": 31051,
@@ -12950,6 +12943,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32592,
+		"y": 32859,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32601,
+		"y": 32814,
+		"z": 8
+	},
+	{
 		"description": "PvE arena",
 		"icon": "skull",
 		"x": 32602,
@@ -12968,6 +12975,20 @@
 		"icon": "skull",
 		"x": 32603,
 		"y": 31913,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32606,
+		"y": 32802,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32611,
+		"y": 32831,
 		"z": 8
 	},
 	{
@@ -12992,10 +13013,38 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32629,
+		"y": 32837,
+		"z": 8
+	},
+	{
 		"description": "Elevator",
 		"icon": "flag",
 		"x": 32633,
 		"y": 31939,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32636,
+		"y": 32855,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32639,
+		"y": 32827,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32645,
+		"y": 32851,
 		"z": 8
 	},
 	{
@@ -13027,6 +13076,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32661,
+		"y": 32817,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32665,
+		"y": 32853,
+		"z": 8
+	},
+	{
 		"description": "Tool Store",
 		"icon": "bag",
 		"x": 32667,
@@ -13045,6 +13108,13 @@
 		"icon": "checkmark",
 		"x": 32681,
 		"y": 32292,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32683,
+		"y": 32819,
 		"z": 8
 	},
 	{
@@ -13699,7 +13769,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Towards Razachai",
 		"icon": "red down",
 		"x": 33073,
 		"y": 31159,
@@ -14214,6 +14284,13 @@
 		"icon": "up",
 		"x": 33290,
 		"y": 32602,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33292,
+		"y": 31140,
 		"z": 8
 	},
 	{
@@ -15898,9 +15975,16 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32598,
+		"y": 32822,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
-		"x": 32600,
-		"y": 32813,
+		"x": 32601,
+		"y": 32814,
 		"z": 9
 	},
 	{
@@ -15919,9 +16003,37 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32610,
+		"y": 32844,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32611,
+		"y": 32831,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32612,
+		"y": 32812,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32616,
 		"y": 31700,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32624,
+		"y": 32823,
 		"z": 9
 	},
 	{
@@ -15934,8 +16046,36 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32636,
+		"y": 32855,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32639,
+		"y": 32827,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32643,
+		"y": 32831,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32656,
 		"y": 32549,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32665,
+		"y": 32853,
 		"z": 9
 	},
 	{
@@ -16520,7 +16660,7 @@
 		"z": 9
 	},
 	{
-		"description": "Shadow Bite Berries",
+		"description": "Shadow bite berries",
 		"icon": "star",
 		"x": 33067,
 		"y": 31985,
@@ -16531,6 +16671,13 @@
 		"icon": "down",
 		"x": 33069,
 		"y": 31848,
+		"z": 9
+	},
+	{
+		"description": "Shadow bite berries",
+		"icon": "star",
+		"x": 33069,
+		"y": 31925,
 		"z": 9
 	},
 	{
@@ -16556,13 +16703,6 @@
 	},
 	{
 		"description": "",
-		"icon": "star",
-		"x": 33071,
-		"y": 31925,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33073,
 		"y": 31087,
@@ -16570,7 +16710,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33073,
 		"y": 31159,
 		"z": 9
@@ -16731,7 +16871,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33129,
 		"y": 31166,
 		"z": 9
@@ -16838,6 +16978,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 33168,
+		"y": 31291,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33168,
 		"y": 31823,
 		"z": 9
 	},
@@ -16867,6 +17014,13 @@
 		"icon": "up",
 		"x": 33181,
 		"y": 31680,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33182,
+		"y": 31287,
 		"z": 9
 	},
 	{
@@ -18530,6 +18684,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32598,
+		"y": 32822,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32604,
 		"y": 31321,
@@ -18538,8 +18699,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32610,
+		"y": 32844,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32612,
 		"y": 31683,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32612,
+		"y": 32812,
 		"z": 10
 	},
 	{
@@ -18554,6 +18729,13 @@
 		"icon": "up",
 		"x": 32628,
 		"y": 32132,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32643,
+		"y": 32831,
 		"z": 10
 	},
 	{
@@ -19398,7 +19580,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33102,
 		"y": 31155,
 		"z": 10
@@ -19489,7 +19671,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33129,
 		"y": 31165,
 		"z": 10
@@ -19548,6 +19730,13 @@
 		"icon": "checkmark",
 		"x": 33143,
 		"y": 32051,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33162,
+		"y": 31264,
 		"z": 10
 	},
 	{
@@ -21351,7 +21540,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33077,
 		"y": 31141,
 		"z": 11
@@ -21417,6 +21606,13 @@
 		"icon": "down",
 		"x": 33101,
 		"y": 32428,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33102,
+		"y": 31155,
 		"z": 11
 	},
 	{
@@ -22849,7 +23045,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33043,
 		"y": 31149,
 		"z": 12
@@ -22905,7 +23101,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33078,
 		"y": 31141,
 		"z": 12
@@ -23055,6 +23251,13 @@
 		"icon": "up",
 		"x": 33185,
 		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33200,
+		"y": 31181,
 		"z": 12
 	},
 	{
@@ -24292,6 +24495,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33043,
+		"y": 31149,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33048,
 		"y": 32457,
 		"z": 13
@@ -24318,6 +24528,13 @@
 		"z": 13
 	},
 	{
+		"description": "To Razachai",
+		"icon": "flag",
+		"x": 33078,
+		"y": 31080,
+		"z": 13
+	},
+	{
 		"description": "Metal file",
 		"icon": "star",
 		"x": 33079,
@@ -24329,13 +24546,6 @@
 		"icon": "star",
 		"x": 33079,
 		"y": 32014,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33080,
-		"y": 31081,
 		"z": 13
 	},
 	{
