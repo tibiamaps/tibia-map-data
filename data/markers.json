@@ -7819,6 +7819,13 @@
 		"z": 7
 	},
 	{
+		"description": "Tiquanda Laboratory",
+		"icon": "down",
+		"x": 32886,
+		"y": 32590,
+		"z": 7
+	},
+	{
 		"description": "Worker golems",
 		"icon": "red down",
 		"x": 32890,
@@ -13476,6 +13483,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32886,
+		"y": 32590,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 32899,
 		"y": 31047,
@@ -13692,6 +13706,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33052,
+		"y": 32693,
+		"z": 8
+	},
+	{
 		"description": "Zarifan",
 		"icon": "down",
 		"x": 33054,
@@ -13738,6 +13759,20 @@
 		"icon": "down",
 		"x": 33060,
 		"y": 31853,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33060,
+		"y": 32682,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33062,
+		"y": 32693,
 		"z": 8
 	},
 	{
@@ -13850,6 +13885,13 @@
 		"icon": "up",
 		"x": 33103,
 		"y": 31388,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33103,
+		"y": 32698,
 		"z": 8
 	},
 	{
@@ -16415,6 +16457,20 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32899,
+		"y": 32579,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32909,
+		"y": 32570,
+		"z": 9
+	},
+	{
 		"description": "Uniwheel",
 		"icon": "star",
 		"x": 32939,
@@ -16636,6 +16692,13 @@
 		"icon": "up",
 		"x": 33060,
 		"y": 31853,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33060,
+		"y": 32682,
 		"z": 9
 	},
 	{
@@ -19121,6 +19184,13 @@
 		"icon": "down",
 		"x": 32891,
 		"y": 32645,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32909,
+		"y": 32570,
 		"z": 10
 	},
 	{
