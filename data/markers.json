@@ -5278,13 +5278,6 @@
 		"z": 7
 	},
 	{
-		"description": "Dark Stone Totem",
-		"icon": "star",
-		"x": 32277,
-		"y": 31737,
-		"z": 7
-	},
-	{
 		"description": "Equipment Store",
 		"icon": "bag",
 		"x": 32281,
@@ -9387,8 +9380,8 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot (face south)",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 33277,
 		"y": 31110,
 		"z": 7
@@ -17768,7 +17761,7 @@
 	{
 		"description": "",
 		"icon": "flag",
-		"x": 33752,
+		"x": 33759,
 		"y": 31083,
 		"z": 9
 	},
