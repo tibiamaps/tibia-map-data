@@ -5089,10 +5089,31 @@
 		"z": 7
 	},
 	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32236,
+		"y": 32345,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32238,
+		"y": 32332,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 32240,
 		"y": 31407,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32240,
+		"y": 32277,
 		"z": 7
 	},
 	{
@@ -5128,6 +5149,13 @@
 		"icon": "up",
 		"x": 32247,
 		"y": 31388,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32248,
+		"y": 32366,
 		"z": 7
 	},
 	{
@@ -5364,6 +5392,13 @@
 	{
 		"description": "Piñata dragon",
 		"icon": "star",
+		"x": 32292,
+		"y": 32357,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
 		"x": 32293,
 		"y": 32115,
 		"z": 7
@@ -5373,6 +5408,13 @@
 		"icon": "sword",
 		"x": 32293,
 		"y": 32820,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32296,
+		"y": 32170,
 		"z": 7
 	},
 	{
@@ -5537,6 +5579,13 @@
 		"z": 7
 	},
 	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32321,
+		"y": 32411,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32321,
@@ -5639,6 +5688,13 @@
 		"icon": "star",
 		"x": 32333,
 		"y": 32315,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32333,
+		"y": 32383,
 		"z": 7
 	},
 	{
@@ -5775,6 +5831,13 @@
 		"z": 7
 	},
 	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32349,
+		"y": 32411,
+		"z": 7
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32350,
@@ -5838,6 +5901,13 @@
 		"z": 7
 	},
 	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32361,
+		"y": 32385,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32365,
@@ -5894,6 +5964,20 @@
 		"z": 7
 	},
 	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32372,
+		"y": 32107,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32373,
+		"y": 32422,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32373,
@@ -5940,6 +6024,13 @@
 		"icon": "star",
 		"x": 32384,
 		"y": 31691,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32384,
+		"y": 32119,
 		"z": 7
 	},
 	{
@@ -6339,6 +6430,13 @@
 		"icon": "star",
 		"x": 32465,
 		"y": 32200,
+		"z": 7
+	},
+	{
+		"description": "Piñata dragon",
+		"icon": "star",
+		"x": 32467,
+		"y": 32107,
 		"z": 7
 	},
 	{
