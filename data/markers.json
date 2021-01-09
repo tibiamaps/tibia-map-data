@@ -27111,21 +27111,21 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "To the Labyrinth",
 		"icon": "flag",
 		"x": 32042,
 		"y": 31921,
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "To the Dream Scar",
 		"icon": "checkmark",
 		"x": 32043,
 		"y": 31939,
 		"z": 15
 	},
 	{
-		"description": "Exit",
+		"description": "One-way teleport to the Labyrinth (mixed area)",
 		"icon": "flag",
 		"x": 32043,
 		"y": 31955,
