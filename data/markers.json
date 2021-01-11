@@ -16639,8 +16639,8 @@
 		"z": 9
 	},
 	{
-		"description": "Levitate spot (face west)",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32881,
 		"y": 32438,
 		"z": 9
@@ -17374,8 +17374,8 @@
 		"z": 9
 	},
 	{
-		"description": "Bony Rod",
-		"icon": "checkmark",
+		"description": "Bony rod",
+		"icon": "star",
 		"x": 33213,
 		"y": 32082,
 		"z": 9
@@ -19373,13 +19373,6 @@
 		"icon": "star",
 		"x": 32860,
 		"y": 31644,
-		"z": 10
-	},
-	{
-		"description": "Diamond Blossom",
-		"icon": "star",
-		"x": 32861,
-		"y": 32771,
 		"z": 10
 	},
 	{
@@ -21550,6 +21543,13 @@
 		"icon": "flag",
 		"x": 32864,
 		"y": 31845,
+		"z": 11
+	},
+	{
+		"description": "Old writing desk",
+		"icon": "star",
+		"x": 32880,
+		"y": 32819,
 		"z": 11
 	},
 	{
@@ -25173,9 +25173,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33560,
+		"y": 31395,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33562,
 		"y": 31378,
+		"z": 13
+	},
+	{
+		"description": "Idol 1",
+		"icon": "star",
+		"x": 33566,
+		"y": 31423,
 		"z": 13
 	},
 	{
@@ -25207,10 +25221,10 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Idol 2",
+		"icon": "star",
 		"x": 33602,
-		"y": 31435,
+		"y": 31438,
 		"z": 13
 	},
 	{
@@ -26286,7 +26300,7 @@
 	},
 	{
 		"description": "Brokul",
-		"icon": "crossmark",
+		"icon": "sword",
 		"x": 33525,
 		"y": 31464,
 		"z": 14
@@ -26328,20 +26342,13 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33541,
-		"y": 31474,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "crossmark",
 		"x": 33544,
 		"y": 31237,
 		"z": 14
 	},
 	{
-		"description": "5",
+		"description": "Idol 5",
 		"icon": "star",
 		"x": 33548,
 		"y": 31460,
@@ -26432,13 +26439,6 @@
 		"z": 14
 	},
 	{
-		"description": "1",
-		"icon": "red up",
-		"x": 33571,
-		"y": 31425,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33572,
@@ -26457,6 +26457,13 @@
 		"icon": "crossmark",
 		"x": 33574,
 		"y": 31245,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33576,
+		"y": 31422,
 		"z": 14
 	},
 	{
@@ -26509,7 +26516,7 @@
 		"z": 14
 	},
 	{
-		"description": "3 & 4",
+		"description": "Idols 3 & 4",
 		"icon": "star",
 		"x": 33587,
 		"y": 31461,
@@ -26537,7 +26544,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Idol 7",
 		"icon": "star",
 		"x": 33598,
 		"y": 31400,
@@ -26565,10 +26572,10 @@
 		"z": 14
 	},
 	{
-		"description": "2",
-		"icon": "red up",
-		"x": 33603,
-		"y": 31436,
+		"description": "",
+		"icon": "up",
+		"x": 33602,
+		"y": 31435,
 		"z": 14
 	},
 	{
@@ -27826,6 +27833,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33545,
+		"y": 31456,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33551,
 		"y": 32533,
@@ -27860,7 +27874,7 @@
 		"z": 15
 	},
 	{
-		"description": "6",
+		"description": "Idol 6",
 		"icon": "star",
 		"x": 33573,
 		"y": 31441,
@@ -27881,7 +27895,7 @@
 		"z": 15
 	},
 	{
-		"description": "8",
+		"description": "Idol 9",
 		"icon": "star",
 		"x": 33577,
 		"y": 31475,
@@ -27895,8 +27909,8 @@
 		"z": 15
 	},
 	{
-		"description": "9",
-		"icon": "red up",
+		"description": "",
+		"icon": "up",
 		"x": 33591,
 		"y": 31402,
 		"z": 15
@@ -27909,7 +27923,7 @@
 		"z": 15
 	},
 	{
-		"description": "7",
+		"description": "Idol 8",
 		"icon": "star",
 		"x": 33612,
 		"y": 31465,
