@@ -85,7 +85,7 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "down",
 		"x": 32944,
 		"y": 32679,
 		"z": 1
@@ -680,7 +680,7 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "down",
 		"x": 32959,
 		"y": 32675,
 		"z": 3
@@ -1240,7 +1240,7 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "down",
 		"x": 32936,
 		"y": 32683,
 		"z": 4
@@ -4057,13 +4057,6 @@
 		"icon": "down",
 		"x": 33680,
 		"y": 31793,
-		"z": 6
-	},
-	{
-		"description": "Orc Skull",
-		"icon": "checkmark",
-		"x": 33683,
-		"y": 32126,
 		"z": 6
 	},
 	{
@@ -8058,7 +8051,7 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "down",
 		"x": 32925,
 		"y": 32677,
 		"z": 7
@@ -8100,7 +8093,7 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "down",
 		"x": 32942,
 		"y": 32677,
 		"z": 7
@@ -11582,6 +11575,20 @@
 		"icon": "checkmark",
 		"x": 33722,
 		"y": 31071,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33724,
+		"y": 31921,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33728,
+		"y": 31918,
 		"z": 7
 	},
 	{
@@ -16555,13 +16562,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "red down",
-		"x": 32825,
-		"y": 32773,
-		"z": 9
-	},
-	{
 		"description": "Cracks on the floor (old letter and strand of hair)",
 		"icon": "down",
 		"x": 32825,
@@ -16639,13 +16639,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "red down",
-		"x": 32878,
-		"y": 32762,
-		"z": 9
-	},
-	{
 		"description": "Levitate spot (face west)",
 		"icon": "up",
 		"x": 32881,
@@ -16667,8 +16660,8 @@
 		"z": 9
 	},
 	{
-		"description": "Silver Chimes",
-		"icon": "checkmark",
+		"description": "Silver chimes",
+		"icon": "star",
 		"x": 32891,
 		"y": 32768,
 		"z": 9
@@ -19313,8 +19306,8 @@
 		"z": 10
 	},
 	{
-		"description": "Old Letter e Strand of Hair",
-		"icon": "checkmark",
+		"description": "Old letter and strand of hair",
+		"icon": "star",
 		"x": 32825,
 		"y": 32773,
 		"z": 10
@@ -21886,6 +21879,13 @@
 		"icon": "up",
 		"x": 33067,
 		"y": 31778,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33067,
+		"y": 32574,
 		"z": 11
 	},
 	{
@@ -27111,21 +27111,21 @@
 		"z": 14
 	},
 	{
-		"description": "To the Labyrinth",
+		"description": "",
 		"icon": "flag",
 		"x": 32042,
 		"y": 31921,
 		"z": 15
 	},
 	{
-		"description": "To the Dream Scar",
+		"description": "",
 		"icon": "checkmark",
 		"x": 32043,
 		"y": 31939,
 		"z": 15
 	},
 	{
-		"description": "One-way teleport to the Labyrinth (mixed area)",
+		"description": "Exit",
 		"icon": "flag",
 		"x": 32043,
 		"y": 31955,
