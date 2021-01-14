@@ -2878,6 +2878,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32306,
+		"y": 32868,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32372,
 		"y": 31245,
@@ -3735,6 +3742,13 @@
 		"icon": "crossmark",
 		"x": 33491,
 		"y": 31210,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33500,
+		"y": 32523,
 		"z": 6
 	},
 	{
@@ -10094,6 +10108,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33499,
+		"y": 32523,
+		"z": 7
+	},
+	{
 		"description": "Mouthpiece supply",
 		"icon": "!",
 		"x": 33502,
@@ -13049,9 +13070,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32537,
+		"y": 32729,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32548,
 		"y": 31988,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32551,
+		"y": 32701,
 		"z": 8
 	},
 	{
@@ -13101,6 +13136,13 @@
 		"icon": "up",
 		"x": 32594,
 		"y": 32653,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32597,
+		"y": 32739,
 		"z": 8
 	},
 	{
@@ -16198,6 +16240,20 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32531,
+		"y": 32708,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32537,
+		"y": 32729,
+		"z": 9
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32551,
@@ -16262,6 +16318,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32597,
+		"y": 32739,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32598,
 		"y": 32822,
@@ -16311,6 +16374,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32612,
+		"y": 32711,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32612,
 		"y": 32812,
@@ -16333,6 +16403,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32621,
+		"y": 32758,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32624,
 		"y": 32823,
 		"z": 9
@@ -16349,6 +16426,13 @@
 		"icon": "up",
 		"x": 32636,
 		"y": 32855,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32639,
+		"y": 32714,
 		"z": 9
 	},
 	{
@@ -19056,6 +19140,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32531,
+		"y": 32708,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32558,
 		"y": 31337,
 		"z": 10
@@ -19065,6 +19156,13 @@
 		"icon": "red down",
 		"x": 32559,
 		"y": 31859,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32578,
+		"y": 32728,
 		"z": 10
 	},
 	{
@@ -19126,6 +19224,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32621,
+		"y": 32758,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32624,
 		"y": 32823,
 		"z": 10
@@ -19135,6 +19240,13 @@
 		"icon": "up",
 		"x": 32628,
 		"y": 32132,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32639,
+		"y": 32714,
 		"z": 10
 	},
 	{
