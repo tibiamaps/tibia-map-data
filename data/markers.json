@@ -1835,13 +1835,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32250,
-		"y": 31387,
-		"z": 5
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32250,
 		"y": 31392,
@@ -3469,6 +3462,13 @@
 		"icon": "$",
 		"x": 33077,
 		"y": 32657,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33081,
+		"y": 31533,
 		"z": 6
 	},
 	{
@@ -5125,7 +5125,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red down",
 		"x": 32240,
 		"y": 31407,
 		"z": 7
@@ -7515,6 +7515,13 @@
 		"icon": "up",
 		"x": 32752,
 		"y": 31169,
+		"z": 7
+	},
+	{
+		"description": "Crystal Lakes",
+		"icon": "down",
+		"x": 32753,
+		"y": 31287,
 		"z": 7
 	},
 	{
