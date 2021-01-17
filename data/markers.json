@@ -13391,6 +13391,13 @@
 		"z": 8
 	},
 	{
+		"description": "Towards exit",
+		"icon": "down",
+		"x": 32694,
+		"y": 31591,
+		"z": 8
+	},
+	{
 		"description": "To Tomb (Darashia) (Entrance)",
 		"icon": "flag",
 		"x": 32697,
