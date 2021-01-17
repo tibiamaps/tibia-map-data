@@ -7973,7 +7973,7 @@
 		"z": 7
 	},
 	{
-		"description": "GOblin Scavenger",
+		"description": "Goblin scavenger",
 		"icon": "checkmark",
 		"x": 32886,
 		"y": 31283,
@@ -8071,7 +8071,7 @@
 		"z": 7
 	},
 	{
-		"description": "Goblin Scavenger",
+		"description": "Goblin scavenger",
 		"icon": "checkmark",
 		"x": 32922,
 		"y": 31253,
@@ -13356,7 +13356,7 @@
 		"z": 8
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32684,
 		"y": 31430,
@@ -13426,7 +13426,7 @@
 		"z": 8
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32720,
 		"y": 31546,
@@ -13461,14 +13461,14 @@
 		"z": 8
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32743,
 		"y": 31408,
 		"z": 8
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 31464,
@@ -16499,7 +16499,7 @@
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32683,
 		"y": 31538,
@@ -16534,21 +16534,21 @@
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32730,
 		"y": 31532,
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32739,
 		"y": 31490,
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32739,
 		"y": 31508,
@@ -16562,7 +16562,7 @@
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 31524,
@@ -16604,7 +16604,7 @@
 		"z": 9
 	},
 	{
-		"description": "Cult Symbol",
+		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32761,
 		"y": 31519,
@@ -18655,8 +18655,8 @@
 		"z": 10
 	},
 	{
-		"description": "White Pale",
-		"icon": "checkmark",
+		"description": "White Pale (spawn location)",
+		"icon": "star",
 		"x": 32226,
 		"y": 32760,
 		"z": 10
@@ -19614,7 +19614,7 @@
 		"z": 10
 	},
 	{
-		"description": "Scribbled Notes",
+		"description": "Scribbled notes",
 		"icon": "checkmark",
 		"x": 32871,
 		"y": 32816,
@@ -19628,7 +19628,7 @@
 		"z": 10
 	},
 	{
-		"description": "Lotus Key",
+		"description": "Lotus key",
 		"icon": "checkmark",
 		"x": 32875,
 		"y": 32761,
