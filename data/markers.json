@@ -2513,6 +2513,13 @@
 		"z": 5
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33872,
+		"y": 31231,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33890,
@@ -4281,6 +4288,13 @@
 		"icon": "up",
 		"x": 33865,
 		"y": 31489,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33871,
+		"y": 31231,
 		"z": 6
 	},
 	{
