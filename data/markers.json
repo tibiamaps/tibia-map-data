@@ -24088,16 +24088,23 @@
 	},
 	{
 		"description": "Slide back to town",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33558,
 		"y": 31970,
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "Small pressure gauge",
 		"icon": "checkmark",
 		"x": 33563,
 		"y": 31937,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33566,
+		"y": 31965,
 		"z": 12
 	},
 	{
@@ -25453,6 +25460,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33566,
+		"y": 31965,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33572,
 		"y": 31413,
@@ -25925,6 +25939,13 @@
 		"icon": "up",
 		"x": 32323,
 		"y": 31095,
+		"z": 14
+	},
+	{
+		"description": "Abandoned imbuing shrine",
+		"icon": "star",
+		"x": 32335,
+		"y": 31043,
 		"z": 14
 	},
 	{
@@ -26615,6 +26636,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33551,
+		"y": 31940,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33552,
 		"y": 31268,
@@ -26681,6 +26709,13 @@
 		"icon": "crossmark",
 		"x": 33563,
 		"y": 31208,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33566,
+		"y": 31951,
 		"z": 14
 	},
 	{
