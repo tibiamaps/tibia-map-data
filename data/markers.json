@@ -2030,6 +2030,13 @@
 		"z": 5
 	},
 	{
+		"description": "Break with melee weapon",
+		"icon": "red down",
+		"x": 33031,
+		"y": 31274,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 33062,
@@ -2045,7 +2052,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red down",
 		"x": 33066,
 		"y": 31304,
 		"z": 5
@@ -3431,7 +3438,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red up",
 		"x": 33066,
 		"y": 31305,
 		"z": 6
@@ -9128,13 +9135,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33186,
-		"y": 31353,
-		"z": 7
-	},
-	{
 		"description": "Lycantrophe Grounds (were-creatures)",
 		"icon": "red down",
 		"x": 33186,
@@ -13906,6 +13906,13 @@
 		"icon": "red up",
 		"x": 33008,
 		"y": 32622,
+		"z": 8
+	},
+	{
+		"description": "Tome of knowledge",
+		"icon": "star",
+		"x": 33009,
+		"y": 31253,
 		"z": 8
 	},
 	{
@@ -23786,6 +23793,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33108,
+		"y": 31110,
+		"z": 12
+	},
+	{
 		"description": "Katex Blood Tongue",
 		"icon": "sword",
 		"x": 33114,
@@ -26348,6 +26362,13 @@
 		"z": 14
 	},
 	{
+		"description": "Scorn of the Emperor",
+		"icon": "sword",
+		"x": 33052,
+		"y": 31084,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33053,
@@ -26359,6 +26380,27 @@
 		"icon": "checkmark",
 		"x": 33056,
 		"y": 32393,
+		"z": 14
+	},
+	{
+		"description": "Wrath of the Emperor",
+		"icon": "sword",
+		"x": 33059,
+		"y": 31121,
+		"z": 14
+	},
+	{
+		"description": "Spite of the Emperor",
+		"icon": "sword",
+		"x": 33098,
+		"y": 31084,
+		"z": 14
+	},
+	{
+		"description": "Fury of the Emperor",
+		"icon": "sword",
+		"x": 33101,
+		"y": 31117,
 		"z": 14
 	},
 	{
