@@ -26888,13 +26888,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33595,
-		"y": 31931,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33596,
 		"y": 32497,
@@ -26918,14 +26911,14 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33598,
-		"y": 31930,
+		"y": 31929,
 		"z": 14
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33598,
-		"y": 31961,
+		"y": 31960,
 		"z": 14
 	},
 	{
@@ -26943,13 +26936,6 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33610,
-		"y": 31981,
-		"z": 14
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 33612,
@@ -26960,7 +26946,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33614,
-		"y": 31988,
+		"y": 31989,
 		"z": 14
 	},
 	{
@@ -26981,7 +26967,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33635,
-		"y": 31959,
+		"y": 31958,
 		"z": 14
 	},
 	{
@@ -27009,13 +26995,6 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33661,
-		"y": 31938,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33663,
 		"y": 31937,
 		"z": 14
 	},
@@ -27030,20 +27009,20 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33674,
-		"y": 31988,
+		"y": 31989,
 		"z": 14
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33693,
-		"y": 31930,
+		"y": 31929,
 		"z": 14
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33712,
+		"x": 33711,
 		"y": 31961,
 		"z": 14
 	},
@@ -27974,15 +27953,15 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33372,
-		"y": 31978,
+		"x": 33375,
+		"y": 31981,
 		"z": 15
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33378,
-		"y": 31930,
+		"x": 33382,
+		"y": 31928,
 		"z": 15
 	},
 	{
@@ -28007,13 +27986,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33423,
-		"y": 31941,
-		"z": 15
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 33425,
@@ -28021,17 +27993,17 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33427,
+		"y": 31948,
+		"z": 15
+	},
+	{
 		"description": "Blue crystal",
 		"icon": "!",
 		"x": 33428,
 		"y": 32181,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33432,
-		"y": 31975,
 		"z": 15
 	},
 	{
@@ -28049,6 +28021,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33442,
+		"y": 31981,
+		"z": 15
+	},
+	{
 		"description": "Drowned seaman’s skull",
 		"icon": "crossmark",
 		"x": 33445,
@@ -28063,17 +28042,17 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33455,
+		"y": 31932,
+		"z": 15
+	},
+	{
 		"description": "Drowned seaman’s skull",
 		"icon": "crossmark",
 		"x": 33456,
 		"y": 31648,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33456,
-		"y": 31933,
 		"z": 15
 	},
 	{
@@ -28099,16 +28078,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33466,
-		"y": 31960,
+		"icon": "up",
+		"x": 33467,
+		"y": 31176,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33467,
-		"y": 31176,
+		"icon": "checkmark",
+		"x": 33469,
+		"y": 31965,
 		"z": 15
 	},
 	{
@@ -28148,13 +28127,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33506,
-		"y": 31950,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33507,
 		"y": 31186,
@@ -28165,6 +28137,13 @@
 		"icon": "up",
 		"x": 33511,
 		"y": 31351,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33514,
+		"y": 31957,
 		"z": 15
 	},
 	{
@@ -28268,7 +28247,7 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33583,
+		"x": 33582,
 		"y": 31960,
 		"z": 15
 	},
@@ -28282,8 +28261,22 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33602,
-		"y": 31937,
+		"x": 33606,
+		"y": 31935,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33607,
+		"y": 32031,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33610,
+		"y": 32094,
 		"z": 15
 	},
 	{
@@ -28315,6 +28308,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33619,
+		"y": 32055,
+		"z": 15
+	},
+	{
 		"description": "2. N'ogalu",
 		"icon": "checkmark",
 		"x": 33621,
@@ -28331,15 +28331,29 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33635,
-		"y": 31933,
+		"x": 33629,
+		"y": 32043,
 		"z": 15
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33639,
-		"y": 31963,
+		"x": 33636,
+		"y": 31932,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33641,
+		"y": 31964,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33642,
+		"y": 32082,
 		"z": 15
 	},
 	{
@@ -28353,7 +28367,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33650,
-		"y": 31946,
+		"y": 31945,
 		"z": 15
 	},
 	{
@@ -28366,15 +28380,29 @@
 	{
 		"description": "",
 		"icon": "checkmark",
+		"x": 33670,
+		"y": 32033,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33673,
+		"y": 32095,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
 		"x": 33675,
-		"y": 31932,
+		"y": 31931,
 		"z": 15
 	},
 	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33679,
-		"y": 31950,
+		"y": 31949,
 		"z": 15
 	},
 	{
@@ -28387,7 +28415,7 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33705,
+		"x": 33704,
 		"y": 31963,
 		"z": 15
 	},
