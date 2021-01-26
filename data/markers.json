@@ -3010,13 +3010,6 @@
 		"z": 6
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32529,
-		"y": 32088,
-		"z": 6
-	},
-	{
 		"description": "Boat",
 		"icon": "flag",
 		"x": 32530,
@@ -5082,13 +5075,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32225,
-		"y": 32114,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32225,
@@ -5100,13 +5086,6 @@
 		"icon": "checkmark",
 		"x": 32229,
 		"y": 32077,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32232,
-		"y": 32124,
 		"z": 7
 	},
 	{
@@ -5156,13 +5135,6 @@
 		"icon": "star",
 		"x": 32240,
 		"y": 32277,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32243,
-		"y": 32113,
 		"z": 7
 	},
 	{
@@ -5229,13 +5201,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32260,
-		"y": 32116,
-		"z": 7
-	},
-	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 32261,
@@ -5257,20 +5222,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32263,
-		"y": 32325,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32264,
-		"y": 32306,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32265,
@@ -5282,13 +5233,6 @@
 		"icon": "up",
 		"x": 32266,
 		"y": 31360,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32267,
-		"y": 32354,
 		"z": 7
 	},
 	{
@@ -5320,13 +5264,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32269,
-		"y": 32156,
-		"z": 7
-	},
-	{
 		"description": "Druid spells",
 		"icon": "star",
 		"x": 32269,
@@ -5341,31 +5278,10 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32271,
-		"y": 32377,
-		"z": 7
-	},
-	{
 		"description": "Pig",
 		"icon": "sword",
 		"x": 32271,
 		"y": 32855,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32276,
-		"y": 32280,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32277,
-		"y": 32138,
 		"z": 7
 	},
 	{
@@ -5400,21 +5316,7 @@
 		"description": "Piñata dragon",
 		"icon": "star",
 		"x": 32292,
-		"y": 32277,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32292,
 		"y": 32357,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32293,
-		"y": 32115,
 		"z": 7
 	},
 	{
@@ -5453,13 +5355,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32300,
-		"y": 32326,
-		"z": 7
-	},
-	{
 		"description": "Passage to Nibelor",
 		"icon": "flag",
 		"x": 32301,
@@ -5471,13 +5366,6 @@
 		"icon": "star",
 		"x": 32302,
 		"y": 31816,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32302,
-		"y": 32378,
 		"z": 7
 	},
 	{
@@ -5499,13 +5387,6 @@
 		"icon": "checkmark",
 		"x": 32309,
 		"y": 31251,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32313,
-		"y": 32133,
 		"z": 7
 	},
 	{
@@ -5572,13 +5453,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32319,
-		"y": 32402,
-		"z": 7
-	},
-	{
 		"description": "Tools",
 		"icon": "bag",
 		"x": 32321,
@@ -5607,13 +5481,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32322,
-		"y": 32157,
-		"z": 7
-	},
-	{
 		"description": "Portal of black energy (boss: Lady Tenebris)",
 		"icon": "flag",
 		"x": 32325,
@@ -5635,13 +5502,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32327,
-		"y": 32353,
-		"z": 7
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 32327,
@@ -5660,13 +5520,6 @@
 		"icon": "flag",
 		"x": 32328,
 		"y": 32087,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32328,
-		"y": 32340,
 		"z": 7
 	},
 	{
@@ -5695,13 +5548,6 @@
 		"icon": "flag",
 		"x": 32333,
 		"y": 31227,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32333,
-		"y": 32315,
 		"z": 7
 	},
 	{
@@ -5768,13 +5614,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32340,
-		"y": 32117,
-		"z": 7
-	},
-	{
 		"description": "Harbour",
 		"icon": "flag",
 		"x": 32341,
@@ -5793,13 +5632,6 @@
 		"icon": "star",
 		"x": 32344,
 		"y": 32241,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32345,
-		"y": 32154,
 		"z": 7
 	},
 	{
@@ -5873,13 +5705,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32353,
-		"y": 32331,
-		"z": 7
-	},
-	{
 		"description": "Ice golems and crystal spiders",
 		"icon": "red down",
 		"x": 32357,
@@ -5898,13 +5723,6 @@
 		"icon": "cross",
 		"x": 32360,
 		"y": 31782,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32360,
-		"y": 32315,
 		"z": 7
 	},
 	{
@@ -5940,20 +5758,6 @@
 		"icon": "bag",
 		"x": 32368,
 		"y": 32198,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32368,
-		"y": 32346,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32368,
-		"y": 32370,
 		"z": 7
 	},
 	{
@@ -6020,13 +5824,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32383,
-		"y": 32373,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32383,
@@ -6055,13 +5852,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32386,
-		"y": 32406,
-		"z": 7
-	},
-	{
 		"description": "Towards Museum of Tibian Arts",
 		"icon": "down",
 		"x": 32387,
@@ -6076,13 +5866,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32389,
-		"y": 32301,
-		"z": 7
-	},
-	{
 		"description": "Meriana Gargoyle Cave",
 		"icon": "down",
 		"x": 32389,
@@ -6090,31 +5873,10 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32390,
-		"y": 32324,
-		"z": 7
-	},
-	{
 		"description": "To depot",
 		"icon": "bag",
 		"x": 32392,
 		"y": 32497,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32393,
-		"y": 32391,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32399,
-		"y": 32106,
 		"z": 7
 	},
 	{
@@ -6167,31 +5929,10 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32413,
-		"y": 32272,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 32414,
 		"y": 32916,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32417,
-		"y": 32335,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32417,
-		"y": 32371,
 		"z": 7
 	},
 	{
@@ -6206,13 +5947,6 @@
 		"icon": "down",
 		"x": 32418,
 		"y": 31086,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32418,
-		"y": 32355,
 		"z": 7
 	},
 	{
@@ -6234,13 +5968,6 @@
 		"icon": "down",
 		"x": 32420,
 		"y": 32500,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32424,
-		"y": 32099,
 		"z": 7
 	},
 	{
@@ -6279,24 +6006,10 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32429,
-		"y": 32394,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32429,
 		"y": 32796,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32430,
-		"y": 32136,
 		"z": 7
 	},
 	{
@@ -6328,13 +6041,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32439,
-		"y": 32114,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 32440,
@@ -6346,20 +6052,6 @@
 		"icon": "red down",
 		"x": 32441,
 		"y": 32468,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32445,
-		"y": 32289,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32445,
-		"y": 32334,
 		"z": 7
 	},
 	{
@@ -6388,27 +6080,6 @@
 		"icon": "up",
 		"x": 32453,
 		"y": 32065,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32453,
-		"y": 32158,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32454,
-		"y": 32187,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32457,
-		"y": 32308,
 		"z": 7
 	},
 	{
@@ -6451,13 +6122,6 @@
 		"icon": "star",
 		"x": 32467,
 		"y": 32107,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32468,
-		"y": 32271,
 		"z": 7
 	},
 	{
@@ -6538,27 +6202,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32479,
-		"y": 32217,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32481,
-		"y": 32110,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32481,
-		"y": 32174,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32482,
@@ -6584,13 +6227,6 @@
 		"icon": "down",
 		"x": 32484,
 		"y": 31097,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32486,
-		"y": 32250,
 		"z": 7
 	},
 	{
@@ -6650,27 +6286,6 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32498,
-		"y": 32142,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32503,
-		"y": 32194,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32505,
-		"y": 32236,
-		"z": 7
-	},
-	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32510,
@@ -6692,38 +6307,10 @@
 		"z": 7
 	},
 	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32515,
-		"y": 32180,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32517,
-		"y": 32105,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32517,
-		"y": 32141,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 32522,
 		"y": 32923,
-		"z": 7
-	},
-	{
-		"description": "Piñata dragon",
-		"icon": "star",
-		"x": 32523,
-		"y": 32161,
 		"z": 7
 	},
 	{
