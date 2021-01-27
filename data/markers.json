@@ -4312,6 +4312,13 @@
 		"z": 6
 	},
 	{
+		"description": "MISSING",
+		"icon": "checkmark",
+		"x": 33914,
+		"y": 31189,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 31915,
@@ -9788,7 +9795,7 @@
 	{
 		"description": "Antique flying carpet",
 		"icon": "flag",
-		"x": 33513,
+		"x": 33512,
 		"y": 32351,
 		"z": 7
 	},
