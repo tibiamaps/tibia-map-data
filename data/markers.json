@@ -2361,6 +2361,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33621,
+		"y": 32364,
+		"z": 5
+	},
+	{
+		"description": "NPC Eruaran",
+		"icon": "mouth",
+		"x": 33621,
+		"y": 32373,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33623,
 		"y": 31795,
 		"z": 5
@@ -2370,6 +2384,13 @@
 		"icon": "down",
 		"x": 33640,
 		"y": 31794,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33646,
+		"y": 32369,
 		"z": 5
 	},
 	{
@@ -10402,6 +10423,13 @@
 		"z": 7
 	},
 	{
+		"description": "Half-buried face",
+		"icon": "crossmark",
+		"x": 33586,
+		"y": 32349,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33587,
@@ -10469,6 +10497,13 @@
 		"icon": "checkmark",
 		"x": 33593,
 		"y": 32017,
+		"z": 7
+	},
+	{
+		"description": "Half-buried face",
+		"icon": "crossmark",
+		"x": 33593,
+		"y": 32373,
 		"z": 7
 	},
 	{
@@ -10781,7 +10816,7 @@
 	},
 	{
 		"description": "Half-buried face",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33650,
 		"y": 32439,
 		"z": 7
@@ -10809,7 +10844,7 @@
 	},
 	{
 		"description": "Half-buried face",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33654,
 		"y": 32400,
 		"z": 7
@@ -10865,7 +10900,7 @@
 	},
 	{
 		"description": "Half-buried face",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33658,
 		"y": 32387,
 		"z": 7
