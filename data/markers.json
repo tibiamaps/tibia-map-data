@@ -11011,6 +11011,13 @@
 		"z": 7
 	},
 	{
+		"description": "Roshamuul Cistern",
+		"icon": "down",
+		"x": 33666,
+		"y": 32271,
+		"z": 7
+	},
+	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33666,
@@ -15005,6 +15012,13 @@
 		"icon": "down",
 		"x": 33657,
 		"y": 31759,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "up",
+		"x": 33666,
+		"y": 32272,
 		"z": 8
 	},
 	{
