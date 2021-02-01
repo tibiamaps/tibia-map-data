@@ -10990,10 +10990,24 @@
 		"z": 7
 	},
 	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33662,
+		"y": 32414,
+		"z": 7
+	},
+	{
 		"description": "Colourful mushroom",
 		"icon": "star",
 		"x": 33664,
 		"y": 32192,
+		"z": 7
+	},
+	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33664,
+		"y": 32404,
 		"z": 7
 	},
 	{
@@ -11032,6 +11046,13 @@
 		"z": 7
 	},
 	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33671,
+		"y": 32424,
+		"z": 7
+	},
+	{
 		"description": "Anatomy book",
 		"icon": "star",
 		"x": 33672,
@@ -11064,6 +11085,13 @@
 		"icon": "up",
 		"x": 33674,
 		"y": 32360,
+		"z": 7
+	},
+	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33674,
+		"y": 32431,
 		"z": 7
 	},
 	{
@@ -11162,6 +11190,13 @@
 		"icon": "flag",
 		"x": 33681,
 		"y": 32497,
+		"z": 7
+	},
+	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33682,
+		"y": 32439,
 		"z": 7
 	},
 	{
@@ -11288,6 +11323,20 @@
 		"icon": "flag",
 		"x": 33697,
 		"y": 32490,
+		"z": 7
+	},
+	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33699,
+		"y": 32415,
+		"z": 7
+	},
+	{
+		"description": "Bad dream",
+		"icon": "flag",
+		"x": 33701,
+		"y": 32428,
 		"z": 7
 	},
 	{
