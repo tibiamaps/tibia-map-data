@@ -22652,6 +22652,13 @@
 		"z": 11
 	},
 	{
+		"description": "Safe Spot",
+		"icon": "cross",
+		"x": 33955,
+		"y": 31216,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33958,
