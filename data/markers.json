@@ -14469,13 +14469,6 @@
 		"z": 8
 	},
 	{
-		"description": "Dazed Leaf Golem",
-		"icon": "checkmark",
-		"x": 33306,
-		"y": 31286,
-		"z": 8
-	},
-	{
 		"description": "Shortcut to exit (room to the east)",
 		"icon": "flag",
 		"x": 33306,
@@ -17515,13 +17508,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33291,
-		"y": 31306,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33296,
 		"y": 32587,
@@ -17556,13 +17542,6 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33306,
-		"y": 31320,
-		"z": 9
-	},
-	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 33311,
@@ -17574,13 +17553,6 @@
 		"icon": "star",
 		"x": 33314,
 		"y": 31637,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33317,
-		"y": 31298,
 		"z": 9
 	},
 	{
