@@ -6083,13 +6083,6 @@
 		"z": 7
 	},
 	{
-		"description": "Squirrel spawn point",
-		"icon": "checkmark",
-		"x": 32433,
-		"y": 31695,
-		"z": 7
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 32433,
@@ -6244,13 +6237,6 @@
 		"z": 7
 	},
 	{
-		"description": "Chicken spawn point",
-		"icon": "checkmark",
-		"x": 32475,
-		"y": 31601,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32476,
@@ -6307,20 +6293,6 @@
 		"z": 7
 	},
 	{
-		"description": "Chicken spawn point",
-		"icon": "checkmark",
-		"x": 32486,
-		"y": 31610,
-		"z": 7
-	},
-	{
-		"description": "Chicken spawn point",
-		"icon": "checkmark",
-		"x": 32487,
-		"y": 31627,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32488,
@@ -6374,13 +6346,6 @@
 		"icon": "checkmark",
 		"x": 32498,
 		"y": 31656,
-		"z": 7
-	},
-	{
-		"description": "Chicken spawn point",
-		"icon": "checkmark",
-		"x": 32509,
-		"y": 31622,
 		"z": 7
 	},
 	{
@@ -16095,13 +16060,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32497,
-		"y": 31980,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32499,
 		"y": 33011,
 		"z": 9
@@ -16139,13 +16097,6 @@
 		"icon": "up",
 		"x": 32513,
 		"y": 31656,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32518,
-		"y": 31965,
 		"z": 9
 	},
 	{
@@ -19075,13 +19026,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32518,
-		"y": 31965,
-		"z": 10
-	},
-	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32520,
@@ -19107,13 +19051,6 @@
 		"icon": "up",
 		"x": 32531,
 		"y": 32708,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32540,
-		"y": 31948,
 		"z": 10
 	},
 	{
@@ -21483,20 +21420,6 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32527,
-		"y": 31951,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32540,
-		"y": 31948,
-		"z": 11
-	},
-	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32546,
@@ -23261,20 +23184,6 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32526,
-		"y": 31964,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32527,
-		"y": 31951,
-		"z": 12
-	},
-	{
 		"description": "Flying Book",
 		"icon": "checkmark",
 		"x": 32532,
@@ -24718,20 +24627,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 32510,
-		"y": 31957,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32526,
-		"y": 31964,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "?",
 		"x": 32575,
 		"y": 32535,
@@ -26016,13 +25911,6 @@
 		"icon": "down",
 		"x": 32484,
 		"y": 32102,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32509,
-		"y": 31953,
 		"z": 14
 	},
 	{
@@ -27528,13 +27416,6 @@
 		"icon": "lock",
 		"x": 32424,
 		"y": 32097,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32477,
-		"y": 31973,
 		"z": 15
 	},
 	{
