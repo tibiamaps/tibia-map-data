@@ -6111,13 +6111,6 @@
 		"z": 7
 	},
 	{
-		"description": "Towards Ancient Lion Knight",
-		"icon": "red down",
-		"x": 32441,
-		"y": 32468,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32448,
@@ -11750,6 +11743,13 @@
 		"icon": "up",
 		"x": 33871,
 		"y": 31458,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33874,
+		"y": 31675,
 		"z": 7
 	},
 	{
