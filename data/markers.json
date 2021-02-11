@@ -91,6 +91,20 @@
 		"z": 1
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33066,
+		"y": 31020,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33086,
+		"y": 31019,
+		"z": 1
+	},
+	{
 		"description": "Spectulus",
 		"icon": "mouth",
 		"x": 33268,
@@ -340,6 +354,20 @@
 		"icon": "down",
 		"x": 32947,
 		"y": 32673,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33083,
+		"y": 31027,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33086,
+		"y": 31019,
 		"z": 2
 	},
 	{
@@ -725,6 +753,20 @@
 		"icon": "down",
 		"x": 33050,
 		"y": 32717,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33083,
+		"y": 31027,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33092,
+		"y": 31037,
 		"z": 3
 	},
 	{
@@ -1302,8 +1344,8 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Towards Paiz the Pauperizer",
+		"icon": "sword",
 		"x": 33063,
 		"y": 31102,
 		"z": 4
@@ -1320,6 +1362,20 @@
 		"icon": "red down",
 		"x": 33084,
 		"y": 31114,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33092,
+		"y": 31037,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33104,
+		"y": 31039,
 		"z": 4
 	},
 	{
@@ -2115,6 +2171,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33080,
+		"y": 31043,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33084,
 		"y": 31115,
@@ -2132,6 +2195,13 @@
 		"icon": "down",
 		"x": 33092,
 		"y": 32649,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33104,
+		"y": 31039,
 		"z": 5
 	},
 	{
@@ -3557,6 +3627,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33080,
+		"y": 31043,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33081,
 		"y": 31533,
@@ -3581,6 +3658,13 @@
 		"icon": "up",
 		"x": 33092,
 		"y": 32649,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33094,
+		"y": 31051,
 		"z": 6
 	},
 	{
@@ -8358,6 +8442,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33094,
+		"y": 31051,
+		"z": 7
+	},
+	{
 		"description": "Dragons",
 		"icon": "red down",
 		"x": 33099,
@@ -8390,6 +8481,13 @@
 		"icon": "up",
 		"x": 33101,
 		"y": 32656,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33102,
+		"y": 31054,
 		"z": 7
 	},
 	{
