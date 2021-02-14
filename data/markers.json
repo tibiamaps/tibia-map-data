@@ -14344,6 +14344,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33183,
+		"y": 32531,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33186,
 		"y": 31840,
@@ -14401,6 +14408,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33205,
+		"y": 32510,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33205,
+		"y": 32531,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33207,
 		"y": 32088,
 		"z": 8
@@ -14427,6 +14448,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33214,
+		"y": 32552,
+		"z": 8
+	},
+	{
 		"description": "The missing piece of the cube",
 		"icon": "star",
 		"x": 33219,
@@ -14438,6 +14466,13 @@
 		"icon": "star",
 		"x": 33231,
 		"y": 32015,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33231,
+		"y": 32514,
 		"z": 8
 	},
 	{
@@ -14470,6 +14505,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33246,
+		"y": 32534,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33251,
 		"y": 31697,
@@ -14485,6 +14527,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33251,
+		"y": 32546,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33266,
 		"y": 31591,
 		"z": 8
@@ -14494,6 +14543,13 @@
 		"icon": "crossmark",
 		"x": 33270,
 		"y": 31844,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33274,
+		"y": 32527,
 		"z": 8
 	},
 	{
@@ -17487,6 +17543,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33183,
+		"y": 32530,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33184,
 		"y": 31186,
@@ -17518,6 +17581,13 @@
 		"icon": "up",
 		"x": 33202,
 		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33205,
+		"y": 32510,
 		"z": 9
 	},
 	{
@@ -17577,6 +17647,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33231,
+		"y": 32514,
+		"z": 9
+	},
+	{
 		"description": "Green Basin",
 		"icon": "star",
 		"x": 33261,
@@ -17595,6 +17672,13 @@
 		"icon": "up",
 		"x": 33266,
 		"y": 31591,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33268,
+		"y": 32514,
 		"z": 9
 	},
 	{
@@ -20451,6 +20535,20 @@
 		"icon": "down",
 		"x": 33264,
 		"y": 32301,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33268,
+		"y": 32514,
+		"z": 10
+	},
+	{
+		"description": "To NPC Muhad",
+		"icon": "up",
+		"x": 33276,
+		"y": 32528,
 		"z": 10
 	},
 	{
