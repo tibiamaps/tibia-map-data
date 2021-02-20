@@ -3444,6 +3444,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32998,
+		"y": 31455,
+		"z": 6
+	},
+	{
 		"description": "Exit Production Sites",
 		"icon": "down",
 		"x": 32998,
@@ -7952,7 +7959,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Slug cave",
 		"icon": "down",
 		"x": 32967,
 		"y": 32142,
@@ -8225,6 +8232,13 @@
 		"z": 7
 	},
 	{
+		"description": "Diggable swamp tile",
+		"icon": "star",
+		"x": 33042,
+		"y": 32021,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33048,
@@ -8239,17 +8253,17 @@
 		"z": 7
 	},
 	{
+		"description": "Elevator towards NPC Rafzan",
+		"icon": "red up",
+		"x": 33051,
+		"y": 32099,
+		"z": 7
+	},
+	{
 		"description": "To NPC Zarifan",
 		"icon": "down",
 		"x": 33051,
 		"y": 32471,
-		"z": 7
-	},
-	{
-		"description": "Rafzan",
-		"icon": "lock",
-		"x": 33054,
-		"y": 32096,
 		"z": 7
 	},
 	{
@@ -13708,6 +13722,20 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32934,
+		"y": 32216,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32940,
+		"y": 31454,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32942,
 		"y": 31593,
 		"z": 8
@@ -13752,6 +13780,13 @@
 		"icon": "sword",
 		"x": 32963,
 		"y": 32312,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32967,
+		"y": 32142,
 		"z": 8
 	},
 	{
@@ -13885,6 +13920,13 @@
 		"icon": "red up",
 		"x": 33027,
 		"y": 32730,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33029,
+		"y": 32089,
 		"z": 8
 	},
 	{
@@ -16891,6 +16933,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32938,
+		"y": 31449,
+		"z": 9
+	},
+	{
 		"description": "Uniwheel",
 		"icon": "star",
 		"x": 32939,
@@ -16923,6 +16972,13 @@
 		"icon": "up",
 		"x": 32949,
 		"y": 31620,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 32148,
 		"z": 9
 	},
 	{
@@ -20335,7 +20391,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Junk trunk",
 		"icon": "checkmark",
 		"x": 33128,
 		"y": 32127,
@@ -20391,7 +20447,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Junk trunk",
 		"icon": "checkmark",
 		"x": 33136,
 		"y": 32076,
@@ -20405,7 +20461,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Junk trunk",
 		"icon": "checkmark",
 		"x": 33143,
 		"y": 32051,
