@@ -20300,6 +20300,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33093,
+		"y": 32090,
+		"z": 10
+	},
+	{
 		"description": "Deathstrike spawn tile",
 		"icon": "!",
 		"x": 33101,
