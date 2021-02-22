@@ -28316,6 +28316,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33515,
+		"y": 31932,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33522,
 		"y": 31367,
