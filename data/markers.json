@@ -8253,9 +8253,9 @@
 		"z": 7
 	},
 	{
-		"description": "Elevator towards NPC Rafzan",
+		"description": "Towards NPC Rafzan",
 		"icon": "red up",
-		"x": 33051,
+		"x": 33050,
 		"y": 32099,
 		"z": 7
 	},
@@ -8344,17 +8344,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Coryms",
+		"icon": "red up",
 		"x": 33071,
 		"y": 32089,
-		"z": 7
-	},
-	{
-		"description": "Coryms",
-		"icon": "red down",
-		"x": 33072,
-		"y": 32087,
 		"z": 7
 	},
 	{
