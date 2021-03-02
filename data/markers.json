@@ -9688,6 +9688,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33380,
+		"y": 32686,
+		"z": 7
+	},
+	{
 		"description": "To Ankrahmun",
 		"icon": "flag",
 		"x": 33384,
