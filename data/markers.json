@@ -9688,13 +9688,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33380,
-		"y": 32686,
-		"z": 7
-	},
-	{
 		"description": "To Ankrahmun",
 		"icon": "flag",
 		"x": 33384,
@@ -14742,13 +14735,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33350,
-		"y": 32761,
-		"z": 8
-	},
-	{
 		"description": "To surface",
 		"icon": "up",
 		"x": 33353,
@@ -14778,34 +14764,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33362,
-		"y": 32787,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33362,
-		"y": 32824,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33364,
-		"y": 32731,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33364,
-		"y": 32752,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33365,
 		"y": 31938,
@@ -14823,13 +14781,6 @@
 		"icon": "up",
 		"x": 33380,
 		"y": 32686,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33380,
-		"y": 32788,
 		"z": 8
 	},
 	{
