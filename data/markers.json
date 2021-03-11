@@ -18543,6 +18543,13 @@
 		"z": 9
 	},
 	{
+		"description": "Mirror",
+		"icon": "red right",
+		"x": 33879,
+		"y": 31626,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33884,
@@ -18575,6 +18582,13 @@
 		"icon": "flag",
 		"x": 33925,
 		"y": 31621,
+		"z": 9
+	},
+	{
+		"description": "Mirror",
+		"icon": "red left",
+		"x": 33930,
+		"y": 31636,
 		"z": 9
 	},
 	{
