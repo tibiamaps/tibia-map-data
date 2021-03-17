@@ -11417,6 +11417,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot (+2 floors)",
+		"icon": "red up",
+		"x": 33686,
+		"y": 32202,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33687,
