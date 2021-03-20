@@ -7931,6 +7931,13 @@
 		"z": 7
 	},
 	{
+		"description": "Asura Palace",
+		"icon": "up",
+		"x": 32948,
+		"y": 32689,
+		"z": 7
+	},
+	{
 		"description": "Giant spiders",
 		"icon": "red down",
 		"x": 32949,
@@ -8019,6 +8026,13 @@
 		"icon": "down",
 		"x": 32983,
 		"y": 32646,
+		"z": 7
+	},
+	{
+		"description": "Protection zone",
+		"icon": "cross",
+		"x": 32987,
+		"y": 32730,
 		"z": 7
 	},
 	{
