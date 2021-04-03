@@ -7007,6 +7007,13 @@
 		"z": 7
 	},
 	{
+		"description": "Haunted Temple (gazer spectres)",
+		"icon": "red right",
+		"x": 32670,
+		"y": 32652,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32671,
@@ -7018,13 +7025,6 @@
 		"icon": "flag",
 		"x": 32672,
 		"y": 31699,
-		"z": 7
-	},
-	{
-		"description": "Haunted Temple (gazer spectres)",
-		"icon": "red down",
-		"x": 32677,
-		"y": 32651,
 		"z": 7
 	},
 	{
