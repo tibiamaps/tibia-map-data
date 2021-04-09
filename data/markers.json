@@ -16912,6 +16912,13 @@
 		"z": 9
 	},
 	{
+		"description": "Basement (requires Razing rank in Vampire Hunter Quest)",
+		"icon": "red left",
+		"x": 32954,
+		"y": 31460,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Gnomebase Alpha",
 		"icon": "flag",
 		"x": 32959,
