@@ -3647,6 +3647,13 @@
 		"z": 6
 	},
 	{
+		"description": "MB spot \"Sofsterella is below you\"",
+		"icon": "flag",
+		"x": 33085,
+		"y": 32796,
+		"z": 6
+	},
+	{
 		"description": "Silver ewer (daily spawn)",
 		"icon": "bag",
 		"x": 33089,
@@ -8246,6 +8253,13 @@
 		"z": 7
 	},
 	{
+		"description": "MB desert spot",
+		"icon": "flag",
+		"x": 33062,
+		"y": 32763,
+		"z": 7
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 33065,
@@ -8260,6 +8274,13 @@
 		"z": 7
 	},
 	{
+		"description": "Sofsterella desert spot",
+		"icon": "flag",
+		"x": 33068,
+		"y": 32763,
+		"z": 7
+	},
+	{
 		"description": "Post office",
 		"icon": "bag",
 		"x": 33069,
@@ -8271,6 +8292,13 @@
 		"icon": "red up",
 		"x": 33071,
 		"y": 32089,
+		"z": 7
+	},
+	{
+		"description": "Sofster spot Feizuhl",
+		"icon": "flag",
+		"x": 33071,
+		"y": 32885,
 		"z": 7
 	},
 	{
@@ -8327,6 +8355,13 @@
 		"icon": "up",
 		"x": 33081,
 		"y": 31532,
+		"z": 7
+	},
+	{
+		"description": "Sofsterella spot \"MB is above you\"",
+		"icon": "flag",
+		"x": 33081,
+		"y": 32794,
 		"z": 7
 	},
 	{
@@ -9415,6 +9450,13 @@
 		"z": 7
 	},
 	{
+		"description": "MB spot, Sofster is  far to the southwest",
+		"icon": "flag",
+		"x": 33321,
+		"y": 32674,
+		"z": 7
+	},
+	{
 		"description": "Teleport to Falcon Bastion",
 		"icon": "flag",
 		"x": 33328,
@@ -9629,6 +9671,13 @@
 		"icon": "cross",
 		"x": 33387,
 		"y": 32215,
+		"z": 7
+	},
+	{
+		"description": "MB spot, Sofster is far to the southwest",
+		"icon": "flag",
+		"x": 33390,
+		"y": 32625,
 		"z": 7
 	},
 	{
