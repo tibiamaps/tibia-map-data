@@ -1,5 +1,26 @@
 [
 	{
+		"description": "The Grand Master of Verbal Debate II (book)",
+		"icon": "star",
+		"x": 33362,
+		"y": 31319,
+		"z": 3
+	},
+	{
+		"description": "The Grand Master of Verbal Debate I (book)",
+		"icon": "star",
+		"x": 33368,
+		"y": 31348,
+		"z": 3
+	},
+	{
+		"description": "The Grand Master of Verbal Debate IV (book)",
+		"icon": "star",
+		"x": 33372,
+		"y": 31336,
+		"z": 3
+	},
+	{
 		"description": "Ice flower",
 		"icon": "checkmark",
 		"x": 32113,
@@ -103,6 +124,27 @@
 		"x": 32256,
 		"y": 31066,
 		"z": 5
+	},
+	{
+		"description": "The Grand Master of Verbal Debate V (book)",
+		"icon": "star",
+		"x": 33366,
+		"y": 31324,
+		"z": 6
+	},
+	{
+		"description": "The Grand Master of Verbal Debate VI (book)",
+		"icon": "star",
+		"x": 33366,
+		"y": 31327,
+		"z": 6
+	},
+	{
+		"description": "The Grand Master of Verbal Debate III (book)",
+		"icon": "star",
+		"x": 33373,
+		"y": 31348,
+		"z": 6
 	},
 	{
 		"description": "Digging spot (Gold Digger achievement)",
@@ -712,5 +754,26 @@
 		"x": 33283,
 		"y": 32744,
 		"z": 7
+	},
+	{
+		"description": "The Grand Master of Verbal Debate VIII (book)",
+		"icon": "star",
+		"x": 33373,
+		"y": 31350,
+		"z": 7
+	},
+	{
+		"description": "The Grand Master of Verbal Debate VII (book)",
+		"icon": "star",
+		"x": 33387,
+		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "The Grand Master of Verbal Debate IX (book)",
+		"icon": "star",
+		"x": 33369,
+		"y": 31343,
+		"z": 8
 	}
 ]
