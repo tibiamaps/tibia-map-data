@@ -13342,6 +13342,13 @@
 		"z": 8
 	},
 	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32725,
+		"y": 31528,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32739,
@@ -19041,13 +19048,6 @@
 	},
 	{
 		"description": "Dwarfs",
-		"icon": "down",
-		"x": 32428,
-		"y": 31989,
-		"z": 10
-	},
-	{
-		"description": "Dwarf Mines",
 		"icon": "down",
 		"x": 32428,
 		"y": 31989,
