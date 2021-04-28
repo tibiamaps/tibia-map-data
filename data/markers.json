@@ -16563,6 +16563,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 32711,
+		"y": 32252,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32718,
 		"y": 31846,
@@ -16604,10 +16611,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32741,
+		"y": 32246,
+		"z": 9
+	},
+	{
 		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32745,
 		"y": 31524,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32745,
+		"y": 32235,
 		"z": 9
 	},
 	{
@@ -19432,6 +19453,20 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32684,
+		"y": 32267,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32685,
+		"y": 32241,
+		"z": 10
+	},
+	{
 		"description": "Gorzindel room",
 		"icon": "checkmark",
 		"x": 32687,
@@ -19443,6 +19478,20 @@
 		"icon": "up",
 		"x": 32698,
 		"y": 32232,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32706,
+		"y": 32249,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32709,
+		"y": 32275,
 		"z": 10
 	},
 	{
@@ -19478,6 +19527,13 @@
 		"icon": "checkmark",
 		"x": 32724,
 		"y": 32720,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32728,
+		"y": 32245,
 		"z": 10
 	},
 	{
@@ -19541,6 +19597,13 @@
 		"icon": "checkmark",
 		"x": 32756,
 		"y": 32721,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32757,
+		"y": 32238,
 		"z": 10
 	},
 	{
