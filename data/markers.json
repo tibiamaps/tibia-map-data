@@ -6916,6 +6916,13 @@
 		"z": 7
 	},
 	{
+		"description": "Protection zone",
+		"icon": "cross",
+		"x": 32671,
+		"y": 32059,
+		"z": 7
+	},
+	{
 		"description": "Post",
 		"icon": "flag",
 		"x": 32672,
