@@ -10060,6 +10060,20 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33519,
+		"y": 32466,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33520,
+		"y": 32445,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "bag",
 		"x": 33520,
 		"y": 32559,
@@ -10326,6 +10340,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33553,
+		"y": 32441,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33554,
 		"y": 32028,
@@ -10406,6 +10427,13 @@
 		"icon": "crossmark",
 		"x": 33562,
 		"y": 31272,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33562,
+		"y": 32489,
 		"z": 7
 	},
 	{
@@ -10616,6 +10644,13 @@
 		"icon": "crossmark",
 		"x": 33586,
 		"y": 32349,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33586,
+		"y": 32455,
 		"z": 7
 	},
 	{
@@ -24325,10 +24360,24 @@
 		"z": 12
 	},
 	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33471,
+		"y": 31996,
+		"z": 12
+	},
+	{
 		"description": "Teleport",
 		"icon": "flag",
 		"x": 33482,
 		"y": 32775,
+		"z": 12
+	},
+	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33505,
+		"y": 31896,
 		"z": 12
 	},
 	{
@@ -24367,6 +24416,13 @@
 		"z": 12
 	},
 	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33533,
+		"y": 31902,
+		"z": 12
+	},
+	{
 		"description": "Slide back to town",
 		"icon": "flag",
 		"x": 33558,
@@ -24395,17 +24451,17 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33586,
-		"y": 31984,
-		"z": 12
-	},
-	{
 		"description": "NPC Elbert",
 		"icon": "mouth",
 		"x": 33586,
 		"y": 31986,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33613,
+		"y": 31917,
 		"z": 12
 	},
 	{
@@ -24493,6 +24549,13 @@
 		"z": 12
 	},
 	{
+		"description": "To the central glooth factory",
+		"icon": "flag",
+		"x": 33659,
+		"y": 31902,
+		"z": 12
+	},
+	{
 		"description": "Irrigation funnel",
 		"icon": "star",
 		"x": 33660,
@@ -24514,10 +24577,45 @@
 		"z": 12
 	},
 	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33682,
+		"y": 31910,
+		"z": 12
+	},
+	{
 		"description": "Crimson crest mushroom",
 		"icon": "star",
 		"x": 33685,
 		"y": 31882,
+		"z": 12
+	},
+	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33687,
+		"y": 31882,
+		"z": 12
+	},
+	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33712,
+		"y": 31857,
+		"z": 12
+	},
+	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33713,
+		"y": 31911,
+		"z": 12
+	},
+	{
+		"description": "Mutated glooth (pink)",
+		"icon": "?",
+		"x": 33716,
+		"y": 31875,
 		"z": 12
 	},
 	{
