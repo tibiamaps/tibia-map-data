@@ -11669,6 +11669,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33774,
+		"y": 31585,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33778,
@@ -11718,6 +11725,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33794,
+		"y": 31620,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 33795,
@@ -11725,10 +11739,24 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33799,
+		"y": 31628,
+		"z": 7
+	},
+	{
 		"description": "The Wreckoning/Tentugly",
 		"icon": "crossmark",
 		"x": 33800,
 		"y": 31358,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33800,
+		"y": 31560,
 		"z": 7
 	},
 	{
@@ -11774,6 +11802,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33815,
+		"y": 31696,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33819,
@@ -11788,10 +11823,31 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33833,
+		"y": 31591,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33837,
+		"y": 31718,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33839,
 		"y": 31710,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33850,
+		"y": 31757,
 		"z": 7
 	},
 	{
@@ -11886,6 +11942,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33876,
+		"y": 31703,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33879,
@@ -11921,6 +11984,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33889,
+		"y": 31626,
+		"z": 7
+	},
+	{
 		"description": "To Ratmiral Blackwhiskers",
 		"icon": "sword",
 		"x": 33892,
@@ -11939,13 +12009,6 @@
 		"icon": "flag",
 		"x": 33894,
 		"y": 31470,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "!",
-		"x": 33896,
-		"y": 31665,
 		"z": 7
 	},
 	{
@@ -16408,6 +16471,13 @@
 		"z": 9
 	},
 	{
+		"description": "Sunken Mines",
+		"icon": "down",
+		"x": 32574,
+		"y": 32037,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32578,
@@ -19387,6 +19457,13 @@
 		"icon": "red down",
 		"x": 32559,
 		"y": 31859,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32574,
+		"y": 32037,
 		"z": 10
 	},
 	{
