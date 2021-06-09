@@ -15120,13 +15120,6 @@
 		"z": 8
 	},
 	{
-		"description": "To Jakundaf Desert",
-		"icon": "flag",
-		"x": 33569,
-		"y": 31459,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33569,
@@ -15148,7 +15141,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "To Jakundaf Desert",
 		"icon": "flag",
 		"x": 33572,
 		"y": 31459,
