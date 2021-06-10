@@ -19518,6 +19518,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32599,
+		"y": 31733,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32604,
 		"y": 31321,
 		"z": 10
@@ -19579,6 +19586,13 @@
 		"z": 10
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32674,
+		"y": 31786,
+		"z": 10
+	},
+	{
 		"description": "Towards Hellgate",
 		"icon": "red up",
 		"x": 32676,
@@ -19590,6 +19604,13 @@
 		"icon": "sword",
 		"x": 32684,
 		"y": 32267,
+		"z": 10
+	},
+	{
+		"description": "Treasure Digging Task",
+		"icon": "checkmark",
+		"x": 32685,
+		"y": 31752,
 		"z": 10
 	},
 	{
@@ -21408,6 +21429,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32062,
+		"y": 31461,
+		"z": 11
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32089,
+		"y": 31451,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32104,
 		"y": 32588,
 		"z": 11
@@ -21952,6 +21987,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32599,
+		"y": 31733,
+		"z": 11
+	},
+	{
 		"description": "Shortcut to Beregar",
 		"icon": "flag",
 		"x": 32603,
@@ -21998,6 +22040,13 @@
 		"icon": "up",
 		"x": 32646,
 		"y": 32110,
+		"z": 11
+	},
+	{
+		"description": "Killing Task",
+		"icon": "checkmark",
+		"x": 32658,
+		"y": 31722,
 		"z": 11
 	},
 	{
@@ -24879,7 +24928,7 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
+		"icon": "down",
 		"x": 32048,
 		"y": 31475,
 		"z": 13
@@ -24920,7 +24969,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "Basalt task",
 		"icon": "checkmark",
 		"x": 32067,
 		"y": 31479,
@@ -26376,6 +26425,13 @@
 		"z": 14
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32143,
+		"y": 31446,
+		"z": 14
+	},
+	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
 		"x": 32146,
@@ -26411,7 +26467,7 @@
 		"z": 14
 	},
 	{
-		"description": "Fire wax",
+		"description": "Gnome miner task",
 		"icon": "checkmark",
 		"x": 32181,
 		"y": 31408,
@@ -26425,7 +26481,7 @@
 		"z": 14
 	},
 	{
-		"description": "Gnome Miner",
+		"description": "Wax task",
 		"icon": "checkmark",
 		"x": 32188,
 		"y": 31421,
@@ -28067,6 +28123,20 @@
 		"icon": "flag",
 		"x": 32043,
 		"y": 31955,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32048,
+		"y": 31477,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32153,
+		"y": 31464,
 		"z": 15
 	},
 	{
