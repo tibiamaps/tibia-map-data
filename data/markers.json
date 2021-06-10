@@ -11775,6 +11775,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33806,
+		"y": 31692,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33808,
 		"y": 31666,
@@ -12114,6 +12121,13 @@
 		"icon": "up",
 		"x": 33955,
 		"y": 31495,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33970,
+		"y": 31652,
 		"z": 7
 	},
 	{
@@ -15568,6 +15582,13 @@
 		"z": 8
 	},
 	{
+		"description": "Frame",
+		"icon": "star",
+		"x": 34019,
+		"y": 31672,
+		"z": 8
+	},
+	{
 		"description": "To Banuta",
 		"icon": "flag",
 		"x": 31904,
@@ -16188,6 +16209,13 @@
 		"icon": "up",
 		"x": 32431,
 		"y": 32064,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32434,
+		"y": 32525,
 		"z": 9
 	},
 	{
@@ -19139,6 +19167,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32423,
+		"y": 32501,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32424,
 		"y": 31027,
@@ -21238,6 +21273,13 @@
 		"z": 10
 	},
 	{
+		"description": "Ornate case / golden mirror",
+		"icon": "checkmark",
+		"x": 33861,
+		"y": 31711,
+		"z": 10
+	},
+	{
 		"description": "Exit to Goshnar’s Taint",
 		"icon": "flag",
 		"x": 33888,
@@ -21736,6 +21778,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32438,
+		"y": 32464,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32438,
 		"y": 32957,
@@ -21781,6 +21830,13 @@
 		"icon": "up",
 		"x": 32449,
 		"y": 32606,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32458,
+		"y": 32462,
 		"z": 11
 	},
 	{
@@ -21865,6 +21921,13 @@
 		"icon": "bag",
 		"x": 32546,
 		"y": 31985,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32553,
+		"y": 32446,
 		"z": 11
 	},
 	{
@@ -23191,10 +23254,31 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32059,
+		"y": 31466,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32065,
+		"y": 31461,
+		"z": 12
+	},
+	{
 		"description": "Emergency exit",
 		"icon": "red right",
 		"x": 32078,
 		"y": 31363,
+		"z": 12
+	},
+	{
+		"description": "Fishing rod task",
+		"icon": "checkmark",
+		"x": 32083,
+		"y": 31465,
 		"z": 12
 	},
 	{
@@ -23499,6 +23583,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32408,
+		"y": 32492,
+		"z": 12
+	},
+	{
 		"description": "4. To surface",
 		"icon": "up",
 		"x": 32409,
@@ -23562,6 +23653,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32458,
+		"y": 32462,
+		"z": 12
+	},
+	{
 		"description": "Teleport to Lokathmor lever room",
 		"icon": "flag",
 		"x": 32464,
@@ -23618,6 +23716,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32520,
+		"y": 32422,
+		"z": 12
+	},
+	{
 		"description": "6. To Demona",
 		"icon": "red up",
 		"x": 32525,
@@ -23629,6 +23734,13 @@
 		"icon": "checkmark",
 		"x": 32532,
 		"y": 32765,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32553,
+		"y": 32446,
 		"z": 12
 	},
 	{
@@ -24766,6 +24878,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32048,
+		"y": 31475,
+		"z": 13
+	},
+	{
 		"description": "Hellhounds",
 		"icon": "red down",
 		"x": 32048,
@@ -24798,6 +24917,20 @@
 		"icon": "flag",
 		"x": 32066,
 		"y": 31949,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32067,
+		"y": 31479,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32069,
+		"y": 31451,
 		"z": 13
 	},
 	{
@@ -25131,6 +25264,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32520,
+		"y": 32422,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32575,
+		"y": 32468,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "?",
 		"x": 32575,
 		"y": 32535,
@@ -25141,6 +25288,20 @@
 		"icon": "down",
 		"x": 32577,
 		"y": 32179,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32588,
+		"y": 32441,
+		"z": 13
+	},
+	{
+		"description": "Soup",
+		"icon": "star",
+		"x": 32591,
+		"y": 32483,
 		"z": 13
 	},
 	{
@@ -26069,6 +26230,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32045,
+		"y": 31454,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32049,
 		"y": 32571,
@@ -26086,6 +26254,20 @@
 		"icon": "red right",
 		"x": 32061,
 		"y": 31938,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32068,
+		"y": 31468,
+		"z": 14
+	},
+	{
+		"description": "War hammer task",
+		"icon": "checkmark",
+		"x": 32069,
+		"y": 31488,
 		"z": 14
 	},
 	{
@@ -26229,10 +26411,24 @@
 		"z": 14
 	},
 	{
+		"description": "Fire wax",
+		"icon": "checkmark",
+		"x": 32181,
+		"y": 31408,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32181,
 		"y": 31901,
+		"z": 14
+	},
+	{
+		"description": "Gnome Miner",
+		"icon": "checkmark",
+		"x": 32188,
+		"y": 31421,
 		"z": 14
 	},
 	{
@@ -27885,6 +28081,13 @@
 		"icon": "crossmark",
 		"x": 32175,
 		"y": 32603,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32177,
+		"y": 31416,
 		"z": 15
 	},
 	{
