@@ -16730,6 +16730,13 @@
 		"z": 9
 	},
 	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 32740,
+		"y": 32435,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 32741,
@@ -18484,6 +18491,13 @@
 		"icon": "checkmark",
 		"x": 33663,
 		"y": 31985,
+		"z": 9
+	},
+	{
+		"description": "Possible The Abomination Spawn",
+		"icon": "star",
+		"x": 33665,
+		"y": 31782,
 		"z": 9
 	},
 	{
@@ -20755,6 +20769,13 @@
 		"z": 10
 	},
 	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 33217,
+		"y": 31405,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33217,
@@ -22295,6 +22316,13 @@
 		"z": 11
 	},
 	{
+		"description": "Possible Abomination Spawn ",
+		"icon": "star",
+		"x": 32902,
+		"y": 31906,
+		"z": 11
+	},
+	{
 		"description": "Spore",
 		"icon": "checkmark",
 		"x": 32904,
@@ -22677,6 +22705,13 @@
 		"icon": "crossmark",
 		"x": 33097,
 		"y": 32267,
+		"z": 11
+	},
+	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 33099,
+		"y": 32685,
 		"z": 11
 	},
 	{
@@ -23552,6 +23587,13 @@
 		"icon": "star",
 		"x": 32247,
 		"y": 31030,
+		"z": 12
+	},
+	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 32247,
+		"y": 31163,
 		"z": 12
 	},
 	{
@@ -25309,6 +25351,13 @@
 		"icon": "up",
 		"x": 32494,
 		"y": 32215,
+		"z": 13
+	},
+	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 32510,
+		"y": 31942,
 		"z": 13
 	},
 	{
@@ -27104,6 +27153,13 @@
 		"z": 14
 	},
 	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 33301,
+		"y": 31754,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33307,
@@ -28217,6 +28273,13 @@
 		"z": 15
 	},
 	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 32609,
+		"y": 31513,
+		"z": 15
+	},
+	{
 		"description": "Way out of Hellgate",
 		"icon": "up",
 		"x": 32661,
@@ -28235,6 +28298,13 @@
 		"icon": "up",
 		"x": 32685,
 		"y": 31708,
+		"z": 15
+	},
+	{
+		"description": "Possible Abomination Spawn",
+		"icon": "star",
+		"x": 32701,
+		"y": 31611,
 		"z": 15
 	},
 	{
