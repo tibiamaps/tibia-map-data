@@ -1995,8 +1995,8 @@
 		"z": 5
 	},
 	{
-		"description": "Levitate spot (face west)",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32419,
 		"y": 32491,
 		"z": 5
@@ -3115,8 +3115,8 @@
 		"z": 6
 	},
 	{
-		"description": "Levitate spot (face east)",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 32418,
 		"y": 32491,
 		"z": 6
@@ -9338,8 +9338,8 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot (face south)",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 33277,
 		"y": 31110,
 		"z": 7
@@ -13755,8 +13755,8 @@
 		"z": 8
 	},
 	{
-		"description": "Levitate spot (face east)",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 32880,
 		"y": 32438,
 		"z": 8
