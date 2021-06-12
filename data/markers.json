@@ -11774,7 +11774,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Girtablilu cave",
 		"icon": "down",
 		"x": 33806,
 		"y": 31692,
@@ -11866,7 +11866,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red left",
 		"x": 33859,
 		"y": 31656,
 		"z": 7
@@ -12124,7 +12124,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bashmu cave",
 		"icon": "down",
 		"x": 33970,
 		"y": 31652,
@@ -15429,6 +15429,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33806,
+		"y": 31692,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33807,
 		"y": 31063,
@@ -15582,7 +15589,14 @@
 		"z": 8
 	},
 	{
-		"description": "Frame",
+		"description": "",
+		"icon": "up",
+		"x": 33970,
+		"y": 31652,
+		"z": 8
+	},
+	{
+		"description": "Floating cask (use to get eye-shaped frame)",
 		"icon": "star",
 		"x": 34019,
 		"y": 31672,
@@ -21315,10 +21329,24 @@
 		"z": 10
 	},
 	{
-		"description": "Ornate case / golden mirror",
-		"icon": "checkmark",
+		"description": "",
+		"icon": "up",
+		"x": 33810,
+		"y": 31697,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33819,
+		"y": 31772,
+		"z": 10
+	},
+	{
+		"description": "Ornate case (use to get golden hand mirror)",
+		"icon": "star",
 		"x": 33861,
-		"y": 31711,
+		"y": 31713,
 		"z": 10
 	},
 	{
