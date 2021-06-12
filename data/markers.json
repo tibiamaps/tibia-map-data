@@ -3094,6 +3094,13 @@
 		"z": 6
 	},
 	{
+		"description": "NPC Lesh the Seer",
+		"icon": "mouth",
+		"x": 32406,
+		"y": 32471,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32411,
@@ -16548,6 +16555,20 @@
 		"z": 9
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32604,
+		"y": 31844,
+		"z": 9
+	},
+	{
+		"description": "NPC Gnomystery",
+		"icon": "mouth",
+		"x": 32609,
+		"y": 31879,
+		"z": 9
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32610,
@@ -19552,6 +19573,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32603,
+		"y": 31844,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32604,
 		"y": 31321,
@@ -19600,6 +19628,20 @@
 		"z": 10
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32630,
+		"y": 31832,
+		"z": 10
+	},
+	{
+		"description": "Diremaws",
+		"icon": "flag",
+		"x": 32630,
+		"y": 31839,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32639,
@@ -19611,6 +19653,34 @@
 		"icon": "up",
 		"x": 32643,
 		"y": 32831,
+		"z": 10
+	},
+	{
+		"description": "Grotto of the Lost",
+		"icon": "flag",
+		"x": 32651,
+		"y": 31823,
+		"z": 10
+	},
+	{
+		"description": "Antrum of the Fallen",
+		"icon": "flag",
+		"x": 32653,
+		"y": 31816,
+		"z": 10
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32660,
+		"y": 31832,
+		"z": 10
+	},
+	{
+		"description": "Dwelling of the Forgotten",
+		"icon": "flag",
+		"x": 32663,
+		"y": 31819,
 		"z": 10
 	},
 	{
@@ -19635,8 +19705,8 @@
 		"z": 10
 	},
 	{
-		"description": "Treasure Digging Task",
-		"icon": "checkmark",
+		"description": "Treasure Digging Task (requires 20 layers)",
+		"icon": "sword",
 		"x": 32685,
 		"y": 31752,
 		"z": 10
