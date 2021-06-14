@@ -1253,6 +1253,13 @@
 		"z": 4
 	},
 	{
+		"description": "NPC John (night)",
+		"icon": "mouth",
+		"x": 32443,
+		"y": 32487,
+		"z": 4
+	},
+	{
 		"description": "NPC Fral the Butcher (day)",
 		"icon": "mouth",
 		"x": 32444,
@@ -6024,6 +6031,13 @@
 		"icon": "up",
 		"x": 32418,
 		"y": 32758,
+		"z": 7
+	},
+	{
+		"description": "Shortcut to Forest of Life",
+		"icon": "flag",
+		"x": 32419,
+		"y": 32458,
 		"z": 7
 	},
 	{
@@ -12929,6 +12943,13 @@
 		"z": 8
 	},
 	{
+		"description": "NPC John the Carpenter (day)",
+		"icon": "mouth",
+		"x": 32437,
+		"y": 32473,
+		"z": 8
+	},
+	{
 		"description": "Druid spells",
 		"icon": "star",
 		"x": 32438,
@@ -12968,6 +12989,13 @@
 		"icon": "up",
 		"x": 32462,
 		"y": 32508,
+		"z": 8
+	},
+	{
+		"description": "Bounacean Lion",
+		"icon": "down",
+		"x": 32470,
+		"y": 32492,
 		"z": 8
 	},
 	{
@@ -17116,13 +17144,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32948,
-		"y": 31618,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "red down",
 		"x": 32948,
 		"y": 32755,
@@ -19215,7 +19236,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Forest of Life",
 		"icon": "red left",
 		"x": 32423,
 		"y": 32501,
@@ -19635,7 +19656,7 @@
 		"z": 10
 	},
 	{
-		"description": "Diremaws",
+		"description": "Crypts ",
 		"icon": "flag",
 		"x": 32630,
 		"y": 31839,
@@ -22071,6 +22092,13 @@
 		"z": 11
 	},
 	{
+		"description": "Shortcut to surface",
+		"icon": "flag",
+		"x": 32528,
+		"y": 32488,
+		"z": 11
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32546,
@@ -22163,7 +22191,7 @@
 	},
 	{
 		"description": "Killing Task",
-		"icon": "checkmark",
+		"icon": "sword",
 		"x": 32658,
 		"y": 31722,
 		"z": 11
@@ -23457,8 +23485,8 @@
 		"z": 12
 	},
 	{
-		"description": "Fishing rod task",
-		"icon": "checkmark",
+		"description": "Fishing in Lava task",
+		"icon": "crossmark",
 		"x": 32083,
 		"y": 31465,
 		"z": 12
@@ -25109,8 +25137,8 @@
 		"z": 13
 	},
 	{
-		"description": "Basalt task",
-		"icon": "checkmark",
+		"description": "The Mega Magmaoid task",
+		"icon": "crossmark",
 		"x": 32067,
 		"y": 31479,
 		"z": 13
@@ -26460,8 +26488,8 @@
 		"z": 14
 	},
 	{
-		"description": "War hammer task",
-		"icon": "checkmark",
+		"description": "The Lost Structure task",
+		"icon": "crossmark",
 		"x": 32069,
 		"y": 31488,
 		"z": 14
@@ -26614,8 +26642,8 @@
 		"z": 14
 	},
 	{
-		"description": "Gnome miner task",
-		"icon": "checkmark",
+		"description": "Gnomish Explorer task ",
+		"icon": "crossmark",
 		"x": 32181,
 		"y": 31408,
 		"z": 14
@@ -26628,8 +26656,8 @@
 		"z": 14
 	},
 	{
-		"description": "Wax task",
-		"icon": "checkmark",
+		"description": "Wax Research task",
+		"icon": "crossmark",
 		"x": 32188,
 		"y": 31421,
 		"z": 14
@@ -27486,6 +27514,13 @@
 		"icon": "crossmark",
 		"x": 33539,
 		"y": 31243,
+		"z": 14
+	},
+	{
+		"description": "Levitate Spot (face west)",
+		"icon": "red down",
+		"x": 33539,
+		"y": 31808,
 		"z": 14
 	},
 	{
@@ -28998,6 +29033,13 @@
 		"icon": "flag",
 		"x": 33534,
 		"y": 32182,
+		"z": 15
+	},
+	{
+		"description": "Levitate Spot (face east)",
+		"icon": "red up",
+		"x": 33538,
+		"y": 31808,
 		"z": 15
 	},
 	{
