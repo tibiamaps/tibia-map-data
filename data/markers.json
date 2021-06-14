@@ -19656,7 +19656,7 @@
 		"z": 10
 	},
 	{
-		"description": "Crypts ",
+		"description": "Crypts",
 		"icon": "flag",
 		"x": 32630,
 		"y": 31839,
@@ -27517,8 +27517,8 @@
 		"z": 14
 	},
 	{
-		"description": "Levitate Spot (face west)",
-		"icon": "red down",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 33539,
 		"y": 31808,
 		"z": 14
@@ -29036,8 +29036,8 @@
 		"z": 15
 	},
 	{
-		"description": "Levitate Spot (face east)",
-		"icon": "red up",
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 33538,
 		"y": 31808,
 		"z": 15
