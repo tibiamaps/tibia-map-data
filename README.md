@@ -1,4 +1,4 @@
-# Tibia map data [![Build status](https://travis-ci.org/tibiamaps/tibia-map-data.svg)](https://travis-ci.org/tibiamaps/tibia-map-data)
+# Tibia map data [![Build status](https://github.com/tibiamaps/tibia-map-data/actions/workflows/build.yml/badge.svg)](https://github.com/tibiamaps/tibia-map-data/actions/workflows/build.yml)
 
 This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](https://tibiamaps.io/guides/map-file-format).
 

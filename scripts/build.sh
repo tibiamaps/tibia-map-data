@@ -63,7 +63,7 @@ imagemin minimap-without-markers/Minimap_Color_*.png --out-dir=mapper;
 # Note: in Bash, file redirection occurs *before* the command is executed.
 # Because `tiles.json` shouldn’t get an entry in, well, `tiles.json`, we create
 # it outside of the `mapper` folder first, and move it afterwards.
-python -c 'import os, json; print json.dumps([name.split(".")[0][14:] for name in os.listdir("mapper") if "_Color_" in name], separators=(",", ":"))' > tiles.json;
+python -c 'import os, json; print(json.dumps([name.split(".")[0][14:] for name in os.listdir("mapper") if "_Color_" in name], separators=(",", ":")))' > tiles.json;
 mv tiles.json mapper/tiles.json;
 
 echo 'All done.';
