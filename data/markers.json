@@ -1969,6 +1969,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32270,
+		"y": 31050,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32373,
 		"y": 31245,
 		"z": 5
@@ -5401,6 +5408,13 @@
 		"icon": "red down",
 		"x": 32268,
 		"y": 32837,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32269,
+		"y": 31046,
 		"z": 7
 	},
 	{
@@ -10161,13 +10175,6 @@
 		"icon": "checkmark",
 		"x": 33535,
 		"y": 32007,
-		"z": 7
-	},
-	{
-		"description": "Overmaw shrines",
-		"icon": "!",
-		"x": 33535,
-		"y": 32469,
 		"z": 7
 	},
 	{
