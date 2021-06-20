@@ -1,0 +1,57 @@
+name: Build and deploy
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      CXX: 'g++-4.8'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Read .nvmrc
+        run: echo ::set-output name=NVMRC::$(cat .nvmrc)
+        id: nvm
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+          npm install
+          echo "$(npm bin)" >> $GITHUB_PATH
+
+      - name: Test
+        run: |
+          tibia-maps --version
+          tibia-maps --from-data=./data --output-dir=./minimap
+          tibia-maps --from-minimap=./minimap --output-dir=./data
+          # git status && git diff-index --quiet HEAD --
+          git status
+          git diff
+
+      - name: Build dist
+        run: |
+          npm run build
+
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          SSH: true
+          SINGLE_COMMIT: true
+          BASE_BRANCH: main
+          BRANCH: gh-pages
+          FOLDER: dist
