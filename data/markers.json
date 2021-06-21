@@ -23023,10 +23023,24 @@
 		"z": 11
 	},
 	{
+		"description": "Shortcut to lower floor",
+		"icon": "red down",
+		"x": 33201,
+		"y": 31425,
+		"z": 11
+	},
+	{
 		"description": "Skulls on a Stonepile",
 		"icon": "crossmark",
 		"x": 33201,
 		"y": 32442,
+		"z": 11
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33231,
+		"y": 31441,
 		"z": 11
 	},
 	{
@@ -25144,7 +25158,7 @@
 		"z": 13
 	},
 	{
-		"description": "The Mega Magmaoid task",
+		"description": "The Lost Structure task",
 		"icon": "crossmark",
 		"x": 32067,
 		"y": 31479,
@@ -26047,7 +26061,7 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport",
+		"description": "Teleport to boss",
 		"icon": "flag",
 		"x": 33199,
 		"y": 31439,
@@ -26065,6 +26079,13 @@
 		"icon": "up",
 		"x": 33237,
 		"y": 32848,
+		"z": 13
+	},
+	{
+		"description": "To upper floor",
+		"icon": "red up",
+		"x": 33238,
+		"y": 31479,
 		"z": 13
 	},
 	{
@@ -26495,7 +26516,7 @@
 		"z": 14
 	},
 	{
-		"description": "The Lost Structure task",
+		"description": "The Mega Magmaoid task",
 		"icon": "crossmark",
 		"x": 32069,
 		"y": 31488,
