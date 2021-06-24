@@ -11711,6 +11711,13 @@
 		"z": 7
 	},
 	{
+		"description": "Shortcut to Nykry Delta",
+		"icon": "flag",
+		"x": 33783,
+		"y": 31683,
+		"z": 7
+	},
+	{
 		"description": "Way to Issavi",
 		"icon": "down",
 		"x": 33788,
@@ -11813,6 +11820,13 @@
 		"icon": "up",
 		"x": 33808,
 		"y": 31666,
+		"z": 7
+	},
+	{
+		"description": "Shortcut to Southern Steppe",
+		"icon": "flag",
+		"x": 33809,
+		"y": 31505,
 		"z": 7
 	},
 	{
@@ -12012,6 +12026,13 @@
 		"z": 7
 	},
 	{
+		"description": "Shortcut to south of Green Belt",
+		"icon": "flag",
+		"x": 33891,
+		"y": 31567,
+		"z": 7
+	},
+	{
 		"description": "To Ratmiral Blackwhiskers",
 		"icon": "sword",
 		"x": 33892,
@@ -12058,6 +12079,13 @@
 		"icon": "star",
 		"x": 33910,
 		"y": 31513,
+		"z": 7
+	},
+	{
+		"description": "Shortcut to Issavi",
+		"icon": "flag",
+		"x": 33917,
+		"y": 31655,
 		"z": 7
 	},
 	{
