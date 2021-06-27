@@ -12803,7 +12803,7 @@
 		"z": 8
 	},
 	{
-		"description": "Dead tree (Galthen's satchel)",
+		"description": "Dead tree (Galthen’s satchel)",
 		"icon": "star",
 		"x": 32365,
 		"y": 32542,
@@ -16352,13 +16352,6 @@
 		"z": 9
 	},
 	{
-		"description": "remapped",
-		"icon": "checkmark",
-		"x": 32448,
-		"y": 32511,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32461,
@@ -18680,13 +18673,6 @@
 		"icon": "down",
 		"x": 33812,
 		"y": 31653,
-		"z": 9
-	},
-	{
-		"description": "Sister Hetai boss room",
-		"icon": "checkmark",
-		"x": 33833,
-		"y": 31496,
 		"z": 9
 	},
 	{
