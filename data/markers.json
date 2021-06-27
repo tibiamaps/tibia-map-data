@@ -4452,6 +4452,13 @@
 		"z": 6
 	},
 	{
+		"description": "Neferi the Spy",
+		"icon": "sword",
+		"x": 33886,
+		"y": 31477,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33897,
@@ -11760,7 +11767,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Enusat the Onyx Wing",
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
@@ -11809,7 +11816,7 @@
 		"z": 7
 	},
 	{
-		"description": "Girtablilu cave",
+		"description": "Ruins of Nuur",
 		"icon": "down",
 		"x": 33806,
 		"y": 31692,
@@ -12796,6 +12803,13 @@
 		"z": 8
 	},
 	{
+		"description": "Dead tree (Galthen's satchel)",
+		"icon": "star",
+		"x": 32365,
+		"y": 32542,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32383,
@@ -13028,9 +13042,9 @@
 	},
 	{
 		"description": "Bounacean Lion",
-		"icon": "down",
-		"x": 32470,
-		"y": 32492,
+		"icon": "red up",
+		"x": 32466,
+		"y": 32495,
 		"z": 8
 	},
 	{
@@ -15386,7 +15400,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "To Krailos surface",
 		"icon": "up",
 		"x": 33686,
 		"y": 31744,
@@ -15460,6 +15474,13 @@
 		"icon": "down",
 		"x": 33773,
 		"y": 31016,
+		"z": 8
+	},
+	{
+		"description": "Krailos/Issavi",
+		"icon": "red left",
+		"x": 33776,
+		"y": 31698,
 		"z": 8
 	},
 	{
@@ -16331,6 +16352,13 @@
 		"z": 9
 	},
 	{
+		"description": "remapped",
+		"icon": "checkmark",
+		"x": 32448,
+		"y": 32511,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32461,
@@ -16377,6 +16405,13 @@
 		"icon": "up",
 		"x": 32470,
 		"y": 31110,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32470,
+		"y": 32492,
 		"z": 9
 	},
 	{
@@ -18648,6 +18683,13 @@
 		"z": 9
 	},
 	{
+		"description": "Sister Hetai boss room",
+		"icon": "checkmark",
+		"x": 33833,
+		"y": 31496,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33835,
@@ -18778,6 +18820,13 @@
 		"icon": "red right",
 		"x": 33879,
 		"y": 31626,
+		"z": 9
+	},
+	{
+		"description": "Sister Hetai",
+		"icon": "sword",
+		"x": 33883,
+		"y": 31467,
 		"z": 9
 	},
 	{
@@ -19324,6 +19373,13 @@
 		"icon": "down",
 		"x": 32434,
 		"y": 32379,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32434,
+		"y": 32525,
 		"z": 10
 	},
 	{
@@ -21462,8 +21518,8 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Amenef the Burning",
+		"icon": "sword",
 		"x": 33819,
 		"y": 31772,
 		"z": 10
@@ -21870,6 +21926,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32399,
+		"y": 32496,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32400,
 		"y": 32951,
 		"z": 11
@@ -22166,6 +22229,13 @@
 		"icon": "down",
 		"x": 32590,
 		"y": 31575,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32591,
+		"y": 32418,
 		"z": 11
 	},
 	{
@@ -23849,10 +23919,10 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Teleport to start of cave",
+		"icon": "flag",
 		"x": 32408,
-		"y": 32492,
+		"y": 32491,
 		"z": 12
 	},
 	{
@@ -23916,6 +23986,13 @@
 		"icon": "up",
 		"x": 32438,
 		"y": 31967,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32438,
+		"y": 32464,
 		"z": 12
 	},
 	{
@@ -24031,6 +24108,13 @@
 		"z": 12
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32574,
+		"y": 32468,
+		"z": 12
+	},
+	{
 		"description": "MAGIC — red > green > yellow > blue",
 		"icon": "red down",
 		"x": 32579,
@@ -24042,6 +24126,13 @@
 		"icon": "up",
 		"x": 32580,
 		"y": 32103,
+		"z": 12
+	},
+	{
+		"description": "Megasylvan Yselda",
+		"icon": "sword",
+		"x": 32581,
+		"y": 32481,
 		"z": 12
 	},
 	{
@@ -25543,8 +25634,8 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "red up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 32575,
 		"y": 32468,
 		"z": 13
@@ -25571,10 +25662,10 @@
 		"z": 13
 	},
 	{
-		"description": "Soup",
+		"description": "Soup kettle",
 		"icon": "star",
-		"x": 32591,
-		"y": 32483,
+		"x": 32590,
+		"y": 32484,
 		"z": 13
 	},
 	{
