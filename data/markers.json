@@ -16639,17 +16639,17 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32603,
+		"y": 31844,
+		"z": 9
+	},
+	{
 		"description": "To Dwacatra",
 		"icon": "down",
 		"x": 32603,
 		"y": 31980,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32604,
-		"y": 31844,
 		"z": 9
 	},
 	{
@@ -19401,6 +19401,13 @@
 		"icon": "up",
 		"x": 32442,
 		"y": 32023,
+		"z": 10
+	},
+	{
+		"description": "Shortcut towards exit",
+		"icon": "flag",
+		"x": 32442,
+		"y": 32502,
 		"z": 10
 	},
 	{
@@ -24031,6 +24038,13 @@
 		"z": 12
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32505,
+		"y": 32465,
+		"z": 12
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32507,
@@ -25603,6 +25617,13 @@
 		"icon": "up",
 		"x": 32494,
 		"y": 32215,
+		"z": 13
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32505,
+		"y": 32466,
 		"z": 13
 	},
 	{
