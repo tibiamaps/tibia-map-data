@@ -21505,16 +21505,65 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33773,
+		"y": 31716,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33778,
+		"y": 31751,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33804,
+		"y": 31703,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33810,
 		"y": 31697,
 		"z": 10
 	},
 	{
-		"description": "Amenef the Burning",
+		"description": "",
 		"icon": "sword",
+		"x": 33810,
+		"y": 31727,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33813,
+		"y": 31772,
+		"z": 10
+	},
+	{
+		"description": "Amenef the Burning",
+		"icon": "flag",
 		"x": 33819,
 		"y": 31772,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33837,
+		"y": 31728,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33846,
+		"y": 31701,
 		"z": 10
 	},
 	{
@@ -25635,9 +25684,30 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 32516,
+		"y": 32444,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32520,
 		"y": 32422,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32526,
+		"y": 32468,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32541,
+		"y": 32432,
 		"z": 13
 	},
 	{
@@ -25659,6 +25729,20 @@
 		"icon": "down",
 		"x": 32577,
 		"y": 32179,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32577,
+		"y": 32423,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32577,
+		"y": 32466,
 		"z": 13
 	},
 	{
@@ -25701,6 +25785,13 @@
 		"icon": "red down",
 		"x": 32607,
 		"y": 31501,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32607,
+		"y": 32433,
 		"z": 13
 	},
 	{
@@ -28473,6 +28564,13 @@
 		"icon": "up",
 		"x": 32048,
 		"y": 31477,
+		"z": 15
+	},
+	{
+		"description": "Final boss: The Brainstealer",
+		"icon": "sword",
+		"x": 32054,
+		"y": 31461,
 		"z": 15
 	},
 	{
