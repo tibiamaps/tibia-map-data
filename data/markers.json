@@ -11874,15 +11874,8 @@
 	{
 		"description": "Lure spot for team hunts",
 		"icon": "sword",
-		"x": 33833,
-		"y": 31591,
-		"z": 7
-	},
-	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33837,
-		"y": 31733,
+		"x": 33825,
+		"y": 31590,
 		"z": 7
 	},
 	{
@@ -11890,6 +11883,13 @@
 		"icon": "up",
 		"x": 33839,
 		"y": 31710,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33842,
+		"y": 31736,
 		"z": 7
 	},
 	{
