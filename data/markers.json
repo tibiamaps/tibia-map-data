@@ -12250,6 +12250,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 31957,
+		"y": 32338,
+		"z": 8
+	},
+	{
 		"description": "To Talahu surface",
 		"icon": "up",
 		"x": 31961,
@@ -15715,17 +15722,17 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 31917,
+		"y": 32299,
+		"z": 9
+	},
+	{
 		"description": "Towards mushroom island teleport",
 		"icon": "down",
 		"x": 31919,
 		"y": 32591,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 31920,
-		"y": 32313,
 		"z": 9
 	},
 	{
