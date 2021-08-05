@@ -11690,13 +11690,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33760,
-		"y": 31584,
-		"z": 7
-	},
-	{
 		"description": "Memory task",
 		"icon": "crossmark",
 		"x": 33764,
@@ -11708,6 +11701,13 @@
 		"icon": "flag",
 		"x": 33774,
 		"y": 31348,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33774,
+		"y": 31594,
 		"z": 7
 	},
 	{
@@ -11774,13 +11774,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33799,
-		"y": 31628,
-		"z": 7
-	},
-	{
 		"description": "The Wreckoning/Tentugly",
 		"icon": "crossmark",
 		"x": 33800,
@@ -11792,6 +11785,13 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31560,
+		"z": 7
+	},
+	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33800,
+		"y": 31637,
 		"z": 7
 	},
 	{
@@ -11984,17 +11984,17 @@
 		"z": 7
 	},
 	{
+		"description": "Lure spot for team hunts",
+		"icon": "sword",
+		"x": 33876,
+		"y": 31686,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33879,
 		"y": 31252,
-		"z": 7
-	},
-	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33881,
-		"y": 31704,
 		"z": 7
 	},
 	{
@@ -25764,6 +25764,13 @@
 		"icon": "star",
 		"x": 32590,
 		"y": 32484,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32594,
+		"y": 32677,
 		"z": 13
 	},
 	{
