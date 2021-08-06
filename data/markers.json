@@ -26348,6 +26348,20 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33290,
+		"y": 31785,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33295,
+		"y": 31797,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33296,
@@ -27511,6 +27525,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33274,
+		"y": 31818,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33278,
+		"y": 31842,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33286,
 		"y": 31930,
@@ -27528,6 +27556,13 @@
 		"icon": "flag",
 		"x": 33292,
 		"y": 32322,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33295,
+		"y": 31797,
 		"z": 14
 	},
 	{
@@ -27560,9 +27595,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33320,
+		"y": 31796,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33320,
 		"y": 32681,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33321,
+		"y": 31843,
 		"z": 14
 	},
 	{
@@ -29036,10 +29085,24 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33274,
+		"y": 31818,
+		"z": 15
+	},
+	{
 		"description": "Teleport to The Duke of the Depths",
 		"icon": "star",
 		"x": 33275,
 		"y": 32316,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33277,
+		"y": 31842,
 		"z": 15
 	},
 	{
@@ -29054,6 +29117,20 @@
 		"icon": "!",
 		"x": 33300,
 		"y": 32135,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33320,
+		"y": 31796,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33320,
+		"y": 31843,
 		"z": 15
 	},
 	{
