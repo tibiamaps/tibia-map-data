@@ -1,0 +1,37 @@
+name: 'Import markers from Pieter'
+
+on:
+  workflow_dispatch
+
+jobs:
+  import-markers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Read .nvmrc
+        run: echo ::set-output name=NVMRC::$(cat .nvmrc)
+        id: nvm
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '${{ steps.nvm.outputs.NVMRC }}'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Import markers
+        env:
+          URL: ${{secrets.MARKERS_URL_PIETER}}
+        run: |
+          mkdir -p minimap
+          curl --silent --location --output minimap/minimapmarkers.bin "${URL}"
+          node_modules/.bin/tibia-maps --from-minimap=minimap --output-dir=data --markers-only
+          git config user.name 'Mathias Bynens'
+          git config user.email 'mathias@qiwi.be'
+          git commit data/markers.json -m 'Import marker changes from Pieter’s client'
+          git push
