@@ -12789,6 +12789,13 @@
 		"z": 8
 	},
 	{
+		"description": "test 123",
+		"icon": "$",
+		"x": 32352,
+		"y": 32232,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32354,
