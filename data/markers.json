@@ -6006,6 +6006,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32410,
+		"y": 32460,
+		"z": 7
+	},
+	{
 		"description": "NPC Fitzmaurice",
 		"icon": "mouth",
 		"x": 32411,
