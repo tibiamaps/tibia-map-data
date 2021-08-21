@@ -3794,6 +3794,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33176,
+		"y": 32529,
+		"z": 6
+	},
+	{
 		"description": "Lizard chosens",
 		"icon": "red down",
 		"x": 33177,
@@ -14431,6 +14438,13 @@
 		"icon": "crossmark",
 		"x": 33138,
 		"y": 32370,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33141,
+		"y": 31475,
 		"z": 8
 	},
 	{
