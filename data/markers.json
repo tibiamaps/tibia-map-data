@@ -26915,6 +26915,13 @@
 		"z": 14
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32146,
+		"y": 31453,
+		"z": 14
+	},
+	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
 		"x": 32146,
@@ -27542,6 +27549,13 @@
 		"icon": "flag",
 		"x": 33192,
 		"y": 31691,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33227,
+		"y": 32599,
 		"z": 14
 	},
 	{
@@ -28672,6 +28686,13 @@
 		"z": 15
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32147,
+		"y": 31453,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32153,
@@ -28987,6 +29008,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33117,
+		"y": 32627,
+		"z": 15
+	},
+	{
 		"description": "Leiden pre-lever room",
 		"icon": "sword",
 		"x": 33120,
@@ -29110,6 +29138,13 @@
 		"icon": "star",
 		"x": 33224,
 		"y": 32362,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33227,
+		"y": 32599,
 		"z": 15
 	},
 	{
