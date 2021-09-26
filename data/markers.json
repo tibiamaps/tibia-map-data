@@ -287,6 +287,27 @@
 		"z": 2
 	},
 	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32139,
+		"y": 31093,
+		"z": 2
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32141,
+		"y": 31084,
+		"z": 2
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32143,
+		"y": 31172,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32148,
@@ -298,6 +319,13 @@
 		"icon": "red right",
 		"x": 32163,
 		"y": 31161,
+		"z": 2
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32165,
+		"y": 31144,
 		"z": 2
 	},
 	{
@@ -5124,6 +5152,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32180,
+		"y": 31162,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32181,
@@ -5135,6 +5170,13 @@
 		"icon": "down",
 		"x": 32187,
 		"y": 31430,
+		"z": 7
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32188,
+		"y": 31245,
 		"z": 7
 	},
 	{
@@ -5191,6 +5233,13 @@
 		"icon": "red down",
 		"x": 32201,
 		"y": 32947,
+		"z": 7
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32204,
+		"y": 31208,
 		"z": 7
 	},
 	{
@@ -5275,6 +5324,13 @@
 		"icon": "checkmark",
 		"x": 32229,
 		"y": 32077,
+		"z": 7
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32232,
+		"y": 31018,
 		"z": 7
 	},
 	{
@@ -5768,6 +5824,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32341,
+		"y": 31208,
+		"z": 7
+	},
+	{
 		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32342,
@@ -6223,6 +6286,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Buddel",
+		"icon": "?",
+		"x": 32464,
+		"y": 31173,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 32465,
@@ -6304,6 +6374,13 @@
 		"icon": "down",
 		"x": 32478,
 		"y": 31114,
+		"z": 7
+	},
+	{
+		"description": "Dire penguin (approximate spawn point)",
+		"icon": "star",
+		"x": 32480,
+		"y": 31159,
 		"z": 7
 	},
 	{
