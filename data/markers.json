@@ -1928,6 +1928,13 @@
 		"description": "",
 		"icon": "down",
 		"x": 32246,
+		"y": 31106,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32246,
 		"y": 31404,
 		"z": 5
 	},
@@ -26894,17 +26901,17 @@
 		"z": 14
 	},
 	{
-		"description": "Undercover contact",
-		"icon": "crossmark",
-		"x": 32148,
-		"y": 32613,
-		"z": 14
-	},
-	{
 		"description": "Hidden pick hole",
 		"icon": "down",
 		"x": 32165,
 		"y": 31890,
+		"z": 14
+	},
+	{
+		"description": "Undercover contact",
+		"icon": "crossmark",
+		"x": 32168,
+		"y": 32628,
 		"z": 14
 	},
 	{
