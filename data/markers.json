@@ -8715,7 +8715,7 @@
 		"z": 7
 	},
 	{
-		"description": "Rotworms",
+		"description": "",
 		"icon": "red down",
 		"x": 33138,
 		"y": 32408,
@@ -25473,13 +25473,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32130,
-		"y": 32555,
-		"z": 13
-	},
-	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
 		"x": 32131,
@@ -25529,22 +25522,15 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32165,
-		"y": 32648,
-		"z": 13
-	},
-	{
 		"description": "NPC Gnome Trooper",
-		"icon": "star",
+		"icon": "mouth",
 		"x": 32169,
 		"y": 32649,
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32170,
 		"y": 32567,
 		"z": 13
@@ -25571,15 +25557,15 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32208,
 		"y": 32669,
 		"z": 13
 	},
 	{
 		"description": "Teleport",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32244,
 		"y": 32619,
 		"z": 13
@@ -25606,8 +25592,8 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32264,
 		"y": 32490,
 		"z": 13
@@ -25649,16 +25635,9 @@
 	},
 	{
 		"description": "NPC Gnome Trooper",
-		"icon": "star",
+		"icon": "mouth",
 		"x": 32325,
 		"y": 32589,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32326,
-		"y": 32586,
 		"z": 13
 	},
 	{
@@ -25666,13 +25645,6 @@
 		"icon": "up",
 		"x": 32329,
 		"y": 31090,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32338,
-		"y": 32526,
 		"z": 13
 	},
 	{
@@ -26901,8 +26873,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32142,
 		"y": 32613,
 		"z": 14
@@ -26924,8 +26896,8 @@
 	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
-		"x": 32146,
-		"y": 32612,
+		"x": 32148,
+		"y": 32613,
 		"z": 14
 	},
 	{
@@ -26936,15 +26908,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32174,
-		"y": 32656,
-		"z": 14
-	},
-	{
 		"description": "NPC Gnome Trooper",
-		"icon": "star",
+		"icon": "mouth",
 		"x": 32178,
 		"y": 32662,
 		"z": 14
@@ -27049,14 +27014,14 @@
 	},
 	{
 		"description": "Teleport",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32244,
 		"y": 32587,
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32268,
 		"y": 32698,
 		"z": 14
@@ -27076,22 +27041,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32275,
-		"y": 32631,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32292,
-		"y": 32506,
-		"z": 14
-	},
-	{
 		"description": "NPC Gnome Trooper",
-		"icon": "star",
+		"icon": "mouth",
 		"x": 32294,
 		"y": 32510,
 		"z": 14
@@ -27125,8 +27076,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Lava (use thermometer)",
+		"icon": "!",
 		"x": 32336,
 		"y": 32521,
 		"z": 14
@@ -28701,7 +28652,7 @@
 	},
 	{
 		"description": "NPC Gnome Trooper",
-		"icon": "star",
+		"icon": "mouth",
 		"x": 32158,
 		"y": 32518,
 		"z": 15
@@ -28721,6 +28672,13 @@
 		"z": 15
 	},
 	{
+		"description": "Lava (use thermometer)",
+		"icon": "!",
+		"x": 32184,
+		"y": 32500,
+		"z": 15
+	},
+	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
 		"x": 32211,
@@ -28735,8 +28693,15 @@
 		"z": 15
 	},
 	{
+		"description": "Lava (use thermometer)",
+		"icon": "!",
+		"x": 32222,
+		"y": 32647,
+		"z": 15
+	},
+	{
 		"description": "Teleport",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32224,
 		"y": 32606,
 		"z": 15
@@ -28746,6 +28711,13 @@
 		"icon": "crossmark",
 		"x": 32307,
 		"y": 32583,
+		"z": 15
+	},
+	{
+		"description": "Lava (use thermometer)",
+		"icon": "!",
+		"x": 32343,
+		"y": 32582,
 		"z": 15
 	},
 	{
