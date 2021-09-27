@@ -2,7 +2,11 @@ name: 'Enable Orcsoberfest Island pack'
 
 on:
   schedule:
-    # Run annually at 04:00 UTC on February 1st.
+    # Orcsoberfest runs from the second Friday until the third Friday
+    # of October and March, followed by a weekend of rewards.
+    # Run annually at 04:00 UTC on February 1st. (The pack remains
+    # active until October, so there’s no need to re-enable it.)
+    # See enable-percht*.yml which overrides this in December.
     - cron: '0 4 1 2 *'
   workflow_dispatch:
 

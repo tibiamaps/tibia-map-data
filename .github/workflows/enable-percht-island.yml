@@ -2,7 +2,10 @@ name: 'Enable Percht Island pack'
 
 on:
   schedule:
+    # The Winterlight Solstice event runs from December 22 to January
+    # 10, followed by 7 days of rewards.
     # Run annually at 04:00 UTC on December 1st.
+    # See enable-orcsoberfest*.yml which overrides this in February.
     - cron: '0 4 1 12 *'
   workflow_dispatch:
 
