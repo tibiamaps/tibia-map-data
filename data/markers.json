@@ -1431,7 +1431,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33176,
-		"y": 31050,
+		"y": 31051,
 		"z": 4
 	},
 	{
@@ -2321,6 +2321,13 @@
 		"icon": "checkmark",
 		"x": 33188,
 		"y": 31281,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33208,
+		"y": 31030,
 		"z": 5
 	},
 	{
@@ -3861,6 +3868,13 @@
 		"icon": "up",
 		"x": 33179,
 		"y": 31060,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33208,
+		"y": 31031,
 		"z": 6
 	},
 	{
@@ -15981,10 +15995,59 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33979,
+		"y": 31689,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34004,
+		"y": 31690,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34010,
+		"y": 31648,
+		"z": 8
+	},
+	{
 		"description": "Floating cask (use to get eye-shaped frame)",
 		"icon": "star",
 		"x": 34019,
 		"y": 31672,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34021,
+		"y": 31675,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34041,
+		"y": 31651,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34046,
+		"y": 31685,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34059,
+		"y": 31657,
 		"z": 8
 	},
 	{
