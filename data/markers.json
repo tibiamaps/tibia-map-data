@@ -3318,6 +3318,20 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32707,
+		"y": 31104,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32711,
+		"y": 31175,
+		"z": 6
+	},
+	{
 		"description": "Key 5000 (silver key)",
 		"icon": "?",
 		"x": 32726,
@@ -7161,6 +7175,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32688,
+		"y": 31124,
+		"z": 7
+	},
+	{
 		"description": "Haunted Cellar (ripper spectres)",
 		"icon": "red down",
 		"x": 32688,
@@ -7218,6 +7239,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32702,
+		"y": 31184,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32702,
 		"y": 32350,
@@ -7231,10 +7259,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32707,
+		"y": 31104,
+		"z": 7
+	},
+	{
 		"description": "Tainted Caves",
 		"icon": "down",
 		"x": 32709,
 		"y": 31939,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32711,
+		"y": 31175,
 		"z": 7
 	},
 	{
@@ -13462,6 +13504,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32644,
+		"y": 31124,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32645,
 		"y": 32851,
@@ -13491,6 +13540,27 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32658,
+		"y": 31124,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32658,
+		"y": 31152,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32659,
+		"y": 31183,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32660,
 		"y": 32342,
 		"z": 8
@@ -13500,6 +13570,13 @@
 		"icon": "up",
 		"x": 32661,
 		"y": 32817,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32664,
+		"y": 31074,
 		"z": 8
 	},
 	{
@@ -13519,6 +13596,34 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32670,
+		"y": 31184,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32672,
+		"y": 31141,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32675,
+		"y": 31144,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32677,
+		"y": 31132,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32677,
 		"y": 32651,
 		"z": 8
@@ -13528,6 +13633,13 @@
 		"icon": "checkmark",
 		"x": 32681,
 		"y": 32292,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32683,
+		"y": 31134,
 		"z": 8
 	},
 	{
@@ -13545,10 +13657,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32684,
+		"y": 31150,
+		"z": 8
+	},
+	{
 		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32684,
 		"y": 31430,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32686,
+		"y": 31144,
 		"z": 8
 	},
 	{
@@ -13573,6 +13699,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32690,
+		"y": 31132,
+		"z": 8
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32690,
@@ -13584,6 +13717,27 @@
 		"icon": "down",
 		"x": 32694,
 		"y": 31591,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32695,
+		"y": 31128,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32695,
+		"y": 31145,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32696,
+		"y": 31138,
 		"z": 8
 	},
 	{
@@ -13603,8 +13757,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32702,
+		"y": 31184,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32709,
 		"y": 31939,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32714,
+		"y": 31165,
 		"z": 8
 	},
 	{
@@ -16893,8 +17061,36 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32644,
+		"y": 31124,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32649,
+		"y": 31117,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32656,
 		"y": 32549,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32659,
+		"y": 31183,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32662,
+		"y": 31156,
 		"z": 9
 	},
 	{
@@ -16909,6 +17105,34 @@
 		"icon": "up",
 		"x": 32671,
 		"y": 32099,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32672,
+		"y": 31141,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32677,
+		"y": 31132,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32678,
+		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32681,
+		"y": 31178,
 		"z": 9
 	},
 	{
@@ -16927,6 +17151,41 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32684,
+		"y": 31150,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32684,
+		"y": 31161,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32690,
+		"y": 31132,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32691,
+		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32695,
+		"y": 31145,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32698,
 		"y": 32232,
@@ -16934,9 +17193,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32704,
+		"y": 31156,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "sword",
 		"x": 32711,
 		"y": 32252,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32714,
+		"y": 31165,
 		"z": 9
 	},
 	{
@@ -19915,10 +20188,31 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32661,
+		"y": 31147,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32662,
+		"y": 31156,
+		"z": 10
+	},
+	{
 		"description": "Dwelling of the Forgotten",
 		"icon": "flag",
 		"x": 32663,
 		"y": 31819,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32674,
+		"y": 31132,
 		"z": 10
 	},
 	{
@@ -19933,6 +20227,27 @@
 		"icon": "red up",
 		"x": 32676,
 		"y": 31672,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32678,
+		"y": 31125,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32684,
+		"y": 31150,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32684,
+		"y": 31161,
 		"z": 10
 	},
 	{
@@ -19965,9 +20280,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32690,
+		"y": 31133,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32691,
+		"y": 31125,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32698,
 		"y": 32232,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32704,
+		"y": 31156,
 		"z": 10
 	},
 	{
@@ -19982,6 +20318,13 @@
 		"icon": "sword",
 		"x": 32709,
 		"y": 32275,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32710,
+		"y": 31148,
 		"z": 10
 	},
 	{
@@ -22477,10 +22820,45 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32661,
+		"y": 31147,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32674,
+		"y": 31132,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32684,
+		"y": 31150,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32690,
+		"y": 31133,
+		"z": 11
+	},
+	{
 		"description": "Teleport to Ekatrix",
 		"icon": "star",
 		"x": 32708,
 		"y": 31859,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32710,
+		"y": 31148,
 		"z": 11
 	},
 	{
