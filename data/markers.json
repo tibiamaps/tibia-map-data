@@ -11704,6 +11704,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33701,
+		"y": 32205,
+		"z": 7
+	},
+	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33701,
@@ -17403,6 +17410,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 32775,
+		"y": 32622,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32776,
 		"y": 31932,
@@ -17434,6 +17448,13 @@
 		"icon": "down",
 		"x": 32793,
 		"y": 31951,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32796,
+		"y": 32621,
 		"z": 9
 	},
 	{
@@ -20556,6 +20577,13 @@
 		"icon": "mouth",
 		"x": 32794,
 		"y": 31748,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32794,
+		"y": 32631,
 		"z": 10
 	},
 	{
