@@ -17151,6 +17151,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32658,
+		"y": 31644,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32659,
 		"y": 31183,
@@ -17168,6 +17175,13 @@
 		"icon": "up",
 		"x": 32665,
 		"y": 32853,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32668,
+		"y": 31624,
 		"z": 9
 	},
 	{
@@ -20195,6 +20209,13 @@
 		"z": 10
 	},
 	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "star",
+		"x": 32617,
+		"y": 31619,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32621,
@@ -20251,6 +20272,13 @@
 		"z": 10
 	},
 	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "star",
+		"x": 32650,
+		"y": 31612,
+		"z": 10
+	},
+	{
 		"description": "Grotto of the Lost",
 		"icon": "flag",
 		"x": 32651,
@@ -20262,6 +20290,13 @@
 		"icon": "flag",
 		"x": 32653,
 		"y": 31816,
+		"z": 10
+	},
+	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "star",
+		"x": 32655,
+		"y": 31585,
 		"z": 10
 	},
 	{
@@ -20294,6 +20329,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32668,
+		"y": 31624,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32674,
 		"y": 31132,
@@ -20318,6 +20360,13 @@
 		"icon": "up",
 		"x": 32678,
 		"y": 31125,
+		"z": 10
+	},
+	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "star",
+		"x": 32678,
+		"y": 31588,
 		"z": 10
 	},
 	{
@@ -20395,6 +20444,13 @@
 		"icon": "sword",
 		"x": 32706,
 		"y": 32249,
+		"z": 10
+	},
+	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "star",
+		"x": 32709,
+		"y": 31602,
 		"z": 10
 	},
 	{
@@ -22890,6 +22946,13 @@
 		"z": 11
 	},
 	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32637,
+		"y": 31638,
+		"z": 11
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32641,
@@ -22901,6 +22964,13 @@
 		"icon": "up",
 		"x": 32646,
 		"y": 32110,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32654,
+		"y": 31619,
 		"z": 11
 	},
 	{
@@ -22920,8 +22990,36 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32668,
+		"y": 31624,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32672,
+		"y": 31604,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32674,
 		"y": 31132,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32674,
+		"y": 31648,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32683,
+		"y": 31641,
 		"z": 11
 	},
 	{
@@ -22939,6 +23037,27 @@
 		"z": 11
 	},
 	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32690,
+		"y": 31615,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32693,
+		"y": 31645,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32701,
+		"y": 31624,
+		"z": 11
+	},
+	{
 		"description": "Teleport to Ekatrix",
 		"icon": "star",
 		"x": 32708,
@@ -22953,10 +23072,24 @@
 		"z": 11
 	},
 	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32710,
+		"y": 31643,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32715,
 		"y": 31896,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (approximate fire bomb spot)",
+		"icon": "?",
+		"x": 32726,
+		"y": 31631,
 		"z": 11
 	},
 	{
@@ -24861,6 +24994,13 @@
 		"icon": "down",
 		"x": 32664,
 		"y": 31571,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32668,
+		"y": 31624,
 		"z": 12
 	},
 	{
