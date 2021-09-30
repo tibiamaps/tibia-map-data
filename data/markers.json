@@ -1431,7 +1431,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33176,
-		"y": 31051,
+		"y": 31050,
 		"z": 4
 	},
 	{
@@ -2321,13 +2321,6 @@
 		"icon": "checkmark",
 		"x": 33188,
 		"y": 31281,
-		"z": 5
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red down",
-		"x": 33208,
-		"y": 31030,
 		"z": 5
 	},
 	{
@@ -3325,20 +3318,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32707,
-		"y": 31104,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32711,
-		"y": 31175,
-		"z": 6
-	},
-	{
 		"description": "Key 5000 (silver key)",
 		"icon": "?",
 		"x": 32726,
@@ -3868,13 +3847,6 @@
 		"icon": "up",
 		"x": 33179,
 		"y": 31060,
-		"z": 6
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red up",
-		"x": 33208,
-		"y": 31031,
 		"z": 6
 	},
 	{
@@ -7189,13 +7161,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32688,
-		"y": 31124,
-		"z": 7
-	},
-	{
 		"description": "Haunted Cellar (ripper spectres)",
 		"icon": "red down",
 		"x": 32688,
@@ -7253,13 +7218,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32702,
-		"y": 31184,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 32702,
 		"y": 32350,
@@ -7273,24 +7231,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32707,
-		"y": 31104,
-		"z": 7
-	},
-	{
 		"description": "Tainted Caves",
 		"icon": "down",
 		"x": 32709,
 		"y": 31939,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32711,
-		"y": 31175,
 		"z": 7
 	},
 	{
@@ -11704,13 +11648,6 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 33701,
-		"y": 32205,
-		"z": 7
-	},
-	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33701,
@@ -13525,13 +13462,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32644,
-		"y": 31124,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32645,
 		"y": 32851,
@@ -13561,27 +13491,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32658,
-		"y": 31124,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32658,
-		"y": 31152,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32659,
-		"y": 31183,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32660,
 		"y": 32342,
 		"z": 8
@@ -13591,13 +13500,6 @@
 		"icon": "up",
 		"x": 32661,
 		"y": 32817,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32664,
-		"y": 31074,
 		"z": 8
 	},
 	{
@@ -13617,34 +13519,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32670,
-		"y": 31184,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32672,
-		"y": 31141,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32675,
-		"y": 31144,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32677,
-		"y": 31132,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32677,
 		"y": 32651,
 		"z": 8
@@ -13654,13 +13528,6 @@
 		"icon": "checkmark",
 		"x": 32681,
 		"y": 32292,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32683,
-		"y": 31134,
 		"z": 8
 	},
 	{
@@ -13678,24 +13545,10 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32684,
-		"y": 31150,
-		"z": 8
-	},
-	{
 		"description": "Cult symbol",
 		"icon": "checkmark",
 		"x": 32684,
 		"y": 31430,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32686,
-		"y": 31144,
 		"z": 8
 	},
 	{
@@ -13720,13 +13573,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32690,
-		"y": 31132,
-		"z": 8
-	},
-	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32690,
@@ -13738,27 +13584,6 @@
 		"icon": "down",
 		"x": 32694,
 		"y": 31591,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32695,
-		"y": 31128,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32695,
-		"y": 31145,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32696,
-		"y": 31138,
 		"z": 8
 	},
 	{
@@ -13778,22 +13603,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32702,
-		"y": 31184,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32709,
 		"y": 31939,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32714,
-		"y": 31165,
 		"z": 8
 	},
 	{
@@ -16002,59 +15813,10 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33979,
-		"y": 31689,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34004,
-		"y": 31690,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34010,
-		"y": 31648,
-		"z": 8
-	},
-	{
 		"description": "Floating cask (use to get eye-shaped frame)",
 		"icon": "star",
 		"x": 34019,
 		"y": 31672,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34021,
-		"y": 31675,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34041,
-		"y": 31651,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34046,
-		"y": 31685,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34059,
-		"y": 31657,
 		"z": 8
 	},
 	{
@@ -17131,43 +16893,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32644,
-		"y": 31124,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32649,
-		"y": 31117,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32656,
 		"y": 32549,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 32658,
-		"y": 31644,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32659,
-		"y": 31183,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32662,
-		"y": 31156,
 		"z": 9
 	},
 	{
@@ -17179,44 +16906,9 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32668,
-		"y": 31624,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32671,
 		"y": 32099,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32672,
-		"y": 31141,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32677,
-		"y": 31132,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32678,
-		"y": 31125,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32681,
-		"y": 31178,
 		"z": 9
 	},
 	{
@@ -17235,41 +16927,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32684,
-		"y": 31150,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32684,
-		"y": 31161,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32690,
-		"y": 31132,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32691,
-		"y": 31125,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32695,
-		"y": 31145,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32698,
 		"y": 32232,
@@ -17277,23 +16934,9 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32704,
-		"y": 31156,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "sword",
 		"x": 32711,
 		"y": 32252,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32714,
-		"y": 31165,
 		"z": 9
 	},
 	{
@@ -17424,13 +17067,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 32775,
-		"y": 32622,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32776,
 		"y": 31932,
@@ -17462,13 +17098,6 @@
 		"icon": "down",
 		"x": 32793,
 		"y": 31951,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32796,
-		"y": 32621,
 		"z": 9
 	},
 	{
@@ -20209,13 +19838,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
-		"x": 32617,
-		"y": 31619,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32621,
@@ -20272,13 +19894,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
-		"x": 32650,
-		"y": 31612,
-		"z": 10
-	},
-	{
 		"description": "Grotto of the Lost",
 		"icon": "flag",
 		"x": 32651,
@@ -20293,13 +19908,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
-		"x": 32655,
-		"y": 31585,
-		"z": 10
-	},
-	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32660,
@@ -20307,38 +19915,10 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32661,
-		"y": 31147,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32662,
-		"y": 31156,
-		"z": 10
-	},
-	{
 		"description": "Dwelling of the Forgotten",
 		"icon": "flag",
 		"x": 32663,
 		"y": 31819,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32668,
-		"y": 31624,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32674,
-		"y": 31132,
 		"z": 10
 	},
 	{
@@ -20353,34 +19933,6 @@
 		"icon": "red up",
 		"x": 32676,
 		"y": 31672,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32678,
-		"y": 31125,
-		"z": 10
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
-		"x": 32678,
-		"y": 31588,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32684,
-		"y": 31150,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32684,
-		"y": 31161,
 		"z": 10
 	},
 	{
@@ -20413,30 +19965,9 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32690,
-		"y": 31133,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32691,
-		"y": 31125,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32698,
 		"y": 32232,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32704,
-		"y": 31156,
 		"z": 10
 	},
 	{
@@ -20447,24 +19978,10 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
-		"x": 32709,
-		"y": 31602,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "sword",
 		"x": 32709,
 		"y": 32275,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32710,
-		"y": 31148,
 		"z": 10
 	},
 	{
@@ -20633,13 +20150,6 @@
 		"icon": "mouth",
 		"x": 32794,
 		"y": 31748,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32794,
-		"y": 32631,
 		"z": 10
 	},
 	{
@@ -21196,15 +20706,8 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33053,
-		"y": 31086,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Possible Draptor Spawn",
+		"icon": "star",
 		"x": 33055,
 		"y": 31118,
 		"z": 10
@@ -21315,13 +20818,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33085,
-		"y": 31101,
-		"z": 10
-	},
-	{
 		"description": "Strange shrine",
 		"icon": "checkmark",
 		"x": 33088,
@@ -21385,17 +20881,10 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Possible Draptor Spawn",
+		"icon": "star",
 		"x": 33109,
 		"y": 31078,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33110,
-		"y": 31122,
 		"z": 10
 	},
 	{
@@ -22946,13 +22435,6 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32637,
-		"y": 31638,
-		"z": 11
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32641,
@@ -22967,94 +22449,10 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32654,
-		"y": 31619,
-		"z": 11
-	},
-	{
 		"description": "Killing Task",
 		"icon": "sword",
 		"x": 32658,
 		"y": 31722,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32661,
-		"y": 31147,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32668,
-		"y": 31624,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32672,
-		"y": 31604,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32674,
-		"y": 31132,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32674,
-		"y": 31648,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32683,
-		"y": 31641,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32684,
-		"y": 31150,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32690,
-		"y": 31133,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32690,
-		"y": 31615,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32693,
-		"y": 31645,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32701,
-		"y": 31624,
 		"z": 11
 	},
 	{
@@ -23067,29 +22465,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32710,
-		"y": 31148,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32710,
-		"y": 31643,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32715,
 		"y": 31896,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32726,
-		"y": 31631,
 		"z": 11
 	},
 	{
@@ -24994,13 +24371,6 @@
 		"icon": "down",
 		"x": 32664,
 		"y": 31571,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32668,
-		"y": 31624,
 		"z": 12
 	},
 	{
