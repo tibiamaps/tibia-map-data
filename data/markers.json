@@ -21196,15 +21196,8 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33053,
-		"y": 31086,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Possible Draptor Spawn",
+		"icon": "star",
 		"x": 33055,
 		"y": 31118,
 		"z": 10
@@ -21315,13 +21308,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33085,
-		"y": 31101,
-		"z": 10
-	},
-	{
 		"description": "Strange shrine",
 		"icon": "checkmark",
 		"x": 33088,
@@ -21385,17 +21371,10 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Possible Draptor Spawn",
+		"icon": "star",
 		"x": 33109,
 		"y": 31078,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33110,
-		"y": 31122,
 		"z": 10
 	},
 	{
