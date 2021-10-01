@@ -1435,6 +1435,13 @@
 		"z": 4
 	},
 	{
+		"description": "Fire bomb spot",
+		"icon": "!",
+		"x": 33099,
+		"y": 31252,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33104,
@@ -3564,6 +3571,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32692,
+		"y": 31460,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32698,
+		"y": 31472,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32707,
 		"y": 31104,
@@ -3980,6 +4001,13 @@
 		"icon": "down",
 		"x": 33081,
 		"y": 31533,
+		"z": 6
+	},
+	{
+		"description": "Fire bomb spot (rapid)",
+		"icon": "!",
+		"x": 33088,
+		"y": 31260,
 		"z": 6
 	},
 	{
@@ -8897,6 +8925,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33089,
+		"y": 31263,
+		"z": 7
+	},
+	{
 		"description": "Door",
 		"icon": "red down",
 		"x": 33090,
@@ -8929,6 +8964,13 @@
 		"icon": "up",
 		"x": 33094,
 		"y": 31051,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33099,
+		"y": 31249,
 		"z": 7
 	},
 	{
