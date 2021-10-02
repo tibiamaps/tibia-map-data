@@ -784,13 +784,6 @@
 		"z": 3
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 33065,
-		"y": 32697,
-		"z": 3
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33083,
@@ -1421,24 +1414,10 @@
 		"z": 4
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33072,
-		"y": 32671,
-		"z": 4
-	},
-	{
 		"description": "",
 		"icon": "red up",
 		"x": 33079,
 		"y": 31120,
-		"z": 4
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 33079,
-		"y": 32705,
 		"z": 4
 	},
 	{
@@ -1453,6 +1432,13 @@
 		"icon": "up",
 		"x": 33092,
 		"y": 31037,
+		"z": 4
+	},
+	{
+		"description": "Fire bomb spot",
+		"icon": "!",
+		"x": 33099,
+		"y": 31252,
 		"z": 4
 	},
 	{
@@ -2440,13 +2426,6 @@
 		"icon": "down",
 		"x": 33080,
 		"y": 31043,
-		"z": 5
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 33081,
-		"y": 32704,
 		"z": 5
 	},
 	{
@@ -3592,6 +3571,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32692,
+		"y": 31460,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32698,
+		"y": 31472,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32707,
 		"y": 31104,
@@ -4011,10 +4004,10 @@
 		"z": 6
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33082,
-		"y": 32704,
+		"description": "Fire bomb spot (rapid)",
+		"icon": "!",
+		"x": 33088,
+		"y": 31260,
 		"z": 6
 	},
 	{
@@ -4043,13 +4036,6 @@
 		"icon": "down",
 		"x": 33094,
 		"y": 31051,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33094,
-		"y": 32690,
 		"z": 6
 	},
 	{
@@ -7028,6 +7014,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32594,
+		"y": 32067,
+		"z": 7
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32595,
@@ -8932,6 +8925,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33089,
+		"y": 31263,
+		"z": 7
+	},
+	{
 		"description": "Door",
 		"icon": "red down",
 		"x": 33090,
@@ -8969,8 +8969,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33094,
-		"y": 32690,
+		"x": 33099,
+		"y": 31249,
 		"z": 7
 	},
 	{
@@ -20553,7 +20553,7 @@
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
+		"icon": "!",
 		"x": 32617,
 		"y": 31619,
 		"z": 10
@@ -20616,7 +20616,7 @@
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
+		"icon": "!",
 		"x": 32650,
 		"y": 31612,
 		"z": 10
@@ -20637,7 +20637,7 @@
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
+		"icon": "!",
 		"x": 32655,
 		"y": 31585,
 		"z": 10
@@ -20707,7 +20707,7 @@
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
+		"icon": "!",
 		"x": 32678,
 		"y": 31588,
 		"z": 10
@@ -20791,7 +20791,7 @@
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",
-		"icon": "star",
+		"icon": "!",
 		"x": 32709,
 		"y": 31602,
 		"z": 10
@@ -23268,10 +23268,17 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32637,
-		"y": 31638,
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
+		"x": 32636,
+		"y": 31636,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
+		"x": 32638,
+		"y": 31636,
 		"z": 11
 	},
 	{
@@ -23289,10 +23296,10 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
 		"x": 32654,
-		"y": 31619,
+		"y": 31618,
 		"z": 11
 	},
 	{
@@ -23317,13 +23324,6 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32672,
-		"y": 31604,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32674,
@@ -23331,15 +23331,22 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32674,
-		"y": 31648,
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
+		"x": 32675,
+		"y": 31650,
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
+		"description": "Troll champion (fire bomb spot + 1 west)",
+		"icon": "!",
+		"x": 32683,
+		"y": 31609,
+		"z": 11
+	},
+	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
 		"x": 32683,
 		"y": 31641,
 		"z": 11
@@ -23352,6 +23359,13 @@
 		"z": 11
 	},
 	{
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
+		"x": 32685,
+		"y": 31641,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32690,
@@ -23359,22 +23373,8 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32690,
-		"y": 31615,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32693,
-		"y": 31645,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
 		"x": 32701,
 		"y": 31624,
 		"z": 11
@@ -23394,10 +23394,10 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
 		"x": 32710,
-		"y": 31643,
+		"y": 31644,
 		"z": 11
 	},
 	{
@@ -23408,9 +23408,9 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (approximate fire bomb spot)",
-		"icon": "?",
-		"x": 32726,
+		"description": "Troll champion (fire bomb spot)",
+		"icon": "!",
+		"x": 32717,
 		"y": 31631,
 		"z": 11
 	},
