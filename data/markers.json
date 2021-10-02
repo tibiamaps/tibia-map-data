@@ -784,6 +784,13 @@
 		"z": 3
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33065,
+		"y": 32696,
+		"z": 3
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33083,
@@ -1414,10 +1421,24 @@
 		"z": 4
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33072,
+		"y": 32671,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33079,
 		"y": 31120,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33079,
+		"y": 32704,
 		"z": 4
 	},
 	{
@@ -2426,6 +2447,13 @@
 		"icon": "down",
 		"x": 33080,
 		"y": 31043,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33081,
+		"y": 32704,
 		"z": 5
 	},
 	{
@@ -4004,6 +4032,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33082,
+		"y": 32704,
+		"z": 6
+	},
+	{
 		"description": "Fire bomb spot (rapid)",
 		"icon": "!",
 		"x": 33088,
@@ -4036,6 +4071,13 @@
 		"icon": "down",
 		"x": 33094,
 		"y": 31051,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33094,
+		"y": 32690,
 		"z": 6
 	},
 	{
@@ -8964,6 +9006,13 @@
 		"icon": "up",
 		"x": 33094,
 		"y": 31051,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33094,
+		"y": 32689,
 		"z": 7
 	},
 	{
