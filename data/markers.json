@@ -22246,6 +22246,20 @@
 		"z": 10
 	},
 	{
+		"description": "Deepling elite",
+		"icon": "star",
+		"x": 33528,
+		"y": 31289,
+		"z": 10
+	},
+	{
+		"description": "Deepling elite",
+		"icon": "star",
+		"x": 33533,
+		"y": 31299,
+		"z": 10
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "up",
 		"x": 33537,
@@ -24467,8 +24481,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33481,
+		"y": 31255,
+		"z": 11
+	},
+	{
+		"description": "Deepling elite (poison bomb spot)",
+		"icon": "star",
+		"x": 33483,
+		"y": 31257,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33489,
 		"y": 32806,
+		"z": 11
+	},
+	{
+		"description": "Deepling tyrant",
+		"icon": "star",
+		"x": 33496,
+		"y": 31298,
 		"z": 11
 	},
 	{
@@ -24476,6 +24511,13 @@
 		"icon": "up",
 		"x": 33499,
 		"y": 31246,
+		"z": 11
+	},
+	{
+		"description": "Deepling elite (poison bomb spot)",
+		"icon": "star",
+		"x": 33502,
+		"y": 31217,
 		"z": 11
 	},
 	{
@@ -24497,6 +24539,13 @@
 		"icon": "up",
 		"x": 33504,
 		"y": 31264,
+		"z": 11
+	},
+	{
+		"description": "Deepling tyrant (poison bomb spot)",
+		"icon": "star",
+		"x": 33507,
+		"y": 31256,
 		"z": 11
 	},
 	{
@@ -26103,10 +26152,10 @@
 		"z": 12
 	},
 	{
-		"description": "Deepling tyrant",
+		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
-		"x": 33515,
-		"y": 31240,
+		"x": 33517,
+		"y": 31249,
 		"z": 12
 	},
 	{
@@ -27636,10 +27685,10 @@
 		"z": 13
 	},
 	{
-		"description": "Deepling tyrant",
+		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
-		"x": 33542,
-		"y": 31273,
+		"x": 33543,
+		"y": 31276,
 		"z": 13
 	},
 	{
@@ -27647,13 +27696,6 @@
 		"icon": "flag",
 		"x": 33558,
 		"y": 31774,
-		"z": 13
-	},
-	{
-		"description": "Deepling tyrant",
-		"icon": "star",
-		"x": 33559,
-		"y": 31304,
 		"z": 13
 	},
 	{
@@ -27668,6 +27710,13 @@
 		"icon": "down",
 		"x": 33562,
 		"y": 31378,
+		"z": 13
+	},
+	{
+		"description": "Deepling tyrant (poison bomb spot)",
+		"icon": "star",
+		"x": 33565,
+		"y": 31307,
 		"z": 13
 	},
 	{
