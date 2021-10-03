@@ -24444,6 +24444,20 @@
 		"z": 11
 	},
 	{
+		"description": "Deepling master librarian",
+		"icon": "star",
+		"x": 33460,
+		"y": 31177,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33471,
+		"y": 31187,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 33472,
@@ -26089,6 +26103,13 @@
 		"z": 12
 	},
 	{
+		"description": "Deepling tyrant",
+		"icon": "star",
+		"x": 33515,
+		"y": 31240,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33525,
@@ -27587,6 +27608,20 @@
 		"z": 13
 	},
 	{
+		"description": "Deepling master librarian",
+		"icon": "star",
+		"x": 33458,
+		"y": 31191,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33468,
+		"y": 31188,
+		"z": 13
+	},
+	{
 		"description": "Earl Osam, Cormaya",
 		"icon": "checkmark",
 		"x": 33518,
@@ -27601,10 +27636,24 @@
 		"z": 13
 	},
 	{
+		"description": "Deepling tyrant",
+		"icon": "star",
+		"x": 33542,
+		"y": 31273,
+		"z": 13
+	},
+	{
 		"description": "East Teleport",
 		"icon": "flag",
 		"x": 33558,
 		"y": 31774,
+		"z": 13
+	},
+	{
+		"description": "Deepling tyrant",
+		"icon": "star",
+		"x": 33559,
+		"y": 31304,
 		"z": 13
 	},
 	{
@@ -28826,6 +28875,13 @@
 		"z": 14
 	},
 	{
+		"description": "Deepling tyrant",
+		"icon": "star",
+		"x": 33447,
+		"y": 31192,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33449,
@@ -28837,6 +28893,13 @@
 		"icon": "star",
 		"x": 33453,
 		"y": 31282,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33454,
+		"y": 31266,
 		"z": 14
 	},
 	{
