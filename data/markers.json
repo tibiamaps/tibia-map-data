@@ -27594,8 +27594,8 @@
 		"z": 13
 	},
 	{
-		"description": "Shortcut to second floor",
-		"icon": "star",
+		"description": "Shortcut to lower floor",
+		"icon": "down",
 		"x": 33395,
 		"y": 32460,
 		"z": 13
@@ -30423,7 +30423,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "up",
 		"x": 33400,
 		"y": 32404,
 		"z": 15
