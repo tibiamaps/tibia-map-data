@@ -1309,24 +1309,10 @@
 		"z": 4
 	},
 	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32577,
-		"y": 31841,
-		"z": 4
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32589,
 		"y": 31950,
-		"z": 4
-	},
-	{
-		"description": "Fire bomb spot (black sheep)",
-		"icon": "!",
-		"x": 32598,
-		"y": 31805,
 		"z": 4
 	},
 	{
@@ -1453,13 +1439,6 @@
 		"icon": "up",
 		"x": 33092,
 		"y": 31037,
-		"z": 4
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 33099,
-		"y": 31252,
 		"z": 4
 	},
 	{
@@ -2149,45 +2128,10 @@
 		"z": 5
 	},
 	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32542,
-		"y": 31828,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32546,
-		"y": 31798,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32547,
 		"y": 31834,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32547,
-		"y": 31849,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32554,
-		"y": 31781,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32559,
-		"y": 31815,
 		"z": 5
 	},
 	{
@@ -2205,87 +2149,10 @@
 		"z": 5
 	},
 	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32575,
-		"y": 31773,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32577,
-		"y": 31773,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32577,
-		"y": 31851,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32579,
-		"y": 31835,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32586,
-		"y": 31810,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32589,
-		"y": 31809,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32590,
-		"y": 31833,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32591,
-		"y": 31831,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32593,
 		"y": 31806,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32594,
-		"y": 31831,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32595,
-		"y": 31816,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32598,
-		"y": 31769,
 		"z": 5
 	},
 	{
@@ -2300,13 +2167,6 @@
 		"icon": "down",
 		"x": 32607,
 		"y": 31925,
-		"z": 5
-	},
-	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32610,
-		"y": 31785,
 		"z": 5
 	},
 	{
@@ -3500,13 +3360,6 @@
 		"z": 6
 	},
 	{
-		"description": "Fire bomb spot",
-		"icon": "!",
-		"x": 32592,
-		"y": 31809,
-		"z": 6
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32602,
@@ -3525,13 +3378,6 @@
 		"icon": "down",
 		"x": 32609,
 		"y": 31963,
-		"z": 6
-	},
-	{
-		"description": "Fire bomb spot (pig)",
-		"icon": "!",
-		"x": 32610,
-		"y": 31768,
 		"z": 6
 	},
 	{
