@@ -7875,6 +7875,20 @@
 		"z": 7
 	},
 	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32826,
+		"y": 32668,
+		"z": 7
+	},
+	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32827,
+		"y": 32674,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -7917,10 +7931,24 @@
 		"z": 7
 	},
 	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32833,
+		"y": 32669,
+		"z": 7
+	},
+	{
 		"description": "Boat to Vengoth",
 		"icon": "flag",
 		"x": 32837,
 		"y": 31365,
+		"z": 7
+	},
+	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32840,
+		"y": 32672,
 		"z": 7
 	},
 	{
@@ -7949,6 +7977,13 @@
 		"icon": "star",
 		"x": 32847,
 		"y": 32697,
+		"z": 7
+	},
+	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32848,
+		"y": 32670,
 		"z": 7
 	},
 	{
@@ -7994,10 +8029,24 @@
 		"z": 7
 	},
 	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32857,
+		"y": 32675,
+		"z": 7
+	},
+	{
 		"description": "Midnight panther (spawn location)",
 		"icon": "star",
 		"x": 32857,
 		"y": 32738,
+		"z": 7
+	},
+	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32859,
+		"y": 32668,
 		"z": 7
 	},
 	{
@@ -8029,10 +8078,24 @@
 		"z": 7
 	},
 	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32865,
+		"y": 32677,
+		"z": 7
+	},
+	{
 		"description": "To Venore",
 		"icon": "up",
 		"x": 32867,
 		"y": 32032,
+		"z": 7
+	},
+	{
+		"description": "Terrified elephant (fire bomb spot)",
+		"icon": "star",
+		"x": 32867,
+		"y": 32670,
 		"z": 7
 	},
 	{
