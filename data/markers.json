@@ -127,7 +127,7 @@
 	},
 	{
 		"description": "Outfit chest; use 3× to get addons as well",
-		"icon": "flag",
+		"icon": "star",
 		"x": 33484,
 		"y": 31198,
 		"z": 1
@@ -141,7 +141,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33492,
 		"y": 31188,
 		"z": 1
@@ -155,21 +155,21 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33512,
 		"y": 31186,
 		"z": 1
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33513,
 		"y": 31206,
 		"z": 1
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33533,
 		"y": 31208,
 		"z": 1
@@ -183,7 +183,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33576,
 		"y": 31218,
 		"z": 1
@@ -197,14 +197,14 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33589,
 		"y": 31234,
 		"z": 1
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33591,
 		"y": 31227,
 		"z": 1
@@ -442,7 +442,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33480,
 		"y": 31203,
 		"z": 2
@@ -456,14 +456,14 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33519,
 		"y": 31214,
 		"z": 2
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33524,
 		"y": 31179,
 		"z": 2
@@ -477,7 +477,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33531,
 		"y": 31218,
 		"z": 2
@@ -512,21 +512,21 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33586,
 		"y": 31235,
 		"z": 2
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33595,
 		"y": 31223,
 		"z": 2
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33602,
 		"y": 31232,
 		"z": 2
@@ -540,7 +540,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33610,
 		"y": 31223,
 		"z": 2
@@ -876,7 +876,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33492,
 		"y": 31206,
 		"z": 3
@@ -897,14 +897,14 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33529,
 		"y": 31200,
 		"z": 3
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33542,
 		"y": 31213,
 		"z": 3
@@ -939,7 +939,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33573,
 		"y": 31217,
 		"z": 3
@@ -953,7 +953,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33586,
 		"y": 31228,
 		"z": 3
@@ -967,7 +967,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33609,
 		"y": 31223,
 		"z": 3
@@ -1541,14 +1541,14 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33482,
 		"y": 31200,
 		"z": 4
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33509,
 		"y": 31217,
 		"z": 4
@@ -1576,7 +1576,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33536,
 		"y": 31199,
 		"z": 4
@@ -2472,7 +2472,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33494,
 		"y": 31211,
 		"z": 5
@@ -2486,7 +2486,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33520,
 		"y": 31216,
 		"z": 5
@@ -2500,7 +2500,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33530,
 		"y": 31185,
 		"z": 5
@@ -2549,21 +2549,21 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33575,
 		"y": 31217,
 		"z": 5
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33577,
 		"y": 31242,
 		"z": 5
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33593,
 		"y": 31251,
 		"z": 5
@@ -4180,7 +4180,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33491,
 		"y": 31210,
 		"z": 6
@@ -4215,7 +4215,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33518,
 		"y": 31179,
 		"z": 6
@@ -4229,21 +4229,21 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33520,
 		"y": 31191,
 		"z": 6
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33523,
 		"y": 31218,
 		"z": 6
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33524,
 		"y": 31191,
 		"z": 6
@@ -4355,7 +4355,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33595,
 		"y": 31246,
 		"z": 6
@@ -4376,7 +4376,7 @@
 	},
 	{
 		"description": "Insectoid monolith",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33610,
 		"y": 31222,
 		"z": 6
