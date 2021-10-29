@@ -126,13 +126,6 @@
 		"z": 1
 	},
 	{
-		"description": "Outfit and Addons",
-		"icon": "star",
-		"x": 33482,
-		"y": 31200,
-		"z": 1
-	},
-	{
 		"description": "Outfit chest; use 3× to get addons as well",
 		"icon": "flag",
 		"x": 33484,
@@ -147,8 +140,8 @@
 		"z": 1
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33492,
 		"y": 31188,
 		"z": 1
@@ -161,22 +154,22 @@
 		"z": 1
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33512,
 		"y": 31186,
 		"z": 1
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33513,
 		"y": 31206,
 		"z": 1
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33533,
 		"y": 31208,
 		"z": 1
@@ -448,8 +441,8 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33480,
 		"y": 31203,
 		"z": 2
@@ -462,15 +455,15 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33519,
 		"y": 31214,
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33524,
 		"y": 31179,
 		"z": 2
@@ -483,8 +476,8 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33531,
 		"y": 31218,
 		"z": 2
@@ -532,13 +525,6 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33595,
-		"y": 31225,
-		"z": 2
-	},
-	{
 		"description": "Insectoid monolith",
 		"icon": "star",
 		"x": 33602,
@@ -550,13 +536,6 @@
 		"icon": "down",
 		"x": 33606,
 		"y": 31229,
-		"z": 2
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33608,
-		"y": 31223,
 		"z": 2
 	},
 	{
@@ -896,8 +875,8 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33492,
 		"y": 31206,
 		"z": 3
@@ -917,15 +896,15 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33529,
 		"y": 31200,
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33542,
 		"y": 31213,
 		"z": 3
@@ -973,8 +952,8 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33586,
 		"y": 31228,
 		"z": 3
@@ -1561,15 +1540,15 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33482,
 		"y": 31200,
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33509,
 		"y": 31217,
 		"z": 4
@@ -1596,8 +1575,8 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33536,
 		"y": 31199,
 		"z": 4
@@ -2492,8 +2471,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33494,
 		"y": 31211,
 		"z": 5
@@ -2506,8 +2485,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33520,
 		"y": 31216,
 		"z": 5
@@ -2520,8 +2499,8 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33530,
 		"y": 31185,
 		"z": 5
@@ -2569,22 +2548,22 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33575,
 		"y": 31217,
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33577,
 		"y": 31242,
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33593,
 		"y": 31251,
 		"z": 5
@@ -4200,8 +4179,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33491,
 		"y": 31210,
 		"z": 6
@@ -4211,13 +4190,6 @@
 		"icon": "red left",
 		"x": 33500,
 		"y": 32523,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33510,
-		"y": 31168,
 		"z": 6
 	},
 	{
@@ -4242,8 +4214,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33518,
 		"y": 31179,
 		"z": 6
@@ -4256,22 +4228,22 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33520,
 		"y": 31191,
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33523,
 		"y": 31218,
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33524,
 		"y": 31191,
 		"z": 6
@@ -4382,8 +4354,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33595,
 		"y": 31246,
 		"z": 6
@@ -4403,8 +4375,8 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "Insectoid monolith",
+		"icon": "star",
 		"x": 33610,
 		"y": 31222,
 		"z": 6
@@ -10465,13 +10437,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33508,
-		"y": 31180,
-		"z": 7
-	},
-	{
 		"description": "Magic shop",
 		"icon": "bag",
 		"x": 33509,
@@ -10648,13 +10613,6 @@
 	},
 	{
 		"description": "",
-		"icon": "crossmark",
-		"x": 33536,
-		"y": 31199,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33538,
 		"y": 32370,
@@ -10721,13 +10679,6 @@
 		"icon": "crossmark",
 		"x": 33545,
 		"y": 32156,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33546,
-		"y": 31212,
 		"z": 7
 	},
 	{
@@ -11151,13 +11102,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33587,
-		"y": 31213,
-		"z": 7
-	},
-	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33587,
@@ -11288,13 +11232,6 @@
 		"icon": "checkmark",
 		"x": 33602,
 		"y": 32038,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33604,
-		"y": 31232,
 		"z": 7
 	},
 	{
@@ -15624,8 +15561,8 @@
 		"z": 8
 	},
 	{
-		"description": "Shadowstalker (Crawler)",
-		"icon": "checkmark",
+		"description": "Shadowstalker (crawler boss)",
+		"icon": "?",
 		"x": 33476,
 		"y": 31247,
 		"z": 8
@@ -15715,8 +15652,8 @@
 		"z": 8
 	},
 	{
-		"description": "Chopper",
-		"icon": "checkmark",
+		"description": "Chopper (waspoid boss)",
+		"icon": "?",
 		"x": 33521,
 		"y": 31263,
 		"z": 8
