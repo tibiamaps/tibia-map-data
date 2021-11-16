@@ -29,8 +29,8 @@ jobs:
 
       - name: Enable pack
         run: |
-          node scripts/enable-marker-pack.mjs anniversary
+          node scripts/enable-marker-pack.mjs lightbearer
           git config user.name 'Mathias Bynens'
           git config user.email 'mathias@qiwi.be'
-          git commit data -m 'Enable Lightbearer pack' -m 'This patch enables the Anniversary markers in preparation for the upcoming event (which runs from November 11th until November 15th).'
+          git commit data -m 'Enable Lightbearer pack' -m 'This patch enables the Lightbearer markers in preparation for the upcoming event (which runs from November 11th until November 15th).'
           git push
