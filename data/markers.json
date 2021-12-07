@@ -6309,8 +6309,8 @@
 	{
 		"description": "PvE/PvP arena",
 		"icon": "skull",
-		"x": 32353,
-		"y": 32222,
+		"x": 32352,
+		"y": 32221,
 		"z": 7
 	},
 	{
@@ -9569,13 +9569,6 @@
 		"z": 7
 	},
 	{
-		"description": "PvP arena",
-		"icon": "skull",
-		"x": 33131,
-		"y": 32859,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "down",
 		"x": 33133,
@@ -9604,7 +9597,7 @@
 		"z": 7
 	},
 	{
-		"description": "PvE arena",
+		"description": "PvE/PvP arena",
 		"icon": "skull",
 		"x": 33134,
 		"y": 32861,
@@ -9942,7 +9935,7 @@
 	{
 		"description": "PvE/PvP arena",
 		"icon": "skull",
-		"x": 33199,
+		"x": 33200,
 		"y": 31785,
 		"z": 7
 	},
@@ -14161,7 +14154,7 @@
 		"z": 8
 	},
 	{
-		"description": "PvE arena",
+		"description": "PvE/PvP arena",
 		"icon": "skull",
 		"x": 32602,
 		"y": 31915,
@@ -14172,13 +14165,6 @@
 		"icon": "up",
 		"x": 32603,
 		"y": 31704,
-		"z": 8
-	},
-	{
-		"description": "PvP arena",
-		"icon": "skull",
-		"x": 32603,
-		"y": 31913,
 		"z": 8
 	},
 	{
