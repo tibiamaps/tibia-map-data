@@ -4837,7 +4837,7 @@
 		"z": 7
 	},
 	{
-		"description": "Ferumbras",
+		"description": "Towards Ferumbras",
 		"icon": "down",
 		"x": 32023,
 		"y": 32736,
@@ -4890,6 +4890,13 @@
 		"icon": "down",
 		"x": 32038,
 		"y": 32560,
+		"z": 7
+	},
+	{
+		"description": "Towards Quara Hell",
+		"icon": "down",
+		"x": 32039,
+		"y": 32721,
 		"z": 7
 	},
 	{
@@ -13181,10 +13188,31 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 31967,
+		"y": 32679,
+		"z": 8
+	},
+	{
 		"description": "To Lich Hell",
 		"icon": "down",
 		"x": 31968,
 		"y": 32558,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31974,
+		"y": 32679,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31975,
+		"y": 32651,
 		"z": 8
 	},
 	{
@@ -13203,9 +13231,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 31983,
+		"y": 32652,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 31987,
 		"y": 32832,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31990,
+		"y": 32700,
 		"z": 8
 	},
 	{
@@ -13218,8 +13260,36 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 31995,
+		"y": 32712,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31996,
+		"y": 32690,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 31998,
 		"y": 31570,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32007,
+		"y": 32712,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32007,
+		"y": 32740,
 		"z": 8
 	},
 	{
@@ -13227,6 +13297,13 @@
 		"icon": "star",
 		"x": 32009,
 		"y": 32353,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32011,
+		"y": 32698,
 		"z": 8
 	},
 	{
@@ -13273,6 +13350,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32024,
+		"y": 32734,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32027,
+		"y": 32722,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 32028,
 		"y": 31539,
@@ -13301,6 +13392,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32039,
+		"y": 32721,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32040,
 		"y": 32858,
@@ -13311,6 +13409,13 @@
 		"icon": "down",
 		"x": 32040,
 		"y": 32910,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32042,
+		"y": 32668,
 		"z": 8
 	},
 	{
@@ -16997,9 +17102,37 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 31974,
+		"y": 32679,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "sword",
 		"x": 31975,
 		"y": 32350,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31977,
+		"y": 32696,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31983,
+		"y": 32652,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31990,
+		"y": 32700,
 		"z": 9
 	},
 	{
@@ -17014,6 +17147,13 @@
 		"icon": "up",
 		"x": 31993,
 		"y": 32791,
+		"z": 9
+	},
+	{
+		"description": "Quara Hell",
+		"icon": "red down",
+		"x": 32003,
+		"y": 32652,
 		"z": 9
 	},
 	{
@@ -17060,6 +17200,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32027,
+		"y": 32722,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 32028,
 		"y": 31539,
@@ -17084,6 +17231,20 @@
 		"icon": "up",
 		"x": 32041,
 		"y": 32909,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32042,
+		"y": 32668,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32048,
+		"y": 32726,
 		"z": 9
 	},
 	{
@@ -20293,6 +20454,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 31959,
+		"y": 32695,
+		"z": 10
+	},
+	{
 		"description": "Undead cavebear (spawn location)",
 		"icon": "star",
 		"x": 31961,
@@ -20311,6 +20479,13 @@
 		"icon": "star",
 		"x": 31980,
 		"y": 32575,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32003,
+		"y": 32652,
 		"z": 10
 	},
 	{
