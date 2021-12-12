@@ -16324,13 +16324,6 @@
 		"z": 8
 	},
 	{
-		"description": "Shadowstalker (crawler boss)",
-		"icon": "?",
-		"x": 33476,
-		"y": 31247,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33480,
@@ -16419,13 +16412,6 @@
 		"icon": "!",
 		"x": 33517,
 		"y": 31306,
-		"z": 8
-	},
-	{
-		"description": "Chopper (waspoid boss)",
-		"icon": "?",
-		"x": 33521,
-		"y": 31263,
 		"z": 8
 	},
 	{
