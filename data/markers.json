@@ -16297,6 +16297,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33426,
+		"y": 31270,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33437,
 		"y": 32218,
