@@ -14595,6 +14595,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32678,
+		"y": 32609,
+		"z": 8
+	},
+	{
 		"description": "Port Hope (Spectres)",
 		"icon": "checkmark",
 		"x": 32681,
@@ -14676,6 +14683,13 @@
 		"icon": "sword",
 		"x": 32690,
 		"y": 31673,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32691,
+		"y": 32589,
 		"z": 8
 	},
 	{
@@ -18330,6 +18344,13 @@
 		"icon": "down",
 		"x": 32691,
 		"y": 31125,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32691,
+		"y": 32589,
 		"z": 9
 	},
 	{
