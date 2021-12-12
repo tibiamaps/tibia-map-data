@@ -5257,6 +5257,13 @@
 		"z": 7
 	},
 	{
+		"description": "Treasure hole (requires pirate treasure map)",
+		"icon": "down",
+		"x": 32106,
+		"y": 32960,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32107,
@@ -5286,7 +5293,7 @@
 	},
 	{
 		"description": "Treasure hole (requires pirate treasure map)",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32126,
 		"y": 32934,
 		"z": 7
@@ -5335,7 +5342,7 @@
 	},
 	{
 		"description": "Treasure hole (requires pirate treasure map)",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32144,
 		"y": 32947,
 		"z": 7
@@ -5366,6 +5373,13 @@
 		"icon": "up",
 		"x": 32159,
 		"y": 32555,
+		"z": 7
+	},
+	{
+		"description": "Treasure hole (requires pirate treasure map)",
+		"icon": "down",
+		"x": 32161,
+		"y": 32973,
 		"z": 7
 	},
 	{
@@ -5460,7 +5474,7 @@
 		"z": 7
 	},
 	{
-		"description": "Towards Lord Azaram",
+		"description": "Towards Lord Azaram (Grave Danger boss)",
 		"icon": "down",
 		"x": 32190,
 		"y": 31838,
@@ -5481,13 +5495,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32198,
-		"y": 32950,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32201,
@@ -5496,7 +5503,7 @@
 	},
 	{
 		"description": "Treasure hole (requires pirate treasure map)",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32201,
 		"y": 32947,
 		"z": 7
@@ -10017,6 +10024,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Count Vlarkorth (Grave Danger boss)",
+		"icon": "sword",
+		"x": 33197,
+		"y": 31693,
+		"z": 7
+	},
+	{
 		"description": "Portal to Northern Zao",
 		"icon": "up",
 		"x": 33198,
@@ -10346,6 +10360,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Earl Osam (Grave Danger boss)",
+		"icon": "red up",
+		"x": 33264,
+		"y": 31994,
+		"z": 7
+	},
+	{
 		"description": "Dryad Gardens",
 		"icon": "down",
 		"x": 33264,
@@ -10413,6 +10434,13 @@
 		"icon": "red down",
 		"x": 33277,
 		"y": 31958,
+		"z": 7
+	},
+	{
+		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
+		"icon": "down",
+		"x": 33281,
+		"y": 32445,
 		"z": 7
 	},
 	{
@@ -13594,6 +13622,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32106,
+		"y": 32960,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32109,
+		"y": 32974,
+		"z": 8
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32117,
@@ -13622,6 +13664,27 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32125,
+		"y": 32938,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32126,
+		"y": 32934,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32135,
+		"y": 32914,
+		"z": 8
+	},
+	{
 		"description": "Braindeaths",
 		"icon": "down",
 		"x": 32136,
@@ -13640,6 +13703,13 @@
 		"icon": "flag",
 		"x": 32143,
 		"y": 30993,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32144,
+		"y": 32947,
 		"z": 8
 	},
 	{
@@ -13707,16 +13777,16 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32187,
-		"y": 31431,
+		"icon": "down",
+		"x": 32185,
+		"y": 32979,
 		"z": 8
 	},
 	{
-		"description": "To Lord Azaram lever room",
-		"icon": "sword",
-		"x": 32190,
-		"y": 31817,
+		"description": "",
+		"icon": "up",
+		"x": 32187,
+		"y": 31431,
 		"z": 8
 	},
 	{
@@ -13734,6 +13804,13 @@
 		"z": 8
 	},
 	{
+		"description": "Towards Lord Azaram (Grave Danger boss)",
+		"icon": "red up",
+		"x": 32191,
+		"y": 31824,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32193,
@@ -13745,6 +13822,13 @@
 		"icon": "down",
 		"x": 32198,
 		"y": 32367,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32201,
+		"y": 32947,
 		"z": 8
 	},
 	{
@@ -16088,6 +16172,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33273,
+		"y": 32458,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33274,
 		"y": 32527,
 		"z": 8
@@ -17409,10 +17500,31 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32089,
+		"y": 32961,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32098,
+		"y": 32911,
+		"z": 9
+	},
+	{
 		"description": "Key 4502 (copper key)",
 		"icon": "?",
 		"x": 32107,
 		"y": 31568,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32109,
+		"y": 32974,
 		"z": 9
 	},
 	{
@@ -17434,6 +17546,20 @@
 		"icon": "up",
 		"x": 32119,
 		"y": 32575,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32125,
+		"y": 32938,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32135,
+		"y": 32914,
 		"z": 9
 	},
 	{
@@ -17472,10 +17598,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32179,
+		"y": 32915,
+		"z": 9
+	},
+	{
 		"description": "Crustacea gigantica (spawn location)",
 		"icon": "star",
 		"x": 32182,
 		"y": 32935,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32185,
+		"y": 32979,
 		"z": 9
 	},
 	{
@@ -17658,6 +17798,13 @@
 		"icon": "up",
 		"x": 32354,
 		"y": 31065,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32355,
+		"y": 32143,
 		"z": 9
 	},
 	{
@@ -19678,6 +19825,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33273,
+		"y": 32458,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33283,
 		"y": 31635,
@@ -19688,6 +19842,13 @@
 		"icon": "up",
 		"x": 33286,
 		"y": 31204,
+		"z": 9
+	},
+	{
+		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
+		"icon": "red up",
+		"x": 33288,
+		"y": 32480,
 		"z": 9
 	},
 	{
@@ -20721,6 +20882,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32089,
+		"y": 32961,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32098,
+		"y": 32911,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32106,
 		"y": 31238,
@@ -20731,6 +20906,13 @@
 		"icon": "up",
 		"x": 32146,
 		"y": 32613,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32179,
+		"y": 32915,
 		"z": 10
 	},
 	{
@@ -23776,6 +23958,20 @@
 		"icon": "up",
 		"x": 32348,
 		"y": 32902,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32355,
+		"y": 32138,
+		"z": 11
+	},
+	{
+		"description": "Towards Duke Krule (Grave Danger boss)",
+		"icon": "red down",
+		"x": 32355,
+		"y": 32162,
 		"z": 11
 	},
 	{
@@ -28497,7 +28693,7 @@
 		"z": 13
 	},
 	{
-		"description": "Lord Azaram / Carlin",
+		"description": "Lord Azaram, Carlin",
 		"icon": "checkmark",
 		"x": 33423,
 		"y": 31497,
@@ -28532,7 +28728,7 @@
 		"z": 13
 	},
 	{
-		"description": "Count Vlarkorth, Edron",
+		"description": "Count Vlarkorth",
 		"icon": "checkmark",
 		"x": 33456,
 		"y": 31409,
