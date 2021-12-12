@@ -16303,6 +16303,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33444,
+		"y": 31234,
+		"z": 8
+	},
+	{
 		"description": "Temple",
 		"icon": "down",
 		"x": 33447,
@@ -16335,6 +16342,20 @@
 		"icon": "down",
 		"x": 33454,
 		"y": 31723,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33457,
+		"y": 31222,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33476,
+		"y": 31246,
 		"z": 8
 	},
 	{
@@ -16387,6 +16408,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33505,
+		"y": 31247,
+		"z": 8
+	},
+	{
 		"description": "Fairy",
 		"icon": "star",
 		"x": 33505,
@@ -16419,6 +16447,13 @@
 		"icon": "up",
 		"x": 33515,
 		"y": 31102,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33515,
+		"y": 31231,
 		"z": 8
 	},
 	{
