@@ -3459,7 +3459,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red up",
 		"x": 32630,
 		"y": 31433,
 		"z": 6
@@ -7697,6 +7697,13 @@
 		"icon": "up",
 		"x": 32630,
 		"y": 31962,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32631,
+		"y": 31438,
 		"z": 7
 	},
 	{
@@ -13793,6 +13800,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 32190,
+		"y": 31781,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32190,
 		"y": 31838,
 		"z": 8
 	},
@@ -13836,6 +13850,20 @@
 		"icon": "up",
 		"x": 32206,
 		"y": 32883,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32216,
+		"y": 31873,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32223,
+		"y": 31860,
 		"z": 8
 	},
 	{
@@ -14578,6 +14606,13 @@
 		"icon": "sword",
 		"x": 32657,
 		"y": 31656,
+		"z": 8
+	},
+	{
+		"description": "Wagons",
+		"icon": "flag",
+		"x": 32657,
+		"y": 31902,
 		"z": 8
 	},
 	{
@@ -17620,6 +17655,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32189,
+		"y": 31850,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 32190,
 		"y": 31147,
@@ -17630,6 +17672,13 @@
 		"icon": "down",
 		"x": 32192,
 		"y": 31154,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32193,
+		"y": 31788,
 		"z": 9
 	},
 	{
@@ -17648,6 +17697,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32216,
+		"y": 31873,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32232,
 		"y": 31278,
@@ -17655,9 +17711,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32234,
+		"y": 31868,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32235,
 		"y": 31421,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32235,
+		"y": 31889,
 		"z": 9
 	},
 	{
@@ -18235,6 +18305,13 @@
 		"z": 9
 	},
 	{
+		"description": "Wagons",
+		"icon": "flag",
+		"x": 32576,
+		"y": 31971,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32578,
@@ -18288,6 +18365,13 @@
 		"icon": "down",
 		"x": 32603,
 		"y": 31980,
+		"z": 9
+	},
+	{
+		"description": "Wagons",
+		"icon": "flag",
+		"x": 32606,
+		"y": 31905,
 		"z": 9
 	},
 	{
@@ -20911,6 +20995,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32171,
+		"y": 31772,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32179,
 		"y": 32915,
 		"z": 10
@@ -20920,6 +21011,20 @@
 		"icon": "star",
 		"x": 32183,
 		"y": 32468,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32189,
+		"y": 31774,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32191,
+		"y": 31795,
 		"z": 10
 	},
 	{
@@ -20973,9 +21078,37 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32235,
+		"y": 31838,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32235,
+		"y": 31856,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32235,
+		"y": 31889,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32235,
 		"y": 32870,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32236,
+		"y": 31908,
 		"z": 10
 	},
 	{
@@ -21011,6 +21144,13 @@
 		"icon": "up",
 		"x": 32276,
 		"y": 32840,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32277,
+		"y": 31907,
 		"z": 10
 	},
 	{
@@ -21624,6 +21764,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32621,
+		"y": 31938,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32621,
 		"y": 32758,
@@ -21634,6 +21781,13 @@
 		"icon": "up",
 		"x": 32624,
 		"y": 32823,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32628,
+		"y": 31937,
 		"z": 10
 	},
 	{
@@ -21658,6 +21812,13 @@
 		"z": 10
 	},
 	{
+		"description": "Wagon to Beregar (requires Unlikely Pathfinder achievement)",
+		"icon": "flag",
+		"x": 32639,
+		"y": 31960,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32639,
@@ -21669,6 +21830,13 @@
 		"icon": "red up",
 		"x": 32641,
 		"y": 31780,
+		"z": 10
+	},
+	{
+		"description": "Towards wagon to Beregar (requires Unlikely Pathfinder achievement)",
+		"icon": "red down",
+		"x": 32642,
+		"y": 31947,
 		"z": 10
 	},
 	{
@@ -23878,6 +24046,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32218,
+		"y": 31835,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32219,
+		"y": 31904,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32220,
 		"y": 31015,
@@ -23900,6 +24082,34 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32235,
+		"y": 31838,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32235,
+		"y": 31856,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32236,
+		"y": 31869,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32236,
+		"y": 31909,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32241,
 		"y": 31045,
 		"z": 11
@@ -23909,6 +24119,13 @@
 		"icon": "mouth",
 		"x": 32268,
 		"y": 32811,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32277,
+		"y": 31907,
 		"z": 11
 	},
 	{
@@ -24392,6 +24609,13 @@
 		"icon": "flag",
 		"x": 32627,
 		"y": 31863,
+		"z": 11
+	},
+	{
+		"description": "Wagons",
+		"icon": "flag",
+		"x": 32628,
+		"y": 31920,
 		"z": 11
 	},
 	{
@@ -26100,6 +26324,13 @@
 		"icon": "!",
 		"x": 32206,
 		"y": 31124,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32218,
+		"y": 31835,
 		"z": 12
 	},
 	{
@@ -29393,6 +29624,20 @@
 		"z": 14
 	},
 	{
+		"description": "Wagon to Kazordoon (requires Unlikely Pathfinder achievement)",
+		"icon": "flag",
+		"x": 32588,
+		"y": 31478,
+		"z": 14
+	},
+	{
+		"description": "Towards wagon to Kazordoon (requires Unlikely Pathfinder achievement)",
+		"icon": "red down",
+		"x": 32589,
+		"y": 31469,
+		"z": 14
+	},
+	{
 		"description": "Key 3802 (copper key)",
 		"icon": "red up",
 		"x": 32602,
@@ -29404,6 +29649,13 @@
 		"icon": "red up",
 		"x": 32609,
 		"y": 31490,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32611,
+		"y": 31497,
 		"z": 14
 	},
 	{
@@ -31017,6 +31269,20 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32611,
+		"y": 31497,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32629,
+		"y": 31499,
+		"z": 15
+	},
+	{
 		"description": "Way out of Hellgate",
 		"icon": "up",
 		"x": 32661,
@@ -31028,6 +31294,13 @@
 		"icon": "up",
 		"x": 32666,
 		"y": 31672,
+		"z": 15
+	},
+	{
+		"description": "Wagons",
+		"icon": "flag",
+		"x": 32674,
+		"y": 31974,
 		"z": 15
 	},
 	{
