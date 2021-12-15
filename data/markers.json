@@ -10059,7 +10059,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Swan feathers",
 		"icon": "checkmark",
 		"x": 33201,
 		"y": 31894,
@@ -10560,6 +10560,13 @@
 		"icon": "up",
 		"x": 33312,
 		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Forgotten Tomb",
+		"icon": "down",
+		"x": 33314,
+		"y": 31720,
 		"z": 7
 	},
 	{
@@ -16075,6 +16082,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 33212,
+		"y": 31888,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33212,
 		"y": 32358,
 		"z": 8
 	},
@@ -16289,6 +16303,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33303,
+		"y": 31784,
+		"z": 8
+	},
+	{
 		"description": "Dazed leaf golem",
 		"icon": "sword",
 		"x": 33306,
@@ -16321,6 +16342,13 @@
 		"icon": "down",
 		"x": 33311,
 		"y": 31680,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33312,
+		"y": 31725,
 		"z": 8
 	},
 	{
@@ -23312,8 +23340,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33350,
-		"y": 31671,
+		"x": 33351,
+		"y": 31670,
 		"z": 10
 	},
 	{
@@ -25608,6 +25636,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33233,
+		"y": 32702,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33251,
 		"y": 32812,
 		"z": 11
@@ -27266,6 +27301,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33233,
+		"y": 32704,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33234,
 		"y": 31758,
@@ -28749,6 +28791,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33190,
+		"y": 32630,
+		"z": 13
+	},
+	{
 		"description": "Temple of Xayepocax",
 		"icon": "down",
 		"x": 33192,
@@ -29992,6 +30041,13 @@
 		"icon": "up",
 		"x": 33163,
 		"y": 31715,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33189,
+		"y": 32630,
 		"z": 14
 	},
 	{
