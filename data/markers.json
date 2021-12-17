@@ -4977,13 +4977,6 @@
 		"z": 7
 	},
 	{
-		"description": "Towards Quara Hell",
-		"icon": "down",
-		"x": 32039,
-		"y": 32721,
-		"z": 7
-	},
-	{
 		"description": "Rat dungeon",
 		"icon": "down",
 		"x": 32041,
@@ -28574,10 +28567,10 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32905,
-		"y": 32847,
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32906,
+		"y": 32846,
 		"z": 13
 	},
 	{
