@@ -14372,6 +14372,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32525,
+		"y": 31933,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32527,
 		"y": 32954,
@@ -14382,6 +14389,13 @@
 		"icon": "down",
 		"x": 32537,
 		"y": 32729,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32540,
+		"y": 31941,
 		"z": 8
 	},
 	{
@@ -17633,8 +17647,8 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Elevator",
+		"icon": "flag",
 		"x": 32156,
 		"y": 31126,
 		"z": 9
@@ -17679,13 +17693,6 @@
 		"icon": "up",
 		"x": 32189,
 		"y": 31850,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 32190,
-		"y": 31147,
 		"z": 9
 	},
 	{
@@ -18232,6 +18239,20 @@
 		"icon": "up",
 		"x": 32523,
 		"y": 31307,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32523,
+		"y": 31930,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32525,
+		"y": 31933,
 		"z": 9
 	},
 	{
@@ -21014,6 +21035,13 @@
 		"z": 10
 	},
 	{
+		"description": "Elevator",
+		"icon": "flag",
+		"x": 32155,
+		"y": 31126,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32171,
@@ -21655,6 +21683,13 @@
 		"icon": "red down",
 		"x": 32521,
 		"y": 31726,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32525,
+		"y": 31927,
 		"z": 10
 	},
 	{
@@ -24535,10 +24570,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32512,
+		"y": 31905,
+		"z": 11
+	},
+	{
 		"description": "3. To Demona",
 		"icon": "red down",
 		"x": 32519,
 		"y": 31656,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32525,
+		"y": 31927,
 		"z": 11
 	},
 	{
@@ -26621,10 +26670,24 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32507,
+		"y": 31911,
+		"z": 12
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32507,
 		"y": 31963,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32512,
+		"y": 31905,
 		"z": 12
 	},
 	{
@@ -28210,6 +28273,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32507,
+		"y": 31911,
+		"z": 13
+	},
+	{
 		"description": "Possible spawn of The Abomination",
 		"icon": "star",
 		"x": 32510,
@@ -29166,6 +29236,13 @@
 		"icon": "star",
 		"x": 33602,
 		"y": 31438,
+		"z": 13
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33611,
+		"y": 31449,
 		"z": 13
 	},
 	{
@@ -30689,6 +30766,13 @@
 	},
 	{
 		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33609,
+		"y": 31447,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
 		"icon": "down",
 		"x": 33612,
 		"y": 32523,
@@ -32113,6 +32197,13 @@
 		"icon": "flag",
 		"x": 33555,
 		"y": 31647,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33556,
+		"y": 31452,
 		"z": 15
 	},
 	{
