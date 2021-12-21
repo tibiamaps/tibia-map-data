@@ -23472,6 +23472,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33481,
+		"y": 31255,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33491,
 		"y": 31952,
@@ -23494,8 +23501,29 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33498,
+		"y": 31246,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33501,
 		"y": 31301,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33502,
+		"y": 31282,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33504,
+		"y": 31264,
 		"z": 10
 	},
 	{
@@ -25986,6 +26014,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33536,
+		"y": 31246,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33546,
 		"y": 31293,
 		"z": 11
@@ -26012,15 +26047,8 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "bag",
-		"x": 33632,
-		"y": 31259,
-		"z": 11
-	},
-	{
 		"description": "Reward",
-		"icon": "lock",
+		"icon": "bag",
 		"x": 33633,
 		"y": 31257,
 		"z": 11
