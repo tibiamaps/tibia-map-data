@@ -7,10 +7,10 @@ const __dirname = path.dirname(__filename);
 
 import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 
-const SPECIAL_ID = 'rapid-respawn';
+const SPECIAL_ID = 'percht-island';
 
 const isSpecial = (marker) => {
-	return marker.description === `Fire bomb spot`;
+	return marker.description === `Baleful bunny (fire bomb spot)`;
 	// https://tibiamaps.io/map#33686,30971,9:1
 	const TOP_LEFT_COORDINATE = { x: 33686, y: 30971 };
 	// https://tibiamaps.io/map#33862,31136,9:1
