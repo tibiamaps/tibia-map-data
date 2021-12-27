@@ -12607,10 +12607,10 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33722,
-		"y": 31071,
+		"y": 31078,
 		"z": 7
 	},
 	{
@@ -12649,8 +12649,8 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33730,
 		"y": 31040,
 		"z": 7
@@ -12677,6 +12677,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33742,
+		"y": 31091,
+		"z": 7
+	},
+	{
 		"description": "Mailbox",
 		"icon": "lock",
 		"x": 33744,
@@ -12691,10 +12698,10 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
-		"x": 33756,
-		"y": 31021,
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33755,
+		"y": 31019,
 		"z": 7
 	},
 	{
@@ -12705,10 +12712,31 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33757,
+		"y": 31091,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33760,
-		"y": 31086,
+		"y": 31066,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33762,
+		"y": 31016,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33763,
+		"y": 31066,
 		"z": 7
 	},
 	{
@@ -12719,10 +12747,10 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
-		"x": 33765,
-		"y": 31071,
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33774,
+		"y": 31020,
 		"z": 7
 	},
 	{
@@ -12740,17 +12768,24 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33776,
-		"y": 31023,
+		"y": 31044,
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33776,
-		"y": 31043,
+		"y": 31046,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33778,
+		"y": 31020,
 		"z": 7
 	},
 	{
@@ -12775,10 +12810,10 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
-		"x": 33790,
-		"y": 31061,
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33791,
+		"y": 31060,
 		"z": 7
 	},
 	{
@@ -12810,6 +12845,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33792,
+		"y": 31004,
+		"z": 7
+	},
+	{
 		"description": "Bragrumol",
 		"icon": "red down",
 		"x": 33792,
@@ -12817,17 +12859,17 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33794,
+		"y": 31060,
+		"z": 7
+	},
+	{
 		"description": "Enusat the Onyx Wing",
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
-		"z": 7
-	},
-	{
-		"description": "Bunnies",
-		"icon": "checkmark",
-		"x": 33798,
-		"y": 31006,
 		"z": 7
 	},
 	{
@@ -12915,10 +12957,10 @@
 		"z": 7
 	},
 	{
-		"description": "Bunnies",
-		"icon": "checkmark",
-		"x": 33819,
-		"y": 31079,
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33818,
+		"y": 31076,
 		"z": 7
 	},
 	{
