@@ -30513,6 +30513,48 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33419,
+		"y": 31750,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33423,
+		"y": 31701,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33423,
+		"y": 31718,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33424,
+		"y": 31654,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33424,
+		"y": 31667,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33429,
+		"y": 31707,
+		"z": 14
+	},
+	{
 		"description": "Teleport to Gray Beach",
 		"icon": "star",
 		"x": 33440,
@@ -30524,6 +30566,13 @@
 		"icon": "star",
 		"x": 33447,
 		"y": 31192,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33447,
+		"y": 31646,
 		"z": 14
 	},
 	{
@@ -30545,6 +30594,20 @@
 		"icon": "down",
 		"x": 33454,
 		"y": 31266,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33469,
+		"y": 31637,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33489,
+		"y": 31626,
 		"z": 14
 	},
 	{
@@ -32053,10 +32116,31 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33418,
+		"y": 31665,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33423,
+		"y": 31700,
+		"z": 15
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33425,
 		"y": 31654,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33425,
+		"y": 31733,
 		"z": 15
 	},
 	{
@@ -32081,6 +32165,13 @@
 		"z": 15
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33440,
+		"y": 31651,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33442,
@@ -32099,6 +32190,13 @@
 		"icon": "crossmark",
 		"x": 33445,
 		"y": 31741,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33447,
+		"y": 31647,
 		"z": 15
 	},
 	{
@@ -32151,6 +32249,13 @@
 		"z": 15
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33469,
+		"y": 31638,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33469,
@@ -32176,6 +32281,13 @@
 		"icon": "!",
 		"x": 33494,
 		"y": 32216,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33499,
+		"y": 31641,
 		"z": 15
 	},
 	{
