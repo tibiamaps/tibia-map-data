@@ -2758,6 +2758,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33703,
+		"y": 31946,
+		"z": 5
+	},
+	{
 		"description": "Rosebush",
 		"icon": "star",
 		"x": 33703,
@@ -12530,17 +12537,17 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33707,
+		"y": 31937,
+		"z": 7
+	},
+	{
 		"description": "Large pile of various bones",
 		"icon": "flag",
 		"x": 33707,
 		"y": 32488,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33708,
-		"y": 31937,
 		"z": 7
 	},
 	{
@@ -16605,7 +16612,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "down",
 		"x": 33484,
 		"y": 31435,
 		"z": 8
@@ -20308,7 +20315,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "up",
 		"x": 33481,
 		"y": 31452,
 		"z": 9
