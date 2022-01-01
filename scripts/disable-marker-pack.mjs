@@ -36,7 +36,8 @@ const currentMarkers = readJSON('../data/markers.json');
 
 const result = currentMarkers.filter(marker => {
 	const id = hash(marker);
-	return !hashes.has(id);
+	const needsRemoval = hashes.has(id);
+	return !needsRemoval;
 });
 
 writeJSON('../data/markers.json', result);
