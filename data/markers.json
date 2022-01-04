@@ -1402,6 +1402,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32999,
+		"y": 32704,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33010,
+		"y": 32726,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33021,
 		"y": 31536,
 		"z": 4
@@ -2958,6 +2972,13 @@
 		"icon": "down",
 		"x": 32000,
 		"y": 31566,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32012,
+		"y": 31252,
 		"z": 6
 	},
 	{
@@ -13932,6 +13953,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32228,
+		"y": 31016,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32233,
 		"y": 32774,
 		"z": 8
@@ -15701,6 +15729,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33072,
+		"y": 32760,
+		"z": 8
+	},
+	{
 		"description": "Towards Razachai",
 		"icon": "red down",
 		"x": 33073,
@@ -15719,6 +15754,13 @@
 		"icon": "down",
 		"x": 33076,
 		"y": 32424,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33076,
+		"y": 32755,
 		"z": 8
 	},
 	{
@@ -19516,6 +19558,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33076,
+		"y": 32755,
+		"z": 9
+	},
+	{
 		"description": "Snake’s mouth (small topaz)",
 		"icon": "star",
 		"x": 33077,
@@ -19569,6 +19618,13 @@
 		"icon": "crossmark",
 		"x": 33095,
 		"y": 32243,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33096,
+		"y": 32749,
 		"z": 9
 	},
 	{
@@ -22876,6 +22932,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33052,
+		"y": 32775,
+		"z": 10
+	},
+	{
 		"description": "Draptor (spawn location)",
 		"icon": "star",
 		"x": 33055,
@@ -23013,6 +23076,13 @@
 		"icon": "up",
 		"x": 33093,
 		"y": 32090,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33096,
+		"y": 32749,
 		"z": 10
 	},
 	{
@@ -25428,6 +25498,13 @@
 		"icon": "down",
 		"x": 33050,
 		"y": 31080,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33052,
+		"y": 32775,
 		"z": 11
 	},
 	{
