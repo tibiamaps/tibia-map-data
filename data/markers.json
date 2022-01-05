@@ -17080,6 +17080,13 @@
 		"z": 8
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33701,
+		"y": 31797,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33702,
@@ -29233,7 +29240,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red right",
 		"x": 33399,
 		"y": 31802,
 		"z": 13
@@ -30584,9 +30591,30 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red left",
 		"x": 33400,
 		"y": 31802,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33407,
+		"y": 31787,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33411,
+		"y": 31823,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33417,
+		"y": 31813,
 		"z": 14
 	},
 	{
@@ -32207,6 +32235,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33420,
+		"y": 31826,
+		"z": 15
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 33423,
@@ -32225,6 +32260,13 @@
 		"icon": "up",
 		"x": 33425,
 		"y": 31733,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33426,
+		"y": 31796,
 		"z": 15
 	},
 	{
@@ -32253,13 +32295,6 @@
 		"icon": "red up",
 		"x": 33440,
 		"y": 31651,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33442,
-		"y": 31741,
 		"z": 15
 	},
 	{
@@ -32316,6 +32351,20 @@
 		"icon": "star",
 		"x": 33460,
 		"y": 32267,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33461,
+		"y": 31735,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33465,
+		"y": 31797,
 		"z": 15
 	},
 	{
