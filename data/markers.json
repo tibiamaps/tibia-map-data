@@ -10285,13 +10285,6 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33244,
-		"y": 31240,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
 		"x": 33247,
 		"y": 31163,
 		"z": 7
@@ -20234,6 +20227,13 @@
 		"icon": "up",
 		"x": 33358,
 		"y": 31635,
+		"z": 9
+	},
+	{
+		"description": "Mad Mage (spawn location)",
+		"icon": "star",
+		"x": 33358,
+		"y": 31852,
 		"z": 9
 	},
 	{
