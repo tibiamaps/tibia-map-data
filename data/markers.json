@@ -26208,6 +26208,13 @@
 		"z": 11
 	},
 	{
+		"description": "Baby seal",
+		"icon": "crossmark",
+		"x": 33493,
+		"y": 31065,
+		"z": 11
+	},
+	{
 		"description": "Deepling tyrant",
 		"icon": "star",
 		"x": 33496,
@@ -26236,6 +26243,13 @@
 		"z": 11
 	},
 	{
+		"description": "Baby seal",
+		"icon": "crossmark",
+		"x": 33503,
+		"y": 31045,
+		"z": 11
+	},
+	{
 		"description": "Anchor",
 		"icon": "flag",
 		"x": 33504,
@@ -26254,6 +26268,13 @@
 		"icon": "star",
 		"x": 33507,
 		"y": 31256,
+		"z": 11
+	},
+	{
+		"description": "Baby seal",
+		"icon": "crossmark",
+		"x": 33509,
+		"y": 31055,
 		"z": 11
 	},
 	{
@@ -27881,6 +27902,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33463,
+		"y": 30999,
+		"z": 12
+	},
+	{
 		"description": "Mutated glooth (pink)",
 		"icon": "?",
 		"x": 33471,
@@ -27899,6 +27927,13 @@
 		"icon": "?",
 		"x": 33505,
 		"y": 31896,
+		"z": 12
+	},
+	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33506,
+		"y": 31048,
 		"z": 12
 	},
 	{
@@ -27931,6 +27966,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33523,
+		"y": 31062,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33525,
 		"y": 32038,
@@ -27948,6 +27990,13 @@
 		"icon": "?",
 		"x": 33533,
 		"y": 31902,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33547,
+		"y": 31058,
 		"z": 12
 	},
 	{
