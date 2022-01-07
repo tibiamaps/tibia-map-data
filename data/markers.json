@@ -16800,6 +16800,13 @@
 		"z": 8
 	},
 	{
+		"description": "Picture album",
+		"icon": "star",
+		"x": 33539,
+		"y": 31027,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33544,
@@ -16811,6 +16818,13 @@
 		"icon": "down",
 		"x": 33546,
 		"y": 31625,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33547,
+		"y": 30998,
 		"z": 8
 	},
 	{
@@ -16870,6 +16884,13 @@
 		"z": 8
 	},
 	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33566,
+		"y": 31029,
+		"z": 8
+	},
+	{
 		"description": "Unaz the Mean",
 		"icon": "sword",
 		"x": 33566,
@@ -16881,6 +16902,13 @@
 		"icon": "sword",
 		"x": 33566,
 		"y": 31478,
+		"z": 8
+	},
+	{
+		"description": "Towards bosses",
+		"icon": "sword",
+		"x": 33569,
+		"y": 31034,
 		"z": 8
 	},
 	{
@@ -20392,6 +20420,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33465,
+		"y": 31039,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33467,
 		"y": 32797,
@@ -20402,6 +20437,13 @@
 		"icon": "up",
 		"x": 33481,
 		"y": 31452,
+		"z": 9
+	},
+	{
+		"description": "Hoe",
+		"icon": "star",
+		"x": 33491,
+		"y": 31005,
 		"z": 9
 	},
 	{
@@ -20437,6 +20479,13 @@
 		"icon": "up",
 		"x": 33523,
 		"y": 31606,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33526,
+		"y": 31014,
 		"z": 9
 	},
 	{
@@ -23604,6 +23653,20 @@
 		"z": 10
 	},
 	{
+		"description": "Valve",
+		"icon": "star",
+		"x": 33462,
+		"y": 31039,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33464,
+		"y": 31054,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33465,
@@ -23618,10 +23681,31 @@
 		"z": 10
 	},
 	{
+		"description": "Glass tube",
+		"icon": "star",
+		"x": 33477,
+		"y": 31002,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33481,
 		"y": 31255,
+		"z": 10
+	},
+	{
+		"description": "Copper valve",
+		"icon": "star",
+		"x": 33483,
+		"y": 31045,
+		"z": 10
+	},
+	{
+		"description": "Calibrated indicator gauge",
+		"icon": "star",
+		"x": 33489,
+		"y": 31033,
 		"z": 10
 	},
 	{
@@ -23695,6 +23779,13 @@
 		"z": 10
 	},
 	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33515,
+		"y": 30994,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33526,
@@ -23765,6 +23856,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33570,
+		"y": 30993,
+		"z": 10
+	},
+	{
 		"description": "The Pale Worm",
 		"icon": "sword",
 		"x": 33570,
@@ -23783,6 +23881,13 @@
 		"icon": "checkmark",
 		"x": 33571,
 		"y": 31990,
+		"z": 10
+	},
+	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33578,
+		"y": 31009,
 		"z": 10
 	},
 	{
@@ -26047,6 +26152,13 @@
 		"z": 11
 	},
 	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33471,
+		"y": 31044,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33471,
@@ -26075,10 +26187,24 @@
 		"z": 11
 	},
 	{
+		"description": "Flask with paint",
+		"icon": "star",
+		"x": 33488,
+		"y": 31044,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33489,
 		"y": 32806,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33490,
+		"y": 31012,
 		"z": 11
 	},
 	{
@@ -26180,10 +26306,31 @@
 		"z": 11
 	},
 	{
+		"description": "Black skull",
+		"icon": "star",
+		"x": 33552,
+		"y": 31040,
+		"z": 11
+	},
+	{
 		"description": "Jaul",
 		"icon": "star",
 		"x": 33558,
 		"y": 31282,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33564,
+		"y": 31000,
+		"z": 11
+	},
+	{
+		"description": "Bridal wrath",
+		"icon": "star",
+		"x": 33564,
+		"y": 31033,
 		"z": 11
 	},
 	{
