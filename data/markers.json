@@ -6839,6 +6839,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards time machine",
+		"icon": "down",
+		"x": 32427,
+		"y": 32170,
+		"z": 7
+	},
+	{
 		"description": "To the druid trainer",
 		"icon": "up",
 		"x": 32427,
@@ -16611,6 +16618,13 @@
 		"z": 8
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33453,
+		"y": 31029,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33453,
@@ -16727,6 +16741,13 @@
 		"icon": "up",
 		"x": 33514,
 		"y": 31323,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33515,
+		"y": 31043,
 		"z": 8
 	},
 	{
