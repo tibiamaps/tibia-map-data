@@ -27987,7 +27987,7 @@
 	},
 	{
 		"description": "Orange skull",
-		"icon": "star",
+		"icon": "skull",
 		"x": 33408,
 		"y": 31035,
 		"z": 12
@@ -28008,7 +28008,7 @@
 	},
 	{
 		"description": "White skull",
-		"icon": "star",
+		"icon": "skull",
 		"x": 33419,
 		"y": 31056,
 		"z": 12
@@ -28022,7 +28022,7 @@
 	},
 	{
 		"description": "Yellow skull",
-		"icon": "star",
+		"icon": "skull",
 		"x": 33435,
 		"y": 31053,
 		"z": 12
@@ -28043,7 +28043,7 @@
 	},
 	{
 		"description": "Red skull",
-		"icon": "star",
+		"icon": "skull",
 		"x": 33459,
 		"y": 31064,
 		"z": 12
@@ -28064,7 +28064,7 @@
 	},
 	{
 		"description": "Green skull",
-		"icon": "star",
+		"icon": "skull",
 		"x": 33477,
 		"y": 31037,
 		"z": 12
