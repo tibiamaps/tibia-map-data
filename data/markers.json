@@ -28,6 +28,13 @@
 		"z": 0
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32618,
+		"y": 31919,
+		"z": 0
+	},
+	{
 		"description": "Carpet",
 		"icon": "flag",
 		"x": 33957,
@@ -382,6 +389,20 @@
 		"icon": "down",
 		"x": 32437,
 		"y": 32776,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32598,
+		"y": 31912,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32619,
+		"y": 31919,
 		"z": 2
 	},
 	{
@@ -16723,8 +16744,8 @@
 		"z": 8
 	},
 	{
-		"description": "Shortcut",
-		"icon": "flag",
+		"description": "Shortcut to Lord Retro",
+		"icon": "sword",
 		"x": 33495,
 		"y": 31018,
 		"z": 8
@@ -20475,6 +20496,13 @@
 		"z": 9
 	},
 	{
+		"description": "Tibia Coin",
+		"icon": "star",
+		"x": 33474,
+		"y": 31011,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33481,
@@ -20483,7 +20511,7 @@
 	},
 	{
 		"description": "Hoe",
-		"icon": "star",
+		"icon": "spear",
 		"x": 33491,
 		"y": 31005,
 		"z": 9
@@ -30983,7 +31011,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "!",
 		"x": 33380,
 		"y": 31051,
 		"z": 14
@@ -32617,6 +32645,13 @@
 		"icon": "star",
 		"x": 33325,
 		"y": 32108,
+		"z": 15
+	},
+	{
+		"description": "MUD",
+		"icon": "?",
+		"x": 33328,
+		"y": 30988,
 		"z": 15
 	},
 	{
