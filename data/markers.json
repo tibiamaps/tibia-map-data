@@ -21,6 +21,13 @@
 		"z": 0
 	},
 	{
+		"description": "Paint picture (Colossus Fortress)",
+		"icon": "!",
+		"x": 32589,
+		"y": 31916,
+		"z": 0
+	},
+	{
 		"description": "Carpet",
 		"icon": "flag",
 		"x": 33957,
@@ -389,6 +396,13 @@
 		"icon": "down",
 		"x": 32947,
 		"y": 32673,
+		"z": 2
+	},
+	{
+		"description": "Paint picture (Venore’s Golden Statue)",
+		"icon": "!",
+		"x": 32954,
+		"y": 32037,
 		"z": 2
 	},
 	{
@@ -6300,6 +6314,13 @@
 		"z": 7
 	},
 	{
+		"description": "Paint picture (Halls of Hope)",
+		"icon": "!",
+		"x": 32338,
+		"y": 32091,
+		"z": 7
+	},
+	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32339,
@@ -7760,6 +7781,13 @@
 		"icon": "down",
 		"x": 32637,
 		"y": 32266,
+		"z": 7
+	},
+	{
+		"description": "Paint picture (house in Ab'dendriel)",
+		"icon": "!",
+		"x": 32640,
+		"y": 31696,
 		"z": 7
 	},
 	{
@@ -16695,6 +16723,13 @@
 		"z": 8
 	},
 	{
+		"description": "Shortcut",
+		"icon": "flag",
+		"x": 33495,
+		"y": 31018,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33503,
@@ -16769,6 +16804,13 @@
 		"icon": "down",
 		"x": 33523,
 		"y": 31606,
+		"z": 8
+	},
+	{
+		"description": "Palette and brushes",
+		"icon": "star",
+		"x": 33525,
+		"y": 31036,
 		"z": 8
 	},
 	{
@@ -20507,6 +20549,13 @@
 		"icon": "red left",
 		"x": 33540,
 		"y": 31411,
+		"z": 9
+	},
+	{
+		"description": "Paint picture",
+		"icon": "!",
+		"x": 33546,
+		"y": 30992,
 		"z": 9
 	},
 	{
@@ -26075,6 +26124,27 @@
 		"z": 11
 	},
 	{
+		"description": "Paint picture (Calcanea)",
+		"icon": "!",
+		"x": 33405,
+		"y": 31032,
+		"z": 11
+	},
+	{
+		"description": "Old health potion",
+		"icon": "star",
+		"x": 33406,
+		"y": 31021,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33413,
+		"y": 31024,
+		"z": 11
+	},
+	{
 		"description": "Reward",
 		"icon": "lock",
 		"x": 33414,
@@ -26338,6 +26408,13 @@
 		"icon": "star",
 		"x": 33558,
 		"y": 31282,
+		"z": 11
+	},
+	{
+		"description": "Wind-up loco",
+		"icon": "star",
+		"x": 33559,
+		"y": 31004,
 		"z": 11
 	},
 	{
@@ -27881,10 +27958,45 @@
 		"z": 12
 	},
 	{
+		"description": "Orange skull",
+		"icon": "star",
+		"x": 33408,
+		"y": 31035,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33410,
+		"y": 31029,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33418,
 		"y": 32316,
+		"z": 12
+	},
+	{
+		"description": "White skull",
+		"icon": "star",
+		"x": 33419,
+		"y": 31056,
+		"z": 12
+	},
+	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33432,
+		"y": 31064,
+		"z": 12
+	},
+	{
+		"description": "Yellow skull",
+		"icon": "star",
+		"x": 33435,
+		"y": 31053,
 		"z": 12
 	},
 	{
@@ -27902,6 +28014,13 @@
 		"z": 12
 	},
 	{
+		"description": "Red skull",
+		"icon": "star",
+		"x": 33459,
+		"y": 31064,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33463,
@@ -27913,6 +28032,13 @@
 		"icon": "?",
 		"x": 33471,
 		"y": 31996,
+		"z": 12
+	},
+	{
+		"description": "Green skull",
+		"icon": "star",
+		"x": 33477,
+		"y": 31037,
 		"z": 12
 	},
 	{
@@ -29505,10 +29631,24 @@
 		"z": 13
 	},
 	{
+		"description": "Commemorative platinum coin",
+		"icon": "star",
+		"x": 33434,
+		"y": 31065,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33442,
 		"y": 32755,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33448,
+		"y": 31006,
 		"z": 13
 	},
 	{
@@ -29533,6 +29673,13 @@
 		"z": 13
 	},
 	{
+		"description": "Blank paper",
+		"icon": "star",
+		"x": 33458,
+		"y": 31014,
+		"z": 13
+	},
+	{
 		"description": "Deepling master librarian",
 		"icon": "star",
 		"x": 33458,
@@ -29544,6 +29691,13 @@
 		"icon": "up",
 		"x": 33468,
 		"y": 31188,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33476,
+		"y": 31067,
 		"z": 13
 	},
 	{
@@ -30828,6 +30982,20 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33380,
+		"y": 31051,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33384,
+		"y": 31064,
+		"z": 14
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33400,
@@ -30846,6 +31014,13 @@
 		"icon": "down",
 		"x": 33411,
 		"y": 31823,
+		"z": 14
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33416,
+		"y": 31008,
 		"z": 14
 	},
 	{
@@ -30923,6 +31098,13 @@
 		"icon": "red down",
 		"x": 33447,
 		"y": 31646,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33449,
+		"y": 31015,
 		"z": 14
 	},
 	{
