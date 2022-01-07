@@ -28924,6 +28924,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33027,
+		"y": 31083,
+		"z": 13
+	},
+	{
 		"description": "Rusted key fragment (handle)",
 		"icon": "star",
 		"x": 33031,
@@ -28942,6 +28949,13 @@
 		"icon": "up",
 		"x": 33037,
 		"y": 32009,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33038,
+		"y": 31097,
 		"z": 13
 	},
 	{
@@ -30279,6 +30293,13 @@
 		"icon": "up",
 		"x": 33031,
 		"y": 32461,
+		"z": 14
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33037,
+		"y": 31101,
 		"z": 14
 	},
 	{
@@ -31864,10 +31885,24 @@
 		"z": 15
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33036,
+		"y": 31119,
+		"z": 15
+	},
+	{
 		"description": "Source of Corrumption room, including 2 upper floors",
 		"icon": "sword",
 		"x": 33039,
 		"y": 31923,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33041,
+		"y": 31084,
 		"z": 15
 	},
 	{
@@ -31931,6 +31966,20 @@
 		"icon": "flag",
 		"x": 33076,
 		"y": 32625,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33093,
+		"y": 31082,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33094,
+		"y": 31124,
 		"z": 15
 	},
 	{
