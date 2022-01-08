@@ -16948,7 +16948,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33566,
 		"y": 31029,
 		"z": 8
@@ -23730,13 +23730,6 @@
 		"z": 10
 	},
 	{
-		"description": "Valve",
-		"icon": "star",
-		"x": 33462,
-		"y": 31039,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 33464,
@@ -23857,7 +23850,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33515,
 		"y": 30994,
 		"z": 10
@@ -23962,7 +23955,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33578,
 		"y": 31009,
 		"z": 10
@@ -26251,7 +26244,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33471,
 		"y": 31044,
 		"z": 11
@@ -28015,7 +28008,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33432,
 		"y": 31064,
 		"z": 12
@@ -28085,7 +28078,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33506,
 		"y": 31048,
 		"z": 12
@@ -29702,7 +29695,7 @@
 	},
 	{
 		"description": "Blank paper",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33458,
 		"y": 31014,
 		"z": 13
@@ -31045,7 +31038,7 @@
 		"z": 14
 	},
 	{
-		"description": "Exit",
+		"description": "Shortcut to exit",
 		"icon": "flag",
 		"x": 33416,
 		"y": 31008,
@@ -31129,8 +31122,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Lord Retro",
+		"icon": "sword",
 		"x": 33449,
 		"y": 31015,
 		"z": 14
