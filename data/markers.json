@@ -20601,6 +20601,13 @@
 		"z": 9
 	},
 	{
+		"description": "Blank paper",
+		"icon": "checkmark",
+		"x": 33548,
+		"y": 31051,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33549,
@@ -23755,13 +23762,6 @@
 		"icon": "red up",
 		"x": 33466,
 		"y": 31895,
-		"z": 10
-	},
-	{
-		"description": "Copper valve",
-		"icon": "star",
-		"x": 33474,
-		"y": 31046,
 		"z": 10
 	},
 	{
