@@ -20475,6 +20475,13 @@
 		"z": 9
 	},
 	{
+		"description": "Tibia Coin",
+		"icon": "star",
+		"x": 33457,
+		"y": 31031,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33464,
@@ -20498,8 +20505,29 @@
 	{
 		"description": "Tibia Coin",
 		"icon": "star",
+		"x": 33469,
+		"y": 31046,
+		"z": 9
+	},
+	{
+		"description": "Tibia Coin",
+		"icon": "star",
+		"x": 33470,
+		"y": 30995,
+		"z": 9
+	},
+	{
+		"description": "Tibia Coin",
+		"icon": "star",
 		"x": 33474,
 		"y": 31011,
+		"z": 9
+	},
+	{
+		"description": "Tibia Coin",
+		"icon": "star",
+		"x": 33480,
+		"y": 30999,
 		"z": 9
 	},
 	{
@@ -20521,6 +20549,13 @@
 		"icon": "down",
 		"x": 33491,
 		"y": 31953,
+		"z": 9
+	},
+	{
+		"description": "Tibia Coin",
+		"icon": "star",
+		"x": 33496,
+		"y": 31001,
 		"z": 9
 	},
 	{
@@ -23762,6 +23797,13 @@
 		"icon": "red up",
 		"x": 33466,
 		"y": 31895,
+		"z": 10
+	},
+	{
+		"description": "Copper valve",
+		"icon": "star",
+		"x": 33475,
+		"y": 31046,
 		"z": 10
 	},
 	{
