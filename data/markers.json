@@ -26180,10 +26180,31 @@
 		"z": 12
 	},
 	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32050,
+		"y": 32513,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32054,
 		"y": 32479,
+		"z": 12
+	},
+	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32055,
+		"y": 32511,
+		"z": 12
+	},
+	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32056,
+		"y": 32497,
 		"z": 12
 	},
 	{
@@ -26201,6 +26222,13 @@
 		"z": 12
 	},
 	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32061,
+		"y": 32494,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32065,
@@ -26212,6 +26240,13 @@
 		"icon": "red right",
 		"x": 32078,
 		"y": 31363,
+		"z": 12
+	},
+	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32079,
+		"y": 32499,
 		"z": 12
 	},
 	{
@@ -26243,10 +26278,24 @@
 		"z": 12
 	},
 	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32094,
+		"y": 32517,
+		"z": 12
+	},
+	{
 		"description": "Demon spawn",
 		"icon": "!",
 		"x": 32095,
 		"y": 31100,
+		"z": 12
+	},
+	{
+		"description": "Haunted dragon (exact spawn tile)",
+		"icon": "sword",
+		"x": 32097,
+		"y": 32516,
 		"z": 12
 	},
 	{
