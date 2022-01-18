@@ -25795,6 +25795,13 @@
 		"z": 11
 	},
 	{
+		"description": "Skinning (Obsidian Knife)",
+		"icon": "spear",
+		"x": 33464,
+		"y": 31027,
+		"z": 11
+	},
+	{
 		"description": "Blank paper",
 		"icon": "checkmark",
 		"x": 33471,
@@ -25862,6 +25869,13 @@
 		"icon": "star",
 		"x": 33496,
 		"y": 31298,
+		"z": 11
+	},
+	{
+		"description": "Skinning (Blessed Wooden Stake)",
+		"icon": "spear",
+		"x": 33497,
+		"y": 31011,
 		"z": 11
 	},
 	{
