@@ -20118,13 +20118,6 @@
 		"z": 9
 	},
 	{
-		"description": "Levitate spot (down)",
-		"icon": "red up",
-		"x": 33541,
-		"y": 31018,
-		"z": 9
-	},
-	{
 		"description": "Paint picture",
 		"icon": "!",
 		"x": 33546,
@@ -23440,13 +23433,6 @@
 		"icon": "up",
 		"x": 33537,
 		"y": 31975,
-		"z": 10
-	},
-	{
-		"description": "Levitate spot (up)",
-		"icon": "red up",
-		"x": 33541,
-		"y": 31017,
 		"z": 10
 	},
 	{
