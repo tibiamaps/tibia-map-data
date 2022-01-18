@@ -4088,6 +4088,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate",
+		"icon": "red down",
+		"x": 33155,
+		"y": 32542,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33164,
@@ -9314,6 +9321,13 @@
 		"icon": "red down",
 		"x": 33153,
 		"y": 32686,
+		"z": 7
+	},
+	{
+		"description": "Levitate",
+		"icon": "red up",
+		"x": 33155,
+		"y": 32541,
 		"z": 7
 	},
 	{
@@ -25872,7 +25886,7 @@
 		"z": 11
 	},
 	{
-		"description": "Use blessed Wooden Stake",
+		"description": "Use blessed wooden stake",
 		"icon": "spear",
 		"x": 33497,
 		"y": 31011,
