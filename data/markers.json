@@ -16822,9 +16822,23 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33874,
+		"y": 31480,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33875,
 		"y": 31477,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33876,
+		"y": 31497,
 		"z": 8
 	},
 	{
@@ -16856,10 +16870,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 33889,
+		"y": 31480,
+		"z": 8
+	},
+	{
 		"description": "Exit to Goshnar’s Taint",
 		"icon": "flag",
 		"x": 33891,
 		"y": 31020,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33905,
+		"y": 31511,
 		"z": 8
 	},
 	{
@@ -16874,6 +16902,20 @@
 		"icon": "up",
 		"x": 33925,
 		"y": 31466,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33926,
+		"y": 31526,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33937,
+		"y": 31480,
 		"z": 8
 	},
 	{
@@ -16892,9 +16934,23 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33954,
+		"y": 31496,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33955,
 		"y": 31467,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33955,
+		"y": 31526,
 		"z": 8
 	},
 	{
