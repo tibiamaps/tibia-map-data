@@ -5075,6 +5075,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Quara Hell",
+		"icon": "down",
+		"x": 32039,
+		"y": 32721,
+		"z": 7
+	},
+	{
 		"description": "Rat dungeon",
 		"icon": "down",
 		"x": 32041,
@@ -25656,6 +25663,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33284,
+		"y": 32740,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33293,
 		"y": 32291,
@@ -25687,6 +25701,13 @@
 		"icon": "up",
 		"x": 33352,
 		"y": 32094,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33354,
+		"y": 32741,
 		"z": 11
 	},
 	{
@@ -27500,6 +27521,13 @@
 		"icon": "down",
 		"x": 33330,
 		"y": 31371,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33354,
+		"y": 32741,
 		"z": 12
 	},
 	{
