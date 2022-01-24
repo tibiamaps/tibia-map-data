@@ -3150,6 +3150,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32159,
+		"y": 31354,
+		"z": 6
+	},
+	{
 		"description": "To glowing vortex: breach broods, dread intruders, sparkions",
 		"icon": "red down",
 		"x": 32163,
@@ -3453,8 +3460,29 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32592,
+		"y": 31438,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32599,
+		"y": 31440,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32602,
 		"y": 31923,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32604,
+		"y": 31410,
 		"z": 6
 	},
 	{
@@ -5173,6 +5201,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32074,
+		"y": 31192,
+		"z": 7
+	},
+	{
 		"description": "NPC Atrad (assassin star vendor)",
 		"icon": "down",
 		"x": 32075,
@@ -5457,6 +5492,13 @@
 		"icon": "red down",
 		"x": 32158,
 		"y": 32782,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32159,
+		"y": 31354,
 		"z": 7
 	},
 	{
@@ -6972,10 +7014,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32560,
+		"y": 31441,
+		"z": 7
+	},
+	{
 		"description": "Water elementals (level 50+)",
 		"icon": "red down",
 		"x": 32560,
 		"y": 32860,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32563,
+		"y": 31455,
 		"z": 7
 	},
 	{
@@ -6990,6 +7046,13 @@
 		"icon": "mouth",
 		"x": 32567,
 		"y": 32021,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32570,
+		"y": 31458,
 		"z": 7
 	},
 	{
@@ -7050,6 +7113,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32592,
+		"y": 31438,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32594,
 		"y": 32067,
@@ -7077,6 +7147,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32599,
+		"y": 31440,
+		"z": 7
+	},
+	{
 		"description": "To temple",
 		"icon": "red down",
 		"x": 32599,
@@ -7095,6 +7172,13 @@
 		"icon": "flag",
 		"x": 32601,
 		"y": 31875,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32604,
+		"y": 31410,
 		"z": 7
 	},
 	{
@@ -7448,6 +7532,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32676,
+		"y": 31242,
+		"z": 7
+	},
+	{
 		"description": "Swamp trolls",
 		"icon": "down",
 		"x": 32678,
@@ -7690,6 +7781,13 @@
 		"icon": "checkmark",
 		"x": 32725,
 		"y": 31055,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32725,
+		"y": 31200,
 		"z": 7
 	},
 	{
@@ -13174,6 +13272,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32075,
+		"y": 31192,
+		"z": 8
+	},
+	{
 		"description": "Frozen ursagrodon",
 		"icon": "flag",
 		"x": 32085,
@@ -13199,6 +13304,13 @@
 		"icon": "up",
 		"x": 32088,
 		"y": 31018,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32096,
+		"y": 31371,
 		"z": 8
 	},
 	{
@@ -16240,6 +16352,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33505,
+		"y": 31888,
+		"z": 8
+	},
+	{
 		"description": "Fairy",
 		"icon": "star",
 		"x": 33505,
@@ -16293,6 +16412,13 @@
 		"icon": "!",
 		"x": 33517,
 		"y": 31306,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33517,
+		"y": 31906,
 		"z": 8
 	},
 	{
@@ -22591,6 +22717,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33020,
+		"y": 32870,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33023,
 		"y": 32018,
 		"z": 10
@@ -22607,6 +22740,13 @@
 		"icon": "!",
 		"x": 33024,
 		"y": 32311,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33031,
+		"y": 32869,
 		"z": 10
 	},
 	{
@@ -25249,10 +25389,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33015,
+		"y": 32869,
+		"z": 11
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 33019,
 		"y": 31605,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33020,
+		"y": 32870,
 		"z": 11
 	},
 	{
@@ -26502,6 +26656,13 @@
 		"z": 12
 	},
 	{
+		"description": "Teleport",
+		"icon": "flag",
+		"x": 32238,
+		"y": 32623,
+		"z": 12
+	},
+	{
 		"description": "Demon spawn",
 		"icon": "!",
 		"x": 32241,
@@ -27176,6 +27337,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33015,
+		"y": 32869,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33031,
 		"y": 32451,
 		"z": 12
@@ -27276,6 +27444,13 @@
 		"icon": "up",
 		"x": 33090,
 		"y": 32279,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33092,
+		"y": 32813,
 		"z": 12
 	},
 	{
@@ -29029,6 +29204,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33093,
+		"y": 32823,
+		"z": 13
+	},
+	{
 		"description": "Parchment room quest (hidden)",
 		"icon": "red down",
 		"x": 33094,
@@ -29047,6 +29229,13 @@
 		"icon": "up",
 		"x": 33126,
 		"y": 32683,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33126,
+		"y": 32930,
 		"z": 13
 	},
 	{
@@ -30370,6 +30559,13 @@
 		"icon": "sword",
 		"x": 33101,
 		"y": 31117,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33126,
+		"y": 32930,
 		"z": 14
 	},
 	{
