@@ -23751,13 +23751,6 @@
 		"z": 10
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "up",
-		"x": 33537,
-		"y": 31975,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33544,
@@ -23773,8 +23766,8 @@
 	},
 	{
 		"description": "Abandoned sewers (demons & grim reapers)",
-		"icon": "!",
-		"x": 33549,
+		"icon": "red left",
+		"x": 33550,
 		"y": 31974,
 		"z": 10
 	},
@@ -27847,6 +27840,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33237,
+		"y": 32848,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33252,
 		"y": 32848,
@@ -29565,6 +29565,13 @@
 		"icon": "up",
 		"x": 33296,
 		"y": 31948,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33298,
+		"y": 32742,
 		"z": 13
 	},
 	{
