@@ -3907,6 +3907,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33052,
+		"y": 32580,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33060,
 		"y": 31327,
@@ -6923,6 +6930,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32531,
+		"y": 31628,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 32531,
@@ -8369,6 +8383,13 @@
 		"icon": "star",
 		"x": 32894,
 		"y": 31059,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32895,
+		"y": 31772,
 		"z": 7
 	},
 	{
@@ -13721,6 +13742,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32347,
+		"y": 32310,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32349,
+		"y": 31836,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32351,
 		"y": 31654,
@@ -13745,6 +13780,13 @@
 		"icon": "up",
 		"x": 32357,
 		"y": 31087,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32360,
+		"y": 32371,
 		"z": 8
 	},
 	{
@@ -14123,6 +14165,13 @@
 		"icon": "up",
 		"x": 32527,
 		"y": 32954,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32532,
+		"y": 31913,
 		"z": 8
 	},
 	{
@@ -17754,8 +17803,29 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32334,
+		"y": 31841,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32346,
+		"y": 32360,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32347,
 		"y": 32907,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32349,
+		"y": 31836,
 		"z": 9
 	},
 	{
@@ -18188,6 +18258,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32556,
+		"y": 31818,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32556,
+		"y": 31901,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32557,
 		"y": 32646,
 		"z": 9
@@ -18218,6 +18302,13 @@
 		"icon": "red down",
 		"x": 32566,
 		"y": 31338,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32569,
+		"y": 31844,
 		"z": 9
 	},
 	{
@@ -18827,6 +18918,13 @@
 		"icon": "lock",
 		"x": 32813,
 		"y": 32813,
+		"z": 9
+	},
+	{
+		"description": "Teleport to exit (sacrifice a white mushroom)",
+		"icon": "flag",
+		"x": 32815,
+		"y": 31599,
 		"z": 9
 	},
 	{
@@ -21205,6 +21303,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32334,
+		"y": 31841,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32347,
 		"y": 32907,
 		"z": 10
@@ -21228,6 +21333,13 @@
 		"icon": "down",
 		"x": 32357,
 		"y": 32232,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32362,
+		"y": 31880,
 		"z": 10
 	},
 	{
@@ -21553,6 +21665,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32475,
+		"y": 31829,
+		"z": 10
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32475,
@@ -21673,6 +21792,27 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32549,
+		"y": 31861,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32556,
+		"y": 31818,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32556,
+		"y": 31901,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32558,
 		"y": 31337,
@@ -21683,6 +21823,13 @@
 		"icon": "red down",
 		"x": 32559,
 		"y": 31859,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32569,
+		"y": 31844,
 		"z": 10
 	},
 	{
@@ -21945,7 +22092,7 @@
 		"z": 10
 	},
 	{
-		"description": "Towards Hellgate",
+		"description": "Towards Hellgate (key 3012)",
 		"icon": "red up",
 		"x": 32676,
 		"y": 31672,
@@ -24334,6 +24481,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32362,
+		"y": 31880,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32370,
 		"y": 32905,
 		"z": 11
@@ -24455,6 +24609,13 @@
 		"icon": "red down",
 		"x": 32422,
 		"y": 31706,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32426,
+		"y": 31819,
 		"z": 11
 	},
 	{
@@ -24609,6 +24770,13 @@
 		"icon": "up",
 		"x": 32473,
 		"y": 32391,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32475,
+		"y": 31829,
 		"z": 11
 	},
 	{
@@ -26740,6 +26908,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32360,
+		"y": 31826,
+		"z": 12
+	},
+	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
 		"x": 32371,
@@ -26758,6 +26933,13 @@
 		"icon": "crossmark",
 		"x": 32395,
 		"y": 31608,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32398,
+		"y": 31808,
 		"z": 12
 	},
 	{
@@ -26786,6 +26968,20 @@
 		"icon": "red up",
 		"x": 32418,
 		"y": 31699,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32425,
+		"y": 31825,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32426,
+		"y": 31819,
 		"z": 12
 	},
 	{
@@ -28567,10 +28763,24 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32398,
+		"y": 31808,
+		"z": 13
+	},
+	{
 		"description": "Monks",
 		"icon": "skull",
 		"x": 32420,
 		"y": 31564,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32425,
+		"y": 31825,
 		"z": 13
 	},
 	{
@@ -28746,6 +28956,13 @@
 		"icon": "flag",
 		"x": 32616,
 		"y": 32529,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32659,
+		"y": 31638,
 		"z": 13
 	},
 	{
@@ -30223,6 +30440,13 @@
 		"icon": "red down",
 		"x": 32627,
 		"y": 31851,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32660,
+		"y": 31642,
 		"z": 14
 	},
 	{
@@ -31990,8 +32214,8 @@
 		"z": 15
 	},
 	{
-		"description": "Way out of Hellgate",
-		"icon": "up",
+		"description": "Levitate spot (way out of Hellgate)",
+		"icon": "red up",
 		"x": 32661,
 		"y": 31645,
 		"z": 15
