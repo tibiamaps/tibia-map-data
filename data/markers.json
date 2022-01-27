@@ -12525,8 +12525,8 @@
 	{
 		"description": "Bragrumol",
 		"icon": "red down",
-		"x": 33792,
-		"y": 31594,
+		"x": 33793,
+		"y": 31595,
 		"z": 7
 	},
 	{
@@ -31683,7 +31683,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red right",
 		"x": 33612,
 		"y": 32523,
 		"z": 14
@@ -31704,7 +31704,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red up",
 		"x": 33618,
 		"y": 32539,
 		"z": 14
@@ -33313,8 +33313,8 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 33613,
 		"y": 32523,
 		"z": 15
@@ -33338,6 +33338,13 @@
 		"icon": "checkmark",
 		"x": 33619,
 		"y": 32055,
+		"z": 15
+	},
+	{
+		"description": "To the south",
+		"icon": "red down",
+		"x": 33619,
+		"y": 32526,
 		"z": 15
 	},
 	{
