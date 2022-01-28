@@ -18677,6 +18677,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32673,
+		"y": 32918,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32677,
 		"y": 31132,
@@ -18743,6 +18750,13 @@
 		"icon": "up",
 		"x": 32691,
 		"y": 32589,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32691,
+		"y": 32892,
 		"z": 9
 	},
 	{
@@ -22212,6 +22226,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32673,
+		"y": 32918,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32674,
 		"y": 31132,
@@ -24479,6 +24500,13 @@
 		"z": 11
 	},
 	{
+		"description": "Teleport",
+		"icon": "flag",
+		"x": 32226,
+		"y": 32598,
+		"z": 11
+	},
+	{
 		"description": "Boss Realityquake - Svargrond",
 		"icon": "star",
 		"x": 32232,
@@ -26181,7 +26209,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 33363,
 		"y": 31702,
 		"z": 11
@@ -26202,9 +26230,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33379,
-		"y": 31701,
+		"y": 31700,
 		"z": 11
 	},
 	{
@@ -28071,14 +28099,14 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "up",
 		"x": 33364,
 		"y": 31636,
 		"z": 12
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33364,
 		"y": 31704,
 		"z": 12
@@ -29533,6 +29561,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33068,
+		"y": 31782,
+		"z": 13
+	},
+	{
 		"description": "Wyrms / elder wyrms",
 		"icon": "red down",
 		"x": 33070,
@@ -29586,6 +29621,13 @@
 		"icon": "red down",
 		"x": 33094,
 		"y": 31626,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33095,
+		"y": 31793,
 		"z": 13
 	},
 	{
@@ -29779,7 +29821,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33364,
 		"y": 31638,
 		"z": 13
