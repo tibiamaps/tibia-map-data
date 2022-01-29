@@ -8,9 +8,16 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "down",
+		"icon": "red right",
 		"x": 32087,
 		"y": 31185,
+		"z": 0
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32141,
+		"y": 31146,
 		"z": 0
 	},
 	{
@@ -78,7 +85,7 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "up",
+		"icon": "red left",
 		"x": 32088,
 		"y": 31185,
 		"z": 1
@@ -88,6 +95,27 @@
 		"icon": "red right",
 		"x": 32092,
 		"y": 31188,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32098,
+		"y": 31148,
+		"z": 1
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32122,
+		"y": 31156,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32141,
+		"y": 31146,
 		"z": 1
 	},
 	{
@@ -298,6 +326,13 @@
 		"icon": "red left",
 		"x": 32093,
 		"y": 31188,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32098,
+		"y": 31148,
 		"z": 2
 	},
 	{
@@ -3294,6 +3329,13 @@
 		"icon": "down",
 		"x": 32306,
 		"y": 32868,
+		"z": 6
+	},
+	{
+		"description": "The Frozen Trench",
+		"icon": "red down",
+		"x": 32365,
+		"y": 31372,
 		"z": 6
 	},
 	{
@@ -6358,6 +6400,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32363,
+		"y": 31354,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32365,
 		"y": 32484,
 		"z": 7
@@ -6878,6 +6927,13 @@
 		"icon": "red down",
 		"x": 32493,
 		"y": 32259,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32494,
+		"y": 31974,
 		"z": 7
 	},
 	{
@@ -18237,6 +18293,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32497,
+		"y": 31980,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32499,
 		"y": 33011,
 		"z": 9
@@ -18274,6 +18337,13 @@
 		"icon": "up",
 		"x": 32513,
 		"y": 31656,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32518,
+		"y": 31965,
 		"z": 9
 	},
 	{
@@ -21897,6 +21967,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32518,
+		"y": 31965,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32520,
 		"y": 31876,
@@ -21940,6 +22017,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32540,
+		"y": 31948,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32549,
 		"y": 31861,
 		"z": 10
@@ -21970,6 +22054,13 @@
 		"icon": "red down",
 		"x": 32559,
 		"y": 31859,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32564,
+		"y": 31992,
 		"z": 10
 	},
 	{
@@ -24641,6 +24732,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32367,
+		"y": 31374,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32370,
 		"y": 32905,
@@ -25008,6 +25106,13 @@
 		"icon": "flag",
 		"x": 32528,
 		"y": 32488,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32540,
+		"y": 31948,
 		"z": 11
 	},
 	{
