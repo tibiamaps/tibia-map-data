@@ -21119,6 +21119,13 @@
 		"z": 9
 	},
 	{
+		"description": "To safe spot",
+		"icon": "red up",
+		"x": 34010,
+		"y": 31020,
+		"z": 9
+	},
+	{
 		"description": "Exit to Goshnar’s Taint",
 		"icon": "flag",
 		"x": 34011,
@@ -24333,6 +24340,20 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33991,
+		"y": 31060,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34008,
+		"y": 31041,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 34011,
 		"y": 31019,
@@ -26772,6 +26793,27 @@
 		"icon": "crossmark",
 		"x": 34022,
 		"y": 31088,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34025,
+		"y": 30996,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34038,
+		"y": 31014,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 34043,
+		"y": 31061,
 		"z": 11
 	},
 	{
