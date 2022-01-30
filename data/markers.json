@@ -8542,6 +8542,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32924,
+		"y": 32148,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32925,
 		"y": 32677,
 		"z": 7
@@ -15198,6 +15205,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32919,
+		"y": 32142,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32924,
+		"y": 32148,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32934,
 		"y": 32216,
@@ -19215,10 +19236,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32879,
+		"y": 32181,
+		"z": 9
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 32881,
 		"y": 32438,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32883,
+		"y": 32066,
 		"z": 9
 	},
 	{
@@ -19254,6 +19289,13 @@
 		"icon": "down",
 		"x": 32909,
 		"y": 32570,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32919,
+		"y": 32142,
 		"z": 9
 	},
 	{
@@ -22827,10 +22869,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32879,
+		"y": 32181,
+		"z": 10
+	},
+	{
 		"description": "Heap of rubbish (painting of a girl)",
 		"icon": "star",
 		"x": 32883,
 		"y": 31686,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32883,
+		"y": 32066,
 		"z": 10
 	},
 	{
@@ -27455,6 +27511,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32550,
+		"y": 32186,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32553,
 		"y": 32446,
@@ -30723,6 +30786,13 @@
 		"z": 14
 	},
 	{
+		"description": "Towards Mintwallin",
+		"icon": "red left",
+		"x": 32507,
+		"y": 32160,
+		"z": 14
+	},
+	{
 		"description": "To exit (shortcut through bonelords)",
 		"icon": "down",
 		"x": 32511,
@@ -30746,7 +30816,7 @@
 	{
 		"description": "To exit",
 		"icon": "up",
-		"x": 32578,
+		"x": 32577,
 		"y": 32179,
 		"z": 14
 	},
@@ -33383,6 +33453,13 @@
 		"z": 15
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33544,
+		"y": 31637,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33545,
@@ -33709,6 +33786,13 @@
 		"icon": "checkmark",
 		"x": 33864,
 		"y": 32517,
+		"z": 15
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33882,
+		"y": 32130,
 		"z": 15
 	},
 	{
