@@ -27468,7 +27468,7 @@
 		"z": 12
 	},
 	{
-		"description": "Flying Book",
+		"description": "Flying book",
 		"icon": "checkmark",
 		"x": 32532,
 		"y": 32765,
@@ -27573,10 +27573,10 @@
 		"z": 12
 	},
 	{
-		"description": "Flying Book",
+		"description": "Flying book (exact spawn tile)",
 		"icon": "checkmark",
 		"x": 32640,
-		"y": 32678,
+		"y": 32675,
 		"z": 12
 	},
 	{
