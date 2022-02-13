@@ -13895,6 +13895,13 @@
 		"z": 8
 	},
 	{
+		"description": "Key 3520",
+		"icon": "red left",
+		"x": 32399,
+		"y": 31804,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32400,
@@ -21287,6 +21294,13 @@
 		"z": 10
 	},
 	{
+		"description": "Task boss: Bretzecutioner",
+		"icon": "!",
+		"x": 32003,
+		"y": 31189,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32003,
@@ -22365,14 +22379,14 @@
 		"z": 10
 	},
 	{
-		"description": "Grotto of the Lost",
+		"description": "Grotto of the Lost (a.k.a. Warzone 8)",
 		"icon": "flag",
 		"x": 32651,
 		"y": 31823,
 		"z": 10
 	},
 	{
-		"description": "Antrum of the Fallen",
+		"description": "Antrum of the Fallen (a.k.a. Warzone 7)",
 		"icon": "flag",
 		"x": 32653,
 		"y": 31816,
@@ -22407,7 +22421,7 @@
 		"z": 10
 	},
 	{
-		"description": "Dwelling of the Forgotten",
+		"description": "Dwelling of the Forgotten (a.k.a. Warzone 9)",
 		"icon": "flag",
 		"x": 32663,
 		"y": 31819,
@@ -29282,30 +29296,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 32516,
-		"y": 32444,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32520,
 		"y": 32422,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32526,
-		"y": 32468,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32541,
-		"y": 32432,
 		"z": 13
 	},
 	{
@@ -29327,20 +29320,6 @@
 		"icon": "down",
 		"x": 32577,
 		"y": 32179,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32577,
-		"y": 32423,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32577,
-		"y": 32466,
 		"z": 13
 	},
 	{
@@ -29390,13 +29369,6 @@
 		"icon": "red down",
 		"x": 32607,
 		"y": 31501,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32607,
-		"y": 32433,
 		"z": 13
 	},
 	{
