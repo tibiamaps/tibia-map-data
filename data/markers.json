@@ -18536,10 +18536,24 @@
 		"z": 9
 	},
 	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32583,
+		"y": 32482,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32583,
 		"y": 32654,
+		"z": 9
+	},
+	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32584,
+		"y": 32465,
 		"z": 9
 	},
 	{
@@ -18606,6 +18620,13 @@
 		"z": 9
 	},
 	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32610,
+		"y": 32523,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32610,
@@ -18652,6 +18673,13 @@
 		"icon": "up",
 		"x": 32616,
 		"y": 31700,
+		"z": 9
+	},
+	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32619,
+		"y": 32523,
 		"z": 9
 	},
 	{
@@ -18715,6 +18743,20 @@
 		"icon": "up",
 		"x": 32644,
 		"y": 31124,
+		"z": 9
+	},
+	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32645,
+		"y": 32465,
+		"z": 9
+	},
+	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 32647,
+		"y": 32483,
 		"z": 9
 	},
 	{
