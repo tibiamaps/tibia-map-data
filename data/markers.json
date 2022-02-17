@@ -27636,6 +27636,13 @@
 		"z": 12
 	},
 	{
+		"description": "Levitate Spot",
+		"icon": "red up",
+		"x": 32556,
+		"y": 32435,
+		"z": 12
+	},
+	{
 		"description": "NPC Talphion",
 		"icon": "mouth",
 		"x": 32563,
@@ -29341,6 +29348,13 @@
 		"icon": "up",
 		"x": 32520,
 		"y": 32422,
+		"z": 13
+	},
+	{
+		"description": "Levitate Spot",
+		"icon": "red down",
+		"x": 32556,
+		"y": 32434,
 		"z": 13
 	},
 	{
