@@ -2506,6 +2506,13 @@
 		"z": 5
 	},
 	{
+		"description": "Levitate spot shortcut",
+		"icon": "red up",
+		"x": 33175,
+		"y": 31195,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33176,
@@ -3948,7 +3955,7 @@
 		"z": 6
 	},
 	{
-		"description": "Unnatural Selection Quest Mission 1",
+		"description": "Unnatural selection quest mission 1",
 		"icon": "down",
 		"x": 33042,
 		"y": 31301,
@@ -4218,6 +4225,13 @@
 		"icon": "up",
 		"x": 33173,
 		"y": 31027,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot shortcut",
+		"icon": "red down",
+		"x": 33175,
+		"y": 31194,
 		"z": 6
 	},
 	{
