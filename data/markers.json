@@ -29526,10 +29526,38 @@
 		"z": 13
 	},
 	{
+		"description": "Boss/Quest",
+		"icon": "down",
+		"x": 32801,
+		"y": 32333,
+		"z": 13
+	},
+	{
 		"description": "To Lloyd (boss)",
 		"icon": "!",
 		"x": 32815,
 		"y": 32870,
+		"z": 13
+	},
+	{
+		"description": "To throne room",
+		"icon": "flag",
+		"x": 32816,
+		"y": 32345,
+		"z": 13
+	},
+	{
+		"description": "Quest",
+		"icon": "down",
+		"x": 32817,
+		"y": 32358,
+		"z": 13
+	},
+	{
+		"description": "Lever",
+		"icon": "crossmark",
+		"x": 32821,
+		"y": 32346,
 		"z": 13
 	},
 	{
@@ -31010,6 +31038,13 @@
 		"z": 14
 	},
 	{
+		"description": "To throne room",
+		"icon": "flag",
+		"x": 32739,
+		"y": 32392,
+		"z": 14
+	},
+	{
 		"description": "Towards exit",
 		"icon": "flag",
 		"x": 32749,
@@ -31021,6 +31056,13 @@
 		"icon": "flag",
 		"x": 32754,
 		"y": 32326,
+		"z": 14
+	},
+	{
+		"description": "To throne room",
+		"icon": "flag",
+		"x": 32754,
+		"y": 32358,
 		"z": 14
 	},
 	{
@@ -31073,17 +31115,52 @@
 		"z": 14
 	},
 	{
-		"description": "boss",
+		"description": "Boss/Quest",
 		"icon": "down",
 		"x": 32801,
 		"y": 32341,
 		"z": 14
 	},
 	{
-		"description": "Pode ropar aqui",
-		"icon": "checkmark",
+		"description": "Rope players here",
+		"icon": "crossmark",
 		"x": 32804,
 		"y": 32338,
+		"z": 14
+	},
+	{
+		"description": "Quest",
+		"icon": "down",
+		"x": 32806,
+		"y": 32351,
+		"z": 14
+	},
+	{
+		"description": "Boss/Quest",
+		"icon": "up",
+		"x": 32812,
+		"y": 32330,
+		"z": 14
+	},
+	{
+		"description": "Quest",
+		"icon": "down",
+		"x": 32812,
+		"y": 32355,
+		"z": 14
+	},
+	{
+		"description": "Quest",
+		"icon": "up",
+		"x": 32816,
+		"y": 32342,
+		"z": 14
+	},
+	{
+		"description": "Quest",
+		"icon": "up",
+		"x": 32816,
+		"y": 32364,
 		"z": 14
 	},
 	{
@@ -32781,7 +32858,28 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32741,
+		"y": 32382,
+		"z": 15
+	},
+	{
+		"description": "To throne room",
+		"icon": "flag",
+		"x": 32745,
+		"y": 32383,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32752,
+		"y": 32359,
+		"z": 15
+	},
+	{
+		"description": "Countess Sorrow spawn location",
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
@@ -32802,10 +32900,31 @@
 		"z": 15
 	},
 	{
-		"description": "boss",
+		"description": "Quest",
+		"icon": "up",
+		"x": 32807,
+		"y": 32355,
+		"z": 15
+	},
+	{
+		"description": "Boss/Quest",
 		"icon": "up",
 		"x": 32809,
 		"y": 32333,
+		"z": 15
+	},
+	{
+		"description": "Quest",
+		"icon": "up",
+		"x": 32809,
+		"y": 32344,
+		"z": 15
+	},
+	{
+		"description": "Quest",
+		"icon": "up",
+		"x": 32815,
+		"y": 32366,
 		"z": 15
 	},
 	{
