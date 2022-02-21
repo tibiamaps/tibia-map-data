@@ -5922,6 +5922,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32266,
+		"y": 32163,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32267,
@@ -5968,13 +5975,6 @@
 		"icon": "star",
 		"x": 32269,
 		"y": 32842,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32270,
-		"y": 32171,
 		"z": 7
 	},
 	{
@@ -6763,7 +6763,7 @@
 	},
 	{
 		"description": "NPC Buddel",
-		"icon": "?",
+		"icon": "flag",
 		"x": 32464,
 		"y": 31173,
 		"z": 7
