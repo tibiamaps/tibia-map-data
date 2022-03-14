@@ -4879,10 +4879,10 @@
 		"z": 6
 	},
 	{
-		"description": "Furious Crater",
-		"icon": "crossmark",
-		"x": 33857,
-		"y": 31867,
+		"description": "Goshnar's Cruelty",
+		"icon": "sword",
+		"x": 33853,
+		"y": 31854,
 		"z": 6
 	},
 	{
@@ -17213,7 +17213,7 @@
 		"z": 8
 	},
 	{
-		"description": "Exit to Goshnar’s Taint",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 33891,
 		"y": 31020,
@@ -17262,10 +17262,10 @@
 		"z": 8
 	},
 	{
-		"description": "Ebb and Flow",
-		"icon": "crossmark",
-		"x": 33950,
-		"y": 31109,
+		"description": "Portal to Goshnar's Spite",
+		"icon": "sword",
+		"x": 33952,
+		"y": 31110,
 		"z": 8
 	},
 	{
@@ -21245,7 +21245,7 @@
 		"z": 9
 	},
 	{
-		"description": "Exit to Goshnar’s Taint",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34002,
 		"y": 31075,
@@ -21259,7 +21259,7 @@
 		"z": 9
 	},
 	{
-		"description": "Exit to Goshnar’s Taint",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34011,
 		"y": 31011,
@@ -23968,6 +23968,20 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33382,
+		"y": 32344,
+		"z": 10
+	},
+	{
+		"description": "Grave flower",
+		"icon": "crossmark",
+		"x": 33385,
+		"y": 32324,
+		"z": 10
+	},
+	{
 		"description": "Glooth slide to depot",
 		"icon": "flag",
 		"x": 33392,
@@ -24514,7 +24528,7 @@
 		"z": 10
 	},
 	{
-		"description": "? Exit to portal hub",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 33984,
 		"y": 31031,
@@ -24528,7 +24542,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34008,
 		"y": 31041,
@@ -26544,6 +26558,34 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33382,
+		"y": 32344,
+		"z": 11
+	},
+	{
+		"description": "House Silversun's signet ring",
+		"icon": "spear",
+		"x": 33388,
+		"y": 32358,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33389,
+		"y": 32326,
+		"z": 11
+	},
+	{
+		"description": "Bones",
+		"icon": "crossmark",
+		"x": 33393,
+		"y": 32373,
+		"z": 11
+	},
+	{
 		"description": "Paint picture (Calcanea)",
 		"icon": "!",
 		"x": 33405,
@@ -26555,6 +26597,13 @@
 		"icon": "star",
 		"x": 33406,
 		"y": 31021,
+		"z": 11
+	},
+	{
+		"description": "Vampire teeth",
+		"icon": "crossmark",
+		"x": 33408,
+		"y": 32396,
 		"z": 11
 	},
 	{
@@ -26590,6 +26639,13 @@
 		"icon": "up",
 		"x": 33424,
 		"y": 31568,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33435,
+		"y": 32404,
 		"z": 11
 	},
 	{
@@ -26908,13 +26964,6 @@
 		"z": 11
 	},
 	{
-		"description": "The Mirrored Nightmare",
-		"icon": "checkmark",
-		"x": 33937,
-		"y": 31213,
-		"z": 11
-	},
-	{
 		"description": "Portal to Goshnar’s Greed",
 		"icon": "sword",
 		"x": 33937,
@@ -26957,7 +27006,7 @@
 		"z": 11
 	},
 	{
-		"description": "Exit to Goshnar’s Taint",
+		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34001,
 		"y": 31070,
@@ -26968,13 +27017,6 @@
 		"icon": "up",
 		"x": 34011,
 		"y": 31019,
-		"z": 11
-	},
-	{
-		"description": "Claustrophobic Inferno",
-		"icon": "crossmark",
-		"x": 34022,
-		"y": 31088,
 		"z": 11
 	},
 	{
@@ -28476,6 +28518,13 @@
 		"z": 12
 	},
 	{
+		"description": "The rite of eternal night",
+		"icon": "crossmark",
+		"x": 33384,
+		"y": 32323,
+		"z": 12
+	},
+	{
 		"description": "Dinky moss floret",
 		"icon": "star",
 		"x": 33391,
@@ -28511,6 +28560,13 @@
 		"z": 12
 	},
 	{
+		"description": "2. Turn off torch",
+		"icon": "crossmark",
+		"x": 33415,
+		"y": 32379,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33418,
@@ -28522,6 +28578,27 @@
 		"icon": "skull",
 		"x": 33419,
 		"y": 31056,
+		"z": 12
+	},
+	{
+		"description": "3. Use the rite near the well",
+		"icon": "crossmark",
+		"x": 33420,
+		"y": 32382,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33422,
+		"y": 32374,
+		"z": 12
+	},
+	{
+		"description": "1. Use flower, ring, bones and teeth here",
+		"icon": "crossmark",
+		"x": 33422,
+		"y": 32384,
 		"z": 12
 	},
 	{
@@ -28868,17 +28945,10 @@
 		"z": 12
 	},
 	{
-		"description": "Rotten Wasteland",
-		"icon": "crossmark",
-		"x": 33914,
-		"y": 31036,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33957,
-		"y": 31174,
+		"y": 31173,
 		"z": 12
 	},
 	{
@@ -30164,6 +30234,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33382,
+		"y": 32330,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "star",
 		"x": 33394,
 		"y": 31701,
@@ -30188,6 +30265,13 @@
 		"icon": "red right",
 		"x": 33399,
 		"y": 31802,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33415,
+		"y": 32377,
 		"z": 13
 	},
 	{
@@ -30244,6 +30328,13 @@
 		"icon": "down",
 		"x": 33450,
 		"y": 31629,
+		"z": 13
+	},
+	{
+		"description": "Ragiaz",
+		"icon": "sword",
+		"x": 33455,
+		"y": 32356,
 		"z": 13
 	},
 	{
@@ -30457,6 +30548,20 @@
 		"z": 13
 	},
 	{
+		"description": "Blue shrine",
+		"icon": "star",
+		"x": 33924,
+		"y": 31092,
+		"z": 13
+	},
+	{
+		"description": "Towards main room",
+		"icon": "flag",
+		"x": 33932,
+		"y": 31093,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33957,
@@ -30464,10 +30569,52 @@
 		"z": 13
 	},
 	{
+		"description": "Green shrine",
+		"icon": "star",
+		"x": 33962,
+		"y": 31080,
+		"z": 13
+	},
+	{
+		"description": "Towards main room",
+		"icon": "flag",
+		"x": 33966,
+		"y": 31017,
+		"z": 13
+	},
+	{
+		"description": "Orange shrine",
+		"icon": "star",
+		"x": 33970,
+		"y": 30988,
+		"z": 13
+	},
+	{
+		"description": "Violet shrine",
+		"icon": "checkmark",
+		"x": 33970,
+		"y": 31012,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33971,
 		"y": 31206,
+		"z": 13
+	},
+	{
+		"description": "Towards main room",
+		"icon": "flag",
+		"x": 33973,
+		"y": 31078,
+		"z": 13
+	},
+	{
+		"description": "Towards main room",
+		"icon": "flag",
+		"x": 33974,
+		"y": 30993,
 		"z": 13
 	},
 	{
@@ -31648,6 +31795,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33382,
+		"y": 32330,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33384,
 		"y": 31064,
@@ -31735,6 +31889,13 @@
 		"icon": "down",
 		"x": 33429,
 		"y": 31707,
+		"z": 14
+	},
+	{
+		"description": "Portal to Ragiaz",
+		"icon": "flag",
+		"x": 33432,
+		"y": 32332,
 		"z": 14
 	},
 	{
