@@ -345,8 +345,8 @@
 	{
 		"description": "Dire penguin (spawn location)",
 		"icon": "star",
-		"x": 32139,
-		"y": 31093,
+		"x": 32116,
+		"y": 31114,
 		"z": 2
 	},
 	{
@@ -357,17 +357,17 @@
 		"z": 2
 	},
 	{
-		"description": "Dire penguin (spawn location)",
-		"icon": "star",
-		"x": 32143,
-		"y": 31172,
-		"z": 2
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32148,
 		"y": 31180,
+		"z": 2
+	},
+	{
+		"description": "Dire penguin (spawn location)",
+		"icon": "star",
+		"x": 32157,
+		"y": 31174,
 		"z": 2
 	},
 	{
@@ -21338,8 +21338,8 @@
 	{
 		"description": "Undead cavebear (spawn location)",
 		"icon": "star",
-		"x": 31980,
-		"y": 32575,
+		"x": 31981,
+		"y": 32559,
 		"z": 10
 	},
 	{
@@ -26411,6 +26411,13 @@
 		"z": 11
 	},
 	{
+		"description": "Towards The Lord of the Lice",
+		"icon": "sword",
+		"x": 33191,
+		"y": 31470,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33192,
@@ -30093,8 +30100,8 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to boss",
-		"icon": "flag",
+		"description": "Teleport to Plagirath",
+		"icon": "sword",
 		"x": 33199,
 		"y": 31439,
 		"z": 13
@@ -31672,6 +31679,13 @@
 		"icon": "flag",
 		"x": 33324,
 		"y": 31372,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33324,
+		"y": 31467,
 		"z": 14
 	},
 	{
