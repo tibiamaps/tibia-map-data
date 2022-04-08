@@ -24528,14 +24528,14 @@
 		"z": 10
 	},
 	{
-		"description": "Exit to portal hub",
+		"description": "Teleport to stairs on this floor",
 		"icon": "flag",
 		"x": 33984,
 		"y": 31031,
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Raid spot",
 		"icon": "sword",
 		"x": 33991,
 		"y": 31060,
@@ -27027,21 +27027,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 34025,
-		"y": 30996,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 34038,
-		"y": 31014,
-		"z": 11
-	},
-	{
-		"description": "",
+		"description": "Raid spot (trap)",
 		"icon": "sword",
 		"x": 34043,
 		"y": 31061,
