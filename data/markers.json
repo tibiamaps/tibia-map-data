@@ -26971,10 +26971,31 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33933,
+		"y": 31091,
+		"z": 11
+	},
+	{
 		"description": "Portal to Goshnar’s Greed",
 		"icon": "sword",
 		"x": 33937,
 		"y": 31217,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33939,
+		"y": 31008,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33952,
+		"y": 31050,
 		"z": 11
 	},
 	{
@@ -26996,6 +27017,20 @@
 		"icon": "down",
 		"x": 33958,
 		"y": 31201,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33962,
+		"y": 30994,
+		"z": 11
+	},
+	{
+		"description": "To safe spot",
+		"icon": "red right",
+		"x": 33965,
+		"y": 31043,
 		"z": 11
 	},
 	{
@@ -28940,8 +28975,50 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33932,
+		"y": 31024,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33934,
+		"y": 31041,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33940,
+		"y": 31017,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33949,
+		"y": 31038,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33950,
+		"y": 31069,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33957,
 		"y": 31173,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33964,
+		"y": 31065,
 		"z": 12
 	},
 	{
@@ -30557,6 +30634,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33949,
+		"y": 31026,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33957,
 		"y": 31173,
 		"z": 13
@@ -30584,7 +30668,7 @@
 	},
 	{
 		"description": "Violet shrine",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 33970,
 		"y": 31012,
 		"z": 13
