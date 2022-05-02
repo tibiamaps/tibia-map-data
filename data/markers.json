@@ -3025,6 +3025,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 31960,
+		"y": 32842,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "sword",
 		"x": 31962,
 		"y": 32801,
