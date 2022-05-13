@@ -38,6 +38,15 @@ echo 'Generating minimap folders with grid overlay…';
 tibia-maps --from-data=../data --output-dir=./minimap --overlay-grid;
 echo "Saving minimap maps with grid overlay and markers as \`${DIST_DIR}/minimap-with-grid-overlay-and-markers.zip\`…";
 zip -q -FS -r "minimap-with-grid-overlay-and-markers.zip" minimap --exclude */.git* */.DS_Store;
+
+# Create specialized version with only the Points of Interest markers.
+mv ../data/markers.json ../data/markers.json.bak;
+cp ../extra/points-of-interest/markers.json ../data/markers.json;
+tibia-maps --from-data=../data --output-dir=./minimap --overlay-grid;
+mv ../data/markers.json.bak ../data/markers.json;
+echo "Saving minimap maps with grid overlay and PoI markers as \`${DIST_DIR}/minimap-with-grid-overlay-and-poi-markers.zip\`…";
+zip -q -FS -r "minimap-with-grid-overlay-and-poi-markers.zip" minimap --exclude */.git* */.DS_Store;
+
 echo "Saving minimap maps with grid overlay without markers as \`${DIST_DIR}/minimap-with-grid-overlay-without-markers.zip\`…";
 zip -q -FS -r "minimap-with-grid-overlay-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
 
