@@ -57,6 +57,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32769,
+		"y": 31096,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32969,
 		"y": 32405,
@@ -323,6 +330,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32578,
+		"y": 31401,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32578,
 		"y": 31815,
@@ -389,6 +403,13 @@
 		"icon": "flag",
 		"x": 32691,
 		"y": 32740,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32778,
+		"y": 31080,
 		"z": 4
 	},
 	{
@@ -802,6 +823,20 @@
 		"icon": "flag",
 		"x": 32709,
 		"y": 31600,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32785,
+		"y": 31360,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32834,
+		"y": 31334,
 		"z": 5
 	},
 	{
@@ -1296,6 +1331,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32556,
+		"y": 31447,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32565,
 		"y": 31796,
@@ -1310,9 +1352,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32578,
+		"y": 31434,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32582,
 		"y": 32742,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32585,
+		"y": 31452,
 		"z": 6
 	},
 	{
@@ -1513,6 +1569,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32671,
+		"y": 31188,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32675,
 		"y": 32767,
@@ -1534,9 +1597,30 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32701,
+		"y": 31179,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32713,
 		"y": 31665,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32721,
+		"y": 31237,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32723,
+		"y": 31192,
 		"z": 6
 	},
 	{
@@ -1565,6 +1649,27 @@
 		"icon": "flag",
 		"x": 32749,
 		"y": 31257,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32728,
+		"y": 32072,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32763,
+		"y": 31472,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32766,
+		"y": 31464,
 		"z": 6
 	},
 	{
@@ -1611,6 +1716,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32824,
+		"y": 31331,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32825,
 		"y": 32146,
@@ -1621,6 +1733,13 @@
 		"icon": "red up",
 		"x": 32849,
 		"y": 32569,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32856,
+		"y": 31321,
 		"z": 6
 	},
 	{
@@ -3557,6 +3676,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32543,
+		"y": 31453,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32544,
 		"y": 31821,
@@ -3854,6 +3980,13 @@
 		"icon": "flag",
 		"x": 32584,
 		"y": 32790,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32585,
+		"y": 31457,
 		"z": 7
 	},
 	{
@@ -4239,6 +4372,13 @@
 		"icon": "flag",
 		"x": 32627,
 		"y": 32332,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32628,
+		"y": 31438,
 		"z": 7
 	},
 	{
@@ -5048,6 +5188,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32677,
+		"y": 31256,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32677,
 		"y": 31659,
@@ -5184,6 +5331,13 @@
 		"icon": "flag",
 		"x": 32685,
 		"y": 32146,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32686,
+		"y": 31453,
 		"z": 7
 	},
 	{
@@ -5419,6 +5573,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32700,
+		"y": 31478,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32700,
 		"y": 32129,
@@ -5545,6 +5706,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32708,
+		"y": 31202,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32708,
 		"y": 31364,
@@ -5590,6 +5758,13 @@
 		"icon": "flag",
 		"x": 32709,
 		"y": 32330,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32712,
+		"y": 31176,
 		"z": 7
 	},
 	{
@@ -5762,6 +5937,34 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32727,
+		"y": 31077,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32727,
+		"y": 31118,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32727,
+		"y": 32292,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32728,
+		"y": 32056,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32730,
 		"y": 31911,
@@ -5779,6 +5982,20 @@
 		"icon": "flag",
 		"x": 32730,
 		"y": 32143,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32732,
+		"y": 31507,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32733,
+		"y": 31502,
 		"z": 7
 	},
 	{
@@ -5807,6 +6024,13 @@
 		"icon": "flag",
 		"x": 32737,
 		"y": 31259,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32735,
+		"y": 31470,
 		"z": 7
 	},
 	{
@@ -5842,6 +6066,13 @@
 		"icon": "flag",
 		"x": 32741,
 		"y": 31826,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32742,
+		"y": 31103,
 		"z": 7
 	},
 	{
@@ -5895,6 +6126,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32746,
+		"y": 31154,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32747,
 		"y": 31258,
@@ -5903,8 +6141,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32746,
+		"y": 31882,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32748,
 		"y": 32155,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32749,
+		"y": 31064,
 		"z": 7
 	},
 	{
@@ -5968,6 +6220,20 @@
 		"icon": "flag",
 		"x": 32755,
 		"y": 31828,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32755,
+		"y": 31828,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32756,
+		"y": 31050,
 		"z": 7
 	},
 	{
@@ -6343,6 +6609,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32790,
+		"y": 31067,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32791,
 		"y": 31783,
@@ -6360,6 +6633,13 @@
 		"icon": "flag",
 		"x": 32791,
 		"y": 32271,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32791,
+		"y": 32356,
 		"z": 7
 	},
 	{
@@ -6791,6 +7071,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32824,
+		"y": 31118,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32824,
+		"y": 31366,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32824,
 		"y": 31802,
@@ -6920,6 +7214,13 @@
 		"icon": "flag",
 		"x": 32838,
 		"y": 31817,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32839,
+		"y": 31323,
 		"z": 7
 	},
 	{
@@ -7078,6 +7379,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32857,
+		"y": 31349,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32857,
 		"y": 32549,
@@ -7162,6 +7470,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32869,
+		"y": 31250,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32869,
 		"y": 32224,
@@ -7204,6 +7519,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32875,
+		"y": 31151,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32875,
 		"y": 32125,
@@ -7239,6 +7561,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32881,
+		"y": 31262,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32881,
 		"y": 32015,
@@ -7253,6 +7582,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32883,
+		"y": 31051,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32883,
 		"y": 32214,
@@ -7263,6 +7599,20 @@
 		"icon": "flag",
 		"x": 32884,
 		"y": 32812,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32885,
+		"y": 31106,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32886,
+		"y": 31246,
 		"z": 7
 	},
 	{
@@ -7309,6 +7659,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32897,
+		"y": 31331,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32899,
+		"y": 31343,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32900,
 		"y": 32201,
@@ -7326,6 +7690,13 @@
 		"icon": "flag",
 		"x": 32901,
 		"y": 32211,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32902,
+		"y": 31319,
 		"z": 7
 	},
 	{
@@ -7368,6 +7739,13 @@
 		"icon": "flag",
 		"x": 32909,
 		"y": 32857,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32910,
+		"y": 31333,
 		"z": 7
 	},
 	{
@@ -7613,6 +7991,13 @@
 		"icon": "flag",
 		"x": 32956,
 		"y": 32235,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32957,
+		"y": 31264,
 		"z": 7
 	},
 	{
@@ -9230,6 +9615,13 @@
 		"icon": "red up",
 		"x": 33177,
 		"y": 32556,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33178,
+		"y": 31897,
 		"z": 7
 	},
 	{
@@ -12335,6 +12727,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32676,
+		"y": 31231,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32681,
 		"y": 31804,
@@ -12366,6 +12765,20 @@
 		"icon": "flag",
 		"x": 32690,
 		"y": 31656,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32694,
+		"y": 31145,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32694,
+		"y": 31164,
 		"z": 8
 	},
 	{
@@ -12415,6 +12828,13 @@
 		"icon": "flag",
 		"x": 32713,
 		"y": 31927,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32718,
+		"y": 32012,
 		"z": 8
 	},
 	{
@@ -12986,6 +13406,27 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33099,
+		"y": 31735,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33099,
+		"y": 31838,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33100,
+		"y": 31872,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33122,
 		"y": 32145,
@@ -12996,6 +13437,13 @@
 		"icon": "flag",
 		"x": 33127,
 		"y": 32146,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33130,
+		"y": 31751,
 		"z": 8
 	},
 	{
@@ -13045,6 +13493,20 @@
 		"icon": "flag",
 		"x": 33164,
 		"y": 31733,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33169,
+		"y": 31892,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33190,
+		"y": 31664,
 		"z": 8
 	},
 	{
@@ -13588,6 +14050,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32615,
+		"y": 32449,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32616,
 		"y": 32411,
@@ -14021,6 +14490,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32674,
+		"y": 31234,
+		"z": 9
+	},
+	{
 		"description": "Point of interest down with fire devils",
 		"icon": "red right",
 		"x": 32683,
@@ -14295,6 +14771,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32901,
+		"y": 31283,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32919,
 		"y": 32583,
@@ -14305,6 +14788,13 @@
 		"icon": "flag",
 		"x": 32921,
 		"y": 32074,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32929,
+		"y": 31252,
 		"z": 9
 	},
 	{
@@ -14428,6 +14918,20 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33082,
+		"y": 31859,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33084,
+		"y": 31838,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33112,
 		"y": 32247,
@@ -14442,6 +14946,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33123,
+		"y": 31737,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33125,
 		"y": 32260,
@@ -14449,9 +14960,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33127,
+		"y": 31731,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33155,
 		"y": 31826,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33167,
+		"y": 31842,
 		"z": 9
 	},
 	{
@@ -14638,6 +15163,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32677,
+		"y": 31217,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32691,
 		"y": 32134,
@@ -14750,6 +15282,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32870,
+		"y": 31321,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32874,
 		"y": 32553,
@@ -14764,6 +15303,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 32920,
+		"y": 31288,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32920,
 		"y": 32141,
@@ -14774,6 +15320,13 @@
 		"icon": "flag",
 		"x": 32948,
 		"y": 32595,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33064,
+		"y": 31824,
 		"z": 10
 	},
 	{
@@ -14851,6 +15404,62 @@
 		"icon": "flag",
 		"x": 33099,
 		"y": 32115,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33104,
+		"y": 31810,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33104,
+		"y": 31848,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33108,
+		"y": 31734,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33139,
+		"y": 31730,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33141,
+		"y": 31717,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33166,
+		"y": 31919,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33175,
+		"y": 31918,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33197,
+		"y": 31915,
 		"z": 10
 	},
 	{
@@ -15369,6 +15978,13 @@
 		"icon": "flag",
 		"x": 33135,
 		"y": 31805,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33163,
+		"y": 31920,
 		"z": 11
 	},
 	{
