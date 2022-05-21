@@ -9,12 +9,15 @@ if [ -d "${DIST_DIR}" ]; then
 	rm -rf -- "${DIST_DIR}";
 fi;
 mkdir -p "${DIST_DIR}";
+# Speed up GitHub Pages build + deploy times.
+touch "${DIST_DIR}/.nojekyll";
 
 # Copy `data/*` into `dist/*`, while compressing JSON and images.
 echo 'Compressing JSON-formatted data…';
 for file in data/*.json; do
 	jsesc --object --json < "${file}" > "${DIST_DIR}/$(basename ${file})";
 done;
+jsesc --object --json < extra/points-of-interest/markers.json > "${DIST_DIR}/poi-markers.json";
 echo 'Compressing PNG images…';
 imagemin data/*.png --out-dir="${DIST_DIR}";
 
