@@ -39,6 +39,14 @@ tibia-maps --from-data=../data --output-dir=./minimap --overlay-grid;
 echo "Saving minimap maps with grid overlay and markers as \`${DIST_DIR}/minimap-with-grid-overlay-and-markers.zip\`…";
 zip -q -FS -r "minimap-with-grid-overlay-and-markers.zip" minimap --exclude */.git* */.DS_Store;
 
+echo "Saving minimap maps with grid overlay without markers as \`${DIST_DIR}/minimap-with-grid-overlay-without-markers.zip\`…";
+zip -q -FS -r "minimap-with-grid-overlay-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
+
+# Preserve `dist/minimap-with-grid-overlay-{and,without}-markers`.
+mv minimap minimap-with-grid-overlay-and-markers;
+cp -r minimap-with-grid-overlay-and-markers minimap-with-grid-overlay-without-markers;
+rm minimap-with-grid-overlay-without-markers/minimapmarkers.bin;
+
 # Create specialized version with only the Points of Interest markers.
 mv ../data/markers.json ../data/markers.json.bak;
 cp ../extra/points-of-interest/markers.json ../data/markers.json;
@@ -47,13 +55,8 @@ mv ../data/markers.json.bak ../data/markers.json;
 echo "Saving minimap maps with grid overlay and PoI markers as \`${DIST_DIR}/minimap-with-grid-overlay-and-poi-markers.zip\`…";
 zip -q -FS -r "minimap-with-grid-overlay-and-poi-markers.zip" minimap --exclude */.git* */.DS_Store;
 
-echo "Saving minimap maps with grid overlay without markers as \`${DIST_DIR}/minimap-with-grid-overlay-without-markers.zip\`…";
-zip -q -FS -r "minimap-with-grid-overlay-without-markers.zip" minimap --exclude */minimapmarkers.bin */.git* */.DS_Store;
-
-# Preserve `dist/minimap-with-grid-overlay-{and,without}-markers`.
-mv minimap minimap-with-grid-overlay-and-markers;
-cp -r minimap-with-grid-overlay-and-markers minimap-with-grid-overlay-without-markers;
-rm minimap-with-grid-overlay-without-markers/minimapmarkers.bin;
+# Preserve `dist/minimap-with-grid-overlay-and-poi-markers`.
+cp -r minimap minimap-with-grid-overlay-and-poi-markers;
 
 # Generate `walkable-tiles.json`.
 # https://tibiamaps.io/blog/walkable-tile-count
