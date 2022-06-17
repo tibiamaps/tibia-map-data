@@ -14147,6 +14147,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32466,
+		"y": 31966,
+		"z": 8
+	},
+	{
 		"description": "Bounacean Lion",
 		"icon": "red up",
 		"x": 32466,
@@ -14179,6 +14186,13 @@
 		"icon": "down",
 		"x": 32486,
 		"y": 32968,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32489,
+		"y": 31965,
 		"z": 8
 	},
 	{
