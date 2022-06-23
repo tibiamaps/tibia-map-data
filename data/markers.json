@@ -644,6 +644,27 @@
 		"z": 2
 	},
 	{
+		"description": "Glass Lens",
+		"icon": "checkmark",
+		"x": 33716,
+		"y": 32777,
+		"z": 2
+	},
+	{
+		"description": "Vrisaki",
+		"icon": "mouth",
+		"x": 33779,
+		"y": 32735,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33805,
+		"y": 32768,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 31939,
@@ -2891,10 +2912,38 @@
 		"z": 5
 	},
 	{
+		"description": "Kusuma",
+		"icon": "red down",
+		"x": 33717,
+		"y": 32767,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33732,
 		"y": 31283,
+		"z": 5
+	},
+	{
+		"description": "Burnt coral vow flower",
+		"icon": "checkmark",
+		"x": 33738,
+		"y": 32680,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "cross",
+		"x": 33776,
+		"y": 32754,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "lock",
+		"x": 33793,
+		"y": 32747,
 		"z": 5
 	},
 	{
@@ -4865,10 +4914,31 @@
 		"z": 6
 	},
 	{
+		"description": "Tarisu",
+		"icon": "mouth",
+		"x": 33797,
+		"y": 32857,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33803,
 		"y": 31390,
+		"z": 6
+	},
+	{
+		"description": "Splint",
+		"icon": "checkmark",
+		"x": 33809,
+		"y": 32760,
+		"z": 6
+	},
+	{
+		"description": "Brightly burning flames",
+		"icon": "checkmark",
+		"x": 33822,
+		"y": 32777,
 		"z": 6
 	},
 	{
@@ -5261,6 +5331,13 @@
 		"icon": "star",
 		"x": 32075,
 		"y": 32573,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32082,
+		"y": 31528,
 		"z": 7
 	},
 	{
@@ -10178,6 +10255,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33279,
+		"y": 32785,
+		"z": 7
+	},
+	{
 		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
 		"icon": "down",
 		"x": 33281,
@@ -11760,6 +11844,13 @@
 		"z": 7
 	},
 	{
+		"description": "Moon mint",
+		"icon": "checkmark",
+		"x": 33632,
+		"y": 32799,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33633,
@@ -11963,6 +12054,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33659,
+		"y": 32739,
+		"z": 7
+	},
+	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33662,
@@ -11981,6 +12079,13 @@
 		"icon": "flag",
 		"x": 33664,
 		"y": 32404,
+		"z": 7
+	},
+	{
+		"description": "Moon mint",
+		"icon": "checkmark",
+		"x": 33665,
+		"y": 32701,
 		"z": 7
 	},
 	{
@@ -12334,6 +12439,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33703,
+		"y": 32752,
+		"z": 7
+	},
+	{
 		"description": "Skull orchid",
 		"icon": "star",
 		"x": 33706,
@@ -12432,6 +12544,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dhira",
+		"icon": "mouth",
+		"x": 33728,
+		"y": 32858,
+		"z": 7
+	},
+	{
 		"description": "NPC Tik'hi Tak'he",
 		"icon": "mouth",
 		"x": 33729,
@@ -12453,6 +12572,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33731,
+		"y": 32840,
+		"z": 7
+	},
+	{
 		"description": "Journey task",
 		"icon": "crossmark",
 		"x": 33734,
@@ -12464,6 +12590,13 @@
 		"icon": "crossmark",
 		"x": 33740,
 		"y": 31334,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33743,
+		"y": 32778,
 		"z": 7
 	},
 	{
@@ -12502,6 +12635,13 @@
 		"z": 7
 	},
 	{
+		"description": "Depot",
+		"icon": "lock",
+		"x": 33776,
+		"y": 32840,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33778,
@@ -12516,10 +12656,24 @@
 		"z": 7
 	},
 	{
+		"description": "Shops",
+		"icon": "bag",
+		"x": 33783,
+		"y": 32838,
+		"z": 7
+	},
+	{
 		"description": "Way to Issavi",
 		"icon": "down",
 		"x": 33788,
 		"y": 31335,
+		"z": 7
+	},
+	{
+		"description": "Blessed Pond",
+		"icon": "checkmark",
+		"x": 33790,
+		"y": 32671,
 		"z": 7
 	},
 	{
@@ -12590,6 +12744,13 @@
 		"icon": "up",
 		"x": 33803,
 		"y": 31390,
+		"z": 7
+	},
+	{
+		"description": "Timira the Many-Headed",
+		"icon": "sword",
+		"x": 33803,
+		"y": 32700,
 		"z": 7
 	},
 	{
@@ -12681,6 +12842,13 @@
 		"icon": "sword",
 		"x": 33842,
 		"y": 31736,
+		"z": 7
+	},
+	{
+		"description": "Use hammer",
+		"icon": "checkmark",
+		"x": 33843,
+		"y": 32788,
 		"z": 7
 	},
 	{
@@ -12803,6 +12971,13 @@
 		"z": 7
 	},
 	{
+		"description": "Moonshine Pearl",
+		"icon": "down",
+		"x": 33884,
+		"y": 32741,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33885,
@@ -12870,6 +13045,13 @@
 		"icon": "up",
 		"x": 33907,
 		"y": 31499,
+		"z": 7
+	},
+	{
+		"description": "Nagging Naga",
+		"icon": "mouth",
+		"x": 33908,
+		"y": 32762,
 		"z": 7
 	},
 	{
@@ -16912,6 +17094,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33635,
+		"y": 32762,
+		"z": 8
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 33637,
@@ -16947,6 +17136,20 @@
 		"z": 8
 	},
 	{
+		"description": "Shimmering pearl",
+		"icon": "checkmark",
+		"x": 33654,
+		"y": 32762,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33655,
+		"y": 32766,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33657,
@@ -16961,10 +17164,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33659,
+		"y": 32739,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "up",
 		"x": 33666,
 		"y": 32272,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33667,
+		"y": 32739,
 		"z": 8
 	},
 	{
@@ -17035,6 +17252,13 @@
 		"icon": "up",
 		"x": 33730,
 		"y": 31733,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33739,
+		"y": 32779,
 		"z": 8
 	},
 	{
@@ -17231,6 +17455,13 @@
 		"icon": "sword",
 		"x": 33889,
 		"y": 31480,
+		"z": 8
+	},
+	{
+		"description": "Moonshine Pearl",
+		"icon": "checkmark",
+		"x": 33889,
+		"y": 32736,
 		"z": 8
 	},
 	{
@@ -20918,6 +21149,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33613,
+		"y": 32759,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33615,
 		"y": 32166,
 		"z": 9
@@ -20988,6 +21226,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33635,
+		"y": 32762,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33647,
 		"y": 31045,
 		"z": 9
@@ -21021,6 +21266,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33667,
+		"y": 32738,
+		"z": 9
+	},
+	{
 		"description": "Tea cup",
 		"icon": "star",
 		"x": 33693,
@@ -21032,6 +21284,13 @@
 		"icon": "up",
 		"x": 33702,
 		"y": 32360,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33702,
+		"y": 32764,
 		"z": 9
 	},
 	{
@@ -27741,7 +28000,7 @@
 		"z": 12
 	},
 	{
-		"description": "Levitate Spot",
+		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 32556,
 		"y": 32435,
@@ -29526,7 +29785,7 @@
 		"z": 13
 	},
 	{
-		"description": "Levitate Spot",
+		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32556,
 		"y": 32434,
@@ -32214,10 +32473,24 @@
 		"z": 14
 	},
 	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33562,
+		"y": 32981,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33563,
 		"y": 31208,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33563,
+		"y": 32859,
 		"z": 14
 	},
 	{
@@ -32411,9 +32684,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33631,
+		"y": 32844,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33635,
 		"y": 31958,
+		"z": 14
+	},
+	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33637,
+		"y": 32852,
 		"z": 14
 	},
 	{
@@ -32439,9 +32726,23 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33660,
+		"y": 32895,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33661,
 		"y": 31937,
+		"z": 14
+	},
+	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33661,
+		"y": 32893,
 		"z": 14
 	},
 	{
@@ -32453,9 +32754,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33665,
+		"y": 32977,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33674,
 		"y": 31989,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33686,
+		"y": 32891,
 		"z": 14
 	},
 	{
@@ -32466,6 +32781,20 @@
 		"z": 14
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33695,
+		"y": 32900,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33698,
+		"y": 32914,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33711,
@@ -32473,10 +32802,24 @@
 		"z": 14
 	},
 	{
+		"description": "Primal Menace",
+		"icon": "star",
+		"x": 33714,
+		"y": 32796,
+		"z": 14
+	},
+	{
 		"description": "Boss TP",
 		"icon": "flag",
 		"x": 33726,
 		"y": 31953,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33732,
+		"y": 32940,
 		"z": 14
 	},
 	{
@@ -32491,6 +32834,13 @@
 		"icon": "mouth",
 		"x": 33750,
 		"y": 32167,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33766,
+		"y": 32917,
 		"z": 14
 	},
 	{
@@ -32519,6 +32869,13 @@
 		"icon": "down",
 		"x": 33775,
 		"y": 32217,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33775,
+		"y": 32902,
 		"z": 14
 	},
 	{
@@ -33936,6 +34293,13 @@
 		"z": 15
 	},
 	{
+		"description": "Monster Graveyard",
+		"icon": "flag",
+		"x": 33543,
+		"y": 32912,
+		"z": 15
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33544,
@@ -33947,6 +34311,20 @@
 		"icon": "up",
 		"x": 33545,
 		"y": 31456,
+		"z": 15
+	},
+	{
+		"description": "Crystal Enigma",
+		"icon": "flag",
+		"x": 33546,
+		"y": 32911,
+		"z": 15
+	},
+	{
+		"description": "Sparkling Pools",
+		"icon": "flag",
+		"x": 33549,
+		"y": 32912,
 		"z": 15
 	},
 	{
@@ -33982,6 +34360,20 @@
 		"icon": "star",
 		"x": 33556,
 		"y": 32555,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33556,
+		"y": 32882,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33562,
+		"y": 32862,
 		"z": 15
 	},
 	{
@@ -34031,6 +34423,13 @@
 		"icon": "up",
 		"x": 33591,
 		"y": 31402,
+		"z": 15
+	},
+	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33596,
+		"y": 32871,
 		"z": 15
 	},
 	{
@@ -34084,6 +34483,13 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33618,
+		"y": 32951,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33619,
 		"y": 32055,
@@ -34126,6 +34532,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33637,
+		"y": 32840,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33641,
 		"y": 31964,
@@ -34161,9 +34574,30 @@
 	},
 	{
 		"description": "",
+		"icon": "star",
+		"x": 33658,
+		"y": 32968,
+		"z": 15
+	},
+	{
+		"description": "Sparkling Pools",
+		"icon": "up",
+		"x": 33665,
+		"y": 32977,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33670,
 		"y": 32033,
+		"z": 15
+	},
+	{
+		"description": "Artifact Experiment",
+		"icon": "star",
+		"x": 33671,
+		"y": 32869,
 		"z": 15
 	},
 	{
@@ -34195,10 +34629,24 @@
 		"z": 15
 	},
 	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33682,
+		"y": 32842,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33704,
 		"y": 31963,
+		"z": 15
+	},
+	{
+		"description": "Lazyfairy",
+		"icon": "checkmark",
+		"x": 33706,
+		"y": 32919,
 		"z": 15
 	},
 	{
@@ -34213,6 +34661,13 @@
 		"icon": "up",
 		"x": 33754,
 		"y": 32162,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33765,
+		"y": 32908,
 		"z": 15
 	},
 	{
