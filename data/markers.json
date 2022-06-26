@@ -17053,6 +17053,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33613,
+		"y": 32759,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33615,
 		"y": 31413,
