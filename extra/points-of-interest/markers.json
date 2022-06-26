@@ -149,6 +149,41 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33711,
+		"y": 32779,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33747,
+		"y": 32787,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33775,
+		"y": 32739,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33798,
+		"y": 32751,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33852,
+		"y": 32789,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32344,
 		"y": 32266,
 		"z": 3
@@ -282,8 +317,43 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33709,
+		"y": 32784,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33710,
+		"y": 32793,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33723,
+		"y": 32759,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33729,
 		"y": 32822,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33746,
+		"y": 32774,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33816,
+		"y": 32761,
 		"z": 3
 	},
 	{
@@ -681,6 +751,34 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33715,
+		"y": 32798,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33752,
+		"y": 32780,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33774,
+		"y": 32755,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33779,
+		"y": 32746,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33806,
 		"y": 32698,
 		"z": 4
@@ -690,6 +788,20 @@
 		"icon": "flag",
 		"x": 33832,
 		"y": 31621,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33834,
+		"y": 32777,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33846,
+		"y": 32797,
 		"z": 4
 	},
 	{
@@ -1360,6 +1472,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33706,
+		"y": 32801,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33720,
 		"y": 32857,
 		"z": 5
@@ -1381,8 +1500,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33733,
+		"y": 32763,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33769,
 		"y": 32853,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33778,
+		"y": 32776,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33797,
+		"y": 32749,
 		"z": 5
 	},
 	{
@@ -12471,6 +12611,13 @@
 		"icon": "flag",
 		"x": 33701,
 		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33701,
+		"y": 32761,
 		"z": 7
 	},
 	{
