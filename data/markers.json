@@ -2940,14 +2940,14 @@
 		"z": 5
 	},
 	{
-		"description": "",
+		"description": "Temple",
 		"icon": "cross",
 		"x": 33776,
 		"y": 32754,
 		"z": 5
 	},
 	{
-		"description": "",
+		"description": "Depot",
 		"icon": "lock",
 		"x": 33793,
 		"y": 32747,
@@ -12733,6 +12733,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33799,
+		"y": 32862,
+		"z": 7
+	},
+	{
 		"description": "The Wreckoning/Tentugly",
 		"icon": "crossmark",
 		"x": 33800,
@@ -12751,6 +12758,13 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31637,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33802,
+		"y": 32787,
 		"z": 7
 	},
 	{
