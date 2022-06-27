@@ -4914,7 +4914,7 @@
 		"z": 6
 	},
 	{
-		"description": "Tarisu",
+		"description": "NPC Tarisu",
 		"icon": "mouth",
 		"x": 33797,
 		"y": 32857,
@@ -12544,7 +12544,7 @@
 		"z": 7
 	},
 	{
-		"description": "Dhira",
+		"description": "NPC Dhira",
 		"icon": "mouth",
 		"x": 33728,
 		"y": 32858,
@@ -12971,7 +12971,7 @@
 		"z": 7
 	},
 	{
-		"description": "Moonshine Pearl",
+		"description": "Moonshine pearl",
 		"icon": "down",
 		"x": 33884,
 		"y": 32741,
@@ -13048,7 +13048,7 @@
 		"z": 7
 	},
 	{
-		"description": "Nagging Naga",
+		"description": "NPC Nagging Naga",
 		"icon": "mouth",
 		"x": 33908,
 		"y": 32762,
