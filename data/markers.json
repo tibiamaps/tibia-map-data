@@ -32445,6 +32445,13 @@
 		"z": 14
 	},
 	{
+		"description": "Steamboat",
+		"icon": "flag",
+		"x": 33517,
+		"y": 32858,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33522,
@@ -32463,6 +32470,13 @@
 		"icon": "crossmark",
 		"x": 33530,
 		"y": 31239,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33531,
+		"y": 32900,
 		"z": 14
 	},
 	{
@@ -32517,8 +32531,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33549,
+		"y": 32956,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33551,
 		"y": 31940,
+		"z": 14
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33551,
+		"y": 32950,
 		"z": 14
 	},
 	{
@@ -34370,6 +34398,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33531,
+		"y": 32900,
+		"z": 15
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33534,
@@ -34475,7 +34510,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Excavation site Firefoot",
 		"icon": "star",
 		"x": 33556,
 		"y": 32882,
@@ -34594,7 +34629,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Excavation site Moss",
 		"icon": "star",
 		"x": 33618,
 		"y": 32951,
@@ -34685,7 +34720,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "GT-M-01",
 		"icon": "star",
 		"x": 33658,
 		"y": 32968,
