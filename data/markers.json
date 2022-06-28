@@ -462,13 +462,6 @@
 		"z": 2
 	},
 	{
-		"description": "To Marapur",
-		"icon": "flag",
-		"x": 33036,
-		"y": 32737,
-		"z": 2
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33083,
@@ -2940,14 +2933,14 @@
 		"z": 5
 	},
 	{
-		"description": "Temple",
+		"description": "",
 		"icon": "cross",
 		"x": 33776,
 		"y": 32754,
 		"z": 5
 	},
 	{
-		"description": "Depot",
+		"description": "",
 		"icon": "lock",
 		"x": 33793,
 		"y": 32747,
@@ -5341,8 +5334,8 @@
 		"z": 7
 	},
 	{
-		"description": "Golden hand (hold swan feather during Within the Tides quest)",
-		"icon": "?",
+		"description": "",
+		"icon": "checkmark",
 		"x": 32082,
 		"y": 31528,
 		"z": 7
@@ -10053,13 +10046,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33229,
-		"y": 31764,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 33233,
 		"y": 31152,
@@ -10269,8 +10255,8 @@
 		"z": 7
 	},
 	{
-		"description": "Silver hand (Within the Tides quest)",
-		"icon": "?",
+		"description": "",
+		"icon": "checkmark",
 		"x": 33279,
 		"y": 32785,
 		"z": 7
@@ -12733,13 +12719,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33799,
-		"y": 32862,
-		"z": 7
-	},
-	{
 		"description": "The Wreckoning/Tentugly",
 		"icon": "crossmark",
 		"x": 33800,
@@ -12758,13 +12737,6 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31637,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33802,
-		"y": 32787,
 		"z": 7
 	},
 	{
@@ -12870,13 +12842,6 @@
 		"icon": "sword",
 		"x": 33842,
 		"y": 31736,
-		"z": 7
-	},
-	{
-		"description": "To Kha'zeel Mountains",
-		"icon": "flag",
-		"x": 33842,
-		"y": 32852,
 		"z": 7
 	},
 	{
@@ -16317,13 +16282,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33229,
-		"y": 31764,
-		"z": 8
-	},
-	{
 		"description": "Sample of monster blood",
 		"icon": "star",
 		"x": 33231,
@@ -16342,13 +16300,6 @@
 		"icon": "up",
 		"x": 33236,
 		"y": 32577,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33243,
-		"y": 31777,
 		"z": 8
 	},
 	{
@@ -17297,13 +17248,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33722,
-		"y": 32741,
-		"z": 8
-	},
-	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33725,
@@ -17321,13 +17265,6 @@
 		"description": "",
 		"icon": "up",
 		"x": 33739,
-		"y": 32779,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33750,
 		"y": 32779,
 		"z": 8
 	},
@@ -20532,13 +20469,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33243,
-		"y": 31777,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33243,
 		"y": 32622,
@@ -20556,13 +20486,6 @@
 		"icon": "up",
 		"x": 33254,
 		"y": 32747,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33256,
-		"y": 31765,
 		"z": 9
 	},
 	{
@@ -21375,20 +21298,6 @@
 		"icon": "up",
 		"x": 33702,
 		"y": 32764,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33722,
-		"y": 32741,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33750,
-		"y": 32779,
 		"z": 9
 	},
 	{
@@ -24229,13 +24138,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33256,
-		"y": 31765,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33258,
 		"y": 32275,
 		"z": 10
@@ -24252,13 +24154,6 @@
 		"icon": "down",
 		"x": 33264,
 		"y": 32301,
-		"z": 10
-	},
-	{
-		"description": "Bronze hand (Within the Tides quest)",
-		"icon": "?",
-		"x": 33267,
-		"y": 31768,
 		"z": 10
 	},
 	{
@@ -32445,13 +32340,6 @@
 		"z": 14
 	},
 	{
-		"description": "Steamboat",
-		"icon": "flag",
-		"x": 33517,
-		"y": 32858,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33522,
@@ -32470,13 +32358,6 @@
 		"icon": "crossmark",
 		"x": 33530,
 		"y": 31239,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33531,
-		"y": 32900,
 		"z": 14
 	},
 	{
@@ -32531,22 +32412,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33549,
-		"y": 32956,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33551,
 		"y": 31940,
-		"z": 14
-	},
-	{
-		"description": "Safe spot",
-		"icon": "up",
-		"x": 33551,
-		"y": 32950,
 		"z": 14
 	},
 	{
@@ -34398,13 +34265,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33531,
-		"y": 32900,
-		"z": 15
-	},
-	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33534,
@@ -34510,7 +34370,7 @@
 		"z": 15
 	},
 	{
-		"description": "Excavation site Firefoot",
+		"description": "",
 		"icon": "star",
 		"x": 33556,
 		"y": 32882,
@@ -34629,7 +34489,7 @@
 		"z": 15
 	},
 	{
-		"description": "Excavation site Moss",
+		"description": "",
 		"icon": "star",
 		"x": 33618,
 		"y": 32951,
@@ -34720,7 +34580,7 @@
 		"z": 15
 	},
 	{
-		"description": "GT-M-01",
+		"description": "",
 		"icon": "star",
 		"x": 33658,
 		"y": 32968,
