@@ -651,6 +651,13 @@
 		"z": 2
 	},
 	{
+		"description": "Smaller Rose constellation",
+		"icon": "crossmark",
+		"x": 33747,
+		"y": 32786,
+		"z": 2
+	},
+	{
 		"description": "Vrisaki",
 		"icon": "mouth",
 		"x": 33779,
@@ -2912,6 +2919,13 @@
 		"z": 5
 	},
 	{
+		"description": "Turtle constellation",
+		"icon": "crossmark",
+		"x": 33716,
+		"y": 32677,
+		"z": 5
+	},
+	{
 		"description": "Kusuma",
 		"icon": "red down",
 		"x": 33717,
@@ -2933,7 +2947,14 @@
 		"z": 5
 	},
 	{
-		"description": "",
+		"description": "Smaller Rose constellation",
+		"icon": "up",
+		"x": 33746,
+		"y": 32784,
+		"z": 5
+	},
+	{
+		"description": "Reward and imbuing shrines",
 		"icon": "cross",
 		"x": 33776,
 		"y": 32754,
@@ -2944,6 +2965,13 @@
 		"icon": "lock",
 		"x": 33793,
 		"y": 32747,
+		"z": 5
+	},
+	{
+		"description": "Training school",
+		"icon": "sword",
+		"x": 33797,
+		"y": 32756,
 		"z": 5
 	},
 	{
@@ -4988,6 +5016,13 @@
 		"icon": "red right",
 		"x": 33871,
 		"y": 31231,
+		"z": 6
+	},
+	{
+		"description": "Southern Crab constellation",
+		"icon": "crossmark",
+		"x": 33875,
+		"y": 32817,
 		"z": 6
 	},
 	{
@@ -12054,7 +12089,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Temple of the Moon Goddess",
 		"icon": "down",
 		"x": 33659,
 		"y": 32739,
@@ -12369,6 +12404,13 @@
 		"z": 7
 	},
 	{
+		"description": "Coral vow flower and Turtle constellation",
+		"icon": "up",
+		"x": 33689,
+		"y": 32693,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33690,
@@ -12572,7 +12614,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Palace of the Raja",
 		"icon": "up",
 		"x": 33731,
 		"y": 32840,
@@ -12593,10 +12635,17 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Great pearl fan reef",
 		"icon": "down",
 		"x": 33743,
 		"y": 32778,
+		"z": 7
+	},
+	{
+		"description": "to Moonfall's Tavern, Library and Palace of the Maharani",
+		"icon": "mouth",
+		"x": 33743,
+		"y": 32797,
 		"z": 7
 	},
 	{
@@ -12656,10 +12705,17 @@
 		"z": 7
 	},
 	{
-		"description": "Shops",
+		"description": "to Silvertides Market Place and Magic Store",
 		"icon": "bag",
 		"x": 33783,
 		"y": 32838,
+		"z": 7
+	},
+	{
+		"description": "to Moonfall Depot, Training Statues, Post Office and Bank",
+		"icon": "lock",
+		"x": 33784,
+		"y": 32768,
 		"z": 7
 	},
 	{
@@ -12670,7 +12726,7 @@
 		"z": 7
 	},
 	{
-		"description": "Blessed Pond",
+		"description": "Blessed pond",
 		"icon": "checkmark",
 		"x": 33790,
 		"y": 32671,
@@ -12737,6 +12793,13 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31637,
+		"z": 7
+	},
+	{
+		"description": "to Moonfall Carpet, Market Place and Magic Store",
+		"icon": "flag",
+		"x": 33802,
+		"y": 32787,
 		"z": 7
 	},
 	{
@@ -12845,6 +12908,13 @@
 		"z": 7
 	},
 	{
+		"description": "Portal",
+		"icon": "star",
+		"x": 33842,
+		"y": 32854,
+		"z": 7
+	},
+	{
 		"description": "Use hammer",
 		"icon": "checkmark",
 		"x": 33843,
@@ -12856,6 +12926,13 @@
 		"icon": "down",
 		"x": 33851,
 		"y": 31613,
+		"z": 7
+	},
+	{
+		"description": "Southern Crab constellation",
+		"icon": "up",
+		"x": 33851,
+		"y": 32822,
 		"z": 7
 	},
 	{
@@ -12947,6 +13024,13 @@
 		"icon": "sword",
 		"x": 33876,
 		"y": 31686,
+		"z": 7
+	},
+	{
+		"description": "Statue of Amati",
+		"icon": "mouth",
+		"x": 33877,
+		"y": 32823,
 		"z": 7
 	},
 	{
