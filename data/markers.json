@@ -21588,6 +21588,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33901,
+		"y": 31099,
+		"z": 9
+	},
+	{
 		"description": "Memory enlightener (use shards here)",
 		"icon": "star",
 		"x": 33903,
@@ -21595,10 +21602,38 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33906,
+		"y": 31044,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33907,
+		"y": 31075,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33908,
+		"y": 31107,
+		"z": 9
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33925,
 		"y": 31621,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33930,
+		"y": 31079,
 		"z": 9
 	},
 	{
@@ -21610,9 +21645,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33933,
+		"y": 31097,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33936,
+		"y": 31055,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33941,
+		"y": 31064,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33943,
 		"y": 31450,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33945,
+		"y": 31012,
 		"z": 9
 	},
 	{
