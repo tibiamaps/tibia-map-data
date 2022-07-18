@@ -462,6 +462,13 @@
 		"z": 2
 	},
 	{
+		"description": "To Marapur",
+		"icon": "flag",
+		"x": 33036,
+		"y": 32737,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33083,
@@ -854,8 +861,8 @@
 		"z": 3
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Greater fire elementals",
+		"icon": "red down",
 		"x": 32959,
 		"y": 32675,
 		"z": 3
@@ -865,6 +872,20 @@
 		"icon": "down",
 		"x": 33004,
 		"y": 31520,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33010,
+		"y": 32726,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33016,
+		"y": 32744,
 		"z": 3
 	},
 	{
@@ -1470,8 +1491,8 @@
 		"z": 4
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Vile destroyers",
+		"icon": "red down",
 		"x": 32936,
 		"y": 32683,
 		"z": 4
@@ -2363,6 +2384,13 @@
 		"icon": "mouth",
 		"x": 32921,
 		"y": 32068,
+		"z": 5
+	},
+	{
+		"description": "NPC Gilmak Copperbeard",
+		"icon": "mouth",
+		"x": 32935,
+		"y": 32672,
 		"z": 5
 	},
 	{
@@ -3903,6 +3931,13 @@
 		"icon": "crossmark",
 		"x": 32962,
 		"y": 31496,
+		"z": 6
+	},
+	{
+		"description": "Greater energy elementals",
+		"icon": "red down",
+		"x": 32964,
+		"y": 32671,
 		"z": 6
 	},
 	{
@@ -8743,8 +8778,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "Cave hydras",
+		"icon": "red down",
 		"x": 32942,
 		"y": 32677,
 		"z": 7
