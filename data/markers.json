@@ -10563,6 +10563,13 @@
 		"z": 7
 	},
 	{
+		"description": "Jailer spawn tile (fire bomb spot)",
+		"icon": "star",
+		"x": 33355,
+		"y": 31345,
+		"z": 7
+	},
+	{
 		"description": "Maintenance Tunnel Entry",
 		"icon": "crossmark",
 		"x": 33356,
@@ -12684,7 +12691,7 @@
 		"z": 7
 	},
 	{
-		"description": "to Moonfall's Tavern, Library and Palace of the Maharani",
+		"description": "To Moonfall's Tavern, Library and Palace of the Maharani",
 		"icon": "mouth",
 		"x": 33743,
 		"y": 32797,
@@ -12838,7 +12845,7 @@
 		"z": 7
 	},
 	{
-		"description": "to Moonfall Carpet, Market Place and Magic Store",
+		"description": "To Moonfall Carpet, Market Place and Magic Store",
 		"icon": "flag",
 		"x": 33802,
 		"y": 32787,
@@ -32543,6 +32550,13 @@
 		"z": 14
 	},
 	{
+		"description": "Steamboat",
+		"icon": "flag",
+		"x": 33517,
+		"y": 32857,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33522,
@@ -32561,6 +32575,13 @@
 		"icon": "crossmark",
 		"x": 33530,
 		"y": 31239,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33531,
+		"y": 32900,
 		"z": 14
 	},
 	{
@@ -32617,6 +32638,13 @@
 		"icon": "up",
 		"x": 33551,
 		"y": 31940,
+		"z": 14
+	},
+	{
+		"description": "Safe spot",
+		"icon": "up",
+		"x": 33551,
+		"y": 32950,
 		"z": 14
 	},
 	{
@@ -32942,8 +32970,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Magma Bubble",
+		"icon": "sword",
 		"x": 33660,
 		"y": 32895,
 		"z": 14
@@ -34472,6 +34500,13 @@
 		"icon": "up",
 		"x": 33522,
 		"y": 31367,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33531,
+		"y": 32900,
 		"z": 15
 	},
 	{
