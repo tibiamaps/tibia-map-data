@@ -11949,6 +11949,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Murmuring Wilderness",
+		"icon": "flag",
+		"x": 33634,
+		"y": 32770,
+		"z": 7
+	},
+	{
 		"description": "To the city (Rathleton)",
 		"icon": "up",
 		"x": 33636,
@@ -12740,6 +12747,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Emerald Gardens",
+		"icon": "flag",
+		"x": 33777,
+		"y": 32661,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33778,
@@ -12779,6 +12793,13 @@
 		"icon": "checkmark",
 		"x": 33790,
 		"y": 32671,
+		"z": 7
+	},
+	{
+		"description": "To Fading Isles",
+		"icon": "flag",
+		"x": 33790,
+		"y": 32868,
 		"z": 7
 	},
 	{
@@ -13171,6 +13192,13 @@
 		"icon": "star",
 		"x": 33901,
 		"y": 31592,
+		"z": 7
+	},
+	{
+		"description": "To Silvertides",
+		"icon": "flag",
+		"x": 33903,
+		"y": 32760,
 		"z": 7
 	},
 	{
@@ -17105,13 +17133,6 @@
 		"icon": "sword",
 		"x": 33566,
 		"y": 31475,
-		"z": 8
-	},
-	{
-		"description": "Unaz the Mean",
-		"icon": "sword",
-		"x": 33566,
-		"y": 31478,
 		"z": 8
 	},
 	{
