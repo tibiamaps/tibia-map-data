@@ -665,6 +665,13 @@
 		"z": 2
 	},
 	{
+		"description": "MISSING MAPS",
+		"icon": "checkmark",
+		"x": 33728,
+		"y": 32770,
+		"z": 2
+	},
+	{
 		"description": "Smaller Rose constellation",
 		"icon": "crossmark",
 		"x": 33747,
@@ -2928,6 +2935,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33702,
+		"y": 32812,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33703,
 		"y": 31946,
 		"z": 5
@@ -5061,7 +5075,7 @@
 		"z": 6
 	},
 	{
-		"description": "Southern Crab constellation",
+		"description": "Southern crab constellation",
 		"icon": "crossmark",
 		"x": 33875,
 		"y": 32817,
@@ -7767,6 +7781,13 @@
 		"icon": "up",
 		"x": 32671,
 		"y": 31796,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32671,
+		"y": 32047,
 		"z": 7
 	},
 	{
@@ -12460,7 +12481,7 @@
 		"z": 7
 	},
 	{
-		"description": "Coral vow flower and Turtle constellation",
+		"description": "Coral vow flower and turtle constellation",
 		"icon": "up",
 		"x": 33689,
 		"y": 32693,
@@ -12534,6 +12555,13 @@
 		"icon": "flag",
 		"x": 33701,
 		"y": 32428,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33702,
+		"y": 32815,
 		"z": 7
 	},
 	{
@@ -12775,7 +12803,7 @@
 		"z": 7
 	},
 	{
-		"description": "to Moonfall Depot, Training Statues, Post Office and Bank",
+		"description": "To Moonfall depot, training statues, post office, and bank",
 		"icon": "lock",
 		"x": 33784,
 		"y": 32768,
@@ -12978,8 +13006,8 @@
 		"z": 7
 	},
 	{
-		"description": "Portal",
-		"icon": "star",
+		"description": "To Port Hope",
+		"icon": "flag",
 		"x": 33842,
 		"y": 32854,
 		"z": 7
@@ -12999,7 +13027,7 @@
 		"z": 7
 	},
 	{
-		"description": "Southern Crab constellation",
+		"description": "Southern crab constellation",
 		"icon": "up",
 		"x": 33851,
 		"y": 32822,
