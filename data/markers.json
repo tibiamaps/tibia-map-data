@@ -658,21 +658,14 @@
 		"z": 2
 	},
 	{
-		"description": "Glass Lens",
+		"description": "Glass lens",
 		"icon": "checkmark",
 		"x": 33716,
 		"y": 32777,
 		"z": 2
 	},
 	{
-		"description": "MISSING MAPS",
-		"icon": "checkmark",
-		"x": 33728,
-		"y": 32770,
-		"z": 2
-	},
-	{
-		"description": "Smaller Rose constellation",
+		"description": "Smaller rose constellation",
 		"icon": "crossmark",
 		"x": 33747,
 		"y": 32786,
