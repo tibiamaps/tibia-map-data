@@ -3,8 +3,6 @@ minimap
 *.zip
 dist
 
-# npm stuff
-package-lock.json
 node_modules
 
 # Folder view configuration files
