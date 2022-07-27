@@ -15484,6 +15484,13 @@
 		"z": 8
 	},
 	{
+		"description": "Hairman the Huge spawn location",
+		"icon": "star",
+		"x": 32846,
+		"y": 32509,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32849,
@@ -15544,6 +15551,13 @@
 		"icon": "up",
 		"x": 32886,
 		"y": 32590,
+		"z": 8
+	},
+	{
+		"description": "Xenia spawn location",
+		"icon": "star",
+		"x": 32891,
+		"y": 31888,
 		"z": 8
 	},
 	{
