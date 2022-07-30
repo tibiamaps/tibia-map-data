@@ -1848,6 +1848,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33815,
+		"y": 32765,
+		"z": 4
+	},
+	{
 		"description": "Fog to lower floor",
 		"icon": "sword",
 		"x": 33829,
@@ -13239,8 +13246,8 @@
 	{
 		"description": "Magic store (potions)",
 		"icon": "star",
-		"x": 33910,
-		"y": 31513,
+		"x": 33911,
+		"y": 31512,
 		"z": 7
 	},
 	{
@@ -30864,6 +30871,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33392,
+		"y": 32731,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "star",
 		"x": 33394,
 		"y": 31701,
@@ -32263,10 +32277,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Switch",
 		"icon": "checkmark",
-		"x": 33307,
-		"y": 32736,
+		"x": 33306,
+		"y": 32734,
 		"z": 14
 	},
 	{
@@ -32285,16 +32299,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33320,
-		"y": 32681,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33321,
 		"y": 31843,
+		"z": 14
+	},
+	{
+		"description": "Switch",
+		"icon": "checkmark",
+		"x": 33321,
+		"y": 32682,
 		"z": 14
 	},
 	{
@@ -32333,10 +32347,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Switch",
 		"icon": "checkmark",
 		"x": 33350,
-		"y": 32681,
+		"y": 32680,
 		"z": 14
 	},
 	{
@@ -32347,13 +32361,6 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33355,
-		"y": 32680,
-		"z": 14
-	},
-	{
 		"description": "Grounds of Destruction / Razzagorn / Apocalypse",
 		"icon": "flag",
 		"x": 33356,
@@ -32361,10 +32368,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Switch",
 		"icon": "checkmark",
-		"x": 33356,
-		"y": 32750,
+		"x": 33357,
+		"y": 32748,
 		"z": 14
 	},
 	{
@@ -32377,15 +32384,15 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33358,
-		"y": 32702,
+		"x": 33359,
+		"y": 31604,
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Switch",
 		"icon": "checkmark",
 		"x": 33359,
-		"y": 31604,
+		"y": 32701,
 		"z": 14
 	},
 	{
@@ -32396,31 +32403,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Switch",
 		"icon": "checkmark",
-		"x": 33365,
-		"y": 32700,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33372,
-		"y": 32761,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33377,
-		"y": 32762,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33379,
-		"y": 32786,
+		"x": 33369,
+		"y": 32763,
 		"z": 14
 	},
 	{
@@ -32428,6 +32414,13 @@
 		"icon": "!",
 		"x": 33380,
 		"y": 31051,
+		"z": 14
+	},
+	{
+		"description": "Switch",
+		"icon": "checkmark",
+		"x": 33381,
+		"y": 32786,
 		"z": 14
 	},
 	{
@@ -32442,6 +32435,13 @@
 		"icon": "flag",
 		"x": 33384,
 		"y": 31064,
+		"z": 14
+	},
+	{
+		"description": "To Telas",
+		"icon": "sword",
+		"x": 33393,
+		"y": 32802,
 		"z": 14
 	},
 	{
