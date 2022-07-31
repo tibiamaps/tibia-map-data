@@ -1849,6 +1849,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33808,
+		"y": 32779,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33815,
 		"y": 32765,
@@ -3007,6 +3014,13 @@
 		"icon": "cross",
 		"x": 33776,
 		"y": 32754,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33791,
+		"y": 32767,
 		"z": 5
 	},
 	{
@@ -5793,6 +5807,13 @@
 		"icon": "red down",
 		"x": 32181,
 		"y": 32808,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32185,
+		"y": 31952,
 		"z": 7
 	},
 	{
@@ -17907,7 +17928,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 31957,
 		"y": 32469,
 		"z": 9
@@ -18848,6 +18869,13 @@
 		"icon": "down",
 		"x": 32506,
 		"y": 31093,
+		"z": 9
+	},
+	{
+		"description": "Shortcut",
+		"icon": "red up",
+		"x": 32508,
+		"y": 32371,
 		"z": 9
 	},
 	{
@@ -22703,6 +22731,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32511,
+		"y": 32343,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32518,
 		"y": 31965,
 		"z": 10
@@ -22747,6 +22782,13 @@
 		"icon": "up",
 		"x": 32531,
 		"y": 32708,
+		"z": 10
+	},
+	{
+		"description": "The Souldespoiler",
+		"icon": "sword",
+		"x": 32538,
+		"y": 32469,
 		"z": 10
 	},
 	{
@@ -34055,7 +34097,7 @@
 		"z": 15
 	},
 	{
-		"description": "Souldespoiler room",
+		"description": "The Souldespoiler room",
 		"icon": "sword",
 		"x": 33129,
 		"y": 31925,
