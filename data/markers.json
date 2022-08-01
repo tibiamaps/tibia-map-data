@@ -2618,6 +2618,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33207,
+		"y": 31759,
+		"z": 5
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 33208,
@@ -6566,6 +6573,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32356,
+		"y": 32170,
+		"z": 7
+	},
+	{
 		"description": "Ice golems and crystal spiders",
 		"icon": "red down",
 		"x": 32357,
@@ -6731,6 +6745,13 @@
 		"icon": "down",
 		"x": 32400,
 		"y": 32912,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32404,
+		"y": 31790,
 		"z": 7
 	},
 	{
@@ -10497,6 +10518,13 @@
 		"icon": "up",
 		"x": 33312,
 		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33312,
+		"y": 32281,
 		"z": 7
 	},
 	{
@@ -16920,6 +16948,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 33461,
+		"y": 31131,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "sword",
 		"x": 33476,
 		"y": 31246,
@@ -17934,6 +17969,13 @@
 		"z": 9
 	},
 	{
+		"description": "The False God (continue using the left teleport)",
+		"icon": "sword",
+		"x": 31959,
+		"y": 32420,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 31959,
@@ -18533,6 +18575,13 @@
 		"icon": "red up",
 		"x": 32355,
 		"y": 32143,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32356,
+		"y": 32173,
 		"z": 9
 	},
 	{
@@ -19464,6 +19513,13 @@
 		"icon": "down",
 		"x": 32718,
 		"y": 31846,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32721,
+		"y": 31546,
 		"z": 9
 	},
 	{
@@ -32130,7 +32186,7 @@
 		"z": 14
 	},
 	{
-		"description": "Teleport to Time Guardian waiting room",
+		"description": "Teleport to The Time Guardian waiting room",
 		"icon": "star",
 		"x": 33024,
 		"y": 31664,
@@ -33908,8 +33964,8 @@
 		"z": 15
 	},
 	{
-		"description": "Teleport to Lloyd waiting room",
-		"icon": "star",
+		"description": "The Time Guardian (continue using the left teleport)",
+		"icon": "sword",
 		"x": 32849,
 		"y": 32689,
 		"z": 15
