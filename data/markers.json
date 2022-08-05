@@ -7882,6 +7882,13 @@
 		"z": 7
 	},
 	{
+		"description": "Bibby Bloodbath (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32679,
+		"y": 32042,
+		"z": 7
+	},
+	{
 		"description": "Water elementals",
 		"icon": "red down",
 		"x": 32679,
@@ -15890,6 +15897,13 @@
 		"z": 8
 	},
 	{
+		"description": "Undead mine worker (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33027,
+		"y": 31790,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33027,
@@ -15901,6 +15915,20 @@
 		"icon": "red up",
 		"x": 33027,
 		"y": 32730,
+		"z": 8
+	},
+	{
+		"description": "Undead prospector (exact spawn tile)",
+		"icon": "star",
+		"x": 33028,
+		"y": 31761,
+		"z": 8
+	},
+	{
+		"description": "Undead mine worker (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33029,
+		"y": 31774,
 		"z": 8
 	},
 	{
@@ -15936,6 +15964,20 @@
 		"icon": "down",
 		"x": 33043,
 		"y": 32554,
+		"z": 8
+	},
+	{
+		"description": "Undead mine worker (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33044,
+		"y": 31799,
+		"z": 8
+	},
+	{
+		"description": "Undead prospector (exact spawn tile)",
+		"icon": "star",
+		"x": 33044,
+		"y": 31811,
 		"z": 8
 	},
 	{
@@ -16027,6 +16069,13 @@
 		"icon": "down",
 		"x": 33070,
 		"y": 31402,
+		"z": 8
+	},
+	{
+		"description": "Undead mine worker (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33070,
+		"y": 31804,
 		"z": 8
 	},
 	{
@@ -19014,7 +19063,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32527,
+		"x": 32526,
 		"y": 32400,
 		"z": 9
 	},
