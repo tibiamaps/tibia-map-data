@@ -3046,6 +3046,20 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33808,
+		"y": 32779,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33810,
+		"y": 32787,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33827,
 		"y": 31658,
@@ -6255,6 +6269,13 @@
 		"icon": "flag",
 		"x": 32301,
 		"y": 31083,
+		"z": 7
+	},
+	{
+		"description": "Towards Glitterscale",
+		"icon": "down",
+		"x": 32301,
+		"y": 32097,
 		"z": 7
 	},
 	{
@@ -9839,6 +9860,13 @@
 		"icon": "down",
 		"x": 33169,
 		"y": 31812,
+		"z": 7
+	},
+	{
+		"description": "The Big Bad One (approximate spawn location)",
+		"icon": "star",
+		"x": 33171,
+		"y": 31681,
 		"z": 7
 	},
 	{
@@ -16891,10 +16919,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33315,
+		"y": 32674,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33317,
 		"y": 32146,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33322,
+		"y": 32697,
 		"z": 8
 	},
 	{
@@ -18516,6 +18558,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32235,
+		"y": 32140,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32235,
 		"y": 32870,
@@ -18593,6 +18642,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32271,
+		"y": 32132,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32273,
 		"y": 32871,
@@ -18610,6 +18666,13 @@
 		"icon": "up",
 		"x": 32295,
 		"y": 31441,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32299,
+		"y": 32103,
 		"z": 9
 	},
 	{
@@ -21065,6 +21128,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33322,
+		"y": 32697,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33326,
 		"y": 31331,
 		"z": 9
@@ -22423,6 +22493,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32271,
+		"y": 32132,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32276,
 		"y": 32840,
 		"z": 10
@@ -22446,6 +22523,13 @@
 		"icon": "down",
 		"x": 32290,
 		"y": 32812,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32299,
+		"y": 32121,
 		"z": 10
 	},
 	{
@@ -24735,6 +24819,20 @@
 		"icon": "up",
 		"x": 33322,
 		"y": 31548,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33322,
+		"y": 32704,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33323,
+		"y": 32663,
 		"z": 10
 	},
 	{
@@ -27318,6 +27416,13 @@
 		"icon": "up",
 		"x": 33306,
 		"y": 32290,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33323,
+		"y": 32663,
 		"z": 11
 	},
 	{
@@ -32928,6 +33033,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33545,
+		"y": 31456,
+		"z": 14
+	},
+	{
 		"description": "Idol 5",
 		"icon": "star",
 		"x": 33548,
@@ -33075,17 +33187,17 @@
 		"z": 14
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33576,
-		"y": 31422,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33576,
 		"y": 32544,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33577,
+		"y": 31422,
 		"z": 14
 	},
 	{
@@ -35011,6 +35123,13 @@
 		"icon": "checkmark",
 		"x": 33607,
 		"y": 32031,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33609,
+		"y": 31404,
 		"z": 15
 	},
 	{
