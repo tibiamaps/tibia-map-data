@@ -1659,7 +1659,7 @@
 		"z": 4
 	},
 	{
-		"description": "Chirzzoron",
+		"description": "Chizzoron the Distorter (spawn location)",
 		"icon": "star",
 		"x": 33347,
 		"y": 31609,
@@ -8988,6 +8988,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32979,
+		"y": 32635,
+		"z": 7
+	},
+	{
 		"description": "Dwarves",
 		"icon": "down",
 		"x": 32979,
@@ -9667,13 +9674,6 @@
 		"z": 7
 	},
 	{
-		"description": "Zomba",
-		"icon": "star",
-		"x": 33133,
-		"y": 32441,
-		"z": 7
-	},
-	{
 		"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
 		"icon": "!",
 		"x": 33133,
@@ -9783,6 +9783,13 @@
 		"icon": "red down",
 		"x": 33157,
 		"y": 31720,
+		"z": 7
+	},
+	{
+		"description": "Zomba (approximate spawn location)",
+		"icon": "star",
+		"x": 33158,
+		"y": 32427,
 		"z": 7
 	},
 	{
@@ -18769,6 +18776,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32388,
+		"y": 32848,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32389,
 		"y": 32197,
 		"z": 9
@@ -21133,17 +21147,17 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33326,
-		"y": 31331,
-		"z": 9
-	},
-	{
 		"description": "Mad Mage (spawn location)",
 		"icon": "star",
 		"x": 33328,
 		"y": 31861,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33329,
+		"y": 31332,
 		"z": 9
 	},
 	{
@@ -23254,6 +23268,13 @@
 		"z": 10
 	},
 	{
+		"description": "Groam (approximate spawn location)",
+		"icon": "star",
+		"x": 32625,
+		"y": 32026,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32628,
@@ -24900,7 +24921,7 @@
 	},
 	{
 		"description": "Teleport to Dragonking Zyrtarch waiting room",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33408,
 		"y": 31171,
 		"z": 10
@@ -31168,6 +31189,13 @@
 		"icon": "down",
 		"x": 33310,
 		"y": 32379,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33321,
+		"y": 32326,
 		"z": 13
 	},
 	{
