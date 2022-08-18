@@ -9184,13 +9184,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33029,
-		"y": 31388,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 33029,
@@ -35056,7 +35049,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Excavation site Firefoot",
 		"icon": "star",
 		"x": 33556,
 		"y": 32882,
@@ -35196,7 +35189,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Excavation site Moss",
 		"icon": "star",
 		"x": 33618,
 		"y": 32951,
@@ -35287,7 +35280,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Site GT-M-01",
 		"icon": "star",
 		"x": 33658,
 		"y": 32968,
@@ -35308,7 +35301,7 @@
 		"z": 15
 	},
 	{
-		"description": "Artifact Experiment",
+		"description": "Testing area (Resonating the Stone! mission)",
 		"icon": "star",
 		"x": 33671,
 		"y": 32869,
