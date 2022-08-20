@@ -1519,10 +1519,31 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32982,
+		"y": 32629,
+		"z": 4
+	},
+	{
 		"description": "Flying carpet",
 		"icon": "up",
 		"x": 32991,
 		"y": 31539,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32995,
+		"y": 32633,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32997,
+		"y": 32641,
 		"z": 4
 	},
 	{
@@ -7238,13 +7259,6 @@
 		"z": 7
 	},
 	{
-		"description": "Slime training spot",
-		"icon": "sword",
-		"x": 32529,
-		"y": 32721,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32531,
@@ -8491,6 +8505,13 @@
 		"z": 7
 	},
 	{
+		"description": "Black knight villa",
+		"icon": "down",
+		"x": 32826,
+		"y": 31957,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -8544,6 +8565,13 @@
 		"icon": "down",
 		"x": 32841,
 		"y": 32231,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32841,
+		"y": 32526,
 		"z": 7
 	},
 	{
@@ -9391,6 +9419,13 @@
 		"icon": "red down",
 		"x": 33074,
 		"y": 31185,
+		"z": 7
+	},
+	{
+		"description": "Cublarc the Plunderer (possible spawn location)",
+		"icon": "star",
+		"x": 33074,
+		"y": 31370,
 		"z": 7
 	},
 	{
@@ -10266,6 +10301,13 @@
 		"icon": "checkmark",
 		"x": 33234,
 		"y": 31185,
+		"z": 7
+	},
+	{
+		"description": "Cublarc the Plunderer (possible spawn location)",
+		"icon": "star",
+		"x": 33234,
+		"y": 31433,
 		"z": 7
 	},
 	{
@@ -16152,6 +16194,13 @@
 		"description": "",
 		"icon": "down",
 		"x": 33076,
+		"y": 32573,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33076,
 		"y": 32755,
 		"z": 8
 	},
@@ -16310,6 +16359,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33133,
+		"y": 32568,
+		"z": 8
+	},
+	{
 		"description": "Task boss: Tromphonyte",
 		"icon": "!",
 		"x": 33136,
@@ -16352,10 +16408,24 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33142,
+		"y": 32838,
+		"z": 8
+	},
+	{
 		"description": "Dead explorer (old parchment)",
 		"icon": "star",
 		"x": 33146,
 		"y": 32341,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33149,
+		"y": 32835,
 		"z": 8
 	},
 	{
@@ -20707,6 +20777,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33149,
+		"y": 32835,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33151,
 		"y": 31820,
@@ -20717,6 +20794,13 @@
 		"icon": "up",
 		"x": 33156,
 		"y": 32606,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33157,
+		"y": 32835,
 		"z": 9
 	},
 	{
@@ -23093,6 +23177,13 @@
 		"z": 10
 	},
 	{
+		"description": "Smuggler Baron Silvertoe (approximate spawn location)",
+		"icon": "star",
+		"x": 32541,
+		"y": 32649,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32549,
@@ -23800,6 +23891,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32825,
+		"y": 31968,
+		"z": 10
+	},
+	{
 		"description": "Old letter and strand of hair",
 		"icon": "star",
 		"x": 32825,
@@ -23839,6 +23937,27 @@
 		"icon": "sword",
 		"x": 32848,
 		"y": 32806,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32850,
+		"y": 31971,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32850,
+		"y": 31984,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32853,
+		"y": 31993,
 		"z": 10
 	},
 	{
@@ -24609,6 +24728,13 @@
 		"icon": "checkmark",
 		"x": 33143,
 		"y": 32051,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33153,
+		"y": 32834,
 		"z": 10
 	},
 	{
@@ -26656,6 +26782,27 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32850,
+		"y": 31971,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32850,
+		"y": 31984,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32853,
+		"y": 31993,
+		"z": 11
+	},
+	{
 		"description": "Statue of the snake god",
 		"icon": "star",
 		"x": 32859,
@@ -26695,6 +26842,20 @@
 		"icon": "flag",
 		"x": 32864,
 		"y": 31845,
+		"z": 11
+	},
+	{
+		"description": "Black knight (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32874,
+		"y": 31948,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32875,
+		"y": 31977,
 		"z": 11
 	},
 	{
@@ -27272,6 +27433,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33163,
+		"y": 32851,
+		"z": 11
+	},
+	{
 		"description": "NPC A Skull",
 		"icon": "mouth",
 		"x": 33165,
@@ -27339,6 +27507,13 @@
 		"icon": "up",
 		"x": 33192,
 		"y": 32399,
+		"z": 11
+	},
+	{
+		"description": "Ashmunrah",
+		"icon": "sword",
+		"x": 33193,
+		"y": 32908,
 		"z": 11
 	},
 	{
@@ -28938,6 +29113,13 @@
 		"z": 12
 	},
 	{
+		"description": "Towards black knight",
+		"icon": "sword",
+		"x": 32874,
+		"y": 31941,
+		"z": 12
+	},
+	{
 		"description": "1",
 		"icon": "checkmark",
 		"x": 32874,
@@ -29232,7 +29414,7 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "Towards Rahemos",
 		"icon": "flag",
 		"x": 33135,
 		"y": 32683,
@@ -30877,6 +31059,13 @@
 		"z": 13
 	},
 	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33007,
+		"y": 32563,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33013,
@@ -30888,6 +31077,20 @@
 		"icon": "up",
 		"x": 33027,
 		"y": 31083,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33027,
+		"y": 32531,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33028,
+		"y": 32587,
 		"z": 13
 	},
 	{
@@ -30909,6 +31112,13 @@
 		"icon": "up",
 		"x": 33037,
 		"y": 32009,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33037,
+		"y": 32507,
 		"z": 13
 	},
 	{
@@ -30961,6 +31171,13 @@
 		"z": 13
 	},
 	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33055,
+		"y": 32488,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33068,
@@ -30979,6 +31196,13 @@
 		"icon": "red down",
 		"x": 33074,
 		"y": 32370,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33076,
+		"y": 32507,
 		"z": 13
 	},
 	{
@@ -31003,10 +31227,24 @@
 		"z": 13
 	},
 	{
+		"description": "Teleport (enable by flipping all switches to the right)",
+		"icon": "flag",
+		"x": 33083,
+		"y": 32569,
+		"z": 13
+	},
+	{
 		"description": "Wyrms / elder wyrms",
 		"icon": "red down",
 		"x": 33089,
 		"y": 32384,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33089,
+		"y": 32515,
 		"z": 13
 	},
 	{
@@ -31031,10 +31269,24 @@
 		"z": 13
 	},
 	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33103,
+		"y": 32514,
+		"z": 13
+	},
+	{
 		"description": "Task boss: Ribstride",
 		"icon": "!",
 		"x": 33109,
 		"y": 32803,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33123,
+		"y": 32598,
 		"z": 13
 	},
 	{
@@ -31052,6 +31304,13 @@
 		"z": 13
 	},
 	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33130,
+		"y": 32490,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33144,
@@ -31063,6 +31322,13 @@
 		"icon": "checkmark",
 		"x": 33146,
 		"y": 31697,
+		"z": 13
+	},
+	{
+		"description": "Switch",
+		"icon": "crossmark",
+		"x": 33147,
+		"y": 32525,
 		"z": 13
 	},
 	{
@@ -32522,10 +32788,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33056,
+		"y": 32636,
+		"z": 14
+	},
+	{
 		"description": "Wrath of the Emperor",
 		"icon": "sword",
 		"x": 33059,
 		"y": 31121,
+		"z": 14
+	},
+	{
+		"description": "Rahemos (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33076,
+		"y": 32781,
 		"z": 14
 	},
 	{
@@ -32544,9 +32824,93 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33115,
+		"y": 32784,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33115,
+		"y": 32796,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33116,
+		"y": 32793,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33117,
+		"y": 32782,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33119,
+		"y": 32787,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33120,
+		"y": 32780,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33120,
+		"y": 32789,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33124,
+		"y": 32768,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33124,
+		"y": 32771,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33124,
+		"y": 32774,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33124,
+		"y": 32778,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33126,
 		"y": 32930,
+		"z": 14
+	},
+	{
+		"description": "Towards Rahemos",
+		"icon": "flag",
+		"x": 33130,
+		"y": 32736,
 		"z": 14
 	},
 	{
@@ -32554,6 +32918,13 @@
 		"icon": "up",
 		"x": 33163,
 		"y": 31715,
+		"z": 14
+	},
+	{
+		"description": "Morguthis (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33169,
+		"y": 32694,
 		"z": 14
 	},
 	{
@@ -32578,10 +32949,24 @@
 		"z": 14
 	},
 	{
+		"description": "Towards Morguthis",
+		"icon": "flag",
+		"x": 33238,
+		"y": 32644,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33246,
 		"y": 31932,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33246,
+		"y": 32853,
 		"z": 14
 	},
 	{
@@ -34174,6 +34559,13 @@
 		"z": 15
 	},
 	{
+		"description": "Mr. Punish (approximate spawn location)",
+		"icon": "star",
+		"x": 32762,
+		"y": 32242,
+		"z": 15
+	},
+	{
 		"description": "Countess Sorrow spawn location",
 		"icon": "star",
 		"x": 32797,
@@ -34230,6 +34622,13 @@
 		"z": 15
 	},
 	{
+		"description": "Plasmother",
+		"icon": "star",
+		"x": 32836,
+		"y": 32332,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32836,
@@ -34255,6 +34654,13 @@
 		"icon": "star",
 		"x": 32870,
 		"y": 32723,
+		"z": 15
+	},
+	{
+		"description": "Massacre (approximate spawn location)",
+		"icon": "star",
+		"x": 32875,
+		"y": 32266,
 		"z": 15
 	},
 	{
@@ -34308,35 +34714,35 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33070,
 		"y": 32609,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33070,
 		"y": 32617,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33070,
 		"y": 32629,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33070,
 		"y": 32637,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33073,
 		"y": 32633,
 		"z": 15
@@ -34350,21 +34756,21 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33076,
 		"y": 32613,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33076,
 		"y": 32621,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33076,
 		"y": 32625,
 		"z": 15
@@ -34503,10 +34909,38 @@
 		"z": 15
 	},
 	{
+		"description": "Vashresamun",
+		"icon": "sword",
+		"x": 33178,
+		"y": 32664,
+		"z": 15
+	},
+	{
 		"description": "The False God pre-lever room",
 		"icon": "sword",
 		"x": 33181,
 		"y": 31894,
+		"z": 15
+	},
+	{
+		"description": "Mahrdis",
+		"icon": "sword",
+		"x": 33183,
+		"y": 32757,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33184,
+		"y": 32767,
+		"z": 15
+	},
+	{
+		"description": "Correct order: drum, panpipe, mandolin, lyre, horn",
+		"icon": "?",
+		"x": 33187,
+		"y": 32664,
 		"z": 15
 	},
 	{
