@@ -856,6 +856,20 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32939,
+		"y": 31462,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32939,
+		"y": 31479,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32947,
 		"y": 32673,
 		"z": 3
@@ -868,10 +882,24 @@
 		"z": 3
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32955,
+		"y": 31444,
+		"z": 3
+	},
+	{
 		"description": "Greater fire elementals",
 		"icon": "red down",
 		"x": 32959,
 		"y": 32675,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32965,
+		"y": 31461,
 		"z": 3
 	},
 	{
@@ -1507,6 +1535,27 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32944,
+		"y": 31455,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32944,
+		"y": 31473,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32950,
+		"y": 31449,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32950,
 		"y": 32673,
 		"z": 4
@@ -1516,6 +1565,13 @@
 		"icon": "down",
 		"x": 32965,
 		"y": 32680,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32971,
+		"y": 31464,
 		"z": 4
 	},
 	{
@@ -2438,6 +2494,34 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32936,
+		"y": 31483,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32937,
+		"y": 31461,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32953,
+		"y": 31442,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32962,
+		"y": 31456,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32965,
 		"y": 32680,
 		"z": 5
@@ -2650,6 +2734,13 @@
 		"icon": "red down",
 		"x": 33208,
 		"y": 31030,
+		"z": 5
+	},
+	{
+		"description": "Dreadmaw (approximate spawn location)",
+		"icon": "star",
+		"x": 33272,
+		"y": 31165,
 		"z": 5
 	},
 	{
@@ -3983,6 +4074,20 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 31461,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 31478,
+		"z": 6
+	},
+	{
 		"description": "Dark stone totem (use golden symbol of Suon)",
 		"icon": "star",
 		"x": 32950,
@@ -4011,6 +4116,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32960,
+		"y": 31467,
+		"z": 6
+	},
+	{
 		"description": "Castle garden (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32962,
@@ -4029,6 +4141,13 @@
 		"icon": "up",
 		"x": 32965,
 		"y": 32685,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32966,
+		"y": 31452,
 		"z": 6
 	},
 	{
@@ -6612,6 +6731,13 @@
 		"icon": "sword",
 		"x": 32350,
 		"y": 32238,
+		"z": 7
+	},
+	{
+		"description": "Willi Wasp (approximate spawn location)",
+		"icon": "star",
+		"x": 32352,
+		"y": 31721,
 		"z": 7
 	},
 	{
@@ -10101,6 +10227,13 @@
 		"z": 7
 	},
 	{
+		"description": "Battlemaster Zunzu (approximate spawn location)",
+		"icon": "star",
+		"x": 33205,
+		"y": 31239,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33206,
@@ -10388,6 +10521,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33253,
+		"y": 31417,
+		"z": 7
+	},
+	{
 		"description": "Nightmare Isles",
 		"icon": "sword",
 		"x": 33254,
@@ -10490,6 +10630,13 @@
 		"icon": "red down",
 		"x": 33277,
 		"y": 31958,
+		"z": 7
+	},
+	{
+		"description": "Battlemaster Zunzu (approximate spawn location)",
+		"icon": "star",
+		"x": 33279,
+		"y": 31246,
 		"z": 7
 	},
 	{
@@ -10938,6 +11085,13 @@
 		"icon": "down",
 		"x": 33453,
 		"y": 31345,
+		"z": 7
+	},
+	{
+		"description": "The Source of Corruption",
+		"icon": "red left",
+		"x": 33453,
+		"y": 32241,
 		"z": 7
 	},
 	{
@@ -16254,6 +16408,13 @@
 		"z": 8
 	},
 	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33095,
+		"y": 31378,
+		"z": 8
+	},
+	{
 		"description": "To Haunted House (Outlaw Camp)",
 		"icon": "flag",
 		"x": 33095,
@@ -16314,6 +16475,13 @@
 		"icon": "up",
 		"x": 33109,
 		"y": 31721,
+		"z": 8
+	},
+	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33111,
+		"y": 31459,
 		"z": 8
 	},
 	{
@@ -16878,7 +17046,7 @@
 	},
 	{
 		"description": "On",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33281,
 		"y": 32442,
 		"z": 8
@@ -16892,7 +17060,7 @@
 	},
 	{
 		"description": "On",
-		"icon": "star",
+		"icon": "checkmark",
 		"x": 33286,
 		"y": 32444,
 		"z": 8
@@ -26103,6 +26271,13 @@
 		"z": 11
 	},
 	{
+		"description": "Grandfather Tridian (approximate spawn location)",
+		"icon": "star",
+		"x": 32412,
+		"y": 32778,
+		"z": 11
+	},
+	{
 		"description": "3. To surface",
 		"icon": "down",
 		"x": 32417,
@@ -26587,7 +26762,7 @@
 	},
 	{
 		"description": "Teleport to Ekatrix",
-		"icon": "star",
+		"icon": "sword",
 		"x": 32708,
 		"y": 31859,
 		"z": 11
@@ -34444,6 +34619,13 @@
 		"icon": "!",
 		"x": 32343,
 		"y": 32582,
+		"z": 15
+	},
+	{
+		"description": "General Murius (approximate spawn location)",
+		"icon": "star",
+		"x": 32420,
+		"y": 32121,
 		"z": 15
 	},
 	{
