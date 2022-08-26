@@ -9548,13 +9548,6 @@
 		"z": 7
 	},
 	{
-		"description": "Cublarc the Plunderer (possible spawn location)",
-		"icon": "star",
-		"x": 33074,
-		"y": 31370,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33076,
@@ -9608,6 +9601,13 @@
 		"icon": "up",
 		"x": 33089,
 		"y": 31263,
+		"z": 7
+	},
+	{
+		"description": "Cublarc the Plunderer (spawn location 5 minutes after first raid message)",
+		"icon": "star",
+		"x": 33089,
+		"y": 31371,
 		"z": 7
 	},
 	{
@@ -10437,10 +10437,10 @@
 		"z": 7
 	},
 	{
-		"description": "Cublarc the Plunderer (possible spawn location)",
+		"description": "Cublarc the Plunderer (spawn location 18 minutes after first raid message)",
 		"icon": "star",
-		"x": 33234,
-		"y": 31433,
+		"x": 33236,
+		"y": 31420,
 		"z": 7
 	},
 	{
@@ -10784,6 +10784,13 @@
 		"icon": "down",
 		"x": 33315,
 		"y": 32674,
+		"z": 7
+	},
+	{
+		"description": "Cublarc the Plunderer (spawn location 30 minutes after first raid message)",
+		"icon": "star",
+		"x": 33325,
+		"y": 31449,
 		"z": 7
 	},
 	{
@@ -31360,17 +31367,24 @@
 		"z": 13
 	},
 	{
-		"description": "Wyrms / elder wyrms",
-		"icon": "red down",
+		"description": "",
+		"icon": "up",
 		"x": 33070,
-		"y": 32408,
+		"y": 32396,
 		"z": 13
 	},
 	{
-		"description": "Wyrms / elder wyrms",
-		"icon": "red down",
-		"x": 33074,
-		"y": 32370,
+		"description": "",
+		"icon": "down",
+		"x": 33070,
+		"y": 32409,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33072,
+		"y": 32366,
 		"z": 13
 	},
 	{
@@ -31409,10 +31423,10 @@
 		"z": 13
 	},
 	{
-		"description": "Wyrms / elder wyrms",
-		"icon": "red down",
-		"x": 33089,
-		"y": 32384,
+		"description": "",
+		"icon": "down",
+		"x": 33088,
+		"y": 32382,
 		"z": 13
 	},
 	{
@@ -32956,8 +32970,8 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Tyrn (approximate spawn location)",
+		"icon": "star",
 		"x": 33056,
 		"y": 32393,
 		"z": 14
@@ -32977,10 +32991,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33070,
+		"y": 32409,
+		"z": 14
+	},
+	{
 		"description": "Rahemos (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33076,
 		"y": 32781,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33088,
+		"y": 32382,
 		"z": 14
 	},
 	{
