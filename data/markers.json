@@ -9786,6 +9786,13 @@
 		"z": 7
 	},
 	{
+		"description": "Orshabaal and Morshabaal",
+		"icon": "star",
+		"x": 33119,
+		"y": 31700,
+		"z": 7
+	},
+	{
 		"description": "Blue djinns (the Marid)",
 		"icon": "up",
 		"x": 33120,
@@ -10700,6 +10707,13 @@
 		"icon": "down",
 		"x": 33293,
 		"y": 32314,
+		"z": 7
+	},
+	{
+		"description": "The Blightfather (spawn location)",
+		"icon": "star",
+		"x": 33301,
+		"y": 31153,
 		"z": 7
 	},
 	{
@@ -32536,6 +32550,13 @@
 		"z": 14
 	},
 	{
+		"description": "Zarabustor (spawn location)",
+		"icon": "star",
+		"x": 32509,
+		"y": 31595,
+		"z": 14
+	},
+	{
 		"description": "To exit (shortcut through bonelords)",
 		"icon": "down",
 		"x": 32511,
@@ -34650,6 +34671,13 @@
 		"z": 15
 	},
 	{
+		"description": "Exit to surface",
+		"icon": "flag",
+		"x": 32400,
+		"y": 31656,
+		"z": 15
+	},
+	{
 		"description": "General Murius (approximate spawn location)",
 		"icon": "star",
 		"x": 32420,
@@ -34682,6 +34710,13 @@
 		"icon": "up",
 		"x": 32525,
 		"y": 32145,
+		"z": 15
+	},
+	{
+		"description": "Foreman Kneebiter (spawn location)",
+		"icon": "star",
+		"x": 32550,
+		"y": 31876,
 		"z": 15
 	},
 	{
