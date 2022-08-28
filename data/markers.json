@@ -2681,6 +2681,13 @@
 		"z": 5
 	},
 	{
+		"description": "The Big Bad One (approximate spawn location)",
+		"icon": "star",
+		"x": 33170,
+		"y": 31681,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33173,
@@ -6720,6 +6727,13 @@
 		"z": 7
 	},
 	{
+		"description": "Bibby Bloodbath (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32350,
+		"y": 31721,
+		"z": 7
+	},
+	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32350,
@@ -9907,15 +9921,8 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33150,
-		"y": 31849,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
 		"x": 33151,
-		"y": 31680,
+		"y": 31849,
 		"z": 7
 	},
 	{
@@ -10014,13 +10021,6 @@
 		"icon": "red down",
 		"x": 33167,
 		"y": 32638,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33169,
-		"y": 31650,
 		"z": 7
 	},
 	{
@@ -10126,13 +10126,6 @@
 		"icon": "sword",
 		"x": 33179,
 		"y": 31790,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33180,
-		"y": 31678,
 		"z": 7
 	},
 	{
@@ -15757,13 +15750,6 @@
 		"z": 8
 	},
 	{
-		"description": "Warlock",
-		"icon": "down",
-		"x": 32825,
-		"y": 31694,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32827,
@@ -16713,6 +16699,13 @@
 		"icon": "sword",
 		"x": 33166,
 		"y": 31977,
+		"z": 8
+	},
+	{
+		"description": "Shlorg (approximate spawn location)",
+		"icon": "star",
+		"x": 33167,
+		"y": 31722,
 		"z": 8
 	},
 	{
@@ -21002,8 +20995,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33160,
-		"y": 31853,
+		"x": 33159,
+		"y": 31854,
 		"z": 9
 	},
 	{
@@ -32634,7 +32627,7 @@
 		"z": 14
 	},
 	{
-		"description": "Teleport to Thorn Knight waiting room",
+		"description": "Teleport to The Thorn Knight waiting room",
 		"icon": "star",
 		"x": 32676,
 		"y": 32888,
