@@ -12306,13 +12306,6 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33637,
-		"y": 32484,
-		"z": 7
-	},
-	{
 		"description": "NPC Vuzrog",
 		"icon": "mouth",
 		"x": 33639,
@@ -12324,20 +12317,6 @@
 		"icon": "up",
 		"x": 33640,
 		"y": 31961,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33643,
-		"y": 32467,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33646,
-		"y": 32481,
 		"z": 7
 	},
 	{
@@ -12390,13 +12369,6 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33653,
-		"y": 32453,
-		"z": 7
-	},
-	{
 		"description": "Half-buried face",
 		"icon": "crossmark",
 		"x": 33654,
@@ -12432,20 +12404,6 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33657,
-		"y": 32463,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33657,
-		"y": 32499,
-		"z": 7
-	},
-	{
 		"description": "NPC Larek",
 		"icon": "mouth",
 		"x": 33658,
@@ -12457,20 +12415,6 @@
 		"icon": "crossmark",
 		"x": 33658,
 		"y": 32387,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33658,
-		"y": 32480,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33658,
-		"y": 32494,
 		"z": 7
 	},
 	{
@@ -12530,24 +12474,10 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33666,
-		"y": 32473,
-		"z": 7
-	},
-	{
 		"description": "Safe spot",
 		"icon": "up",
 		"x": 33670,
 		"y": 32442,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33670,
-		"y": 32498,
 		"z": 7
 	},
 	{
@@ -12569,13 +12499,6 @@
 		"icon": "flag",
 		"x": 33672,
 		"y": 32228,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33672,
-		"y": 32474,
 		"z": 7
 	},
 	{
@@ -12628,13 +12551,6 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33676,
-		"y": 32475,
-		"z": 7
-	},
-	{
 		"description": "Secret hole (messages in a bottle required)",
 		"icon": "down",
 		"x": 33677,
@@ -12677,24 +12593,10 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33680,
-		"y": 32489,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33681,
 		"y": 31752,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33681,
-		"y": 32497,
 		"z": 7
 	},
 	{
@@ -12824,13 +12726,6 @@
 		"z": 7
 	},
 	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33695,
-		"y": 32484,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33696,
@@ -12842,13 +12737,6 @@
 		"icon": "up",
 		"x": 33697,
 		"y": 32378,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33697,
-		"y": 32490,
 		"z": 7
 	},
 	{
@@ -12898,13 +12786,6 @@
 		"icon": "up",
 		"x": 33707,
 		"y": 31937,
-		"z": 7
-	},
-	{
-		"description": "Large pile of various bones",
-		"icon": "flag",
-		"x": 33707,
-		"y": 32488,
 		"z": 7
 	},
 	{
@@ -31879,7 +31760,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "red up",
 		"x": 33560,
 		"y": 31395,
 		"z": 13
@@ -31928,7 +31809,7 @@
 	},
 	{
 		"description": "Deepling Ancestorial Grounds",
-		"icon": "flag",
+		"icon": "red down",
 		"x": 33584,
 		"y": 31388,
 		"z": 13
