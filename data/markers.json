@@ -24256,16 +24256,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32991,
-		"y": 32463,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32992,
 		"y": 31885,
+		"z": 10
+	},
+	{
+		"description": "Way towards the Vampire Crypts",
+		"icon": "red left",
+		"x": 32992,
+		"y": 32464,
 		"z": 10
 	},
 	{
@@ -29211,7 +29211,7 @@
 		"z": 12
 	},
 	{
-		"description": "Arachir",
+		"description": "Arachir the Ancient One (spawn location)",
 		"icon": "star",
 		"x": 32965,
 		"y": 32404,
