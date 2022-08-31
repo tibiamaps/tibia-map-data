@@ -10549,6 +10549,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lizard Gate Guardian (spawn location)",
+		"icon": "star",
+		"x": 33262,
+		"y": 31107,
+		"z": 7
+	},
+	{
 		"description": "Towards Earl Osam (Grave Danger boss)",
 		"icon": "red up",
 		"x": 33264,
@@ -10731,20 +10738,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33307,
-		"y": 31174,
-		"z": 7
-	},
-	{
-		"description": "Grand Mother Foulscale (spawn location)",
-		"icon": "star",
-		"x": 33310,
-		"y": 31180,
-		"z": 7
-	},
-	{
 		"description": "Task boss: Fazzrah",
 		"icon": "!",
 		"x": 33310,
@@ -10756,6 +10749,13 @@
 		"icon": "flag",
 		"x": 33310,
 		"y": 31996,
+		"z": 7
+	},
+	{
+		"description": "Grand Mother Foulscale (spawn location)",
+		"icon": "star",
+		"x": 33311,
+		"y": 31178,
 		"z": 7
 	},
 	{
@@ -14442,6 +14442,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32374,
+		"y": 32100,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32383,
 		"y": 32971,
@@ -16384,6 +16391,13 @@
 		"icon": "up",
 		"x": 33119,
 		"y": 31456,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33119,
+		"y": 31740,
 		"z": 8
 	},
 	{
@@ -20741,6 +20755,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33119,
+		"y": 31740,
+		"z": 9
+	},
+	{
 		"description": "Old amphora",
 		"icon": "crossmark",
 		"x": 33119,
@@ -20773,6 +20794,13 @@
 		"icon": "crossmark",
 		"x": 33127,
 		"y": 32340,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33128,
+		"y": 31729,
 		"z": 9
 	},
 	{
@@ -22753,6 +22781,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 32376,
+		"y": 32101,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32376,
 		"y": 32961,
 		"z": 10
 	},
@@ -22761,6 +22796,13 @@
 		"icon": "down",
 		"x": 32377,
 		"y": 32779,
+		"z": 10
+	},
+	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32380,
+		"y": 32078,
 		"z": 10
 	},
 	{
@@ -24648,7 +24690,7 @@
 	},
 	{
 		"description": "Teleport to Deathstrike boss room",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33104,
 		"y": 31908,
 		"z": 10
@@ -24710,6 +24752,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33128,
+		"y": 31729,
+		"z": 10
+	},
+	{
 		"description": "Junk trunk",
 		"icon": "checkmark",
 		"x": 33128,
@@ -24749,6 +24798,13 @@
 		"icon": "up",
 		"x": 33133,
 		"y": 32321,
+		"z": 10
+	},
+	{
+		"description": "Big Boss Trolliver (spawn location)",
+		"icon": "star",
+		"x": 33134,
+		"y": 31723,
 		"z": 10
 	},
 	{
@@ -26062,6 +26118,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32374,
+		"y": 32070,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32376,
 		"y": 32905,
@@ -26072,6 +26135,13 @@
 		"icon": "up",
 		"x": 32377,
 		"y": 32779,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32380,
+		"y": 32078,
 		"z": 11
 	},
 	{
@@ -27678,6 +27748,13 @@
 		"z": 11
 	},
 	{
+		"description": "Tzumrah the Dazzler (spawn location)",
+		"icon": "star",
+		"x": 33326,
+		"y": 32650,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33352,
@@ -28651,10 +28728,24 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32374,
+		"y": 32070,
+		"z": 12
+	},
+	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
 		"x": 32377,
 		"y": 32029,
+		"z": 12
+	},
+	{
+		"description": "Grorlam (spawn location)",
+		"icon": "star",
+		"x": 32381,
+		"y": 32064,
 		"z": 12
 	},
 	{
@@ -29026,6 +29117,13 @@
 		"icon": "skull",
 		"x": 32688,
 		"y": 32663,
+		"z": 12
+	},
+	{
+		"description": "Rotworm Queen (spawn location)",
+		"icon": "star",
+		"x": 32774,
+		"y": 31601,
 		"z": 12
 	},
 	{
@@ -32502,7 +32600,7 @@
 	},
 	{
 		"description": "Teleport to The Thorn Knight waiting room",
-		"icon": "star",
+		"icon": "sword",
 		"x": 32676,
 		"y": 32888,
 		"z": 14
@@ -34811,10 +34909,10 @@
 		"z": 15
 	},
 	{
-		"description": "Source of Corrumption room, including 2 upper floors",
+		"description": "Source of Corruption room, including 2 upper floors",
 		"icon": "sword",
 		"x": 33039,
-		"y": 31923,
+		"y": 31917,
 		"z": 15
 	},
 	{
