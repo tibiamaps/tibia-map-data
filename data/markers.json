@@ -6748,13 +6748,6 @@
 		"z": 7
 	},
 	{
-		"description": "Willi Wasp (approximate spawn location)",
-		"icon": "star",
-		"x": 32352,
-		"y": 31721,
-		"z": 7
-	},
-	{
 		"description": "PvE/PvP arena",
 		"icon": "skull",
 		"x": 32352,
@@ -6773,6 +6766,13 @@
 		"icon": "red down",
 		"x": 32357,
 		"y": 31087,
+		"z": 7
+	},
+	{
+		"description": "Willi Wasp (approximate spawn location)",
+		"icon": "star",
+		"x": 32358,
+		"y": 31723,
 		"z": 7
 	},
 	{
@@ -20300,6 +20300,13 @@
 		"z": 9
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32952,
+		"y": 31516,
+		"z": 9
+	},
+	{
 		"description": "Basement (requires Razing rank in Vampire Hunter Quest)",
 		"icon": "red left",
 		"x": 32954,
@@ -22512,9 +22519,9 @@
 		"z": 10
 	},
 	{
-		"description": "Elevator",
+		"description": "",
 		"icon": "flag",
-		"x": 32155,
+		"x": 32156,
 		"y": 31126,
 		"z": 10
 	},
@@ -25901,8 +25908,8 @@
 	},
 	{
 		"description": "",
-		"icon": "star",
-		"x": 32154,
+		"icon": "flag",
+		"x": 32156,
 		"y": 31126,
 		"z": 11
 	},
@@ -27664,10 +27671,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33201,
+		"y": 31469,
+		"z": 11
+	},
+	{
 		"description": "Skulls on a Stonepile",
 		"icon": "crossmark",
 		"x": 33201,
 		"y": 32442,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33208,
+		"y": 31440,
 		"z": 11
 	},
 	{
@@ -28434,13 +28455,6 @@
 		"z": 12
 	},
 	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32095,
-		"y": 31100,
-		"z": 12
-	},
-	{
 		"description": "Crustacea gigantica (spawn location)",
 		"icon": "star",
 		"x": 32098,
@@ -28525,13 +28539,6 @@
 		"z": 12
 	},
 	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32123,
-		"y": 31149,
-		"z": 12
-	},
-	{
 		"description": "To NPC Kizar",
 		"icon": "flag",
 		"x": 32126,
@@ -28588,38 +28595,10 @@
 		"z": 12
 	},
 	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32169,
-		"y": 31079,
-		"z": 12
-	},
-	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32189,
-		"y": 31181,
-		"z": 12
-	},
-	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32206,
-		"y": 31124,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32218,
 		"y": 31835,
-		"z": 12
-	},
-	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32227,
-		"y": 31095,
 		"z": 12
 	},
 	{
@@ -28634,13 +28613,6 @@
 		"icon": "flag",
 		"x": 32238,
 		"y": 32623,
-		"z": 12
-	},
-	{
-		"description": "Demon spawn",
-		"icon": "!",
-		"x": 32241,
-		"y": 31198,
 		"z": 12
 	},
 	{
@@ -31521,10 +31493,38 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33194,
+		"y": 31433,
+		"z": 13
+	},
+	{
 		"description": "Teleport to Plagirath",
 		"icon": "sword",
 		"x": 33199,
 		"y": 31439,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33200,
+		"y": 31466,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33216,
+		"y": 31445,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33229,
+		"y": 31457,
 		"z": 13
 	},
 	{
@@ -31620,6 +31620,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33320,
+		"y": 32395,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33321,
 		"y": 32326,
@@ -31707,6 +31714,13 @@
 		"icon": "red right",
 		"x": 33399,
 		"y": 31802,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33412,
+		"y": 32449,
 		"z": 13
 	},
 	{
@@ -32340,10 +32354,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 32203,
+		"y": 31023,
+		"z": 14
+	},
+	{
 		"description": "To Winter Court",
 		"icon": "flag",
 		"x": 32203,
 		"y": 32078,
+		"z": 14
+	},
+	{
+		"description": "Yakchal (spawn location)",
+		"icon": "star",
+		"x": 32204,
+		"y": 31006,
 		"z": 14
 	},
 	{
@@ -33383,6 +33411,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33385,
+		"y": 32409,
+		"z": 14
+	},
+	{
 		"description": "To Telas",
 		"icon": "sword",
 		"x": 33393,
@@ -33398,6 +33433,13 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33403,
+		"y": 32392,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33407,
 		"y": 31787,
@@ -33408,6 +33450,13 @@
 		"icon": "down",
 		"x": 33411,
 		"y": 31823,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33411,
+		"y": 32440,
 		"z": 14
 	},
 	{
@@ -35316,9 +35365,30 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33388,
+		"y": 32410,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33389,
+		"y": 32392,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33400,
 		"y": 32404,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33401,
+		"y": 32436,
 		"z": 15
 	},
 	{
@@ -35389,6 +35459,20 @@
 		"icon": "!",
 		"x": 33428,
 		"y": 32181,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33430,
+		"y": 32426,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33431,
+		"y": 32393,
 		"z": 15
 	},
 	{
