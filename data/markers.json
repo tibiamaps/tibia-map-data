@@ -9870,6 +9870,13 @@
 		"z": 7
 	},
 	{
+		"description": "Zomba (approximate spawn location)",
+		"icon": "star",
+		"x": 33135,
+		"y": 32441,
+		"z": 7
+	},
+	{
 		"description": "Killer caimans",
 		"icon": "down",
 		"x": 33137,
@@ -9944,13 +9951,6 @@
 		"icon": "red down",
 		"x": 33157,
 		"y": 31720,
-		"z": 7
-	},
-	{
-		"description": "Zomba (approximate spawn location)",
-		"icon": "star",
-		"x": 33158,
-		"y": 32427,
 		"z": 7
 	},
 	{
@@ -22673,6 +22673,13 @@
 		"z": 10
 	},
 	{
+		"description": "Rotworm Queen (possible spawn location)",
+		"icon": "star",
+		"x": 32263,
+		"y": 32689,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32271,
@@ -33411,7 +33418,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Lever",
 		"icon": "checkmark",
 		"x": 33385,
 		"y": 32409,
@@ -33432,7 +33439,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Lever",
 		"icon": "checkmark",
 		"x": 33403,
 		"y": 32392,
@@ -33453,7 +33460,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Lever",
 		"icon": "checkmark",
 		"x": 33411,
 		"y": 32440,
@@ -33488,6 +33495,13 @@
 		"z": 14
 	},
 	{
+		"description": "Towards lever",
+		"icon": "red down",
+		"x": 33419,
+		"y": 32431,
+		"z": 14
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33423,
@@ -33516,10 +33530,24 @@
 		"z": 14
 	},
 	{
+		"description": "Towards lever",
+		"icon": "red up",
+		"x": 33424,
+		"y": 32427,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33429,
 		"y": 31707,
+		"z": 14
+	},
+	{
+		"description": "Lever",
+		"icon": "checkmark",
+		"x": 33429,
+		"y": 32418,
 		"z": 14
 	},
 	{
