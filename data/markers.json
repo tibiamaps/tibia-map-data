@@ -10108,13 +10108,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33178,
-		"y": 31710,
-		"z": 7
-	},
-	{
 		"description": "Training statues",
 		"icon": "sword",
 		"x": 33179,
@@ -18964,7 +18957,7 @@
 	},
 	{
 		"description": "Piano",
-		"icon": "checkmark",
+		"icon": "red left",
 		"x": 32407,
 		"y": 32794,
 		"z": 9
@@ -25621,44 +25614,9 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33773,
-		"y": 31716,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33778,
-		"y": 31751,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33804,
-		"y": 31703,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33810,
 		"y": 31697,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33810,
-		"y": 31727,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33813,
-		"y": 31772,
 		"z": 10
 	},
 	{
@@ -25666,20 +25624,6 @@
 		"icon": "flag",
 		"x": 33819,
 		"y": 31772,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33837,
-		"y": 31728,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33846,
-		"y": 31701,
 		"z": 10
 	},
 	{
@@ -27441,7 +27385,7 @@
 	},
 	{
 		"description": "Teleport to Gnomevil",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33097,
 		"y": 31977,
 		"z": 11
@@ -27766,6 +27710,13 @@
 		"icon": "up",
 		"x": 33306,
 		"y": 32290,
+		"z": 11
+	},
+	{
+		"description": "The Old Whopper (spawn location)",
+		"icon": "star",
+		"x": 33314,
+		"y": 31666,
 		"z": 11
 	},
 	{
