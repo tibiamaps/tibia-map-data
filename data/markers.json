@@ -1709,6 +1709,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33189,
+		"y": 31785,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "crossmark",
 		"x": 33190,
 		"y": 31076,
@@ -23675,6 +23682,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32667,
+		"y": 31939,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32668,
 		"y": 31624,
@@ -30807,6 +30821,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32556,
+		"y": 31901,
+		"z": 13
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32556,
@@ -30902,6 +30923,13 @@
 		"icon": "flag",
 		"x": 32662,
 		"y": 32713,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32667,
+		"y": 31939,
 		"z": 13
 	},
 	{
@@ -33874,6 +33902,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33564,
+		"y": 31179,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "red right",
 		"x": 33566,
 		"y": 31951,
@@ -34808,6 +34843,13 @@
 		"icon": "up",
 		"x": 32525,
 		"y": 32145,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32549,
+		"y": 31894,
 		"z": 15
 	},
 	{
