@@ -2744,6 +2744,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33231,
+		"y": 31757,
+		"z": 5
+	},
+	{
 		"description": "Dreadmaw (approximate spawn location)",
 		"icon": "star",
 		"x": 33272,
@@ -9598,6 +9605,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33086,
+		"y": 32784,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33087,
 		"y": 32189,
@@ -9933,6 +9947,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33153,
+		"y": 32762,
+		"z": 7
+	},
+	{
 		"description": "Levitate",
 		"icon": "red up",
 		"x": 33155,
@@ -10136,7 +10157,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Draptor (possible spawn location)",
 		"icon": "checkmark",
 		"x": 33188,
 		"y": 31239,
@@ -10217,13 +10238,6 @@
 		"icon": "star",
 		"x": 33205,
 		"y": 31239,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33206,
-		"y": 31656,
 		"z": 7
 	},
 	{
@@ -10346,7 +10360,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Draptor (possible spawn location)",
 		"icon": "checkmark",
 		"x": 33223,
 		"y": 31227,
@@ -10381,20 +10395,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33229,
-		"y": 31246,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33233,
-		"y": 31152,
-		"z": 7
-	},
-	{
 		"description": "The Thaian",
 		"icon": "red up",
 		"x": 33233,
@@ -10409,14 +10409,7 @@
 		"z": 7
 	},
 	{
-		"description": "Chaochai",
-		"icon": "crossmark",
-		"x": 33234,
-		"y": 31183,
-		"z": 7
-	},
-	{
-		"description": "",
+		"description": "Draptor (possible spawn location)",
 		"icon": "checkmark",
 		"x": 33234,
 		"y": 31185,
@@ -10460,6 +10453,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33240,
+		"y": 32799,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33241,
 		"y": 31767,
 		"z": 7
@@ -10476,13 +10476,6 @@
 		"icon": "star",
 		"x": 33246,
 		"y": 32345,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33247,
-		"y": 31163,
 		"z": 7
 	},
 	{
@@ -10525,13 +10518,6 @@
 		"icon": "!",
 		"x": 33255,
 		"y": 32833,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33256,
-		"y": 31242,
 		"z": 7
 	},
 	{
@@ -10584,17 +10570,17 @@
 		"z": 7
 	},
 	{
+		"description": "Draptor (possible spawn location)",
+		"icon": "checkmark",
+		"x": 33266,
+		"y": 31166,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 33268,
 		"y": 32841,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33270,
-		"y": 31159,
 		"z": 7
 	},
 	{
@@ -10633,17 +10619,17 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33279,
-		"y": 32785,
-		"z": 7
-	},
-	{
 		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
 		"icon": "down",
 		"x": 33281,
 		"y": 32445,
+		"z": 7
+	},
+	{
+		"description": "Draptor (possible spawn location)",
+		"icon": "checkmark",
+		"x": 33282,
+		"y": 31252,
 		"z": 7
 	},
 	{
@@ -10731,17 +10717,17 @@
 		"z": 7
 	},
 	{
+		"description": "Steamboat to Kazordoon and Farmine",
+		"icon": "down",
+		"x": 33309,
+		"y": 31996,
+		"z": 7
+	},
+	{
 		"description": "Task boss: Fazzrah",
 		"icon": "!",
 		"x": 33310,
 		"y": 31183,
-		"z": 7
-	},
-	{
-		"description": "Steamboat to Kazordoon and Farmine",
-		"icon": "flag",
-		"x": 33310,
-		"y": 31996,
 		"z": 7
 	},
 	{
@@ -10777,6 +10763,13 @@
 		"icon": "down",
 		"x": 33315,
 		"y": 32674,
+		"z": 7
+	},
+	{
+		"description": "Draptor (possible spawn location)",
+		"icon": "checkmark",
+		"x": 33322,
+		"y": 31183,
 		"z": 7
 	},
 	{
@@ -15219,7 +15212,7 @@
 	},
 	{
 		"description": "Port Hope (Spectres)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32681,
 		"y": 32292,
 		"z": 8
@@ -16136,6 +16129,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33058,
+		"y": 32375,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33059,
 		"y": 31693,
@@ -16167,6 +16167,13 @@
 		"icon": "up",
 		"x": 33062,
 		"y": 32693,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33064,
+		"y": 32360,
 		"z": 8
 	},
 	{
@@ -17206,6 +17213,13 @@
 		"z": 8
 	},
 	{
+		"description": "Rotspit (spawn location)",
+		"icon": "crossmark",
+		"x": 33453,
+		"y": 31242,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33453,
@@ -17255,6 +17269,20 @@
 		"z": 8
 	},
 	{
+		"description": "Jar",
+		"icon": "checkmark",
+		"x": 33484,
+		"y": 32076,
+		"z": 8
+	},
+	{
+		"description": "Jar",
+		"icon": "checkmark",
+		"x": 33484,
+		"y": 32083,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 33486,
@@ -17276,10 +17304,31 @@
 		"z": 8
 	},
 	{
+		"description": "Jar",
+		"icon": "checkmark",
+		"x": 33490,
+		"y": 32076,
+		"z": 8
+	},
+	{
+		"description": "Jar",
+		"icon": "checkmark",
+		"x": 33490,
+		"y": 32083,
+		"z": 8
+	},
+	{
 		"description": "Irgix the Flimsy",
 		"icon": "sword",
 		"x": 33491,
 		"y": 31398,
+		"z": 8
+	},
+	{
+		"description": "Shadowstalker (spawn location)",
+		"icon": "crossmark",
+		"x": 33492,
+		"y": 31232,
 		"z": 8
 	},
 	{
@@ -17300,7 +17349,7 @@
 		"description": "",
 		"icon": "sword",
 		"x": 33505,
-		"y": 31249,
+		"y": 31247,
 		"z": 8
 	},
 	{
@@ -17392,6 +17441,13 @@
 		"icon": "up",
 		"x": 33528,
 		"y": 31672,
+		"z": 8
+	},
+	{
+		"description": "Chopper (spawn location)",
+		"icon": "crossmark",
+		"x": 33531,
+		"y": 31261,
 		"z": 8
 	},
 	{
@@ -20538,6 +20594,13 @@
 		"z": 9
 	},
 	{
+		"description": "Rotworm Queen (spawn location)",
+		"icon": "star",
+		"x": 33061,
+		"y": 32370,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33063,
@@ -20549,6 +20612,13 @@
 		"icon": "flag",
 		"x": 33064,
 		"y": 31977,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33064,
+		"y": 32360,
 		"z": 9
 	},
 	{
@@ -21672,6 +21742,13 @@
 		"z": 9
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33551,
+		"y": 31972,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33552,
@@ -22505,6 +22582,13 @@
 		"z": 10
 	},
 	{
+		"description": "Hirintror (possible spawn location)",
+		"icon": "crossmark",
+		"x": 32145,
+		"y": 31240,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32146,
@@ -22579,6 +22663,13 @@
 		"icon": "star",
 		"x": 32211,
 		"y": 31273,
+		"z": 10
+	},
+	{
+		"description": "Hirintror (possible spawn location)",
+		"icon": "crossmark",
+		"x": 32211,
+		"y": 31276,
 		"z": 10
 	},
 	{
@@ -25173,6 +25264,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33418,
+		"y": 32108,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33421,
 		"y": 31129,
@@ -25344,6 +25442,13 @@
 		"icon": "checkmark",
 		"x": 33526,
 		"y": 31939,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33526,
+		"y": 32026,
 		"z": 10
 	},
 	{
