@@ -2541,6 +2541,20 @@
 		"z": 5
 	},
 	{
+		"description": "Warlord Ruzad (spawn location)",
+		"icon": "star",
+		"x": 32969,
+		"y": 31725,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32978,
+		"y": 31717,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33008,
@@ -4172,6 +4186,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32972,
+		"y": 31724,
+		"z": 6
+	},
+	{
 		"description": "Crunor’s Finest",
 		"icon": "bag",
 		"x": 32975,
@@ -4183,6 +4204,13 @@
 		"icon": "star",
 		"x": 32976,
 		"y": 32082,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32978,
+		"y": 31717,
 		"z": 6
 	},
 	{
@@ -8925,6 +8953,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32891,
+		"y": 31751,
+		"z": 7
+	},
+	{
 		"description": "Water buffalo (spawn location)",
 		"icon": "star",
 		"x": 32893,
@@ -9153,6 +9188,13 @@
 		"icon": "cross",
 		"x": 32968,
 		"y": 32800,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32972,
+		"y": 31724,
 		"z": 7
 	},
 	{
@@ -15597,6 +15639,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32809,
+		"y": 32242,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32809,
 		"y": 32617,
@@ -15757,6 +15806,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32891,
+		"y": 31751,
+		"z": 8
+	},
+	{
 		"description": "Xenia spawn location",
 		"icon": "star",
 		"x": 32891,
@@ -15894,6 +15950,13 @@
 		"icon": "up",
 		"x": 32979,
 		"y": 32660,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32982,
+		"y": 31739,
 		"z": 8
 	},
 	{
@@ -22463,6 +22526,13 @@
 		"z": 10
 	},
 	{
+		"description": "Brain Head",
+		"icon": "sword",
+		"x": 31969,
+		"y": 32325,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 31977,
@@ -23405,6 +23475,13 @@
 		"icon": "down",
 		"x": 32549,
 		"y": 31861,
+		"z": 10
+	},
+	{
+		"description": "Steamboat to Robson's Isle",
+		"icon": "flag",
+		"x": 32555,
+		"y": 32068,
 		"z": 10
 	},
 	{
@@ -28301,6 +28378,13 @@
 		"z": 11
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33545,
+		"y": 31262,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33546,
@@ -28371,8 +28455,22 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33641,
+		"y": 31232,
+		"z": 11
+	},
+	{
+		"description": "Tanjis (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33646,
+		"y": 31243,
+		"z": 11
+	},
+	{
+		"description": "Tanjis",
+		"icon": "sword",
 		"x": 33649,
 		"y": 31261,
 		"z": 11
@@ -32732,6 +32830,13 @@
 		"z": 14
 	},
 	{
+		"description": "Steamboat to Kazordoon",
+		"icon": "flag",
+		"x": 32526,
+		"y": 32037,
+		"z": 14
+	},
+	{
 		"description": "To Mintwallin",
 		"icon": "up",
 		"x": 32552,
@@ -32904,6 +33009,13 @@
 		"icon": "up",
 		"x": 32783,
 		"y": 32609,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32790,
+		"y": 32302,
 		"z": 14
 	},
 	{
@@ -35032,6 +35144,20 @@
 		"icon": "star",
 		"x": 32762,
 		"y": 32242,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32786,
+		"y": 32279,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32790,
+		"y": 32303,
 		"z": 15
 	},
 	{
