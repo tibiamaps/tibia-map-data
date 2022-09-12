@@ -14849,6 +14849,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32505,
+		"y": 32349,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32513,
 		"y": 31656,
 		"z": 8
@@ -24235,13 +24242,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 32848,
-		"y": 32806,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32850,
 		"y": 31971,
@@ -24276,14 +24276,14 @@
 		"z": 10
 	},
 	{
-		"description": "Portal to The Blazing Rose",
+		"description": "The Blazing Rose (equip silver chimes before entering)",
 		"icon": "sword",
 		"x": 32855,
 		"y": 32737,
 		"z": 10
 	},
 	{
-		"description": "Portal to The Diamond Blossom",
+		"description": "The Diamond Blossom (equip doublet before entering)",
 		"icon": "sword",
 		"x": 32858,
 		"y": 32766,
@@ -27041,7 +27041,7 @@
 		"z": 11
 	},
 	{
-		"description": "Portal to The Lily of Night",
+		"description": "The Lily of Night (use perfume flacon before entering)",
 		"icon": "sword",
 		"x": 32817,
 		"y": 32778,
@@ -27062,24 +27062,10 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 32827,
-		"y": 32786,
-		"z": 11
-	},
-	{
 		"description": "Chest with The Peacock Ballad",
 		"icon": "bag",
 		"x": 32832,
 		"y": 32758,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32838,
-		"y": 32818,
 		"z": 11
 	},
 	{
