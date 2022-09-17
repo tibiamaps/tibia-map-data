@@ -9292,7 +9292,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33007,
-		"y": 32454,
+		"y": 32455,
 		"z": 7
 	},
 	{
@@ -10735,6 +10735,13 @@
 		"icon": "down",
 		"x": 33293,
 		"y": 32314,
+		"z": 7
+	},
+	{
+		"description": "Dreadmaw (spawn location)",
+		"icon": "star",
+		"x": 33297,
+		"y": 31137,
 		"z": 7
 	},
 	{
@@ -14316,6 +14323,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32255,
+		"y": 32774,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32256,
 		"y": 31399,
@@ -17125,7 +17139,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33311,
-		"y": 31680,
+		"y": 31679,
 		"z": 8
 	},
 	{
@@ -18880,6 +18894,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32255,
+		"y": 32774,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 32257,
 		"y": 31410,
@@ -18918,6 +18939,13 @@
 		"icon": "down",
 		"x": 32271,
 		"y": 32132,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32273,
+		"y": 32750,
 		"z": 9
 	},
 	{
@@ -21560,6 +21588,13 @@
 		"z": 9
 	},
 	{
+		"description": "Owin (spawn location)",
+		"icon": "crossmark",
+		"x": 33369,
+		"y": 31608,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33376,
@@ -22866,6 +22901,13 @@
 		"icon": "up",
 		"x": 32271,
 		"y": 32132,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32273,
+		"y": 32750,
 		"z": 10
 	},
 	{
@@ -26439,6 +26481,13 @@
 		"z": 11
 	},
 	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32418,
+		"y": 32056,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32419,
@@ -28994,6 +29043,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32416,
+		"y": 32034,
+		"z": 12
+	},
+	{
 		"description": "10. To Demona",
 		"icon": "red up",
 		"x": 32418,
@@ -29005,6 +29061,13 @@
 		"icon": "red up",
 		"x": 32418,
 		"y": 31699,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32418,
+		"y": 32056,
 		"z": 12
 	},
 	{
@@ -30919,6 +30982,34 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32398,
+		"y": 32033,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32402,
+		"y": 32029,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32415,
+		"y": 31999,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32416,
+		"y": 32034,
+		"z": 13
+	},
+	{
 		"description": "Monks",
 		"icon": "skull",
 		"x": 32420,
@@ -30927,9 +31018,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32420,
+		"y": 32018,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32425,
 		"y": 31825,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32426,
+		"y": 31997,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32431,
+		"y": 32021,
 		"z": 13
 	},
 	{
@@ -31864,6 +31976,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33303,
+		"y": 32388,
+		"z": 13
+	},
+	{
 		"description": "Obelisk (The Ape City / Feaster of Souls)",
 		"icon": "star",
 		"x": 33305,
@@ -32760,10 +32879,66 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32396,
+		"y": 31990,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32398,
+		"y": 32033,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32408,
+		"y": 32000,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32415,
+		"y": 31999,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32420,
+		"y": 32018,
+		"z": 14
+	},
+	{
 		"description": "High class dwarves",
 		"icon": "red down",
 		"x": 32424,
 		"y": 31853,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32426,
+		"y": 31997,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32430,
+		"y": 32009,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32431,
+		"y": 32021,
 		"z": 14
 	},
 	{
@@ -34993,6 +35168,13 @@
 		"z": 15
 	},
 	{
+		"description": "Grorlam (spawn location)",
+		"icon": "star",
+		"x": 32418,
+		"y": 32000,
+		"z": 15
+	},
+	{
 		"description": "General Murius (approximate spawn location)",
 		"icon": "star",
 		"x": 32420,
@@ -35004,6 +35186,13 @@
 		"icon": "lock",
 		"x": 32424,
 		"y": 32097,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32430,
+		"y": 32009,
 		"z": 15
 	},
 	{
@@ -35631,7 +35820,7 @@
 	},
 	{
 		"description": "Teleport to The Count of the Core",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33325,
 		"y": 32108,
 		"z": 15
