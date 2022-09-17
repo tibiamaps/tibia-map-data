@@ -721,14 +721,14 @@
 		"z": 3
 	},
 	{
-		"description": "Northern safe trade room",
+		"description": "Northern Safe Trade Room",
 		"icon": "lock",
 		"x": 32057,
 		"y": 31883,
 		"z": 3
 	},
 	{
-		"description": "Southern safe trade room",
+		"description": "Southern Safe Trade Room",
 		"icon": "lock",
 		"x": 32057,
 		"y": 31897,
@@ -742,7 +742,7 @@
 		"z": 3
 	},
 	{
-		"description": "To the shops, temple, bank, and vocation gates",
+		"description": "To the Shops, Temple, Bank and Vocation Gates",
 		"icon": "down",
 		"x": 32065,
 		"y": 31890,
@@ -785,9 +785,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32117,
-		"y": 31153,
+		"y": 31149,
 		"z": 3
 	},
 	{
@@ -795,6 +795,13 @@
 		"icon": "star",
 		"x": 32131,
 		"y": 31147,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32148,
+		"y": 31180,
 		"z": 3
 	},
 	{
@@ -1253,14 +1260,14 @@
 		"z": 4
 	},
 	{
-		"description": "Adventurer’s bank",
+		"description": "Adventurer's Bank",
 		"icon": "$",
 		"x": 32055,
 		"y": 31899,
 		"z": 4
 	},
 	{
-		"description": "Druid and sorcerer spells",
+		"description": "Druid and Sorcerer Spells",
 		"icon": "star",
 		"x": 32057,
 		"y": 31882,
@@ -1281,7 +1288,7 @@
 		"z": 4
 	},
 	{
-		"description": "To the safe trade rooms",
+		"description": "To the Safe Trade Rooms",
 		"icon": "up",
 		"x": 32065,
 		"y": 31890,
@@ -1302,14 +1309,14 @@
 		"z": 4
 	},
 	{
-		"description": "Knight and paladin spells",
+		"description": "Knight and Paladin Spells",
 		"icon": "star",
 		"x": 32072,
 		"y": 31882,
 		"z": 4
 	},
 	{
-		"description": "Mr Morris’ room",
+		"description": "Mr Morris' Room",
 		"icon": "!",
 		"x": 32072,
 		"y": 31899,
@@ -1323,7 +1330,7 @@
 		"z": 4
 	},
 	{
-		"description": "To the shops, temple, and vocation gates",
+		"description": "To the Shops, Temple and Vocation Gates",
 		"icon": "down",
 		"x": 32073,
 		"y": 31895,
@@ -1338,16 +1345,16 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 32095,
-		"y": 31158,
+		"icon": "down",
+		"x": 32094,
+		"y": 31157,
 		"z": 4
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 32119,
-		"y": 31150,
+		"icon": "up",
+		"x": 32117,
+		"y": 31149,
 		"z": 4
 	},
 	{
@@ -2093,21 +2100,21 @@
 		"z": 5
 	},
 	{
-		"description": "Sorcerer’s gate",
+		"description": "Sorcerer's Gate",
 		"icon": "red left",
 		"x": 32055,
 		"y": 31890,
 		"z": 5
 	},
 	{
-		"description": "Food and equipment",
+		"description": "Food and Equipment",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31881,
 		"z": 5
 	},
 	{
-		"description": "Potions and magic store",
+		"description": "Potions and Magic Store",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31900,
@@ -2121,21 +2128,21 @@
 		"z": 5
 	},
 	{
-		"description": "Knight’s gate",
+		"description": "Knight's Gate",
 		"icon": "red up",
 		"x": 32064,
 		"y": 31880,
 		"z": 5
 	},
 	{
-		"description": "Druid’s gate",
+		"description": "Druid's Gate",
 		"icon": "red down",
 		"x": 32064,
 		"y": 31901,
 		"z": 5
 	},
 	{
-		"description": "To the temple and vocation doors",
+		"description": "To the Temple and Vocation Doors",
 		"icon": "cross",
 		"x": 32065,
 		"y": 31888,
@@ -2156,28 +2163,28 @@
 		"z": 5
 	},
 	{
-		"description": "Weapons and armor",
+		"description": "Weapons and Armor",
 		"icon": "bag",
 		"x": 32071,
 		"y": 31881,
 		"z": 5
 	},
 	{
-		"description": "General information and creature products",
+		"description": "General Information and Creature Products",
 		"icon": "!",
 		"x": 32071,
 		"y": 31900,
 		"z": 5
 	},
 	{
-		"description": "To the bank, spell trainers, safe trade rooms, and Mr Morris",
+		"description": "To the Bank and SpellsTrainers, Safe Trade Rooms and Mr Morris",
 		"icon": "up",
 		"x": 32074,
 		"y": 31895,
 		"z": 5
 	},
 	{
-		"description": "Paladin’s gate",
+		"description": "Paladin's Gate",
 		"icon": "red right",
 		"x": 32075,
 		"y": 31891,
@@ -2192,8 +2199,8 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 32086,
+		"icon": "down",
+		"x": 32087,
 		"y": 31120,
 		"z": 5
 	},
@@ -2206,8 +2213,8 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 32095,
+		"icon": "up",
+		"x": 32094,
 		"y": 31157,
 		"z": 5
 	},
@@ -2219,10 +2226,24 @@
 		"z": 5
 	},
 	{
+		"description": "Sniffler mission",
+		"icon": "star",
+		"x": 32121,
+		"y": 31093,
+		"z": 5
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 32146,
 		"y": 31081,
+		"z": 5
+	},
+	{
+		"description": "Mammoth pushing mission",
+		"icon": "star",
+		"x": 32154,
+		"y": 31029,
 		"z": 5
 	},
 	{
@@ -2272,6 +2293,13 @@
 		"icon": "down",
 		"x": 32250,
 		"y": 31392,
+		"z": 5
+	},
+	{
+		"description": "Bear hugging mission",
+		"icon": "star",
+		"x": 32253,
+		"y": 31049,
 		"z": 5
 	},
 	{
@@ -2485,7 +2513,7 @@
 		"z": 5
 	},
 	{
-		"description": "NPC Boozer",
+		"description": "Boozer",
 		"icon": "mouth",
 		"x": 32921,
 		"y": 32068,
@@ -2538,20 +2566,6 @@
 		"icon": "down",
 		"x": 32965,
 		"y": 32685,
-		"z": 5
-	},
-	{
-		"description": "Warlord Ruzad (spawn location)",
-		"icon": "star",
-		"x": 32969,
-		"y": 31725,
-		"z": 5
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32978,
-		"y": 31717,
 		"z": 5
 	},
 	{
@@ -3024,6 +3038,13 @@
 		"z": 5
 	},
 	{
+		"description": "Silencer plateau",
+		"icon": "!",
+		"x": 33640,
+		"y": 32529,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33646,
@@ -3437,28 +3458,28 @@
 		"z": 6
 	},
 	{
-		"description": "Sorcerer vocation door",
+		"description": "Sorcerer Vocation Door",
 		"icon": "star",
 		"x": 32055,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Paladin vocation door",
+		"description": "Paladin Vocation Door",
 		"icon": "star",
 		"x": 32059,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Alternate bank",
+		"description": "Alternate Bank",
 		"icon": "$",
 		"x": 32064,
 		"y": 31881,
 		"z": 6
 	},
 	{
-		"description": "Dawnport temple",
+		"description": "Dawnport Temple",
 		"icon": "cross",
 		"x": 32064,
 		"y": 31892,
@@ -3472,14 +3493,14 @@
 		"z": 6
 	},
 	{
-		"description": "Knight vocation door",
+		"description": "Knight Vocation Door",
 		"icon": "star",
 		"x": 32069,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Druid vocation door",
+		"description": "Druid Vocation Door",
 		"icon": "star",
 		"x": 32073,
 		"y": 31886,
@@ -3494,7 +3515,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32087,
 		"y": 31120,
 		"z": 6
@@ -3514,10 +3535,31 @@
 		"z": 6
 	},
 	{
-		"description": "To the Formorgar Mines",
-		"icon": "red down",
-		"x": 32125,
-		"y": 31141,
+		"description": "",
+		"icon": "down",
+		"x": 32124,
+		"y": 31139,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32128,
+		"y": 31087,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32134,
+		"y": 31096,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32146,
+		"y": 31114,
 		"z": 6
 	},
 	{
@@ -3934,6 +3976,20 @@
 		"z": 6
 	},
 	{
+		"description": "Platform lift North",
+		"icon": "flag",
+		"x": 32664,
+		"y": 31677,
+		"z": 6
+	},
+	{
+		"description": "Platform lift to boat",
+		"icon": "flag",
+		"x": 32669,
+		"y": 31681,
+		"z": 6
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 32670,
@@ -3945,6 +4001,13 @@
 		"icon": "red right",
 		"x": 32676,
 		"y": 31610,
+		"z": 6
+	},
+	{
+		"description": "Platform lift to center",
+		"icon": "flag",
+		"x": 32676,
+		"y": 31617,
 		"z": 6
 	},
 	{
@@ -3973,6 +4036,13 @@
 		"icon": "down",
 		"x": 32711,
 		"y": 31175,
+		"z": 6
+	},
+	{
+		"description": "Platform lift to center",
+		"icon": "flag",
+		"x": 32724,
+		"y": 31666,
 		"z": 6
 	},
 	{
@@ -4060,7 +4130,7 @@
 		"z": 6
 	},
 	{
-		"description": "To NPC Boozer",
+		"description": "To Boozer",
 		"icon": "up",
 		"x": 32921,
 		"y": 32072,
@@ -4186,13 +4256,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32972,
-		"y": 31724,
-		"z": 6
-	},
-	{
 		"description": "Crunor’s Finest",
 		"icon": "bag",
 		"x": 32975,
@@ -4204,13 +4267,6 @@
 		"icon": "star",
 		"x": 32976,
 		"y": 32082,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32978,
-		"y": 31717,
 		"z": 6
 	},
 	{
@@ -4522,7 +4578,7 @@
 		"z": 6
 	},
 	{
-		"description": "NPC Ahmet",
+		"description": "Ahmet",
 		"icon": "mouth",
 		"x": 33126,
 		"y": 32810,
@@ -4662,7 +4718,7 @@
 		"z": 6
 	},
 	{
-		"description": "To NPC Spectulus",
+		"description": "To Spectulus",
 		"icon": "up",
 		"x": 33263,
 		"y": 31835,
@@ -5560,6 +5616,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32048,
+		"y": 31895,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32049,
 		"y": 32600,
 		"z": 7
@@ -5859,6 +5922,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32124,
+		"y": 31139,
+		"z": 7
+	},
+	{
 		"description": "Boat to Tibia",
 		"icon": "flag",
 		"x": 32126,
@@ -5881,9 +5951,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 32129,
-		"y": 31088,
+		"icon": "up",
+		"x": 32128,
+		"y": 31087,
 		"z": 7
 	},
 	{
@@ -5919,6 +5989,20 @@
 		"icon": "down",
 		"x": 32144,
 		"y": 32947,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32145,
+		"y": 31119,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32146,
+		"y": 31114,
 		"z": 7
 	},
 	{
@@ -6073,6 +6157,13 @@
 		"icon": "down",
 		"x": 32191,
 		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32195,
+		"y": 31186,
 		"z": 7
 	},
 	{
@@ -6412,7 +6503,7 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Eclesius",
+		"description": "Eclesius",
 		"icon": "mouth",
 		"x": 32291,
 		"y": 32291,
@@ -6727,6 +6818,13 @@
 		"z": 7
 	},
 	{
+		"description": "Whiteflower Temple",
+		"icon": "cross",
+		"x": 32345,
+		"y": 32363,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 32346,
@@ -6797,6 +6895,13 @@
 		"z": 7
 	},
 	{
+		"description": "Druid Circle",
+		"icon": "cross",
+		"x": 32353,
+		"y": 31689,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32356,
@@ -6815,6 +6920,13 @@
 		"icon": "star",
 		"x": 32358,
 		"y": 31723,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32358,
+		"y": 32084,
 		"z": 7
 	},
 	{
@@ -7826,13 +7938,6 @@
 		"z": 7
 	},
 	{
-		"description": "Bibby Bloodbath (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32623,
-		"y": 31826,
-		"z": 7
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 32623,
@@ -7994,7 +8099,7 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Rottin Wood",
+		"description": "Rottin Wood",
 		"icon": "mouth",
 		"x": 32657,
 		"y": 32201,
@@ -8229,6 +8334,13 @@
 		"icon": "skull",
 		"x": 32694,
 		"y": 32938,
+		"z": 7
+	},
+	{
+		"description": "Suntower",
+		"icon": "cross",
+		"x": 32696,
+		"y": 31719,
 		"z": 7
 	},
 	{
@@ -8953,13 +9065,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32891,
-		"y": 31751,
-		"z": 7
-	},
-	{
 		"description": "Water buffalo (spawn location)",
 		"icon": "star",
 		"x": 32893,
@@ -9191,13 +9296,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32972,
-		"y": 31724,
-		"z": 7
-	},
-	{
 		"description": "Terramites",
 		"icon": "down",
 		"x": 32975,
@@ -9292,7 +9390,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33007,
-		"y": 32455,
+		"y": 32454,
 		"z": 7
 	},
 	{
@@ -9835,7 +9933,14 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Rotworms",
+		"icon": "down",
+		"x": 33114,
+		"y": 32454,
+		"z": 7
+	},
+	{
+		"description": "Terramites",
 		"icon": "down",
 		"x": 33115,
 		"y": 32483,
@@ -10220,7 +10325,7 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Daniel Steelsoul",
+		"description": "Daniel Steelsoul",
 		"icon": "mouth",
 		"x": 33191,
 		"y": 31795,
@@ -10738,10 +10843,17 @@
 		"z": 7
 	},
 	{
-		"description": "Dreadmaw (spawn location)",
+		"description": "",
+		"icon": "lock",
+		"x": 33294,
+		"y": 32007,
+		"z": 7
+	},
+	{
+		"description": "Dreadmaw",
 		"icon": "star",
 		"x": 33297,
-		"y": 31137,
+		"y": 31136,
 		"z": 7
 	},
 	{
@@ -10826,6 +10938,13 @@
 		"icon": "down",
 		"x": 33315,
 		"y": 32674,
+		"z": 7
+	},
+	{
+		"description": "Eremo's Island",
+		"icon": "cross",
+		"x": 33318,
+		"y": 31883,
 		"z": 7
 	},
 	{
@@ -11526,6 +11645,13 @@
 		"icon": "checkmark",
 		"x": 33535,
 		"y": 32007,
+		"z": 7
+	},
+	{
+		"description": "Overmaw shrines",
+		"icon": "!",
+		"x": 33535,
+		"y": 32469,
 		"z": 7
 	},
 	{
@@ -12258,7 +12384,7 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
+		"icon": "checkmark",
 		"x": 33621,
 		"y": 31979,
 		"z": 7
@@ -13566,6 +13692,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Issavi carpet",
+		"icon": "up",
+		"x": 33946,
+		"y": 31516,
+		"z": 7
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 33947,
@@ -14478,6 +14611,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32358,
+		"y": 32084,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32360,
 		"y": 32371,
 		"z": 8
@@ -14858,13 +14998,6 @@
 		"icon": "down",
 		"x": 32504,
 		"y": 31221,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32505,
-		"y": 32349,
 		"z": 8
 	},
 	{
@@ -15660,13 +15793,6 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32809,
-		"y": 32242,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 32809,
 		"y": 32617,
@@ -15827,13 +15953,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32891,
-		"y": 31751,
-		"z": 8
-	},
-	{
 		"description": "Xenia spawn location",
 		"icon": "star",
 		"x": 32891,
@@ -15971,13 +16090,6 @@
 		"icon": "up",
 		"x": 32979,
 		"y": 32660,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32982,
-		"y": 31739,
 		"z": 8
 	},
 	{
@@ -16471,6 +16583,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33114,
+		"y": 32454,
+		"z": 8
+	},
+	{
 		"description": "Task boss: Ethershreck",
 		"icon": "!",
 		"x": 33115,
@@ -16496,6 +16615,13 @@
 		"icon": "down",
 		"x": 33119,
 		"y": 31740,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33121,
+		"y": 32459,
 		"z": 8
 	},
 	{
@@ -16662,13 +16788,6 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33163,
-		"y": 31746,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 33164,
 		"y": 31932,
 		"z": 8
@@ -16692,6 +16811,13 @@
 		"icon": "sword",
 		"x": 33166,
 		"y": 31977,
+		"z": 8
+	},
+	{
+		"description": "Shlorg (approximate spawn location)",
+		"icon": "star",
+		"x": 33167,
+		"y": 31722,
 		"z": 8
 	},
 	{
@@ -17139,7 +17265,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33311,
-		"y": 31679,
+		"y": 31680,
 		"z": 8
 	},
 	{
@@ -17266,6 +17392,13 @@
 		"icon": "sword",
 		"x": 33426,
 		"y": 31270,
+		"z": 8
+	},
+	{
+		"description": "Fleshslicer",
+		"icon": "star",
+		"x": 33431,
+		"y": 31262,
 		"z": 8
 	},
 	{
@@ -18715,6 +18848,13 @@
 		"icon": "up",
 		"x": 32136,
 		"y": 31872,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32145,
+		"y": 31122,
 		"z": 9
 	},
 	{
@@ -20959,6 +21099,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33121,
+		"y": 32459,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33122,
 		"y": 32280,
@@ -21137,13 +21284,6 @@
 		"icon": "up",
 		"x": 33168,
 		"y": 31823,
-		"z": 9
-	},
-	{
-		"description": "Shlorg (approximate spawn location)",
-		"icon": "star",
-		"x": 33169,
-		"y": 31729,
 		"z": 9
 	},
 	{
@@ -21588,10 +21728,10 @@
 		"z": 9
 	},
 	{
-		"description": "Owin (spawn location)",
-		"icon": "crossmark",
+		"description": "Owin (only during full moon)",
+		"icon": "star",
 		"x": 33369,
-		"y": 31608,
+		"y": 31606,
 		"z": 9
 	},
 	{
@@ -22568,13 +22708,6 @@
 		"z": 10
 	},
 	{
-		"description": "Brain Head",
-		"icon": "sword",
-		"x": 31969,
-		"y": 32325,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 31977,
@@ -23527,13 +23660,6 @@
 		"z": 10
 	},
 	{
-		"description": "Steamboat to Robson's Isle",
-		"icon": "flag",
-		"x": 32555,
-		"y": 32068,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32556,
@@ -24284,6 +24410,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 32848,
+		"y": 32806,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32850,
 		"y": 31971,
@@ -24318,14 +24451,14 @@
 		"z": 10
 	},
 	{
-		"description": "The Blazing Rose (equip silver chimes before entering)",
+		"description": "The Blazing Rose (Silver Chimes needed)",
 		"icon": "sword",
 		"x": 32855,
 		"y": 32737,
 		"z": 10
 	},
 	{
-		"description": "The Diamond Blossom (equip doublet before entering)",
+		"description": "The Diamond Blossom (Red armor needed)",
 		"icon": "sword",
 		"x": 32858,
 		"y": 32766,
@@ -25445,13 +25578,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33429,
-		"y": 31229,
-		"z": 10
-	},
-	{
 		"description": "Teleport to oasis",
 		"icon": "flag",
 		"x": 33459,
@@ -25477,13 +25603,6 @@
 		"icon": "red up",
 		"x": 33466,
 		"y": 31895,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33468,
-		"y": 31241,
 		"z": 10
 	},
 	{
@@ -26355,7 +26474,7 @@
 		"z": 11
 	},
 	{
-		"description": "Hidden pick hole",
+		"description": "Hidden pickhole",
 		"icon": "down",
 		"x": 32377,
 		"y": 32056,
@@ -26439,13 +26558,6 @@
 		"z": 11
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32409,
-		"y": 32013,
-		"z": 11
-	},
-	{
 		"description": "9. To Demona",
 		"icon": "red down",
 		"x": 32410,
@@ -26481,13 +26593,6 @@
 		"z": 11
 	},
 	{
-		"description": "Hidden pick hole",
-		"icon": "down",
-		"x": 32418,
-		"y": 32056,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32419,
@@ -26506,6 +26611,13 @@
 		"icon": "down",
 		"x": 32426,
 		"y": 31819,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32426,
+		"y": 32028,
 		"z": 11
 	},
 	{
@@ -26817,6 +26929,20 @@
 		"z": 11
 	},
 	{
+		"description": "To Kazordoon",
+		"icon": "up",
+		"x": 32613,
+		"y": 31925,
+		"z": 11
+	},
+	{
+		"description": "To Blessings",
+		"icon": "down",
+		"x": 32613,
+		"y": 31991,
+		"z": 11
+	},
+	{
 		"description": "The Spike",
 		"icon": "flag",
 		"x": 32624,
@@ -26877,6 +27003,13 @@
 		"icon": "up",
 		"x": 32646,
 		"y": 32110,
+		"z": 11
+	},
+	{
+		"description": "Temple of Fire",
+		"icon": "cross",
+		"x": 32648,
+		"y": 31893,
 		"z": 11
 	},
 	{
@@ -27020,6 +27153,13 @@
 		"z": 11
 	},
 	{
+		"description": "Zevelon Duskbringer",
+		"icon": "star",
+		"x": 32766,
+		"y": 31578,
+		"z": 11
+	},
+	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32775,
@@ -27090,7 +27230,7 @@
 		"z": 11
 	},
 	{
-		"description": "The Lily of Night (use perfume flacon before entering)",
+		"description": "The Lily of Night (use perfume before entering)",
 		"icon": "sword",
 		"x": 32817,
 		"y": 32778,
@@ -27111,10 +27251,24 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "sword",
+		"x": 32827,
+		"y": 32786,
+		"z": 11
+	},
+	{
 		"description": "Chest with The Peacock Ballad",
 		"icon": "bag",
 		"x": 32832,
 		"y": 32758,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32838,
+		"y": 32818,
 		"z": 11
 	},
 	{
@@ -28126,13 +28280,6 @@
 		"z": 11
 	},
 	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 33419,
-		"y": 31254,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33423,
@@ -28148,30 +28295,9 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33429,
-		"y": 31229,
-		"z": 11
-	},
-	{
-		"description": "Obujos (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 33434,
-		"y": 31264,
-		"z": 11
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33435,
 		"y": 32404,
-		"z": 11
-	},
-	{
-		"description": "Obujos",
-		"icon": "sword",
-		"x": 33438,
-		"y": 31248,
 		"z": 11
 	},
 	{
@@ -28228,13 +28354,6 @@
 		"icon": "spear",
 		"x": 33464,
 		"y": 31027,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33468,
-		"y": 31241,
 		"z": 11
 	},
 	{
@@ -28413,13 +28532,6 @@
 		"z": 11
 	},
 	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 33545,
-		"y": 31262,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33546,
@@ -28490,22 +28602,8 @@
 		"z": 11
 	},
 	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 33641,
-		"y": 31232,
-		"z": 11
-	},
-	{
-		"description": "Tanjis (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 33646,
-		"y": 31243,
-		"z": 11
-	},
-	{
-		"description": "Tanjis",
-		"icon": "sword",
+		"description": "",
+		"icon": "star",
 		"x": 33649,
 		"y": 31261,
 		"z": 11
@@ -29001,13 +29099,6 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32377,
-		"y": 32056,
-		"z": 12
-	},
-	{
 		"description": "Grorlam (spawn location)",
 		"icon": "star",
 		"x": 32381,
@@ -29043,13 +29134,6 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32416,
-		"y": 32034,
-		"z": 12
-	},
-	{
 		"description": "10. To Demona",
 		"icon": "red up",
 		"x": 32418,
@@ -29061,13 +29145,6 @@
 		"icon": "red up",
 		"x": 32418,
 		"y": 31699,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32418,
-		"y": 32056,
 		"z": 12
 	},
 	{
@@ -29323,6 +29400,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32613,
+		"y": 31992,
+		"z": 12
+	},
+	{
 		"description": "Portal out of Hellgate",
 		"icon": "flag",
 		"x": 32620,
@@ -29348,6 +29432,13 @@
 		"icon": "checkmark",
 		"x": 32640,
 		"y": 32675,
+		"z": 12
+	},
+	{
+		"description": "Temple of Earth",
+		"icon": "cross",
+		"x": 32644,
+		"y": 31970,
 		"z": 12
 	},
 	{
@@ -30982,34 +31073,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32398,
-		"y": 32033,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32402,
-		"y": 32029,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32415,
-		"y": 31999,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32416,
-		"y": 32034,
-		"z": 13
-	},
-	{
 		"description": "Monks",
 		"icon": "skull",
 		"x": 32420,
@@ -31018,30 +31081,9 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32420,
-		"y": 32018,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32425,
 		"y": 31825,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32426,
-		"y": 31997,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32431,
-		"y": 32021,
 		"z": 13
 	},
 	{
@@ -31979,7 +32021,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33303,
-		"y": 32388,
+		"y": 32387,
 		"z": 13
 	},
 	{
@@ -31987,13 +32029,6 @@
 		"icon": "star",
 		"x": 33305,
 		"y": 32861,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33310,
-		"y": 32379,
 		"z": 13
 	},
 	{
@@ -32879,66 +32914,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32396,
-		"y": 31990,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32398,
-		"y": 32033,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32408,
-		"y": 32000,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32415,
-		"y": 31999,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32420,
-		"y": 32018,
-		"z": 14
-	},
-	{
 		"description": "High class dwarves",
 		"icon": "red down",
 		"x": 32424,
 		"y": 31853,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32426,
-		"y": 31997,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32430,
-		"y": 32009,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32431,
-		"y": 32021,
 		"z": 14
 	},
 	{
@@ -32991,10 +32970,10 @@
 		"z": 14
 	},
 	{
-		"description": "Steamboat to Kazordoon",
-		"icon": "flag",
-		"x": 32526,
-		"y": 32037,
+		"description": "",
+		"icon": "down",
+		"x": 32515,
+		"y": 31577,
 		"z": 14
 	},
 	{
@@ -33170,13 +33149,6 @@
 		"icon": "up",
 		"x": 32783,
 		"y": 32609,
-		"z": 14
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red down",
-		"x": 32790,
-		"y": 32302,
 		"z": 14
 	},
 	{
@@ -35168,13 +35140,6 @@
 		"z": 15
 	},
 	{
-		"description": "Grorlam (spawn location)",
-		"icon": "star",
-		"x": 32418,
-		"y": 32000,
-		"z": 15
-	},
-	{
 		"description": "General Murius (approximate spawn location)",
 		"icon": "star",
 		"x": 32420,
@@ -35189,13 +35154,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32430,
-		"y": 32009,
-		"z": 15
-	},
-	{
 		"description": "Teleport to The Scourge of Oblivion lever room",
 		"icon": "flag",
 		"x": 32480,
@@ -35207,6 +35165,20 @@
 		"icon": "flag",
 		"x": 32496,
 		"y": 32102,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32507,
+		"y": 31661,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32516,
+		"y": 31577,
 		"z": 15
 	},
 	{
@@ -35322,20 +35294,6 @@
 		"z": 15
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red down",
-		"x": 32786,
-		"y": 32279,
-		"z": 15
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red up",
-		"x": 32790,
-		"y": 32303,
-		"z": 15
-	},
-	{
 		"description": "Countess Sorrow spawn location",
 		"icon": "star",
 		"x": 32797,
@@ -35445,6 +35403,13 @@
 		"icon": "star",
 		"x": 32898,
 		"y": 32859,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32905,
+		"y": 32852,
 		"z": 15
 	},
 	{
@@ -35820,7 +35785,7 @@
 	},
 	{
 		"description": "Teleport to The Count of the Core",
-		"icon": "sword",
+		"icon": "star",
 		"x": 33325,
 		"y": 32108,
 		"z": 15
