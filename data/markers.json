@@ -8925,7 +8925,7 @@
 		"z": 7
 	},
 	{
-		"description": "The Netherworld",
+		"description": "The Netherworld (equip burial shroud to enter)",
 		"icon": "flag",
 		"x": 32885,
 		"y": 32520,
@@ -19699,6 +19699,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32615,
+		"y": 32484,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32616,
 		"y": 31700,
@@ -23632,6 +23639,13 @@
 		"z": 10
 	},
 	{
+		"description": "Rukor Zad (spawn location)",
+		"icon": "star",
+		"x": 32603,
+		"y": 32386,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32604,
@@ -23657,6 +23671,13 @@
 		"icon": "up",
 		"x": 32612,
 		"y": 32812,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32615,
+		"y": 32484,
 		"z": 10
 	},
 	{
