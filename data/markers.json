@@ -4019,7 +4019,7 @@
 	},
 	{
 		"description": "Platform lift to center",
-		"icon": "checkmark",
+		"icon": "red down",
 		"x": 32676,
 		"y": 31617,
 		"z": 6
