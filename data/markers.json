@@ -4019,7 +4019,7 @@
 	},
 	{
 		"description": "Platform lift to center",
-		"icon": "red south",
+		"icon": "checkmark",
 		"x": 32676,
 		"y": 31617,
 		"z": 6
@@ -10350,6 +10350,13 @@
 		"icon": "flag",
 		"x": 33183,
 		"y": 31756,
+		"z": 7
+	},
+	{
+		"description": "Flamecaller Zazrak (spawn location)",
+		"icon": "star",
+		"x": 33185,
+		"y": 31224,
 		"z": 7
 	},
 	{
@@ -17208,6 +17215,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33263,
+		"y": 31917,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33266,
 		"y": 31591,
 		"z": 8
@@ -21532,6 +21546,13 @@
 		"z": 9
 	},
 	{
+		"description": "Rotworm Queen (spawn location)",
+		"icon": "star",
+		"x": 33238,
+		"y": 31841,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33243,
@@ -21564,6 +21585,13 @@
 		"icon": "down",
 		"x": 33256,
 		"y": 31765,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33261,
+		"y": 31896,
 		"z": 9
 	},
 	{
@@ -25440,6 +25468,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33234,
+		"y": 31843,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33243,
 		"y": 32622,
 		"z": 10
@@ -25477,6 +25512,13 @@
 		"icon": "checkmark",
 		"x": 33260,
 		"y": 32105,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33262,
+		"y": 31877,
 		"z": 10
 	},
 	{
@@ -28214,6 +28256,13 @@
 		"icon": "up",
 		"x": 33264,
 		"y": 32301,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33266,
+		"y": 31864,
 		"z": 11
 	},
 	{
@@ -31556,8 +31605,8 @@
 		"z": 13
 	},
 	{
-		"description": "To Lloyd (boss)",
-		"icon": "!",
+		"description": "Lloyd",
+		"icon": "sword",
 		"x": 32815,
 		"y": 32870,
 		"z": 13
@@ -36603,10 +36652,10 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Sparkling Pools",
 		"icon": "up",
 		"x": 33564,
-		"y": 32859,
+		"y": 32860,
 		"z": 15
 	},
 	{
@@ -36652,10 +36701,10 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Monster Graveyard",
 		"icon": "up",
 		"x": 33594,
-		"y": 32908,
+		"y": 32909,
 		"z": 15
 	},
 	{
@@ -36792,6 +36841,20 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33642,
+		"y": 32899,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33644,
+		"y": 32914,
+		"z": 15
+	},
+	{
 		"description": "WZ 4",
 		"icon": "checkmark",
 		"x": 33649,
@@ -36813,6 +36876,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33657,
+		"y": 32897,
+		"z": 15
+	},
+	{
 		"description": "Site GT-M-01",
 		"icon": "star",
 		"x": 33658,
@@ -36822,7 +36892,7 @@
 	{
 		"description": "Sparkling Pools",
 		"icon": "up",
-		"x": 33665,
+		"x": 33666,
 		"y": 32977,
 		"z": 15
 	},
@@ -36908,6 +36978,13 @@
 		"icon": "flag",
 		"x": 33765,
 		"y": 32908,
+		"z": 15
+	},
+	{
+		"description": "Crystal Enigma",
+		"icon": "up",
+		"x": 33767,
+		"y": 32916,
 		"z": 15
 	},
 	{
