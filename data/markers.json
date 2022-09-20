@@ -25166,7 +25166,7 @@
 	},
 	{
 		"description": "Deathstrike spawn tile",
-		"icon": "!",
+		"icon": "crossmark",
 		"x": 33101,
 		"y": 31956,
 		"z": 10
@@ -28001,7 +28001,7 @@
 	},
 	{
 		"description": "Gnomevil spawn tile",
-		"icon": "!",
+		"icon": "crossmark",
 		"x": 33116,
 		"y": 31956,
 		"z": 11
@@ -35679,7 +35679,7 @@
 		"z": 15
 	},
 	{
-		"description": "Countess Sorrow spawn location",
+		"description": "Countess Sorrow (spawn location)",
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
