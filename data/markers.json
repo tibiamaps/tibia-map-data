@@ -5579,13 +5579,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 32025,
-		"y": 31545,
-		"z": 7
-	},
-	{
 		"description": "Lee'Delle’s Premium Store",
 		"icon": "bag",
 		"x": 32026,
@@ -25872,6 +25865,13 @@
 		"z": 10
 	},
 	{
+		"description": "Sir Valorcrest (spawn location)",
+		"icon": "star",
+		"x": 33263,
+		"y": 31768,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33264,
@@ -29834,6 +29834,20 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32402,
+		"y": 32022,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32402,
+		"y": 32029,
+		"z": 12
+	},
+	{
 		"description": "Teleport to start of cave",
 		"icon": "flag",
 		"x": 32408,
@@ -31836,6 +31850,13 @@
 		"z": 13
 	},
 	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32396,
+		"y": 31990,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32398,
@@ -31889,6 +31910,13 @@
 		"icon": "up",
 		"x": 32425,
 		"y": 31825,
+		"z": 13
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32425,
+		"y": 32007,
 		"z": 13
 	},
 	{
@@ -33758,6 +33786,13 @@
 		"icon": "up",
 		"x": 32398,
 		"y": 32033,
+		"z": 14
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32405,
+		"y": 32025,
 		"z": 14
 	},
 	{
@@ -36061,6 +36096,13 @@
 		"icon": "flag",
 		"x": 32400,
 		"y": 31656,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32408,
+		"y": 32000,
 		"z": 15
 	},
 	{
