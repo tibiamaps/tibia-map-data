@@ -15618,6 +15618,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32700,
+		"y": 32013,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32702,
 		"y": 31184,
@@ -20195,10 +20202,24 @@
 		"z": 9
 	},
 	{
+		"description": "Towards exit",
+		"icon": "up",
+		"x": 32700,
+		"y": 32013,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32704,
 		"y": 31156,
+		"z": 9
+	},
+	{
+		"description": "Towards Yaga the Crone",
+		"icon": "down",
+		"x": 32710,
+		"y": 32007,
 		"z": 9
 	},
 	{
@@ -24236,6 +24257,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32711,
+		"y": 32011,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32715,
 		"y": 31896,
 		"z": 10
@@ -24245,6 +24273,13 @@
 		"icon": "up",
 		"x": 32718,
 		"y": 31846,
+		"z": 10
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 32720,
+		"y": 31997,
 		"z": 10
 	},
 	{
@@ -27283,6 +27318,13 @@
 		"icon": "!",
 		"x": 32710,
 		"y": 31644,
+		"z": 11
+	},
+	{
+		"description": "Yaga the Crone (spawn location)",
+		"icon": "star",
+		"x": 32712,
+		"y": 32011,
 		"z": 11
 	},
 	{
