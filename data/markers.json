@@ -4019,7 +4019,7 @@
 	},
 	{
 		"description": "Platform lift to center",
-		"icon": "red down",
+		"icon": "checkmark",
 		"x": 32676,
 		"y": 31617,
 		"z": 6
@@ -5576,13 +5576,6 @@
 		"icon": "red down",
 		"x": 32024,
 		"y": 31124,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 32025,
-		"y": 31545,
 		"z": 7
 	},
 	{
@@ -15618,13 +15611,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32700,
-		"y": 32013,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32702,
 		"y": 31184,
@@ -20202,24 +20188,10 @@
 		"z": 9
 	},
 	{
-		"description": "Towards exit",
-		"icon": "up",
-		"x": 32700,
-		"y": 32013,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32704,
 		"y": 31156,
-		"z": 9
-	},
-	{
-		"description": "Towards Yaga the Crone",
-		"icon": "down",
-		"x": 32710,
-		"y": 32007,
 		"z": 9
 	},
 	{
@@ -24257,13 +24229,6 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 32711,
-		"y": 32011,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 32715,
 		"y": 31896,
 		"z": 10
@@ -24273,13 +24238,6 @@
 		"icon": "up",
 		"x": 32718,
 		"y": 31846,
-		"z": 10
-	},
-	{
-		"description": "To exit",
-		"icon": "up",
-		"x": 32720,
-		"y": 31997,
 		"z": 10
 	},
 	{
@@ -25201,7 +25159,7 @@
 	},
 	{
 		"description": "Deathstrike spawn tile",
-		"icon": "crossmark",
+		"icon": "!",
 		"x": 33101,
 		"y": 31956,
 		"z": 10
@@ -25554,6 +25512,13 @@
 		"icon": "down",
 		"x": 33262,
 		"y": 31877,
+		"z": 10
+	},
+	{
+		"description": "Sir Valorcrest (spawn location)",
+		"icon": "star",
+		"x": 33263,
+		"y": 31768,
 		"z": 10
 	},
 	{
@@ -26803,6 +26768,13 @@
 		"z": 11
 	},
 	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32420,
+		"y": 32036,
+		"z": 11
+	},
+	{
 		"description": "7. To Demona",
 		"icon": "red down",
 		"x": 32422,
@@ -27318,13 +27290,6 @@
 		"icon": "!",
 		"x": 32710,
 		"y": 31644,
-		"z": 11
-	},
-	{
-		"description": "Yaga the Crone (spawn location)",
-		"icon": "star",
-		"x": 32712,
-		"y": 32011,
 		"z": 11
 	},
 	{
@@ -28043,7 +28008,7 @@
 	},
 	{
 		"description": "Gnomevil spawn tile",
-		"icon": "crossmark",
+		"icon": "!",
 		"x": 33116,
 		"y": 31956,
 		"z": 11
@@ -29383,6 +29348,20 @@
 		"icon": "down",
 		"x": 32398,
 		"y": 31808,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32402,
+		"y": 32022,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32402,
+		"y": 32029,
 		"z": 12
 	},
 	{
@@ -31346,6 +31325,13 @@
 		"z": 13
 	},
 	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32396,
+		"y": 31990,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32398,
@@ -31399,6 +31385,13 @@
 		"icon": "up",
 		"x": 32425,
 		"y": 31825,
+		"z": 13
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32425,
+		"y": 32007,
 		"z": 13
 	},
 	{
@@ -33254,6 +33247,13 @@
 		"icon": "up",
 		"x": 32398,
 		"y": 32033,
+		"z": 14
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32405,
+		"y": 32025,
 		"z": 14
 	},
 	{
@@ -35539,6 +35539,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32408,
+		"y": 32000,
+		"z": 15
+	},
+	{
 		"description": "Grorlam (spawn location)",
 		"icon": "star",
 		"x": 32418,
@@ -35721,7 +35728,7 @@
 		"z": 15
 	},
 	{
-		"description": "Countess Sorrow (spawn location)",
+		"description": "Countess Sorrow spawn location",
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
