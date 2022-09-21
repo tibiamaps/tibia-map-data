@@ -4019,7 +4019,7 @@
 	},
 	{
 		"description": "Platform lift to center",
-		"icon": "checkmark",
+		"icon": "red down",
 		"x": 32676,
 		"y": 31617,
 		"z": 6
@@ -5576,6 +5576,13 @@
 		"icon": "red down",
 		"x": 32024,
 		"y": 31124,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 32025,
+		"y": 31545,
 		"z": 7
 	},
 	{
@@ -7525,13 +7532,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32498,
-		"y": 31656,
-		"z": 7
-	},
-	{
 		"description": "White deer (spawn location)",
 		"icon": "star",
 		"x": 32510,
@@ -7539,17 +7539,17 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Demona",
+		"icon": "red down",
+		"x": 32512,
+		"y": 31622,
+		"z": 7
+	},
+	{
 		"description": "Towards flying carpet",
 		"icon": "up",
 		"x": 32512,
 		"y": 31839,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 32513,
-		"y": 31624,
 		"z": 7
 	},
 	{
@@ -15611,6 +15611,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32700,
+		"y": 32013,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32702,
 		"y": 31184,
@@ -18250,8 +18257,8 @@
 	},
 	{
 		"description": "Use wooden cage key to unlock the door",
-		"icon": "star",
-		"x": 33835,
+		"icon": "red right",
+		"x": 33834,
 		"y": 31666,
 		"z": 8
 	},
@@ -18589,6 +18596,13 @@
 		"icon": "up",
 		"x": 31936,
 		"y": 32594,
+		"z": 9
+	},
+	{
+		"description": "Zushuka (spawn location)",
+		"icon": "star",
+		"x": 31943,
+		"y": 31386,
 		"z": 9
 	},
 	{
@@ -19461,6 +19475,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32449,
+		"y": 31651,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32461,
 		"y": 31075,
@@ -20188,10 +20209,24 @@
 		"z": 9
 	},
 	{
+		"description": "Towards exit",
+		"icon": "up",
+		"x": 32700,
+		"y": 32013,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32704,
 		"y": 31156,
+		"z": 9
+	},
+	{
+		"description": "Towards Yaga the Crone",
+		"icon": "down",
+		"x": 32710,
+		"y": 32007,
 		"z": 9
 	},
 	{
@@ -22450,6 +22485,48 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33799,
+		"y": 31662,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33799,
+		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33801,
+		"y": 31664,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33801,
+		"y": 31668,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33801,
+		"y": 31672,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33805,
+		"y": 31672,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33807,
 		"y": 31063,
@@ -22457,9 +22534,100 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33807,
+		"y": 31666,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33807,
+		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33811,
+		"y": 31666,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33811,
+		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33812,
 		"y": 31653,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33813,
+		"y": 31660,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33813,
+		"y": 31664,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33813,
+		"y": 31672,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33815,
+		"y": 31662,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33817,
+		"y": 31664,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33817,
+		"y": 31672,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33819,
+		"y": 31666,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33819,
+		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33825,
+		"y": 31596,
 		"z": 9
 	},
 	{
@@ -23381,6 +23549,27 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32422,
+		"y": 31606,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32422,
+		"y": 31669,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32423,
+		"y": 31655,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32423,
 		"y": 32010,
@@ -23402,6 +23591,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 32424,
+		"y": 31625,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32427,
 		"y": 31875,
@@ -23412,6 +23608,13 @@
 		"icon": "up",
 		"x": 32427,
 		"y": 32032,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32428,
+		"y": 31671,
 		"z": 10
 	},
 	{
@@ -23426,6 +23629,20 @@
 		"icon": "down",
 		"x": 32429,
 		"y": 31579,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32429,
+		"y": 31603,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32430,
+		"y": 31585,
 		"z": 10
 	},
 	{
@@ -23454,6 +23671,13 @@
 		"icon": "up",
 		"x": 32434,
 		"y": 32525,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32435,
+		"y": 31627,
 		"z": 10
 	},
 	{
@@ -23506,6 +23730,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 32445,
+		"y": 31642,
+		"z": 10
+	},
+	{
 		"description": "Glowing vortex (teleport to exit)",
 		"icon": "star",
 		"x": 32446,
@@ -23521,6 +23752,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32448,
+		"y": 31654,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32449,
 		"y": 32606,
@@ -23531,6 +23769,41 @@
 		"icon": "down",
 		"x": 32453,
 		"y": 31082,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32453,
+		"y": 31586,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32453,
+		"y": 31704,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32453,
+		"y": 31715,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32455,
+		"y": 31719,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32461,
+		"y": 31721,
 		"z": 10
 	},
 	{
@@ -23563,6 +23836,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32467,
+		"y": 31692,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32468,
 		"y": 31024,
@@ -23573,6 +23853,13 @@
 		"icon": "crossmark",
 		"x": 32468,
 		"y": 31635,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32468,
+		"y": 31703,
 		"z": 10
 	},
 	{
@@ -23632,8 +23919,29 @@
 		"z": 10
 	},
 	{
-		"description": "12. To Demona",
+		"description": "",
 		"icon": "red down",
+		"x": 32485,
+		"y": 31679,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32486,
+		"y": 31633,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32486,
+		"y": 31669,
+		"z": 10
+	},
+	{
+		"description": "12. To Demona",
+		"icon": "down",
 		"x": 32486,
 		"y": 31688,
 		"z": 10
@@ -23661,6 +23969,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32504,
+		"y": 31706,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32505,
 		"y": 31072,
@@ -23671,6 +23986,20 @@
 		"icon": "up",
 		"x": 32506,
 		"y": 31093,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32506,
+		"y": 31699,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32506,
+		"y": 31726,
 		"z": 10
 	},
 	{
@@ -23710,7 +24039,7 @@
 	},
 	{
 		"description": "13. To Demona",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32521,
 		"y": 31726,
 		"z": 10
@@ -23734,6 +24063,20 @@
 		"icon": "up",
 		"x": 32531,
 		"y": 32708,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32532,
+		"y": 31710,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32532,
+		"y": 31720,
 		"z": 10
 	},
 	{
@@ -24229,6 +24572,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32711,
+		"y": 32011,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32715,
 		"y": 31896,
 		"z": 10
@@ -24238,6 +24588,13 @@
 		"icon": "up",
 		"x": 32718,
 		"y": 31846,
+		"z": 10
+	},
+	{
+		"description": "To exit",
+		"icon": "up",
+		"x": 32720,
+		"y": 31997,
 		"z": 10
 	},
 	{
@@ -25159,7 +25516,7 @@
 	},
 	{
 		"description": "Deathstrike spawn tile",
-		"icon": "!",
+		"icon": "crossmark",
 		"x": 33101,
 		"y": 31956,
 		"z": 10
@@ -25512,13 +25869,6 @@
 		"icon": "down",
 		"x": 33262,
 		"y": 31877,
-		"z": 10
-	},
-	{
-		"description": "Sir Valorcrest (spawn location)",
-		"icon": "star",
-		"x": 33263,
-		"y": 31768,
 		"z": 10
 	},
 	{
@@ -26685,6 +27035,27 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32394,
+		"y": 31577,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32394,
+		"y": 31587,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32394,
+		"y": 31594,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32399,
 		"y": 32496,
@@ -26719,8 +27090,15 @@
 		"z": 11
 	},
 	{
-		"description": "9. To Demona",
+		"description": "",
 		"icon": "red down",
+		"x": 32410,
+		"y": 31569,
+		"z": 11
+	},
+	{
+		"description": "9. To Demona",
+		"icon": "down",
 		"x": 32410,
 		"y": 31623,
 		"z": 11
@@ -26740,6 +27118,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 32412,
+		"y": 31575,
+		"z": 11
+	},
+	{
 		"description": "Grandfather Tridian (approximate spawn location)",
 		"icon": "star",
 		"x": 32412,
@@ -26747,9 +27132,30 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 32413,
+		"y": 31648,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32413,
+		"y": 31657,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32414,
+		"y": 31596,
+		"z": 11
+	},
+	{
 		"description": "3. To surface",
 		"icon": "down",
-		"x": 32417,
+		"x": 32418,
 		"y": 31596,
 		"z": 11
 	},
@@ -26768,15 +27174,22 @@
 		"z": 11
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
+		"description": "",
+		"icon": "red up",
 		"x": 32420,
-		"y": 32036,
+		"y": 31697,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32421,
+		"y": 31687,
 		"z": 11
 	},
 	{
 		"description": "7. To Demona",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32422,
 		"y": 31706,
 		"z": 11
@@ -26796,17 +27209,31 @@
 		"z": 11
 	},
 	{
-		"description": "11. To Demona",
-		"icon": "red up",
+		"description": "",
+		"icon": "up",
 		"x": 32428,
+		"y": 31989,
+		"z": 11
+	},
+	{
+		"description": "11. To Demona",
+		"icon": "up",
+		"x": 32429,
 		"y": 31579,
 		"z": 11
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 32428,
-		"y": 31989,
+		"icon": "red left",
+		"x": 32429,
+		"y": 31666,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32430,
+		"y": 31671,
 		"z": 11
 	},
 	{
@@ -26902,9 +27329,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32449,
+		"y": 31718,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32449,
 		"y": 32606,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32451,
+		"y": 31722,
 		"z": 11
 	},
 	{
@@ -26972,6 +27413,20 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32490,
+		"y": 31722,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32492,
+		"y": 31713,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32496,
 		"y": 31224,
@@ -27031,6 +27486,20 @@
 		"icon": "flag",
 		"x": 32528,
 		"y": 32488,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32531,
+		"y": 31720,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32533,
+		"y": 31703,
 		"z": 11
 	},
 	{
@@ -27290,6 +27759,13 @@
 		"icon": "!",
 		"x": 32710,
 		"y": 31644,
+		"z": 11
+	},
+	{
+		"description": "Yaga the Crone (spawn location)",
+		"icon": "star",
+		"x": 32712,
+		"y": 32011,
 		"z": 11
 	},
 	{
@@ -28008,7 +28484,7 @@
 	},
 	{
 		"description": "Gnomevil spawn tile",
-		"icon": "!",
+		"icon": "crossmark",
 		"x": 33116,
 		"y": 31956,
 		"z": 11
@@ -29345,23 +29821,16 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32397,
+		"y": 31704,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32398,
 		"y": 31808,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32402,
-		"y": 32022,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32402,
-		"y": 32029,
 		"z": 12
 	},
 	{
@@ -29372,10 +29841,24 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 32410,
+		"y": 31616,
+		"z": 12
+	},
+	{
 		"description": "4. To surface",
 		"icon": "up",
-		"x": 32409,
-		"y": 31622,
+		"x": 32410,
+		"y": 31623,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32411,
+		"y": 31610,
 		"z": 12
 	},
 	{
@@ -29387,16 +29870,9 @@
 	},
 	{
 		"description": "10. To Demona",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32418,
 		"y": 31596,
-		"z": 12
-	},
-	{
-		"description": "8. To Demona",
-		"icon": "red up",
-		"x": 32418,
-		"y": 31699,
 		"z": 12
 	},
 	{
@@ -29404,6 +29880,13 @@
 		"icon": "up",
 		"x": 32418,
 		"y": 32056,
+		"z": 12
+	},
+	{
+		"description": "8. To Demona",
+		"icon": "up",
+		"x": 32419,
+		"y": 31699,
 		"z": 12
 	},
 	{
@@ -29484,10 +29967,17 @@
 		"z": 12
 	},
 	{
-		"description": "5. To Demona",
-		"icon": "red down",
+		"description": "",
+		"icon": "down",
 		"x": 32470,
-		"y": 31669,
+		"y": 31668,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32474,
+		"y": 31650,
 		"z": 12
 	},
 	{
@@ -29509,6 +29999,20 @@
 		"icon": "up",
 		"x": 32479,
 		"y": 32780,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32501,
+		"y": 31683,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32502,
+		"y": 31688,
 		"z": 12
 	},
 	{
@@ -29541,6 +30045,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32511,
+		"y": 31689,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32512,
 		"y": 31905,
@@ -29562,7 +30073,7 @@
 	},
 	{
 		"description": "6. To Demona",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32525,
 		"y": 31697,
 		"z": 12
@@ -30108,7 +30619,7 @@
 	},
 	{
 		"description": "Abyssador spawn tile",
-		"icon": "!",
+		"icon": "crossmark",
 		"x": 33090,
 		"y": 31911,
 		"z": 12
@@ -31325,13 +31836,6 @@
 		"z": 13
 	},
 	{
-		"description": "Hidden pick hole",
-		"icon": "down",
-		"x": 32396,
-		"y": 31990,
-		"z": 13
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32398,
@@ -31388,13 +31892,6 @@
 		"z": 13
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32425,
-		"y": 32007,
-		"z": 13
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32426,
@@ -31424,7 +31921,7 @@
 	},
 	{
 		"description": "4. To Demona",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32480,
 		"y": 31646,
 		"z": 13
@@ -31434,6 +31931,13 @@
 		"icon": "up",
 		"x": 32494,
 		"y": 32215,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32500,
+		"y": 31677,
 		"z": 13
 	},
 	{
@@ -31455,6 +31959,13 @@
 		"icon": "star",
 		"x": 32510,
 		"y": 31942,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32517,
+		"y": 31646,
 		"z": 13
 	},
 	{
@@ -33250,13 +33761,6 @@
 		"z": 14
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32405,
-		"y": 32025,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32408,
@@ -33313,6 +33817,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32451,
+		"y": 31654,
+		"z": 14
+	},
+	{
 		"description": "Lost dwarves",
 		"icon": "red down",
 		"x": 32463,
@@ -33334,10 +33845,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32500,
+		"y": 31677,
+		"z": 14
+	},
+	{
 		"description": "Towards Mintwallin",
 		"icon": "red left",
 		"x": 32507,
 		"y": 32160,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32508,
+		"y": 31654,
 		"z": 14
 	},
 	{
@@ -35539,13 +36064,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32408,
-		"y": 32000,
-		"z": 15
-	},
-	{
 		"description": "Grorlam (spawn location)",
 		"icon": "star",
 		"x": 32418,
@@ -35581,10 +36099,24 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 32484,
+		"y": 31722,
+		"z": 15
+	},
+	{
 		"description": "Teleport to minotaur cult",
 		"icon": "flag",
 		"x": 32496,
 		"y": 32102,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32500,
+		"y": 31677,
 		"z": 15
 	},
 	{
@@ -35597,7 +36129,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32516,
+		"x": 32515,
 		"y": 31577,
 		"z": 15
 	},
@@ -35728,7 +36260,7 @@
 		"z": 15
 	},
 	{
-		"description": "Countess Sorrow spawn location",
+		"description": "Countess Sorrow (spawn location)",
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
