@@ -17318,13 +17318,6 @@
 		"z": 8
 	},
 	{
-		"description": "Dazed leaf golem",
-		"icon": "sword",
-		"x": 33306,
-		"y": 31284,
-		"z": 8
-	},
-	{
 		"description": "Shortcut to exit (room to the east)",
 		"icon": "flag",
 		"x": 33306,
@@ -17336,6 +17329,13 @@
 		"icon": "mouth",
 		"x": 33306,
 		"y": 32143,
+		"z": 8
+	},
+	{
+		"description": "Dazed Leaf Golem (exact spawn tile)",
+		"icon": "sword",
+		"x": 33307,
+		"y": 31284,
 		"z": 8
 	},
 	{
@@ -23934,7 +23934,7 @@
 	},
 	{
 		"description": "1. To Demona",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32494,
 		"y": 31637,
 		"z": 10
@@ -27434,7 +27434,7 @@
 	},
 	{
 		"description": "2. To Demona",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32502,
 		"y": 31644,
 		"z": 11
@@ -27455,7 +27455,7 @@
 	},
 	{
 		"description": "3. To Demona",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32519,
 		"y": 31656,
 		"z": 11
