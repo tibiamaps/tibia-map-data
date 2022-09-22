@@ -10045,13 +10045,6 @@
 		"z": 7
 	},
 	{
-		"description": "Rotworms",
-		"icon": "down",
-		"x": 33133,
-		"y": 32432,
-		"z": 7
-	},
-	{
 		"description": "Mountain Tomb (boss: Dipthrah) <hidden>",
 		"icon": "!",
 		"x": 33133,
@@ -21245,6 +21238,13 @@
 		"z": 9
 	},
 	{
+		"description": "White Pale (spawn location)",
+		"icon": "star",
+		"x": 33130,
+		"y": 32431,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33131,
@@ -28739,6 +28739,13 @@
 		"icon": "up",
 		"x": 33266,
 		"y": 31864,
+		"z": 11
+	},
+	{
+		"description": "White Pale (spawn location)",
+		"icon": "star",
+		"x": 33268,
+		"y": 31870,
 		"z": 11
 	},
 	{
