@@ -21630,6 +21630,13 @@
 		"z": 9
 	},
 	{
+		"description": "The Voice of Ruin (spawn location)",
+		"icon": "crossmark",
+		"x": 33268,
+		"y": 31093,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33268,
@@ -21718,6 +21725,13 @@
 		"icon": "up",
 		"x": 33311,
 		"y": 31679,
+		"z": 9
+	},
+	{
+		"description": "The Voice of Ruin (spawn location)",
+		"icon": "crossmark",
+		"x": 33312,
+		"y": 31130,
 		"z": 9
 	},
 	{
@@ -26503,7 +26517,7 @@
 	},
 	{
 		"description": "Amenef the Burning",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33819,
 		"y": 31772,
 		"z": 10
@@ -30482,6 +30496,13 @@
 		"icon": "down",
 		"x": 32974,
 		"y": 32393,
+		"z": 12
+	},
+	{
+		"description": "Gravelord Oshuran (spawn location)",
+		"icon": "star",
+		"x": 32974,
+		"y": 32396,
 		"z": 12
 	},
 	{
