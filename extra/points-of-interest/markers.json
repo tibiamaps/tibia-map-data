@@ -8,6 +8,20 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32937,
+		"y": 31573,
+		"z": 0
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32941,
+		"y": 31578,
+		"z": 0
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33957,
 		"y": 31512,
@@ -22,6 +36,48 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32939,
+		"y": 31558,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32944,
+		"y": 31553,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32951,
+		"y": 31575,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32952,
+		"y": 31567,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32960,
+		"y": 31560,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32962,
+		"y": 31551,
+		"z": 1
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33149,
 		"y": 32549,
@@ -32,6 +88,20 @@
 		"icon": "flag",
 		"x": 33150,
 		"y": 32552,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33551,
+		"y": 31317,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33556,
+		"y": 31315,
 		"z": 1
 	},
 	{
@@ -100,6 +170,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32952,
+		"y": 31443,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32969,
 		"y": 32405,
 		"z": 2
@@ -107,8 +184,50 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32971,
+		"y": 31473,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32972,
 		"y": 32412,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33083,
+		"y": 31026,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33086,
+		"y": 31017,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33089,
+		"y": 31017,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33094,
+		"y": 31028,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33047,
+		"y": 31101,
 		"z": 2
 	},
 	{
@@ -151,6 +270,20 @@
 		"icon": "flag",
 		"x": 33408,
 		"y": 32669,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33551,
+		"y": 31317,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33557,
+		"y": 31317,
 		"z": 2
 	},
 	{
@@ -239,9 +372,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32950,
+		"y": 31552,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32953,
+		"y": 31555,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32969,
 		"y": 32408,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33031,
+		"y": 31213,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33043,
+		"y": 31170,
 		"z": 3
 	},
 	{
@@ -263,6 +424,41 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32169,
+		"z": 3
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33154,
+		"y": 31298,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33081,
+		"y": 31026,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33083,
+		"y": 31026,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33090,
+		"y": 31036,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33091,
+		"y": 31033,
 		"z": 3
 	},
 	{
@@ -312,6 +508,20 @@
 		"icon": "flag",
 		"x": 33404,
 		"y": 32663,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33552,
+		"y": 31316,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31317,
 		"z": 3
 	},
 	{
@@ -582,9 +792,72 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32938,
+		"y": 31554,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32938,
+		"y": 31565,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32945,
+		"y": 31550,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32947,
+		"y": 31562,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32951,
+		"y": 31558,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32952,
 		"y": 32039,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32953,
+		"y": 31555,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32956,
+		"y": 31536,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32960,
+		"y": 31541,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32963,
+		"y": 31454,
 		"z": 4
 	},
 	{
@@ -632,6 +905,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33041,
+		"y": 31282,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33064,
 		"y": 32162,
 		"z": 4
@@ -659,9 +939,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33084,
+		"y": 31115,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33088,
 		"y": 32191,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33091,
+		"y": 31037,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33105,
+		"y": 31038,
 		"z": 4
 	},
 	{
@@ -751,8 +1052,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33547,
+		"y": 31317,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33552,
+		"y": 31316,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33552,
 		"y": 31937,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33555,
+		"y": 31311,
 		"z": 4
 	},
 	{
@@ -1177,9 +1499,44 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32928,
+		"y": 31557,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32934,
+		"y": 31571,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32934,
 		"y": 32024,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32938,
+		"y": 31554,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32938,
+		"y": 31565,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32939,
+		"y": 31484,
 		"z": 5
 	},
 	{
@@ -1191,9 +1548,51 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32945,
+		"y": 31550,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32947,
+		"y": 31562,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32951,
+		"y": 31558,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32954,
 		"y": 32851,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32956,
+		"y": 31536,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32957,
+		"y": 31532,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32957,
+		"y": 31546,
 		"z": 5
 	},
 	{
@@ -1221,7 +1620,21 @@
 		"description": "",
 		"icon": "up",
 		"x": 33029,
+		"y": 31276,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33029,
 		"y": 32422,
+		"z": 5
+	},
+	{
+		"description": "Use weapon to break bars",
+		"icon": "crossmark",
+		"x": 33031,
+		"y": 31274,
 		"z": 5
 	},
 	{
@@ -1229,6 +1642,20 @@
 		"icon": "flag",
 		"x": 33032,
 		"y": 32801,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33034,
+		"y": 31276,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33043,
+		"y": 31279,
 		"z": 5
 	},
 	{
@@ -1268,6 +1695,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33067,
+		"y": 31304,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33075,
 		"y": 32446,
@@ -1283,6 +1717,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33092,
+		"y": 31046,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33104,
+		"y": 31039,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33106,
 		"y": 32140,
 		"z": 5
@@ -1292,6 +1740,20 @@
 		"icon": "crossmark",
 		"x": 33129,
 		"y": 32563,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31305,
+		"z": 5
+	},
+	{
+		"description": "To New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "down",
+		"x": 33176,
+		"y": 31298,
 		"z": 5
 	},
 	{
@@ -1453,6 +1915,20 @@
 		"icon": "flag",
 		"x": 33550,
 		"y": 32517,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33554,
+		"y": 31315,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33555,
+		"y": 31311,
 		"z": 5
 	},
 	{
@@ -2311,9 +2787,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32928,
+		"y": 31557,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32933,
 		"y": 32690,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32934,
+		"y": 31571,
 		"z": 6
 	},
 	{
@@ -2339,9 +2829,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32936,
+		"y": 31542,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32936,
 		"y": 32215,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 31478,
 		"z": 6
 	},
 	{
@@ -2352,10 +2856,31 @@
 		"z": 6
 	},
 	{
+		"description": "TP inside Vengoth Castle",
+		"icon": "crossmark",
+		"x": 32953,
+		"y": 31486,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 32953,
 		"y": 32019,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32957,
+		"y": 31532,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32957,
+		"y": 31546,
 		"z": 6
 	},
 	{
@@ -2370,6 +2895,20 @@
 		"icon": "flag",
 		"x": 32965,
 		"y": 32108,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32966,
+		"y": 31452,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32969,
+		"y": 31486,
 		"z": 6
 	},
 	{
@@ -2493,6 +3032,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33028,
+		"y": 31286,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33030,
 		"y": 32111,
@@ -2507,9 +3053,51 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33034,
+		"y": 31276,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33034,
 		"y": 32472,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33042,
+		"y": 31301,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33044,
+		"y": 31282,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33048,
+		"y": 31303,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33053,
+		"y": 31306,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33059,
+		"y": 31327,
 		"z": 6
 	},
 	{
@@ -2542,9 +3130,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33067,
+		"y": 31305,
+		"z": 6
+	},
+	{
+	"description": "",
+		"icon": "down",
+		"x": 33074,
+		"y": 31107,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33077,
 		"y": 32143,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33079,
+		"y": 31043,
 		"z": 6
 	},
 	{
@@ -2563,6 +3172,20 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33085,
+		"y": 31048,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33085,
+		"y": 31053,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 33087,
 		"y": 32694,
@@ -2573,6 +3196,13 @@
 		"icon": "flag",
 		"x": 33089,
 		"y": 32546,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33094,
+		"y": 31050,
 		"z": 6
 	},
 	{
@@ -2629,6 +3259,20 @@
 		"icon": "flag",
 		"x": 33175,
 		"y": 32534,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33188,
+		"y": 31040,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33193,
+		"y": 31041,
 		"z": 6
 	},
 	{
@@ -2723,6 +3367,13 @@
 		"z": 6
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33325,
+		"y": 31094,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33374,
@@ -2776,6 +3427,20 @@
 		"icon": "flag",
 		"x": 33546,
 		"y": 32529,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33554,
+		"y": 31315,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33557,
+		"y": 31318,
 		"z": 6
 	},
 	{
@@ -8452,6 +9117,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 32857,
+		"y": 31549,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32857,
 		"y": 32549,
 		"z": 7
 	},
@@ -8801,6 +9473,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32908,
+		"y": 31487,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32909,
 		"y": 32857,
 		"z": 7
@@ -8852,6 +9531,13 @@
 		"icon": "flag",
 		"x": 32918,
 		"y": 32854,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32919,
+		"y": 31550,
 		"z": 7
 	},
 	{
@@ -8915,6 +9601,13 @@
 		"icon": "flag",
 		"x": 32935,
 		"y": 32511,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32936,
+		"y": 31542,
 		"z": 7
 	},
 	{
@@ -9782,7 +10475,21 @@
 		"description": "",
 		"icon": "up",
 		"x": 33028,
+		"y": 31286,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33028,
 		"y": 32106,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33029,
+		"y": 31160,
 		"z": 7
 	},
 	{
@@ -9815,6 +10522,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33031,
+		"y": 31274,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33032,
+		"y": 31279,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33032,
 		"y": 32450,
@@ -9825,6 +10546,13 @@
 		"icon": "up",
 		"x": 33033,
 		"y": 32046,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33034,
+		"y": 31126,
 		"z": 7
 	},
 	{
@@ -10010,6 +10738,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33055,
+		"y": 32480,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33056,
@@ -10046,6 +10781,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33060,
+		"y": 31327,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33060,
 		"y": 32465,
@@ -10063,6 +10805,13 @@
 		"icon": "flag",
 		"x": 33063,
 		"y": 32476,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33064,
+		"y": 31351,
 		"z": 7
 	},
 	{
@@ -10151,6 +10900,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33074,
+		"y": 31107,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33074,
 		"y": 32171,
@@ -10189,6 +10945,13 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32392,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33082,
+		"y": 31264,
 		"z": 7
 	},
 	{
@@ -10298,6 +11061,20 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33099,
+		"y": 31054,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33099,
+		"y": 31338,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33099,
 		"y": 32085,
@@ -10371,6 +11148,13 @@
 		"icon": "flag",
 		"x": 33109,
 		"y": 31659,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33110,
+		"y": 31212,
 		"z": 7
 	},
 	{
@@ -10466,6 +11250,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33122,
+		"y": 31125,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33123,
+		"y": 31109,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33123,
 		"y": 31790,
@@ -10515,6 +11313,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33135,
+		"y": 31184,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33136,
 		"y": 31698,
@@ -10542,6 +11347,13 @@
 		"z": 7
 	},
 	{
+		"description": "To South Zao",
+		"icon": "red up",
+		"x": 33145,
+		"y": 31249,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33146,
@@ -10556,10 +11368,24 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33149,
+		"y": 31310,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33150,
 		"y": 32377,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33151,
+		"y": 31066,
 		"z": 7
 	},
 	{
@@ -10626,6 +11452,13 @@
 		"z": 7
 	},
 	{
+		"description": "Passage to Chazorai",
+		"icon": "crossmark",
+		"x": 33158,
+		"y": 31225,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33158,
@@ -10654,6 +11487,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33166,
+		"y": 31329,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33166,
@@ -10662,9 +11502,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33167,
+		"y": 31043,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33170,
 		"y": 32462,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31075,
 		"z": 7
 	},
 	{
@@ -10679,6 +11533,13 @@
 		"icon": "flag",
 		"x": 33174,
 		"y": 31826,
+		"z": 7
+	},
+	{
+		"description": "New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "up",
+		"x": 33175,
+		"y": 31305,
 		"z": 7
 	},
 	{
@@ -10788,6 +11649,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33185,
+		"y": 31120,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33187,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33187,
 		"y": 31661,
@@ -10871,6 +11746,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Northern Zao",
+		"icon": "red up",
+		"x": 33197,
+		"y": 31348,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33197,
@@ -10900,9 +11782,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33199,
+		"y": 31097,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33200,
 		"y": 31649,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33201,
+		"y": 31119,
 		"z": 7
 	},
 	{
@@ -10945,6 +11841,13 @@
 		"icon": "crossmark",
 		"x": 33205,
 		"y": 32543,
+		"z": 7
+	},
+	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33207,
+		"y": 31324,
 		"z": 7
 	},
 	{
@@ -11050,6 +11953,13 @@
 		"icon": "flag",
 		"x": 33217,
 		"y": 32287,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33218,
+		"y": 32520,
 		"z": 7
 	},
 	{
@@ -11193,6 +12103,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33241,
+		"y": 32368,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33241,
@@ -11211,6 +12128,13 @@
 		"icon": "flag",
 		"x": 33241,
 		"y": 32477,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33242,
+		"y": 32276,
 		"z": 7
 	},
 	{
@@ -11487,6 +12411,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33279,
+		"y": 31337,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33279,
@@ -11734,6 +12665,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33441,
+		"y": 31316,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33444,
 		"y": 31304,
 		"z": 7
@@ -11743,6 +12681,13 @@
 		"icon": "flag",
 		"x": 33444,
 		"y": 32259,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33445,
+		"y": 31261,
 		"z": 7
 	},
 	{
@@ -11769,6 +12714,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33452,
+		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33453,
 		"y": 31318,
 		"z": 7
@@ -11778,6 +12730,13 @@
 		"icon": "flag",
 		"x": 33456,
 		"y": 31354,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33457,
+		"y": 31297,
 		"z": 7
 	},
 	{
@@ -11797,8 +12756,50 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33458,
+		"y": 31323,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33460,
+		"y": 31307,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33462,
 		"y": 31332,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33467,
+		"y": 31325,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31226,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31254,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31273,
 		"z": 7
 	},
 	{
@@ -11847,7 +12848,28 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33486,
+		"y": 31313,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33486,
 		"y": 31321,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33488,
+		"y": 31279,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33488,
+		"y": 31305,
 		"z": 7
 	},
 	{
@@ -11862,6 +12884,13 @@
 		"icon": "flag",
 		"x": 33490,
 		"y": 32253,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33493,
+		"y": 31226,
 		"z": 7
 	},
 	{
@@ -12056,6 +13085,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33544,
+		"y": 31278,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33545,
 		"y": 32414,
 		"z": 7
@@ -12141,6 +13177,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33554,
+		"y": 31267,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33554,
 		"y": 31562,
 		"z": 7
 	},
@@ -12163,6 +13206,13 @@
 		"icon": "flag",
 		"x": 33555,
 		"y": 32249,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31318,
 		"z": 7
 	},
 	{
@@ -12210,6 +13260,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33565,
+		"y": 31273,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33566,
 		"y": 32475,
 		"z": 7
@@ -12247,6 +13304,13 @@
 		"icon": "flag",
 		"x": 33570,
 		"y": 32550,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33571,
+		"y": 31284,
 		"z": 7
 	},
 	{
@@ -12394,6 +13458,13 @@
 		"icon": "flag",
 		"x": 33584,
 		"y": 31691,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33585,
+		"y": 31284,
 		"z": 7
 	},
 	{
@@ -15309,6 +16380,13 @@
 		"z": 8
 	},
 	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33009,
+		"y": 31252,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33010,
@@ -15338,6 +16416,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33031,
+		"y": 31274,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33036,
 		"y": 32112,
@@ -15348,6 +16433,20 @@
 		"icon": "flag",
 		"x": 33042,
 		"y": 32117,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33052,
+		"y": 31305,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33055,
+		"y": 31272,
 		"z": 8
 	},
 	{
@@ -15485,9 +16584,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33173,
+		"y": 31075,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33190,
 		"y": 31664,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33202,
+		"y": 31059,
 		"z": 8
 	},
 	{
@@ -15586,6 +16699,20 @@
 		"icon": "flag",
 		"x": 33515,
 		"y": 31325,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33585,
+		"y": 31284,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33589,
+		"y": 31264,
 		"z": 8
 	},
 	{
@@ -17025,6 +18152,41 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33168,
+		"y": 31291,
+		"z": 9
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33168,
+		"y": 31293,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33182,
+		"y": 31287,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33202,
+		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33222,
+		"y": 31050,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33270,
 		"y": 32474,
@@ -17557,9 +18719,58 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33143,
+		"y": 31263,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33148,
+		"y": 31258,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31281,
+		"z": 10
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33162,
+		"y": 31257,
+		"z": 10
+	},
+	{
+		"description": "To Ghastly Dragon Palace",
+		"icon": "red left",
+		"x": 33162,
+		"y": 31264,
+		"z": 10
+	},
+	{
+		"description": "Wrath of the Emperor Quest area",
+		"icon": "red down",
+		"x": 33162,
+		"y": 31289,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33166,
 		"y": 31919,
+		"z": 10
+	},
+	{
+		"description": "New Frontier Quest",
+		"icon": "red up",
+		"x": 33171,
+		"y": 31261,
 		"z": 10
 	},
 	{
@@ -17571,9 +18782,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33182,
+		"y": 31287,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33197,
 		"y": 31915,
+		"z": 10
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33252,
+		"y": 31058,
 		"z": 10
 	},
 	{
@@ -18096,6 +19321,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33123,
+		"y": 31254,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33133,
 		"y": 31796,
@@ -18110,9 +19342,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33142,
+		"y": 31262,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33163,
 		"y": 31920,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33186,
+		"y": 31215,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33197,
+		"y": 31182,
 		"z": 11
 	},
 	{
@@ -18425,6 +19678,48 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33123,
+		"y": 31253,
+		"z": 12
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33155,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "To Ghastly Dragons",
+		"icon": "down",
+		"x": 33160,
+		"y": 31171,
+		"z": 12
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31213,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33185,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33197,
+		"y": 31181,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33274,
 		"y": 32421,
@@ -18629,8 +19924,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33156,
+		"y": 31169,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32430,
 		"y": 32009,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33156,
+		"y": 31181,
+		"z": 15
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33157,
+		"y": 31228,
 		"z": 15
 	},
 	{
