@@ -27034,6 +27034,13 @@
 		"z": 11
 	},
 	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32393,
+		"y": 32034,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32393,
@@ -27083,17 +27090,17 @@
 		"z": 11
 	},
 	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32403,
+		"y": 32049,
+		"z": 11
+	},
+	{
 		"description": "5. To surface",
 		"icon": "down",
 		"x": 32408,
 		"y": 31684,
-		"z": 11
-	},
-	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32409,
-		"y": 32013,
 		"z": 11
 	},
 	{
@@ -27171,6 +27178,13 @@
 		"icon": "down",
 		"x": 32418,
 		"y": 32056,
+		"z": 11
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32419,
+		"y": 32017,
 		"z": 11
 	},
 	{
@@ -29827,6 +29841,13 @@
 		"z": 12
 	},
 	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32392,
+		"y": 32020,
+		"z": 12
+	},
+	{
 		"description": "To monks",
 		"icon": "crossmark",
 		"x": 32395,
@@ -31892,10 +31913,24 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32401,
+		"y": 32022,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32402,
 		"y": 32029,
+		"z": 13
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32404,
+		"y": 31985,
 		"z": 13
 	},
 	{
@@ -33821,6 +33856,13 @@
 		"icon": "down",
 		"x": 32408,
 		"y": 32000,
+		"z": 14
+	},
+	{
+		"description": "Grorlam (possible spawn location)",
+		"icon": "star",
+		"x": 32413,
+		"y": 32007,
 		"z": 14
 	},
 	{
