@@ -2590,6 +2590,13 @@
 		"z": 5
 	},
 	{
+		"description": "The Welter (spawn location)",
+		"icon": "star",
+		"x": 33021,
+		"y": 32662,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33025,
@@ -8887,6 +8894,13 @@
 		"icon": "down",
 		"x": 32841,
 		"y": 32526,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32844,
+		"y": 31917,
 		"z": 7
 	},
 	{
@@ -15936,6 +15950,13 @@
 		"icon": "down",
 		"x": 32843,
 		"y": 32887,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32844,
+		"y": 31917,
 		"z": 8
 	},
 	{
