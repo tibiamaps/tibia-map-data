@@ -32209,8 +32209,8 @@
 	{
 		"description": "To Draconia",
 		"icon": "up",
-		"x": 32739,
-		"y": 31555,
+		"x": 32740,
+		"y": 31556,
 		"z": 13
 	},
 	{
@@ -34227,6 +34227,13 @@
 		"icon": "crossmark",
 		"x": 32804,
 		"y": 32338,
+		"z": 14
+	},
+	{
+		"description": "The Evil Eye (spawn location)",
+		"icon": "star",
+		"x": 32805,
+		"y": 31609,
 		"z": 14
 	},
 	{
