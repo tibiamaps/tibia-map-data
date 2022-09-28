@@ -2849,6 +2849,13 @@
 		"z": 5
 	},
 	{
+		"description": "Towards Corruption Hole",
+		"icon": "down",
+		"x": 33362,
+		"y": 31124,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33368,
@@ -4771,6 +4778,13 @@
 		"icon": "up",
 		"x": 33336,
 		"y": 31164,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33339,
+		"y": 31140,
 		"z": 6
 	},
 	{
@@ -11060,7 +11074,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Corruption Hole",
 		"icon": "down",
 		"x": 33345,
 		"y": 31116,
@@ -29302,6 +29316,13 @@
 		"z": 11
 	},
 	{
+		"description": "Jaul (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33545,
+		"y": 31273,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33546,
@@ -29317,7 +29338,7 @@
 	},
 	{
 		"description": "Jaul",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33558,
 		"y": 31282,
 		"z": 11
