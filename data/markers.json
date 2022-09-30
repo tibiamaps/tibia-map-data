@@ -12915,13 +12915,6 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33686,
-		"y": 32206,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33687,
@@ -21739,13 +21732,6 @@
 		"icon": "down",
 		"x": 33291,
 		"y": 32554,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33296,
-		"y": 31322,
 		"z": 9
 	},
 	{
