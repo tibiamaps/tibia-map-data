@@ -197,6 +197,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33047,
+		"y": 31101,
+		"z": 2
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33083,
 		"y": 31026,
@@ -221,13 +228,6 @@
 		"icon": "flag",
 		"x": 33094,
 		"y": 31028,
-		"z": 2
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33047,
-		"y": 31101,
 		"z": 2
 	},
 	{
@@ -427,13 +427,6 @@
 		"z": 3
 	},
 	{
-		"description": "Tome of Knowledge",
-		"icon": "star",
-		"x": 33154,
-		"y": 31298,
-		"z": 3
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 33081,
@@ -459,6 +452,13 @@
 		"icon": "flag",
 		"x": 33091,
 		"y": 31033,
+		"z": 3
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33154,
+		"y": 31298,
 		"z": 3
 	},
 	{
@@ -3136,7 +3136,7 @@
 		"z": 6
 	},
 	{
-	"description": "",
+		"description": "",
 		"icon": "down",
 		"x": 33074,
 		"y": 31107,
