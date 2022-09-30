@@ -506,6 +506,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33378,
+		"y": 31352,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33381,
 		"y": 32675,
 		"z": 3
