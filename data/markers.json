@@ -7308,6 +7308,13 @@
 		"z": 7
 	},
 	{
+		"description": "Drume (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32441,
+		"y": 32519,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32448,
