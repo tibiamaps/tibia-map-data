@@ -10810,8 +10810,8 @@
 	{
 		"description": "Battlemaster Zunzu (approximate spawn location)",
 		"icon": "star",
-		"x": 33279,
-		"y": 31246,
+		"x": 33281,
+		"y": 31225,
 		"z": 7
 	},
 	{
@@ -34328,10 +34328,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Levitate spot",
 		"icon": "red left",
-		"x": 32908,
-		"y": 32852,
+		"x": 32909,
+		"y": 32853,
 		"z": 14
 	},
 	{
@@ -36512,8 +36512,15 @@
 		"z": 15
 	},
 	{
-		"description": "Teleport to final boss room",
-		"icon": "flag",
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32908,
+		"y": 32853,
+		"z": 15
+	},
+	{
+		"description": "The Last Lore Keeper",
+		"icon": "sword",
 		"x": 32934,
 		"y": 32854,
 		"z": 15
