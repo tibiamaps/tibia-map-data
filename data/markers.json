@@ -9607,7 +9607,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33049,
-		"y": 32429,
+		"y": 32428,
 		"z": 7
 	},
 	{
@@ -10698,8 +10698,8 @@
 	{
 		"description": "Fleabringer (possible spawn location)",
 		"icon": "star",
-		"x": 33253,
-		"y": 31417,
+		"x": 33256,
+		"y": 31429,
 		"z": 7
 	},
 	{
@@ -10810,9 +10810,16 @@
 	{
 		"description": "Battlemaster Zunzu (approximate spawn location)",
 		"icon": "star",
-		"x": 33281,
-		"y": 31225,
+		"x": 33279,
+		"y": 31246,
 		"z": 7
+	},
+	{
+		"description": "Hidden pick hole",
+		"icon": "down",
+		"x": 32426,
+		"y": 32029,
+		"z": 11
 	},
 	{
 		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
@@ -27234,13 +27241,6 @@
 		"icon": "down",
 		"x": 32426,
 		"y": 31819,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32426,
-		"y": 32028,
 		"z": 11
 	},
 	{
