@@ -6713,13 +6713,6 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of black energy (boss: Lady Tenebris)",
-		"icon": "flag",
-		"x": 32325,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32326,
@@ -6741,24 +6734,10 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of violet energy (boss: Lloyd)",
-		"icon": "flag",
-		"x": 32328,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 32328,
 		"y": 32529,
-		"z": 7
-	},
-	{
-		"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
-		"icon": "flag",
-		"x": 32331,
-		"y": 32087,
 		"z": 7
 	},
 	{
@@ -6769,24 +6748,10 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of orange energy (teleport to northern Zao; boss: Dragonking Zyrtarch)",
-		"icon": "flag",
-		"x": 32334,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "Depot and post office",
 		"icon": "lock",
 		"x": 32336,
 		"y": 31784,
-		"z": 7
-	},
-	{
-		"description": "Portal of blue energy (teleport to Formorgar mines; boss: Solid Frozen Horror)",
-		"icon": "flag",
-		"x": 32337,
-		"y": 32087,
 		"z": 7
 	},
 	{
@@ -6822,13 +6787,6 @@
 		"icon": "bag",
 		"x": 32340,
 		"y": 31802,
-		"z": 7
-	},
-	{
-		"description": "Portal of golden energy (boss: The Time Guardian)",
-		"icon": "flag",
-		"x": 32340,
-		"y": 32087,
 		"z": 7
 	},
 	{
