@@ -25522,7 +25522,7 @@
 		"z": 10
 	},
 	{
-		"description": "Deathstrike spawn tile",
+		"description": "Deathstrike (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33101,
 		"y": 31956,
@@ -26712,7 +26712,7 @@
 		"z": 11
 	},
 	{
-		"description": "To Vortex hub",
+		"description": "To Vortex Hub",
 		"icon": "red down",
 		"x": 32111,
 		"y": 31362,
@@ -26740,7 +26740,7 @@
 		"z": 11
 	},
 	{
-		"description": "To Exit",
+		"description": "To exit",
 		"icon": "down",
 		"x": 32140,
 		"y": 31386,
@@ -26775,7 +26775,7 @@
 		"z": 11
 	},
 	{
-		"description": "Entrance to vortex hub",
+		"description": "Entrance to Vortex Hub",
 		"icon": "star",
 		"x": 32162,
 		"y": 31327,
@@ -29631,7 +29631,7 @@
 		"z": 12
 	},
 	{
-		"description": "To Vortex hub",
+		"description": "To Vortex Hub",
 		"icon": "red up",
 		"x": 32114,
 		"y": 31347,
@@ -29708,7 +29708,7 @@
 		"z": 12
 	},
 	{
-		"description": "To Vortex hub",
+		"description": "To Vortex Hub",
 		"icon": "red up",
 		"x": 32143,
 		"y": 31345,
@@ -31717,7 +31717,7 @@
 		"z": 13
 	},
 	{
-		"description": "To Vortex hub",
+		"description": "To Vortex Hub",
 		"icon": "red up",
 		"x": 32118,
 		"y": 31340,
