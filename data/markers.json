@@ -6713,6 +6713,13 @@
 		"z": 7
 	},
 	{
+		"description": "Portal of black energy (boss: Lady Tenebris)",
+		"icon": "flag",
+		"x": 32325,
+		"y": 32087,
+		"z": 7
+	},
+	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32326,
@@ -6734,10 +6741,24 @@
 		"z": 7
 	},
 	{
+		"description": "Portal of violet energy (boss: Lloyd)",
+		"icon": "flag",
+		"x": 32328,
+		"y": 32087,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 32328,
 		"y": 32529,
+		"z": 7
+	},
+	{
+		"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
+		"icon": "flag",
+		"x": 32331,
+		"y": 32087,
 		"z": 7
 	},
 	{
@@ -6748,10 +6769,24 @@
 		"z": 7
 	},
 	{
+		"description": "Portal of orange energy (teleport to northern Zao; boss: Dragonking Zyrtarch)",
+		"icon": "flag",
+		"x": 32334,
+		"y": 32087,
+		"z": 7
+	},
+	{
 		"description": "Depot and post office",
 		"icon": "lock",
 		"x": 32336,
 		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "Portal of blue energy (teleport to Formorgar mines; boss: Solid Frozen Horror)",
+		"icon": "flag",
+		"x": 32337,
+		"y": 32087,
 		"z": 7
 	},
 	{
@@ -6787,6 +6822,13 @@
 		"icon": "bag",
 		"x": 32340,
 		"y": 31802,
+		"z": 7
+	},
+	{
+		"description": "Portal of golden energy (boss: The Time Guardian)",
+		"icon": "flag",
+		"x": 32340,
+		"y": 32087,
 		"z": 7
 	},
 	{
@@ -7263,13 +7305,6 @@
 		"icon": "flag",
 		"x": 32440,
 		"y": 32971,
-		"z": 7
-	},
-	{
-		"description": "Drume (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32441,
-		"y": 32519,
 		"z": 7
 	},
 	{
@@ -9607,7 +9642,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33049,
-		"y": 32429,
+		"y": 32428,
 		"z": 7
 	},
 	{
@@ -10696,13 +10731,6 @@
 		"z": 7
 	},
 	{
-		"description": "Fleabringer (possible spawn location)",
-		"icon": "star",
-		"x": 33253,
-		"y": 31417,
-		"z": 7
-	},
-	{
 		"description": "Nightmare Isles",
 		"icon": "sword",
 		"x": 33254,
@@ -10714,6 +10742,13 @@
 		"icon": "!",
 		"x": 33255,
 		"y": 32833,
+		"z": 7
+	},
+	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33256,
+		"y": 31429,
 		"z": 7
 	},
 	{
@@ -10810,8 +10845,8 @@
 	{
 		"description": "Battlemaster Zunzu (approximate spawn location)",
 		"icon": "star",
-		"x": 33281,
-		"y": 31225,
+		"x": 33279,
+		"y": 31246,
 		"z": 7
 	},
 	{
@@ -21694,6 +21729,13 @@
 	},
 	{
 		"description": "",
+		"icon": "sword",
+		"x": 33296,
+		"y": 31322,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33296,
 		"y": 32587,
@@ -27237,10 +27279,10 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hidden pickhole",
 		"icon": "down",
 		"x": 32426,
-		"y": 32028,
+		"y": 32029,
 		"z": 11
 	},
 	{
@@ -34328,10 +34370,10 @@
 		"z": 14
 	},
 	{
-		"description": "Levitate spot",
+		"description": "",
 		"icon": "red left",
-		"x": 32909,
-		"y": 32853,
+		"x": 32908,
+		"y": 32852,
 		"z": 14
 	},
 	{
@@ -36512,15 +36554,8 @@
 		"z": 15
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 32908,
-		"y": 32853,
-		"z": 15
-	},
-	{
-		"description": "The Last Lore Keeper",
-		"icon": "sword",
+		"description": "Teleport to final boss room",
+		"icon": "flag",
 		"x": 32934,
 		"y": 32854,
 		"z": 15
