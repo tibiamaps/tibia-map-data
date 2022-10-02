@@ -32760,6 +32760,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33085,
+		"y": 32095,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33088,
@@ -32865,6 +32872,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33181,
+		"y": 32197,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33190,
@@ -32949,6 +32963,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33263,
+		"y": 32202,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33285,
@@ -33023,6 +33044,13 @@
 		"icon": "down",
 		"x": 33324,
 		"y": 31467,
+		"z": 13
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33329,
+		"y": 32075,
 		"z": 13
 	},
 	{
