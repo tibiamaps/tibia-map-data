@@ -10843,13 +10843,6 @@
 		"z": 7
 	},
 	{
-		"description": "Harbour",
-		"icon": "flag",
-		"x": 33291,
-		"y": 32472,
-		"z": 7
-	},
-	{
 		"description": "Brimstone bugs",
 		"icon": "down",
 		"x": 33292,
@@ -10861,6 +10854,13 @@
 		"icon": "up",
 		"x": 33292,
 		"y": 31220,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33292,
+		"y": 32472,
 		"z": 7
 	},
 	{
@@ -30926,10 +30926,31 @@
 		"z": 12
 	},
 	{
+		"description": "Machine (knight)",
+		"icon": "red up",
+		"x": 33243,
+		"y": 31832,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33252,
 		"y": 32848,
+		"z": 12
+	},
+	{
+		"description": "Machine (sorcerer)",
+		"icon": "red left",
+		"x": 33264,
+		"y": 31810,
+		"z": 12
+	},
+	{
+		"description": "Machine (druid)",
+		"icon": "red left",
+		"x": 33264,
+		"y": 31860,
 		"z": 12
 	},
 	{
@@ -30944,6 +30965,13 @@
 		"icon": "up",
 		"x": 33291,
 		"y": 32555,
+		"z": 12
+	},
+	{
+		"description": "Machine (paladin)",
+		"icon": "red up",
+		"x": 33292,
+		"y": 31832,
 		"z": 12
 	},
 	{
