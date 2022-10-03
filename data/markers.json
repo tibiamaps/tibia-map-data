@@ -5565,6 +5565,13 @@
 		"z": 7
 	},
 	{
+		"description": "Barbaria (approximate spawn location)",
+		"icon": "star",
+		"x": 32020,
+		"y": 31412,
+		"z": 7
+	},
+	{
 		"description": "Boat to Tibia",
 		"icon": "flag",
 		"x": 32020,
