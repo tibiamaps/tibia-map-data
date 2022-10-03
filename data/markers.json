@@ -4040,9 +4040,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32677,
+		"y": 31124,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32692,
 		"y": 31460,
+		"z": 6
+	},
+	{
+		"description": "Towards Diseased Fred",
+		"icon": "down",
+		"x": 32693,
+		"y": 31122,
 		"z": 6
 	},
 	{
@@ -8529,6 +8543,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 32741,
+		"y": 31160,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32741,
 		"y": 31492,
 		"z": 7
 	},
@@ -8705,6 +8726,13 @@
 		"icon": "red down",
 		"x": 32796,
 		"y": 32341,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32801,
+		"y": 31255,
 		"z": 7
 	},
 	{
@@ -15600,6 +15628,13 @@
 		"icon": "up",
 		"x": 32702,
 		"y": 31184,
+		"z": 8
+	},
+	{
+		"description": "Diseased Dan (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32707,
+		"y": 31190,
 		"z": 8
 	},
 	{
