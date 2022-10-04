@@ -9394,17 +9394,17 @@
 		"z": 7
 	},
 	{
+		"description": "Orc that drops Sam?s old and used backpack (spawn location)",
+		"icon": "star",
+		"x": 32975,
+		"y": 31743,
+		"z": 7
+	},
+	{
 		"description": "Terramites",
 		"icon": "down",
 		"x": 32975,
 		"y": 32686,
-		"z": 7
-	},
-	{
-		"description": "Orc that drops Sam’s old and used backpack (spawn location)",
-		"icon": "star",
-		"x": 32978,
-		"y": 31742,
 		"z": 7
 	},
 	{
