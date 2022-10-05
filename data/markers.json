@@ -4496,15 +4496,15 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33060,
-		"y": 32734,
+		"x": 33061,
+		"y": 32166,
 		"z": 6
 	},
 	{
 		"description": "",
 		"icon": "down",
 		"x": 33061,
-		"y": 32166,
+		"y": 32734,
 		"z": 6
 	},
 	{
@@ -11123,13 +11123,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33344,
-		"y": 31167,
-		"z": 7
-	},
-	{
 		"description": "Corruption Hole",
 		"icon": "down",
 		"x": 33345,
@@ -11148,13 +11141,6 @@
 		"icon": "down",
 		"x": 33347,
 		"y": 32031,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33348,
-		"y": 31180,
 		"z": 7
 	},
 	{
@@ -11764,13 +11750,6 @@
 		"icon": "checkmark",
 		"x": 33535,
 		"y": 32007,
-		"z": 7
-	},
-	{
-		"description": "Overmaw shrines",
-		"icon": "!",
-		"x": 33535,
-		"y": 32469,
 		"z": 7
 	},
 	{
