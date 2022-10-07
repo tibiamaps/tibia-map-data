@@ -2256,6 +2256,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32159,
+		"y": 32861,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32175,
 		"y": 31439,
 		"z": 5
@@ -3605,10 +3612,24 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32159,
+		"y": 32861,
+		"z": 6
+	},
+	{
 		"description": "To glowing vortex: breach broods, dread intruders, sparkions",
 		"icon": "red down",
 		"x": 32163,
 		"y": 31293,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32163,
+		"y": 32855,
 		"z": 6
 	},
 	{
@@ -6111,6 +6132,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32156,
+		"y": 32864,
+		"z": 7
+	},
+	{
 		"description": "Bonelord Cave",
 		"icon": "red down",
 		"x": 32158,
@@ -6141,8 +6169,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32163,
+		"y": 32855,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32164,
 		"y": 31293,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32166,
+		"y": 32840,
+		"z": 7
+	},
+	{
+		"description": "Hive Outpost (world change)",
+		"icon": "!",
+		"x": 32167,
+		"y": 32836,
 		"z": 7
 	},
 	{
@@ -14357,6 +14406,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32156,
+		"y": 32864,
+		"z": 8
+	},
+	{
 		"description": "Exit to Liberty Bay",
 		"icon": "up",
 		"x": 32158,
@@ -14375,6 +14431,13 @@
 		"icon": "flag",
 		"x": 32166,
 		"y": 31007,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32167,
+		"y": 32853,
 		"z": 8
 	},
 	{
@@ -19033,10 +19096,24 @@
 		"z": 9
 	},
 	{
+		"description": "The Mean Masher (spawn location)",
+		"icon": "star",
+		"x": 32163,
+		"y": 32865,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 32167,
 		"y": 31445,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32167,
+		"y": 32853,
 		"z": 9
 	},
 	{
