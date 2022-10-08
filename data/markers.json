@@ -26810,10 +26810,10 @@
 		"z": 11
 	},
 	{
-		"description": "Dreadful Disruptor (approximate spawn location)",
+		"description": "Dreadful Disruptor (exact spawn location)",
 		"icon": "crossmark",
-		"x": 32034,
-		"y": 31376,
+		"x": 32035,
+		"y": 31372,
 		"z": 11
 	},
 	{
@@ -33271,8 +33271,8 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Mahatheb (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33394,
 		"y": 31701,
 		"z": 13
