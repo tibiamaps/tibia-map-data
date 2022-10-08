@@ -21805,13 +21805,6 @@
 		"z": 9
 	},
 	{
-		"description": "The Voice of Ruin (spawn location)",
-		"icon": "crossmark",
-		"x": 33268,
-		"y": 31093,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33268,
@@ -21830,6 +21823,13 @@
 		"icon": "down",
 		"x": 33283,
 		"y": 31635,
+		"z": 9
+	},
+	{
+		"description": "The Voice of Ruin (spawn location)",
+		"icon": "crossmark",
+		"x": 33284,
+		"y": 31085,
 		"z": 9
 	},
 	{
