@@ -19096,7 +19096,7 @@
 		"z": 9
 	},
 	{
-		"description": "The Mean Masher (spawn location)",
+		"description": "The Hungerer / The Manhunter / The Mean Masher (spawn location)",
 		"icon": "star",
 		"x": 32163,
 		"y": 32865,
@@ -23926,6 +23926,13 @@
 		"z": 10
 	},
 	{
+		"description": "Burster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32449,
+		"y": 32417,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32449,
@@ -26800,6 +26807,13 @@
 		"icon": "down",
 		"x": 32031,
 		"y": 32994,
+		"z": 11
+	},
+	{
+		"description": "Dreadful Disruptor (approximate spawn location)",
+		"icon": "crossmark",
+		"x": 32034,
+		"y": 31376,
 		"z": 11
 	},
 	{
