@@ -26810,7 +26810,7 @@
 		"z": 11
 	},
 	{
-		"description": "Dreadful Disruptor (exact spawn tile)",
+		"description": "Dreadful Disruptor (exact spawn location)",
 		"icon": "crossmark",
 		"x": 32035,
 		"y": 31372,
@@ -29911,10 +29911,10 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "Towards Ghazbaran",
 		"icon": "down",
-		"x": 32229,
-		"y": 31189,
+		"x": 32228,
+		"y": 31188,
 		"z": 12
 	},
 	{
@@ -36390,6 +36390,13 @@
 		"icon": "flag",
 		"x": 32224,
 		"y": 32606,
+		"z": 15
+	},
+	{
+		"description": "Ghazbaran (spawn location)",
+		"icon": "star",
+		"x": 32227,
+		"y": 31156,
 		"z": 15
 	},
 	{
