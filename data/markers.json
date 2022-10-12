@@ -5447,13 +5447,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 33864,
-		"y": 31501,
-		"z": 6
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33865,
 		"y": 31489,
@@ -12859,13 +12852,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33676,
-		"y": 31928,
-		"z": 7
-	},
-	{
 		"description": "Secret hole (messages in a bottle required)",
 		"icon": "down",
 		"x": 33677,
@@ -12902,16 +12888,23 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33680,
-		"y": 31930,
+		"icon": "up",
+		"x": 33681,
+		"y": 31752,
 		"z": 7
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33681,
-		"y": 31752,
+		"icon": "red down",
+		"x": 33682,
+		"y": 31938,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33682,
+		"y": 31942,
 		"z": 7
 	},
 	{
@@ -12933,20 +12926,6 @@
 		"icon": "checkmark",
 		"x": 33683,
 		"y": 31750,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33683,
-		"y": 31916,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33684,
-		"y": 31924,
 		"z": 7
 	},
 	{
@@ -12996,13 +12975,6 @@
 		"icon": "up",
 		"x": 33687,
 		"y": 32190,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33688,
-		"y": 31934,
 		"z": 7
 	},
 	{
@@ -16944,6 +16916,13 @@
 		"icon": "up",
 		"x": 33153,
 		"y": 32686,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33154,
+		"y": 31734,
 		"z": 8
 	},
 	{
@@ -21508,6 +21487,13 @@
 		"icon": "up",
 		"x": 33161,
 		"y": 31624,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33163,
+		"y": 31746,
 		"z": 9
 	},
 	{
@@ -35767,13 +35753,6 @@
 		"icon": "checkmark",
 		"x": 33661,
 		"y": 31937,
-		"z": 14
-	},
-	{
-		"description": "Lazyfairy",
-		"icon": "checkmark",
-		"x": 33661,
-		"y": 32893,
 		"z": 14
 	},
 	{
