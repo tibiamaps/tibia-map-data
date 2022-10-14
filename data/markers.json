@@ -26586,6 +26586,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33620,
+		"y": 32625,
+		"z": 10
+	},
+	{
 		"description": "Ebb and Flow (Goshnar’s Spite)",
 		"icon": "sword",
 		"x": 33621,
@@ -26621,10 +26628,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33626,
+		"y": 32633,
+		"z": 10
+	},
+	{
 		"description": "The Mirrored Nightmare (Goshnar’s Greed)",
 		"icon": "sword",
 		"x": 33627,
 		"y": 31422,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33629,
+		"y": 32639,
 		"z": 10
 	},
 	{
@@ -26650,9 +26671,72 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33633,
+		"y": 32641,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33635,
+		"y": 32648,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33636,
+		"y": 32663,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33636,
+		"y": 32673,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33637,
 		"y": 31898,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33637,
+		"y": 32656,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33638,
+		"y": 32679,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33641,
+		"y": 32650,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33647,
+		"y": 32683,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33647,
+		"y": 32687,
 		"z": 10
 	},
 	{
@@ -26660,6 +26744,13 @@
 		"icon": "flag",
 		"x": 33649,
 		"y": 31438,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33654,
+		"y": 32686,
 		"z": 10
 	},
 	{
