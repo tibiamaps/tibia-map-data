@@ -36844,7 +36844,7 @@
 		"description": "Source of Corruption room, including 2 upper floors",
 		"icon": "sword",
 		"x": 33039,
-		"y": 31917,
+		"y": 31921,
 		"z": 15
 	},
 	{
@@ -37993,6 +37993,13 @@
 		"icon": "checkmark",
 		"x": 33714,
 		"y": 32304,
+		"z": 15
+	},
+	{
+		"description": "Use the crystal to go down",
+		"icon": "down",
+		"x": 33749,
+		"y": 32159,
 		"z": 15
 	},
 	{
