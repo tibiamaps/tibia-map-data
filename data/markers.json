@@ -30233,6 +30233,13 @@
 		"z": 12
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32421,
+		"y": 32041,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32425,
