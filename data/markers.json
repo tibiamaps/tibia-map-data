@@ -23184,6 +23184,13 @@
 		"z": 10
 	},
 	{
+		"description": "Diblis the Fair (spawn location)",
+		"icon": "star",
+		"x": 32010,
+		"y": 32798,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32013,
@@ -32281,6 +32288,13 @@
 		"icon": "down",
 		"x": 32420,
 		"y": 32018,
+		"z": 13
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32422,
+		"y": 32007,
 		"z": 13
 	},
 	{
