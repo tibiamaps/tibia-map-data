@@ -4382,13 +4382,6 @@
 		"z": 6
 	},
 	{
-		"description": "Exit Production Sites",
-		"icon": "down",
-		"x": 32998,
-		"y": 32096,
-		"z": 6
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33004,
@@ -7686,10 +7679,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32540,
-		"y": 31942,
+		"y": 31941,
 		"z": 7
 	},
 	{
@@ -14483,7 +14476,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32193,
 		"y": 31788,
@@ -19414,7 +19407,7 @@
 		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32371,
-		"y": 32243,
+		"y": 32242,
 		"z": 9
 	},
 	{
@@ -23562,7 +23555,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32357,
 		"y": 32232,
@@ -27217,6 +27210,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32357,
+		"y": 32232,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32360,
 		"y": 32025,
@@ -28837,6 +28837,13 @@
 		"icon": "red up",
 		"x": 33134,
 		"y": 32016,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 33137,
+		"y": 31671,
 		"z": 11
 	},
 	{
@@ -33195,6 +33202,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33228,
+		"y": 31698,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33229,
 		"y": 31457,
@@ -35917,6 +35931,13 @@
 		"z": 14
 	},
 	{
+		"description": "Brother Worm (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33707,
+		"y": 31536,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33711,
@@ -36877,6 +36898,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33061,
+		"y": 31751,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33070,
 		"y": 32609,
@@ -36936,6 +36964,13 @@
 		"icon": "red up",
 		"x": 33076,
 		"y": 32625,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33089,
+		"y": 31759,
 		"z": 15
 	},
 	{
@@ -37097,6 +37132,13 @@
 		"icon": "flag",
 		"x": 33184,
 		"y": 32767,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33187,
+		"y": 31759,
 		"z": 15
 	},
 	{
