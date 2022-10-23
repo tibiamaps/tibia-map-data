@@ -32004,13 +32004,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32113,
-		"y": 31317,
-		"z": 13
-	},
-	{
 		"description": "Portal to Winter",
 		"icon": "flag",
 		"x": 32114,
@@ -32053,13 +32046,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32137,
-		"y": 31326,
-		"z": 13
-	},
-	{
 		"description": "Treasure chest (3 gold ingots)",
 		"icon": "star",
 		"x": 32139,
@@ -32071,13 +32057,6 @@
 		"icon": "star",
 		"x": 32143,
 		"y": 32968,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32155,
-		"y": 31342,
 		"z": 13
 	},
 	{
@@ -33922,13 +33901,6 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32093,
-		"y": 31326,
-		"z": 14
-	},
-	{
 		"description": "To Rupture (Zao boss)",
 		"icon": "up",
 		"x": 32113,
@@ -33945,22 +33917,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32121,
-		"y": 31330,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32125,
 		"y": 31109,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32132,
-		"y": 31334,
 		"z": 14
 	},
 	{
