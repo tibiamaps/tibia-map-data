@@ -34083,6 +34083,13 @@
 		"z": 14
 	},
 	{
+		"description": "Charging Outburst (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32234,
+		"y": 31285,
+		"z": 14
+	},
+	{
 		"description": "Teleport",
 		"icon": "flag",
 		"x": 32244,
