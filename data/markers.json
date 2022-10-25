@@ -14756,6 +14756,13 @@
 		"z": 8
 	},
 	{
+		"description": "Hirintror (spawn location)",
+		"icon": "star",
+		"x": 32366,
+		"y": 31052,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32374,
