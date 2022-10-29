@@ -4809,6 +4809,13 @@
 		"z": 6
 	},
 	{
+		"description": "Flamecaller Zazrak (spawn location)",
+		"icon": "star",
+		"x": 33251,
+		"y": 31152,
+		"z": 6
+	},
+	{
 		"description": "To NPC Spectulus",
 		"icon": "up",
 		"x": 33263,
@@ -10819,6 +10826,13 @@
 		"icon": "down",
 		"x": 33251,
 		"y": 31697,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33253,
+		"y": 31156,
 		"z": 7
 	},
 	{
