@@ -30626,7 +30626,7 @@
 	},
 	{
 		"description": "Flying book (exact spawn tile)",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32640,
 		"y": 32675,
 		"z": 12
@@ -32452,7 +32452,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "Librarian",
 		"icon": "?",
 		"x": 32575,
 		"y": 32535,
@@ -34391,6 +34391,13 @@
 		"z": 14
 	},
 	{
+		"description": "Metal eye (click to put out the fire)",
+		"icon": "crossmark",
+		"x": 32566,
+		"y": 32559,
+		"z": 14
+	},
+	{
 		"description": "Drillworms",
 		"icon": "red down",
 		"x": 32570,
@@ -34430,6 +34437,13 @@
 		"icon": "red up",
 		"x": 32602,
 		"y": 31974,
+		"z": 14
+	},
+	{
+		"description": "Secret door (unlock from the other side)",
+		"icon": "red up",
+		"x": 32602,
+		"y": 32556,
 		"z": 14
 	},
 	{
