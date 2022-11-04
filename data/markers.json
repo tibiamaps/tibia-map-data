@@ -28666,9 +28666,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 33033,
-		"y": 32395,
+		"icon": "red right",
+		"x": 33031,
+		"y": 32398,
 		"z": 11
 	},
 	{
@@ -37053,7 +37053,7 @@
 	{
 		"description": "Essence of Malice room",
 		"icon": "sword",
-		"x": 33098,
+		"x": 33099,
 		"y": 31921,
 		"z": 15
 	},
