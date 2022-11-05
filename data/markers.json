@@ -11004,6 +11004,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dreadmaw (spawn location)",
+		"icon": "star",
+		"x": 33286,
+		"y": 31159,
+		"z": 7
+	},
+	{
 		"description": "Mother of Scarabs Lair",
 		"icon": "down",
 		"x": 33290,
