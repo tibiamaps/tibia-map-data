@@ -10465,6 +10465,13 @@
 		"z": 7
 	},
 	{
+		"description": "Flamecaller Zazrak (spawn location)",
+		"icon": "star",
+		"x": 33177,
+		"y": 31217,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33177,
@@ -10490,13 +10497,6 @@
 		"icon": "flag",
 		"x": 33183,
 		"y": 31756,
-		"z": 7
-	},
-	{
-		"description": "Flamecaller Zazrak (spawn location)",
-		"icon": "star",
-		"x": 33185,
-		"y": 31224,
 		"z": 7
 	},
 	{
@@ -10843,6 +10843,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33248,
+		"y": 31418,
+		"z": 7
+	},
+	{
 		"description": "Blue nomads",
 		"icon": "checkmark",
 		"x": 33249,
@@ -10875,13 +10882,6 @@
 		"icon": "!",
 		"x": 33255,
 		"y": 32833,
-		"z": 7
-	},
-	{
-		"description": "Fleabringer (possible spawn location)",
-		"icon": "star",
-		"x": 33256,
-		"y": 31429,
 		"z": 7
 	},
 	{
@@ -10948,6 +10948,13 @@
 		"z": 7
 	},
 	{
+		"description": "Battlemaster Zunzu (approximate spawn location)",
+		"icon": "star",
+		"x": 33271,
+		"y": 31237,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33271,
@@ -10973,13 +10980,6 @@
 		"icon": "red down",
 		"x": 33277,
 		"y": 31958,
-		"z": 7
-	},
-	{
-		"description": "Battlemaster Zunzu (approximate spawn location)",
-		"icon": "star",
-		"x": 33279,
-		"y": 31246,
 		"z": 7
 	},
 	{
@@ -30184,6 +30184,13 @@
 		"z": 12
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32374,
+		"y": 32005,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32374,
@@ -30286,6 +30293,13 @@
 		"icon": "red right",
 		"x": 32411,
 		"y": 31610,
+		"z": 12
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32412,
+		"y": 32007,
 		"z": 12
 	},
 	{
@@ -32270,6 +32284,13 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32372,
+		"y": 32010,
+		"z": 13
+	},
+	{
 		"description": "Way out",
 		"icon": "flag",
 		"x": 32395,
@@ -34237,6 +34258,13 @@
 		"z": 14
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32391,
+		"y": 32015,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32396,
@@ -34304,6 +34332,13 @@
 		"icon": "up",
 		"x": 32431,
 		"y": 32021,
+		"z": 14
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32433,
+		"y": 31995,
 		"z": 14
 	},
 	{
