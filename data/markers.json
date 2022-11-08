@@ -11151,6 +11151,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ysbasra's Tent",
+		"icon": "flag",
+		"x": 33318,
+		"y": 32007,
+		"z": 7
+	},
+	{
 		"description": "Draptor (possible spawn location)",
 		"icon": "checkmark",
 		"x": 33322,
@@ -11253,6 +11260,13 @@
 		"icon": "crossmark",
 		"x": 33356,
 		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "To Ingol",
+		"icon": "flag",
+		"x": 33356,
+		"y": 31985,
 		"z": 7
 	},
 	{
@@ -13146,6 +13160,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Cormaya",
+		"icon": "flag",
+		"x": 33713,
+		"y": 32602,
+		"z": 7
+	},
+	{
 		"description": "To the Dream Sand River",
 		"icon": "up",
 		"x": 33719,
@@ -13370,6 +13391,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33792,
+		"y": 32571,
+		"z": 7
+	},
+	{
 		"description": "Bragrumol",
 		"icon": "red down",
 		"x": 33793,
@@ -13402,6 +13430,13 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31637,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
 		"z": 7
 	},
 	{
