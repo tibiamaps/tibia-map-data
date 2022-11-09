@@ -8610,6 +8610,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Iksupan",
+		"icon": "flag",
+		"x": 32728,
+		"y": 32875,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32729,
@@ -13055,6 +13062,13 @@
 		"z": 7
 	},
 	{
+		"description": "Part of an Ancient Disc",
+		"icon": "star",
+		"x": 33693,
+		"y": 32030,
+		"z": 7
+	},
+	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33696,
@@ -13178,6 +13192,20 @@
 		"icon": "star",
 		"x": 33720,
 		"y": 32396,
+		"z": 7
+	},
+	{
+		"description": "Wet boards",
+		"icon": "star",
+		"x": 33722,
+		"y": 31964,
+		"z": 7
+	},
+	{
+		"description": "Towards Part of an Ancient Disc",
+		"icon": "flag",
+		"x": 33723,
+		"y": 31969,
 		"z": 7
 	},
 	{
@@ -14375,6 +14403,13 @@
 		"icon": "flag",
 		"x": 32124,
 		"y": 30994,
+		"z": 8
+	},
+	{
+		"description": "Pick hole (Fragment of an Ancient Disc)",
+		"icon": "red down",
+		"x": 32124,
+		"y": 31593,
 		"z": 8
 	},
 	{
@@ -18403,6 +18438,13 @@
 		"z": 8
 	},
 	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33781,
+		"y": 32559,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33782,
@@ -18424,6 +18466,20 @@
 		"z": 8
 	},
 	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33789,
+		"y": 32565,
+		"z": 8
+	},
+	{
+		"description": "Task 1",
+		"icon": "star",
+		"x": 33792,
+		"y": 32581,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33793,
@@ -18435,6 +18491,20 @@
 		"icon": "down",
 		"x": 33796,
 		"y": 31472,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32561,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
 		"z": 8
 	},
 	{
@@ -22708,6 +22778,13 @@
 		"z": 9
 	},
 	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33779,
+		"y": 32571,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33782,
@@ -22733,6 +22810,27 @@
 		"icon": "red left",
 		"x": 33799,
 		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32561,
+		"z": 9
+	},
+	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33800,
+		"y": 32570,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
 		"z": 9
 	},
 	{
@@ -26852,10 +26950,59 @@
 		"z": 10
 	},
 	{
+		"description": "Note board 2",
+		"icon": "star",
+		"x": 33691,
+		"y": 32453,
+		"z": 10
+	},
+	{
+		"description": "Book with transcripts",
+		"icon": "star",
+		"x": 33697,
+		"y": 32505,
+		"z": 10
+	},
+	{
+		"description": "Note board 3",
+		"icon": "star",
+		"x": 33702,
+		"y": 32530,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33703,
 		"y": 32364,
+		"z": 10
+	},
+	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33789,
+		"y": 32559,
+		"z": 10
+	},
+	{
+		"description": "Note board 1",
+		"icon": "star",
+		"x": 33793,
+		"y": 32506,
+		"z": 10
+	},
+	{
+		"description": "Feather and inkwell",
+		"icon": "star",
+		"x": 33795,
+		"y": 32565,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
 		"z": 10
 	},
 	{
