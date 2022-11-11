@@ -18760,6 +18760,27 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 34014,
+		"y": 31791,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34015,
+		"y": 31817,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34015,
+		"y": 31892,
+		"z": 8
+	},
+	{
 		"description": "Floating cask (use to get eye-shaped frame)",
 		"icon": "star",
 		"x": 34019,
@@ -18792,6 +18813,13 @@
 		"icon": "sword",
 		"x": 34059,
 		"y": 31657,
+		"z": 8
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 34070,
+		"y": 31820,
 		"z": 8
 	},
 	{
@@ -23254,6 +23282,55 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 34014,
+		"y": 31791,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34015,
+		"y": 31817,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34035,
+		"y": 31842,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34044,
+		"y": 31810,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34063,
+		"y": 31852,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 34071,
+		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 34090,
+		"y": 31829,
+		"z": 9
+	},
+	{
 		"description": "Undead cavebear (spawn location)",
 		"icon": "star",
 		"x": 31913,
@@ -26978,6 +27055,13 @@
 		"z": 10
 	},
 	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33779,
+		"y": 32559,
+		"z": 10
+	},
+	{
 		"description": "Blank Paper",
 		"icon": "star",
 		"x": 33789,
@@ -26996,6 +27080,13 @@
 		"icon": "star",
 		"x": 33795,
 		"y": 32565,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32561,
 		"z": 10
 	},
 	{
@@ -27066,6 +27157,41 @@
 		"icon": "up",
 		"x": 34013,
 		"y": 31098,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34035,
+		"y": 31842,
+		"z": 10
+	},
+	{
+		"description": "Shortcut to entrance",
+		"icon": "flag",
+		"x": 34041,
+		"y": 31726,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34044,
+		"y": 31810,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 34063,
+		"y": 31851,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34090,
+		"y": 31830,
 		"z": 10
 	},
 	{
@@ -29883,6 +30009,27 @@
 		"z": 11
 	},
 	{
+		"description": "NPC Ivora",
+		"icon": "mouth",
+		"x": 33799,
+		"y": 32543,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32561,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33889,
@@ -32036,6 +32183,20 @@
 		"icon": "?",
 		"x": 33716,
 		"y": 31875,
+		"z": 12
+	},
+	{
+		"description": "Egg cracker",
+		"icon": "star",
+		"x": 33799,
+		"y": 32559,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
 		"z": 12
 	},
 	{
