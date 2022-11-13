@@ -27055,14 +27055,21 @@
 		"z": 10
 	},
 	{
-		"description": "Empty Flask",
+		"description": "Research records",
+		"icon": "star",
+		"x": 33761,
+		"y": 32588,
+		"z": 10
+	},
+	{
+		"description": "Empty flask",
 		"icon": "star",
 		"x": 33779,
 		"y": 32559,
 		"z": 10
 	},
 	{
-		"description": "Blank Paper",
+		"description": "Blank paper",
 		"icon": "star",
 		"x": 33789,
 		"y": 32559,
