@@ -8,6 +8,20 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32937,
+		"y": 31573,
+		"z": 0
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32941,
+		"y": 31578,
+		"z": 0
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33957,
 		"y": 31512,
@@ -18,6 +32,48 @@
 		"icon": "flag",
 		"x": 32345,
 		"y": 32266,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32939,
+		"y": 31558,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32944,
+		"y": 31553,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32951,
+		"y": 31575,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32952,
+		"y": 31567,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32960,
+		"y": 31560,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32962,
+		"y": 31551,
 		"z": 1
 	},
 	{
@@ -36,6 +92,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33551,
+		"y": 31317,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33556,
+		"y": 31315,
+		"z": 1
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33831,
 		"y": 31692,
@@ -47,6 +117,13 @@
 		"x": 33933,
 		"y": 31519,
 		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32109,
+		"y": 31172,
+		"z": 2
 	},
 	{
 		"description": "",
@@ -100,6 +177,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32952,
+		"y": 31443,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32969,
 		"y": 32405,
 		"z": 2
@@ -107,8 +191,50 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32971,
+		"y": 31473,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32972,
 		"y": 32412,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33047,
+		"y": 31101,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33083,
+		"y": 31026,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33086,
+		"y": 31017,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33089,
+		"y": 31017,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33094,
+		"y": 31028,
 		"z": 2
 	},
 	{
@@ -151,6 +277,20 @@
 		"icon": "flag",
 		"x": 33408,
 		"y": 32669,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33551,
+		"y": 31317,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33557,
+		"y": 31317,
 		"z": 2
 	},
 	{
@@ -239,9 +379,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32950,
+		"y": 31552,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32953,
+		"y": 31555,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32969,
 		"y": 32408,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33031,
+		"y": 31213,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33043,
+		"y": 31170,
 		"z": 3
 	},
 	{
@@ -263,6 +431,41 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32169,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33081,
+		"y": 31026,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33083,
+		"y": 31026,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33090,
+		"y": 31036,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33091,
+		"y": 31033,
+		"z": 3
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33154,
+		"y": 31298,
 		"z": 3
 	},
 	{
@@ -303,6 +506,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33346,
+		"y": 31605,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33378,
+		"y": 31352,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33381,
 		"y": 32675,
 		"z": 3
@@ -312,6 +529,20 @@
 		"icon": "flag",
 		"x": 33404,
 		"y": 32663,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33552,
+		"y": 31316,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31317,
 		"z": 3
 	},
 	{
@@ -376,6 +607,13 @@
 		"x": 33933,
 		"y": 31516,
 		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32136,
+		"y": 31184,
+		"z": 4
 	},
 	{
 		"description": "",
@@ -582,9 +820,72 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32938,
+		"y": 31554,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32938,
+		"y": 31565,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32945,
+		"y": 31550,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32947,
+		"y": 31562,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32951,
+		"y": 31558,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32952,
 		"y": 32039,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32953,
+		"y": 31555,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32956,
+		"y": 31536,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32960,
+		"y": 31541,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32963,
+		"y": 31454,
 		"z": 4
 	},
 	{
@@ -632,6 +933,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33041,
+		"y": 31282,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33064,
 		"y": 32162,
 		"z": 4
@@ -659,9 +967,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33084,
+		"y": 31115,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33088,
 		"y": 32191,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33091,
+		"y": 31037,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33105,
+		"y": 31038,
 		"z": 4
 	},
 	{
@@ -751,8 +1080,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33547,
+		"y": 31317,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33552,
+		"y": 31316,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33552,
 		"y": 31937,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33555,
+		"y": 31311,
 		"z": 4
 	},
 	{
@@ -838,6 +1188,20 @@
 		"x": 33952,
 		"y": 31521,
 		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32043,
+		"y": 31170,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32131,
+		"y": 31156,
+		"z": 5
 	},
 	{
 		"description": "",
@@ -1177,9 +1541,44 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32928,
+		"y": 31557,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32934,
+		"y": 31571,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32934,
 		"y": 32024,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32938,
+		"y": 31554,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32938,
+		"y": 31565,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32939,
+		"y": 31484,
 		"z": 5
 	},
 	{
@@ -1191,9 +1590,51 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32945,
+		"y": 31550,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32947,
+		"y": 31562,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32951,
+		"y": 31558,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32954,
 		"y": 32851,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32956,
+		"y": 31536,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32957,
+		"y": 31532,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32957,
+		"y": 31546,
 		"z": 5
 	},
 	{
@@ -1221,7 +1662,21 @@
 		"description": "",
 		"icon": "up",
 		"x": 33029,
+		"y": 31276,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33029,
 		"y": 32422,
+		"z": 5
+	},
+	{
+		"description": "Use weapon to break bars",
+		"icon": "crossmark",
+		"x": 33031,
+		"y": 31274,
 		"z": 5
 	},
 	{
@@ -1229,6 +1684,20 @@
 		"icon": "flag",
 		"x": 33032,
 		"y": 32801,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33034,
+		"y": 31276,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33043,
+		"y": 31279,
 		"z": 5
 	},
 	{
@@ -1268,6 +1737,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33067,
+		"y": 31304,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33075,
 		"y": 32446,
@@ -1283,6 +1759,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33092,
+		"y": 31046,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33104,
+		"y": 31039,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33106,
 		"y": 32140,
 		"z": 5
@@ -1292,6 +1782,20 @@
 		"icon": "crossmark",
 		"x": 33129,
 		"y": 32563,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31305,
+		"z": 5
+	},
+	{
+		"description": "To New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "down",
+		"x": 33176,
+		"y": 31298,
 		"z": 5
 	},
 	{
@@ -1353,6 +1857,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33236,
+		"y": 31285,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33245,
+		"y": 31338,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33256,
 		"y": 31824,
 		"z": 5
@@ -1369,6 +1887,27 @@
 		"icon": "flag",
 		"x": 33294,
 		"y": 32483,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33320,
+		"y": 31084,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33338,
+		"y": 31612,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33345,
+		"y": 31601,
 		"z": 5
 	},
 	{
@@ -1453,6 +1992,20 @@
 		"icon": "flag",
 		"x": 33550,
 		"y": 32517,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33554,
+		"y": 31315,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33555,
+		"y": 31311,
 		"z": 5
 	},
 	{
@@ -1619,6 +2172,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32243,
+		"y": 31388,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32288,
 		"y": 32260,
 		"z": 6
@@ -1670,6 +2230,34 @@
 		"icon": "flag",
 		"x": 32333,
 		"y": 32236,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32396,
+		"y": 32773,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32400,
+		"y": 32778,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32403,
+		"y": 32741,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32417,
+		"y": 32743,
 		"z": 6
 	},
 	{
@@ -2311,9 +2899,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32928,
+		"y": 31557,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32933,
 		"y": 32690,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32934,
+		"y": 31571,
 		"z": 6
 	},
 	{
@@ -2339,9 +2941,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32936,
+		"y": 31542,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32936,
 		"y": 32215,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32949,
+		"y": 31478,
 		"z": 6
 	},
 	{
@@ -2352,10 +2968,38 @@
 		"z": 6
 	},
 	{
+		"description": "TP inside Vengoth Castle",
+		"icon": "crossmark",
+		"x": 32953,
+		"y": 31486,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 32953,
 		"y": 32019,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32957,
+		"y": 31532,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32957,
+		"y": 31546,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32957,
+		"y": 32849,
 		"z": 6
 	},
 	{
@@ -2370,6 +3014,20 @@
 		"icon": "flag",
 		"x": 32965,
 		"y": 32108,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32966,
+		"y": 31452,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32969,
+		"y": 31486,
 		"z": 6
 	},
 	{
@@ -2493,6 +3151,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33028,
+		"y": 31286,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33030,
 		"y": 32111,
@@ -2507,9 +3172,51 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33034,
+		"y": 31276,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33034,
 		"y": 32472,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33042,
+		"y": 31301,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33044,
+		"y": 31282,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33048,
+		"y": 31303,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33053,
+		"y": 31306,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33059,
+		"y": 31327,
 		"z": 6
 	},
 	{
@@ -2542,9 +3249,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33067,
+		"y": 31305,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33074,
+		"y": 31107,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33077,
 		"y": 32143,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33079,
+		"y": 31043,
 		"z": 6
 	},
 	{
@@ -2563,6 +3291,20 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33085,
+		"y": 31048,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33085,
+		"y": 31053,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 33087,
 		"y": 32694,
@@ -2573,6 +3315,13 @@
 		"icon": "flag",
 		"x": 33089,
 		"y": 32546,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33094,
+		"y": 31050,
 		"z": 6
 	},
 	{
@@ -2606,6 +3355,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33129,
+		"y": 31307,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33130,
 		"y": 32532,
 		"z": 6
@@ -2629,6 +3385,20 @@
 		"icon": "flag",
 		"x": 33175,
 		"y": 32534,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33188,
+		"y": 31040,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33193,
+		"y": 31041,
 		"z": 6
 	},
 	{
@@ -2676,6 +3446,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33250,
+		"y": 31060,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33269,
 		"y": 31803,
 		"z": 6
@@ -2704,6 +3481,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33274,
+		"y": 31353,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33284,
 		"y": 31844,
 		"z": 6
@@ -2720,6 +3504,41 @@
 		"icon": "flag",
 		"x": 33295,
 		"y": 32481,
+		"z": 6
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33325,
+		"y": 31094,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33331,
+		"y": 31615,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33344,
+		"y": 31618,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33352,
+		"y": 31618,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33352,
+		"y": 31627,
 		"z": 6
 	},
 	{
@@ -2776,6 +3595,20 @@
 		"icon": "flag",
 		"x": 33546,
 		"y": 32529,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33554,
+		"y": 31315,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33557,
+		"y": 31318,
 		"z": 6
 	},
 	{
@@ -2984,6 +3817,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32010,
+		"y": 31155,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32011,
 		"y": 31577,
 		"z": 7
@@ -3007,6 +3847,13 @@
 		"icon": "flag",
 		"x": 32115,
 		"y": 31728,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32119,
+		"y": 31134,
 		"z": 7
 	},
 	{
@@ -3102,6 +3949,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32144,
+		"y": 32947,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32146,
 		"y": 32381,
@@ -3140,6 +3994,13 @@
 		"icon": "flag",
 		"x": 32158,
 		"y": 32362,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32160,
+		"y": 32962,
 		"z": 7
 	},
 	{
@@ -3257,6 +4118,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32182,
+		"y": 32940,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32182,
+		"y": 32953,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32183,
 		"y": 32471,
 		"z": 7
@@ -3280,6 +4155,13 @@
 		"icon": "flag",
 		"x": 32187,
 		"y": 31656,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32193,
+		"y": 32806,
 		"z": 7
 	},
 	{
@@ -3313,8 +4195,43 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32200,
+		"y": 31440,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32201,
+		"y": 32716,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32201,
+		"y": 32948,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32204,
 		"y": 32445,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32205,
+		"y": 31418,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32209,
+		"y": 31441,
 		"z": 7
 	},
 	{
@@ -3348,6 +4265,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32221,
+		"y": 32827,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32222,
 		"y": 32044,
 		"z": 7
@@ -3376,6 +4300,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32227,
+		"y": 32879,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32228,
 		"y": 31767,
 		"z": 7
@@ -3383,8 +4314,36 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32230,
+		"y": 32806,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32234,
+		"y": 31401,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32237,
 		"y": 32108,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32241,
+		"y": 32797,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32244,
+		"y": 32758,
 		"z": 7
 	},
 	{
@@ -3420,6 +4379,13 @@
 		"icon": "flag",
 		"x": 32260,
 		"y": 32330,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32261,
+		"y": 32872,
 		"z": 7
 	},
 	{
@@ -3544,6 +4510,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32287,
+		"y": 32826,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32290,
 		"y": 32088,
 		"z": 7
@@ -3630,6 +4603,13 @@
 		"icon": "flag",
 		"x": 32304,
 		"y": 32231,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32305,
+		"y": 32826,
 		"z": 7
 	},
 	{
@@ -3992,6 +4972,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32373,
+		"y": 32942,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32374,
 		"y": 31838,
 		"z": 7
@@ -4036,6 +5023,13 @@
 		"icon": "flag",
 		"x": 32388,
 		"y": 32398,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32389,
+		"y": 32604,
 		"z": 7
 	},
 	{
@@ -4085,6 +5079,13 @@
 		"icon": "flag",
 		"x": 32413,
 		"y": 31789,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32415,
+		"y": 32780,
 		"z": 7
 	},
 	{
@@ -4146,6 +5147,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32429,
+		"y": 32970,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32431,
 		"y": 32104,
 		"z": 7
@@ -4155,6 +5163,13 @@
 		"icon": "flag",
 		"x": 32431,
 		"y": 32281,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32432,
+		"y": 32794,
 		"z": 7
 	},
 	{
@@ -4432,9 +5447,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32496,
+		"y": 32916,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32497,
 		"y": 32282,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32497,
+		"y": 32976,
 		"z": 7
 	},
 	{
@@ -4664,8 +5693,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32525,
+		"y": 32924,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32526,
 		"y": 31927,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32527,
+		"y": 32954,
 		"z": 7
 	},
 	{
@@ -4939,6 +5982,13 @@
 		"icon": "flag",
 		"x": 32570,
 		"y": 31759,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32573,
+		"y": 32699,
 		"z": 7
 	},
 	{
@@ -7135,6 +8185,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32738,
+		"y": 32651,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32739,
 		"y": 31325,
 		"z": 7
@@ -8452,6 +9509,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 32857,
+		"y": 31549,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32857,
 		"y": 32549,
 		"z": 7
 	},
@@ -8759,6 +9823,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32901,
+		"y": 32880,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32902,
 		"y": 31319,
 		"z": 7
@@ -8796,6 +9867,13 @@
 		"icon": "flag",
 		"x": 32906,
 		"y": 32852,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32908,
+		"y": 31487,
 		"z": 7
 	},
 	{
@@ -8852,6 +9930,13 @@
 		"icon": "flag",
 		"x": 32918,
 		"y": 32854,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32919,
+		"y": 31550,
 		"z": 7
 	},
 	{
@@ -8915,6 +10000,13 @@
 		"icon": "flag",
 		"x": 32935,
 		"y": 32511,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32936,
+		"y": 31542,
 		"z": 7
 	},
 	{
@@ -9346,6 +10438,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 32990,
+		"y": 32789,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32991,
 		"y": 32417,
@@ -9384,6 +10483,20 @@
 		"icon": "flag",
 		"x": 32992,
 		"y": 32573,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32993,
+		"y": 32783,
+		"z": 7
+	},
+	{
+		"description": "PZ",
+		"icon": "lock",
+		"x": 32994,
+		"y": 32611,
 		"z": 7
 	},
 	{
@@ -9782,7 +10895,21 @@
 		"description": "",
 		"icon": "up",
 		"x": 33028,
+		"y": 31286,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33028,
 		"y": 32106,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33029,
+		"y": 31160,
 		"z": 7
 	},
 	{
@@ -9815,6 +10942,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33031,
+		"y": 31274,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33032,
+		"y": 31279,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33032,
 		"y": 32450,
@@ -9825,6 +10966,13 @@
 		"icon": "up",
 		"x": 33033,
 		"y": 32046,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33034,
+		"y": 31126,
 		"z": 7
 	},
 	{
@@ -10010,6 +11158,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33055,
+		"y": 32480,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33056,
@@ -10046,6 +11201,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33060,
+		"y": 31327,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33060,
 		"y": 32465,
@@ -10063,6 +11225,13 @@
 		"icon": "flag",
 		"x": 33063,
 		"y": 32476,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33064,
+		"y": 31351,
 		"z": 7
 	},
 	{
@@ -10151,6 +11320,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33074,
+		"y": 31107,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33074,
 		"y": 32171,
@@ -10189,6 +11365,13 @@
 		"icon": "flag",
 		"x": 33080,
 		"y": 32392,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33082,
+		"y": 31264,
 		"z": 7
 	},
 	{
@@ -10298,6 +11481,20 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33099,
+		"y": 31054,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33099,
+		"y": 31338,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33099,
 		"y": 32085,
@@ -10371,6 +11568,13 @@
 		"icon": "flag",
 		"x": 33109,
 		"y": 31659,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33110,
+		"y": 31212,
 		"z": 7
 	},
 	{
@@ -10466,6 +11670,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33122,
+		"y": 31125,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33123,
+		"y": 31109,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33123,
 		"y": 31790,
@@ -10515,6 +11733,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33135,
+		"y": 31184,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33136,
 		"y": 31698,
@@ -10542,6 +11767,13 @@
 		"z": 7
 	},
 	{
+		"description": "To South Zao",
+		"icon": "red up",
+		"x": 33145,
+		"y": 31249,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33146,
@@ -10556,10 +11788,24 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33149,
+		"y": 31310,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33150,
 		"y": 32377,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33151,
+		"y": 31066,
 		"z": 7
 	},
 	{
@@ -10626,6 +11872,13 @@
 		"z": 7
 	},
 	{
+		"description": "Passage to Chazorai",
+		"icon": "crossmark",
+		"x": 33158,
+		"y": 31225,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33158,
@@ -10635,8 +11888,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33159,
+		"y": 31073,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33159,
+		"y": 31231,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33161,
 		"y": 32423,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33162,
+		"y": 31257,
 		"z": 7
 	},
 	{
@@ -10654,6 +11928,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33166,
+		"y": 31329,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33166,
@@ -10663,8 +11944,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33167,
+		"y": 31043,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33170,
 		"y": 32462,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33173,
+		"y": 31075,
 		"z": 7
 	},
 	{
@@ -10679,6 +11974,13 @@
 		"icon": "flag",
 		"x": 33174,
 		"y": 31826,
+		"z": 7
+	},
+	{
+		"description": "New Frontier Quest area and Ghastly Dragon Palace",
+		"icon": "up",
+		"x": 33175,
+		"y": 31305,
 		"z": 7
 	},
 	{
@@ -10788,6 +12090,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33185,
+		"y": 31120,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33187,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33187,
 		"y": 31661,
@@ -10871,6 +12187,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Northern Zao",
+		"icon": "red up",
+		"x": 33197,
+		"y": 31348,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33197,
@@ -10900,9 +12223,30 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33199,
+		"y": 31097,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33200,
 		"y": 31649,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33201,
+		"y": 31059,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "star",
+		"x": 33201,
+		"y": 31119,
 		"z": 7
 	},
 	{
@@ -10945,6 +12289,13 @@
 		"icon": "crossmark",
 		"x": 33205,
 		"y": 32543,
+		"z": 7
+	},
+	{
+		"description": "Dragon Lair",
+		"icon": "up",
+		"x": 33207,
+		"y": 31324,
 		"z": 7
 	},
 	{
@@ -11050,6 +12401,13 @@
 		"icon": "flag",
 		"x": 33217,
 		"y": 32287,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33218,
+		"y": 32520,
 		"z": 7
 	},
 	{
@@ -11193,6 +12551,13 @@
 		"z": 7
 	},
 	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33241,
+		"y": 32368,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33241,
@@ -11211,6 +12576,13 @@
 		"icon": "flag",
 		"x": 33241,
 		"y": 32477,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33242,
+		"y": 32276,
 		"z": 7
 	},
 	{
@@ -11301,6 +12673,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33253,
+		"y": 31175,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33253,
 		"y": 32412,
 		"z": 7
 	},
@@ -11357,7 +12736,21 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33263,
+		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33263,
 		"y": 32389,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33264,
+		"y": 31284,
 		"z": 7
 	},
 	{
@@ -11406,6 +12799,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33267,
+		"y": 31196,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33267,
 		"y": 31814,
 		"z": 7
 	},
@@ -11421,6 +12821,20 @@
 		"icon": "flag",
 		"x": 33267,
 		"y": 32487,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33268,
+		"y": 31065,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33269,
+		"y": 31536,
 		"z": 7
 	},
 	{
@@ -11484,6 +12898,20 @@
 		"icon": "flag",
 		"x": 33277,
 		"y": 31812,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33279,
+		"y": 31227,
+		"z": 7
+	},
+	{
+		"description": "NEW",
+		"icon": "crossmark",
+		"x": 33279,
+		"y": 31337,
 		"z": 7
 	},
 	{
@@ -11588,6 +13016,20 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33299,
+		"y": 31059,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33299,
+		"y": 31153,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33299,
 		"y": 32392,
 		"z": 7
 	},
@@ -11609,6 +13051,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33303,
+		"y": 31514,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33303,
 		"y": 31726,
 		"z": 7
 	},
@@ -11617,6 +13066,13 @@
 		"icon": "flag",
 		"x": 33305,
 		"y": 32297,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33306,
+		"y": 31537,
 		"z": 7
 	},
 	{
@@ -11657,8 +13113,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33327,
+		"y": 31592,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33332,
 		"y": 31299,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33338,
+		"y": 31586,
 		"z": 7
 	},
 	{
@@ -11705,6 +13175,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33420,
+		"y": 32226,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "?",
 		"x": 33431,
 		"y": 32226,
@@ -11734,6 +13211,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33440,
+		"y": 32216,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33441,
+		"y": 31316,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33444,
 		"y": 31304,
 		"z": 7
@@ -11743,6 +13234,13 @@
 		"icon": "flag",
 		"x": 33444,
 		"y": 32259,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33445,
+		"y": 31261,
 		"z": 7
 	},
 	{
@@ -11769,6 +13267,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33452,
+		"y": 31285,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33453,
 		"y": 31318,
 		"z": 7
@@ -11778,6 +13283,13 @@
 		"icon": "flag",
 		"x": 33456,
 		"y": 31354,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33457,
+		"y": 31297,
 		"z": 7
 	},
 	{
@@ -11797,8 +13309,57 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33458,
+		"y": 31323,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33460,
+		"y": 31307,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33460,
+		"y": 32260,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33462,
 		"y": 31332,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33467,
+		"y": 31325,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31226,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31254,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33469,
+		"y": 31273,
 		"z": 7
 	},
 	{
@@ -11847,7 +13408,28 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33486,
+		"y": 31313,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33486,
 		"y": 31321,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33488,
+		"y": 31279,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33488,
+		"y": 31305,
 		"z": 7
 	},
 	{
@@ -11862,6 +13444,13 @@
 		"icon": "flag",
 		"x": 33490,
 		"y": 32253,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33493,
+		"y": 31226,
 		"z": 7
 	},
 	{
@@ -12000,6 +13589,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33526,
+		"y": 32274,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33530,
 		"y": 31622,
 		"z": 7
@@ -12051,6 +13647,20 @@
 		"icon": "flag",
 		"x": 33541,
 		"y": 31673,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33542,
+		"y": 32293,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33544,
+		"y": 31278,
 		"z": 7
 	},
 	{
@@ -12148,6 +13758,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33554,
+		"y": 31267,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33554,
 		"y": 31562,
 		"z": 7
 	},
@@ -12177,6 +13794,13 @@
 		"icon": "flag",
 		"x": 33555,
 		"y": 32249,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33557,
+		"y": 31318,
 		"z": 7
 	},
 	{
@@ -12226,6 +13850,13 @@
 		"icon": "flag",
 		"x": 33564,
 		"y": 32446,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33565,
+		"y": 31273,
 		"z": 7
 	},
 	{
@@ -12289,6 +13920,13 @@
 		"icon": "flag",
 		"x": 33570,
 		"y": 32550,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33571,
+		"y": 31284,
 		"z": 7
 	},
 	{
@@ -12482,6 +14120,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33585,
+		"y": 31284,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33586,
 		"y": 31743,
@@ -12548,6 +14193,20 @@
 		"icon": "flag",
 		"x": 33594,
 		"y": 31966,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33595,
+		"y": 32200,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33596,
+		"y": 32049,
 		"z": 7
 	},
 	{
@@ -14023,6 +15682,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32098,
+		"y": 31190,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32099,
 		"y": 31746,
 		"z": 8
@@ -14039,6 +15705,13 @@
 		"icon": "flag",
 		"x": 32108,
 		"y": 31754,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32109,
+		"y": 32974,
 		"z": 8
 	},
 	{
@@ -14065,6 +15738,69 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32151,
+		"y": 32980,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32189,
+		"y": 31437,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32198,
+		"y": 32882,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32201,
+		"y": 32874,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32202,
+		"y": 32885,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32204,
+		"y": 32967,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32214,
+		"y": 32886,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32216,
+		"y": 32882,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32220,
+		"y": 32876,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32225,
 		"y": 32278,
 		"z": 8
@@ -14072,8 +15808,92 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32236,
+		"y": 32895,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32237,
+		"y": 32900,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32238,
+		"y": 32884,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32241,
+		"y": 32875,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32243,
+		"y": 32872,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32248,
+		"y": 32897,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32250,
+		"y": 32890,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32252,
+		"y": 32896,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32254,
 		"y": 32173,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32254,
+		"y": 32896,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32265,
+		"y": 32923,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32276,
+		"y": 32874,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32278,
+		"y": 32875,
 		"z": 8
 	},
 	{
@@ -14093,8 +15913,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32389,
+		"y": 32604,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32399,
 		"y": 32202,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32412,
+		"y": 32780,
 		"z": 8
 	},
 	{
@@ -14107,8 +15941,36 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32420,
+		"y": 32623,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32420,
+		"y": 32740,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32423,
+		"y": 32582,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32430,
 		"y": 31966,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32430,
+		"y": 32596,
 		"z": 8
 	},
 	{
@@ -14151,6 +16013,27 @@
 		"icon": "flag",
 		"x": 32441,
 		"y": 31967,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32441,
+		"y": 32757,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32442,
+		"y": 32611,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32445,
+		"y": 32605,
 		"z": 8
 	},
 	{
@@ -14214,6 +16097,13 @@
 		"icon": "flag",
 		"x": 32457,
 		"y": 31946,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32458,
+		"y": 32568,
 		"z": 8
 	},
 	{
@@ -14373,6 +16263,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32501,
+		"y": 32880,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32516,
 		"y": 32249,
 		"z": 8
@@ -14382,6 +16279,13 @@
 		"icon": "flag",
 		"x": 32522,
 		"y": 32249,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32528,
+		"y": 32956,
 		"z": 8
 	},
 	{
@@ -15491,6 +17395,13 @@
 		"z": 8
 	},
 	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33009,
+		"y": 31252,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33010,
@@ -15520,6 +17431,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33031,
+		"y": 31274,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33036,
 		"y": 32112,
@@ -15530,6 +17448,20 @@
 		"icon": "flag",
 		"x": 33042,
 		"y": 32117,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33052,
+		"y": 31305,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33055,
+		"y": 31272,
 		"z": 8
 	},
 	{
@@ -15667,9 +17599,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33173,
+		"y": 31075,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33190,
 		"y": 31664,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33202,
+		"y": 31059,
 		"z": 8
 	},
 	{
@@ -15772,6 +17718,27 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33585,
+		"y": 31284,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33589,
+		"y": 31264,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32089,
+		"y": 32961,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32106,
 		"y": 32332,
@@ -15836,6 +17803,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32178,
+		"y": 32918,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32188,
 		"y": 31776,
 		"z": 9
@@ -15857,6 +17831,27 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32294,
+		"y": 31435,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32372,
+		"y": 32727,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32377,
+		"y": 32712,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32382,
 		"y": 32005,
 		"z": 9
@@ -15866,6 +17861,13 @@
 		"icon": "flag",
 		"x": 32386,
 		"y": 32001,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32388,
+		"y": 32755,
 		"z": 9
 	},
 	{
@@ -15905,6 +17907,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32406,
+		"y": 32794,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32407,
 		"y": 31588,
@@ -15915,6 +17924,27 @@
 		"icon": "flag",
 		"x": 32409,
 		"y": 32040,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32417,
+		"y": 32776,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32421,
+		"y": 32779,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32422,
+		"y": 32775,
 		"z": 9
 	},
 	{
@@ -16031,9 +18061,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32465,
+		"y": 32587,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32466,
 		"y": 31937,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32467,
+		"y": 32599,
 		"z": 9
 	},
 	{
@@ -17201,8 +19245,71 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33165,
+		"y": 31211,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33167,
 		"y": 31842,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33168,
+		"y": 31191,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33168,
+		"y": 31291,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33168,
+		"y": 31293,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33168,
+		"y": 31294,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33182,
+		"y": 31287,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33202,
+		"y": 31059,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33219,
+		"y": 32010,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33222,
+		"y": 31050,
 		"z": 9
 	},
 	{
@@ -17236,6 +19343,20 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32114,
+		"y": 32927,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32179,
+		"y": 32915,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32180,
 		"y": 31777,
 		"z": 10
@@ -17259,6 +19380,13 @@
 		"icon": "flag",
 		"x": 32285,
 		"y": 32443,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32350,
+		"y": 32755,
 		"z": 10
 	},
 	{
@@ -17299,6 +19427,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32388,
+		"y": 32753,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32390,
 		"y": 32058,
 		"z": 10
@@ -17313,6 +19448,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32400,
+		"y": 32794,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32401,
 		"y": 32040,
 		"z": 10
@@ -17322,6 +19464,13 @@
 		"icon": "crossmark",
 		"x": 32410,
 		"y": 31971,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32432,
+		"y": 32588,
 		"z": 10
 	},
 	{
@@ -17739,9 +19888,58 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33143,
+		"y": 31263,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33148,
+		"y": 31258,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31281,
+		"z": 10
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33162,
+		"y": 31257,
+		"z": 10
+	},
+	{
+		"description": "To Ghastly Dragon Palace",
+		"icon": "red left",
+		"x": 33162,
+		"y": 31264,
+		"z": 10
+	},
+	{
+		"description": "Wrath of the Emperor Quest area",
+		"icon": "red down",
+		"x": 33162,
+		"y": 31289,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33166,
 		"y": 31919,
+		"z": 10
+	},
+	{
+		"description": "New Frontier Quest",
+		"icon": "red up",
+		"x": 33171,
+		"y": 31261,
 		"z": 10
 	},
 	{
@@ -17753,9 +19951,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33182,
+		"y": 31287,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33197,
 		"y": 31915,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33252,
+		"y": 31058,
 		"z": 10
 	},
 	{
@@ -17826,6 +20038,13 @@
 		"icon": "flag",
 		"x": 32381,
 		"y": 31976,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32381,
+		"y": 32807,
 		"z": 11
 	},
 	{
@@ -18278,6 +20497,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33123,
+		"y": 31254,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33133,
 		"y": 31796,
@@ -18292,9 +20518,30 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33142,
+		"y": 31262,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33163,
 		"y": 31920,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33186,
+		"y": 31215,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33197,
+		"y": 31182,
 		"z": 11
 	},
 	{
@@ -18607,6 +20854,48 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33123,
+		"y": 31253,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33155,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "To Ghastly Dragons",
+		"icon": "down",
+		"x": 33160,
+		"y": 31171,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33160,
+		"y": 31213,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33185,
+		"y": 31215,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33197,
+		"y": 31181,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33274,
 		"y": 32421,
@@ -18811,8 +21100,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33156,
+		"y": 31169,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32430,
 		"y": 32009,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33156,
+		"y": 31181,
+		"z": 15
+	},
+	{
+		"description": "Tome of Knowledge",
+		"icon": "star",
+		"x": 33157,
+		"y": 31228,
 		"z": 15
 	},
 	{

@@ -70,6 +70,13 @@
 		"z": 1
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32080,
+		"y": 31122,
+		"z": 1
+	},
+	{
 		"description": "Pile of bones (tinder box quest)",
 		"icon": "star",
 		"x": 32084,
@@ -1421,6 +1428,13 @@
 		"z": 4
 	},
 	{
+		"description": "Ron the Ripper (pirate raid boss)",
+		"icon": "star",
+		"x": 32408,
+		"y": 32821,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 32410,
@@ -2249,6 +2263,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32159,
+		"y": 32861,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32175,
 		"y": 31439,
 		"z": 5
@@ -2590,6 +2611,13 @@
 		"z": 5
 	},
 	{
+		"description": "The Welter (spawn location)",
+		"icon": "star",
+		"x": 33021,
+		"y": 32662,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33025,
@@ -2839,6 +2867,13 @@
 		"icon": "bag",
 		"x": 33357,
 		"y": 31358,
+		"z": 5
+	},
+	{
+		"description": "Towards Corruption Hole",
+		"icon": "down",
+		"x": 33362,
+		"y": 31124,
 		"z": 5
 	},
 	{
@@ -3584,10 +3619,24 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32159,
+		"y": 32861,
+		"z": 6
+	},
+	{
 		"description": "To glowing vortex: breach broods, dread intruders, sparkions",
 		"icon": "red down",
 		"x": 32163,
 		"y": 31293,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32163,
+		"y": 32855,
 		"z": 6
 	},
 	{
@@ -3700,6 +3749,13 @@
 		"icon": "down",
 		"x": 32285,
 		"y": 31410,
+		"z": 6
+	},
+	{
+		"description": "Boat",
+		"icon": "flag",
+		"x": 32285,
+		"y": 32892,
 		"z": 6
 	},
 	{
@@ -4026,9 +4082,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32677,
+		"y": 31124,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32692,
 		"y": 31460,
+		"z": 6
+	},
+	{
+		"description": "Towards Diseased Fred",
+		"icon": "down",
+		"x": 32693,
+		"y": 31122,
 		"z": 6
 	},
 	{
@@ -4319,13 +4389,6 @@
 		"z": 6
 	},
 	{
-		"description": "Exit Production Sites",
-		"icon": "down",
-		"x": 32998,
-		"y": 32096,
-		"z": 6
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33004,
@@ -4456,6 +4519,13 @@
 		"icon": "down",
 		"x": 33061,
 		"y": 32166,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33061,
+		"y": 32734,
 		"z": 6
 	},
 	{
@@ -4746,6 +4816,13 @@
 		"z": 6
 	},
 	{
+		"description": "Flamecaller Zazrak (spawn location)",
+		"icon": "star",
+		"x": 33251,
+		"y": 31152,
+		"z": 6
+	},
+	{
 		"description": "To NPC Spectulus",
 		"icon": "up",
 		"x": 33263,
@@ -4764,6 +4841,13 @@
 		"icon": "up",
 		"x": 33336,
 		"y": 31164,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33339,
+		"y": 31140,
 		"z": 6
 	},
 	{
@@ -5370,13 +5454,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 33864,
-		"y": 31501,
-		"z": 6
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33865,
 		"y": 31489,
@@ -5409,6 +5486,13 @@
 		"x": 33897,
 		"y": 31230,
 		"z": 6
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 31895,
+		"y": 32586,
+		"z": 7
 	},
 	{
 		"description": "",
@@ -5516,6 +5600,13 @@
 		"z": 7
 	},
 	{
+		"description": "Yeti (approximate spawn location)",
+		"icon": "star",
+		"x": 32006,
+		"y": 31596,
+		"z": 7
+	},
+	{
 		"description": "Woodlings and meadow striders",
 		"icon": "red down",
 		"x": 32018,
@@ -5527,6 +5618,13 @@
 		"icon": "down",
 		"x": 32019,
 		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "Barbaria (approximate spawn location)",
+		"icon": "star",
+		"x": 32020,
+		"y": 31412,
 		"z": 7
 	},
 	{
@@ -6041,6 +6139,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32156,
+		"y": 32864,
+		"z": 7
+	},
+	{
 		"description": "Bonelord Cave",
 		"icon": "red down",
 		"x": 32158,
@@ -6071,8 +6176,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32163,
+		"y": 32855,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32164,
 		"y": 31293,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32166,
+		"y": 32840,
+		"z": 7
+	},
+	{
+		"description": "Hive Outpost (world change)",
+		"icon": "!",
+		"x": 32167,
+		"y": 32836,
 		"z": 7
 	},
 	{
@@ -6524,6 +6650,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lethal Lissy (pirate raid boss)",
+		"icon": "star",
+		"x": 32287,
+		"y": 32774,
+		"z": 7
+	},
+	{
 		"description": "NPC Eclesius",
 		"icon": "mouth",
 		"x": 32291,
@@ -6591,6 +6724,13 @@
 		"icon": "star",
 		"x": 32303,
 		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Brutus Bloodbeard (pirate raid boss)",
+		"icon": "star",
+		"x": 32306,
+		"y": 32865,
 		"z": 7
 	},
 	{
@@ -6692,13 +6832,6 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of black energy (boss: Lady Tenebris)",
-		"icon": "flag",
-		"x": 32325,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "Bank",
 		"icon": "$",
 		"x": 32326,
@@ -6720,24 +6853,10 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of violet energy (boss: Lloyd)",
-		"icon": "flag",
-		"x": 32328,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 32328,
 		"y": 32529,
-		"z": 7
-	},
-	{
-		"description": "Portal of green energy (teleport to Outlaw Camp; boss: Thorn Knight)",
-		"icon": "flag",
-		"x": 32331,
-		"y": 32087,
 		"z": 7
 	},
 	{
@@ -6748,13 +6867,6 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of orange energy (teleport to northern Zao; boss: Dragonking Zyrtarch)",
-		"icon": "flag",
-		"x": 32334,
-		"y": 32087,
-		"z": 7
-	},
-	{
 		"description": "Depot and post office",
 		"icon": "lock",
 		"x": 32336,
@@ -6762,10 +6874,10 @@
 		"z": 7
 	},
 	{
-		"description": "Portal of blue energy (teleport to Formorgar mines; boss: Solid Frozen Horror)",
-		"icon": "flag",
-		"x": 32337,
-		"y": 32087,
+		"description": "Deadeye Devious (pirate raid boss)",
+		"icon": "star",
+		"x": 32336,
+		"y": 32852,
 		"z": 7
 	},
 	{
@@ -6801,13 +6913,6 @@
 		"icon": "bag",
 		"x": 32340,
 		"y": 31802,
-		"z": 7
-	},
-	{
-		"description": "Portal of golden energy (boss: The Time Guardian)",
-		"icon": "flag",
-		"x": 32340,
-		"y": 32087,
 		"z": 7
 	},
 	{
@@ -7287,6 +7392,13 @@
 		"z": 7
 	},
 	{
+		"description": "Drume (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32441,
+		"y": 32519,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32448,
@@ -7588,10 +7700,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32540,
-		"y": 31942,
+		"y": 31941,
 		"z": 7
 	},
 	{
@@ -8498,6 +8610,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Iksupan",
+		"icon": "flag",
+		"x": 32728,
+		"y": 32875,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32729,
@@ -8537,6 +8656,13 @@
 		"icon": "up",
 		"x": 32740,
 		"y": 31202,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32741,
+		"y": 31160,
 		"z": 7
 	},
 	{
@@ -8722,6 +8848,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32801,
+		"y": 31255,
+		"z": 7
+	},
+	{
 		"description": "Harbour",
 		"icon": "flag",
 		"x": 32803,
@@ -8827,6 +8960,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32827,
+		"y": 32362,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -8887,6 +9027,13 @@
 		"icon": "down",
 		"x": 32841,
 		"y": 32526,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32844,
+		"y": 31917,
 		"z": 7
 	},
 	{
@@ -9289,6 +9436,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32957,
+		"y": 32850,
+		"z": 7
+	},
+	{
 		"description": "Giant spiders",
 		"icon": "red down",
 		"x": 32961,
@@ -9331,17 +9485,17 @@
 		"z": 7
 	},
 	{
+		"description": "Orc that drops Sam’s old and used backpack (spawn location)",
+		"icon": "star",
+		"x": 32975,
+		"y": 31743,
+		"z": 7
+	},
+	{
 		"description": "Terramites",
 		"icon": "down",
 		"x": 32975,
 		"y": 32686,
-		"z": 7
-	},
-	{
-		"description": "Orc that drops Sam’s old and used backpack (spawn location)",
-		"icon": "star",
-		"x": 32978,
-		"y": 31742,
 		"z": 7
 	},
 	{
@@ -9499,6 +9653,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33021,
+		"y": 32557,
+		"z": 7
+	},
+	{
 		"description": "Passage to the Forbidden Lands",
 		"icon": "flag",
 		"x": 33021,
@@ -9508,7 +9669,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33025,
+		"x": 33026,
 		"y": 32710,
 		"z": 7
 	},
@@ -9591,9 +9752,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red left",
+		"icon": "up",
 		"x": 33038,
-		"y": 32810,
+		"y": 32809,
 		"z": 7
 	},
 	{
@@ -9614,7 +9775,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33049,
-		"y": 32429,
+		"y": 32428,
 		"z": 7
 	},
 	{
@@ -9797,6 +9958,13 @@
 		"icon": "up",
 		"x": 33086,
 		"y": 32784,
+		"z": 7
+	},
+	{
+		"description": "Mornenion (spawn location)",
+		"icon": "star",
+		"x": 33087,
+		"y": 32157,
 		"z": 7
 	},
 	{
@@ -10304,6 +10472,13 @@
 		"z": 7
 	},
 	{
+		"description": "Flamecaller Zazrak (spawn location)",
+		"icon": "star",
+		"x": 33177,
+		"y": 31217,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33177,
@@ -10329,13 +10504,6 @@
 		"icon": "flag",
 		"x": 33183,
 		"y": 31756,
-		"z": 7
-	},
-	{
-		"description": "Flamecaller Zazrak (spawn location)",
-		"icon": "star",
-		"x": 33185,
-		"y": 31224,
 		"z": 7
 	},
 	{
@@ -10682,6 +10850,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fleabringer (possible spawn location)",
+		"icon": "star",
+		"x": 33248,
+		"y": 31418,
+		"z": 7
+	},
+	{
 		"description": "Blue nomads",
 		"icon": "checkmark",
 		"x": 33249,
@@ -10696,10 +10871,10 @@
 		"z": 7
 	},
 	{
-		"description": "Fleabringer (possible spawn location)",
-		"icon": "star",
+		"description": "",
+		"icon": "up",
 		"x": 33253,
-		"y": 31417,
+		"y": 31156,
 		"z": 7
 	},
 	{
@@ -10780,6 +10955,13 @@
 		"z": 7
 	},
 	{
+		"description": "Battlemaster Zunzu (approximate spawn location)",
+		"icon": "star",
+		"x": 33271,
+		"y": 31237,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33271,
@@ -10808,13 +10990,6 @@
 		"z": 7
 	},
 	{
-		"description": "Battlemaster Zunzu (approximate spawn location)",
-		"icon": "star",
-		"x": 33279,
-		"y": 31246,
-		"z": 7
-	},
-	{
 		"description": "Towards Sir Baeloc and Sir Nictros (Grave Danger bosses)",
 		"icon": "down",
 		"x": 33281,
@@ -10836,17 +11011,17 @@
 		"z": 7
 	},
 	{
+		"description": "Dreadmaw (spawn location)",
+		"icon": "star",
+		"x": 33286,
+		"y": 31159,
+		"z": 7
+	},
+	{
 		"description": "Mother of Scarabs Lair",
 		"icon": "down",
 		"x": 33290,
 		"y": 32603,
-		"z": 7
-	},
-	{
-		"description": "Harbour",
-		"icon": "flag",
-		"x": 33291,
-		"y": 32472,
 		"z": 7
 	},
 	{
@@ -10861,6 +11036,13 @@
 		"icon": "up",
 		"x": 33292,
 		"y": 31220,
+		"z": 7
+	},
+	{
+		"description": "Harbour",
+		"icon": "flag",
+		"x": 33292,
+		"y": 32472,
 		"z": 7
 	},
 	{
@@ -10976,6 +11158,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ysbasra's Tent",
+		"icon": "flag",
+		"x": 33318,
+		"y": 32007,
+		"z": 7
+	},
+	{
 		"description": "Draptor (possible spawn location)",
 		"icon": "checkmark",
 		"x": 33322,
@@ -11032,14 +11221,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33344,
-		"y": 31167,
-		"z": 7
-	},
-	{
-		"description": "",
+		"description": "Corruption Hole",
 		"icon": "down",
 		"x": 33345,
 		"y": 31116,
@@ -11057,13 +11239,6 @@
 		"icon": "down",
 		"x": 33347,
 		"y": 32031,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33348,
-		"y": 31180,
 		"z": 7
 	},
 	{
@@ -11092,6 +11267,13 @@
 		"icon": "crossmark",
 		"x": 33356,
 		"y": 31180,
+		"z": 7
+	},
+	{
+		"description": "To Ingol",
+		"icon": "flag",
+		"x": 33356,
+		"y": 31985,
 		"z": 7
 	},
 	{
@@ -11676,13 +11858,6 @@
 		"z": 7
 	},
 	{
-		"description": "Overmaw shrines",
-		"icon": "!",
-		"x": 33535,
-		"y": 32469,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33538,
@@ -11729,13 +11904,6 @@
 		"icon": "crossmark",
 		"x": 33543,
 		"y": 31275,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33544,
-		"y": 32384,
 		"z": 7
 	},
 	{
@@ -12740,13 +12908,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33676,
-		"y": 31928,
-		"z": 7
-	},
-	{
 		"description": "Secret hole (messages in a bottle required)",
 		"icon": "down",
 		"x": 33677,
@@ -12754,10 +12915,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Mawhawk’s Lair",
 		"icon": "up",
 		"x": 33678,
-		"y": 32473,
+		"y": 32472,
 		"z": 7
 	},
 	{
@@ -12783,16 +12944,23 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33680,
-		"y": 31930,
+		"icon": "up",
+		"x": 33681,
+		"y": 31752,
 		"z": 7
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33681,
-		"y": 31752,
+		"icon": "red down",
+		"x": 33682,
+		"y": 31938,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33682,
+		"y": 31942,
 		"z": 7
 	},
 	{
@@ -12814,20 +12982,6 @@
 		"icon": "checkmark",
 		"x": 33683,
 		"y": 31750,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33683,
-		"y": 31916,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33684,
-		"y": 31924,
 		"z": 7
 	},
 	{
@@ -12873,24 +13027,10 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33686,
-		"y": 32206,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33687,
 		"y": 32190,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33688,
-		"y": 31934,
 		"z": 7
 	},
 	{
@@ -12919,6 +13059,13 @@
 		"icon": "down",
 		"x": 33693,
 		"y": 31848,
+		"z": 7
+	},
+	{
+		"description": "Part of an Ancient Disc",
+		"icon": "star",
+		"x": 33693,
+		"y": 32030,
 		"z": 7
 	},
 	{
@@ -13027,6 +13174,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Cormaya",
+		"icon": "flag",
+		"x": 33713,
+		"y": 32602,
+		"z": 7
+	},
+	{
 		"description": "To the Dream Sand River",
 		"icon": "up",
 		"x": 33719,
@@ -13038,6 +13192,20 @@
 		"icon": "star",
 		"x": 33720,
 		"y": 32396,
+		"z": 7
+	},
+	{
+		"description": "Wet boards",
+		"icon": "star",
+		"x": 33722,
+		"y": 31964,
+		"z": 7
+	},
+	{
+		"description": "Towards Part of an Ancient Disc",
+		"icon": "flag",
+		"x": 33723,
+		"y": 31969,
 		"z": 7
 	},
 	{
@@ -13251,6 +13419,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33792,
+		"y": 32571,
+		"z": 7
+	},
+	{
 		"description": "Bragrumol",
 		"icon": "red down",
 		"x": 33793,
@@ -13283,6 +13458,13 @@
 		"icon": "sword",
 		"x": 33800,
 		"y": 31637,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
 		"z": 7
 	},
 	{
@@ -14224,6 +14406,13 @@
 		"z": 8
 	},
 	{
+		"description": "Pick hole (Fragment of an Ancient Disc)",
+		"icon": "red down",
+		"x": 32124,
+		"y": 31593,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32125,
@@ -14294,6 +14483,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32156,
+		"y": 32864,
+		"z": 8
+	},
+	{
 		"description": "Exit to Liberty Bay",
 		"icon": "up",
 		"x": 32158,
@@ -14312,6 +14508,13 @@
 		"icon": "flag",
 		"x": 32166,
 		"y": 31007,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32167,
+		"y": 32853,
 		"z": 8
 	},
 	{
@@ -14385,7 +14588,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32193,
 		"y": 31788,
@@ -14669,6 +14872,13 @@
 		"icon": "star",
 		"x": 32365,
 		"y": 32542,
+		"z": 8
+	},
+	{
+		"description": "Hirintror (spawn location)",
+		"icon": "star",
+		"x": 32366,
+		"y": 31052,
 		"z": 8
 	},
 	{
@@ -15610,6 +15820,13 @@
 		"z": 8
 	},
 	{
+		"description": "Diseased Dan (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32707,
+		"y": 31190,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32709,
@@ -15876,6 +16093,13 @@
 		"z": 8
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32824,
+		"y": 31032,
+		"z": 8
+	},
+	{
 		"description": "Key 5010 (silver key)",
 		"icon": "?",
 		"x": 32824,
@@ -15929,6 +16153,13 @@
 		"icon": "down",
 		"x": 32843,
 		"y": 32887,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32844,
+		"y": 31917,
 		"z": 8
 	},
 	{
@@ -16111,6 +16342,13 @@
 		"icon": "down",
 		"x": 32949,
 		"y": 31620,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32957,
+		"y": 32850,
 		"z": 8
 	},
 	{
@@ -16797,6 +17035,13 @@
 		"icon": "up",
 		"x": 33153,
 		"y": 32686,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33154,
+		"y": 31734,
 		"z": 8
 	},
 	{
@@ -18193,6 +18438,13 @@
 		"z": 8
 	},
 	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33781,
+		"y": 32559,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33782,
@@ -18214,6 +18466,20 @@
 		"z": 8
 	},
 	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33789,
+		"y": 32565,
+		"z": 8
+	},
+	{
+		"description": "Task 1",
+		"icon": "star",
+		"x": 33792,
+		"y": 32581,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33793,
@@ -18225,6 +18491,20 @@
 		"icon": "down",
 		"x": 33796,
 		"y": 31472,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32561,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
 		"z": 8
 	},
 	{
@@ -18480,6 +18760,27 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 34014,
+		"y": 31791,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34015,
+		"y": 31817,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34015,
+		"y": 31892,
+		"z": 8
+	},
+	{
 		"description": "Floating cask (use to get eye-shaped frame)",
 		"icon": "star",
 		"x": 34019,
@@ -18512,6 +18813,13 @@
 		"icon": "sword",
 		"x": 34059,
 		"y": 31657,
+		"z": 8
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 34070,
+		"y": 31820,
 		"z": 8
 	},
 	{
@@ -18949,10 +19257,24 @@
 		"z": 9
 	},
 	{
+		"description": "The Hungerer / The Manhunter / The Mean Masher (spawn location)",
+		"icon": "star",
+		"x": 32163,
+		"y": 32865,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 32167,
 		"y": 31445,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32167,
+		"y": 32853,
 		"z": 9
 	},
 	{
@@ -19002,6 +19324,13 @@
 		"icon": "up",
 		"x": 32193,
 		"y": 31788,
+		"z": 9
+	},
+	{
+		"description": "Robby the Reckless (spawn location)",
+		"icon": "star",
+		"x": 32197,
+		"y": 31808,
 		"z": 9
 	},
 	{
@@ -19267,7 +19596,7 @@
 		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32371,
-		"y": 32243,
+		"y": 32242,
 		"z": 9
 	},
 	{
@@ -20888,6 +21217,13 @@
 		"z": 9
 	},
 	{
+		"description": "Dharalion (spawn location)",
+		"icon": "star",
+		"x": 33034,
+		"y": 32175,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33043,
@@ -21337,6 +21673,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33163,
+		"y": 31746,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33164,
 		"y": 31173,
@@ -21630,13 +21973,6 @@
 		"z": 9
 	},
 	{
-		"description": "The Voice of Ruin (spawn location)",
-		"icon": "crossmark",
-		"x": 33268,
-		"y": 31093,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33268,
@@ -21658,6 +21994,13 @@
 		"z": 9
 	},
 	{
+		"description": "The Voice of Ruin (spawn location)",
+		"icon": "crossmark",
+		"x": 33284,
+		"y": 31085,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33286,
@@ -21676,13 +22019,6 @@
 		"icon": "down",
 		"x": 33291,
 		"y": 32554,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33296,
-		"y": 31322,
 		"z": 9
 	},
 	{
@@ -21806,16 +22142,16 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
+		"icon": "up",
 		"x": 33350,
-		"y": 31670,
+		"y": 31959,
 		"z": 9
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33350,
-		"y": 31959,
+		"icon": "down",
+		"x": 33352,
+		"y": 31670,
 		"z": 9
 	},
 	{
@@ -21920,7 +22256,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33411,
-		"y": 31185,
+		"y": 31186,
 		"z": 9
 	},
 	{
@@ -22470,6 +22806,13 @@
 		"z": 9
 	},
 	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33779,
+		"y": 32571,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33782,
@@ -22495,6 +22838,27 @@
 		"icon": "red left",
 		"x": 33799,
 		"y": 31670,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32561,
+		"z": 9
+	},
+	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33800,
+		"y": 32570,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
 		"z": 9
 	},
 	{
@@ -22918,6 +23282,55 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 34014,
+		"y": 31791,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34015,
+		"y": 31817,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34035,
+		"y": 31842,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34044,
+		"y": 31810,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34063,
+		"y": 31852,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 34071,
+		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 34090,
+		"y": 31829,
+		"z": 9
+	},
+	{
 		"description": "Undead cavebear (spawn location)",
 		"icon": "star",
 		"x": 31913,
@@ -23027,6 +23440,13 @@
 		"icon": "up",
 		"x": 32005,
 		"y": 32344,
+		"z": 10
+	},
+	{
+		"description": "Diblis the Fair (spawn location)",
+		"icon": "star",
+		"x": 32010,
+		"y": 32798,
 		"z": 10
 	},
 	{
@@ -23401,7 +23821,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32357,
 		"y": 32232,
@@ -23755,6 +24175,13 @@
 		"icon": "red down",
 		"x": 32448,
 		"y": 31654,
+		"z": 10
+	},
+	{
+		"description": "Burster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32449,
+		"y": 32417,
 		"z": 10
 	},
 	{
@@ -25041,7 +25468,7 @@
 	{
 		"description": "",
 		"icon": "red up",
-		"x": 32947,
+		"x": 32948,
 		"y": 32755,
 		"z": 10
 	},
@@ -25396,6 +25823,13 @@
 		"z": 10
 	},
 	{
+		"description": "Wyrms",
+		"icon": "down",
+		"x": 33063,
+		"y": 32399,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33063,
@@ -25515,7 +25949,7 @@
 		"z": 10
 	},
 	{
-		"description": "Deathstrike spawn tile",
+		"description": "Deathstrike (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33101,
 		"y": 31956,
@@ -25972,7 +26406,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33351,
+		"x": 33352,
 		"y": 31670,
 		"z": 10
 	},
@@ -25993,8 +26427,8 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33378,
-		"y": 31699,
+		"x": 33379,
+		"y": 31700,
 		"z": 10
 	},
 	{
@@ -26418,6 +26852,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33620,
+		"y": 32625,
+		"z": 10
+	},
+	{
 		"description": "Ebb and Flow (Goshnar’s Spite)",
 		"icon": "sword",
 		"x": 33621,
@@ -26453,10 +26894,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33626,
+		"y": 32633,
+		"z": 10
+	},
+	{
 		"description": "The Mirrored Nightmare (Goshnar’s Greed)",
 		"icon": "sword",
 		"x": 33627,
 		"y": 31422,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33629,
+		"y": 32639,
 		"z": 10
 	},
 	{
@@ -26482,9 +26937,72 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33633,
+		"y": 32641,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33635,
+		"y": 32648,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33636,
+		"y": 32663,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33636,
+		"y": 32673,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33637,
 		"y": 31898,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33637,
+		"y": 32656,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33638,
+		"y": 32679,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33641,
+		"y": 32650,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33647,
+		"y": 32683,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33647,
+		"y": 32687,
 		"z": 10
 	},
 	{
@@ -26496,9 +27014,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33654,
+		"y": 32686,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33660,
 		"y": 31891,
+		"z": 10
+	},
+	{
+		"description": "Note board 2",
+		"icon": "star",
+		"x": 33691,
+		"y": 32453,
+		"z": 10
+	},
+	{
+		"description": "Book with transcripts",
+		"icon": "star",
+		"x": 33697,
+		"y": 32505,
+		"z": 10
+	},
+	{
+		"description": "Note board 3",
+		"icon": "star",
+		"x": 33702,
+		"y": 32530,
 		"z": 10
 	},
 	{
@@ -26506,6 +27052,48 @@
 		"icon": "up",
 		"x": 33703,
 		"y": 32364,
+		"z": 10
+	},
+	{
+		"description": "Empty Flask",
+		"icon": "star",
+		"x": 33779,
+		"y": 32559,
+		"z": 10
+	},
+	{
+		"description": "Blank Paper",
+		"icon": "star",
+		"x": 33789,
+		"y": 32559,
+		"z": 10
+	},
+	{
+		"description": "Note board 1",
+		"icon": "star",
+		"x": 33793,
+		"y": 32506,
+		"z": 10
+	},
+	{
+		"description": "Feather and inkwell",
+		"icon": "star",
+		"x": 33795,
+		"y": 32565,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32561,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
 		"z": 10
 	},
 	{
@@ -26573,6 +27161,41 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 34035,
+		"y": 31842,
+		"z": 10
+	},
+	{
+		"description": "Shortcut to entrance",
+		"icon": "flag",
+		"x": 34041,
+		"y": 31726,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34044,
+		"y": 31810,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 34063,
+		"y": 31851,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34090,
+		"y": 31830,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 31974,
 		"y": 31335,
@@ -26632,6 +27255,13 @@
 		"icon": "down",
 		"x": 32031,
 		"y": 32994,
+		"z": 11
+	},
+	{
+		"description": "Dreadful Disruptor (exact spawn location)",
+		"icon": "crossmark",
+		"x": 32035,
+		"y": 31372,
 		"z": 11
 	},
 	{
@@ -26705,8 +27335,8 @@
 		"z": 11
 	},
 	{
-		"description": "To Vortex hub",
-		"icon": "down",
+		"description": "To Vortex Hub",
+		"icon": "red down",
 		"x": 32111,
 		"y": 31362,
 		"z": 11
@@ -26733,7 +27363,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "To exit",
 		"icon": "down",
 		"x": 32140,
 		"y": 31386,
@@ -26768,7 +27398,7 @@
 		"z": 11
 	},
 	{
-		"description": "Entrance to vortex hub",
+		"description": "Entrance to Vortex Hub",
 		"icon": "star",
 		"x": 32162,
 		"y": 31327,
@@ -26943,6 +27573,20 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32357,
+		"y": 32232,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32360,
+		"y": 32025,
+		"z": 11
+	},
+	{
 		"description": "Coryms",
 		"icon": "red down",
 		"x": 32361,
@@ -26968,6 +27612,13 @@
 		"icon": "up",
 		"x": 32370,
 		"y": 32905,
+		"z": 11
+	},
+	{
+		"description": "Jesse the Wicked (spawn location)",
+		"icon": "star",
+		"x": 32372,
+		"y": 32220,
 		"z": 11
 	},
 	{
@@ -27034,10 +27685,10 @@
 		"z": 11
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
+		"description": "Grorlam (check surroundings of this mark)",
 		"icon": "star",
-		"x": 32393,
-		"y": 32034,
+		"x": 32392,
+		"y": 32029,
 		"z": 11
 	},
 	{
@@ -27087,13 +27738,6 @@
 		"icon": "red down",
 		"x": 32402,
 		"y": 32022,
-		"z": 11
-	},
-	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32403,
-		"y": 32049,
 		"z": 11
 	},
 	{
@@ -27181,13 +27825,6 @@
 		"z": 11
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32419,
-		"y": 32017,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32419,
@@ -27223,10 +27860,10 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hidden pick hole",
 		"icon": "down",
 		"x": 32426,
-		"y": 32028,
+		"y": 32029,
 		"z": 11
 	},
 	{
@@ -27472,6 +28109,13 @@
 		"icon": "down",
 		"x": 32502,
 		"y": 32216,
+		"z": 11
+	},
+	{
+		"description": "Elvira Hammerthrust (spawn location)",
+		"icon": "star",
+		"x": 32511,
+		"y": 31909,
 		"z": 11
 	},
 	{
@@ -28301,6 +28945,13 @@
 		"z": 11
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33015,
+		"y": 32384,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33015,
@@ -28330,9 +28981,9 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 33033,
-		"y": 32395,
+		"icon": "red right",
+		"x": 33031,
+		"y": 32398,
 		"z": 11
 	},
 	{
@@ -28560,6 +29211,13 @@
 		"z": 11
 	},
 	{
+		"description": "Annihilon",
+		"icon": "sword",
+		"x": 33137,
+		"y": 31671,
+		"z": 11
+	},
+	{
 		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33141,
@@ -28683,6 +29341,13 @@
 		"icon": "up",
 		"x": 33192,
 		"y": 32399,
+		"z": 11
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33193,
+		"y": 32690,
 		"z": 11
 	},
 	{
@@ -28854,17 +29519,17 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33363,
-		"y": 31702,
-		"z": 11
-	},
-	{
 		"description": "Madareth",
 		"icon": "sword",
 		"x": 33365,
 		"y": 31613,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33366,
+		"y": 31703,
 		"z": 11
 	},
 	{
@@ -29169,7 +29834,7 @@
 		"z": 11
 	},
 	{
-		"description": "Anchor",
+		"description": "Anchor (use small golden anchor to teleport to exit)",
 		"icon": "flag",
 		"x": 33504,
 		"y": 31251,
@@ -29246,6 +29911,13 @@
 		"z": 11
 	},
 	{
+		"description": "Jaul (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33545,
+		"y": 31273,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33546,
@@ -29261,7 +29933,7 @@
 	},
 	{
 		"description": "Jaul",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33558,
 		"y": 31282,
 		"z": 11
@@ -29334,6 +30006,27 @@
 		"icon": "sword",
 		"x": 33649,
 		"y": 31261,
+		"z": 11
+	},
+	{
+		"description": "NPC Ivora",
+		"icon": "mouth",
+		"x": 33799,
+		"y": 32543,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32561,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 32573,
 		"z": 11
 	},
 	{
@@ -29534,7 +30227,7 @@
 	},
 	{
 		"description": "Emergency exit",
-		"icon": "red right",
+		"icon": "crossmark",
 		"x": 32078,
 		"y": 31363,
 		"z": 12
@@ -29603,8 +30296,8 @@
 		"z": 12
 	},
 	{
-		"description": "To Vortex hub",
-		"icon": "up",
+		"description": "To Vortex Hub",
+		"icon": "red up",
 		"x": 32114,
 		"y": 31347,
 		"z": 12
@@ -29638,7 +30331,7 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "To exit",
 		"icon": "up",
 		"x": 32119,
 		"y": 31382,
@@ -29680,8 +30373,8 @@
 		"z": 12
 	},
 	{
-		"description": "To Vortex hub",
-		"icon": "up",
+		"description": "To Vortex Hub",
+		"icon": "red up",
 		"x": 32143,
 		"y": 31345,
 		"z": 12
@@ -29715,10 +30408,10 @@
 		"z": 12
 	},
 	{
-		"description": "",
+		"description": "Towards Ghazbaran",
 		"icon": "down",
-		"x": 32229,
-		"y": 31189,
+		"x": 32228,
+		"y": 31188,
 		"z": 12
 	},
 	{
@@ -29808,8 +30501,22 @@
 	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
+		"x": 32363,
+		"y": 31967,
+		"z": 12
+	},
+	{
+		"description": "Hidden pick hole",
+		"icon": "red down",
 		"x": 32371,
 		"y": 31990,
+		"z": 12
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32374,
+		"y": 32005,
 		"z": 12
 	},
 	{
@@ -29837,14 +30544,21 @@
 		"description": "Grorlam (spawn location)",
 		"icon": "star",
 		"x": 32381,
-		"y": 32064,
+		"y": 32063,
 		"z": 12
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
+		"description": "Hidden pick hole",
+		"icon": "red down",
+		"x": 32385,
+		"y": 31970,
+		"z": 12
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
 		"icon": "star",
-		"x": 32392,
-		"y": 32020,
+		"x": 32394,
+		"y": 32019,
 		"z": 12
 	},
 	{
@@ -29911,6 +30625,13 @@
 		"z": 12
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32412,
+		"y": 32007,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32416,
@@ -29936,6 +30657,13 @@
 		"icon": "up",
 		"x": 32419,
 		"y": 31699,
+		"z": 12
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32421,
+		"y": 32041,
 		"z": 12
 	},
 	{
@@ -30248,7 +30976,7 @@
 	},
 	{
 		"description": "Flying book (exact spawn tile)",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32640,
 		"y": 32675,
 		"z": 12
@@ -30898,10 +31626,31 @@
 		"z": 12
 	},
 	{
+		"description": "Machine (knight)",
+		"icon": "red up",
+		"x": 33243,
+		"y": 31832,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33252,
 		"y": 32848,
+		"z": 12
+	},
+	{
+		"description": "Machine (sorcerer)",
+		"icon": "red left",
+		"x": 33264,
+		"y": 31810,
+		"z": 12
+	},
+	{
+		"description": "Machine (druid)",
+		"icon": "red left",
+		"x": 33264,
+		"y": 31860,
 		"z": 12
 	},
 	{
@@ -30916,6 +31665,13 @@
 		"icon": "up",
 		"x": 33291,
 		"y": 32555,
+		"z": 12
+	},
+	{
+		"description": "Machine (paladin)",
+		"icon": "red up",
+		"x": 33292,
+		"y": 31832,
 		"z": 12
 	},
 	{
@@ -30976,16 +31732,16 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33364,
-		"y": 31636,
+		"icon": "down",
+		"x": 33365,
+		"y": 31637,
 		"z": 12
 	},
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33364,
-		"y": 31704,
+		"x": 33366,
+		"y": 31703,
 		"z": 12
 	},
 	{
@@ -31430,6 +32186,20 @@
 		"z": 12
 	},
 	{
+		"description": "Egg cracker",
+		"icon": "star",
+		"x": 33799,
+		"y": 32559,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 32573,
+		"z": 12
+	},
+	{
 		"description": "Portal to Goshnar’s Hatred",
 		"icon": "sword",
 		"x": 33914,
@@ -31661,13 +32431,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32113,
-		"y": 31317,
-		"z": 13
-	},
-	{
 		"description": "Portal to Winter",
 		"icon": "flag",
 		"x": 32114,
@@ -31682,15 +32445,8 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32116,
-		"y": 31334,
-		"z": 13
-	},
-	{
-		"description": "To Vortex hub",
-		"icon": "up",
+		"description": "To Vortex Hub",
+		"icon": "red up",
 		"x": 32118,
 		"y": 31340,
 		"z": 13
@@ -31717,13 +32473,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32137,
-		"y": 31326,
-		"z": 13
-	},
-	{
 		"description": "Treasure chest (3 gold ingots)",
 		"icon": "star",
 		"x": 32139,
@@ -31735,13 +32484,6 @@
 		"icon": "star",
 		"x": 32143,
 		"y": 32968,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32155,
-		"y": 31342,
 		"z": 13
 	},
 	{
@@ -31885,6 +32627,13 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32372,
+		"y": 32010,
+		"z": 13
+	},
+	{
 		"description": "Way out",
 		"icon": "flag",
 		"x": 32395,
@@ -31906,6 +32655,13 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32398,
+		"y": 32015,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32398,
@@ -31913,24 +32669,10 @@
 		"z": 13
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32401,
-		"y": 32022,
-		"z": 13
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32402,
 		"y": 32029,
-		"z": 13
-	},
-	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32404,
-		"y": 31985,
 		"z": 13
 	},
 	{
@@ -31962,17 +32704,17 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32422,
+		"y": 32007,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32425,
 		"y": 31825,
-		"z": 13
-	},
-	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32425,
-		"y": 32007,
 		"z": 13
 	},
 	{
@@ -32081,7 +32823,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "Librarian",
 		"icon": "?",
 		"x": 32575,
 		"y": 32535,
@@ -32174,8 +32916,8 @@
 	{
 		"description": "To Draconia",
 		"icon": "up",
-		"x": 32739,
-		"y": 31555,
+		"x": 32740,
+		"y": 31556,
 		"z": 13
 	},
 	{
@@ -32704,6 +33446,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33085,
+		"y": 32095,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33088,
@@ -32809,6 +33558,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33181,
+		"y": 32197,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33190,
@@ -32852,9 +33608,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33228,
+		"y": 31698,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33229,
 		"y": 31457,
+		"z": 13
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33231,
+		"y": 31639,
 		"z": 13
 	},
 	{
@@ -32890,6 +33660,13 @@
 		"icon": "sword",
 		"x": 33260,
 		"y": 31750,
+		"z": 13
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33263,
+		"y": 32202,
 		"z": 13
 	},
 	{
@@ -32970,6 +33747,13 @@
 		"z": 13
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33329,
+		"y": 32075,
+		"z": 13
+	},
+	{
 		"description": "Latrivan & Golgordan",
 		"icon": "sword",
 		"x": 33339,
@@ -33000,8 +33784,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33364,
-		"y": 31638,
+		"x": 33365,
+		"y": 31637,
 		"z": 13
 	},
 	{
@@ -33019,8 +33803,8 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Mahatheb (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33394,
 		"y": 31701,
 		"z": 13
@@ -33558,13 +34342,6 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32093,
-		"y": 31326,
-		"z": 14
-	},
-	{
 		"description": "To Rupture (Zao boss)",
 		"icon": "up",
 		"x": 32113,
@@ -33581,22 +34358,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32121,
-		"y": 31330,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32125,
 		"y": 31109,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32132,
-		"y": 31334,
 		"z": 14
 	},
 	{
@@ -33761,6 +34524,13 @@
 		"z": 14
 	},
 	{
+		"description": "Charging Outburst (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32234,
+		"y": 31285,
+		"z": 14
+	},
+	{
 		"description": "Teleport",
 		"icon": "flag",
 		"x": 32244,
@@ -33831,6 +34601,13 @@
 		"z": 14
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32391,
+		"y": 32015,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32396,
@@ -33845,13 +34622,6 @@
 		"z": 14
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
-		"icon": "star",
-		"x": 32405,
-		"y": 32025,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32408,
@@ -33859,10 +34629,10 @@
 		"z": 14
 	},
 	{
-		"description": "Grorlam (possible spawn location)",
+		"description": "Grorlam (check surroundings of this mark)",
 		"icon": "star",
-		"x": 32413,
-		"y": 32007,
+		"x": 32410,
+		"y": 32005,
 		"z": 14
 	},
 	{
@@ -33905,6 +34675,13 @@
 		"icon": "up",
 		"x": 32431,
 		"y": 32021,
+		"z": 14
+	},
+	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32433,
+		"y": 31995,
 		"z": 14
 	},
 	{
@@ -33999,6 +34776,13 @@
 		"z": 14
 	},
 	{
+		"description": "Metal eye (click to put out the fire)",
+		"icon": "crossmark",
+		"x": 32566,
+		"y": 32559,
+		"z": 14
+	},
+	{
 		"description": "Drillworms",
 		"icon": "red down",
 		"x": 32570,
@@ -34027,10 +34811,24 @@
 		"z": 14
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32599,
+		"y": 31899,
+		"z": 14
+	},
+	{
 		"description": "Key 3802 (copper key)",
 		"icon": "red up",
 		"x": 32602,
 		"y": 31974,
+		"z": 14
+	},
+	{
+		"description": "Secret door (unlock from the other side)",
+		"icon": "red up",
+		"x": 32602,
+		"y": 32556,
 		"z": 14
 	},
 	{
@@ -34108,6 +34906,13 @@
 		"icon": "flag",
 		"x": 32749,
 		"y": 32344,
+		"z": 14
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32752,
+		"y": 31638,
 		"z": 14
 	},
 	{
@@ -34202,6 +35007,13 @@
 		"z": 14
 	},
 	{
+		"description": "The Evil Eye (spawn location)",
+		"icon": "star",
+		"x": 32809,
+		"y": 31611,
+		"z": 14
+	},
+	{
 		"description": "Boss/Quest",
 		"icon": "up",
 		"x": 32812,
@@ -34293,10 +35105,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Levitate spot",
 		"icon": "red left",
-		"x": 32908,
-		"y": 32852,
+		"x": 32909,
+		"y": 32853,
 		"z": 14
 	},
 	{
@@ -34359,13 +35171,6 @@
 		"description": "",
 		"icon": "up",
 		"x": 33000,
-		"y": 32434,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33002,
 		"y": 32434,
 		"z": 14
 	},
@@ -35511,13 +36316,6 @@
 		"z": 14
 	},
 	{
-		"description": "Lazyfairy",
-		"icon": "checkmark",
-		"x": 33661,
-		"y": 32893,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33663,
@@ -35564,6 +36362,13 @@
 		"icon": "red right",
 		"x": 33698,
 		"y": 32914,
+		"z": 14
+	},
+	{
+		"description": "Brother Worm (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33707,
+		"y": 31536,
 		"z": 14
 	},
 	{
@@ -36141,6 +36946,13 @@
 		"z": 15
 	},
 	{
+		"description": "Ghazbaran (spawn location)",
+		"icon": "star",
+		"x": 32227,
+		"y": 31156,
+		"z": 15
+	},
+	{
 		"description": "Undercover contact",
 		"icon": "crossmark",
 		"x": 32307,
@@ -36169,17 +36981,17 @@
 		"z": 15
 	},
 	{
-		"description": "Grorlam (spawn location)",
+		"description": "General Murius (spawn location)",
 		"icon": "star",
 		"x": 32418,
-		"y": 32000,
+		"y": 32121,
 		"z": 15
 	},
 	{
-		"description": "General Murius (approximate spawn location)",
+		"description": "Grorlam (spawn location)",
 		"icon": "star",
-		"x": 32420,
-		"y": 32121,
+		"x": 32423,
+		"y": 32000,
 		"z": 15
 	},
 	{
@@ -36477,8 +37289,15 @@
 		"z": 15
 	},
 	{
-		"description": "Teleport to final boss room",
-		"icon": "flag",
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32908,
+		"y": 32853,
+		"z": 15
+	},
+	{
+		"description": "The Last Lore Keeper",
+		"icon": "sword",
 		"x": 32934,
 		"y": 32854,
 		"z": 15
@@ -36501,7 +37320,7 @@
 		"description": "Source of Corruption room, including 2 upper floors",
 		"icon": "sword",
 		"x": 33039,
-		"y": 31917,
+		"y": 31921,
 		"z": 15
 	},
 	{
@@ -36509,6 +37328,13 @@
 		"icon": "flag",
 		"x": 33041,
 		"y": 31084,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33061,
+		"y": 31751,
 		"z": 15
 	},
 	{
@@ -36575,6 +37401,13 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33089,
+		"y": 31759,
+		"z": 15
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33093,
@@ -36605,7 +37438,7 @@
 	{
 		"description": "Essence of Malice room",
 		"icon": "sword",
-		"x": 33098,
+		"x": 33099,
 		"y": 31921,
 		"z": 15
 	},
@@ -36733,6 +37566,13 @@
 		"icon": "flag",
 		"x": 33184,
 		"y": 32767,
+		"z": 15
+	},
+	{
+		"description": "The Soul Wells",
+		"icon": "flag",
+		"x": 33187,
+		"y": 31759,
 		"z": 15
 	},
 	{
@@ -37650,6 +38490,13 @@
 		"icon": "checkmark",
 		"x": 33714,
 		"y": 32304,
+		"z": 15
+	},
+	{
+		"description": "Use the crystal to go down",
+		"icon": "down",
+		"x": 33749,
+		"y": 32159,
 		"z": 15
 	},
 	{
