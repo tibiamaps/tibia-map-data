@@ -9669,7 +9669,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33026,
+		"x": 33025,
 		"y": 32710,
 		"z": 7
 	},
@@ -18438,7 +18438,7 @@
 		"z": 8
 	},
 	{
-		"description": "Blank Paper",
+		"description": "Blank paper",
 		"icon": "star",
 		"x": 33781,
 		"y": 32559,
@@ -18466,7 +18466,7 @@
 		"z": 8
 	},
 	{
-		"description": "Empty Flask",
+		"description": "Empty flask",
 		"icon": "star",
 		"x": 33789,
 		"y": 32565,
@@ -22199,8 +22199,8 @@
 	{
 		"description": "Owin (spawn location; only during full moon)",
 		"icon": "crossmark",
-		"x": 33369,
-		"y": 31608,
+		"x": 33368,
+		"y": 31614,
 		"z": 9
 	},
 	{
@@ -22806,7 +22806,7 @@
 		"z": 9
 	},
 	{
-		"description": "Blank Paper",
+		"description": "Blank paper",
 		"icon": "star",
 		"x": 33779,
 		"y": 32571,
@@ -22848,7 +22848,7 @@
 		"z": 9
 	},
 	{
-		"description": "Empty Flask",
+		"description": "Empty flask",
 		"icon": "star",
 		"x": 33800,
 		"y": 32570,
@@ -25468,7 +25468,7 @@
 	{
 		"description": "",
 		"icon": "red up",
-		"x": 32948,
+		"x": 32947,
 		"y": 32755,
 		"z": 10
 	},
@@ -26854,7 +26854,7 @@
 	{
 		"description": "",
 		"icon": "red down",
-		"x": 33620,
+		"x": 33619,
 		"y": 32625,
 		"z": 10
 	},
@@ -26887,17 +26887,17 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33625,
+		"y": 32633,
+		"z": 10
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 33626,
 		"y": 31747,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33626,
-		"y": 32633,
 		"z": 10
 	},
 	{
@@ -26958,13 +26958,6 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
-		"x": 33636,
-		"y": 32673,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33637,
 		"y": 31898,
@@ -26979,16 +26972,23 @@
 	},
 	{
 		"description": "",
-		"icon": "red right",
-		"x": 33638,
-		"y": 32679,
+		"icon": "red down",
+		"x": 33641,
+		"y": 32650,
 		"z": 10
 	},
 	{
 		"description": "",
 		"icon": "red down",
 		"x": 33641,
-		"y": 32650,
+		"y": 32673,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33647,
+		"y": 32679,
 		"z": 10
 	},
 	{
@@ -27055,17 +27055,17 @@
 		"z": 10
 	},
 	{
-		"description": "Research records",
-		"icon": "star",
-		"x": 33761,
-		"y": 32588,
-		"z": 10
-	},
-	{
 		"description": "Empty flask",
 		"icon": "star",
 		"x": 33779,
 		"y": 32559,
+		"z": 10
+	},
+	{
+		"description": "Research records",
+		"icon": "star",
+		"x": 33761,
+		"y": 32588,
 		"z": 10
 	},
 	{
