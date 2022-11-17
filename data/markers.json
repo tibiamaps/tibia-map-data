@@ -38339,6 +38339,13 @@
 		"z": 15
 	},
 	{
+		"description": "Magma Bubble (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33654,
+		"y": 32909,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33657,
