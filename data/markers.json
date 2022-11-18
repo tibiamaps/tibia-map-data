@@ -32228,7 +32228,7 @@
 		"z": 12
 	},
 	{
-		"description": "Some Eggs",
+		"description": "Some eggs",
 		"icon": "star",
 		"x": 33729,
 		"y": 32528,
@@ -38469,6 +38469,13 @@
 		"icon": "checkmark",
 		"x": 33650,
 		"y": 32068,
+		"z": 15
+	},
+	{
+		"description": "Magma Bubble (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33654,
+		"y": 32909,
 		"z": 15
 	},
 	{
