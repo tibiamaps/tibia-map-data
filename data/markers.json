@@ -29967,6 +29967,48 @@
 		"z": 11
 	},
 	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33739,
+		"y": 32566,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33750,
+		"y": 32461,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33752,
+		"y": 32454,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33772,
+		"y": 32595,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33780,
+		"y": 32539,
+		"z": 11
+	},
+	{
+		"description": "Empty flask",
+		"icon": "star",
+		"x": 33798,
+		"y": 32559,
+		"z": 11
+	},
+	{
 		"description": "NPC Ivora",
 		"icon": "mouth",
 		"x": 33799,
@@ -29985,6 +30027,27 @@
 		"icon": "down",
 		"x": 33800,
 		"y": 32573,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33802,
+		"y": 32537,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33808,
+		"y": 32500,
+		"z": 11
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33809,
+		"y": 32457,
 		"z": 11
 	},
 	{
@@ -32137,10 +32200,73 @@
 		"z": 12
 	},
 	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33713,
+		"y": 32594,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33715,
+		"y": 32475,
+		"z": 12
+	},
+	{
 		"description": "Mutated glooth (pink)",
 		"icon": "?",
 		"x": 33716,
 		"y": 31875,
+		"z": 12
+	},
+	{
+		"description": "Hydra corms",
+		"icon": "crossmark",
+		"x": 33725,
+		"y": 32493,
+		"z": 12
+	},
+	{
+		"description": "Some Eggs",
+		"icon": "star",
+		"x": 33729,
+		"y": 32528,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33734,
+		"y": 32548,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33764,
+		"y": 32592,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33776,
+		"y": 32502,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33788,
+		"y": 32454,
+		"z": 12
+	},
+	{
+		"description": "Empty flask",
+		"icon": "star",
+		"x": 33793,
+		"y": 32559,
 		"z": 12
 	},
 	{
@@ -32155,6 +32281,13 @@
 		"icon": "up",
 		"x": 33800,
 		"y": 32573,
+		"z": 12
+	},
+	{
+		"description": "Some eggs",
+		"icon": "star",
+		"x": 33806,
+		"y": 32521,
 		"z": 12
 	},
 	{
@@ -38336,13 +38469,6 @@
 		"icon": "checkmark",
 		"x": 33650,
 		"y": 32068,
-		"z": 15
-	},
-	{
-		"description": "Magma Bubble (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 33654,
-		"y": 32909,
 		"z": 15
 	},
 	{
