@@ -4791,7 +4791,7 @@
 		"description": "",
 		"icon": "down",
 		"x": 33216,
-		"y": 31757,
+		"y": 31756,
 		"z": 6
 	},
 	{
@@ -10636,7 +10636,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33216,
-		"y": 31756,
+		"y": 31757,
 		"z": 7
 	},
 	{
@@ -25277,7 +25277,7 @@
 		"z": 10
 	},
 	{
-		"description": "Eye Key",
+		"description": "Eye key",
 		"icon": "checkmark",
 		"x": 32836,
 		"y": 32820,
@@ -28525,6 +28525,13 @@
 		"z": 11
 	},
 	{
+		"description": "Click here to mapclick towards the next boss after leaving The Blazing Rose’s room",
+		"icon": "?",
+		"x": 32820,
+		"y": 32846,
+		"z": 11
+	},
+	{
 		"description": "Knight",
 		"icon": "red down",
 		"x": 32826,
@@ -28595,6 +28602,13 @@
 		"z": 11
 	},
 	{
+		"description": "Click here to mapclick to the exit teleport after leaving The Lily of Night’s room",
+		"icon": "?",
+		"x": 32856,
+		"y": 32713,
+		"z": 11
+	},
+	{
 		"description": "Statue of the snake god",
 		"icon": "star",
 		"x": 32859,
@@ -28609,13 +28623,6 @@
 		"z": 11
 	},
 	{
-		"description": "Blazing Rose Room",
-		"icon": "checkmark",
-		"x": 32861,
-		"y": 32773,
-		"z": 11
-	},
-	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32862,
@@ -28623,10 +28630,17 @@
 		"z": 11
 	},
 	{
-		"description": "The Lily of Night room, Skull here",
+		"description": "The Lily of Night room with skull",
 		"icon": "checkmark",
 		"x": 32862,
 		"y": 32746,
+		"z": 11
+	},
+	{
+		"description": "The Blazing Rose room",
+		"icon": "checkmark",
+		"x": 32862,
+		"y": 32774,
 		"z": 11
 	},
 	{
@@ -28651,6 +28665,13 @@
 		"z": 11
 	},
 	{
+		"description": "Click here to mapclick to the next boss after leaving The Diamond Blossom’s room",
+		"icon": "?",
+		"x": 32877,
+		"y": 32757,
+		"z": 11
+	},
+	{
 		"description": "Old writing desk",
 		"icon": "star",
 		"x": 32880,
@@ -28665,7 +28686,7 @@
 		"z": 11
 	},
 	{
-		"description": "Diamond Blossom Room - Piece of Ebony",
+		"description": "The Diamond Blossom room with piece of ebony",
 		"icon": "checkmark",
 		"x": 32881,
 		"y": 32792,
