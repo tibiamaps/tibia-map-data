@@ -11053,6 +11053,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33302,
+		"y": 32371,
+		"z": 7
+	},
+	{
 		"description": "Rotworms / bog raiders",
 		"icon": "down",
 		"x": 33303,
@@ -11064,13 +11071,6 @@
 		"icon": "flag",
 		"x": 33304,
 		"y": 31720,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 33305,
-		"y": 32373,
 		"z": 7
 	},
 	{
@@ -37821,6 +37821,13 @@
 		"z": 15
 	},
 	{
+		"description": "To raging fires",
+		"icon": "flag",
+		"x": 33369,
+		"y": 31955,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33375,
@@ -38269,10 +38276,24 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 33564,
+		"y": 31954,
+		"z": 15
+	},
+	{
 		"description": "Sparkling Pools",
 		"icon": "up",
 		"x": 33564,
 		"y": 32860,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33570,
+		"y": 31949,
 		"z": 15
 	},
 	{
@@ -38395,17 +38416,17 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33619,
-		"y": 32055,
-		"z": 15
-	},
-	{
 		"description": "To the south",
 		"icon": "red down",
 		"x": 33619,
 		"y": 32526,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33620,
+		"y": 32055,
 		"z": 15
 	},
 	{
@@ -38511,6 +38532,13 @@
 		"icon": "star",
 		"x": 33658,
 		"y": 32968,
+		"z": 15
+	},
+	{
+		"description": "Professor Maxen",
+		"icon": "sword",
+		"x": 33662,
+		"y": 32060,
 		"z": 15
 	},
 	{
