@@ -35091,6 +35091,13 @@
 		"z": 14
 	},
 	{
+		"description": "Lloyd (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32799,
+		"y": 32829,
+		"z": 14
+	},
+	{
 		"description": "Boss/Quest",
 		"icon": "down",
 		"x": 32801,
