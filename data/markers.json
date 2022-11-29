@@ -18718,10 +18718,24 @@
 		"z": 8
 	},
 	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 33977,
+		"y": 31843,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 33979,
 		"y": 31689,
+		"z": 8
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34000,
+		"y": 31855,
 		"z": 8
 	},
 	{
@@ -18771,6 +18785,13 @@
 		"icon": "sword",
 		"x": 34021,
 		"y": 31675,
+		"z": 8
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34029,
+		"y": 31855,
 		"z": 8
 	},
 	{
@@ -23282,6 +23303,13 @@
 		"z": 9
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 34023,
+		"y": 31823,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 34035,
@@ -23296,6 +23324,20 @@
 		"z": 9
 	},
 	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34062,
+		"y": 31778,
+		"z": 9
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34062,
+		"y": 31789,
+		"z": 9
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 34063,
@@ -23307,6 +23349,27 @@
 		"icon": "red left",
 		"x": 34071,
 		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34075,
+		"y": 31778,
+		"z": 9
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34075,
+		"y": 31789,
+		"z": 9
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34075,
+		"y": 31801,
 		"z": 9
 	},
 	{
@@ -27153,6 +27216,20 @@
 		"z": 10
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 34019,
+		"y": 31829,
+		"z": 10
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34035,
+		"y": 31837,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 34035,
@@ -27160,16 +27237,9 @@
 		"z": 10
 	},
 	{
-		"description": "Ahau",
-		"icon": "sword",
-		"x": 34036,
-		"y": 31724,
-		"z": 10
-	},
-	{
 		"description": "Shortcut to entrance",
 		"icon": "flag",
-		"x": 34040,
+		"x": 34041,
 		"y": 31726,
 		"z": 10
 	},
