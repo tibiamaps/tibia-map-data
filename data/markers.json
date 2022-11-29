@@ -27160,9 +27160,16 @@
 		"z": 10
 	},
 	{
+		"description": "Ahau",
+		"icon": "sword",
+		"x": 34036,
+		"y": 31724,
+		"z": 10
+	},
+	{
 		"description": "Shortcut to entrance",
 		"icon": "flag",
-		"x": 34041,
+		"x": 34040,
 		"y": 31726,
 		"z": 10
 	},
