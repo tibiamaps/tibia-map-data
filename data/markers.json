@@ -13440,6 +13440,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33802,
+		"y": 32563,
+		"z": 7
+	},
+	{
 		"description": "To Moonfall Carpet, Market Place and Magic Store",
 		"icon": "flag",
 		"x": 33802,
@@ -18445,8 +18452,8 @@
 		"z": 8
 	},
 	{
-		"description": "Task 1",
-		"icon": "star",
+		"description": "Dangerous apparatus task",
+		"icon": "?",
 		"x": 33792,
 		"y": 32581,
 		"z": 8
@@ -22796,6 +22803,13 @@
 		"icon": "up",
 		"x": 33786,
 		"y": 31024,
+		"z": 9
+	},
+	{
+		"description": "Mutagens task",
+		"icon": "?",
+		"x": 33793,
+		"y": 32580,
 		"z": 9
 	},
 	{
