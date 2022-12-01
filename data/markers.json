@@ -5383,6 +5383,34 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33742,
+		"y": 31035,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33756,
+		"y": 31042,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33774,
+		"y": 31036,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33783,
+		"y": 31041,
+		"z": 6
+	},
+	{
 		"description": "NPC Captain Jack Rat (hi / sail / safe / yes)",
 		"icon": "mouth",
 		"x": 33791,
@@ -5394,6 +5422,13 @@
 		"icon": "mouth",
 		"x": 33797,
 		"y": 32857,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33800,
+		"y": 31012,
 		"z": 6
 	},
 	{
@@ -5411,6 +5446,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33817,
+		"y": 31021,
+		"z": 6
+	},
+	{
 		"description": "Brightly burning flames",
 		"icon": "checkmark",
 		"x": 33822,
@@ -5422,6 +5464,13 @@
 		"icon": "up",
 		"x": 33827,
 		"y": 31658,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33835,
+		"y": 31011,
 		"z": 6
 	},
 	{
@@ -5873,13 +5922,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32090,
-		"y": 31247,
-		"z": 7
-	},
-	{
 		"description": "North exit",
 		"icon": "up",
 		"x": 32091,
@@ -6300,13 +6342,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32197,
-		"y": 32376,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32201,
@@ -6454,13 +6489,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32241,
-		"y": 32292,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 32244,
@@ -6486,13 +6514,6 @@
 		"icon": "star",
 		"x": 32252,
 		"y": 31717,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32255,
-		"y": 32725,
 		"z": 7
 	},
 	{
@@ -6598,13 +6619,6 @@
 		"icon": "up",
 		"x": 32269,
 		"y": 31353,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32269,
-		"y": 31659,
 		"z": 7
 	},
 	{
@@ -6836,6 +6850,13 @@
 		"icon": "lock",
 		"x": 32327,
 		"y": 32835,
+		"z": 7
+	},
+	{
+		"description": "Percht Island",
+		"icon": "flag",
+		"x": 32328,
+		"y": 31106,
 		"z": 7
 	},
 	{
@@ -7861,13 +7882,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32593,
-		"y": 32830,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32594,
@@ -7928,13 +7942,6 @@
 		"icon": "up",
 		"x": 32604,
 		"y": 31410,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32605,
-		"y": 31721,
 		"z": 7
 	},
 	{
@@ -8372,13 +8379,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32683,
-		"y": 31907,
-		"z": 7
-	},
-	{
 		"description": "Jungle Grass (cut to access Barkless)",
 		"icon": "crossmark",
 		"x": 32684,
@@ -8656,13 +8656,6 @@
 		"icon": "up",
 		"x": 32741,
 		"y": 31492,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32745,
-		"y": 32182,
 		"z": 7
 	},
 	{
@@ -8971,13 +8964,6 @@
 		"icon": "up",
 		"x": 32833,
 		"y": 31155,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32833,
-		"y": 31164,
 		"z": 7
 	},
 	{
@@ -10654,13 +10640,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33220,
-		"y": 32753,
-		"z": 7
-	},
-	{
 		"description": "Old Fortress",
 		"icon": "up",
 		"x": 33221,
@@ -10808,13 +10787,6 @@
 		"z": 7
 	},
 	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33246,
-		"y": 32345,
-		"z": 7
-	},
-	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33247,
@@ -10938,13 +10910,6 @@
 		"icon": "down",
 		"x": 33271,
 		"y": 32395,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33275,
-		"y": 31711,
 		"z": 7
 	},
 	{
@@ -11155,13 +11120,6 @@
 		"icon": "flag",
 		"x": 33328,
 		"y": 31351,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33331,
-		"y": 32034,
 		"z": 7
 	},
 	{
@@ -12128,13 +12086,6 @@
 		"icon": "up",
 		"x": 33567,
 		"y": 31038,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33567,
-		"y": 31951,
 		"z": 7
 	},
 	{
@@ -13153,6 +13104,13 @@
 		"z": 7
 	},
 	{
+		"description": "Boat to Svargrond",
+		"icon": "flag",
+		"x": 33719,
+		"y": 31105,
+		"z": 7
+	},
+	{
 		"description": "To the Dream Sand River",
 		"icon": "up",
 		"x": 33719,
@@ -13164,6 +13122,13 @@
 		"icon": "star",
 		"x": 33720,
 		"y": 32396,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33722,
+		"y": 31078,
 		"z": 7
 	},
 	{
@@ -13223,6 +13188,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33730,
+		"y": 31040,
+		"z": 7
+	},
+	{
 		"description": "To NPC A Goblin Exile",
 		"icon": "down",
 		"x": 33730,
@@ -13251,6 +13223,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33742,
+		"y": 31091,
+		"z": 7
+	},
+	{
 		"description": "Great pearl fan reef",
 		"icon": "down",
 		"x": 33743,
@@ -13272,10 +13251,52 @@
 		"z": 7
 	},
 	{
-		"description": "Teleport to The Feeding Grounds",
-		"icon": "flag",
-		"x": 33751,
-		"y": 31073,
+		"description": "",
+		"icon": "down",
+		"x": 33745,
+		"y": 31063,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33755,
+		"y": 31019,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33756,
+		"y": 31042,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33757,
+		"y": 31091,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33760,
+		"y": 31066,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33762,
+		"y": 31016,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33763,
+		"y": 31066,
 		"z": 7
 	},
 	{
@@ -13283,6 +13304,13 @@
 		"icon": "crossmark",
 		"x": 33764,
 		"y": 31299,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33774,
+		"y": 31020,
 		"z": 7
 	},
 	{
@@ -13300,6 +13328,20 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33776,
+		"y": 31044,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33776,
+		"y": 31046,
+		"z": 7
+	},
+	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 33776,
@@ -13311,6 +13353,13 @@
 		"icon": "flag",
 		"x": 33777,
 		"y": 32661,
+		"z": 7
+	},
+	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33778,
+		"y": 31020,
 		"z": 7
 	},
 	{
@@ -13363,6 +13412,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33791,
+		"y": 31060,
+		"z": 7
+	},
+	{
 		"description": "Xogixath",
 		"icon": "red down",
 		"x": 33791,
@@ -13391,6 +13447,13 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33792,
+		"y": 31004,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33792,
@@ -13405,10 +13468,24 @@
 		"z": 7
 	},
 	{
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33794,
+		"y": 31060,
+		"z": 7
+	},
+	{
 		"description": "Enusat the Onyx Wing",
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33800,
+		"y": 31012,
 		"z": 7
 	},
 	{
@@ -13468,20 +13545,6 @@
 		"z": 7
 	},
 	{
-		"description": "The Great Food Race",
-		"icon": "flag",
-		"x": 33804,
-		"y": 31077,
-		"z": 7
-	},
-	{
-		"description": "Whack the Orc",
-		"icon": "flag",
-		"x": 33804,
-		"y": 31110,
-		"z": 7
-	},
-	{
 		"description": "Ruins of Nuur",
 		"icon": "down",
 		"x": 33806,
@@ -13526,15 +13589,22 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33819,
-		"y": 31680,
+		"x": 33817,
+		"y": 31021,
 		"z": 7
 	},
 	{
-		"description": "Sausage Eating Contest",
-		"icon": "flag",
-		"x": 33822,
-		"y": 31069,
+		"description": "Baleful bunny (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33818,
+		"y": 31076,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33819,
+		"y": 31680,
 		"z": 7
 	},
 	{
@@ -13542,6 +13612,13 @@
 		"icon": "sword",
 		"x": 33825,
 		"y": 31590,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33835,
+		"y": 31011,
 		"z": 7
 	},
 	{
@@ -13766,13 +13843,6 @@
 		"icon": "up",
 		"x": 33900,
 		"y": 31511,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33901,
-		"y": 31592,
 		"z": 7
 	},
 	{
@@ -18375,13 +18445,6 @@
 		"z": 8
 	},
 	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 33725,
-		"y": 31082,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33730,
@@ -18393,6 +18456,13 @@
 		"icon": "up",
 		"x": 33739,
 		"y": 32779,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33745,
+		"y": 31063,
 		"z": 8
 	},
 	{
@@ -18425,23 +18495,16 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33782,
-		"y": 31076,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33786,
-		"y": 31024,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33788,
 		"y": 31335,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33789,
+		"y": 31022,
 		"z": 8
 	},
 	{
@@ -18491,13 +18554,6 @@
 		"icon": "up",
 		"x": 33806,
 		"y": 31692,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33807,
-		"y": 31063,
 		"z": 8
 	},
 	{
@@ -22792,17 +22848,10 @@
 		"z": 9
 	},
 	{
-		"description": "The Feast",
-		"icon": "flag",
-		"x": 33768,
-		"y": 31100,
-		"z": 9
-	},
-	{
 		"description": "",
-		"icon": "up",
-		"x": 33773,
-		"y": 31016,
+		"icon": "flag",
+		"x": 33759,
+		"y": 31083,
 		"z": 9
 	},
 	{
@@ -22815,15 +22864,15 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33782,
-		"y": 31076,
+		"x": 33786,
+		"y": 31024,
 		"z": 9
 	},
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33786,
-		"y": 31024,
+		"x": 33789,
+		"y": 31023,
 		"z": 9
 	},
 	{
@@ -22894,13 +22943,6 @@
 		"icon": "red down",
 		"x": 33805,
 		"y": 31672,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33807,
-		"y": 31063,
 		"z": 9
 	},
 	{
