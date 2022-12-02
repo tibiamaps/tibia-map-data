@@ -13748,7 +13748,7 @@
 		"z": 7
 	},
 	{
-		"description": "To Moonfall's Tavern, Library and Palace of the Maharani",
+		"description": "To Moonfall’s Tavern, Library, and Palace of the Maharani",
 		"icon": "mouth",
 		"x": 33743,
 		"y": 32797,
@@ -30674,6 +30674,13 @@
 		"z": 11
 	},
 	{
+		"description": "Hazard Golem task",
+		"icon": "?",
+		"x": 33773,
+		"y": 32573,
+		"z": 11
+	},
+	{
 		"description": "Hydra corms",
 		"icon": "crossmark",
 		"x": 33780,
@@ -32939,6 +32946,20 @@
 		"icon": "star",
 		"x": 33788,
 		"y": 32454,
+		"z": 12
+	},
+	{
+		"description": "Towards The Monster",
+		"icon": "red down",
+		"x": 33791,
+		"y": 32575,
+		"z": 12
+	},
+	{
+		"description": "The Monster",
+		"icon": "sword",
+		"x": 33792,
+		"y": 32581,
 		"z": 12
 	},
 	{
