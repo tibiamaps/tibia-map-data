@@ -3,7 +3,7 @@ name: 'Disable Anniversary pack'
 on:
   schedule:
     # Run annually at 04:00 UTC on January 11th.
-    - cron: '0 4 11 1 *'
+    #- cron: '0 4 11 1 *'
   workflow_dispatch:
 
 jobs:
