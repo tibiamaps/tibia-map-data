@@ -10486,13 +10486,6 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Daniel Steelsoul",
-		"icon": "mouth",
-		"x": 33191,
-		"y": 31795,
-		"z": 7
-	},
-	{
 		"description": "To glowing vortex",
 		"icon": "red down",
 		"x": 33192,
@@ -10543,16 +10536,9 @@
 	},
 	{
 		"description": "Female nomads",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 33200,
 		"y": 32617,
-		"z": 7
-	},
-	{
-		"description": "Swan feathers",
-		"icon": "checkmark",
-		"x": 33201,
-		"y": 31894,
 		"z": 7
 	},
 	{
@@ -11131,7 +11117,7 @@
 	},
 	{
 		"description": "Portal of orange energy (teleport to Halls of Hope)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33341,
 		"y": 31167,
 		"z": 7
@@ -11190,13 +11176,6 @@
 		"icon": "star",
 		"x": 33355,
 		"y": 31345,
-		"z": 7
-	},
-	{
-		"description": "Maintenance Tunnel Entry",
-		"icon": "crossmark",
-		"x": 33356,
-		"y": 31180,
 		"z": 7
 	},
 	{
@@ -19404,6 +19383,13 @@
 		"z": 9
 	},
 	{
+		"description": "This way",
+		"icon": "red down",
+		"x": 32214,
+		"y": 31216,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32216,
@@ -23633,9 +23619,9 @@
 	},
 	{
 		"description": "Hirintror (possible spawn location)",
-		"icon": "crossmark",
+		"icon": "star",
 		"x": 32145,
-		"y": 31240,
+		"y": 31215,
 		"z": 10
 	},
 	{
@@ -23696,7 +23682,7 @@
 	},
 	{
 		"description": "Portal of blue energy (teleport to Halls of Hope)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32205,
 		"y": 31036,
 		"z": 10
@@ -23709,15 +23695,8 @@
 		"z": 10
 	},
 	{
-		"description": "Pile of bones (floor plan)",
-		"icon": "star",
-		"x": 32211,
-		"y": 31273,
-		"z": 10
-	},
-	{
 		"description": "Hirintror (possible spawn location)",
-		"icon": "crossmark",
+		"icon": "star",
 		"x": 32211,
 		"y": 31276,
 		"z": 10
@@ -23797,13 +23776,6 @@
 		"icon": "down",
 		"x": 32241,
 		"y": 31045,
-		"z": 10
-	},
-	{
-		"description": "NPC A Restless Soul",
-		"icon": "mouth",
-		"x": 32257,
-		"y": 31101,
 		"z": 10
 	},
 	{
@@ -25375,13 +25347,6 @@
 		"z": 10
 	},
 	{
-		"description": "Old letter and strand of hair",
-		"icon": "star",
-		"x": 32825,
-		"y": 32773,
-		"z": 10
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 32826,
@@ -25400,13 +25365,6 @@
 		"icon": "up",
 		"x": 32827,
 		"y": 31665,
-		"z": 10
-	},
-	{
-		"description": "Eye key",
-		"icon": "checkmark",
-		"x": 32836,
-		"y": 32820,
 		"z": 10
 	},
 	{
@@ -25466,24 +25424,10 @@
 		"z": 10
 	},
 	{
-		"description": "Scribbled notes",
-		"icon": "checkmark",
-		"x": 32871,
-		"y": 32816,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32875,
 		"y": 32575,
-		"z": 10
-	},
-	{
-		"description": "Lotus key",
-		"icon": "checkmark",
-		"x": 32875,
-		"y": 32761,
 		"z": 10
 	},
 	{
@@ -28686,13 +28630,6 @@
 		"z": 11
 	},
 	{
-		"description": "Chest with The Peacock Ballad",
-		"icon": "bag",
-		"x": 32832,
-		"y": 32758,
-		"z": 11
-	},
-	{
 		"description": "Druid",
 		"icon": "red down",
 		"x": 32841,
@@ -28809,13 +28746,6 @@
 		"icon": "?",
 		"x": 32877,
 		"y": 32757,
-		"z": 11
-	},
-	{
-		"description": "Old writing desk",
-		"icon": "star",
-		"x": 32880,
-		"y": 32819,
 		"z": 11
 	},
 	{
@@ -30515,13 +30445,6 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 32116,
-		"y": 31334,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 32118,
 		"y": 31340,
 		"z": 12
@@ -30580,20 +30503,6 @@
 		"icon": "up",
 		"x": 32146,
 		"y": 31142,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32155,
-		"y": 31342,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32160,
-		"y": 31352,
 		"z": 12
 	},
 	{
