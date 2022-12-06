@@ -29470,14 +29470,14 @@
 		"z": 11
 	},
 	{
-		"description": "Deepling Elite",
+		"description": "Deepling elite",
 		"icon": "star",
 		"x": 33450,
 		"y": 31248,
 		"z": 11
 	},
 	{
-		"description": "Deepling Tyrant",
+		"description": "Deepling tyrant",
 		"icon": "star",
 		"x": 33453,
 		"y": 31236,
@@ -33741,7 +33741,7 @@
 	},
 	{
 		"description": "Mahatheb (exact spawn tile)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33394,
 		"y": 31701,
 		"z": 13
