@@ -3164,13 +3164,6 @@
 		"z": 5
 	},
 	{
-		"description": "Rosebush",
-		"icon": "star",
-		"x": 33703,
-		"y": 32186,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33709,
@@ -4393,13 +4386,6 @@
 		"icon": "up",
 		"x": 33008,
 		"y": 32618,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33009,
-		"y": 32100,
 		"z": 6
 	},
 	{
@@ -6748,20 +6734,6 @@
 		"z": 7
 	},
 	{
-		"description": "Thais Castle",
-		"icon": "star",
-		"x": 32313,
-		"y": 32181,
-		"z": 7
-	},
-	{
-		"description": "NPC Queen Eloise",
-		"icon": "mouth",
-		"x": 32316,
-		"y": 31754,
-		"z": 7
-	},
-	{
 		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32317,
@@ -7753,13 +7725,6 @@
 		"icon": "down",
 		"x": 32555,
 		"y": 32678,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32556,
-		"y": 32766,
 		"z": 7
 	},
 	{
@@ -8845,13 +8810,6 @@
 		"icon": "red up",
 		"x": 32803,
 		"y": 31601,
-		"z": 7
-	},
-	{
-		"description": "Dark stone totem (use golden symbol of Suon)",
-		"icon": "star",
-		"x": 32809,
-		"y": 32582,
 		"z": 7
 	},
 	{
@@ -10480,7 +10438,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33188,
 		"y": 31239,
 		"z": 7
@@ -10662,7 +10620,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33223,
 		"y": 31227,
 		"z": 7
@@ -10711,7 +10669,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33234,
 		"y": 31185,
 		"z": 7
@@ -10763,13 +10721,6 @@
 		"icon": "up",
 		"x": 33241,
 		"y": 31767,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33243,
-		"y": 31294,
 		"z": 7
 	},
 	{
@@ -10872,7 +10823,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33266,
 		"y": 31166,
 		"z": 7
@@ -10921,7 +10872,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33282,
 		"y": 31252,
 		"z": 7
@@ -11089,7 +11040,7 @@
 	},
 	{
 		"description": "Draptor (possible spawn location)",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 33322,
 		"y": 31183,
 		"z": 7
@@ -11298,13 +11249,6 @@
 		"z": 7
 	},
 	{
-		"description": "Moon sculpture (use lit moon mirror at night)",
-		"icon": "cross",
-		"x": 33387,
-		"y": 32215,
-		"z": 7
-	},
-	{
 		"description": "Towards Scarlett Etzel",
 		"icon": "up",
 		"x": 33397,
@@ -11316,13 +11260,6 @@
 		"icon": "lock",
 		"x": 33404,
 		"y": 32662,
-		"z": 7
-	},
-	{
-		"description": "Stone mosaics (use shining sun catcher during daytime)",
-		"icon": "crossmark",
-		"x": 33419,
-		"y": 32243,
 		"z": 7
 	},
 	{
@@ -11344,13 +11281,6 @@
 		"icon": "flag",
 		"x": 33430,
 		"y": 32276,
-		"z": 7
-	},
-	{
-		"description": "Dream bird tree (use gleaming starlight vial at night)",
-		"icon": "!",
-		"x": 33442,
-		"y": 32200,
 		"z": 7
 	},
 	{
@@ -11396,20 +11326,6 @@
 		"z": 7
 	},
 	{
-		"description": "Dream bird tree (use gleaming starlight vial at night)",
-		"icon": "!",
-		"x": 33458,
-		"y": 32298,
-		"z": 7
-	},
-	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33459,
-		"y": 32293,
-		"z": 7
-	},
-	{
 		"description": "Magic store",
 		"icon": "up",
 		"x": 33460,
@@ -11417,24 +11333,10 @@
 		"z": 7
 	},
 	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33464,
-		"y": 32230,
-		"z": 7
-	},
-	{
 		"description": "NPC Lora",
 		"icon": "mouth",
 		"x": 33470,
 		"y": 31023,
-		"z": 7
-	},
-	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33470,
-		"y": 32251,
 		"z": 7
 	},
 	{
@@ -11446,7 +11348,7 @@
 	},
 	{
 		"description": "Teleport to Fiehonja",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 33478,
 		"y": 31312,
 		"z": 7
@@ -11463,13 +11365,6 @@
 		"icon": "down",
 		"x": 33480,
 		"y": 31203,
-		"z": 7
-	},
-	{
-		"description": "Stone mosaics (use shining sun catcher during daytime)",
-		"icon": "crossmark",
-		"x": 33484,
-		"y": 32193,
 		"z": 7
 	},
 	{
@@ -11536,13 +11431,6 @@
 		"z": 7
 	},
 	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33494,
-		"y": 32318,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33497,
@@ -11561,13 +11449,6 @@
 		"icon": "crossmark",
 		"x": 33498,
 		"y": 32475,
-		"z": 7
-	},
-	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33499,
-		"y": 32193,
 		"z": 7
 	},
 	{
@@ -11655,13 +11536,6 @@
 		"z": 7
 	},
 	{
-		"description": "Moon sculpture (use lit moon mirror at night)",
-		"icon": "cross",
-		"x": 33518,
-		"y": 32193,
-		"z": 7
-	},
-	{
 		"description": "Message in a bottle",
 		"icon": "crossmark",
 		"x": 33518,
@@ -11711,13 +11585,6 @@
 		"z": 7
 	},
 	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33526,
-		"y": 32256,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 33526,
@@ -11736,13 +11603,6 @@
 		"icon": "flag",
 		"x": 33528,
 		"y": 31696,
-		"z": 7
-	},
-	{
-		"description": "Dream bird tree (use gleaming starlight vial at night)",
-		"icon": "!",
-		"x": 33530,
-		"y": 32187,
 		"z": 7
 	},
 	{
@@ -11795,13 +11655,6 @@
 		"z": 7
 	},
 	{
-		"description": "Dream bird tree (use gleaming starlight vial at night)",
-		"icon": "!",
-		"x": 33541,
-		"y": 32244,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33542,
@@ -11820,13 +11673,6 @@
 		"icon": "crossmark",
 		"x": 33545,
 		"y": 31267,
-		"z": 7
-	},
-	{
-		"description": "Stone mosaics (use shining sun catcher during daytime)",
-		"icon": "crossmark",
-		"x": 33545,
-		"y": 32156,
 		"z": 7
 	},
 	{
@@ -11855,13 +11701,6 @@
 		"icon": "!",
 		"x": 33547,
 		"y": 31952,
-		"z": 7
-	},
-	{
-		"description": "Stone mosaics (use shining sun catcher during daytime)",
-		"icon": "crossmark",
-		"x": 33547,
-		"y": 32206,
 		"z": 7
 	},
 	{
@@ -11897,20 +11736,6 @@
 		"icon": "red down",
 		"x": 33549,
 		"y": 31662,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "cross",
-		"x": 33550,
-		"y": 32219,
-		"z": 7
-	},
-	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33550,
-		"y": 32222,
 		"z": 7
 	},
 	{
@@ -12012,13 +11837,6 @@
 		"z": 7
 	},
 	{
-		"description": "Dream bird tree (use gleaming starlight vial at night)",
-		"icon": "!",
-		"x": 33561,
-		"y": 32257,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33562,
@@ -12065,13 +11883,6 @@
 		"icon": "up",
 		"x": 33567,
 		"y": 31038,
-		"z": 7
-	},
-	{
-		"description": "Stone mosaics (use shining sun catcher during daytime)",
-		"icon": "crossmark",
-		"x": 33567,
-		"y": 32244,
 		"z": 7
 	},
 	{
@@ -12271,13 +12082,6 @@
 		"z": 7
 	},
 	{
-		"description": "Swan feathers",
-		"icon": "star",
-		"x": 33589,
-		"y": 32196,
-		"z": 7
-	},
-	{
 		"description": "Roshamuul Prison",
 		"icon": "down",
 		"x": 33589,
@@ -12331,13 +12135,6 @@
 		"icon": "up",
 		"x": 33596,
 		"y": 31217,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "cross",
-		"x": 33596,
-		"y": 32183,
 		"z": 7
 	},
 	{
@@ -12705,13 +12502,6 @@
 		"z": 7
 	},
 	{
-		"description": "Colourful mushroom",
-		"icon": "star",
-		"x": 33664,
-		"y": 32192,
-		"z": 7
-	},
-	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33664,
@@ -12751,13 +12541,6 @@
 		"icon": "flag",
 		"x": 33671,
 		"y": 32424,
-		"z": 7
-	},
-	{
-		"description": "Anatomy book",
-		"icon": "star",
-		"x": 33672,
-		"y": 32203,
 		"z": 7
 	},
 	{
@@ -23051,24 +22834,10 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33853,
-		"y": 31464,
-		"z": 9
-	},
-	{
 		"description": "Stealth task",
 		"icon": "crossmark",
 		"x": 33854,
 		"y": 31334,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33854,
-		"y": 31521,
 		"z": 9
 	},
 	{
@@ -23108,13 +22877,6 @@
 	},
 	{
 		"description": "",
-		"icon": "star",
-		"x": 33865,
-		"y": 31443,
-		"z": 9
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33865,
 		"y": 31458,
@@ -23125,13 +22887,6 @@
 		"icon": "up",
 		"x": 33869,
 		"y": 31519,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33873,
-		"y": 31433,
 		"z": 9
 	},
 	{
@@ -23146,13 +22901,6 @@
 		"icon": "up",
 		"x": 33877,
 		"y": 31843,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33879,
-		"y": 31545,
 		"z": 9
 	},
 	{
@@ -23181,13 +22929,6 @@
 		"icon": "flag",
 		"x": 33888,
 		"y": 31618,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33891,
-		"y": 31504,
 		"z": 9
 	},
 	{
@@ -23699,13 +23440,6 @@
 		"icon": "star",
 		"x": 32211,
 		"y": 31276,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32220,
-		"y": 31015,
 		"z": 10
 	},
 	{
@@ -29736,6 +29470,20 @@
 		"z": 11
 	},
 	{
+		"description": "Deepling Elite",
+		"icon": "star",
+		"x": 33450,
+		"y": 31248,
+		"z": 11
+	},
+	{
+		"description": "Deepling Tyrant",
+		"icon": "star",
+		"x": 33453,
+		"y": 31236,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 33454,
@@ -31990,6 +31738,13 @@
 		"z": 12
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33461,
+		"y": 31185,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33463,
@@ -33986,7 +33741,7 @@
 	},
 	{
 		"description": "Mahatheb (exact spawn tile)",
-		"icon": "crossmark",
+		"icon": "star",
 		"x": 33394,
 		"y": 31701,
 		"z": 13
@@ -34083,6 +33838,13 @@
 		"z": 13
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33454,
+		"y": 31193,
+		"z": 13
+	},
+	{
 		"description": "Ragiaz",
 		"icon": "sword",
 		"x": 33455,
@@ -34115,6 +33877,13 @@
 		"icon": "star",
 		"x": 33458,
 		"y": 31191,
+		"z": 13
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33462,
+		"y": 31185,
 		"z": 13
 	},
 	{
@@ -36008,6 +35777,13 @@
 		"z": 14
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33453,
+		"y": 31193,
+		"z": 14
+	},
+	{
 		"description": "Teleport to Gray Beach",
 		"icon": "star",
 		"x": 33453,
@@ -36173,6 +35949,13 @@
 		"icon": "crossmark",
 		"x": 33556,
 		"y": 31248,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33556,
+		"y": 31451,
 		"z": 14
 	},
 	{
