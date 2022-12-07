@@ -7035,7 +7035,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32359,
 		"y": 32900,
@@ -7245,7 +7245,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32414,
 		"y": 32916,
@@ -7364,7 +7364,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32440,
 		"y": 32971,
@@ -7476,7 +7476,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32472,
 		"y": 32869,
@@ -7588,7 +7588,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32490,
 		"y": 32980,
@@ -7651,7 +7651,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Turtle",
 		"icon": "flag",
 		"x": 32528,
 		"y": 32951,
@@ -7963,13 +7963,6 @@
 		"icon": "up",
 		"x": 32614,
 		"y": 31976,
-		"z": 7
-	},
-	{
-		"description": "NPC Weakened Forest Fury",
-		"icon": "mouth",
-		"x": 32615,
-		"y": 32269,
 		"z": 7
 	},
 	{
@@ -8400,13 +8393,6 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Grizzly Adams",
-		"icon": "mouth",
-		"x": 32694,
-		"y": 32772,
-		"z": 7
-	},
-	{
 		"description": "Trap holes",
 		"icon": "skull",
 		"x": 32694,
@@ -8457,20 +8443,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32702,
-		"y": 32350,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32706,
-		"y": 32342,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32707,
 		"y": 31104,
@@ -8498,24 +8470,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32712,
-		"y": 32360,
-		"z": 7
-	},
-	{
 		"description": "Orcs",
 		"icon": "red up",
 		"x": 32713,
 		"y": 31278,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32713,
-		"y": 32339,
 		"z": 7
 	},
 	{
@@ -8572,13 +8530,6 @@
 		"icon": "checkmark",
 		"x": 32729,
 		"y": 31087,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32729,
-		"y": 32344,
 		"z": 7
 	},
 	{
@@ -8701,7 +8652,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "PoI",
 		"icon": "down",
 		"x": 32770,
 		"y": 32341,
@@ -8782,13 +8733,6 @@
 		"icon": "up",
 		"x": 32794,
 		"y": 32085,
-		"z": 7
-	},
-	{
-		"description": "PoI",
-		"icon": "red down",
-		"x": 32796,
-		"y": 32341,
 		"z": 7
 	},
 	{
@@ -9185,7 +9129,7 @@
 	},
 	{
 		"description": "Hidden shovel hole (treasure hunt quest)",
-		"icon": "down",
+		"icon": "crossmark",
 		"x": 32902,
 		"y": 32515,
 		"z": 7
@@ -9293,13 +9237,6 @@
 		"icon": "up",
 		"x": 32936,
 		"y": 32159,
-		"z": 7
-	},
-	{
-		"description": "Hydra spawn",
-		"icon": "skull",
-		"x": 32938,
-		"y": 32744,
 		"z": 7
 	},
 	{
@@ -10739,7 +10676,7 @@
 	},
 	{
 		"description": "Blue nomads",
-		"icon": "checkmark",
+		"icon": "star",
 		"x": 33249,
 		"y": 32748,
 		"z": 7
@@ -11029,13 +10966,6 @@
 		"icon": "cross",
 		"x": 33318,
 		"y": 31883,
-		"z": 7
-	},
-	{
-		"description": "Ysbasra's Tent",
-		"icon": "flag",
-		"x": 33318,
-		"y": 32007,
 		"z": 7
 	},
 	{
@@ -36085,13 +36015,6 @@
 		"z": 14
 	},
 	{
-		"description": "Acid-resistant fishing rod",
-		"icon": "star",
-		"x": 33578,
-		"y": 32528,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33579,
@@ -36169,13 +36092,6 @@
 		"z": 14
 	},
 	{
-		"description": "Barrel",
-		"icon": "star",
-		"x": 33598,
-		"y": 32534,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33602,
@@ -36204,13 +36120,6 @@
 		"z": 14
 	},
 	{
-		"description": "Statue",
-		"icon": "star",
-		"x": 33618,
-		"y": 32519,
-		"z": 14
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33618,
@@ -36236,27 +36145,6 @@
 		"icon": "checkmark",
 		"x": 33637,
 		"y": 32852,
-		"z": 14
-	},
-	{
-		"description": "4. T'sough",
-		"icon": "checkmark",
-		"x": 33638,
-		"y": 32507,
-		"z": 14
-	},
-	{
-		"description": "Bed",
-		"icon": "star",
-		"x": 33640,
-		"y": 32507,
-		"z": 14
-	},
-	{
-		"description": "After Rod",
-		"icon": "checkmark",
-		"x": 33640,
-		"y": 32550,
 		"z": 14
 	},
 	{
@@ -38115,13 +38003,6 @@
 		"z": 15
 	},
 	{
-		"description": "Pescar Corpo",
-		"icon": "star",
-		"x": 33556,
-		"y": 32555,
-		"z": 15
-	},
-	{
 		"description": "Excavation site Firefoot",
 		"icon": "star",
 		"x": 33556,
@@ -38168,13 +38049,6 @@
 		"icon": "star",
 		"x": 33573,
 		"y": 31441,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33576,
-		"y": 32537,
 		"z": 15
 	},
 	{
@@ -38262,20 +38136,6 @@
 		"z": 15
 	},
 	{
-		"description": "1. K'muuh",
-		"icon": "checkmark",
-		"x": 33614,
-		"y": 32516,
-		"z": 15
-	},
-	{
-		"description": "3. O'kteth",
-		"icon": "checkmark",
-		"x": 33616,
-		"y": 32520,
-		"z": 15
-	},
-	{
 		"description": "Excavation site Moss",
 		"icon": "star",
 		"x": 33618,
@@ -38294,20 +38154,6 @@
 		"icon": "checkmark",
 		"x": 33620,
 		"y": 32055,
-		"z": 15
-	},
-	{
-		"description": "2. N'ogalu",
-		"icon": "checkmark",
-		"x": 33621,
-		"y": 32520,
-		"z": 15
-	},
-	{
-		"description": "4",
-		"icon": "checkmark",
-		"x": 33622,
-		"y": 32516,
 		"z": 15
 	},
 	{
