@@ -38297,6 +38297,13 @@
 		"z": 15
 	},
 	{
+		"description": "Shooter spot",
+		"icon": "sword",
+		"x": 33702,
+		"y": 32377,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33704,
@@ -38318,10 +38325,59 @@
 		"z": 15
 	},
 	{
+		"description": "Ancient Spawn of Morgathla (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33714,
+		"y": 32373,
+		"z": 15
+	},
+	{
+		"description": "Ancient Spawn of Morgathla (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33721,
+		"y": 32344,
+		"z": 15
+	},
+	{
+		"description": "Shooter spot",
+		"icon": "sword",
+		"x": 33722,
+		"y": 32355,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33724,
+		"y": 32365,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33736,
+		"y": 32339,
+		"z": 15
+	},
+	{
 		"description": "Use the crystal to go down",
 		"icon": "down",
 		"x": 33749,
 		"y": 32159,
+		"z": 15
+	},
+	{
+		"description": "Shooter spot",
+		"icon": "sword",
+		"x": 33751,
+		"y": 32341,
+		"z": 15
+	},
+	{
+		"description": "Ancient Spawn of Morgathla (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33753,
+		"y": 32352,
 		"z": 15
 	},
 	{
@@ -38343,6 +38399,34 @@
 		"icon": "up",
 		"x": 33767,
 		"y": 32916,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33769,
+		"y": 32357,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33772,
+		"y": 32327,
+		"z": 15
+	},
+	{
+		"description": "Ancient Spawn of Morgathla (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33772,
+		"y": 32337,
+		"z": 15
+	},
+	{
+		"description": "Shooter spot",
+		"icon": "sword",
+		"x": 33780,
+		"y": 32336,
 		"z": 15
 	},
 	{
