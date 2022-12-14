@@ -6979,6 +6979,13 @@
 		"z": 7
 	},
 	{
+		"description": "Protection Zone",
+		"icon": "cross",
+		"x": 32352,
+		"y": 31053,
+		"z": 7
+	},
+	{
 		"description": "PvE/PvP arena",
 		"icon": "skull",
 		"x": 32352,
@@ -10409,13 +10416,6 @@
 		"z": 7
 	},
 	{
-		"description": "PvE/PvP arena",
-		"icon": "skull",
-		"x": 33200,
-		"y": 31785,
-		"z": 7
-	},
-	{
 		"description": "Female nomads",
 		"icon": "star",
 		"x": 33200,
@@ -11428,13 +11428,6 @@
 		"icon": "red down",
 		"x": 33514,
 		"y": 31323,
-		"z": 7
-	},
-	{
-		"description": "Drilling site",
-		"icon": "down",
-		"x": 33515,
-		"y": 31309,
 		"z": 7
 	},
 	{
@@ -13777,13 +13770,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 31976,
-		"y": 32305,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 31980,
 		"y": 32800,
@@ -13850,13 +13836,6 @@
 		"icon": "up",
 		"x": 32007,
 		"y": 32740,
-		"z": 8
-	},
-	{
-		"description": "Yarn",
-		"icon": "star",
-		"x": 32009,
-		"y": 32353,
 		"z": 8
 	},
 	{
@@ -19085,7 +19064,7 @@
 		"description": "This way",
 		"icon": "red down",
 		"x": 32214,
-		"y": 31216,
+		"y": 31220,
 		"z": 9
 	},
 	{
@@ -23359,6 +23338,13 @@
 		"z": 10
 	},
 	{
+		"description": "This way to Melting Frozen Horror",
+		"icon": "red right",
+		"x": 32226,
+		"y": 31137,
+		"z": 10
+	},
+	{
 		"description": "White Pale (spawn location)",
 		"icon": "star",
 		"x": 32226,
@@ -23422,7 +23408,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "To Deeper Mines",
 		"icon": "down",
 		"x": 32241,
 		"y": 31045,
@@ -23485,13 +23471,6 @@
 		"z": 10
 	},
 	{
-		"description": "Frozen Horror",
-		"icon": "star",
-		"x": 32324,
-		"y": 31092,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32327,
@@ -23499,7 +23478,7 @@
 		"z": 10
 	},
 	{
-		"description": "Towards dragon egg",
+		"description": "Towards Melting Frozen Horror",
 		"icon": "down",
 		"x": 32328,
 		"y": 31088,
@@ -32137,13 +32116,6 @@
 		"z": 12
 	},
 	{
-		"description": "Recipe",
-		"icon": "checkmark",
-		"x": 31997,
-		"y": 31981,
-		"z": 13
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32011,
@@ -34076,13 +34048,6 @@
 		"z": 14
 	},
 	{
-		"description": "Use crowbar / Secret Agent tool to get old lock",
-		"icon": "star",
-		"x": 32006,
-		"y": 32003,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32010,
@@ -34094,13 +34059,6 @@
 		"icon": "up",
 		"x": 32015,
 		"y": 31988,
-		"z": 14
-	},
-	{
-		"description": "Minotaur skull",
-		"icon": "star",
-		"x": 32017,
-		"y": 31982,
 		"z": 14
 	},
 	{
