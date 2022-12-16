@@ -5229,13 +5229,6 @@
 		"z": 6
 	},
 	{
-		"description": "Ian Doubleday",
-		"icon": "!",
-		"x": 33640,
-		"y": 31958,
-		"z": 6
-	},
-	{
 		"description": "Dragon egg shells",
 		"icon": "star",
 		"x": 33661,
@@ -6983,13 +6976,6 @@
 		"icon": "cross",
 		"x": 32352,
 		"y": 31053,
-		"z": 7
-	},
-	{
-		"description": "PvE/PvP arena",
-		"icon": "skull",
-		"x": 32352,
-		"y": 32221,
 		"z": 7
 	},
 	{
@@ -10577,6 +10563,13 @@
 		"z": 7
 	},
 	{
+		"description": "Battlemaster Zunzu",
+		"icon": "star",
+		"x": 33233,
+		"y": 31239,
+		"z": 7
+	},
+	{
 		"description": "The Thaian",
 		"icon": "red up",
 		"x": 33233,
@@ -11697,6 +11690,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Lisa",
+		"icon": "down",
+		"x": 33556,
+		"y": 31913,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33556,
@@ -12334,8 +12334,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "star",
+		"description": "Passage to the other side",
+		"icon": "flag",
 		"x": 33653,
 		"y": 31990,
 		"z": 7
@@ -12387,13 +12387,6 @@
 		"icon": "crossmark",
 		"x": 33658,
 		"y": 32387,
-		"z": 7
-	},
-	{
-		"description": "City Guard Terrence",
-		"icon": "!",
-		"x": 33659,
-		"y": 31949,
 		"z": 7
 	},
 	{
@@ -17714,6 +17707,13 @@
 		"icon": "red right",
 		"x": 33535,
 		"y": 31444,
+		"z": 8
+	},
+	{
+		"description": "TP out",
+		"icon": "crossmark",
+		"x": 33536,
+		"y": 31873,
 		"z": 8
 	},
 	{
