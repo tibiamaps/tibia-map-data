@@ -24164,6 +24164,13 @@
 		"z": 10
 	},
 	{
+		"description": "This way",
+		"icon": "red down",
+		"x": 32522,
+		"y": 32405,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32525,
@@ -33684,6 +33691,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33424,
+		"y": 31529,
+		"z": 13
+	},
+	{
 		"description": "Sir Nictors and Baeloc, Darashia",
 		"icon": "checkmark",
 		"x": 33426,
@@ -35623,6 +35637,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33442,
+		"y": 32755,
+		"z": 14
+	},
+	{
 		"description": "Deepling tyrant",
 		"icon": "star",
 		"x": 33447,
@@ -35676,6 +35697,13 @@
 		"icon": "red down",
 		"x": 33469,
 		"y": 31637,
+		"z": 14
+	},
+	{
+		"description": "Lever to boss",
+		"icon": "crossmark",
+		"x": 33477,
+		"y": 32699,
 		"z": 14
 	},
 	{
