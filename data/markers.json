@@ -525,7 +525,7 @@
 		"z": 2
 	},
 	{
-		"description": "Spawn of Grand Commander Soeren",
+		"description": "Grand Commander Soere (spawn location)",
 		"icon": "sword",
 		"x": 33377,
 		"y": 31321,
@@ -1036,7 +1036,7 @@
 		"z": 3
 	},
 	{
-		"description": "Spawn of Preceptor Lazare",
+		"description": "Preceptor Lazare (spawn location)",
 		"icon": "sword",
 		"x": 33375,
 		"y": 31338,
@@ -2877,7 +2877,7 @@
 		"z": 5
 	},
 	{
-		"description": "Spawn of Grand Chaplain Gaunder",
+		"description": "Grand Chaplain Gaunder (spawn location)",
 		"icon": "sword",
 		"x": 33370,
 		"y": 31327,
@@ -4859,20 +4859,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33367,
-		"y": 31324,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33367,
-		"y": 31328,
-		"z": 6
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33368,
 		"y": 31344,
@@ -4907,17 +4893,10 @@
 		"z": 6
 	},
 	{
-		"description": "Spawn of Grand Canon Dominus",
+		"description": "Grand Canon Dominus (spawn location)",
 		"icon": "sword",
 		"x": 33384,
 		"y": 31281,
-		"z": 6
-	},
-	{
-		"description": "Grand Canon Dominus",
-		"icon": "sword",
-		"x": 33385,
-		"y": 31286,
 		"z": 6
 	},
 	{
@@ -6594,20 +6573,6 @@
 		"z": 7
 	},
 	{
-		"description": "Pig",
-		"icon": "sword",
-		"x": 32271,
-		"y": 32855,
-		"z": 7
-	},
-	{
-		"description": "Equipment Store",
-		"icon": "bag",
-		"x": 32281,
-		"y": 32823,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32285,
@@ -6633,13 +6598,6 @@
 		"icon": "down",
 		"x": 32292,
 		"y": 31425,
-		"z": 7
-	},
-	{
-		"description": "Weapon and Armor Store",
-		"icon": "sword",
-		"x": 32293,
-		"y": 32820,
 		"z": 7
 	},
 	{
@@ -6972,7 +6930,7 @@
 		"z": 7
 	},
 	{
-		"description": "Protection Zone",
+		"description": "Protection zone",
 		"icon": "cross",
 		"x": 32352,
 		"y": 31053,
@@ -8327,13 +8285,6 @@
 		"icon": "!",
 		"x": 32686,
 		"y": 31998,
-		"z": 7
-	},
-	{
-		"description": "Distance Store",
-		"icon": "spear",
-		"x": 32687,
-		"y": 31613,
 		"z": 7
 	},
 	{
@@ -11074,13 +11025,6 @@
 		"z": 7
 	},
 	{
-		"description": "Blacksmith’s Note",
-		"icon": "checkmark",
-		"x": 33364,
-		"y": 31342,
-		"z": 7
-	},
-	{
 		"description": "To NPC A Majestic Warwolf",
 		"icon": "down",
 		"x": 33364,
@@ -11109,24 +11053,10 @@
 		"z": 7
 	},
 	{
-		"description": "Letter to the Guild",
-		"icon": "checkmark",
-		"x": 33372,
-		"y": 31327,
-		"z": 7
-	},
-	{
 		"description": "Boat to island to the north",
 		"icon": "flag",
 		"x": 33373,
 		"y": 31309,
-		"z": 7
-	},
-	{
-		"description": "Debate VIII",
-		"icon": "checkmark",
-		"x": 33373,
-		"y": 31350,
 		"z": 7
 	},
 	{
@@ -15253,13 +15183,6 @@
 		"z": 8
 	},
 	{
-		"description": "Weapon and Armor Store",
-		"icon": "sword",
-		"x": 32657,
-		"y": 31656,
-		"z": 8
-	},
-	{
 		"description": "Wagons",
 		"icon": "flag",
 		"x": 32657,
@@ -15327,13 +15250,6 @@
 		"icon": "down",
 		"x": 32665,
 		"y": 32853,
-		"z": 8
-	},
-	{
-		"description": "Tool Store",
-		"icon": "bag",
-		"x": 32667,
-		"y": 31656,
 		"z": 8
 	},
 	{
