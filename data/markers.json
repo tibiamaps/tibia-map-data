@@ -3899,7 +3899,7 @@
 		"z": 6
 	},
 	{
-		"description": "",
+		"description": "To small boat",
 		"icon": "down",
 		"x": 32556,
 		"y": 32766,
@@ -3913,10 +3913,10 @@
 		"z": 6
 	},
 	{
-		"description": "",
+		"description": "To south Port Hope",
 		"icon": "down",
 		"x": 32572,
-		"y": 32788,
+		"y": 32787,
 		"z": 6
 	},
 	{
@@ -3927,7 +3927,7 @@
 		"z": 6
 	},
 	{
-		"description": "",
+		"description": "To the city",
 		"icon": "down",
 		"x": 32578,
 		"y": 32766,
@@ -7718,6 +7718,13 @@
 		"icon": "up",
 		"x": 32570,
 		"y": 31458,
+		"z": 7
+	},
+	{
+		"description": "To boat",
+		"icon": "up",
+		"x": 32572,
+		"y": 32787,
 		"z": 7
 	},
 	{
