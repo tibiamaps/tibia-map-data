@@ -3915,13 +3915,6 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 32568,
-		"y": 32766,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 32572,
 		"y": 32788,
 		"z": 6
@@ -3931,6 +3924,13 @@
 		"icon": "down",
 		"x": 32576,
 		"y": 31797,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32578,
+		"y": 32766,
 		"z": 6
 	},
 	{
@@ -10724,6 +10724,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Telas",
+		"icon": "up",
+		"x": 33277,
+		"y": 31806,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 33277,
@@ -13602,6 +13609,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 31923,
+		"y": 31377,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 31924,
 		"y": 31355,
@@ -14725,13 +14739,6 @@
 		"icon": "up",
 		"x": 32436,
 		"y": 31063,
-		"z": 8
-	},
-	{
-		"description": "NPC John the Carpenter (day)",
-		"icon": "mouth",
-		"x": 32437,
-		"y": 32473,
 		"z": 8
 	},
 	{
@@ -18484,6 +18491,13 @@
 		"icon": "down",
 		"x": 31919,
 		"y": 32591,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31923,
+		"y": 31377,
 		"z": 9
 	},
 	{
