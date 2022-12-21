@@ -10017,13 +10017,6 @@
 		"z": 7
 	},
 	{
-		"description": "PvE/PvP arena",
-		"icon": "skull",
-		"x": 33134,
-		"y": 32861,
-		"z": 7
-	},
-	{
 		"description": "To the Mage’s Tower",
 		"icon": "up",
 		"x": 33135,
@@ -10399,6 +10392,13 @@
 		"icon": "down",
 		"x": 33210,
 		"y": 31814,
+		"z": 7
+	},
+	{
+		"description": "Rotworms",
+		"icon": "down",
+		"x": 33212,
+		"y": 31888,
 		"z": 7
 	},
 	{
@@ -15799,7 +15799,7 @@
 		"z": 8
 	},
 	{
-		"description": "Hairman the Huge spawn location",
+		"description": "Hairman the Huge (spawn location)",
 		"icon": "star",
 		"x": 32846,
 		"y": 32509,
@@ -21618,6 +21618,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33263,
+		"y": 31917,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33264,
 		"y": 32171,
 		"z": 9
@@ -25904,6 +25911,13 @@
 		"icon": "checkmark",
 		"x": 33260,
 		"y": 32105,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33261,
+		"y": 31896,
 		"z": 10
 	},
 	{
