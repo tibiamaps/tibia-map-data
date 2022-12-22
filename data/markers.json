@@ -18060,13 +18060,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33773,
-		"y": 31016,
-		"z": 8
-	},
-	{
 		"description": "Krailos/Issavi",
 		"icon": "red left",
 		"x": 33776,
@@ -22472,15 +22465,8 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33786,
-		"y": 31024,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33789,
-		"y": 31023,
+		"y": 31022,
 		"z": 9
 	},
 	{
