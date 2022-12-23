@@ -22437,6 +22437,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33700,
+		"y": 31056,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33702,
 		"y": 32360,
 		"z": 9
@@ -22446,6 +22453,20 @@
 		"icon": "up",
 		"x": 33702,
 		"y": 32764,
+		"z": 9
+	},
+	{
+		"description": "Bonfire",
+		"icon": "crossmark",
+		"x": 33712,
+		"y": 31067,
+		"z": 9
+	},
+	{
+		"description": "Wood",
+		"icon": "crossmark",
+		"x": 33723,
+		"y": 31056,
 		"z": 9
 	},
 	{
