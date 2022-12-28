@@ -7875,13 +7875,6 @@
 		"z": 7
 	},
 	{
-		"description": "Key 3302",
-		"icon": "star",
-		"x": 32610,
-		"y": 32244,
-		"z": 7
-	},
-	{
 		"description": "NPC Grumpy Stone",
 		"icon": "mouth",
 		"x": 32613,
@@ -7935,13 +7928,6 @@
 		"icon": "red left",
 		"x": 32617,
 		"y": 31698,
-		"z": 7
-	},
-	{
-		"description": "Key 3301",
-		"icon": "star",
-		"x": 32617,
-		"y": 32251,
 		"z": 7
 	},
 	{
@@ -8092,13 +8078,6 @@
 		"z": 7
 	},
 	{
-		"description": "Key 3303",
-		"icon": "star",
-		"x": 32652,
-		"y": 32244,
-		"z": 7
-	},
-	{
 		"description": "Rorcs or drillworms and lost dwarves",
 		"icon": "red down",
 		"x": 32653,
@@ -8169,7 +8148,7 @@
 		"z": 7
 	},
 	{
-		"description": "Haunted Temple (gazer spectres)",
+		"description": "Haunted Temple (Gazer Spectres)",
 		"icon": "red right",
 		"x": 32670,
 		"y": 32652,
@@ -20468,24 +20447,10 @@
 		"z": 9
 	},
 	{
-		"description": "Spider web (ghostsilver lantern)",
-		"icon": "star",
-		"x": 32825,
-		"y": 31664,
-		"z": 9
-	},
-	{
 		"description": "Cracks on the floor (old letter and strand of hair)",
 		"icon": "down",
 		"x": 32825,
 		"y": 32775,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32827,
-		"y": 31665,
 		"z": 9
 	},
 	{
@@ -24948,13 +24913,6 @@
 		"z": 10
 	},
 	{
-		"description": "Towards ghostsilver lantern",
-		"icon": "up",
-		"x": 32827,
-		"y": 31665,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32850,
@@ -25004,13 +24962,6 @@
 		"z": 10
 	},
 	{
-		"description": "Old desk",
-		"icon": "star",
-		"x": 32860,
-		"y": 31644,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32875,
@@ -25022,13 +24973,6 @@
 		"icon": "up",
 		"x": 32879,
 		"y": 32181,
-		"z": 10
-	},
-	{
-		"description": "Heap of rubbish (painting of a girl)",
-		"icon": "star",
-		"x": 32883,
-		"y": 31686,
 		"z": 10
 	},
 	{
