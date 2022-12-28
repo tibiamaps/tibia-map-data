@@ -12593,6 +12593,13 @@
 		"z": 7
 	},
 	{
+		"description": "Mawhawk (exact spawn tile)",
+		"icon": "star",
+		"x": 33697,
+		"y": 32457,
+		"z": 7
+	},
+	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33699,
