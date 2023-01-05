@@ -6448,6 +6448,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32246,
+		"y": 31837,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32247,
 		"y": 31388,
@@ -6455,7 +6462,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32252,
 		"y": 31717,
 		"z": 7
@@ -6539,7 +6546,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32268,
 		"y": 31726,
 		"z": 7
@@ -6812,7 +6819,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32339,
 		"y": 31675,
 		"z": 7
@@ -7078,7 +7085,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32384,
 		"y": 31691,
 		"z": 7
@@ -7505,7 +7512,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32488,
 		"y": 31657,
 		"z": 7
@@ -7554,7 +7561,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32510,
 		"y": 31716,
 		"z": 7
@@ -7700,8 +7707,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "White deer (spawn location)",
+		"icon": "crossmark",
 		"x": 32566,
 		"y": 31728,
 		"z": 7
@@ -7764,7 +7771,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32581,
 		"y": 31721,
 		"z": 7
@@ -7812,8 +7819,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "NPC Benevola",
+		"icon": "mouth",
 		"x": 32597,
 		"y": 31746,
 		"z": 7
@@ -7967,7 +7974,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32625,
 		"y": 31799,
 		"z": 7
@@ -8016,7 +8023,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32632,
 		"y": 31812,
 		"z": 7
@@ -8093,7 +8100,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32654,
 		"y": 31829,
 		"z": 7
@@ -8303,7 +8310,7 @@
 	},
 	{
 		"description": "White deer (spawn location)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32693,
 		"y": 31890,
 		"z": 7
@@ -8593,6 +8600,13 @@
 		"icon": "down",
 		"x": 32782,
 		"y": 32087,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "down",
+		"x": 32783,
+		"y": 31605,
 		"z": 7
 	},
 	{
@@ -10815,17 +10829,17 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33302,
+		"y": 32371,
+		"z": 7
+	},
+	{
 		"description": "Rotworms / bog raiders",
 		"icon": "down",
 		"x": 33303,
 		"y": 31784,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 33303,
-		"y": 32371,
 		"z": 7
 	},
 	{
@@ -14303,6 +14317,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32242,
+		"y": 31850,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32243,
 		"y": 32894,
 		"z": 8
@@ -14312,6 +14333,13 @@
 		"icon": "down",
 		"x": 32244,
 		"y": 32370,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32246,
+		"y": 31837,
 		"z": 8
 	},
 	{
@@ -15057,7 +15085,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "To surface",
 		"icon": "up",
 		"x": 32603,
 		"y": 31704,
@@ -15621,6 +15649,13 @@
 		"icon": "up",
 		"x": 32781,
 		"y": 32329,
+		"z": 8
+	},
+	{
+		"description": "To Draconia",
+		"icon": "up",
+		"x": 32783,
+		"y": 31605,
 		"z": 8
 	},
 	{
@@ -19049,6 +19084,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32242,
+		"y": 31850,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32244,
 		"y": 32370,
 		"z": 9
@@ -19065,6 +19107,13 @@
 		"icon": "up",
 		"x": 32247,
 		"y": 31419,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32251,
+		"y": 31866,
 		"z": 9
 	},
 	{
@@ -19810,6 +19859,13 @@
 		"z": 9
 	},
 	{
+		"description": "To main gate",
+		"icon": "down",
+		"x": 32605,
+		"y": 31920,
+		"z": 9
+	},
+	{
 		"description": "Wagons",
 		"icon": "flag",
 		"x": 32606,
@@ -19870,6 +19926,13 @@
 		"icon": "down",
 		"x": 32612,
 		"y": 32812,
+		"z": 9
+	},
+	{
+		"description": "To depot",
+		"icon": "up",
+		"x": 32613,
+		"y": 31921,
 		"z": 9
 	},
 	{
@@ -20353,6 +20416,13 @@
 		"icon": "?",
 		"x": 32786,
 		"y": 31754,
+		"z": 9
+	},
+	{
+		"description": "To Draconia",
+		"icon": "up",
+		"x": 32787,
+		"y": 31615,
 		"z": 9
 	},
 	{
@@ -24193,6 +24263,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32563,
+		"y": 31950,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32564,
 		"y": 31992,
@@ -24283,6 +24360,13 @@
 		"z": 10
 	},
 	{
+		"description": "To depot",
+		"icon": "up",
+		"x": 32605,
+		"y": 31920,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32610,
@@ -24301,6 +24385,13 @@
 		"icon": "up",
 		"x": 32612,
 		"y": 32812,
+		"z": 10
+	},
+	{
+		"description": "To temple",
+		"icon": "down",
+		"x": 32613,
+		"y": 31925,
 		"z": 10
 	},
 	{
@@ -24769,7 +24860,7 @@
 		"description": "To Draconia",
 		"icon": "up",
 		"x": 32783,
-		"y": 31610,
+		"y": 31611,
 		"z": 10
 	},
 	{
@@ -28161,6 +28252,13 @@
 		"z": 11
 	},
 	{
+		"description": "To Draconia",
+		"icon": "up",
+		"x": 32821,
+		"y": 31562,
+		"z": 11
+	},
+	{
 		"description": "Knight",
 		"icon": "red down",
 		"x": 32826,
@@ -29431,7 +29529,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33502,
-		"y": 31282,
+		"y": 31283,
 		"z": 11
 	},
 	{
@@ -30529,6 +30627,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32544,
+		"y": 31908,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32550,
 		"y": 32186,
 		"z": 12
@@ -30780,9 +30885,16 @@
 	},
 	{
 		"description": "To Draconia",
+		"icon": "up",
+		"x": 32825,
+		"y": 31572,
+		"z": 12
+	},
+	{
+		"description": "To Draconia",
 		"icon": "down",
 		"x": 32826,
-		"y": 31666,
+		"y": 31667,
 		"z": 12
 	},
 	{
@@ -32551,6 +32663,27 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32537,
+		"y": 31896,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32544,
+		"y": 31870,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32544,
+		"y": 31908,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32556,
 		"y": 31901,
@@ -32655,6 +32788,13 @@
 		"z": 13
 	},
 	{
+		"description": "To exit",
+		"icon": "down",
+		"x": 32666,
+		"y": 31671,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32667,
@@ -32666,6 +32806,13 @@
 		"icon": "up",
 		"x": 32740,
 		"y": 31556,
+		"z": 13
+	},
+	{
+		"description": "This way to Draconia",
+		"icon": "red right",
+		"x": 32744,
+		"y": 31608,
 		"z": 13
 	},
 	{
@@ -32753,17 +32900,17 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "To Draconia",
+		"icon": "up",
 		"x": 32825,
-		"y": 31702,
+		"y": 31560,
 		"z": 13
 	},
 	{
 		"description": "To Draconia",
-		"icon": "up",
-		"x": 32826,
-		"y": 31560,
+		"icon": "down",
+		"x": 32825,
+		"y": 31702,
 		"z": 13
 	},
 	{
@@ -34517,6 +34664,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32544,
+		"y": 31870,
+		"z": 14
+	},
+	{
 		"description": "To Mintwallin",
 		"icon": "up",
 		"x": 32552,
@@ -34601,6 +34755,13 @@
 		"z": 14
 	},
 	{
+		"description": "To Draconia",
+		"icon": "up",
+		"x": 32666,
+		"y": 31671,
+		"z": 14
+	},
+	{
 		"description": "Teleport to The Thorn Knight waiting room",
 		"icon": "sword",
 		"x": 32676,
@@ -34617,8 +34778,15 @@
 	{
 		"description": "To Draconia",
 		"icon": "down",
+		"x": 32683,
+		"y": 31688,
+		"z": 14
+	},
+	{
+		"description": "To Draconia",
+		"icon": "down",
 		"x": 32708,
-		"y": 31702,
+		"y": 31703,
 		"z": 14
 	},
 	{
