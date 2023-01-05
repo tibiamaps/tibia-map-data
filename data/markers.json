@@ -10815,17 +10815,17 @@
 		"z": 7
 	},
 	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 33302,
-		"y": 32371,
-		"z": 7
-	},
-	{
 		"description": "Rotworms / bog raiders",
 		"icon": "down",
 		"x": 33303,
 		"y": 31784,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 33303,
+		"y": 32371,
 		"z": 7
 	},
 	{
@@ -29431,7 +29431,7 @@
 		"description": "",
 		"icon": "up",
 		"x": 33502,
-		"y": 31283,
+		"y": 31282,
 		"z": 11
 	},
 	{
