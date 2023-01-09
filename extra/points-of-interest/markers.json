@@ -79,6 +79,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32998,
+		"y": 31454,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33149,
 		"y": 32549,
 		"z": 1
@@ -200,6 +207,13 @@
 		"icon": "flag",
 		"x": 32972,
 		"y": 32412,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33005,
+		"y": 31463,
 		"z": 2
 	},
 	{
@@ -417,6 +431,27 @@
 		"icon": "flag",
 		"x": 32969,
 		"y": 32408,
+		"z": 3
+	},
+	{
+		"description": "requires Unnatural Selection mission 5",
+		"icon": "red down",
+		"x": 32982,
+		"y": 31439,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32990,
+		"y": 31464,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32999,
+		"y": 31469,
 		"z": 3
 	},
 	{
@@ -921,6 +956,20 @@
 		"icon": "flag",
 		"x": 32963,
 		"y": 31454,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32982,
+		"y": 31432,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33000,
+		"y": 31463,
 		"z": 4
 	},
 	{
@@ -1737,6 +1786,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32975,
+		"y": 31423,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32994,
 		"y": 32419,
@@ -1796,6 +1852,13 @@
 		"icon": "flag",
 		"x": 33049,
 		"y": 32440,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33055,
+		"y": 31288,
 		"z": 5
 	},
 	{
@@ -3111,6 +3174,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 32953,
+		"y": 31502,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32953,
 		"y": 32019,
 		"z": 6
 	},
@@ -3270,6 +3340,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33022,
+		"y": 31536,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33026,
 		"y": 32151,
@@ -3301,6 +3378,13 @@
 		"icon": "flag",
 		"x": 33030,
 		"y": 32111,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33032,
+		"y": 31517,
 		"z": 6
 	},
 	{
@@ -3371,6 +3455,13 @@
 		"icon": "flag",
 		"x": 33060,
 		"y": 32156,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33063,
+		"y": 31327,
 		"z": 6
 	},
 	{
@@ -10538,6 +10629,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 32856,
+		"y": 31548,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32856,
 		"y": 31864,
 		"z": 7
 	},
@@ -10553,13 +10651,6 @@
 		"icon": "flag",
 		"x": 32857,
 		"y": 31349,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "flag",
-		"x": 32857,
-		"y": 31549,
 		"z": 7
 	},
 	{
@@ -10623,6 +10714,13 @@
 		"icon": "flag",
 		"x": 32862,
 		"y": 32175,
+		"z": 7
+	},
+	{
+		"description": "remember to check from Zao side",
+		"icon": "!",
+		"x": 32863,
+		"y": 31549,
 		"z": 7
 	},
 	{
@@ -10987,6 +11085,13 @@
 		"icon": "flag",
 		"x": 32919,
 		"y": 31550,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32922,
+		"y": 31498,
 		"z": 7
 	},
 	{
@@ -12400,6 +12505,13 @@
 		"description": "",
 		"icon": "flag",
 		"x": 33077,
+		"y": 31342,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33077,
 		"y": 32186,
 		"z": 7
 	},
@@ -12884,6 +12996,13 @@
 		"icon": "red up",
 		"x": 33145,
 		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33145,
+		"y": 31479,
 		"z": 7
 	},
 	{
@@ -18706,6 +18825,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33001,
+		"y": 31307,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33005,
 		"y": 32125,
 		"z": 8
@@ -18888,8 +19014,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33096,
+		"y": 31333,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33097,
+		"y": 31324,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33097,
 		"y": 31684,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33098,
+		"y": 31330,
 		"z": 8
 	},
 	{
