@@ -10269,6 +10269,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dreadmaw (approximate spawn location)",
+		"icon": "star",
+		"x": 33178,
+		"y": 31236,
+		"z": 7
+	},
+	{
 		"description": "Training statues",
 		"icon": "sword",
 		"x": 33179,
@@ -10759,7 +10766,7 @@
 		"z": 7
 	},
 	{
-		"description": "Dreadmaw (spawn location)",
+		"description": "Dreadmaw (approximate spawn location)",
 		"icon": "star",
 		"x": 33286,
 		"y": 31159,
@@ -10805,13 +10812,6 @@
 		"icon": "down",
 		"x": 33293,
 		"y": 32314,
-		"z": 7
-	},
-	{
-		"description": "Dreadmaw (spawn location)",
-		"icon": "star",
-		"x": 33297,
-		"y": 31137,
 		"z": 7
 	},
 	{
