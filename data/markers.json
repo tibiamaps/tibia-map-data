@@ -37058,6 +37058,13 @@
 		"z": 15
 	},
 	{
+		"description": "The Handmaiden (approximate spawn location)",
+		"icon": "star",
+		"x": 32785,
+		"y": 32283,
+		"z": 15
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32786,
@@ -37072,7 +37079,7 @@
 		"z": 15
 	},
 	{
-		"description": "Countess Sorrow (spawn location)",
+		"description": "Countess Sorrow (approximate spawn location)",
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
@@ -37128,7 +37135,14 @@
 		"z": 15
 	},
 	{
-		"description": "Plasmother",
+		"description": "Dracola (approximate spawn location)",
+		"icon": "star",
+		"x": 32835,
+		"y": 32309,
+		"z": 15
+	},
+	{
+		"description": "The Plasmother (approximate spawn location)",
 		"icon": "star",
 		"x": 32836,
 		"y": 32332,
@@ -37181,6 +37195,13 @@
 		"icon": "star",
 		"x": 32898,
 		"y": 32859,
+		"z": 15
+	},
+	{
+		"description": "The Imperor (approximate spawn location)",
+		"icon": "star",
+		"x": 32906,
+		"y": 32217,
 		"z": 15
 	},
 	{
