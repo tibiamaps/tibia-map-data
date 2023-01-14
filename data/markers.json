@@ -10927,13 +10927,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33340,
-		"y": 31973,
-		"z": 7
-	},
-	{
 		"description": "Portal of orange energy (teleport to Halls of Hope)",
 		"icon": "crossmark",
 		"x": 33341,
@@ -11029,13 +11022,6 @@
 		"icon": "bag",
 		"x": 33364,
 		"y": 31335,
-		"z": 7
-	},
-	{
-		"description": "To NPC A Majestic Warwolf",
-		"icon": "down",
-		"x": 33364,
-		"y": 31975,
 		"z": 7
 	},
 	{
@@ -18088,6 +18074,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 33777,
+		"y": 32565,
+		"z": 8
+	},
+	{
 		"description": "Blank paper",
 		"icon": "star",
 		"x": 33781,
@@ -22533,6 +22526,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33791,
+		"y": 32557,
+		"z": 9
+	},
+	{
 		"description": "Mutagens task",
 		"icon": "?",
 		"x": 33793,
@@ -26740,6 +26740,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33782,
+		"y": 32557,
+		"z": 10
+	},
+	{
 		"description": "Blank paper",
 		"icon": "star",
 		"x": 33789,
@@ -29771,6 +29778,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33783,
+		"y": 32557,
+		"z": 11
+	},
+	{
 		"description": "Empty flask",
 		"icon": "star",
 		"x": 33798,
@@ -32022,6 +32036,13 @@
 		"icon": "star",
 		"x": 33776,
 		"y": 32502,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33783,
+		"y": 32557,
 		"z": 12
 	},
 	{
