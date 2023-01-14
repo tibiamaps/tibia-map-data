@@ -6517,6 +6517,13 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32264,
+		"y": 32164,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32265,
@@ -6528,13 +6535,6 @@
 		"icon": "up",
 		"x": 32266,
 		"y": 31360,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32266,
-		"y": 32163,
 		"z": 7
 	},
 	{
@@ -29096,6 +29096,13 @@
 		"icon": "up",
 		"x": 33233,
 		"y": 32702,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33241,
+		"y": 32281,
 		"z": 11
 	},
 	{
