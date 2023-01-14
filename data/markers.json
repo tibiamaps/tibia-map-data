@@ -31556,6 +31556,13 @@
 		"z": 12
 	},
 	{
+		"description": "This way",
+		"icon": "red right",
+		"x": 33372,
+		"y": 32306,
+		"z": 12
+	},
+	{
 		"description": "Dinky moss floret",
 		"icon": "star",
 		"x": 33383,
