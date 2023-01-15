@@ -429,6 +429,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32962,
+		"y": 31481,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32969,
 		"y": 32408,
 		"z": 3
@@ -956,6 +963,13 @@
 		"icon": "flag",
 		"x": 32963,
 		"y": 31454,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32969,
+		"y": 31467,
 		"z": 4
 	},
 	{
@@ -3243,6 +3257,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 32979,
+		"y": 31497,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 32988,
 		"y": 32420,
 		"z": 6
@@ -4897,13 +4918,6 @@
 		"icon": "flag",
 		"x": 32201,
 		"y": 32821,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 32201,
-		"y": 32948,
 		"z": 7
 	},
 	{
@@ -10892,10 +10906,24 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32886,
+		"y": 31525,
+		"z": 7
+	},
+	{
 		"description": "3 known points of interest",
 		"icon": "red down",
 		"x": 32886,
 		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32888,
+		"y": 31553,
 		"z": 7
 	},
 	{
@@ -10987,6 +11015,13 @@
 		"icon": "flag",
 		"x": 32903,
 		"y": 32775,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32904,
+		"y": 31520,
 		"z": 7
 	},
 	{
