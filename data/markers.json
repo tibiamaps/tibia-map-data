@@ -24738,14 +24738,14 @@
 		"z": 10
 	},
 	{
-		"description": "Lever to Lokathmor",
+		"description": "Lever to Lokathmor (equip death + earth protection)",
 		"icon": "checkmark",
 		"x": 32723,
 		"y": 32749,
 		"z": 10
 	},
 	{
-		"description": "Lever to Mazzinor",
+		"description": "Lever to Mazzinor (equip energy protection)",
 		"icon": "checkmark",
 		"x": 32723,
 		"y": 32773,
@@ -24780,7 +24780,7 @@
 		"z": 10
 	},
 	{
-		"description": "Gorzindel Lever",
+		"description": "Lever to Gorzindel (equip fire + life drain protection)",
 		"icon": "checkmark",
 		"x": 32748,
 		"y": 32748,
@@ -24794,7 +24794,7 @@
 		"z": 10
 	},
 	{
-		"description": "Ghoulosh Lever",
+		"description": "Lever to Ghulosh (equip drowning + fire protection)",
 		"icon": "checkmark",
 		"x": 32749,
 		"y": 32773,
@@ -26306,7 +26306,7 @@
 		"z": 10
 	},
 	{
-		"description": "Sandking lever room",
+		"description": "The Sandking lever room",
 		"icon": "sword",
 		"x": 33506,
 		"y": 32229,
@@ -30520,8 +30520,8 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport to Lokathmor lever room",
-		"icon": "flag",
+		"description": "Lokathmor",
+		"icon": "sword",
 		"x": 32464,
 		"y": 32654,
 		"z": 12
@@ -30793,8 +30793,8 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport to Gorzindel lever room",
-		"icon": "flag",
+		"description": "Gorzindel",
+		"icon": "sword",
 		"x": 32660,
 		"y": 32736,
 		"z": 12
@@ -32802,8 +32802,8 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to Mazzinor lever room",
-		"icon": "flag",
+		"description": "Mazzinor",
+		"icon": "sword",
 		"x": 32616,
 		"y": 32529,
 		"z": 13
@@ -32816,8 +32816,8 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to Ghulosh lever room",
-		"icon": "flag",
+		"description": "Ghulosh",
+		"icon": "sword",
 		"x": 32662,
 		"y": 32713,
 		"z": 13
@@ -36939,8 +36939,8 @@
 		"z": 15
 	},
 	{
-		"description": "Teleport to The Scourge of Oblivion lever room",
-		"icon": "flag",
+		"description": "The Scourge of Oblivion",
+		"icon": "sword",
 		"x": 32480,
 		"y": 32601,
 		"z": 15
@@ -37324,7 +37324,7 @@
 		"z": 15
 	},
 	{
-		"description": "Source of Corruption lever room",
+		"description": "The Source of Corruption lever room",
 		"icon": "sword",
 		"x": 33075,
 		"y": 31887,
@@ -37415,7 +37415,7 @@
 		"z": 15
 	},
 	{
-		"description": "Souldespoiler lever room",
+		"description": "The Souldespoiler lever room",
 		"icon": "sword",
 		"x": 33127,
 		"y": 31894,
@@ -37464,7 +37464,7 @@
 		"z": 15
 	},
 	{
-		"description": "Voidborn lever room",
+		"description": "The Unarmored Voidborn lever room",
 		"icon": "sword",
 		"x": 33164,
 		"y": 31861,
@@ -37485,8 +37485,8 @@
 		"z": 15
 	},
 	{
-		"description": "To Voidborn lever room",
-		"icon": "flag",
+		"description": "The Unarmored Voidborn lever room",
+		"icon": "sword",
 		"x": 33178,
 		"y": 31845,
 		"z": 15
