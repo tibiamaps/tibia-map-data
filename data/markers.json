@@ -30660,6 +30660,13 @@
 		"z": 12
 	},
 	{
+		"description": "Somewhat safe spot",
+		"icon": "flag",
+		"x": 32551,
+		"y": 32705,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32553,
@@ -32806,6 +32813,13 @@
 		"icon": "sword",
 		"x": 32616,
 		"y": 32529,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32639,
+		"y": 32683,
 		"z": 13
 	},
 	{
