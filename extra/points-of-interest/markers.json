@@ -4922,6 +4922,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 32201,
+		"y": 32948,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32201,
 		"y": 32948,
