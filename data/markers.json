@@ -31353,8 +31353,8 @@
 		"z": 12
 	},
 	{
-		"description": "To Voidborn pre-lever room",
-		"icon": "flag",
+		"description": "The Unarmored Voidborn",
+		"icon": "sword",
 		"x": 33167,
 		"y": 31930,
 		"z": 12
@@ -37387,7 +37387,7 @@
 		"z": 15
 	},
 	{
-		"description": "Essence of Malice pre-lever room",
+		"description": "The Essence of Malice",
 		"icon": "sword",
 		"x": 33095,
 		"y": 31946,
@@ -37408,7 +37408,7 @@
 		"z": 15
 	},
 	{
-		"description": "Souldespoiler pre-lever room",
+		"description": "The Souldespoiler",
 		"icon": "sword",
 		"x": 33109,
 		"y": 31887,
@@ -37422,7 +37422,7 @@
 		"z": 15
 	},
 	{
-		"description": "Leiden pre-lever room",
+		"description": "Leiden / Ravenous Hunger",
 		"icon": "sword",
 		"x": 33120,
 		"y": 31950,
@@ -37513,7 +37513,7 @@
 		"z": 15
 	},
 	{
-		"description": "The False God pre-lever room",
+		"description": "The False God",
 		"icon": "sword",
 		"x": 33181,
 		"y": 31894,
