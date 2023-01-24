@@ -5551,6 +5551,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dire penguin (spawn location)",
+		"icon": "star",
+		"x": 31986,
+		"y": 31181,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 31987,
