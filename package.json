@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"devDependencies": {
-		"imagemin-cli": "^6.0.0",
+		"imagemin-cli": "^7.0.0",
 		"jsesc": "^3.0.2",
 		"tibia-count-walkable-tiles": "*",
 		"tibia-maps": "^5.3.0"
