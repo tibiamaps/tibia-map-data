@@ -32851,6 +32851,13 @@
 		"z": 13
 	},
 	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red up",
+		"x": 32788,
+		"y": 32318,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32794,
@@ -34895,6 +34902,13 @@
 		"z": 14
 	},
 	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red up",
+		"x": 32799,
+		"y": 32320,
+		"z": 14
+	},
+	{
 		"description": "Lloyd (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32799,
@@ -34916,6 +34930,13 @@
 		"z": 14
 	},
 	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red down",
+		"x": 32806,
+		"y": 32318,
+		"z": 14
+	},
+	{
 		"description": "Quest",
 		"icon": "down",
 		"x": 32806,
@@ -34927,6 +34948,13 @@
 		"icon": "star",
 		"x": 32809,
 		"y": 31611,
+		"z": 14
+	},
+	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red down",
+		"x": 32812,
+		"y": 32326,
 		"z": 14
 	},
 	{
@@ -37065,6 +37093,13 @@
 		"z": 15
 	},
 	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red up",
+		"x": 32782,
+		"y": 32342,
+		"z": 15
+	},
+	{
 		"description": "The Handmaiden (approximate spawn location)",
 		"icon": "star",
 		"x": 32785,
@@ -37090,6 +37125,13 @@
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
+		"z": 15
+	},
+	{
+		"description": "Shortcut to Dragon Lords",
+		"icon": "red up",
+		"x": 32799,
+		"y": 32321,
 		"z": 15
 	},
 	{
