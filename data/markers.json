@@ -2541,6 +2541,13 @@
 		"z": 5
 	},
 	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32697,
+		"y": 31461,
+		"z": 5
+	},
+	{
 		"description": "Dirtbeard (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32745,
@@ -4183,6 +4190,13 @@
 		"icon": "down",
 		"x": 32741,
 		"y": 31492,
+		"z": 6
+	},
+	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32752,
+		"y": 31476,
 		"z": 6
 	},
 	{
@@ -8451,13 +8465,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32710,
-		"y": 31476,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32711,
 		"y": 31175,
 		"z": 7
@@ -8537,6 +8544,13 @@
 		"icon": "cross",
 		"x": 32732,
 		"y": 31634,
+		"z": 7
+	},
+	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32737,
+		"y": 31442,
 		"z": 7
 	},
 	{
@@ -25440,6 +25454,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33032,
+		"y": 32371,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33033,
 		"y": 32395,
 		"z": 10
@@ -25473,17 +25494,17 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33039,
-		"y": 32357,
-		"z": 10
-	},
-	{
 		"description": "To NPC Zarifan",
 		"icon": "down",
 		"x": 33043,
 		"y": 32486,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33044,
+		"y": 32364,
 		"z": 10
 	},
 	{
@@ -28737,8 +28758,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33032,
+		"y": 32371,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33037,
 		"y": 32159,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33044,
+		"y": 32364,
 		"z": 11
 	},
 	{
