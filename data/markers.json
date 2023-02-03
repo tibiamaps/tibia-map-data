@@ -126,6 +126,13 @@
 		"z": 1
 	},
 	{
+		"description": "Evil Mastermind (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32753,
+		"y": 31458,
+		"z": 1
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32944,
@@ -445,6 +452,13 @@
 		"icon": "flag",
 		"x": 32633,
 		"y": 31939,
+		"z": 2
+	},
+	{
+		"description": "Monstor (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32753,
+		"y": 31458,
 		"z": 2
 	},
 	{
@@ -858,6 +872,13 @@
 		"icon": "red left",
 		"x": 32636,
 		"y": 31907,
+		"z": 3
+	},
+	{
+		"description": "Boogey (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32750,
+		"y": 31456,
 		"z": 3
 	},
 	{
@@ -1516,6 +1537,13 @@
 		"icon": "down",
 		"x": 32618,
 		"y": 31927,
+		"z": 4
+	},
+	{
+		"description": "Mephiles (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32761,
+		"y": 31457,
 		"z": 4
 	},
 	{
@@ -2510,6 +2538,13 @@
 		"icon": "star",
 		"x": 32630,
 		"y": 31928,
+		"z": 5
+	},
+	{
+		"description": "Dirtbeard (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32745,
+		"y": 31458,
 		"z": 5
 	},
 	{
@@ -4155,6 +4190,13 @@
 		"icon": "down",
 		"x": 32755,
 		"y": 31469,
+		"z": 6
+	},
+	{
+		"description": "Doctor Perhaps (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32759,
+		"y": 31457,
 		"z": 6
 	},
 	{
