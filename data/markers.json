@@ -2338,13 +2338,6 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32250,
-		"y": 31392,
-		"z": 5
-	},
-	{
 		"description": "Bear hugging mission",
 		"icon": "star",
 		"x": 32253,
@@ -2356,13 +2349,6 @@
 		"icon": "up",
 		"x": 32261,
 		"y": 31371,
-		"z": 5
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32264,
-		"y": 31406,
 		"z": 5
 	},
 	{
