@@ -12614,6 +12614,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lacewing moth (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33682,
+		"y": 32216,
+		"z": 7
+	},
+	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33682,
@@ -12835,6 +12842,13 @@
 		"icon": "flag",
 		"x": 33713,
 		"y": 32602,
+		"z": 7
+	},
+	{
+		"description": "Lacewing moth (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33715,
+		"y": 32190,
 		"z": 7
 	},
 	{
