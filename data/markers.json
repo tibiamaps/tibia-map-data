@@ -12614,13 +12614,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lacewing moth (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33682,
-		"y": 32216,
-		"z": 7
-	},
-	{
 		"description": "Bad dream",
 		"icon": "flag",
 		"x": 33682,
@@ -12842,13 +12835,6 @@
 		"icon": "flag",
 		"x": 33713,
 		"y": 32602,
-		"z": 7
-	},
-	{
-		"description": "Lacewing moth (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33715,
-		"y": 32190,
 		"z": 7
 	},
 	{
@@ -13986,27 +13972,6 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32085,
-		"y": 32781,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32085,
-		"y": 32793,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32085,
-		"y": 32808,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32086,
@@ -14028,13 +13993,6 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32089,
-		"y": 32811,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32096,
@@ -14049,13 +14007,6 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32098,
-		"y": 32773,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32104,
@@ -14063,31 +14014,10 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32104,
-		"y": 32771,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32106,
 		"y": 32960,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32107,
-		"y": 32806,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32109,
-		"y": 32790,
 		"z": 8
 	},
 	{
@@ -14119,13 +14049,6 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32117,
-		"y": 32811,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32119,
@@ -14147,13 +14070,6 @@
 		"z": 8
 	},
 	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32124,
-		"y": 32779,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32125,
@@ -14165,27 +14081,6 @@
 		"icon": "up",
 		"x": 32126,
 		"y": 32934,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32128,
-		"y": 32811,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32132,
-		"y": 32792,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32135,
-		"y": 32792,
 		"z": 8
 	},
 	{
@@ -14235,13 +14130,6 @@
 		"icon": "star",
 		"x": 32146,
 		"y": 31430,
-		"z": 8
-	},
-	{
-		"description": "Gazer (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 32149,
-		"y": 32777,
 		"z": 8
 	},
 	{
