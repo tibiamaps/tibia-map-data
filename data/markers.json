@@ -16059,7 +16059,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32985,
 		"y": 32755,
 		"z": 8
@@ -16185,7 +16185,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33027,
 		"y": 32730,
 		"z": 8
@@ -20721,7 +20721,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32948,
 		"y": 32755,
 		"z": 9
@@ -20833,7 +20833,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32985,
 		"y": 32755,
 		"z": 9
@@ -25173,7 +25173,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32947,
 		"y": 32755,
 		"z": 10
@@ -25194,7 +25194,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32960,
 		"y": 32776,
 		"z": 10
@@ -28680,7 +28680,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32960,
 		"y": 32776,
 		"z": 11
@@ -28701,7 +28701,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32969,
 		"y": 32755,
 		"z": 11
@@ -31298,7 +31298,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32969,
 		"y": 32755,
 		"z": 12
