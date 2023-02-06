@@ -16072,7 +16072,7 @@
 		"z": 8
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #1",
 		"icon": "star",
 		"x": 32991,
 		"y": 32721,
@@ -20713,7 +20713,7 @@
 		"z": 9
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #2",
 		"icon": "star",
 		"x": 32940,
 		"y": 32777,
@@ -25263,7 +25263,7 @@
 		"z": 10
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #3",
 		"icon": "star",
 		"x": 32984,
 		"y": 32772,
@@ -28623,7 +28623,7 @@
 		"z": 11
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #4",
 		"icon": "star",
 		"x": 32937,
 		"y": 32752,
@@ -29309,7 +29309,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hellhound (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33240,
 		"y": 31632,
@@ -29323,7 +29323,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hellhound (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33241,
 		"y": 31638,
@@ -29351,14 +29351,14 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hellhound (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33249,
 		"y": 31632,
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Hellhound (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33249,
 		"y": 31640,
@@ -31318,7 +31318,7 @@
 		"z": 12
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #5",
 		"icon": "star",
 		"x": 32979,
 		"y": 32738,
