@@ -25949,6 +25949,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33216,
+		"y": 31626,
+		"z": 10
+	},
+	{
 		"description": "Possible spawn of The Abomination",
 		"icon": "star",
 		"x": 33217,
@@ -25995,6 +26002,13 @@
 		"icon": "down",
 		"x": 33225,
 		"y": 32049,
+		"z": 10
+	},
+	{
+		"description": "Hellhound cave",
+		"icon": "down",
+		"x": 33228,
+		"y": 31634,
 		"z": 10
 	},
 	{
@@ -29274,6 +29288,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33228,
+		"y": 31634,
+		"z": 11
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33231,
@@ -29289,9 +29310,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33240,
+		"y": 31632,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33240,
 		"y": 32009,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33241,
+		"y": 31638,
 		"z": 11
 	},
 	{
@@ -29313,6 +29348,20 @@
 		"icon": "up",
 		"x": 33244,
 		"y": 32049,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33249,
+		"y": 31632,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33249,
+		"y": 31640,
 		"z": 11
 	},
 	{
