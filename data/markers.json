@@ -19061,6 +19061,13 @@
 		"z": 9
 	},
 	{
+		"description": "Glitterscale (wait on this tile for respawn)",
+		"icon": "crossmark",
+		"x": 32229,
+		"y": 32132,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32232,
