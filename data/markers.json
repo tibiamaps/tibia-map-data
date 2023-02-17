@@ -5614,6 +5614,13 @@
 		"z": 7
 	},
 	{
+		"description": "Barbaria (approximate spawn location)",
+		"icon": "star",
+		"x": 32006,
+		"y": 31417,
+		"z": 7
+	},
+	{
 		"description": "Yeti (approximate spawn location)",
 		"icon": "star",
 		"x": 32006,
@@ -5632,13 +5639,6 @@
 		"icon": "down",
 		"x": 32019,
 		"y": 32678,
-		"z": 7
-	},
-	{
-		"description": "Barbaria (approximate spawn location)",
-		"icon": "star",
-		"x": 32020,
-		"y": 31412,
 		"z": 7
 	},
 	{
@@ -18424,6 +18424,13 @@
 		"z": 8
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 33980,
+		"y": 31760,
+		"z": 8
+	},
+	{
 		"description": "Crossed spears",
 		"icon": "crossmark",
 		"x": 34000,
@@ -23055,6 +23062,13 @@
 		"icon": "red left",
 		"x": 34071,
 		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 34074,
+		"y": 31824,
 		"z": 9
 	},
 	{
