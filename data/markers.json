@@ -7651,17 +7651,17 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32530,
+		"y": 32711,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32531,
 		"y": 31628,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32531,
-		"y": 32711,
 		"z": 7
 	},
 	{
