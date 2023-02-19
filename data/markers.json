@@ -29799,9 +29799,9 @@
 		"z": 11
 	},
 	{
-		"description": "Obujos",
+		"description": "",
 		"icon": "up",
-		"x": 33499,
+		"x": 33498,
 		"y": 31246,
 		"z": 11
 	},
@@ -34080,13 +34080,6 @@
 		"icon": "checkmark",
 		"x": 33423,
 		"y": 31497,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33424,
-		"y": 31529,
 		"z": 13
 	},
 	{
