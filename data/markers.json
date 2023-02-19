@@ -6629,13 +6629,6 @@
 		"z": 7
 	},
 	{
-		"description": "Druid spells",
-		"icon": "star",
-		"x": 32269,
-		"y": 32842,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32285,
@@ -8862,13 +8855,6 @@
 		"z": 7
 	},
 	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32832,
-		"y": 32084,
-		"z": 7
-	},
-	{
 		"description": "To the Magician Quarter",
 		"icon": "up",
 		"x": 32833,
@@ -8887,6 +8873,13 @@
 		"icon": "up",
 		"x": 32833,
 		"y": 31261,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32834,
+		"y": 32081,
 		"z": 7
 	},
 	{
