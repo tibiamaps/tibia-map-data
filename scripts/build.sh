@@ -67,11 +67,11 @@ echo 'Saving the total number of walkable tiles as `walkable-tiles.json`…';
 tibia-count-walkable-tiles ../data/floor-*-path.png > walkable-tiles.json;
 
 # Create optimized versions of each map tile, intended for online map viewer
-# usage. Only the map data is needed; the pathfinding data and marker data can
+# usage. Only the map and pathfinding data is needed; the marker data can
 # be removed.
 echo 'Generating optimized images for the online mapper…';
 mkdir -p mapper;
-imagemin minimap-without-markers/Minimap_Color_*.png --out-dir=mapper;
+imagemin minimap-without-markers/Minimap_*.png --out-dir=mapper;
 
 # Generate a list of known tile IDs, for online map viewers to use as a
 # whitelist.
