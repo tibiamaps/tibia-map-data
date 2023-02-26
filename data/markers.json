@@ -28392,13 +28392,6 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32806,
-		"y": 32636,
-		"z": 11
-	},
-	{
 		"description": "Lever",
 		"icon": "checkmark",
 		"x": 32808,
@@ -29834,7 +29827,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Obujos",
 		"icon": "up",
 		"x": 33498,
 		"y": 31246,
