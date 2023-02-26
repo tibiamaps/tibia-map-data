@@ -24017,6 +24017,13 @@
 		"z": 10
 	},
 	{
+		"description": "To rope spot",
+		"icon": "red down",
+		"x": 32468,
+		"y": 31631,
+		"z": 10
+	},
+	{
 		"description": "To monks",
 		"icon": "crossmark",
 		"x": 32468,
@@ -26027,6 +26034,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33229,
+		"y": 32534,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33231,
 		"y": 32107,
@@ -27594,6 +27608,13 @@
 		"z": 11
 	},
 	{
+		"description": "Rope spot",
+		"icon": "flag",
+		"x": 32405,
+		"y": 31570,
+		"z": 11
+	},
+	{
 		"description": "5. To surface",
 		"icon": "down",
 		"x": 32408,
@@ -27829,6 +27850,13 @@
 		"icon": "bag",
 		"x": 32446,
 		"y": 31972,
+		"z": 11
+	},
+	{
+		"description": "To rope spot",
+		"icon": "red up",
+		"x": 32447,
+		"y": 31621,
 		"z": 11
 	},
 	{
@@ -29309,6 +29337,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33229,
+		"y": 32534,
+		"z": 11
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33231,
@@ -30653,6 +30688,13 @@
 		"z": 12
 	},
 	{
+		"description": "Rope spot",
+		"icon": "flag",
+		"x": 32404,
+		"y": 31570,
+		"z": 12
+	},
+	{
 		"description": "Teleport to start of cave",
 		"icon": "flag",
 		"x": 32408,
@@ -30678,6 +30720,13 @@
 		"icon": "red right",
 		"x": 32411,
 		"y": 31610,
+		"z": 12
+	},
+	{
+		"description": "To rope spot",
+		"icon": "red left",
+		"x": 32412,
+		"y": 31576,
 		"z": 12
 	},
 	{
@@ -30783,6 +30832,13 @@
 		"icon": "up",
 		"x": 32438,
 		"y": 32464,
+		"z": 12
+	},
+	{
+		"description": "To rope spot",
+		"icon": "red up",
+		"x": 32442,
+		"y": 31575,
 		"z": 12
 	},
 	{
