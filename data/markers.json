@@ -32179,13 +32179,6 @@
 		"z": 12
 	},
 	{
-		"description": "Dinky moss floret",
-		"icon": "star",
-		"x": 33621,
-		"y": 32019,
-		"z": 12
-	},
-	{
 		"description": "NPC Wesley",
 		"icon": "mouth",
 		"x": 33623,
@@ -32193,17 +32186,10 @@
 		"z": 12
 	},
 	{
-		"description": "Dinky moss floret",
-		"icon": "star",
-		"x": 33623,
-		"y": 32019,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33626,
-		"y": 32020,
+		"y": 32021,
 		"z": 12
 	},
 	{
@@ -32284,8 +32270,8 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Dinky moss floret",
+		"icon": "star",
 		"x": 33674,
 		"y": 32032,
 		"z": 12
