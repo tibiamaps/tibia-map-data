@@ -735,14 +735,14 @@
 		"z": 3
 	},
 	{
-		"description": "Northern safe trade room",
+		"description": "Northern Safe Trade Room",
 		"icon": "lock",
 		"x": 32057,
 		"y": 31883,
 		"z": 3
 	},
 	{
-		"description": "Southern safe trade room",
+		"description": "Southern Safe Trade Room",
 		"icon": "lock",
 		"x": 32057,
 		"y": 31897,
@@ -756,7 +756,7 @@
 		"z": 3
 	},
 	{
-		"description": "To the shops, temple, bank, and vocation gates",
+		"description": "To the Shops, Temple, Bank and Vocation Gates",
 		"icon": "down",
 		"x": 32065,
 		"y": 31890,
@@ -1281,14 +1281,14 @@
 		"z": 4
 	},
 	{
-		"description": "Adventurer’s bank",
+		"description": "Adventurer's Bank",
 		"icon": "$",
 		"x": 32055,
 		"y": 31899,
 		"z": 4
 	},
 	{
-		"description": "Druid and sorcerer spells",
+		"description": "Druid and Sorcerer Spells",
 		"icon": "star",
 		"x": 32057,
 		"y": 31882,
@@ -1309,7 +1309,7 @@
 		"z": 4
 	},
 	{
-		"description": "To the safe trade rooms",
+		"description": "To the Safe Trade Rooms",
 		"icon": "up",
 		"x": 32065,
 		"y": 31890,
@@ -1330,14 +1330,14 @@
 		"z": 4
 	},
 	{
-		"description": "Knight and paladin spells",
+		"description": "Knight and Paladin Spells",
 		"icon": "star",
 		"x": 32072,
 		"y": 31882,
 		"z": 4
 	},
 	{
-		"description": "Mr Morris’ room",
+		"description": "Mr Morris' Room",
 		"icon": "!",
 		"x": 32072,
 		"y": 31899,
@@ -1351,7 +1351,7 @@
 		"z": 4
 	},
 	{
-		"description": "To the shops, temple, and vocation gates",
+		"description": "To the Shops, Temple and Vocation Gates",
 		"icon": "down",
 		"x": 32073,
 		"y": 31895,
@@ -2142,21 +2142,21 @@
 		"z": 5
 	},
 	{
-		"description": "Sorcerer’s gate",
+		"description": "Sorcerer's Gate",
 		"icon": "red left",
 		"x": 32055,
 		"y": 31890,
 		"z": 5
 	},
 	{
-		"description": "Food and equipment",
+		"description": "Food and Equipment",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31881,
 		"z": 5
 	},
 	{
-		"description": "Potions and magic store",
+		"description": "Potions and Magic Store",
 		"icon": "bag",
 		"x": 32057,
 		"y": 31900,
@@ -2170,21 +2170,21 @@
 		"z": 5
 	},
 	{
-		"description": "Knight’s gate",
+		"description": "Knight's Gate",
 		"icon": "red up",
 		"x": 32064,
 		"y": 31880,
 		"z": 5
 	},
 	{
-		"description": "Druid’s gate",
+		"description": "Druid's Gate",
 		"icon": "red down",
 		"x": 32064,
 		"y": 31901,
 		"z": 5
 	},
 	{
-		"description": "To the temple and vocation doors",
+		"description": "To the Temple and Vocation Doors",
 		"icon": "cross",
 		"x": 32065,
 		"y": 31888,
@@ -2205,28 +2205,28 @@
 		"z": 5
 	},
 	{
-		"description": "Weapons and armor",
+		"description": "Weapons and Armor",
 		"icon": "bag",
 		"x": 32071,
 		"y": 31881,
 		"z": 5
 	},
 	{
-		"description": "General information and creature products",
+		"description": "General Information and Creature Products",
 		"icon": "!",
 		"x": 32071,
 		"y": 31900,
 		"z": 5
 	},
 	{
-		"description": "To the bank, spell trainers, safe trade rooms, and Mr Morris",
+		"description": "To the Bank and SpellsTrainers, Safe Trade Rooms and Mr Morris",
 		"icon": "up",
 		"x": 32074,
 		"y": 31895,
 		"z": 5
 	},
 	{
-		"description": "Paladin’s gate",
+		"description": "Paladin's Gate",
 		"icon": "red right",
 		"x": 32075,
 		"y": 31891,
@@ -3528,28 +3528,28 @@
 		"z": 6
 	},
 	{
-		"description": "Sorcerer vocation door",
+		"description": "Sorcerer Vocation Door",
 		"icon": "star",
 		"x": 32055,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Paladin vocation door",
+		"description": "Paladin Vocation Door",
 		"icon": "star",
 		"x": 32059,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Alternate bank",
+		"description": "Alternate Bank",
 		"icon": "$",
 		"x": 32064,
 		"y": 31881,
 		"z": 6
 	},
 	{
-		"description": "Dawnport temple",
+		"description": "Dawnport Temple",
 		"icon": "cross",
 		"x": 32064,
 		"y": 31892,
@@ -3563,14 +3563,14 @@
 		"z": 6
 	},
 	{
-		"description": "Knight vocation door",
+		"description": "Knight Vocation Door",
 		"icon": "star",
 		"x": 32069,
 		"y": 31886,
 		"z": 6
 	},
 	{
-		"description": "Druid vocation door",
+		"description": "Druid Vocation Door",
 		"icon": "star",
 		"x": 32073,
 		"y": 31886,
@@ -18872,6 +18872,13 @@
 		"z": 9
 	},
 	{
+		"description": "Munster (spawn location)",
+		"icon": "star",
+		"x": 32110,
+		"y": 32213,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32111,
@@ -23156,6 +23163,13 @@
 		"z": 10
 	},
 	{
+		"description": "Teleskor (spawn location)",
+		"icon": "star",
+		"x": 31977,
+		"y": 32246,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 31977,
@@ -27272,6 +27286,13 @@
 		"z": 11
 	},
 	{
+		"description": "Rottie the Rotworm (spawn location)",
+		"icon": "star",
+		"x": 32173,
+		"y": 32146,
+		"z": 11
+	},
+	{
 		"description": "Wall change Svargrond",
 		"icon": "!",
 		"x": 32177,
@@ -30450,6 +30471,13 @@
 		"z": 12
 	},
 	{
+		"description": "Apprentice Sheng (spawn location)",
+		"icon": "star",
+		"x": 32127,
+		"y": 32061,
+		"z": 12
+	},
+	{
 		"description": "Glowing vortex (Darama entrance/exit)",
 		"icon": "star",
 		"x": 32129,
@@ -32492,6 +32520,13 @@
 		"x": 33970,
 		"y": 31222,
 		"z": 12
+	},
+	{
+		"description": "Rottie the Rotworm (spawn location)",
+		"icon": "star",
+		"x": 31975,
+		"y": 32065,
+		"z": 13
 	},
 	{
 		"description": "",
