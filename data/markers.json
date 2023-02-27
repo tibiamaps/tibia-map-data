@@ -17466,14 +17466,14 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33484,
 		"y": 32076,
 		"z": 8
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33484,
 		"y": 32083,
 		"z": 8
@@ -17501,14 +17501,14 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33490,
 		"y": 32076,
 		"z": 8
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33490,
 		"y": 32083,
 		"z": 8
@@ -22509,6 +22509,13 @@
 		"icon": "up",
 		"x": 33667,
 		"y": 32738,
+		"z": 9
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33680,
+		"y": 31941,
 		"z": 9
 	},
 	{
