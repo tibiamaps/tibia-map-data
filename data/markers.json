@@ -6587,13 +6587,6 @@
 		"z": 7
 	},
 	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32261,
-		"y": 31848,
-		"z": 7
-	},
-	{
 		"description": "To Fibula",
 		"icon": "down",
 		"x": 32261,
@@ -6605,6 +6598,13 @@
 		"icon": "lock",
 		"x": 32263,
 		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32263,
+		"y": 31847,
 		"z": 7
 	},
 	{
