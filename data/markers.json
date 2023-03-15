@@ -6398,8 +6398,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32212,
 		"y": 32056,
 		"z": 7
@@ -6412,8 +6412,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32214,
 		"y": 32077,
 		"z": 7
@@ -6440,8 +6440,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32223,
 		"y": 32098,
 		"z": 7
@@ -6454,8 +6454,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32224,
 		"y": 32038,
 		"z": 7
@@ -6468,8 +6468,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32229,
 		"y": 32077,
 		"z": 7
@@ -6489,8 +6489,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32234,
 		"y": 32056,
 		"z": 7
@@ -6577,13 +6577,6 @@
 		"icon": "flag",
 		"x": 32256,
 		"y": 32244,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32260,
-		"y": 32102,
 		"z": 7
 	},
 	{
