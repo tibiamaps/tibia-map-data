@@ -38549,7 +38549,7 @@
 		"z": 15
 	},
 	{
-		"description": "Sparkling Pools",
+		"description": "Sparkling Pools (equip energy + fire protection)",
 		"icon": "up",
 		"x": 33564,
 		"y": 32860,
@@ -38598,7 +38598,7 @@
 		"z": 15
 	},
 	{
-		"description": "Monster Graveyard",
+		"description": "Monster Graveyard (equip earth + death + fire protection)",
 		"icon": "up",
 		"x": 33594,
 		"y": 32909,
@@ -38773,7 +38773,7 @@
 		"z": 15
 	},
 	{
-		"description": "Sparkling Pools",
+		"description": "Crystal Enigma (equip earth + energy protection)",
 		"icon": "up",
 		"x": 33666,
 		"y": 32977,
