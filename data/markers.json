@@ -24844,16 +24844,16 @@
 	},
 	{
 		"description": "Lever to Lokathmor (equip death + earth protection)",
-		"icon": "checkmark",
-		"x": 32723,
-		"y": 32749,
+		"icon": "?",
+		"x": 32722,
+		"y": 32748,
 		"z": 10
 	},
 	{
 		"description": "Lever to Mazzinor (equip energy protection)",
-		"icon": "checkmark",
-		"x": 32723,
-		"y": 32773,
+		"icon": "?",
+		"x": 32722,
+		"y": 32772,
 		"z": 10
 	},
 	{
@@ -24886,9 +24886,16 @@
 	},
 	{
 		"description": "Lever to Gorzindel (equip fire + life drain protection)",
-		"icon": "checkmark",
+		"icon": "?",
 		"x": 32748,
 		"y": 32748,
+		"z": 10
+	},
+	{
+		"description": "Lever to Ghulosh (equip drowning + death protection)",
+		"icon": "?",
+		"x": 32748,
+		"y": 32772,
 		"z": 10
 	},
 	{
@@ -24896,13 +24903,6 @@
 		"icon": "up",
 		"x": 32749,
 		"y": 32619,
-		"z": 10
-	},
-	{
-		"description": "Lever to Ghulosh (equip drowning + death protection)",
-		"icon": "checkmark",
-		"x": 32749,
-		"y": 32773,
 		"z": 10
 	},
 	{
