@@ -37738,7 +37738,7 @@
 	},
 	{
 		"description": "The Source of Corruption lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33075,
 		"y": 31887,
 		"z": 15
@@ -37786,29 +37786,29 @@
 		"z": 15
 	},
 	{
-		"description": "The Essence of Malice",
-		"icon": "sword",
+		"description": "The Essence of Malice lever room",
+		"icon": "?",
 		"x": 33095,
 		"y": 31946,
 		"z": 15
 	},
 	{
 		"description": "Sandking boss room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33098,
 		"y": 31860,
 		"z": 15
 	},
 	{
 		"description": "Essence of Malice room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33099,
 		"y": 31921,
 		"z": 15
 	},
 	{
 		"description": "The Souldespoiler",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33109,
 		"y": 31887,
 		"z": 15
@@ -37822,63 +37822,63 @@
 	},
 	{
 		"description": "Leiden / Ravenous Hunger",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33120,
 		"y": 31950,
 		"z": 15
 	},
 	{
 		"description": "The Souldespoiler lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33127,
 		"y": 31894,
 		"z": 15
 	},
 	{
 		"description": "The Souldespoiler room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33129,
 		"y": 31925,
 		"z": 15
 	},
 	{
-		"description": "Voidborn room",
-		"icon": "sword",
+		"description": "The Unarmored Voidborn room",
+		"icon": "?",
 		"x": 33136,
 		"y": 31860,
 		"z": 15
 	},
 	{
 		"description": "Leiden lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33137,
 		"y": 31954,
 		"z": 15
 	},
 	{
 		"description": "Leiden room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33162,
 		"y": 31954,
 		"z": 15
 	},
 	{
 		"description": "The False God lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33163,
 		"y": 31896,
 		"z": 15
 	},
 	{
 		"description": "The False God room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33163,
 		"y": 31916,
 		"z": 15
 	},
 	{
 		"description": "The Unarmored Voidborn lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33164,
 		"y": 31861,
 		"z": 15
@@ -37898,7 +37898,7 @@
 		"z": 15
 	},
 	{
-		"description": "The Unarmored Voidborn lever room",
+		"description": "The Unarmored Voidborn",
 		"icon": "sword",
 		"x": 33178,
 		"y": 31845,
@@ -37913,7 +37913,7 @@
 	},
 	{
 		"description": "The False God",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33181,
 		"y": 31894,
 		"z": 15
@@ -38011,7 +38011,7 @@
 	},
 	{
 		"description": "Teleport to The Duke of the Depths",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33275,
 		"y": 32316,
 		"z": 15
@@ -38291,7 +38291,7 @@
 	},
 	{
 		"description": "Teleport to The Baron from Below",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33460,
 		"y": 32267,
 		"z": 15
@@ -38724,8 +38724,8 @@
 		"z": 15
 	},
 	{
-		"description": "Warzone 4 - The Baron From Below",
-		"icon": "checkmark",
+		"description": "Warzone 4 - The Baron from Below",
+		"icon": "?",
 		"x": 33649,
 		"y": 32303,
 		"z": 15
@@ -38816,7 +38816,7 @@
 	},
 	{
 		"description": "Warzone 5 - The Count of the Core",
-		"icon": "checkmark",
+		"icon": "?",
 		"x": 33680,
 		"y": 32335,
 		"z": 15
@@ -38851,7 +38851,7 @@
 	},
 	{
 		"description": "Warzone 6 - The Duke of the Depths",
-		"icon": "checkmark",
+		"icon": "?",
 		"x": 33714,
 		"y": 32304,
 		"z": 15
@@ -38964,20 +38964,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33815,
-		"y": 32515,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33832,
-		"y": 32517,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33838,
 		"y": 32178,
 		"z": 15
@@ -38998,23 +38984,9 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33840,
-		"y": 32517,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33857,
 		"y": 32174,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33864,
-		"y": 32517,
 		"z": 15
 	},
 	{
