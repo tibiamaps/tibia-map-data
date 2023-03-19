@@ -28287,6 +28287,13 @@
 		"z": 11
 	},
 	{
+		"description": "The Scourge of Oblivion lever room",
+		"icon": "?",
+		"x": 32675,
+		"y": 32741,
+		"z": 11
+	},
+	{
 		"description": "Troll champion (fire bomb spot + 1 west)",
 		"icon": "!",
 		"x": 32683,
@@ -30891,6 +30898,13 @@
 		"z": 12
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32460,
+		"y": 32588,
+		"z": 12
+	},
+	{
 		"description": "Lokathmor",
 		"icon": "sword",
 		"x": 32464,
@@ -33002,6 +33016,13 @@
 		"icon": "down",
 		"x": 32442,
 		"y": 32780,
+		"z": 13
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32461,
+		"y": 32588,
 		"z": 13
 	},
 	{
@@ -35784,6 +35805,13 @@
 		"z": 14
 	},
 	{
+		"description": "Ascending Ferumbras lever room (equip drowning + fire + death protection)",
+		"icon": "?",
+		"x": 33268,
+		"y": 31478,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33274,
@@ -37335,6 +37363,13 @@
 		"icon": "up",
 		"x": 32430,
 		"y": 32009,
+		"z": 15
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32472,
+		"y": 32590,
 		"z": 15
 	},
 	{
