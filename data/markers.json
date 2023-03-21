@@ -8246,6 +8246,13 @@
 		"z": 7
 	},
 	{
+		"description": "Diseased Bill (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32668,
+		"y": 31123,
+		"z": 7
+	},
+	{
 		"description": "Haunted Temple (Gazer Spectres)",
 		"icon": "red right",
 		"x": 32670,
@@ -8460,6 +8467,13 @@
 		"icon": "down",
 		"x": 32702,
 		"y": 31184,
+		"z": 7
+	},
+	{
+		"description": "Diseased Fred (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32705,
+		"y": 31124,
 		"z": 7
 	},
 	{
@@ -36351,6 +36365,13 @@
 		"z": 14
 	},
 	{
+		"description": "The Primal Menace lever room",
+		"icon": "?",
+		"x": 33548,
+		"y": 32750,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33551,
@@ -38633,7 +38654,7 @@
 		"z": 15
 	},
 	{
-		"description": "Monster Graveyard (equip earth + death + fire protection)",
+		"description": "Crystal Enigma (equip earth + energy protection)",
 		"icon": "up",
 		"x": 33594,
 		"y": 32909,
@@ -38714,6 +38735,13 @@
 		"icon": "checkmark",
 		"x": 33629,
 		"y": 32043,
+		"z": 15
+	},
+	{
+		"description": "Monster Graveyard (equip earth + death + fire protection)",
+		"icon": "up",
+		"x": 33632,
+		"y": 32844,
 		"z": 15
 	},
 	{
