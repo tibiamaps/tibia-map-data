@@ -126,6 +126,13 @@
 		"z": 1
 	},
 	{
+		"description": "Evil Mastermind (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32753,
+		"y": 31458,
+		"z": 1
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32944,
@@ -445,6 +452,13 @@
 		"icon": "flag",
 		"x": 32633,
 		"y": 31939,
+		"z": 2
+	},
+	{
+		"description": "Monstor (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32753,
+		"y": 31458,
 		"z": 2
 	},
 	{
@@ -858,6 +872,13 @@
 		"icon": "red left",
 		"x": 32636,
 		"y": 31907,
+		"z": 3
+	},
+	{
+		"description": "Boogey (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32750,
+		"y": 31456,
 		"z": 3
 	},
 	{
@@ -1449,6 +1470,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32418,
+		"y": 32770,
+		"z": 4
+	},
+	{
 		"description": "NPC Jehan the Baker (day)",
 		"icon": "mouth",
 		"x": 32421,
@@ -1509,6 +1537,13 @@
 		"icon": "down",
 		"x": 32618,
 		"y": 31927,
+		"z": 4
+	},
+	{
+		"description": "Mephiles (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32761,
+		"y": 31457,
 		"z": 4
 	},
 	{
@@ -1677,6 +1712,20 @@
 		"icon": "red right",
 		"x": 33079,
 		"y": 32704,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33080,
+		"y": 31197,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33083,
+		"y": 31187,
 		"z": 4
 	},
 	{
@@ -2303,13 +2352,6 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32250,
-		"y": 31392,
-		"z": 5
-	},
-	{
 		"description": "Bear hugging mission",
 		"icon": "star",
 		"x": 32253,
@@ -2321,13 +2363,6 @@
 		"icon": "up",
 		"x": 32261,
 		"y": 31371,
-		"z": 5
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32264,
-		"y": 31406,
 		"z": 5
 	},
 	{
@@ -2384,6 +2419,13 @@
 		"icon": "red up",
 		"x": 32410,
 		"y": 32795,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32418,
+		"y": 32770,
 		"z": 5
 	},
 	{
@@ -2496,6 +2538,20 @@
 		"icon": "star",
 		"x": 32630,
 		"y": 31928,
+		"z": 5
+	},
+	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32697,
+		"y": 31461,
+		"z": 5
+	},
+	{
+		"description": "Dirtbeard (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32745,
+		"y": 31458,
 		"z": 5
 	},
 	{
@@ -2681,10 +2737,24 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33081,
+		"y": 31202,
+		"z": 5
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 33081,
 		"y": 32704,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33083,
+		"y": 31187,
 		"z": 5
 	},
 	{
@@ -4137,10 +4207,24 @@
 		"z": 6
 	},
 	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32752,
+		"y": 31476,
+		"z": 6
+	},
+	{
 		"description": "Use lever to go down",
 		"icon": "down",
 		"x": 32755,
 		"y": 31469,
+		"z": 6
+	},
+	{
+		"description": "Doctor Perhaps (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32759,
+		"y": 31457,
 		"z": 6
 	},
 	{
@@ -4446,6 +4530,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33037,
+		"y": 31176,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "$",
 		"x": 33037,
 		"y": 32651,
@@ -4572,6 +4663,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33081,
+		"y": 31202,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33081,
 		"y": 31533,
@@ -4582,6 +4680,13 @@
 		"icon": "red left",
 		"x": 33082,
 		"y": 32704,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33084,
+		"y": 31174,
 		"z": 6
 	},
 	{
@@ -5341,34 +5446,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33742,
-		"y": 31035,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33756,
-		"y": 31042,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33774,
-		"y": 31036,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33783,
-		"y": 31041,
-		"z": 6
-	},
-	{
 		"description": "NPC Captain Jack Rat (hi / sail / safe / yes)",
 		"icon": "mouth",
 		"x": 33791,
@@ -5380,13 +5457,6 @@
 		"icon": "mouth",
 		"x": 33797,
 		"y": 32857,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33800,
-		"y": 31012,
 		"z": 6
 	},
 	{
@@ -5404,13 +5474,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33817,
-		"y": 31021,
-		"z": 6
-	},
-	{
 		"description": "Brightly burning flames",
 		"icon": "checkmark",
 		"x": 33822,
@@ -5422,13 +5485,6 @@
 		"icon": "up",
 		"x": 33827,
 		"y": 31658,
-		"z": 6
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33835,
-		"y": 31011,
 		"z": 6
 	},
 	{
@@ -5551,6 +5607,13 @@
 		"z": 7
 	},
 	{
+		"description": "Dire penguin (spawn location)",
+		"icon": "star",
+		"x": 31986,
+		"y": 31181,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 31987,
@@ -5593,6 +5656,13 @@
 		"z": 7
 	},
 	{
+		"description": "Barbaria (approximate spawn location)",
+		"icon": "star",
+		"x": 32006,
+		"y": 31417,
+		"z": 7
+	},
+	{
 		"description": "Yeti (approximate spawn location)",
 		"icon": "star",
 		"x": 32006,
@@ -5611,13 +5681,6 @@
 		"icon": "down",
 		"x": 32019,
 		"y": 32678,
-		"z": 7
-	},
-	{
-		"description": "Barbaria (approximate spawn location)",
-		"icon": "star",
-		"x": 32020,
-		"y": 31412,
 		"z": 7
 	},
 	{
@@ -5877,6 +5940,13 @@
 		"icon": "down",
 		"x": 32088,
 		"y": 31018,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32090,
+		"y": 31247,
 		"z": 7
 	},
 	{
@@ -6286,6 +6356,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32197,
+		"y": 32376,
+		"z": 7
+	},
+	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32201,
@@ -6321,8 +6398,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32212,
 		"y": 32056,
 		"z": 7
@@ -6335,8 +6412,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32214,
 		"y": 32077,
 		"z": 7
@@ -6363,8 +6440,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32223,
 		"y": 32098,
 		"z": 7
@@ -6377,8 +6454,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32224,
 		"y": 32038,
 		"z": 7
@@ -6391,8 +6468,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32229,
 		"y": 32077,
 		"z": 7
@@ -6412,8 +6489,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Insectoid scout (approximate spawn location)",
+		"icon": "star",
 		"x": 32234,
 		"y": 32056,
 		"z": 7
@@ -6430,6 +6507,13 @@
 		"icon": "red down",
 		"x": 32240,
 		"y": 31407,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32241,
+		"y": 32292,
 		"z": 7
 	},
 	{
@@ -6468,6 +6552,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32255,
+		"y": 32725,
+		"z": 7
+	},
+	{
 		"description": "NPC Buddel",
 		"icon": "flag",
 		"x": 32256,
@@ -6482,24 +6573,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Teleport to Thais depot",
 		"icon": "flag",
 		"x": 32256,
 		"y": 32244,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32260,
-		"y": 32102,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32261,
-		"y": 31848,
 		"z": 7
 	},
 	{
@@ -6514,6 +6591,13 @@
 		"icon": "lock",
 		"x": 32263,
 		"y": 31140,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32263,
+		"y": 31847,
 		"z": 7
 	},
 	{
@@ -6573,10 +6657,10 @@
 		"z": 7
 	},
 	{
-		"description": "Druid spells",
+		"description": "Ominous cauldron (Orcsoberfest)",
 		"icon": "star",
 		"x": 32269,
-		"y": 32842,
+		"y": 31659,
 		"z": 7
 	},
 	{
@@ -6769,17 +6853,17 @@
 		"z": 7
 	},
 	{
-		"description": "Percht Island",
-		"icon": "flag",
-		"x": 32328,
-		"y": 31106,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 32328,
 		"y": 32529,
+		"z": 7
+	},
+	{
+		"description": "Halls of Hope",
+		"icon": "flag",
+		"x": 32332,
+		"y": 32090,
 		"z": 7
 	},
 	{
@@ -6808,13 +6892,6 @@
 		"icon": "$",
 		"x": 32337,
 		"y": 32838,
-		"z": 7
-	},
-	{
-		"description": "Paint picture (Halls of Hope)",
-		"icon": "!",
-		"x": 32338,
-		"y": 32091,
 		"z": 7
 	},
 	{
@@ -7602,17 +7679,17 @@
 		"z": 7
 	},
 	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32530,
+		"y": 32711,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32531,
 		"y": 31628,
-		"z": 7
-	},
-	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32531,
-		"y": 32711,
 		"z": 7
 	},
 	{
@@ -7798,6 +7875,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32593,
+		"y": 32830,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32594,
@@ -7858,6 +7942,13 @@
 		"icon": "up",
 		"x": 32604,
 		"y": 31410,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32605,
+		"y": 31721,
 		"z": 7
 	},
 	{
@@ -8155,6 +8246,13 @@
 		"z": 7
 	},
 	{
+		"description": "Diseased Bill (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32668,
+		"y": 31123,
+		"z": 7
+	},
+	{
 		"description": "Haunted Temple (Gazer Spectres)",
 		"icon": "red right",
 		"x": 32670,
@@ -8267,6 +8365,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32683,
+		"y": 31907,
+		"z": 7
+	},
+	{
 		"description": "Jungle Grass (cut to access Barkless)",
 		"icon": "crossmark",
 		"x": 32684,
@@ -8365,6 +8470,13 @@
 		"z": 7
 	},
 	{
+		"description": "Diseased Fred (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32705,
+		"y": 31124,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32707,
@@ -8376,13 +8488,6 @@
 		"icon": "down",
 		"x": 32709,
 		"y": 31939,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 32710,
-		"y": 31476,
 		"z": 7
 	},
 	{
@@ -8470,6 +8575,13 @@
 		"z": 7
 	},
 	{
+		"description": "Evil sheep lord (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32737,
+		"y": 31442,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32738,
@@ -8495,6 +8607,13 @@
 		"icon": "up",
 		"x": 32741,
 		"y": 31492,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32745,
+		"y": 32182,
 		"z": 7
 	},
 	{
@@ -8785,13 +8904,6 @@
 		"z": 7
 	},
 	{
-		"description": "Fury Gate (world change)",
-		"icon": "!",
-		"x": 32832,
-		"y": 32084,
-		"z": 7
-	},
-	{
 		"description": "To the Magician Quarter",
 		"icon": "up",
 		"x": 32833,
@@ -8799,10 +8911,24 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 32833,
+		"y": 31164,
+		"z": 7
+	},
+	{
 		"description": "To the Former Trade Quarter",
 		"icon": "up",
 		"x": 32833,
-		"y": 31261,
+		"y": 31263,
+		"z": 7
+	},
+	{
+		"description": "Fury Gate (world change)",
+		"icon": "!",
+		"x": 32834,
+		"y": 32081,
 		"z": 7
 	},
 	{
@@ -9474,6 +9600,13 @@
 		"description": "",
 		"icon": "up",
 		"x": 33028,
+		"y": 31164,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33028,
 		"y": 31286,
 		"z": 7
 	},
@@ -9741,6 +9874,13 @@
 		"icon": "up",
 		"x": 33086,
 		"y": 32784,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33086,
+		"y": 32793,
 		"z": 7
 	},
 	{
@@ -10038,8 +10178,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "red down",
+		"description": "Rotworms",
+		"icon": "down",
 		"x": 33138,
 		"y": 32408,
 		"z": 7
@@ -10084,6 +10224,13 @@
 		"icon": "up",
 		"x": 33153,
 		"y": 32762,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33153,
+		"y": 32769,
 		"z": 7
 	},
 	{
@@ -10444,6 +10591,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33220,
+		"y": 32753,
+		"z": 7
+	},
+	{
 		"description": "Old Fortress",
 		"icon": "up",
 		"x": 33221,
@@ -10591,6 +10745,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33246,
+		"y": 32345,
+		"z": 7
+	},
+	{
 		"description": "Magic store",
 		"icon": "star",
 		"x": 33247,
@@ -10714,6 +10875,13 @@
 		"icon": "down",
 		"x": 33271,
 		"y": 32395,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33275,
+		"y": 31711,
 		"z": 7
 	},
 	{
@@ -10924,6 +11092,13 @@
 		"icon": "flag",
 		"x": 33328,
 		"y": 31351,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33331,
+		"y": 32034,
 		"z": 7
 	},
 	{
@@ -11715,6 +11890,13 @@
 		"icon": "up",
 		"x": 33567,
 		"y": 31038,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33567,
+		"y": 31951,
 		"z": 7
 	},
 	{
@@ -12698,13 +12880,6 @@
 		"z": 7
 	},
 	{
-		"description": "Boat to Svargrond",
-		"icon": "flag",
-		"x": 33719,
-		"y": 31105,
-		"z": 7
-	},
-	{
 		"description": "To the Dream Sand River",
 		"icon": "up",
 		"x": 33719,
@@ -12716,13 +12891,6 @@
 		"icon": "star",
 		"x": 33720,
 		"y": 32396,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33722,
-		"y": 31078,
 		"z": 7
 	},
 	{
@@ -12782,13 +12950,6 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33730,
-		"y": 31040,
-		"z": 7
-	},
-	{
 		"description": "To NPC A Goblin Exile",
 		"icon": "down",
 		"x": 33730,
@@ -12817,13 +12978,6 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33742,
-		"y": 31091,
-		"z": 7
-	},
-	{
 		"description": "Great pearl fan reef",
 		"icon": "down",
 		"x": 33743,
@@ -12845,52 +12999,10 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33745,
-		"y": 31063,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33755,
-		"y": 31019,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33756,
-		"y": 31042,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33757,
-		"y": 31091,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33760,
-		"y": 31066,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33762,
-		"y": 31016,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33763,
-		"y": 31066,
+		"description": "Teleport to The Feeding Grounds",
+		"icon": "flag",
+		"x": 33751,
+		"y": 31073,
 		"z": 7
 	},
 	{
@@ -12898,13 +13010,6 @@
 		"icon": "crossmark",
 		"x": 33764,
 		"y": 31299,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33774,
-		"y": 31020,
 		"z": 7
 	},
 	{
@@ -12922,20 +13027,6 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33776,
-		"y": 31044,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33776,
-		"y": 31046,
-		"z": 7
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 33776,
@@ -12947,13 +13038,6 @@
 		"icon": "flag",
 		"x": 33777,
 		"y": 32661,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33778,
-		"y": 31020,
 		"z": 7
 	},
 	{
@@ -13006,13 +13090,6 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33791,
-		"y": 31060,
-		"z": 7
-	},
-	{
 		"description": "Xogixath",
 		"icon": "red down",
 		"x": 33791,
@@ -13041,13 +13118,6 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33792,
-		"y": 31004,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33792,
@@ -13062,24 +13132,10 @@
 		"z": 7
 	},
 	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33794,
-		"y": 31060,
-		"z": 7
-	},
-	{
 		"description": "Enusat the Onyx Wing",
 		"icon": "red down",
 		"x": 33795,
 		"y": 31551,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33800,
-		"y": 31012,
 		"z": 7
 	},
 	{
@@ -13139,6 +13195,20 @@
 		"z": 7
 	},
 	{
+		"description": "The Great Food Race",
+		"icon": "flag",
+		"x": 33804,
+		"y": 31077,
+		"z": 7
+	},
+	{
+		"description": "Whack the Orc",
+		"icon": "flag",
+		"x": 33804,
+		"y": 31110,
+		"z": 7
+	},
+	{
 		"description": "Ruins of Nuur",
 		"icon": "down",
 		"x": 33806,
@@ -13183,22 +13253,15 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33817,
-		"y": 31021,
-		"z": 7
-	},
-	{
-		"description": "Baleful bunny (fire bomb spot)",
-		"icon": "crossmark",
-		"x": 33818,
-		"y": 31076,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33819,
 		"y": 31680,
+		"z": 7
+	},
+	{
+		"description": "Sausage Eating Contest",
+		"icon": "flag",
+		"x": 33822,
+		"y": 31069,
 		"z": 7
 	},
 	{
@@ -13206,13 +13269,6 @@
 		"icon": "sword",
 		"x": 33825,
 		"y": 31590,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33835,
-		"y": 31011,
 		"z": 7
 	},
 	{
@@ -13437,6 +13493,13 @@
 		"icon": "up",
 		"x": 33900,
 		"y": 31511,
+		"z": 7
+	},
+	{
+		"description": "Ominous cauldron (Orcsoberfest)",
+		"icon": "star",
+		"x": 33901,
+		"y": 31592,
 		"z": 7
 	},
 	{
@@ -16038,7 +16101,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32985,
 		"y": 32755,
 		"z": 8
@@ -16051,7 +16114,7 @@
 		"z": 8
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #1",
 		"icon": "star",
 		"x": 32991,
 		"y": 32721,
@@ -16164,7 +16227,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 33027,
 		"y": 32730,
 		"z": 8
@@ -17452,14 +17515,14 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33484,
 		"y": 32076,
 		"z": 8
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33484,
 		"y": 32083,
 		"z": 8
@@ -17487,14 +17550,14 @@
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33490,
 		"y": 32076,
 		"z": 8
 	},
 	{
 		"description": "Jar",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 33490,
 		"y": 32083,
 		"z": 8
@@ -18039,6 +18102,13 @@
 		"z": 8
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33725,
+		"y": 31082,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33730,
@@ -18053,17 +18123,17 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33745,
-		"y": 31063,
-		"z": 8
-	},
-	{
 		"description": "Wooden cage key (Kilmaresh quest)",
 		"icon": "star",
 		"x": 33768,
 		"y": 31625,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33773,
+		"y": 31016,
 		"z": 8
 	},
 	{
@@ -18089,16 +18159,23 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33788,
-		"y": 31335,
+		"icon": "down",
+		"x": 33782,
+		"y": 31076,
 		"z": 8
 	},
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33789,
-		"y": 31022,
+		"x": 33786,
+		"y": 31024,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33788,
+		"y": 31335,
 		"z": 8
 	},
 	{
@@ -18148,6 +18225,13 @@
 		"icon": "up",
 		"x": 33806,
 		"y": 31692,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33807,
+		"y": 31063,
 		"z": 8
 	},
 	{
@@ -18379,6 +18463,13 @@
 		"icon": "sword",
 		"x": 33979,
 		"y": 31689,
+		"z": 8
+	},
+	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 33980,
+		"y": 31760,
 		"z": 8
 	},
 	{
@@ -19016,6 +19107,13 @@
 		"icon": "up",
 		"x": 32216,
 		"y": 31873,
+		"z": 9
+	},
+	{
+		"description": "Glitterscale (wait on this tile for respawn)",
+		"icon": "crossmark",
+		"x": 32229,
+		"y": 32132,
 		"z": 9
 	},
 	{
@@ -19790,7 +19888,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32583,
 		"y": 32482,
 		"z": 9
@@ -19804,7 +19902,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32584,
 		"y": 32465,
 		"z": 9
@@ -19881,7 +19979,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32610,
 		"y": 32523,
 		"z": 9
@@ -19951,7 +20049,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32619,
 		"y": 32523,
 		"z": 9
@@ -20021,14 +20119,14 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32645,
 		"y": 32465,
 		"z": 9
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32647,
 		"y": 32483,
 		"z": 9
@@ -20671,7 +20769,7 @@
 		"z": 9
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #2",
 		"icon": "star",
 		"x": 32940,
 		"y": 32777,
@@ -20679,7 +20777,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32948,
 		"y": 32755,
 		"z": 9
@@ -20791,7 +20889,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32985,
 		"y": 32755,
 		"z": 9
@@ -22463,17 +22561,17 @@
 		"z": 9
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33680,
+		"y": 31941,
+		"z": 9
+	},
+	{
 		"description": "Tea cup",
 		"icon": "star",
 		"x": 33693,
 		"y": 32362,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33700,
-		"y": 31056,
 		"z": 9
 	},
 	{
@@ -22491,24 +22589,17 @@
 		"z": 9
 	},
 	{
-		"description": "Bonfire",
-		"icon": "crossmark",
-		"x": 33711,
-		"y": 31067,
-		"z": 9
-	},
-	{
-		"description": "Wood",
-		"icon": "crossmark",
-		"x": 33723,
-		"y": 31056,
+		"description": "The Feast",
+		"icon": "flag",
+		"x": 33768,
+		"y": 31100,
 		"z": 9
 	},
 	{
 		"description": "",
-		"icon": "flag",
-		"x": 33759,
-		"y": 31083,
+		"icon": "up",
+		"x": 33773,
+		"y": 31016,
 		"z": 9
 	},
 	{
@@ -22521,8 +22612,15 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33789,
-		"y": 31022,
+		"x": 33782,
+		"y": 31076,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33786,
+		"y": 31024,
 		"z": 9
 	},
 	{
@@ -22600,6 +22698,13 @@
 		"icon": "red down",
 		"x": 33805,
 		"y": 31672,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33807,
+		"y": 31063,
 		"z": 9
 	},
 	{
@@ -23006,6 +23111,13 @@
 		"icon": "red left",
 		"x": 34071,
 		"y": 31820,
+		"z": 9
+	},
+	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 34074,
+		"y": 31824,
 		"z": 9
 	},
 	{
@@ -23961,6 +24073,13 @@
 		"z": 10
 	},
 	{
+		"description": "To rope spot",
+		"icon": "red down",
+		"x": 32468,
+		"y": 31631,
+		"z": 10
+	},
+	{
 		"description": "To monks",
 		"icon": "crossmark",
 		"x": 32468,
@@ -24738,21 +24857,21 @@
 		"z": 10
 	},
 	{
-		"description": "Lever to Lokathmor",
-		"icon": "checkmark",
-		"x": 32723,
-		"y": 32749,
+		"description": "Lever to Lokathmor (equip death + earth protection)",
+		"icon": "?",
+		"x": 32722,
+		"y": 32748,
 		"z": 10
 	},
 	{
-		"description": "Lever to Mazzinor",
-		"icon": "checkmark",
-		"x": 32723,
-		"y": 32773,
+		"description": "Lever to Mazzinor (equip energy protection)",
+		"icon": "?",
+		"x": 32722,
+		"y": 32772,
 		"z": 10
 	},
 	{
-		"description": "Mazzinor Room",
+		"description": "Mazzinor room",
 		"icon": "checkmark",
 		"x": 32724,
 		"y": 32720,
@@ -24780,10 +24899,17 @@
 		"z": 10
 	},
 	{
-		"description": "Gorzindel Lever",
-		"icon": "checkmark",
+		"description": "Lever to Gorzindel (equip fire + life drain protection)",
+		"icon": "?",
 		"x": 32748,
 		"y": 32748,
+		"z": 10
+	},
+	{
+		"description": "Lever to Ghulosh (equip drowning + death protection)",
+		"icon": "?",
+		"x": 32748,
+		"y": 32772,
 		"z": 10
 	},
 	{
@@ -24791,13 +24917,6 @@
 		"icon": "up",
 		"x": 32749,
 		"y": 32619,
-		"z": 10
-	},
-	{
-		"description": "Ghoulosh Lever",
-		"icon": "checkmark",
-		"x": 32749,
-		"y": 32773,
 		"z": 10
 	},
 	{
@@ -24822,7 +24941,7 @@
 		"z": 10
 	},
 	{
-		"description": "Ghoulosh room",
+		"description": "Ghulosh room",
 		"icon": "checkmark",
 		"x": 32756,
 		"y": 32721,
@@ -25131,7 +25250,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32947,
 		"y": 32755,
 		"z": 10
@@ -25152,7 +25271,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32960,
 		"y": 32776,
 		"z": 10
@@ -25201,6 +25320,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32977,
+		"y": 32371,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32981,
 		"y": 32641,
@@ -25214,7 +25340,7 @@
 		"z": 10
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #3",
 		"icon": "star",
 		"x": 32984,
 		"y": 32772,
@@ -25398,6 +25524,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33032,
+		"y": 32371,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33033,
 		"y": 32395,
 		"z": 10
@@ -25431,17 +25564,17 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33039,
-		"y": 32357,
-		"z": 10
-	},
-	{
 		"description": "To NPC Zarifan",
 		"icon": "down",
 		"x": 33043,
 		"y": 32486,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33044,
+		"y": 32364,
 		"z": 10
 	},
 	{
@@ -25851,6 +25984,20 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33184,
+		"y": 32042,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33189,
+		"y": 32025,
+		"z": 10
+	},
+	{
 		"description": "Purple nightshade blossom",
 		"icon": "star",
 		"x": 33192,
@@ -25869,6 +26016,20 @@
 		"icon": "crossmark",
 		"x": 33206,
 		"y": 32432,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33212,
+		"y": 32041,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33216,
+		"y": 31626,
 		"z": 10
 	},
 	{
@@ -25895,6 +26056,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33220,
+		"y": 32013,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33221,
 		"y": 32354,
 		"z": 10
@@ -25904,6 +26072,27 @@
 		"icon": "up",
 		"x": 33225,
 		"y": 31090,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33225,
+		"y": 32049,
+		"z": 10
+	},
+	{
+		"description": "Hellhound cave",
+		"icon": "down",
+		"x": 33228,
+		"y": 31634,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33229,
+		"y": 32534,
 		"z": 10
 	},
 	{
@@ -25922,6 +26111,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33241,
+		"y": 32009,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33243,
+		"y": 32033,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33243,
 		"y": 32622,
@@ -25929,9 +26132,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33244,
+		"y": 32049,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33246,
 		"y": 32099,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33249,
+		"y": 32023,
 		"z": 10
 	},
 	{
@@ -25974,6 +26191,13 @@
 		"icon": "down",
 		"x": 33262,
 		"y": 31877,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33262,
+		"y": 32044,
 		"z": 10
 	},
 	{
@@ -26306,7 +26530,7 @@
 		"z": 10
 	},
 	{
-		"description": "Sandking lever room",
+		"description": "The Sandking lever room",
 		"icon": "sword",
 		"x": 33506,
 		"y": 32229,
@@ -27440,6 +27664,13 @@
 		"z": 11
 	},
 	{
+		"description": "Rope spot",
+		"icon": "flag",
+		"x": 32405,
+		"y": 31570,
+		"z": 11
+	},
+	{
 		"description": "5. To surface",
 		"icon": "down",
 		"x": 32408,
@@ -27675,6 +27906,13 @@
 		"icon": "bag",
 		"x": 32446,
 		"y": 31972,
+		"z": 11
+	},
+	{
+		"description": "To rope spot",
+		"icon": "red up",
+		"x": 32447,
+		"y": 31621,
 		"z": 11
 	},
 	{
@@ -28063,6 +28301,13 @@
 		"z": 11
 	},
 	{
+		"description": "The Scourge of Oblivion lever room",
+		"icon": "?",
+		"x": 32675,
+		"y": 32741,
+		"z": 11
+	},
+	{
 		"description": "Troll champion (fire bomb spot + 1 west)",
 		"icon": "!",
 		"x": 32683,
@@ -28162,7 +28407,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32756,
 		"y": 32494,
 		"z": 11
@@ -28176,7 +28421,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32775,
 		"y": 32583,
 		"z": 11
@@ -28204,21 +28449,14 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32799,
 		"y": 32556,
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32806,
-		"y": 32636,
-		"z": 11
-	},
-	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32808,
 		"y": 32613,
 		"z": 11
@@ -28302,7 +28540,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32843,
 		"y": 32649,
 		"z": 11
@@ -28351,7 +28589,7 @@
 	},
 	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32862,
 		"y": 32557,
 		"z": 11
@@ -28413,8 +28651,15 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 32888,
+		"y": 32632,
+		"z": 11
+	},
+	{
 		"description": "Lever",
-		"icon": "checkmark",
+		"icon": "crossmark",
 		"x": 32891,
 		"y": 32590,
 		"z": 11
@@ -28483,7 +28728,7 @@
 		"z": 11
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #4",
 		"icon": "star",
 		"x": 32937,
 		"y": 32752,
@@ -28540,7 +28785,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32960,
 		"y": 32776,
 		"z": 11
@@ -28561,7 +28806,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red down",
+		"icon": "down",
 		"x": 32969,
 		"y": 32755,
 		"z": 11
@@ -28578,6 +28823,13 @@
 		"icon": "checkmark",
 		"x": 32977,
 		"y": 31895,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32977,
+		"y": 32371,
 		"z": 11
 	},
 	{
@@ -28695,8 +28947,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33032,
+		"y": 32371,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33037,
 		"y": 32159,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33044,
+		"y": 32364,
 		"z": 11
 	},
 	{
@@ -29023,6 +29289,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33183,
+		"y": 32042,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33186,
 		"y": 31215,
@@ -29033,6 +29306,13 @@
 		"icon": "down",
 		"x": 33186,
 		"y": 32659,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33189,
+		"y": 32025,
 		"z": 11
 	},
 	{
@@ -29092,6 +29372,41 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33208,
+		"y": 32022,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33212,
+		"y": 32041,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33225,
+		"y": 32049,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33228,
+		"y": 31634,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33229,
+		"y": 32534,
+		"z": 11
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33231,
@@ -29106,6 +29421,27 @@
 		"z": 11
 	},
 	{
+		"description": "Hellhound (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33240,
+		"y": 31632,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33240,
+		"y": 32009,
+		"z": 11
+	},
+	{
+		"description": "Hellhound (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33241,
+		"y": 31638,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33241,
@@ -29115,8 +29451,43 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33244,
+		"y": 32033,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33244,
+		"y": 32049,
+		"z": 11
+	},
+	{
+		"description": "Hellhound (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33249,
+		"y": 31632,
+		"z": 11
+	},
+	{
+		"description": "Hellhound (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33249,
+		"y": 31640,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33251,
 		"y": 32812,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33252,
+		"y": 32016,
 		"z": 11
 	},
 	{
@@ -29528,7 +29899,7 @@
 	{
 		"description": "Obujos",
 		"icon": "up",
-		"x": 33499,
+		"x": 33498,
 		"y": 31246,
 		"z": 11
 	},
@@ -30380,6 +30751,13 @@
 		"z": 12
 	},
 	{
+		"description": "Rope spot",
+		"icon": "flag",
+		"x": 32404,
+		"y": 31570,
+		"z": 12
+	},
+	{
 		"description": "Teleport to start of cave",
 		"icon": "flag",
 		"x": 32408,
@@ -30405,6 +30783,13 @@
 		"icon": "red right",
 		"x": 32411,
 		"y": 31610,
+		"z": 12
+	},
+	{
+		"description": "To rope spot",
+		"icon": "red left",
+		"x": 32412,
+		"y": 31576,
 		"z": 12
 	},
 	{
@@ -30513,6 +30898,13 @@
 		"z": 12
 	},
 	{
+		"description": "To rope spot",
+		"icon": "red up",
+		"x": 32442,
+		"y": 31575,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32458,
@@ -30520,8 +30912,15 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport to Lokathmor lever room",
-		"icon": "flag",
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32460,
+		"y": 32588,
+		"z": 12
+	},
+	{
+		"description": "Lokathmor",
+		"icon": "sword",
 		"x": 32464,
 		"y": 32654,
 		"z": 12
@@ -30660,6 +31059,13 @@
 		"z": 12
 	},
 	{
+		"description": "Somewhat safe spot",
+		"icon": "flag",
+		"x": 32551,
+		"y": 32705,
+		"z": 12
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32553,
@@ -30793,8 +31199,8 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport to Gorzindel lever room",
-		"icon": "flag",
+		"description": "Gorzindel",
+		"icon": "sword",
 		"x": 32660,
 		"y": 32736,
 		"z": 12
@@ -31032,7 +31438,7 @@
 	},
 	{
 		"description": "",
-		"icon": "red up",
+		"icon": "up",
 		"x": 32969,
 		"y": 32755,
 		"z": 12
@@ -31052,7 +31458,7 @@
 		"z": 12
 	},
 	{
-		"description": "Jar",
+		"description": "Jar #5",
 		"icon": "star",
 		"x": 32979,
 		"y": 32738,
@@ -31346,8 +31752,8 @@
 		"z": 12
 	},
 	{
-		"description": "To Voidborn pre-lever room",
-		"icon": "flag",
+		"description": "The Unarmored Voidborn",
+		"icon": "sword",
 		"x": 33167,
 		"y": 31930,
 		"z": 12
@@ -31843,13 +32249,6 @@
 		"z": 12
 	},
 	{
-		"description": "Dinky moss floret",
-		"icon": "star",
-		"x": 33621,
-		"y": 32019,
-		"z": 12
-	},
-	{
 		"description": "NPC Wesley",
 		"icon": "mouth",
 		"x": 33623,
@@ -31857,17 +32256,10 @@
 		"z": 12
 	},
 	{
-		"description": "Dinky moss floret",
-		"icon": "star",
-		"x": 33623,
-		"y": 32019,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33626,
-		"y": 32020,
+		"y": 32021,
 		"z": 12
 	},
 	{
@@ -31948,8 +32340,8 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Dinky moss floret",
+		"icon": "star",
 		"x": 33674,
 		"y": 32032,
 		"z": 12
@@ -32641,6 +33033,13 @@
 		"z": 13
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32461,
+		"y": 32588,
+		"z": 13
+	},
+	{
 		"description": "4. To Demona",
 		"icon": "up",
 		"x": 32480,
@@ -32802,10 +33201,24 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to Mazzinor lever room",
-		"icon": "flag",
+		"description": "Mazzinor",
+		"icon": "sword",
 		"x": 32616,
 		"y": 32529,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32621,
+		"y": 32547,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32639,
+		"y": 32683,
 		"z": 13
 	},
 	{
@@ -32816,8 +33229,8 @@
 		"z": 13
 	},
 	{
-		"description": "Teleport to Ghulosh lever room",
-		"icon": "flag",
+		"description": "Ghulosh",
+		"icon": "sword",
 		"x": 32662,
 		"y": 32713,
 		"z": 13
@@ -32876,6 +33289,13 @@
 		"icon": "flag",
 		"x": 32786,
 		"y": 32818,
+		"z": 13
+	},
+	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red up",
+		"x": 32788,
+		"y": 32318,
 		"z": 13
 	},
 	{
@@ -33779,13 +34199,6 @@
 		"icon": "checkmark",
 		"x": 33423,
 		"y": 31497,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33424,
-		"y": 31529,
 		"z": 13
 	},
 	{
@@ -34923,6 +35336,13 @@
 		"z": 14
 	},
 	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red up",
+		"x": 32799,
+		"y": 32320,
+		"z": 14
+	},
+	{
 		"description": "Lloyd (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32799,
@@ -34944,6 +35364,13 @@
 		"z": 14
 	},
 	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red down",
+		"x": 32806,
+		"y": 32318,
+		"z": 14
+	},
+	{
 		"description": "Quest",
 		"icon": "down",
 		"x": 32806,
@@ -34955,6 +35382,13 @@
 		"icon": "star",
 		"x": 32809,
 		"y": 31611,
+		"z": 14
+	},
+	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red down",
+		"x": 32812,
+		"y": 32326,
 		"z": 14
 	},
 	{
@@ -35382,6 +35816,13 @@
 		"icon": "down",
 		"x": 33262,
 		"y": 31939,
+		"z": 14
+	},
+	{
+		"description": "Ascending Ferumbras lever room (equip drowning + fire + death protection)",
+		"icon": "?",
+		"x": 33268,
+		"y": 31478,
 		"z": 14
 	},
 	{
@@ -35921,6 +36362,13 @@
 		"icon": "star",
 		"x": 33548,
 		"y": 31460,
+		"z": 14
+	},
+	{
+		"description": "The Primal Menace lever room",
+		"icon": "?",
+		"x": 33548,
+		"y": 32750,
 		"z": 14
 	},
 	{
@@ -36939,8 +37387,15 @@
 		"z": 15
 	},
 	{
-		"description": "Teleport to The Scourge of Oblivion lever room",
-		"icon": "flag",
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32472,
+		"y": 32590,
+		"z": 15
+	},
+	{
+		"description": "The Scourge of Oblivion",
+		"icon": "sword",
 		"x": 32480,
 		"y": 32601,
 		"z": 15
@@ -37093,6 +37548,13 @@
 		"z": 15
 	},
 	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red up",
+		"x": 32782,
+		"y": 32342,
+		"z": 15
+	},
+	{
 		"description": "The Handmaiden (approximate spawn location)",
 		"icon": "star",
 		"x": 32785,
@@ -37118,6 +37580,13 @@
 		"icon": "star",
 		"x": 32797,
 		"y": 32372,
+		"z": 15
+	},
+	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red up",
+		"x": 32799,
+		"y": 32321,
 		"z": 15
 	},
 	{
@@ -37324,8 +37793,8 @@
 		"z": 15
 	},
 	{
-		"description": "Source of Corruption lever room",
-		"icon": "sword",
+		"description": "The Source of Corruption lever room",
+		"icon": "?",
 		"x": 33075,
 		"y": 31887,
 		"z": 15
@@ -37373,29 +37842,29 @@
 		"z": 15
 	},
 	{
-		"description": "Essence of Malice pre-lever room",
-		"icon": "sword",
+		"description": "The Essence of Malice lever room",
+		"icon": "?",
 		"x": 33095,
 		"y": 31946,
 		"z": 15
 	},
 	{
 		"description": "Sandking boss room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33098,
 		"y": 31860,
 		"z": 15
 	},
 	{
 		"description": "Essence of Malice room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33099,
 		"y": 31921,
 		"z": 15
 	},
 	{
-		"description": "Souldespoiler pre-lever room",
-		"icon": "sword",
+		"description": "The Souldespoiler",
+		"icon": "?",
 		"x": 33109,
 		"y": 31887,
 		"z": 15
@@ -37408,64 +37877,64 @@
 		"z": 15
 	},
 	{
-		"description": "Leiden pre-lever room",
-		"icon": "sword",
+		"description": "Leiden / Ravenous Hunger",
+		"icon": "?",
 		"x": 33120,
 		"y": 31950,
 		"z": 15
 	},
 	{
-		"description": "Souldespoiler lever room",
-		"icon": "sword",
+		"description": "The Souldespoiler lever room",
+		"icon": "?",
 		"x": 33127,
 		"y": 31894,
 		"z": 15
 	},
 	{
 		"description": "The Souldespoiler room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33129,
 		"y": 31925,
 		"z": 15
 	},
 	{
-		"description": "Voidborn room",
-		"icon": "sword",
+		"description": "The Unarmored Voidborn room",
+		"icon": "?",
 		"x": 33136,
 		"y": 31860,
 		"z": 15
 	},
 	{
 		"description": "Leiden lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33137,
 		"y": 31954,
 		"z": 15
 	},
 	{
 		"description": "Leiden room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33162,
 		"y": 31954,
 		"z": 15
 	},
 	{
 		"description": "The False God lever room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33163,
 		"y": 31896,
 		"z": 15
 	},
 	{
 		"description": "The False God room",
-		"icon": "sword",
+		"icon": "?",
 		"x": 33163,
 		"y": 31916,
 		"z": 15
 	},
 	{
-		"description": "Voidborn lever room",
-		"icon": "sword",
+		"description": "The Unarmored Voidborn lever room",
+		"icon": "?",
 		"x": 33164,
 		"y": 31861,
 		"z": 15
@@ -37485,8 +37954,8 @@
 		"z": 15
 	},
 	{
-		"description": "To Voidborn lever room",
-		"icon": "flag",
+		"description": "The Unarmored Voidborn",
+		"icon": "sword",
 		"x": 33178,
 		"y": 31845,
 		"z": 15
@@ -37499,8 +37968,8 @@
 		"z": 15
 	},
 	{
-		"description": "The False God pre-lever room",
-		"icon": "sword",
+		"description": "The False God",
+		"icon": "?",
 		"x": 33181,
 		"y": 31894,
 		"z": 15
@@ -37598,7 +38067,7 @@
 	},
 	{
 		"description": "Teleport to The Duke of the Depths",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33275,
 		"y": 32316,
 		"z": 15
@@ -37878,7 +38347,7 @@
 	},
 	{
 		"description": "Teleport to The Baron from Below",
-		"icon": "star",
+		"icon": "sword",
 		"x": 33460,
 		"y": 32267,
 		"z": 15
@@ -38136,7 +38605,7 @@
 		"z": 15
 	},
 	{
-		"description": "Sparkling Pools",
+		"description": "Sparkling Pools (equip energy + fire protection)",
 		"icon": "up",
 		"x": 33564,
 		"y": 32860,
@@ -38185,7 +38654,7 @@
 		"z": 15
 	},
 	{
-		"description": "Monster Graveyard",
+		"description": "Crystal Enigma (equip earth + energy protection)",
 		"icon": "up",
 		"x": 33594,
 		"y": 32909,
@@ -38269,6 +38738,13 @@
 		"z": 15
 	},
 	{
+		"description": "Monster Graveyard (equip earth + death + fire protection)",
+		"icon": "up",
+		"x": 33632,
+		"y": 32844,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33636,
@@ -38311,8 +38787,8 @@
 		"z": 15
 	},
 	{
-		"description": "Warzone 4 - The Baron From Below",
-		"icon": "checkmark",
+		"description": "Warzone 4 - The Baron from Below",
+		"icon": "?",
 		"x": 33649,
 		"y": 32303,
 		"z": 15
@@ -38360,7 +38836,7 @@
 		"z": 15
 	},
 	{
-		"description": "Sparkling Pools",
+		"description": "Crystal Enigma (equip earth + energy protection)",
 		"icon": "up",
 		"x": 33666,
 		"y": 32977,
@@ -38403,7 +38879,7 @@
 	},
 	{
 		"description": "Warzone 5 - The Count of the Core",
-		"icon": "checkmark",
+		"icon": "?",
 		"x": 33680,
 		"y": 32335,
 		"z": 15
@@ -38438,7 +38914,7 @@
 	},
 	{
 		"description": "Warzone 6 - The Duke of the Depths",
-		"icon": "checkmark",
+		"icon": "?",
 		"x": 33714,
 		"y": 32304,
 		"z": 15
@@ -38551,20 +39027,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 33815,
-		"y": 32515,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33832,
-		"y": 32517,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 33838,
 		"y": 32178,
 		"z": 15
@@ -38585,23 +39047,9 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33840,
-		"y": 32517,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33857,
 		"y": 32174,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33864,
-		"y": 32517,
 		"z": 15
 	},
 	{
