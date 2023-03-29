@@ -17493,10 +17493,24 @@
 		"z": 8
 	},
 	{
+		"description": "Book",
+		"icon": "star",
+		"x": 33458,
+		"y": 32073,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33461,
 		"y": 31131,
+		"z": 8
+	},
+	{
+		"description": "Bag",
+		"icon": "star",
+		"x": 33467,
+		"y": 32083,
 		"z": 8
 	},
 	{
