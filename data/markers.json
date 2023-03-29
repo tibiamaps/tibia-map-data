@@ -1610,6 +1610,13 @@
 		"z": 4
 	},
 	{
+		"description": "Blood goblet",
+		"icon": "star",
+		"x": 32953,
+		"y": 31473,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32965,
@@ -25263,6 +25270,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32950,
+		"y": 31460,
+		"z": 10
+	},
+	{
 		"description": "Ritual sword",
 		"icon": "star",
 		"x": 32955,
@@ -25302,6 +25316,13 @@
 		"icon": "down",
 		"x": 32968,
 		"y": 32409,
+		"z": 10
+	},
+	{
+		"description": "Blood skull",
+		"icon": "star",
+		"x": 32971,
+		"y": 31461,
 		"z": 10
 	},
 	{
