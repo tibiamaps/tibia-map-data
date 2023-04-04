@@ -1029,7 +1029,7 @@
 		"z": 3
 	},
 	{
-		"description": "Door - open with Key 0909",
+		"description": "Door - open with key 0909",
 		"icon": "lock",
 		"x": 33363,
 		"y": 31371,
@@ -11179,7 +11179,7 @@
 		"z": 7
 	},
 	{
-		"description": "Door - open with Key 0808",
+		"description": "Door - open with key 0909",
 		"icon": "lock",
 		"x": 33360,
 		"y": 31350,
@@ -11218,6 +11218,13 @@
 		"icon": "up",
 		"x": 33367,
 		"y": 31315,
+		"z": 7
+	},
+	{
+		"description": "Door - open with key 0909",
+		"icon": "lock",
+		"x": 33368,
+		"y": 31331,
 		"z": 7
 	},
 	{
