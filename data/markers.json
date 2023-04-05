@@ -4354,13 +4354,6 @@
 		"z": 6
 	},
 	{
-		"description": "Dark stone totem (use golden symbol of Suon)",
-		"icon": "star",
-		"x": 32950,
-		"y": 31488,
-		"z": 6
-	},
-	{
 		"description": "Castle entrance (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32952,
@@ -9668,7 +9661,7 @@
 	},
 	{
 		"description": "Nightmare Isles",
-		"icon": "skull",
+		"icon": "sword",
 		"x": 33037,
 		"y": 32397,
 		"z": 7
@@ -10616,6 +10609,13 @@
 		"icon": "!",
 		"x": 33221,
 		"y": 31922,
+		"z": 7
+	},
+	{
+		"description": "Nightmare Isles",
+		"icon": "sword",
+		"x": 33221,
+		"y": 32280,
 		"z": 7
 	},
 	{
@@ -27353,13 +27353,6 @@
 		"icon": "flag",
 		"x": 32156,
 		"y": 31126,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32160,
-		"y": 31352,
 		"z": 11
 	},
 	{
