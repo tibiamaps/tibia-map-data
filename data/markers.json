@@ -35700,6 +35700,13 @@
 		"z": 14
 	},
 	{
+		"description": "Towards Omruc",
+		"icon": "flag",
+		"x": 33109,
+		"y": 33009,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 33115,
@@ -35816,6 +35823,13 @@
 		"icon": "flag",
 		"x": 33192,
 		"y": 31691,
+		"z": 14
+	},
+	{
+		"description": "Omruc (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33202,
+		"y": 32998,
 		"z": 14
 	},
 	{
@@ -37860,6 +37874,13 @@
 		"icon": "flag",
 		"x": 33089,
 		"y": 31759,
+		"z": 15
+	},
+	{
+		"description": "Dipthrah (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33092,
+		"y": 32590,
 		"z": 15
 	},
 	{
