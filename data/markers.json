@@ -29323,6 +29323,13 @@
 		"z": 11
 	},
 	{
+		"description": "Ashmunrah (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33179,
+		"y": 32884,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33183,
@@ -34224,13 +34231,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33412,
-		"y": 32449,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33415,
 		"y": 32377,
@@ -37954,7 +37954,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Towards Vashresamun",
 		"icon": "flag",
 		"x": 33117,
 		"y": 32627,
@@ -38381,10 +38381,10 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Razzagorn",
+		"icon": "sword",
 		"x": 33437,
-		"y": 32444,
+		"y": 32445,
 		"z": 15
 	},
 	{
