@@ -29855,6 +29855,13 @@
 		"z": 11
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33468,
+		"y": 32780,
+		"z": 11
+	},
+	{
 		"description": "Blank paper",
 		"icon": "checkmark",
 		"x": 33471,
@@ -32295,6 +32302,13 @@
 		"icon": "down",
 		"x": 33626,
 		"y": 32021,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33629,
+		"y": 32739,
 		"z": 12
 	},
 	{
@@ -35840,6 +35854,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33233,
+		"y": 32858,
+		"z": 14
+	},
+	{
 		"description": "Towards Morguthis",
 		"icon": "flag",
 		"x": 33238,
@@ -36103,6 +36124,13 @@
 		"icon": "sword",
 		"x": 33393,
 		"y": 32802,
+		"z": 14
+	},
+	{
+		"description": "Thalas (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33396,
+		"y": 32839,
 		"z": 14
 	},
 	{
@@ -37940,6 +37968,13 @@
 		"z": 15
 	},
 	{
+		"description": "Vashresamun (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33121,
+		"y": 32656,
+		"z": 15
+	},
+	{
 		"description": "The Souldespoiler lever room",
 		"icon": "?",
 		"x": 33127,
@@ -38038,7 +38073,7 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Towards Mahrdis",
 		"icon": "flag",
 		"x": 33184,
 		"y": 32767,
@@ -38056,6 +38091,13 @@
 		"icon": "?",
 		"x": 33187,
 		"y": 32664,
+		"z": 15
+	},
+	{
+		"description": "Mahrdis (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33191,
+		"y": 32954,
 		"z": 15
 	},
 	{
