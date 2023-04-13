@@ -4998,10 +4998,10 @@
 		"z": 6
 	},
 	{
-		"description": "Grand Canon Dominus (spawn location)",
+		"description": "Grand Canon Dominus (exact spawn tile)",
 		"icon": "sword",
 		"x": 33384,
-		"y": 31281,
+		"y": 31280,
 		"z": 6
 	},
 	{
@@ -11165,8 +11165,8 @@
 		"z": 7
 	},
 	{
-		"description": "Jailer spawn tile (fire bomb spot)",
-		"icon": "star",
+		"description": "Jailer (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33355,
 		"y": 31345,
 		"z": 7
@@ -23048,6 +23048,13 @@
 		"icon": "red up",
 		"x": 33945,
 		"y": 31012,
+		"z": 9
+	},
+	{
+		"description": "Raid spot",
+		"icon": "sword",
+		"x": 33988,
+		"y": 31061,
 		"z": 9
 	},
 	{
@@ -36075,6 +36082,13 @@
 		"icon": "checkmark",
 		"x": 33364,
 		"y": 31589,
+		"z": 14
+	},
+	{
+		"description": "NPC Cobra",
+		"icon": "mouth",
+		"x": 33367,
+		"y": 32854,
 		"z": 14
 	},
 	{
