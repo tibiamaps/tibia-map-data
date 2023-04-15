@@ -18466,6 +18466,13 @@
 		"z": 8
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "lock",
+		"x": 33972,
+		"y": 31905,
+		"z": 8
+	},
+	{
 		"description": "Crossed spears",
 		"icon": "crossmark",
 		"x": 33977,
@@ -23016,6 +23023,13 @@
 		"z": 9
 	},
 	{
+		"description": "Quest raft",
+		"icon": "crossmark",
+		"x": 33939,
+		"y": 31110,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33941,
@@ -23097,6 +23111,13 @@
 		"icon": "down",
 		"x": 34035,
 		"y": 31842,
+		"z": 9
+	},
+	{
+		"description": "Crossed spears",
+		"icon": "crossmark",
+		"x": 34035,
+		"y": 31884,
 		"z": 9
 	},
 	{
@@ -27364,7 +27385,7 @@
 	},
 	{
 		"description": "Emergency exit",
-		"icon": "red left",
+		"icon": "crossmark",
 		"x": 32187,
 		"y": 31352,
 		"z": 11
@@ -32753,8 +32774,8 @@
 		"z": 13
 	},
 	{
-		"description": "Vortex where?",
-		"icon": "?",
+		"description": "Emergency exit",
+		"icon": "crossmark",
 		"x": 32103,
 		"y": 31403,
 		"z": 13
@@ -36890,13 +36911,6 @@
 		"z": 14
 	},
 	{
-		"description": "Warzone 5",
-		"icon": "sword",
-		"x": 33775,
-		"y": 32206,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33775,
@@ -36974,13 +36988,6 @@
 		"z": 14
 	},
 	{
-		"description": "Warzone 4 - Chasm Spawn",
-		"icon": "sword",
-		"x": 33829,
-		"y": 32181,
-		"z": 14
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33829,
@@ -37006,13 +37013,6 @@
 		"icon": "checkmark",
 		"x": 33836,
 		"y": 32266,
-		"z": 14
-	},
-	{
-		"description": "Warzone 6",
-		"icon": "sword",
-		"x": 33838,
-		"y": 32128,
 		"z": 14
 	},
 	{
