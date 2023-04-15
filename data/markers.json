@@ -4284,20 +4284,6 @@
 		"z": 6
 	},
 	{
-		"description": "Depot",
-		"icon": "down",
-		"x": 32919,
-		"y": 32071,
-		"z": 6
-	},
-	{
-		"description": "To NPC Boozer",
-		"icon": "up",
-		"x": 32921,
-		"y": 32072,
-		"z": 6
-	},
-	{
 		"description": "Eustacio’s home",
 		"icon": "mouth",
 		"x": 32922,
@@ -4305,7 +4291,7 @@
 		"z": 6
 	},
 	{
-		"description": "To the knight and paladin trainer",
+		"description": "Depot",
 		"icon": "down",
 		"x": 32936,
 		"y": 32075,
@@ -29400,24 +29386,10 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33201,
-		"y": 31469,
-		"z": 11
-	},
-	{
 		"description": "Skulls on a Stonepile",
 		"icon": "crossmark",
 		"x": 33201,
 		"y": 32442,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33208,
-		"y": 31440,
 		"z": 11
 	},
 	{
@@ -31840,6 +31812,20 @@
 		"icon": "up",
 		"x": 33200,
 		"y": 31181,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33206,
+		"y": 31434,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33226,
+		"y": 31478,
 		"z": 12
 	},
 	{
