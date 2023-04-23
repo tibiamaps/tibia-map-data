@@ -13020,13 +13020,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33774,
-		"y": 31594,
-		"z": 7
-	},
-	{
 		"description": "Depot",
 		"icon": "lock",
 		"x": 33776,
@@ -13146,20 +13139,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33800,
-		"y": 31560,
-		"z": 7
-	},
-	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33800,
-		"y": 31637,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33800,
@@ -13244,13 +13223,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33815,
-		"y": 31696,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33819,
@@ -13276,13 +13248,6 @@
 		"icon": "up",
 		"x": 33839,
 		"y": 31710,
-		"z": 7
-	},
-	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33842,
-		"y": 31736,
 		"z": 7
 	},
 	{
@@ -13398,13 +13363,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33876,
-		"y": 31686,
-		"z": 7
-	},
-	{
 		"description": "Statue of Amati",
 		"icon": "mouth",
 		"x": 33877,
@@ -13451,13 +13409,6 @@
 		"icon": "star",
 		"x": 33887,
 		"y": 31502,
-		"z": 7
-	},
-	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33889,
-		"y": 31626,
 		"z": 7
 	},
 	{
@@ -16930,6 +16881,13 @@
 		"icon": "up",
 		"x": 33192,
 		"y": 31641,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33193,
+		"y": 31413,
 		"z": 8
 	},
 	{
@@ -21603,6 +21561,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33193,
+		"y": 31413,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33198,
 		"y": 31195,
@@ -21697,6 +21662,13 @@
 		"icon": "sword",
 		"x": 33225,
 		"y": 31607,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33226,
+		"y": 31425,
 		"z": 9
 	},
 	{
@@ -38312,30 +38284,9 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33388,
-		"y": 32410,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33389,
-		"y": 32392,
-		"z": 15
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33400,
 		"y": 32404,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33401,
-		"y": 32436,
 		"z": 15
 	},
 	{
@@ -38406,20 +38357,6 @@
 		"icon": "!",
 		"x": 33428,
 		"y": 32181,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33430,
-		"y": 32426,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33431,
-		"y": 32393,
 		"z": 15
 	},
 	{
