@@ -6461,13 +6461,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32231,
-		"y": 32294,
-		"z": 7
-	},
-	{
 		"description": "Dire penguin (spawn location)",
 		"icon": "star",
 		"x": 32232,
@@ -15486,6 +15479,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32711,
+		"y": 32367,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32714,
 		"y": 31165,
 		"z": 8
@@ -20304,6 +20304,13 @@
 		"icon": "down",
 		"x": 32710,
 		"y": 32007,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32710,
+		"y": 32368,
 		"z": 9
 	},
 	{
