@@ -6461,6 +6461,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32231,
+		"y": 32294,
+		"z": 7
+	},
+	{
 		"description": "Dire penguin (spawn location)",
 		"icon": "star",
 		"x": 32232,
@@ -6493,13 +6500,6 @@
 		"icon": "red down",
 		"x": 32240,
 		"y": 31407,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32241,
-		"y": 32292,
 		"z": 7
 	},
 	{
@@ -29680,13 +29680,6 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33389,
-		"y": 32326,
-		"z": 11
-	},
-	{
 		"description": "Bones",
 		"icon": "crossmark",
 		"x": 33393,
@@ -29869,6 +29862,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 33470,
+		"y": 32787,
+		"z": 11
+	},
+	{
 		"description": "Blank paper",
 		"icon": "checkmark",
 		"x": 33471,
@@ -29887,6 +29887,13 @@
 		"icon": "star",
 		"x": 33472,
 		"y": 31561,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33476,
+		"y": 32792,
 		"z": 11
 	},
 	{
@@ -32151,6 +32158,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 33457,
+		"y": 32848,
+		"z": 12
+	},
+	{
 		"description": "Red skull",
 		"icon": "skull",
 		"x": 33459,
@@ -32172,6 +32186,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 33469,
+		"y": 32871,
+		"z": 12
+	},
+	{
 		"description": "Mutated glooth (pink)",
 		"icon": "?",
 		"x": 33471,
@@ -32186,10 +32207,24 @@
 		"z": 12
 	},
 	{
-		"description": "Teleport",
-		"icon": "flag",
+		"description": "",
+		"icon": "red right",
+		"x": 33481,
+		"y": 32849,
+		"z": 12
+	},
+	{
+		"description": "Tarbaz",
+		"icon": "sword",
 		"x": 33482,
 		"y": 32775,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33494,
+		"y": 32867,
 		"z": 12
 	},
 	{
@@ -34241,6 +34276,13 @@
 		"icon": "red right",
 		"x": 33399,
 		"y": 31802,
+		"z": 13
+	},
+	{
+		"description": "The Shatterer",
+		"icon": "sword",
+		"x": 33404,
+		"y": 32469,
 		"z": 13
 	},
 	{
@@ -36351,8 +36393,8 @@
 		"z": 14
 	},
 	{
-		"description": "Lever to boss",
-		"icon": "crossmark",
+		"description": "Shulgrax",
+		"icon": "sword",
 		"x": 33477,
 		"y": 32699,
 		"z": 14
