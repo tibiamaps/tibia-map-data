@@ -19096,7 +19096,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Issavi - Nykri Delta",
 		"icon": "flag",
 		"x": 33729,
 		"y": 31498,
@@ -19138,7 +19138,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Issavi - Nykri Delta",
 		"icon": "flag",
 		"x": 33732,
 		"y": 31539,
@@ -19180,6 +19180,13 @@
 		"z": 7
 	},
 	{
+		"description": "Issavi - Nykri Delta",
+		"icon": "flag",
+		"x": 33745,
+		"y": 31531,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33747,
@@ -19205,6 +19212,13 @@
 		"icon": "flag",
 		"x": 33753,
 		"y": 32690,
+		"z": 7
+	},
+	{
+		"description": "Issavi - Nykri Delta",
+		"icon": "flag",
+		"x": 33754,
+		"y": 31476,
 		"z": 7
 	},
 	{
@@ -19243,6 +19257,13 @@
 		"z": 7
 	},
 	{
+		"description": "Issavi - Nykri Delta",
+		"icon": "flag",
+		"x": 33764,
+		"y": 31507,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33766,
@@ -19250,7 +19271,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Issavi - Nykri Delta",
 		"icon": "flag",
 		"x": 33769,
 		"y": 31530,
@@ -19534,6 +19555,13 @@
 		"icon": "flag",
 		"x": 33883,
 		"y": 32803,
+		"z": 7
+	},
+	{
+		"description": "Issavi - Nykri Delta",
+		"icon": "flag",
+		"x": 33884,
+		"y": 31438,
 		"z": 7
 	},
 	{
