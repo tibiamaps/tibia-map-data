@@ -29,7 +29,7 @@ jobs:
           mkdir -p minimap
           curl --silent --location --output minimap/minimapmarkers.bin "${URL}"
           node_modules/.bin/tibia-maps --from-minimap=minimap --output-dir=data --markers-only
-          git config user.name 'Mathias Bynens'
-          git config user.email 'mathias@qiwi.be'
+          git config user.name 'TibiaMaps.io'
+          git config user.email 'ci@tibiamaps.io'
           git commit data/markers.json -m 'Import marker changes from Spenceron’s client'
           git push

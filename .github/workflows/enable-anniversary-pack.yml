@@ -28,7 +28,7 @@ jobs:
       - name: Enable pack
         run: |
           node scripts/enable-marker-pack.mjs anniversary
-          git config user.name 'Mathias Bynens'
-          git config user.email 'mathias@qiwi.be'
+          git config user.name 'TibiaMaps.io'
+          git config user.email 'ci@tibiamaps.io'
           git commit data -m 'Enable Anniversary pack' -m 'This patch enables the Tibia Anniversary markers in preparation for the upcoming event (which runs from January 7th until January 10th).'
           git push

@@ -28,7 +28,7 @@ jobs:
       - name: Disable pack
         run: |
           node scripts/disable-marker-pack.mjs anniversary
-          git config user.name 'Mathias Bynens'
-          git config user.email 'mathias@qiwi.be'
+          git config user.name 'TibiaMaps.io'
+          git config user.email 'ci@tibiamaps.io'
           git commit data -m 'Disable Anniversary pack' -m 'This patch disables the Tibia Anniversary markers now that the event (which runs from January 7th until January 10th) has come to an end.'
           git push

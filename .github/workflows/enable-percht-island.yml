@@ -31,7 +31,7 @@ jobs:
       - name: Enable pack
         run: |
           scripts/enable-pack.sh percht
-          git config user.name 'Mathias Bynens'
-          git config user.email 'mathias@qiwi.be'
+          git config user.name 'TibiaMaps.io'
+          git config user.email 'ci@tibiamaps.io'
           git commit data -m 'Enable Percht Island maps' -m 'This patch replaces the Orcsoberfest Island maps (and their markers) with the Percht Island maps (and their markers) in preparation for the upcoming event.'
           git push
