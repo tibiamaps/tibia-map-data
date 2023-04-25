@@ -17500,6 +17500,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33466,
+		"y": 32787,
+		"z": 8
+	},
+	{
 		"description": "Bag",
 		"icon": "star",
 		"x": 33467,
@@ -17515,9 +17522,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 33477,
+		"y": 32787,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33480,
 		"y": 31203,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33482,
+		"y": 32798,
 		"z": 8
 	},
 	{
@@ -22177,6 +22198,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33452,
+		"y": 32788,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33455,
 		"y": 31723,
@@ -22222,6 +22250,13 @@
 		"icon": "star",
 		"x": 33470,
 		"y": 30995,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33471,
+		"y": 32807,
 		"z": 9
 	},
 	{
@@ -34419,13 +34454,6 @@
 		"z": 13
 	},
 	{
-		"description": "Ragiaz",
-		"icon": "sword",
-		"x": 33455,
-		"y": 32356,
-		"z": 13
-	},
-	{
 		"description": "Count Vlarkorth",
 		"icon": "checkmark",
 		"x": 33456,
@@ -34636,8 +34664,8 @@
 		"z": 13
 	},
 	{
-		"description": "To Mazoran",
-		"icon": "flag",
+		"description": "Mazoran",
+		"icon": "sword",
 		"x": 33672,
 		"y": 32688,
 		"z": 13
@@ -36379,8 +36407,8 @@
 		"z": 14
 	},
 	{
-		"description": "Portal to Ragiaz",
-		"icon": "flag",
+		"description": "Ragiaz",
+		"icon": "sword",
 		"x": 33432,
 		"y": 32332,
 		"z": 14
