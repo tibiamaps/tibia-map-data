@@ -17503,7 +17503,7 @@
 		"description": "",
 		"icon": "red left",
 		"x": 33466,
-		"y": 32787,
+		"y": 32781,
 		"z": 8
 	},
 	{
@@ -17524,7 +17524,7 @@
 		"description": "",
 		"icon": "red left",
 		"x": 33477,
-		"y": 32787,
+		"y": 32781,
 		"z": 8
 	},
 	{
@@ -31584,6 +31584,13 @@
 		"z": 12
 	},
 	{
+		"description": "Horestis",
+		"icon": "sword",
+		"x": 32942,
+		"y": 32781,
+		"z": 12
+	},
+	{
 		"description": "Arachir the Ancient One (spawn location)",
 		"icon": "star",
 		"x": 32965,
@@ -36299,6 +36306,13 @@
 		"icon": "checkmark",
 		"x": 33403,
 		"y": 32392,
+		"z": 14
+	},
+	{
+		"description": "The Shatterer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33403,
+		"y": 32415,
 		"z": 14
 	},
 	{
