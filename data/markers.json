@@ -3262,6 +3262,13 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33717,
+		"y": 31966,
+		"z": 5
+	},
+	{
 		"description": "Kusuma",
 		"icon": "red down",
 		"x": 33717,
@@ -5432,6 +5439,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33781,
+		"y": 32721,
+		"z": 6
+	},
+	{
 		"description": "NPC Captain Jack Rat (hi / sail / safe / yes)",
 		"icon": "mouth",
 		"x": 33791,
@@ -5880,13 +5894,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32082,
-		"y": 31528,
-		"z": 7
-	},
-	{
 		"description": "Barn",
 		"icon": "flag",
 		"x": 32082,
@@ -6080,6 +6087,13 @@
 		"icon": "flag",
 		"x": 32119,
 		"y": 31734,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32121,
+		"y": 31581,
 		"z": 7
 	},
 	{
@@ -7179,6 +7193,13 @@
 		"icon": "bag",
 		"x": 32392,
 		"y": 32497,
+		"z": 7
+	},
+	{
+		"description": "NPC An Idol",
+		"icon": "mouth",
+		"x": 32397,
+		"y": 32510,
 		"z": 7
 	},
 	{
@@ -13247,7 +13268,7 @@
 		"description": "To Port Hope",
 		"icon": "flag",
 		"x": 33842,
-		"y": 32854,
+		"y": 32852,
 		"z": 7
 	},
 	{
@@ -26166,6 +26187,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33205,
+		"y": 31739,
+		"z": 10
+	},
+	{
 		"description": "Blood-stained Pagoda",
 		"icon": "crossmark",
 		"x": 33206,
@@ -26394,6 +26422,13 @@
 		"icon": "red up",
 		"x": 33284,
 		"y": 32107,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33292,
+		"y": 31723,
 		"z": 10
 	},
 	{
@@ -28011,13 +28046,6 @@
 		"icon": "down",
 		"x": 32438,
 		"y": 31967,
-		"z": 11
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32438,
-		"y": 32464,
 		"z": 11
 	},
 	{
