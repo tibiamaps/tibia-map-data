@@ -10675,6 +10675,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33229,
+		"y": 31764,
+		"z": 7
+	},
+	{
 		"description": "Battlemaster Zunzu",
 		"icon": "star",
 		"x": 33233,
@@ -33201,6 +33208,13 @@
 		"z": 13
 	},
 	{
+		"description": "Grorlam (check surroundings of this mark)",
+		"icon": "star",
+		"x": 32414,
+		"y": 31994,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32415,
@@ -33226,13 +33240,6 @@
 		"icon": "down",
 		"x": 32420,
 		"y": 32018,
-		"z": 13
-	},
-	{
-		"description": "Grorlam (check surroundings of this mark)",
-		"icon": "star",
-		"x": 32422,
-		"y": 32007,
 		"z": 13
 	},
 	{
