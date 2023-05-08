@@ -23,6 +23,11 @@ imagemin data/*.png --out-dir="${DIST_DIR}";
 
 cd "${DIST_DIR}";
 
+echo "Calculating hashes for map files…"
+for file in floor-*-map.png; do
+	md5sum "${file}" >> hashes.txt;
+done;
+
 echo 'Generating minimap folders…';
 tibia-maps --from-data=../data --output-dir=./minimap;
 # Note: minimap images cannot be optimized — their color palette must be
