@@ -25,7 +25,7 @@ cd "${DIST_DIR}";
 
 echo "Calculating hashes for map files"
 for file in floor-*-map.png; do
-	md5sum ${file} >> hashes.txt
+	md5sum ${file} >> hashes.txt;
 done;
 
 echo 'Generating minimap folders…';
