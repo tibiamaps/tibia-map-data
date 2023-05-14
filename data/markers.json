@@ -34545,6 +34545,13 @@
 		"z": 13
 	},
 	{
+		"description": "Ragiaz (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33482,
+		"y": 32334,
+		"z": 13
+	},
+	{
 		"description": "Earl Osam, Cormaya",
 		"icon": "checkmark",
 		"x": 33518,
