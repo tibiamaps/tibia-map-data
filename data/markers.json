@@ -12845,6 +12845,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Bullwark",
+		"icon": "sword",
+		"x": 33706,
+		"y": 31861,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33707,
@@ -33264,10 +33271,10 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32436,
-		"y": 32751,
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32439,
+		"y": 32746,
 		"z": 13
 	},
 	{
@@ -35275,7 +35282,7 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32442,
+		"x": 32447,
 		"y": 32780,
 		"z": 14
 	},
