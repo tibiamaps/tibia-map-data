@@ -36638,6 +36638,13 @@
 		"z": 14
 	},
 	{
+		"description": "Deepling brawler (spawn location)",
+		"icon": "star",
+		"x": 33539,
+		"y": 31247,
+		"z": 14
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33539,
@@ -36785,10 +36792,24 @@
 		"z": 14
 	},
 	{
+		"description": "Deepling brawler (spawn location)",
+		"icon": "star",
+		"x": 33565,
+		"y": 31299,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "red right",
 		"x": 33566,
 		"y": 31951,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33567,
+		"y": 31212,
 		"z": 14
 	},
 	{
@@ -36845,6 +36866,13 @@
 		"icon": "crossmark",
 		"x": 33578,
 		"y": 31276,
+		"z": 14
+	},
+	{
+		"description": "Deepling brawler (spawn location)",
+		"icon": "star",
+		"x": 33579,
+		"y": 31254,
 		"z": 14
 	},
 	{
@@ -38875,6 +38903,13 @@
 		"icon": "up",
 		"x": 33564,
 		"y": 32860,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33567,
+		"y": 31212,
 		"z": 15
 	},
 	{
