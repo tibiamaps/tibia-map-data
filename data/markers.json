@@ -37093,8 +37093,15 @@
 		"z": 14
 	},
 	{
-		"description": "Boss TP",
+		"description": "Shortcut teleports",
 		"icon": "flag",
+		"x": 33716,
+		"y": 31931,
+		"z": 14
+	},
+	{
+		"description": "Deep Terror",
+		"icon": "sword",
 		"x": 33726,
 		"y": 31953,
 		"z": 14
@@ -38983,6 +38990,13 @@
 		"z": 15
 	},
 	{
+		"description": "Teleport back",
+		"icon": "flag",
+		"x": 33608,
+		"y": 32055,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33609,
@@ -39253,6 +39267,13 @@
 		"icon": "red right",
 		"x": 33736,
 		"y": 32339,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33742,
+		"y": 31940,
 		"z": 15
 	},
 	{
