@@ -4431,6 +4431,20 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32984,
+		"y": 32387,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32989,
+		"y": 32391,
+		"z": 6
+	},
+	{
 		"description": "Plank and Treasurechest",
 		"icon": "bag",
 		"x": 32994,
@@ -9464,6 +9478,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32989,
+		"y": 32392,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32996,
@@ -9573,6 +9594,13 @@
 		"icon": "flag",
 		"x": 33021,
 		"y": 32604,
+		"z": 7
+	},
+	{
+		"description": "Towards NPC Torkada",
+		"icon": "up",
+		"x": 33025,
+		"y": 32434,
 		"z": 7
 	},
 	{
@@ -16129,6 +16157,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32984,
+		"y": 32390,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32985,
 		"y": 32755,
@@ -16139,6 +16174,13 @@
 		"icon": "down",
 		"x": 32986,
 		"y": 32661,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32990,
+		"y": 32388,
 		"z": 8
 	},
 	{
@@ -20937,6 +20979,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32953,
+		"y": 32398,
+		"z": 9
+	},
+	{
 		"description": "Basement (requires Razing rank in Vampire Hunter Quest)",
 		"icon": "red left",
 		"x": 32954,
@@ -20993,6 +21042,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 32972,
+		"y": 32398,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Hot Spot",
 		"icon": "flag",
 		"x": 32979,
@@ -21036,9 +21092,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32987,
+		"y": 32400,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32989,
 		"y": 31625,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32990,
+		"y": 32388,
 		"z": 9
 	},
 	{
@@ -34804,6 +34874,20 @@
 		"z": 13
 	},
 	{
+		"description": "Towards exit",
+		"icon": "down",
+		"x": 34066,
+		"y": 31990,
+		"z": 13
+	},
+	{
+		"description": "Spheric teleporter",
+		"icon": "flag",
+		"x": 34106,
+		"y": 32053,
+		"z": 13
+	},
+	{
 		"description": "Use flask of medusa’s ointment",
 		"icon": "star",
 		"x": 31983,
@@ -37535,6 +37619,76 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 34066,
+		"y": 31990,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34066,
+		"y": 32001,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34070,
+		"y": 31974,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34090,
+		"y": 32001,
+		"z": 14
+	},
+	{
+		"description": "Spheric teleporter",
+		"icon": "flag",
+		"x": 34092,
+		"y": 31979,
+		"z": 14
+	},
+	{
+		"description": "Spheric teleporter",
+		"icon": "flag",
+		"x": 34092,
+		"y": 32009,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34114,
+		"y": 31990,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34114,
+		"y": 32001,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34118,
+		"y": 32007,
+		"z": 14
+	},
+	{
+		"description": "Spheric teleporter",
+		"icon": "flag",
+		"x": 34120,
+		"y": 31979,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 32042,
 		"y": 31921,
@@ -39393,6 +39547,20 @@
 		"icon": "flag",
 		"x": 33954,
 		"y": 32076,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34118,
+		"y": 32007,
+		"z": 15
+	},
+	{
+		"description": "Spheric teleporter",
+		"icon": "flag",
+		"x": 34118,
+		"y": 32010,
 		"z": 15
 	}
 ]
