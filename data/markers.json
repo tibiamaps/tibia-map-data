@@ -9709,6 +9709,13 @@
 		"z": 7
 	},
 	{
+		"description": "5. Rune",
+		"icon": "checkmark",
+		"x": 33034,
+		"y": 32956,
+		"z": 7
+	},
+	{
 		"description": "Otherworld",
 		"icon": "red down",
 		"x": 33035,
@@ -9734,6 +9741,20 @@
 		"icon": "up",
 		"x": 33038,
 		"y": 32809,
+		"z": 7
+	},
+	{
+		"description": "3. Rune",
+		"icon": "checkmark",
+		"x": 33039,
+		"y": 32941,
+		"z": 7
+	},
+	{
+		"description": "2. Rune",
+		"icon": "checkmark",
+		"x": 33040,
+		"y": 32915,
 		"z": 7
 	},
 	{
@@ -9786,6 +9807,13 @@
 		"z": 7
 	},
 	{
+		"description": "4. Rune",
+		"icon": "checkmark",
+		"x": 33051,
+		"y": 32920,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33058,
@@ -9835,6 +9863,13 @@
 		"z": 7
 	},
 	{
+		"description": "6. Rune",
+		"icon": "checkmark",
+		"x": 33060,
+		"y": 32936,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33061,
@@ -9853,6 +9888,13 @@
 		"icon": "up",
 		"x": 33065,
 		"y": 32458,
+		"z": 7
+	},
+	{
+		"description": "1. Rune",
+		"icon": "checkmark",
+		"x": 33065,
+		"y": 32929,
 		"z": 7
 	},
 	{
