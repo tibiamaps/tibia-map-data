@@ -16289,17 +16289,17 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 32996,
-		"y": 32296,
+		"description": "Mosaic",
+		"icon": "star",
+		"x": 32995,
+		"y": 32924,
 		"z": 8
 	},
 	{
 		"description": "",
-		"icon": "star",
+		"icon": "down",
 		"x": 32996,
-		"y": 32920,
+		"y": 32296,
 		"z": 8
 	},
 	{
@@ -16352,6 +16352,13 @@
 		"z": 8
 	},
 	{
+		"description": "Mosaic",
+		"icon": "star",
+		"x": 33012,
+		"y": 32919,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33013,
@@ -16363,13 +16370,6 @@
 		"icon": "up",
 		"x": 33013,
 		"y": 32564,
-		"z": 8
-	},
-	{
-		"description": "Mosaic",
-		"icon": "star",
-		"x": 33013,
-		"y": 32920,
 		"z": 8
 	},
 	{
@@ -16444,7 +16444,7 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
+		"icon": "down",
 		"x": 33028,
 		"y": 32953,
 		"z": 8
@@ -21280,6 +21280,20 @@
 		"z": 9
 	},
 	{
+		"description": "5. Full moon",
+		"icon": "star",
+		"x": 32999,
+		"y": 32908,
+		"z": 9
+	},
+	{
+		"description": "4. Gibbous moon",
+		"icon": "star",
+		"x": 33000,
+		"y": 32970,
+		"z": 9
+	},
+	{
 		"description": "Teleport to Golem Workshop",
 		"icon": "flag",
 		"x": 33002,
@@ -21329,10 +21343,24 @@
 		"z": 9
 	},
 	{
+		"description": "1. New moon",
+		"icon": "star",
+		"x": 33010,
+		"y": 32943,
+		"z": 9
+	},
+	{
 		"description": "Warzone 1",
 		"icon": "!",
 		"x": 33013,
 		"y": 31880,
+		"z": 9
+	},
+	{
+		"description": "3. Half moon",
+		"icon": "star",
+		"x": 33014,
+		"y": 32917,
 		"z": 9
 	},
 	{
@@ -21350,6 +21378,13 @@
 		"z": 9
 	},
 	{
+		"description": "2. Waxing moon",
+		"icon": "star",
+		"x": 33030,
+		"y": 32969,
+		"z": 9
+	},
+	{
 		"description": "Dharalion (spawn location)",
 		"icon": "star",
 		"x": 33034,
@@ -21358,9 +21393,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 33038,
+		"y": 32916,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33043,
 		"y": 32554,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33043,
+		"y": 32950,
 		"z": 9
 	},
 	{
