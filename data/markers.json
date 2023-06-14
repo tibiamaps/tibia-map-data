@@ -9751,6 +9751,13 @@
 		"z": 7
 	},
 	{
+		"description": "Tamru the Black (spawn location)",
+		"icon": "star",
+		"x": 33044,
+		"y": 32928,
+		"z": 7
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33048,
@@ -10035,6 +10042,13 @@
 		"icon": "up",
 		"x": 33095,
 		"y": 32950,
+		"z": 7
+	},
+	{
+		"description": "Ayana the Crimson Curse (spawn location)",
+		"icon": "star",
+		"x": 33096,
+		"y": 32954,
 		"z": 7
 	},
 	{
