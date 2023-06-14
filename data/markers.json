@@ -34986,10 +34986,38 @@
 		"z": 13
 	},
 	{
+		"description": "Jaded roots",
+		"icon": "down",
+		"x": 34090,
+		"y": 31990,
+		"z": 13
+	},
+	{
+		"description": "Gloom Pillars",
+		"icon": "down",
+		"x": 34090,
+		"y": 32001,
+		"z": 13
+	},
+	{
 		"description": "Spheric teleporter",
 		"icon": "flag",
 		"x": 34106,
 		"y": 32053,
+		"z": 13
+	},
+	{
+		"description": "Putrefactory",
+		"icon": "down",
+		"x": 34114,
+		"y": 31990,
+		"z": 13
+	},
+	{
+		"description": "Darklight core",
+		"icon": "down",
+		"x": 34114,
+		"y": 32001,
 		"z": 13
 	},
 	{
@@ -37388,9 +37416,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33808,
+		"y": 31697,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33811,
+		"y": 31822,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33811,
 		"y": 32333,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33814,
+		"y": 31827,
 		"z": 14
 	},
 	{
@@ -37499,6 +37548,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33867,
+		"y": 31705,
+		"z": 14
+	},
+	{
 		"description": "Outpost (use gnome chart)",
 		"icon": "star",
 		"x": 33870,
@@ -37510,6 +37566,20 @@
 		"icon": "crossmark",
 		"x": 33870,
 		"y": 32017,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33872,
+		"y": 31882,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33877,
+		"y": 31664,
 		"z": 14
 	},
 	{
@@ -37527,10 +37597,24 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33891,
+		"y": 31923,
+		"z": 14
+	},
+	{
 		"description": "Lava pump",
 		"icon": "star",
 		"x": 33898,
 		"y": 32339,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33901,
+		"y": 31693,
 		"z": 14
 	},
 	{
@@ -37689,9 +37773,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33999,
+		"y": 31818,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "star",
 		"x": 34002,
 		"y": 31987,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34012,
+		"y": 31666,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34019,
+		"y": 31832,
 		"z": 14
 	},
 	{
@@ -37724,6 +37829,20 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 34041,
+		"y": 31702,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34064,
+		"y": 31731,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 34066,
 		"y": 31990,
@@ -37745,23 +37864,37 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 34084,
+		"y": 31903,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 34090,
 		"y": 32001,
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter",
+		"description": "Spheric teleporter - Jaded roots",
 		"icon": "flag",
 		"x": 34092,
 		"y": 31979,
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter",
+		"description": "Spheric teleporter - Gloom Pillars",
 		"icon": "flag",
 		"x": 34092,
 		"y": 32009,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34107,
+		"y": 31689,
 		"z": 14
 	},
 	{
@@ -37786,7 +37919,14 @@
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter",
+		"description": "",
+		"icon": "down",
+		"x": 34120,
+		"y": 31895,
+		"z": 14
+	},
+	{
+		"description": "Spheric teleporter - Putrefactory",
 		"icon": "flag",
 		"x": 34120,
 		"y": 31979,
@@ -39608,6 +39748,20 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33808,
+		"y": 31697,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33814,
+		"y": 31827,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33838,
 		"y": 32178,
 		"z": 15
@@ -39634,10 +39788,52 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33867,
+		"y": 31705,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33872,
+		"y": 31881,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33877,
+		"y": 31664,
+		"z": 15
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 33882,
 		"y": 32130,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33901,
+		"y": 31693,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33902,
+		"y": 31881,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33905,
+		"y": 31693,
 		"z": 15
 	},
 	{
@@ -39657,15 +39853,85 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33999,
+		"y": 31818,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 34002,
+		"y": 31820,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34012,
+		"y": 31666,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34019,
+		"y": 31832,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34041,
+		"y": 31702,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34064,
+		"y": 31731,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34084,
+		"y": 31903,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34107,
+		"y": 31689,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 34118,
 		"y": 32007,
 		"z": 15
 	},
 	{
-		"description": "Spheric teleporter",
+		"description": "Spheric teleporter - Darklight core",
 		"icon": "flag",
 		"x": 34118,
 		"y": 32010,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34119,
+		"y": 31879,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34120,
+		"y": 31895,
 		"z": 15
 	}
 ]
