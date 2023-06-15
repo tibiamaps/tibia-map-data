@@ -476,6 +476,13 @@
 		"z": 2
 	},
 	{
+		"description": "NPC Kiru",
+		"icon": "mouth",
+		"x": 33022,
+		"y": 32913,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33027,
@@ -9485,6 +9492,13 @@
 		"z": 7
 	},
 	{
+		"description": "Large seashell (turquoise at night)",
+		"icon": "crossmark",
+		"x": 32983,
+		"y": 32980,
+		"z": 7
+	},
+	{
 		"description": "Protection zone",
 		"icon": "cross",
 		"x": 32987,
@@ -10175,6 +10189,13 @@
 		"icon": "red down",
 		"x": 33107,
 		"y": 31847,
+		"z": 7
+	},
+	{
+		"description": "Large seashell (turquoise at night)",
+		"icon": "crossmark",
+		"x": 33107,
+		"y": 32933,
 		"z": 7
 	},
 	{
@@ -37664,6 +37685,13 @@
 		"icon": "mouth",
 		"x": 33839,
 		"y": 32123,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33842,
+		"y": 31661,
 		"z": 14
 	},
 	{
