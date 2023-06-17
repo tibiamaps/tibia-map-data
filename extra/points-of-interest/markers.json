@@ -4426,8 +4426,22 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33360,
+		"y": 31344,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33374,
 		"y": 31331,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33385,
+		"y": 31279,
 		"z": 6
 	},
 	{
@@ -17040,6 +17054,13 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 33358,
+		"y": 31317,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 33366,
 		"y": 32678,
 		"z": 7
@@ -24592,9 +24613,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33319,
+		"y": 31283,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33323,
 		"y": 31548,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33332,
+		"y": 31319,
 		"z": 9
 	},
 	{
