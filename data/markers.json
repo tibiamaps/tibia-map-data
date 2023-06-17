@@ -35189,35 +35189,35 @@
 		"z": 13
 	},
 	{
-		"description": "Jaded roots",
+		"description": "Jaded Roots (boss: Murcion)",
 		"icon": "down",
 		"x": 34090,
 		"y": 31990,
 		"z": 13
 	},
 	{
-		"description": "Gloom Pillars",
+		"description": "Gloom Pillars (boss: Chagorz)",
 		"icon": "down",
 		"x": 34090,
 		"y": 32001,
 		"z": 13
 	},
 	{
-		"description": "Spheric teleporter",
+		"description": "Spheric teleporter to ??? (boss: Bakragore)",
 		"icon": "flag",
 		"x": 34106,
 		"y": 32053,
 		"z": 13
 	},
 	{
-		"description": "Putrefactory",
+		"description": "Putrefactory (boss: Ichgahal)",
 		"icon": "down",
 		"x": 34114,
 		"y": 31990,
 		"z": 13
 	},
 	{
-		"description": "Darklight core",
+		"description": "Darklight Core (boss: Vemiath)",
 		"icon": "down",
 		"x": 34114,
 		"y": 32001,
@@ -38122,14 +38122,14 @@
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter - Jaded roots",
+		"description": "Spheric teleporter to Jaded Roots (boss: Murcion)",
 		"icon": "flag",
 		"x": 34092,
 		"y": 31979,
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter - Gloom Pillars",
+		"description": "Spheric teleporter to Gloom Pillars (boss: Chagorz)",
 		"icon": "flag",
 		"x": 34092,
 		"y": 32009,
@@ -38192,7 +38192,7 @@
 		"z": 14
 	},
 	{
-		"description": "Spheric teleporter - Putrefactory",
+		"description": "Spheric teleporter to Putrefactory (boss: Ichgahal)",
 		"icon": "flag",
 		"x": 34120,
 		"y": 31979,
@@ -40201,7 +40201,7 @@
 		"z": 15
 	},
 	{
-		"description": "Spheric teleporter - Darklight core",
+		"description": "Spheric teleporter to Darklight Core (boss: Vemiath)",
 		"icon": "flag",
 		"x": 34118,
 		"y": 32010,
