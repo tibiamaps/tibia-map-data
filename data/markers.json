@@ -29925,6 +29925,13 @@
 		"z": 11
 	},
 	{
+		"description": "Madareth (exact spawn tile)",
+		"icon": "sword",
+		"x": 33197,
+		"y": 31754,
+		"z": 11
+	},
+	{
 		"description": "Shortcut to lower floor",
 		"icon": "red down",
 		"x": 33201,
@@ -29967,6 +29974,13 @@
 		"z": 11
 	},
 	{
+		"description": "Golgordan (exact spawn tile)",
+		"icon": "sword",
+		"x": 33228,
+		"y": 31725,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33229,
@@ -29985,6 +29999,13 @@
 		"icon": "up",
 		"x": 33233,
 		"y": 32702,
+		"z": 11
+	},
+	{
+		"description": "Latrivan (exact spawn tile)",
+		"icon": "sword",
+		"x": 33235,
+		"y": 31725,
 		"z": 11
 	},
 	{
