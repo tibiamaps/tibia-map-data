@@ -532,24 +532,10 @@
 		"z": 2
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33367,
-		"y": 31331,
-		"z": 2
-	},
-	{
-		"description": "To key 0909",
-		"icon": "up",
-		"x": 33377,
-		"y": 31318,
-		"z": 2
-	},
-	{
-		"description": "Grand Commander Soeren (spawn location)",
+		"description": "Grand Commander Soeren (exact spawn tile)",
 		"icon": "sword",
-		"x": 33377,
-		"y": 31321,
+		"x": 33376,
+		"y": 31320,
 		"z": 2
 	},
 	{
@@ -1058,23 +1044,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33375,
-		"y": 31336,
-		"z": 3
-	},
-	{
-		"description": "Preceptor Lazare (spawn location)",
-		"icon": "sword",
-		"x": 33375,
-		"y": 31338,
-		"z": 3
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33376,
 		"y": 31333,
+		"z": 3
+	},
+	{
+		"description": "Preceptor Lazare (exact spawn tile)",
+		"icon": "sword",
+		"x": 33376,
+		"y": 31337,
 		"z": 3
 	},
 	{
@@ -1866,13 +1845,6 @@
 		"icon": "up",
 		"x": 33357,
 		"y": 31343,
-		"z": 4
-	},
-	{
-		"description": "Chest golden",
-		"icon": "checkmark",
-		"x": 33373,
-		"y": 31339,
 		"z": 4
 	},
 	{
@@ -2996,10 +2968,10 @@
 		"z": 5
 	},
 	{
-		"description": "Grand Chaplain Gaunder (spawn location)",
+		"description": "Grand Chaplain Gaunder (exact spawn tile)",
 		"icon": "sword",
-		"x": 33370,
-		"y": 31327,
+		"x": 33369,
+		"y": 31324,
 		"z": 5
 	},
 	{
