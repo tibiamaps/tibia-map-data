@@ -1078,6 +1078,13 @@
 		"z": 3
 	},
 	{
+		"description": "Guard Captain Quaid (exact spawn tile)",
+		"icon": "sword",
+		"x": 33392,
+		"y": 32660,
+		"z": 3
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33478,
@@ -1883,10 +1890,17 @@
 		"z": 4
 	},
 	{
+		"description": "Gaffir (exact spawn tile)",
+		"icon": "sword",
+		"x": 33394,
+		"y": 32674,
+		"z": 4
+	},
+	{
 		"description": "",
-		"icon": "lock",
-		"x": 33402,
-		"y": 32648,
+		"icon": "up",
+		"x": 33400,
+		"y": 32656,
 		"z": 4
 	},
 	{
@@ -3000,6 +3014,13 @@
 		"icon": "down",
 		"x": 33389,
 		"y": 32680,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33395,
+		"y": 32656,
 		"z": 5
 	},
 	{
@@ -5044,6 +5065,13 @@
 		"icon": "sword",
 		"x": 33384,
 		"y": 31280,
+		"z": 6
+	},
+	{
+		"description": "Scarlett Etzel",
+		"icon": "sword",
+		"x": 33395,
+		"y": 32668,
 		"z": 6
 	},
 	{
@@ -11403,13 +11431,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "lock",
-		"x": 33366,
-		"y": 32646,
-		"z": 7
-	},
-	{
 		"description": "To the Thawing Dragon Lord",
 		"icon": "up",
 		"x": 33367,
@@ -11446,9 +11467,9 @@
 	},
 	{
 		"description": "",
-		"icon": "lock",
-		"x": 33378,
-		"y": 32692,
+		"icon": "down",
+		"x": 33380,
+		"y": 32686,
 		"z": 7
 	},
 	{
@@ -11470,13 +11491,6 @@
 		"icon": "up",
 		"x": 33397,
 		"y": 32676,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "lock",
-		"x": 33404,
-		"y": 32662,
 		"z": 7
 	},
 	{
@@ -17704,9 +17718,23 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33361,
+		"y": 32777,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33365,
 		"y": 31938,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33365,
+		"y": 32825,
 		"z": 8
 	},
 	{
@@ -17714,6 +17742,13 @@
 		"icon": "bag",
 		"x": 33371,
 		"y": 31343,
+		"z": 8
+	},
+	{
+		"description": "Custodian (exact spawn tile)",
+		"icon": "sword",
+		"x": 33376,
+		"y": 32825,
 		"z": 8
 	},
 	{
@@ -38003,7 +38038,7 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34015,
 		"y": 31665,
@@ -38017,7 +38052,7 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34021,
 		"y": 31739,
@@ -38059,7 +38094,7 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34044,
 		"y": 31705,
@@ -38073,7 +38108,7 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34066,
 		"y": 31677,
@@ -38101,7 +38136,7 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34084,
 		"y": 31711,
@@ -38150,14 +38185,14 @@
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34109,
 		"y": 31692,
 		"z": 14
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34111,
 		"y": 31728,
@@ -40159,7 +40194,7 @@
 		"z": 15
 	},
 	{
-		"description": "Radicular totem",
+		"description": "",
 		"icon": "skull",
 		"x": 34056,
 		"y": 31693,
