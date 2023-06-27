@@ -1043,6 +1043,13 @@
 		"z": 3
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33373,
+		"y": 31332,
+		"z": 3
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33376,
@@ -1845,6 +1852,13 @@
 		"icon": "up",
 		"x": 33357,
 		"y": 31343,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33374,
+		"y": 31332,
 		"z": 4
 	},
 	{
@@ -2951,6 +2965,13 @@
 		"icon": "bag",
 		"x": 33357,
 		"y": 31358,
+		"z": 5
+	},
+	{
+		"description": "Thawing Dragon Lord (exact spawn tile)",
+		"icon": "sword",
+		"x": 33358,
+		"y": 31314,
 		"z": 5
 	},
 	{
