@@ -1043,6 +1043,13 @@
 		"z": 3
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33373,
+		"y": 31332,
+		"z": 3
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33376,
@@ -1845,6 +1852,13 @@
 		"icon": "up",
 		"x": 33357,
 		"y": 31343,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33374,
+		"y": 31332,
 		"z": 4
 	},
 	{
@@ -2958,6 +2972,13 @@
 		"icon": "bag",
 		"x": 33357,
 		"y": 31358,
+		"z": 5
+	},
+	{
+		"description": "Thawing Dragon Lord (exact spawn tile)",
+		"icon": "sword",
+		"x": 33358,
+		"y": 31314,
 		"z": 5
 	},
 	{
@@ -10654,8 +10675,8 @@
 		"z": 7
 	},
 	{
-		"description": "Resistance Hideout",
-		"icon": "crossmark",
+		"description": "Resistance hideout",
+		"icon": "down",
 		"x": 33173,
 		"y": 31075,
 		"z": 7
@@ -11015,13 +11036,6 @@
 		"icon": "!",
 		"x": 33233,
 		"y": 32704,
-		"z": 7
-	},
-	{
-		"description": "Chaochai",
-		"icon": "crossmark",
-		"x": 33234,
-		"y": 31183,
 		"z": 7
 	},
 	{
@@ -11498,13 +11512,6 @@
 		"icon": "crossmark",
 		"x": 33355,
 		"y": 31345,
-		"z": 7
-	},
-	{
-		"description": "Maintenance Tunnel Entry",
-		"icon": "crossmark",
-		"x": 33356,
-		"y": 31180,
 		"z": 7
 	},
 	{
@@ -35371,8 +35378,8 @@
 		"z": 13
 	},
 	{
-		"description": "Spheric teleporter to ??? (boss: Bakragore)",
-		"icon": "flag",
+		"description": "To Bakragore lever room",
+		"icon": "sword",
 		"x": 34106,
 		"y": 32053,
 		"z": 13
@@ -36631,241 +36638,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "red down",
-		"x": 33198,
-		"y": 32974,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33198,
-		"y": 32976,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33199,
-		"y": 32976,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33202,
-		"y": 32973,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33202,
-		"y": 32974,
-		"z": 14
-	},
-	{
 		"description": "Omruc (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33202,
 		"y": 32998,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33204,
-		"y": 32961,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33204,
-		"y": 32963,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33204,
-		"y": 32973,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33204,
-		"y": 32976,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33205,
-		"y": 32963,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33205,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33206,
-		"y": 32959,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33206,
-		"y": 32961,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33206,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33206,
-		"y": 32967,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33206,
-		"y": 32971,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33206,
-		"y": 32974,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33208,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33208,
-		"y": 32967,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33208,
-		"y": 32971,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33208,
-		"y": 32972,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33209,
-		"y": 32963,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red up",
-		"x": 33209,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33209,
-		"y": 32974,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33209,
-		"y": 32976,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33210,
-		"y": 32970,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33210,
-		"y": 32972,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33212,
-		"y": 32963,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red right",
-		"x": 33212,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33212,
-		"y": 32967,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33212,
-		"y": 32970,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red down",
-		"x": 33213,
-		"y": 32965,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "red left",
-		"x": 33213,
-		"y": 32967,
 		"z": 14
 	},
 	{
