@@ -2800,13 +2800,6 @@
 		"z": 5
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33090,
-		"y": 32943,
-		"z": 5
-	},
-	{
 		"description": "Silver ewer (daily spawn)",
 		"icon": "bag",
 		"x": 33091,
@@ -4792,13 +4785,6 @@
 		"icon": "down",
 		"x": 33094,
 		"y": 32690,
-		"z": 6
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33098,
-		"y": 32946,
 		"z": 6
 	},
 	{
@@ -9401,13 +9387,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32947,
-		"y": 32929,
-		"z": 7
-	},
-	{
 		"description": "Water buffalo (spawn location)",
 		"icon": "star",
 		"x": 32948,
@@ -9436,13 +9415,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32951,
-		"y": 32930,
-		"z": 7
-	},
-	{
 		"description": "Asura Mirror",
 		"icon": "red down",
 		"x": 32953,
@@ -9464,13 +9436,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32961,
-		"y": 32956,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 32962,
@@ -9482,13 +9447,6 @@
 		"icon": "star",
 		"x": 32962,
 		"y": 32223,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32964,
-		"y": 32950,
 		"z": 7
 	},
 	{
@@ -9513,24 +9471,10 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32971,
-		"y": 32940,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32972,
 		"y": 31724,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32973,
-		"y": 32940,
 		"z": 7
 	},
 	{
@@ -9576,13 +9520,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32982,
-		"y": 32937,
-		"z": 7
-	},
-	{
 		"description": "Dragons",
 		"icon": "down",
 		"x": 32983,
@@ -9618,27 +9555,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32989,
-		"y": 32926,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32992,
-		"y": 32925,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 32992,
-		"y": 32950,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32996,
@@ -9657,20 +9573,6 @@
 		"icon": "down",
 		"x": 32999,
 		"y": 32932,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33000,
-		"y": 32917,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33002,
-		"y": 32908,
 		"z": 7
 	},
 	{
@@ -9751,13 +9653,6 @@
 		"z": 7
 	},
 	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33013,
-		"y": 32962,
-		"z": 7
-	},
-	{
 		"description": "Foxmouse",
 		"icon": "down",
 		"x": 33014,
@@ -9790,20 +9685,6 @@
 		"icon": "flag",
 		"x": 33021,
 		"y": 32604,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33021,
-		"y": 32898,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33024,
-		"y": 32942,
 		"z": 7
 	},
 	{
@@ -10224,13 +10105,6 @@
 		"icon": "up",
 		"x": 33090,
 		"y": 32450,
-		"z": 7
-	},
-	{
-		"description": "White tiger (fire bomb spot)",
-		"icon": "!",
-		"x": 33091,
-		"y": 32953,
 		"z": 7
 	},
 	{
