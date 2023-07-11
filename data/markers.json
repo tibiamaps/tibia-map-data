@@ -37940,6 +37940,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33828,
+		"y": 31844,
+		"z": 14
+	},
+	{
 		"description": "Warzone 4",
 		"icon": "!",
 		"x": 33828,
@@ -37962,6 +37969,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33832,
+		"y": 31885,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33835,
 		"y": 32323,
@@ -37972,6 +37986,13 @@
 		"icon": "checkmark",
 		"x": 33836,
 		"y": 32266,
+		"z": 14
+	},
+	{
+		"description": "Spore reservoir",
+		"icon": "flag",
+		"x": 33838,
+		"y": 31729,
 		"z": 14
 	},
 	{
@@ -38031,6 +38052,20 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33860,
+		"y": 31861,
+		"z": 14
+	},
+	{
+		"description": "Spore reservoir",
+		"icon": "flag",
+		"x": 33864,
+		"y": 31740,
+		"z": 14
+	},
+	{
 		"description": "Broken Tower (use gnome chart)",
 		"icon": "star",
 		"x": 33866,
@@ -38080,6 +38115,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33880,
+		"y": 31839,
+		"z": 14
+	},
+	{
 		"description": "First room (use explosive barrel)",
 		"icon": "crossmark",
 		"x": 33882,
@@ -38094,6 +38136,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33894,
+		"y": 31883,
+		"z": 14
+	},
+	{
 		"description": "Lava pump",
 		"icon": "star",
 		"x": 33898,
@@ -38105,6 +38154,13 @@
 		"icon": "down",
 		"x": 33901,
 		"y": 31693,
+		"z": 14
+	},
+	{
+		"description": "Spore reservoir",
+		"icon": "flag",
+		"x": 33905,
+		"y": 31730,
 		"z": 14
 	},
 	{
@@ -38249,6 +38305,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33991,
+		"y": 31903,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33992,
 		"y": 32206,
@@ -38284,6 +38347,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 34014,
+		"y": 31743,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "skull",
 		"x": 34015,
 		"y": 31665,
@@ -38308,6 +38378,13 @@
 		"icon": "flag",
 		"x": 34022,
 		"y": 32038,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34023,
+		"y": 31812,
 		"z": 14
 	},
 	{
@@ -38347,6 +38424,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 34044,
+		"y": 31711,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 34064,
 		"y": 31731,
@@ -38376,8 +38460,29 @@
 	{
 		"description": "",
 		"icon": "flag",
+		"x": 34069,
+		"y": 31858,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
 		"x": 34070,
 		"y": 31974,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34081,
+		"y": 31909,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34082,
+		"y": 31705,
 		"z": 14
 	},
 	{
@@ -38476,6 +38581,13 @@
 		"icon": "flag",
 		"x": 34120,
 		"y": 31979,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34128,
+		"y": 31915,
 		"z": 14
 	},
 	{
@@ -40436,6 +40548,13 @@
 		"icon": "up",
 		"x": 34041,
 		"y": 31702,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34050,
+		"y": 31706,
 		"z": 15
 	},
 	{
