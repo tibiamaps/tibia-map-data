@@ -9828,10 +9828,10 @@
 		"z": 7
 	},
 	{
-		"description": "Tamru the Black (spawn location)",
+		"description": "Tamru the Black (exact spawn tile)",
 		"icon": "star",
-		"x": 33044,
-		"y": 32928,
+		"x": 33046,
+		"y": 32929,
 		"z": 7
 	},
 	{
@@ -10143,10 +10143,10 @@
 		"z": 7
 	},
 	{
-		"description": "Ayana the Crimson Curse (spawn location)",
+		"description": "Ayana the Crimson Curse (exact spawn tile)",
 		"icon": "star",
 		"x": 33096,
-		"y": 32954,
+		"y": 32953,
 		"z": 7
 	},
 	{
