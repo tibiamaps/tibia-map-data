@@ -9961,17 +9961,17 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 33068,
-		"y": 32918,
-		"z": 7
-	},
-	{
 		"description": "Post office",
 		"icon": "bag",
 		"x": 33069,
 		"y": 32877,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33069,
+		"y": 32915,
 		"z": 7
 	},
 	{
