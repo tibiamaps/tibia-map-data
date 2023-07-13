@@ -34608,13 +34608,6 @@
 		"z": 13
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33194,
-		"y": 31433,
-		"z": 13
-	},
-	{
 		"description": "Teleport to Plagirath",
 		"icon": "sword",
 		"x": 33199,
@@ -34623,30 +34616,9 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33200,
-		"y": 31466,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33216,
-		"y": 31445,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33228,
 		"y": 31698,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33229,
-		"y": 31457,
 		"z": 13
 	},
 	{
