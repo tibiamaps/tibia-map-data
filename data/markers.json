@@ -38045,6 +38045,13 @@
 		"z": 14
 	},
 	{
+		"description": "Spore reservoir",
+		"icon": "flag",
+		"x": 33858,
+		"y": 31685,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33860,
@@ -38152,6 +38159,13 @@
 	{
 		"description": "Spore reservoir",
 		"icon": "flag",
+		"x": 33902,
+		"y": 31697,
+		"z": 14
+	},
+	{
+		"description": "Spore reservoir",
+		"icon": "flag",
 		"x": 33905,
 		"y": 31730,
 		"z": 14
@@ -38189,6 +38203,13 @@
 		"icon": "skull",
 		"x": 33922,
 		"y": 32165,
+		"z": 14
+	},
+	{
+		"description": "Spore reservoir",
+		"icon": "flag",
+		"x": 33923,
+		"y": 31712,
 		"z": 14
 	},
 	{
@@ -38346,7 +38367,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34015,
 		"y": 31665,
@@ -38360,7 +38381,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34021,
 		"y": 31739,
@@ -38409,7 +38430,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34044,
 		"y": 31705,
@@ -38430,7 +38451,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34066,
 		"y": 31677,
@@ -38448,6 +38469,13 @@
 		"icon": "up",
 		"x": 34066,
 		"y": 32001,
+		"z": 14
+	},
+	{
+		"description": "Radicular totem",
+		"icon": "skull",
+		"x": 34068,
+		"y": 31732,
 		"z": 14
 	},
 	{
@@ -38479,7 +38507,7 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34084,
 		"y": 31711,
@@ -38528,14 +38556,14 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34109,
 		"y": 31692,
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Radicular totem",
 		"icon": "skull",
 		"x": 34111,
 		"y": 31728,
