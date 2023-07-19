@@ -30751,6 +30751,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 33666,
+		"y": 32624,
+		"z": 11
+	},
+	{
 		"description": "Hydra corms",
 		"icon": "crossmark",
 		"x": 33739,
@@ -31539,6 +31546,13 @@
 		"icon": "up",
 		"x": 32438,
 		"y": 32464,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32441,
+		"y": 32782,
 		"z": 12
 	},
 	{
