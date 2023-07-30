@@ -35154,6 +35154,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33686,
+		"y": 32891,
+		"z": 13
+	},
+	{
 		"description": "Blue shrine",
 		"icon": "star",
 		"x": 33924,
@@ -37761,7 +37768,7 @@
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33695,
-		"y": 32900,
+		"y": 32899,
 		"z": 14
 	},
 	{
