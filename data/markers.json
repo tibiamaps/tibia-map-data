@@ -37773,8 +37773,8 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "red right",
-		"x": 33698,
+		"icon": "red left",
+		"x": 33702,
 		"y": 32914,
 		"z": 14
 	},
