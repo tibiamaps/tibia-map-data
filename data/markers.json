@@ -9520,7 +9520,7 @@
 		"z": 7
 	},
 	{
-		"description": "Teneshpar (Rise of Devovorga)",
+		"description": "Irahsae (Rise of Devovorga)",
 		"icon": "sword",
 		"x": 32976,
 		"y": 32429,
@@ -15498,6 +15498,13 @@
 		"z": 8
 	},
 	{
+		"description": "Anmothra (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32637,
+		"y": 32311,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32639,
@@ -16391,6 +16398,13 @@
 		"icon": "up",
 		"x": 32967,
 		"y": 32142,
+		"z": 8
+	},
+	{
+		"description": "Irahsae (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32967,
+		"y": 32400,
 		"z": 8
 	},
 	{
