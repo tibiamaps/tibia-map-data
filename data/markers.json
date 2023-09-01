@@ -13930,6 +13930,13 @@
 		"z": 8
 	},
 	{
+		"description": "Teneshpar (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31946,
+		"y": 31531,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 31948,
@@ -16335,6 +16342,13 @@
 		"icon": "down",
 		"x": 32949,
 		"y": 31620,
+		"z": 8
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 32953,
+		"y": 31516,
 		"z": 8
 	},
 	{
