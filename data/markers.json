@@ -11319,6 +11319,13 @@
 		"z": 7
 	},
 	{
+		"description": "Chikhaton (Rise of Devovorga)",
+		"icon": "sword",
+		"x": 33325,
+		"y": 31741,
+		"z": 7
+	},
+	{
 		"description": "Teleport to Falcon Bastion",
 		"icon": "flag",
 		"x": 33328,
@@ -17665,6 +17672,13 @@
 		"icon": "flag",
 		"x": 33317,
 		"y": 32146,
+		"z": 8
+	},
+	{
+		"description": "Chikhaton (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33320,
+		"y": 31741,
 		"z": 8
 	},
 	{
