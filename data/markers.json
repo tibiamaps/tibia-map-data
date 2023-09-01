@@ -5663,6 +5663,13 @@
 		"z": 7
 	},
 	{
+		"description": "Teneshpar (Rise of Devovorga)",
+		"icon": "sword",
+		"x": 31965,
+		"y": 31582,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 31966,
@@ -6318,6 +6325,13 @@
 		"icon": "!",
 		"x": 32167,
 		"y": 32836,
+		"z": 7
+	},
+	{
+		"description": "Phrodomo (Rise of Devovorga)",
+		"icon": "sword",
+		"x": 32169,
+		"y": 31829,
 		"z": 7
 	},
 	{
@@ -8169,6 +8183,13 @@
 		"z": 7
 	},
 	{
+		"description": "Anmothra (Rise of Devovorga)",
+		"icon": "sword",
+		"x": 32629,
+		"y": 32329,
+		"z": 7
+	},
+	{
 		"description": "To the shops, post office, and bank",
 		"icon": "up",
 		"x": 32629,
@@ -9496,6 +9517,13 @@
 		"icon": "down",
 		"x": 32975,
 		"y": 32686,
+		"z": 7
+	},
+	{
+		"description": "Teneshpar (Rise of Devovorga)",
+		"icon": "sword",
+		"x": 32976,
+		"y": 32429,
 		"z": 7
 	},
 	{
@@ -14375,6 +14403,13 @@
 		"icon": "star",
 		"x": 32146,
 		"y": 31430,
+		"z": 8
+	},
+	{
+		"description": "Phrodomo (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32150,
+		"y": 31822,
 		"z": 8
 	},
 	{
