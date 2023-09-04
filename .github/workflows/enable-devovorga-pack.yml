@@ -1,0 +1,35 @@
+name: 'Enable Devovorga pack'
+
+on:
+  schedule:
+    # Run annually at 04:00 UTC on August 1st (1 month before the event).
+    # https://tibia.fandom.com/wiki/Rise_of_Devovorga/Spoiler
+    cron: '0 4 1 8 *'
+  workflow_dispatch:
+
+jobs:
+  enable-anniversary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Enable pack
+        run: |
+          node scripts/enable-marker-pack.mjs devovorga
+          git config user.name 'TibiaMaps.io'
+          git config user.email 'ci@tibiamaps.io'
+          git commit data -m 'Enable Devovorga pack' -m 'This patch enables the Rise of Devovorga markers in preparation for the upcoming event (which runs from September 1st until September 7th, with potential rewards until October 1st).'
+          git push
