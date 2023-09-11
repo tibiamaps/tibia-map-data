@@ -4,7 +4,7 @@ on:
   schedule:
     # Run annually at 04:00 UTC on August 1st (1 month before the event).
     # https://tibia.fandom.com/wiki/Rise_of_Devovorga/Spoiler
-    cron: '0 4 1 8 *'
+    - cron: '0 4 1 8 *'
   workflow_dispatch:
 
 jobs:
