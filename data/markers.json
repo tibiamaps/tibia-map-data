@@ -17858,23 +17858,16 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33426,
-		"y": 31270,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 33437,
 		"y": 32218,
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33443,
-		"y": 31233,
+		"description": "Fleshslicer (spawn location)",
+		"icon": "crossmark",
+		"x": 33439,
+		"y": 31263,
 		"z": 8
 	},
 	{
@@ -17882,6 +17875,13 @@
 		"icon": "down",
 		"x": 33447,
 		"y": 31316,
+		"z": 8
+	},
+	{
+		"description": "Mindmasher (spawn location)",
+		"icon": "crossmark",
+		"x": 33449,
+		"y": 31219,
 		"z": 8
 	},
 	{
@@ -17927,13 +17927,6 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "sword",
-		"x": 33457,
-		"y": 31222,
-		"z": 8
-	},
-	{
 		"description": "Book",
 		"icon": "star",
 		"x": 33458,
@@ -17959,13 +17952,6 @@
 		"icon": "star",
 		"x": 33467,
 		"y": 32083,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 33476,
-		"y": 31246,
 		"z": 8
 	},
 	{
@@ -18075,13 +18061,6 @@
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33505,
-		"y": 31247,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33505,
 		"y": 31888,
@@ -18102,17 +18081,17 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33511,
-		"y": 31333,
+		"description": "Maw (spawn location)",
+		"icon": "crossmark",
+		"x": 33506,
+		"y": 31247,
 		"z": 8
 	},
 	{
 		"description": "",
-		"icon": "sword",
-		"x": 33514,
-		"y": 31234,
+		"icon": "down",
+		"x": 33511,
+		"y": 31333,
 		"z": 8
 	},
 	{
