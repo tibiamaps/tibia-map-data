@@ -17857,17 +17857,17 @@
 		"z": 8
 	},
 	{
+		"description": "Fleshslicer (spawn location)",
+		"icon": "crossmark",
+		"x": 33422,
+		"y": 31264,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33437,
 		"y": 32218,
-		"z": 8
-	},
-	{
-		"description": "Fleshslicer (spawn location)",
-		"icon": "crossmark",
-		"x": 33439,
-		"y": 31263,
 		"z": 8
 	},
 	{
@@ -17969,6 +17969,13 @@
 		"z": 8
 	},
 	{
+		"description": "Shadowstalker (spawn location)",
+		"icon": "crossmark",
+		"x": 33481,
+		"y": 31235,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 33482,
@@ -18036,13 +18043,6 @@
 		"icon": "sword",
 		"x": 33491,
 		"y": 31398,
-		"z": 8
-	},
-	{
-		"description": "Shadowstalker (spawn location)",
-		"icon": "crossmark",
-		"x": 33492,
-		"y": 31232,
 		"z": 8
 	},
 	{
