@@ -20041,6 +20041,13 @@
 		"z": 9
 	},
 	{
+		"description": "The Horned Fox (spawn location)",
+		"icon": "star",
+		"x": 32455,
+		"y": 31973,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32461,
