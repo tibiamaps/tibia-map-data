@@ -2835,6 +2835,13 @@
 		"z": 5
 	},
 	{
+		"description": "Albino dragon (possible spawn location)",
+		"icon": "star",
+		"x": 33146,
+		"y": 31268,
+		"z": 5
+	},
+	{
 		"description": "Teleport to Kalyassa boss room",
 		"icon": "!",
 		"x": 33160,
@@ -4851,6 +4858,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33147,
+		"y": 31266,
+		"z": 6
+	},
+	{
 		"description": "Sorcerer spells",
 		"icon": "star",
 		"x": 33148,
@@ -4862,6 +4876,13 @@
 		"icon": "red down",
 		"x": 33155,
 		"y": 32542,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33157,
+		"y": 31270,
 		"z": 6
 	},
 	{
@@ -6661,6 +6682,13 @@
 		"icon": "flag",
 		"x": 32256,
 		"y": 32244,
+		"z": 7
+	},
+	{
+		"description": "Boat to Nimmersatt's Lair",
+		"icon": "flag",
+		"x": 32259,
+		"y": 31644,
 		"z": 7
 	},
 	{
@@ -10441,6 +10469,13 @@
 		"icon": "up",
 		"x": 33146,
 		"y": 31249,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33147,
+		"y": 31266,
 		"z": 7
 	},
 	{
