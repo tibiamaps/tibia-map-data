@@ -8246,13 +8246,6 @@
 		"z": 7
 	},
 	{
-		"description": "Trap holes",
-		"icon": "skull",
-		"x": 32635,
-		"y": 32915,
-		"z": 7
-	},
-	{
 		"description": "Offline training",
 		"icon": "sword",
 		"x": 32636,
@@ -8547,20 +8540,6 @@
 		"z": 7
 	},
 	{
-		"description": "Trap holes",
-		"icon": "skull",
-		"x": 32694,
-		"y": 32858,
-		"z": 7
-	},
-	{
-		"description": "Trap holes",
-		"icon": "skull",
-		"x": 32694,
-		"y": 32938,
-		"z": 7
-	},
-	{
 		"description": "Suntower",
 		"icon": "cross",
 		"x": 32696,
@@ -8628,13 +8607,6 @@
 		"icon": "red up",
 		"x": 32713,
 		"y": 31278,
-		"z": 7
-	},
-	{
-		"description": "Trap holes",
-		"icon": "skull",
-		"x": 32720,
-		"y": 32936,
 		"z": 7
 	},
 	{
@@ -8803,13 +8775,6 @@
 		"icon": "up",
 		"x": 32763,
 		"y": 31249,
-		"z": 7
-	},
-	{
-		"description": "Trap holes",
-		"icon": "skull",
-		"x": 32766,
-		"y": 32894,
 		"z": 7
 	},
 	{
