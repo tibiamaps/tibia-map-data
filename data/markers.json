@@ -2807,6 +2807,13 @@
 		"z": 5
 	},
 	{
+		"description": "Albino dragon (spawn location)",
+		"icon": "star",
+		"x": 33091,
+		"y": 32591,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33092,
@@ -4776,6 +4783,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33090,
+		"y": 32599,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33092,
 		"y": 32649,
 		"z": 6
@@ -4813,6 +4827,13 @@
 		"icon": "red up",
 		"x": 33103,
 		"y": 32538,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33117,
+		"y": 32605,
 		"z": 6
 	},
 	{
