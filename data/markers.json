@@ -2842,7 +2842,7 @@
 		"z": 5
 	},
 	{
-		"description": "Albino dragon (possible spawn location)",
+		"description": "Albino dragon (spawn location)",
 		"icon": "star",
 		"x": 33146,
 		"y": 31268,
@@ -27959,7 +27959,7 @@
 	},
 	{
 		"description": "To demons",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32105,
 		"y": 32537,
 		"z": 11
@@ -31969,6 +31969,13 @@
 		"z": 12
 	},
 	{
+		"description": "Albino dragon (spawn location)",
+		"icon": "star",
+		"x": 32768,
+		"y": 32310,
+		"z": 12
+	},
+	{
 		"description": "Rotworm Queen (spawn location)",
 		"icon": "star",
 		"x": 32774,
@@ -33433,7 +33440,7 @@
 	},
 	{
 		"description": "Teleport to exit",
-		"icon": "checkmark",
+		"icon": "flag",
 		"x": 32060,
 		"y": 32554,
 		"z": 13
@@ -35494,6 +35501,13 @@
 		"icon": "red down",
 		"x": 32091,
 		"y": 31970,
+		"z": 14
+	},
+	{
+		"description": "Albino dragon (spawn location)",
+		"icon": "star",
+		"x": 32094,
+		"y": 32566,
 		"z": 14
 	},
 	{
@@ -38945,6 +38959,13 @@
 		"icon": "star",
 		"x": 32550,
 		"y": 31876,
+		"z": 15
+	},
+	{
+		"description": "Albino dragon (spawn location)",
+		"icon": "star",
+		"x": 32586,
+		"y": 31375,
 		"z": 15
 	},
 	{
