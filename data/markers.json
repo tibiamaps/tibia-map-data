@@ -5845,17 +5845,17 @@
 		"z": 7
 	},
 	{
-		"description": "Towards Ferumbras",
-		"icon": "down",
-		"x": 32023,
-		"y": 32736,
-		"z": 7
-	},
-	{
 		"description": "Quara scouts",
 		"icon": "red down",
 		"x": 32024,
 		"y": 31124,
+		"z": 7
+	},
+	{
+		"description": "Towards Ferumbras",
+		"icon": "down",
+		"x": 32024,
+		"y": 32734,
 		"z": 7
 	},
 	{
