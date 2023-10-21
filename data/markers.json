@@ -39088,13 +39088,6 @@
 		"z": 15
 	},
 	{
-		"description": "Shortcut to dragon lords",
-		"icon": "red up",
-		"x": 32782,
-		"y": 32342,
-		"z": 15
-	},
-	{
 		"description": "The Handmaiden (approximate spawn location)",
 		"icon": "star",
 		"x": 32785,
@@ -39134,6 +39127,13 @@
 		"icon": "star",
 		"x": 32801,
 		"y": 32640,
+		"z": 15
+	},
+	{
+		"description": "Shortcut to dragon lords",
+		"icon": "red up",
+		"x": 32802,
+		"y": 32353,
 		"z": 15
 	},
 	{
