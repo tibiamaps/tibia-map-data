@@ -70,6 +70,13 @@
 		"z": 1
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32080,
+		"y": 31122,
+		"z": 1
+	},
+	{
 		"description": "Pile of bones (tinder box quest)",
 		"icon": "star",
 		"x": 32084,
@@ -5663,6 +5670,13 @@
 		"z": 6
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 31895,
+		"y": 32586,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 31915,
@@ -9016,6 +9030,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32827,
+		"y": 32362,
+		"z": 7
+	},
+	{
 		"description": "Tarantulas (task boss: Hide)",
 		"icon": "!",
 		"x": 32827,
@@ -9741,6 +9762,13 @@
 		"icon": "up",
 		"x": 33020,
 		"y": 32580,
+		"z": 7
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33021,
+		"y": 32557,
 		"z": 7
 	},
 	{
@@ -16146,6 +16174,13 @@
 		"icon": "crossmark",
 		"x": 32823,
 		"y": 31161,
+		"z": 8
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32824,
+		"y": 31032,
 		"z": 8
 	},
 	{
@@ -29638,6 +29673,13 @@
 		"z": 11
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33015,
+		"y": 32384,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33015,
@@ -30062,6 +30104,13 @@
 		"icon": "up",
 		"x": 33192,
 		"y": 32399,
+		"z": 11
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33193,
+		"y": 32690,
 		"z": 11
 	},
 	{
@@ -34769,6 +34818,13 @@
 		"z": 13
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 33231,
+		"y": 31639,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33235,
@@ -36015,6 +36071,13 @@
 		"z": 14
 	},
 	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32599,
+		"y": 31899,
+		"z": 14
+	},
+	{
 		"description": "Key 3802 (copper key)",
 		"icon": "red up",
 		"x": 32602,
@@ -36117,6 +36180,13 @@
 		"icon": "flag",
 		"x": 32749,
 		"y": 32344,
+		"z": 14
+	},
+	{
+		"description": "Lightbringer’s basin",
+		"icon": "star",
+		"x": 32752,
+		"y": 31638,
 		"z": 14
 	},
 	{
