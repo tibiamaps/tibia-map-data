@@ -4446,6 +4446,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32965,
+		"y": 32110,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32965,
 		"y": 32685,
@@ -9545,6 +9552,13 @@
 		"icon": "up",
 		"x": 32972,
 		"y": 31724,
+		"z": 7
+	},
+	{
+		"description": "To NPC The Draccoon",
+		"icon": "star",
+		"x": 32974,
+		"y": 32110,
 		"z": 7
 	},
 	{
@@ -23886,6 +23900,13 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red down",
+		"x": 34088,
+		"y": 31602,
+		"z": 9
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 34090,
 		"y": 31829,
 		"z": 9
@@ -27867,6 +27888,13 @@
 		"z": 10
 	},
 	{
+		"description": "Iksupan Undercity",
+		"icon": "flag",
+		"x": 34038,
+		"y": 31726,
+		"z": 10
+	},
+	{
 		"description": "Shortcut to entrance",
 		"icon": "flag",
 		"x": 34041,
@@ -27888,10 +27916,31 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "!",
+		"x": 34078,
+		"y": 31580,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34088,
+		"y": 31603,
+		"z": 10
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 34090,
 		"y": 31830,
+		"z": 10
+	},
+	{
+		"description": "Mitmah south key",
+		"icon": "flag",
+		"x": 34094,
+		"y": 31627,
 		"z": 10
 	},
 	{
@@ -27958,7 +28007,7 @@
 		"z": 11
 	},
 	{
-		"description": "Dreadful Disruptor (exact spawn tile)",
+		"description": "Dreadful Disruptor (exact spawn location)",
 		"icon": "crossmark",
 		"x": 32035,
 		"y": 31372,
@@ -31119,6 +31168,27 @@
 		"icon": "sword",
 		"x": 34043,
 		"y": 31061,
+		"z": 11
+	},
+	{
+		"description": "Jug of gold lye",
+		"icon": "flag",
+		"x": 34051,
+		"y": 31471,
+		"z": 11
+	},
+	{
+		"description": "Pilchi with paint",
+		"icon": "flag",
+		"x": 34060,
+		"y": 31494,
+		"z": 11
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 34095,
+		"y": 31431,
 		"z": 11
 	},
 	{
