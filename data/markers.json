@@ -27825,6 +27825,13 @@
 		"z": 10
 	},
 	{
+		"description": "Atab (exact spawn tile)",
+		"icon": "star",
+		"x": 34008,
+		"y": 31591,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 34011,
@@ -27951,7 +27958,7 @@
 		"z": 11
 	},
 	{
-		"description": "Dreadful Disruptor (exact spawn location)",
+		"description": "Dreadful Disruptor (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32035,
 		"y": 31372,
