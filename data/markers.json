@@ -23772,6 +23772,13 @@
 		"z": 9
 	},
 	{
+		"description": "Teleport back to Ahau",
+		"icon": "flag",
+		"x": 34000,
+		"y": 31732,
+		"z": 9
+	},
+	{
 		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34002,
@@ -27839,6 +27846,13 @@
 		"z": 10
 	},
 	{
+		"description": "Mitmah west key",
+		"icon": "star",
+		"x": 34007,
+		"y": 31617,
+		"z": 10
+	},
+	{
 		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34008,
@@ -27938,7 +27952,7 @@
 	},
 	{
 		"description": "Mitmah south key",
-		"icon": "flag",
+		"icon": "star",
 		"x": 34094,
 		"y": 31627,
 		"z": 10
