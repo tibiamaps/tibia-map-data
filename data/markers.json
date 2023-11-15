@@ -27861,7 +27861,7 @@
 	},
 	{
 		"description": "Atab (exact spawn tile)",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 34008,
 		"y": 31591,
 		"z": 10
