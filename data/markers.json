@@ -10059,6 +10059,13 @@
 		"z": 7
 	},
 	{
+		"description": "Draccoon's teleport gate mark",
+		"icon": "flag",
+		"x": 33073,
+		"y": 32823,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33074,
@@ -10521,6 +10528,13 @@
 		"z": 7
 	},
 	{
+		"description": "Draccoon's teleport gate mark",
+		"icon": "flag",
+		"x": 33155,
+		"y": 32820,
+		"z": 7
+	},
+	{
 		"description": "To the sorcerer trainer",
 		"icon": "up",
 		"x": 33155,
@@ -10696,6 +10710,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Tonar",
+		"icon": "mouth",
+		"x": 33178,
+		"y": 32884,
+		"z": 7
+	},
+	{
 		"description": "Training statues",
 		"icon": "sword",
 		"x": 33179,
@@ -10710,13 +10731,6 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Tonar",
-		"icon": "mouth",
-		"x": 33183,
-		"y": 32881,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33185,
@@ -10728,6 +10742,13 @@
 		"icon": "red down",
 		"x": 33186,
 		"y": 31916,
+		"z": 7
+	},
+	{
+		"description": "Draccoon's teleport gate mark",
+		"icon": "flag",
+		"x": 33186,
+		"y": 32881,
 		"z": 7
 	},
 	{
@@ -16275,6 +16296,13 @@
 		"z": 8
 	},
 	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32874,
+		"y": 32374,
+		"z": 8
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 32880,
@@ -16307,6 +16335,13 @@
 		"icon": "star",
 		"x": 32891,
 		"y": 31888,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32898,
+		"y": 32354,
 		"z": 8
 	},
 	{
@@ -21317,8 +21352,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32898,
+		"y": 32354,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32899,
 		"y": 32579,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32907,
+		"y": 32363,
 		"z": 9
 	},
 	{
@@ -25965,8 +26014,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32907,
+		"y": 32363,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32909,
 		"y": 32570,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32913,
+		"y": 32340,
 		"z": 10
 	},
 	{
@@ -29467,6 +29530,13 @@
 		"icon": "checkmark",
 		"x": 32904,
 		"y": 31903,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32914,
+		"y": 32340,
 		"z": 11
 	},
 	{
@@ -34881,6 +34951,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33255,
+		"y": 31097,
+		"z": 13
+	},
+	{
 		"description": "Zugurosh",
 		"icon": "sword",
 		"x": 33260,
@@ -34892,6 +34969,13 @@
 		"icon": "flag",
 		"x": 33263,
 		"y": 32202,
+		"z": 13
+	},
+	{
+		"description": "Despor",
+		"icon": "flag",
+		"x": 33274,
+		"y": 31058,
 		"z": 13
 	},
 	{
@@ -36999,6 +37083,13 @@
 		"icon": "up",
 		"x": 33246,
 		"y": 32853,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33255,
+		"y": 31097,
 		"z": 14
 	},
 	{
