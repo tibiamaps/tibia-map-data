@@ -2534,6 +2534,13 @@
 		"z": 5
 	},
 	{
+		"description": "Towards Ratha (20 Years a Cook)",
+		"icon": "red left",
+		"x": 32596,
+		"y": 31938,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32607,
@@ -4438,7 +4445,7 @@
 		"z": 6
 	},
 	{
-		"description": "",
+		"description": "Dumpster",
 		"icon": "down",
 		"x": 32965,
 		"y": 32110,
@@ -9535,7 +9542,7 @@
 	},
 	{
 		"description": "To NPC The Draccoon",
-		"icon": "star",
+		"icon": "flag",
 		"x": 32974,
 		"y": 32110,
 		"z": 7
@@ -15541,6 +15548,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32624,
+		"y": 31920,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32625,
 		"y": 32620,
@@ -16114,6 +16128,13 @@
 		"z": 8
 	},
 	{
+		"description": "Bulltaur Lair",
+		"icon": "flag",
+		"x": 32799,
+		"y": 32365,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32802,
@@ -16297,7 +16318,7 @@
 	},
 	{
 		"description": "Exit",
-		"icon": "crossmark",
+		"icon": "flag",
 		"x": 32874,
 		"y": 32374,
 		"z": 8
@@ -16503,6 +16524,13 @@
 		"icon": "star",
 		"x": 32969,
 		"y": 32946,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 32974,
+		"y": 32088,
 		"z": 8
 	},
 	{
@@ -23891,6 +23919,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 34072,
+		"y": 31641,
+		"z": 9
+	},
+	{
 		"description": "Brass-shod chest",
 		"icon": "lock",
 		"x": 34074,
@@ -27959,7 +27994,14 @@
 	},
 	{
 		"description": "",
-		"icon": "!",
+		"icon": "up",
+		"x": 34072,
+		"y": 31641,
+		"z": 10
+	},
+	{
+		"description": "To teleporter hub",
+		"icon": "flag",
 		"x": 34078,
 		"y": 31580,
 		"z": 10
@@ -29558,6 +29600,13 @@
 		"icon": "checkmark",
 		"x": 32922,
 		"y": 31886,
+		"z": 11
+	},
+	{
+		"description": "Teleport controller",
+		"icon": "star",
+		"x": 32923,
+		"y": 32315,
 		"z": 11
 	},
 	{
@@ -34973,7 +35022,7 @@
 	},
 	{
 		"description": "Despor",
-		"icon": "flag",
+		"icon": "sword",
 		"x": 33274,
 		"y": 31058,
 		"z": 13
@@ -36075,6 +36124,13 @@
 		"icon": "red down",
 		"x": 32478,
 		"y": 31973,
+		"z": 14
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 32480,
+		"y": 32592,
 		"z": 14
 	},
 	{
@@ -39792,6 +39848,13 @@
 		"icon": "!",
 		"x": 33245,
 		"y": 32163,
+		"z": 15
+	},
+	{
+		"description": "Despor (7) > Greedok (4) > Vengar (2) > Crultor (6) > Maliz (1) > Vilear (5) > Bruton (3)",
+		"icon": "?",
+		"x": 33264,
+		"y": 31415,
 		"z": 15
 	},
 	{
