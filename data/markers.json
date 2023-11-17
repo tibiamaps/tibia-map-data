@@ -18788,6 +18788,13 @@
 		"z": 8
 	},
 	{
+		"description": "Enusat the Onyx Wing (bomb spot)",
+		"icon": "crossmark",
+		"x": 33799,
+		"y": 31554,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33800,
@@ -18802,6 +18809,13 @@
 		"z": 8
 	},
 	{
+		"description": "Xogixath (bomb spot)",
+		"icon": "crossmark",
+		"x": 33802,
+		"y": 31475,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33806,
@@ -18813,6 +18827,13 @@
 		"icon": "down",
 		"x": 33807,
 		"y": 31063,
+		"z": 8
+	},
+	{
+		"description": "Bragrumol (bomb spot)",
+		"icon": "crossmark",
+		"x": 33809,
+		"y": 31596,
 		"z": 8
 	},
 	{
