@@ -13580,13 +13580,6 @@
 		"z": 7
 	},
 	{
-		"description": "Lure spot for team hunts",
-		"icon": "sword",
-		"x": 33825,
-		"y": 31590,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33839,
@@ -13668,13 +13661,6 @@
 		"icon": "up",
 		"x": 33869,
 		"y": 31596,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33869,
-		"y": 31601,
 		"z": 7
 	},
 	{
@@ -13899,13 +13885,6 @@
 		"icon": "up",
 		"x": 33939,
 		"y": 31550,
-		"z": 7
-	},
-	{
-		"description": "Seaside Theatre",
-		"icon": "mouth",
-		"x": 33941,
-		"y": 31468,
 		"z": 7
 	},
 	{
