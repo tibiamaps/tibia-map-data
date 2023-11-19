@@ -12237,13 +12237,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 33569,
-		"y": 31920,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "checkmark",
 		"x": 33571,
 		"y": 32012,
@@ -22659,13 +22652,6 @@
 		"z": 9
 	},
 	{
-		"description": "Mad Mage (spawn location)",
-		"icon": "star",
-		"x": 33328,
-		"y": 31861,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33329,
@@ -25463,6 +25449,13 @@
 		"icon": "!",
 		"x": 32655,
 		"y": 31585,
+		"z": 10
+	},
+	{
+		"description": "Rope spot",
+		"icon": "crossmark",
+		"x": 32657,
+		"y": 32087,
 		"z": 10
 	},
 	{
@@ -32162,6 +32155,13 @@
 		"icon": "up",
 		"x": 32658,
 		"y": 32112,
+		"z": 12
+	},
+	{
+		"description": "To teleports",
+		"icon": "up",
+		"x": 32659,
+		"y": 32141,
 		"z": 12
 	},
 	{
