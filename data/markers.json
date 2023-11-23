@@ -27987,6 +27987,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 34071,
+		"y": 31553,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 34072,
 		"y": 31641,
@@ -31241,6 +31248,13 @@
 		"z": 11
 	},
 	{
+		"description": "Mitmah north key",
+		"icon": "star",
+		"x": 34025,
+		"y": 31474,
+		"z": 11
+	},
+	{
 		"description": "Raid spot (trap)",
 		"icon": "sword",
 		"x": 34043,
@@ -31259,6 +31273,13 @@
 		"icon": "flag",
 		"x": 34060,
 		"y": 31494,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34071,
+		"y": 31553,
 		"z": 11
 	},
 	{
