@@ -22610,6 +22610,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33313,
+		"y": 31848,
+		"z": 9
+	},
+	{
 		"description": "Sarcophagus with ocarina",
 		"icon": "star",
 		"x": 33313,
@@ -22673,10 +22680,10 @@
 		"z": 9
 	},
 	{
-		"description": "Mad Mage (spawn location)",
-		"icon": "star",
+		"description": "Mad Mage (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33348,
-		"y": 31898,
+		"y": 31899,
 		"z": 9
 	},
 	{
@@ -22708,17 +22715,10 @@
 		"z": 9
 	},
 	{
-		"description": "Mad Mage (spawn location)",
-		"icon": "star",
-		"x": 33358,
-		"y": 31852,
-		"z": 9
-	},
-	{
-		"description": "Mad Mage (spawn location)",
-		"icon": "star",
-		"x": 33364,
-		"y": 31873,
+		"description": "Mad Mage (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33359,
+		"y": 31853,
 		"z": 9
 	},
 	{
@@ -22733,6 +22733,13 @@
 		"icon": "up",
 		"x": 33365,
 		"y": 31938,
+		"z": 9
+	},
+	{
+		"description": "Mad Mage (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33366,
+		"y": 31872,
 		"z": 9
 	},
 	{
