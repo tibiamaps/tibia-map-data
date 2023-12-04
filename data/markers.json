@@ -10752,6 +10752,13 @@
 		"z": 7
 	},
 	{
+		"description": "Nimmersatt's Breeding Ground",
+		"icon": "flag",
+		"x": 33187,
+		"y": 31190,
+		"z": 7
+	},
+	{
 		"description": "Draptor (possible spawn location)",
 		"icon": "flag",
 		"x": 33188,
@@ -15022,6 +15029,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32399,
+		"y": 31273,
+		"z": 8
+	},
+	{
 		"description": "Key 3520",
 		"icon": "red left",
 		"x": 32399,
@@ -16366,10 +16380,10 @@
 		"z": 8
 	},
 	{
-		"description": "Exit",
+		"description": "",
 		"icon": "flag",
-		"x": 32874,
-		"y": 32374,
+		"x": 32875,
+		"y": 32376,
 		"z": 8
 	},
 	{
@@ -23912,6 +23926,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 34018,
+		"y": 31731,
+		"z": 9
+	},
+	{
 		"description": "Brass-shod chest",
 		"icon": "lock",
 		"x": 34023,
@@ -31332,6 +31353,13 @@
 		"z": 11
 	},
 	{
+		"description": "Mitmah Vanguard",
+		"icon": "sword",
+		"x": 34058,
+		"y": 31431,
+		"z": 11
+	},
+	{
 		"description": "Pilchi with paint",
 		"icon": "flag",
 		"x": 34060,
@@ -37191,6 +37219,13 @@
 		"z": 14
 	},
 	{
+		"description": "Exit",
+		"icon": "flag",
+		"x": 33216,
+		"y": 31126,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33227,
@@ -39977,6 +40012,13 @@
 		"z": 15
 	},
 	{
+		"description": "Ship",
+		"icon": "crossmark",
+		"x": 33309,
+		"y": 31455,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33320,
@@ -40002,6 +40044,13 @@
 		"icon": "?",
 		"x": 33328,
 		"y": 30988,
+		"z": 15
+	},
+	{
+		"description": "Titano dragon",
+		"icon": "crossmark",
+		"x": 33330,
+		"y": 31426,
 		"z": 15
 	},
 	{
@@ -40055,9 +40104,23 @@
 	},
 	{
 		"description": "",
+		"icon": "checkmark",
+		"x": 33384,
+		"y": 31492,
+		"z": 15
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33400,
 		"y": 32404,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33407,
+		"y": 31508,
 		"z": 15
 	},
 	{
