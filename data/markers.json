@@ -6294,13 +6294,6 @@
 	},
 	{
 		"description": "",
-		"icon": "flag",
-		"x": 32127,
-		"y": 31662,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32128,
 		"y": 31087,
@@ -10706,7 +10699,7 @@
 		"description": "Temple of Equilibrium",
 		"icon": "crossmark",
 		"x": 33178,
-		"y": 31211,
+		"y": 31210,
 		"z": 7
 	},
 	{
@@ -31347,9 +31340,9 @@
 	},
 	{
 		"description": "Jug of gold lye",
-		"icon": "flag",
-		"x": 34051,
-		"y": 31471,
+		"icon": "red left",
+		"x": 34056,
+		"y": 31472,
 		"z": 11
 	},
 	{
@@ -31361,9 +31354,16 @@
 	},
 	{
 		"description": "Pilchi with paint",
-		"icon": "flag",
+		"icon": "star",
 		"x": 34060,
 		"y": 31494,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 34070,
+		"y": 31446,
 		"z": 11
 	},
 	{
@@ -31375,7 +31375,7 @@
 	},
 	{
 		"description": "Exit",
-		"icon": "crossmark",
+		"icon": "flag",
 		"x": 34095,
 		"y": 31431,
 		"z": 11
