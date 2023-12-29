@@ -7189,6 +7189,13 @@
 		"z": 7
 	},
 	{
+		"description": "Ocyakao (approximate spawn location)",
+		"icon": "star",
+		"x": 32352,
+		"y": 31050,
+		"z": 7
+	},
+	{
 		"description": "Protection zone",
 		"icon": "cross",
 		"x": 32352,
@@ -7312,6 +7319,13 @@
 		"icon": "flag",
 		"x": 32378,
 		"y": 31815,
+		"z": 7
+	},
+	{
+		"description": "The Frog Prince (approximate spawn location)",
+		"icon": "star",
+		"x": 32382,
+		"y": 32129,
 		"z": 7
 	},
 	{
@@ -9265,6 +9279,13 @@
 		"icon": "down",
 		"x": 32886,
 		"y": 32590,
+		"z": 7
+	},
+	{
+		"description": "Arthom The Hunter / Oodok Witchmaster (approximate spawn location)",
+		"icon": "star",
+		"x": 32888,
+		"y": 32788,
 		"z": 7
 	},
 	{
@@ -11379,6 +11400,13 @@
 		"icon": "flag",
 		"x": 33322,
 		"y": 31183,
+		"z": 7
+	},
+	{
+		"description": "Captain Jones (spawn location)",
+		"icon": "star",
+		"x": 33322,
+		"y": 32183,
 		"z": 7
 	},
 	{
@@ -16527,6 +16555,13 @@
 		"z": 8
 	},
 	{
+		"description": "High Templar Cobrass (approximate spawn location)",
+		"icon": "star",
+		"x": 32957,
+		"y": 32841,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32957,
@@ -20185,6 +20220,13 @@
 		"icon": "down",
 		"x": 32436,
 		"y": 32202,
+		"z": 9
+	},
+	{
+		"description": "Tyrn (approximate spawn location)",
+		"icon": "star",
+		"x": 32439,
+		"y": 32838,
 		"z": 9
 	},
 	{
@@ -36313,6 +36355,13 @@
 		"icon": "up",
 		"x": 32552,
 		"y": 32153,
+		"z": 14
+	},
+	{
+		"description": "Foreman Kneebiter (spawn location)",
+		"icon": "star",
+		"x": 32553,
+		"y": 31897,
 		"z": 14
 	},
 	{
