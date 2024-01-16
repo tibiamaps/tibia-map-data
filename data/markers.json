@@ -5530,6 +5530,13 @@
 		"z": 6
 	},
 	{
+		"description": "Here a large creature snapped a piece of the key from a local fisherman",
+		"icon": "crossmark",
+		"x": 33718,
+		"y": 31969,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33732,
@@ -6265,8 +6272,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "down",
+		"description": "A piece of an ancient key has been kept by a nordic conquerer laid to rest on this island",
+		"icon": "crossmark",
 		"x": 32121,
 		"y": 31581,
 		"z": 7
@@ -15379,6 +15386,13 @@
 		"z": 8
 	},
 	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32517,
+		"y": 32282,
+		"z": 8
+	},
+	{
 		"description": "To NPC A Dwarven Ghost",
 		"icon": "down",
 		"x": 32520,
@@ -15463,6 +15477,20 @@
 		"z": 8
 	},
 	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32545,
+		"y": 32229,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32547,
+		"y": 32241,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32548,
@@ -15491,6 +15519,20 @@
 		"z": 8
 	},
 	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32556,
+		"y": 32248,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32558,
+		"y": 32250,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32559,
@@ -15502,6 +15544,41 @@
 		"icon": "down",
 		"x": 32562,
 		"y": 31994,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32568,
+		"y": 32258,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32570,
+		"y": 32224,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32571,
+		"y": 32256,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32572,
+		"y": 32241,
+		"z": 8
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32577,
+		"y": 32234,
 		"z": 8
 	},
 	{
@@ -20489,6 +20566,27 @@
 		"z": 9
 	},
 	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32532,
+		"y": 32189,
+		"z": 9
+	},
+	{
+		"description": "Ragged rabid wolf",
+		"icon": "star",
+		"x": 32533,
+		"y": 32212,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32534,
+		"y": 32217,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32537,
@@ -20496,10 +20594,45 @@
 		"z": 9
 	},
 	{
+		"description": "Ragged rabid wolf",
+		"icon": "star",
+		"x": 32538,
+		"y": 32212,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32545,
 		"y": 31876,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32546,
+		"y": 32227,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32547,
+		"y": 32178,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32547,
+		"y": 32194,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32550,
+		"y": 32177,
 		"z": 9
 	},
 	{
@@ -20531,10 +20664,31 @@
 		"z": 9
 	},
 	{
+		"description": "Ragged rabid wolf",
+		"icon": "star",
+		"x": 32557,
+		"y": 32193,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32559,
 		"y": 32667,
+		"z": 9
+	},
+	{
+		"description": "Ragged rabid wolf",
+		"icon": "star",
+		"x": 32560,
+		"y": 32193,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32560,
+		"y": 32246,
 		"z": 9
 	},
 	{
@@ -20556,6 +20710,13 @@
 		"icon": "red down",
 		"x": 32566,
 		"y": 31338,
+		"z": 9
+	},
+	{
+		"description": "Rabid wolf",
+		"icon": "star",
+		"x": 32567,
+		"y": 32159,
 		"z": 9
 	},
 	{
