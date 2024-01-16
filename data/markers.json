@@ -189,13 +189,6 @@
 		"z": 1
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33492,
-		"y": 31188,
-		"z": 1
-	},
-	{
 		"description": "Hive gate",
 		"icon": "red left",
 		"x": 33496,
@@ -210,27 +203,6 @@
 		"z": 1
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33512,
-		"y": 31186,
-		"z": 1
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33513,
-		"y": 31206,
-		"z": 1
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33533,
-		"y": 31208,
-		"z": 1
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33551,
@@ -238,31 +210,10 @@
 		"z": 1
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33576,
-		"y": 31218,
-		"z": 1
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33577,
 		"y": 31235,
-		"z": 1
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33589,
-		"y": 31234,
-		"z": 1
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33591,
-		"y": 31227,
 		"z": 1
 	},
 	{
@@ -546,13 +497,6 @@
 		"z": 2
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33480,
-		"y": 31203,
-		"z": 2
-	},
-	{
 		"description": "Hive gate",
 		"icon": "red left",
 		"x": 33492,
@@ -567,31 +511,10 @@
 		"z": 2
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33519,
-		"y": 31214,
-		"z": 2
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33524,
-		"y": 31179,
-		"z": 2
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33527,
 		"y": 31215,
-		"z": 2
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33531,
-		"y": 31218,
 		"z": 2
 	},
 	{
@@ -630,38 +553,10 @@
 		"z": 2
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33586,
-		"y": 31235,
-		"z": 2
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33595,
-		"y": 31223,
-		"z": 2
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33602,
-		"y": 31232,
-		"z": 2
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33606,
 		"y": 31229,
-		"z": 2
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33610,
-		"y": 31223,
 		"z": 2
 	},
 	{
@@ -1078,13 +973,6 @@
 		"z": 3
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33492,
-		"y": 31206,
-		"z": 3
-	},
-	{
 		"description": "Hive gate",
 		"icon": "red left",
 		"x": 33493,
@@ -1103,20 +991,6 @@
 		"icon": "up",
 		"x": 33527,
 		"y": 31215,
-		"z": 3
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33529,
-		"y": 31200,
-		"z": 3
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33542,
-		"y": 31213,
 		"z": 3
 	},
 	{
@@ -1155,13 +1029,6 @@
 		"z": 3
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33573,
-		"y": 31217,
-		"z": 3
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33580,
@@ -1169,24 +1036,10 @@
 		"z": 3
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33586,
-		"y": 31228,
-		"z": 3
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33606,
 		"y": 31229,
-		"z": 3
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33609,
-		"y": 31223,
 		"z": 3
 	},
 	{
@@ -1897,24 +1750,10 @@
 		"z": 4
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33482,
-		"y": 31200,
-		"z": 4
-	},
-	{
 		"description": "Hive gate",
 		"icon": "red left",
 		"x": 33493,
 		"y": 31201,
-		"z": 4
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33509,
-		"y": 31217,
 		"z": 4
 	},
 	{
@@ -1936,13 +1775,6 @@
 		"icon": "flag",
 		"x": 33527,
 		"y": 32300,
-		"z": 4
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33536,
-		"y": 31199,
 		"z": 4
 	},
 	{
@@ -3038,13 +2870,6 @@
 		"z": 5
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33494,
-		"y": 31211,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33518,
@@ -3052,24 +2877,10 @@
 		"z": 5
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33520,
-		"y": 31216,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33529,
 		"y": 32523,
-		"z": 5
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33530,
-		"y": 31185,
 		"z": 5
 	},
 	{
@@ -3119,27 +2930,6 @@
 		"icon": "up",
 		"x": 33555,
 		"y": 31311,
-		"z": 5
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33575,
-		"y": 31217,
-		"z": 5
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33577,
-		"y": 31242,
-		"z": 5
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33593,
-		"y": 31251,
 		"z": 5
 	},
 	{
@@ -4015,6 +3805,20 @@
 		"icon": "down",
 		"x": 32453,
 		"y": 32065,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32488,
+		"y": 32264,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32512,
+		"y": 32277,
 		"z": 6
 	},
 	{
@@ -5124,13 +4928,6 @@
 		"z": 6
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33491,
-		"y": 31210,
-		"z": 6
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33500,
@@ -5166,38 +4963,10 @@
 		"z": 6
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33518,
-		"y": 31179,
-		"z": 6
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33519,
 		"y": 31209,
-		"z": 6
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33520,
-		"y": 31191,
-		"z": 6
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33523,
-		"y": 31218,
-		"z": 6
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33524,
-		"y": 31191,
 		"z": 6
 	},
 	{
@@ -5313,13 +5082,6 @@
 		"z": 6
 	},
 	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33595,
-		"y": 31246,
-		"z": 6
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33596,
@@ -5331,13 +5093,6 @@
 		"icon": "skull",
 		"x": 33602,
 		"y": 31888,
-		"z": 6
-	},
-	{
-		"description": "Insectoid monolith",
-		"icon": "crossmark",
-		"x": 33610,
-		"y": 31222,
 		"z": 6
 	},
 	{
@@ -7837,6 +7592,13 @@
 		"icon": "down",
 		"x": 32496,
 		"y": 32915,
+		"z": 7
+	},
+	{
+		"description": "Rabid wolves",
+		"icon": "down",
+		"x": 32505,
+		"y": 32281,
 		"z": 7
 	},
 	{
@@ -15457,6 +15219,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32540,
+		"y": 32272,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32541,
 		"y": 32021,
@@ -15537,6 +15306,13 @@
 		"icon": "down",
 		"x": 32559,
 		"y": 32667,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32561,
+		"y": 32207,
 		"z": 8
 	},
 	{
@@ -18536,13 +18312,6 @@
 		"z": 8
 	},
 	{
-		"description": "The Hive I–VIII (books)",
-		"icon": "star",
-		"x": 33553,
-		"y": 31240,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33554,
@@ -20603,6 +20372,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32540,
+		"y": 32272,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32545,
 		"y": 31876,
 		"z": 9
@@ -20689,6 +20465,13 @@
 		"icon": "star",
 		"x": 32560,
 		"y": 32246,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32561,
+		"y": 32207,
 		"z": 9
 	},
 	{
@@ -28245,13 +28028,6 @@
 		"z": 10
 	},
 	{
-		"description": "Shortcut to entrance",
-		"icon": "flag",
-		"x": 34041,
-		"y": 31726,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 34044,
@@ -31567,6 +31343,13 @@
 		"icon": "red up",
 		"x": 34070,
 		"y": 31446,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 34070,
+		"y": 31509,
 		"z": 11
 	},
 	{
@@ -37983,44 +37766,9 @@
 	},
 	{
 		"description": "",
-		"icon": "crossmark",
-		"x": 33530,
-		"y": 31239,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "down",
 		"x": 33531,
 		"y": 32900,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33535,
-		"y": 31254,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33536,
-		"y": 31237,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33537,
-		"y": 31260,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33539,
-		"y": 31243,
 		"z": 14
 	},
 	{
@@ -38035,13 +37783,6 @@
 		"icon": "red left",
 		"x": 33539,
 		"y": 31808,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33544,
-		"y": 31237,
 		"z": 14
 	},
 	{
@@ -38080,66 +37821,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33552,
-		"y": 31268,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33553,
-		"y": 31294,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33555,
-		"y": 31298,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33556,
-		"y": 31248,
-		"z": 14
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 33556,
 		"y": 31451,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33557,
-		"y": 31250,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33558,
-		"y": 31282,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33560,
-		"y": 31220,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33560,
-		"y": 31229,
 		"z": 14
 	},
 	{
@@ -38154,13 +37839,6 @@
 		"icon": "checkmark",
 		"x": 33562,
 		"y": 32981,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33563,
-		"y": 31208,
 		"z": 14
 	},
 	{
@@ -38200,37 +37878,9 @@
 	},
 	{
 		"description": "",
-		"icon": "crossmark",
-		"x": 33567,
-		"y": 31295,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33570,
-		"y": 31216,
-		"z": 14
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33572,
 		"y": 31413,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33574,
-		"y": 31241,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33574,
-		"y": 31245,
 		"z": 14
 	},
 	{
@@ -38248,31 +37898,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33578,
-		"y": 31276,
-		"z": 14
-	},
-	{
 		"description": "Deepling brawler (spawn location)",
 		"icon": "star",
 		"x": 33579,
 		"y": 31254,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33579,
-		"y": 31258,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "crossmark",
-		"x": 33580,
-		"y": 31298,
 		"z": 14
 	},
 	{
