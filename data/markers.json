@@ -462,6 +462,13 @@
 		"z": 2
 	},
 	{
+		"description": "Raging Mage (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33142,
+		"y": 31529,
+		"z": 2
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33346,
@@ -2674,10 +2681,10 @@
 		"z": 5
 	},
 	{
-		"description": "",
-		"icon": "down",
-		"x": 33141,
-		"y": 31537,
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33144,
+		"y": 31524,
 		"z": 5
 	},
 	{
@@ -4683,10 +4690,10 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33141,
-		"y": 31537,
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33144,
+		"y": 31523,
 		"z": 6
 	},
 	{
@@ -11144,6 +11151,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33313,
+		"y": 31838,
+		"z": 7
+	},
+	{
 		"description": "Forgotten Tomb",
 		"icon": "down",
 		"x": 33314,
@@ -11384,7 +11398,7 @@
 	{
 		"description": "Bank, depot, and temple",
 		"icon": "down",
-		"x": 33446,
+		"x": 33447,
 		"y": 31320,
 		"z": 7
 	},
@@ -15239,6 +15253,13 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32544,
+		"y": 32235,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32545,
@@ -15264,6 +15285,13 @@
 		"icon": "up",
 		"x": 32548,
 		"y": 31988,
+		"z": 8
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32549,
+		"y": 32266,
 		"z": 8
 	},
 	{
@@ -15330,6 +15358,13 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32570,
+		"y": 32220,
+		"z": 8
+	},
+	{
 		"description": "Rabid wolf",
 		"icon": "star",
 		"x": 32570,
@@ -15355,6 +15390,13 @@
 		"icon": "star",
 		"x": 32577,
 		"y": 32234,
+		"z": 8
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32578,
+		"y": 32236,
 		"z": 8
 	},
 	{
@@ -20300,6 +20342,13 @@
 		"z": 9
 	},
 	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32523,
+		"y": 32204,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32525,
@@ -20318,6 +20367,13 @@
 		"icon": "up",
 		"x": 32526,
 		"y": 32400,
+		"z": 9
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32528,
+		"y": 32279,
 		"z": 9
 	},
 	{
@@ -20343,7 +20399,7 @@
 	},
 	{
 		"description": "Ragged rabid wolf",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32533,
 		"y": 32212,
 		"z": 9
@@ -20356,6 +20412,20 @@
 		"z": 9
 	},
 	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32534,
+		"y": 32276,
+		"z": 9
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32537,
+		"y": 32218,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32537,
@@ -20364,7 +20434,7 @@
 	},
 	{
 		"description": "Ragged rabid wolf",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32538,
 		"y": 32212,
 		"z": 9
@@ -20440,10 +20510,24 @@
 		"z": 9
 	},
 	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32557,
+		"y": 32165,
+		"z": 9
+	},
+	{
 		"description": "Ragged rabid wolf",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32557,
 		"y": 32193,
+		"z": 9
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32558,
+		"y": 32164,
 		"z": 9
 	},
 	{
@@ -20455,7 +20539,7 @@
 	},
 	{
 		"description": "Ragged rabid wolf",
-		"icon": "star",
+		"icon": "crossmark",
 		"x": 32560,
 		"y": 32193,
 		"z": 9
@@ -20472,6 +20556,13 @@
 		"icon": "up",
 		"x": 32561,
 		"y": 32207,
+		"z": 9
+	},
+	{
+		"description": "Cave rat",
+		"icon": "checkmark",
+		"x": 32561,
+		"y": 32244,
 		"z": 9
 	},
 	{
@@ -28053,13 +28144,6 @@
 		"icon": "up",
 		"x": 34072,
 		"y": 31641,
-		"z": 10
-	},
-	{
-		"description": "To teleporter hub",
-		"icon": "flag",
-		"x": 34078,
-		"y": 31580,
 		"z": 10
 	},
 	{
