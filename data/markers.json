@@ -2683,8 +2683,8 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red up",
-		"x": 33144,
-		"y": 31524,
+		"x": 33139,
+		"y": 31525,
 		"z": 5
 	},
 	{
@@ -4692,8 +4692,8 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red down",
-		"x": 33144,
-		"y": 31523,
+		"x": 33139,
+		"y": 31524,
 		"z": 6
 	},
 	{
