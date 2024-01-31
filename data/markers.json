@@ -31374,6 +31374,13 @@
 		"z": 11
 	},
 	{
+		"description": "Teleport to northern part",
+		"icon": "flag",
+		"x": 33997,
+		"y": 31477,
+		"z": 11
+	},
+	{
 		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 34001,
