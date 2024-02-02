@@ -30807,17 +30807,10 @@
 		"z": 11
 	},
 	{
-		"description": "Fossilised Coral",
-		"icon": "!",
+		"description": "Deepling master librarian (poison bomb spot)",
+		"icon": "star",
 		"x": 33458,
 		"y": 31178,
-		"z": 11
-	},
-	{
-		"description": "Deepling master librarian",
-		"icon": "star",
-		"x": 33460,
-		"y": 31177,
 		"z": 11
 	},
 	{
@@ -31003,10 +30996,10 @@
 		"z": 11
 	},
 	{
-		"description": "To manta ray spawn",
-		"icon": "down",
+		"description": "Levitate spot",
+		"icon": "red up",
 		"x": 33512,
-		"y": 31223,
+		"y": 31225,
 		"z": 11
 	},
 	{
@@ -33313,10 +33306,10 @@
 		"z": 12
 	},
 	{
-		"description": "",
-		"icon": "up",
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 33512,
-		"y": 31223,
+		"y": 31224,
 		"z": 12
 	},
 	{
@@ -33336,7 +33329,7 @@
 	{
 		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
-		"x": 33517,
+		"x": 33519,
 		"y": 31249,
 		"z": 12
 	},
@@ -35521,7 +35514,7 @@
 		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
 		"x": 33565,
-		"y": 31307,
+		"y": 31306,
 		"z": 13
 	},
 	{
