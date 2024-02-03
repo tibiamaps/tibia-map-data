@@ -15911,6 +15911,13 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32746,
+		"y": 31162,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32747,
@@ -15932,6 +15939,27 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32751,
+		"y": 31194,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32753,
+		"y": 31155,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32754,
+		"y": 31223,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32756,
@@ -15943,6 +15971,20 @@
 		"icon": "up",
 		"x": 32757,
 		"y": 31172,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32757,
+		"y": 31181,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32758,
+		"y": 31169,
 		"z": 8
 	},
 	{
@@ -15964,6 +16006,27 @@
 		"icon": "up",
 		"x": 32760,
 		"y": 32628,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32763,
+		"y": 31228,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32763,
+		"y": 31241,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32766,
+		"y": 31151,
 		"z": 8
 	},
 	{
@@ -16002,6 +16065,13 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32781,
+		"y": 31229,
+		"z": 8
+	},
+	{
 		"description": "Enter Necromant House",
 		"icon": "up",
 		"x": 32781,
@@ -16023,6 +16093,20 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32787,
+		"y": 31151,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32790,
+		"y": 31203,
+		"z": 8
+	},
+	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
 		"x": 32794,
@@ -16041,6 +16125,34 @@
 		"icon": "crossmark",
 		"x": 32796,
 		"y": 31191,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32796,
+		"y": 31213,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32798,
+		"y": 31195,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32799,
+		"y": 31151,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32799,
+		"y": 31230,
 		"z": 8
 	},
 	{
@@ -16072,6 +16184,13 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32805,
+		"y": 31230,
+		"z": 8
+	},
+	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32805,
@@ -16093,6 +16212,27 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32812,
+		"y": 31205,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32815,
+		"y": 31221,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32816,
+		"y": 31144,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32816,
@@ -16100,10 +16240,24 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32817,
+		"y": 31152,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32818,
 		"y": 32809,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32819,
+		"y": 31232,
 		"z": 8
 	},
 	{
@@ -16121,6 +16275,27 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32826,
+		"y": 31202,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32827,
+		"y": 31166,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32827,
+		"y": 31225,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32827,
@@ -16135,6 +16310,41 @@
 		"z": 8
 	},
 	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32830,
+		"y": 31142,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32830,
+		"y": 31176,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32833,
+		"y": 31152,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32834,
+		"y": 31203,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32834,
+		"y": 31241,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32836,
@@ -16146,6 +16356,41 @@
 		"icon": "down",
 		"x": 32836,
 		"y": 31486,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32840,
+		"y": 31215,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32841,
+		"y": 31187,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32841,
+		"y": 31225,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32842,
+		"y": 31162,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32842,
+		"y": 31179,
 		"z": 8
 	},
 	{
@@ -16188,6 +16433,27 @@
 		"icon": "star",
 		"x": 32846,
 		"y": 32509,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32848,
+		"y": 31151,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32849,
+		"y": 31214,
+		"z": 8
+	},
+	{
+		"description": "Cave rat (fire bomb spot)",
+		"icon": "checkmark",
+		"x": 32849,
+		"y": 31231,
 		"z": 8
 	},
 	{
