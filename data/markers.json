@@ -35777,6 +35777,13 @@
 		"z": 13
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33564,
+		"y": 31951,
+		"z": 13
+	},
+	{
 		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
 		"x": 33565,
@@ -38321,7 +38328,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33614,
-		"y": 31989,
+		"y": 31988,
 		"z": 14
 	},
 	{
@@ -38384,7 +38391,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33674,
-		"y": 31989,
+		"y": 31988,
 		"z": 14
 	},
 	{
@@ -40798,8 +40805,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33610,
-		"y": 32094,
+		"x": 33611,
+		"y": 32095,
 		"z": 15
 	},
 	{
@@ -40874,16 +40881,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "red up",
 		"x": 33642,
-		"y": 32082,
+		"y": 32899,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 33642,
-		"y": 32899,
+		"icon": "checkmark",
+		"x": 33643,
+		"y": 32083,
 		"z": 15
 	},
 	{
@@ -40966,8 +40973,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33673,
-		"y": 32095,
+		"x": 33672,
+		"y": 32094,
 		"z": 15
 	},
 	{
