@@ -11753,8 +11753,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Antenna",
+		"icon": "star",
 		"x": 33532,
 		"y": 31294,
 		"z": 7
@@ -11818,7 +11818,7 @@
 	{
 		"description": "",
 		"icon": "crossmark",
-		"x": 33545,
+		"x": 33546,
 		"y": 31267,
 		"z": 7
 	},
@@ -11957,16 +11957,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33557,
-		"y": 31289,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33557,
 		"y": 31318,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33558,
+		"y": 31289,
 		"z": 7
 	},
 	{
@@ -12110,8 +12110,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Antenna",
+		"icon": "star",
 		"x": 33577,
 		"y": 31299,
 		"z": 7
@@ -12252,15 +12252,15 @@
 	{
 		"description": "",
 		"icon": "crossmark",
-		"x": 33590,
-		"y": 31275,
+		"x": 33592,
+		"y": 31262,
 		"z": 7
 	},
 	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33592,
-		"y": 31262,
+		"y": 31276,
 		"z": 7
 	},
 	{
