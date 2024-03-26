@@ -133,6 +133,13 @@
 		"z": 1
 	},
 	{
+		"description": "Gorga (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32867,
+		"y": 32828,
+		"z": 1
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32944,
@@ -11753,8 +11760,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Antenna",
+		"icon": "star",
 		"x": 33532,
 		"y": 31294,
 		"z": 7
@@ -11818,7 +11825,7 @@
 	{
 		"description": "",
 		"icon": "crossmark",
-		"x": 33545,
+		"x": 33546,
 		"y": 31267,
 		"z": 7
 	},
@@ -11957,16 +11964,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33557,
-		"y": 31289,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33557,
 		"y": 31318,
+		"z": 7
+	},
+	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33558,
+		"y": 31289,
 		"z": 7
 	},
 	{
@@ -12110,8 +12117,8 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Antenna",
+		"icon": "star",
 		"x": 33577,
 		"y": 31299,
 		"z": 7
@@ -12252,15 +12259,15 @@
 	{
 		"description": "",
 		"icon": "crossmark",
-		"x": 33590,
-		"y": 31275,
+		"x": 33592,
+		"y": 31262,
 		"z": 7
 	},
 	{
 		"description": "",
 		"icon": "crossmark",
 		"x": 33592,
-		"y": 31262,
+		"y": 31276,
 		"z": 7
 	},
 	{
@@ -35777,6 +35784,13 @@
 		"z": 13
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33564,
+		"y": 31951,
+		"z": 13
+	},
+	{
 		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
 		"x": 33565,
@@ -38276,17 +38290,17 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 33597,
+		"y": 31930,
+		"z": 14
+	},
+	{
 		"description": "Idol 7",
 		"icon": "star",
 		"x": 33598,
 		"y": 31400,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33598,
-		"y": 31929,
 		"z": 14
 	},
 	{
@@ -38321,7 +38335,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33614,
-		"y": 31989,
+		"y": 31988,
 		"z": 14
 	},
 	{
@@ -38363,7 +38377,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33661,
-		"y": 31937,
+		"y": 31938,
 		"z": 14
 	},
 	{
@@ -38384,7 +38398,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33674,
-		"y": 31989,
+		"y": 31988,
 		"z": 14
 	},
 	{
@@ -38398,7 +38412,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33693,
-		"y": 31929,
+		"y": 31930,
 		"z": 14
 	},
 	{
@@ -38425,8 +38439,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33711,
-		"y": 31961,
+		"x": 33712,
+		"y": 31962,
 		"z": 14
 	},
 	{
@@ -39039,10 +39053,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
+		"description": "Exit",
 		"icon": "flag",
 		"x": 34022,
-		"y": 32038,
+		"y": 32037,
 		"z": 14
 	},
 	{
@@ -39050,13 +39064,6 @@
 		"icon": "flag",
 		"x": 34023,
 		"y": 31811,
-		"z": 14
-	},
-	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 34024,
-		"y": 32037,
 		"z": 14
 	},
 	{
@@ -40777,8 +40784,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33607,
-		"y": 32031,
+		"x": 33608,
+		"y": 32032,
 		"z": 15
 	},
 	{
@@ -40798,8 +40805,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33610,
-		"y": 32094,
+		"x": 33611,
+		"y": 32095,
 		"z": 15
 	},
 	{
@@ -40841,7 +40848,7 @@
 		"description": "",
 		"icon": "checkmark",
 		"x": 33629,
-		"y": 32043,
+		"y": 32044,
 		"z": 15
 	},
 	{
@@ -40874,16 +40881,16 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
+		"icon": "red up",
 		"x": 33642,
-		"y": 32082,
+		"y": 32899,
 		"z": 15
 	},
 	{
 		"description": "",
-		"icon": "red up",
-		"x": 33642,
-		"y": 32899,
+		"icon": "checkmark",
+		"x": 33643,
+		"y": 32083,
 		"z": 15
 	},
 	{
@@ -40910,8 +40917,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33650,
-		"y": 32068,
+		"x": 33651,
+		"y": 32067,
 		"z": 15
 	},
 	{
@@ -40952,8 +40959,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33670,
-		"y": 32033,
+		"x": 33669,
+		"y": 32034,
 		"z": 15
 	},
 	{
@@ -40966,8 +40973,8 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 33673,
-		"y": 32095,
+		"x": 33672,
+		"y": 32094,
 		"z": 15
 	},
 	{
