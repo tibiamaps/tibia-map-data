@@ -17,7 +17,9 @@ echo 'Compressing JSON-formatted data…';
 for file in data/*.json; do
 	jsesc --object --json < "${file}" > "${DIST_DIR}/$(basename ${file})";
 done;
+jsesc --object --json < extra/achievements/markers.json > "${DIST_DIR}/achievements-markers.json";
 jsesc --object --json < extra/points-of-interest/markers.json > "${DIST_DIR}/poi-markers.json";
+jsesc --object --json < extra/rapid-respawn/markers.json > "${DIST_DIR}/rapid-respawn-markers.json";
 echo 'Compressing PNG images…';
 imagemin data/*.png --out-dir="${DIST_DIR}";
 
