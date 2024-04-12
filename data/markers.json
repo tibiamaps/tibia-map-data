@@ -4613,13 +4613,6 @@
 		"z": 6
 	},
 	{
-		"description": "Fire bomb spot (rapid)",
-		"icon": "!",
-		"x": 33088,
-		"y": 31260,
-		"z": 6
-	},
-	{
 		"description": "Silver ewer (daily spawn)",
 		"icon": "bag",
 		"x": 33089,
@@ -15953,13 +15946,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32746,
-		"y": 31162,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32747,
@@ -15981,27 +15967,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32751,
-		"y": 31194,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32753,
-		"y": 31155,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32754,
-		"y": 31223,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32756,
@@ -16013,20 +15978,6 @@
 		"icon": "up",
 		"x": 32757,
 		"y": 31172,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32757,
-		"y": 31181,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32758,
-		"y": 31169,
 		"z": 8
 	},
 	{
@@ -16048,27 +15999,6 @@
 		"icon": "up",
 		"x": 32760,
 		"y": 32628,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32763,
-		"y": 31228,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32763,
-		"y": 31241,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32766,
-		"y": 31151,
 		"z": 8
 	},
 	{
@@ -16107,13 +16037,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32781,
-		"y": 31229,
-		"z": 8
-	},
-	{
 		"description": "Enter Necromant House",
 		"icon": "up",
 		"x": 32781,
@@ -16135,20 +16058,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32787,
-		"y": 31151,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32790,
-		"y": 31203,
-		"z": 8
-	},
-	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
 		"x": 32794,
@@ -16167,34 +16076,6 @@
 		"icon": "crossmark",
 		"x": 32796,
 		"y": 31191,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32796,
-		"y": 31213,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32798,
-		"y": 31195,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32799,
-		"y": 31151,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32799,
-		"y": 31230,
 		"z": 8
 	},
 	{
@@ -16226,13 +16107,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32805,
-		"y": 31230,
-		"z": 8
-	},
-	{
 		"description": "Exit",
 		"icon": "flag",
 		"x": 32805,
@@ -16254,27 +16128,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32812,
-		"y": 31205,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32815,
-		"y": 31221,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32816,
-		"y": 31144,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32816,
@@ -16282,24 +16135,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32817,
-		"y": 31152,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32818,
 		"y": 32809,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32819,
-		"y": 31232,
 		"z": 8
 	},
 	{
@@ -16317,27 +16156,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32826,
-		"y": 31202,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32827,
-		"y": 31166,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32827,
-		"y": 31225,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32827,
@@ -16352,38 +16170,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32830,
-		"y": 31142,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32830,
-		"y": 31176,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32833,
-		"y": 31152,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32834,
 		"y": 31203,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32834,
-		"y": 31241,
 		"z": 8
 	},
 	{
@@ -16398,41 +16188,6 @@
 		"icon": "down",
 		"x": 32836,
 		"y": 31486,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32840,
-		"y": 31215,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32841,
-		"y": 31187,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32841,
-		"y": 31225,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32842,
-		"y": 31162,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32842,
-		"y": 31179,
 		"z": 8
 	},
 	{
@@ -16475,27 +16230,6 @@
 		"icon": "star",
 		"x": 32846,
 		"y": 32509,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32848,
-		"y": 31151,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32849,
-		"y": 31214,
-		"z": 8
-	},
-	{
-		"description": "Cave rat (fire bomb spot)",
-		"icon": "checkmark",
-		"x": 32849,
-		"y": 31231,
 		"z": 8
 	},
 	{
@@ -25753,13 +25487,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32617,
-		"y": 31619,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32621,
@@ -25851,13 +25578,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32650,
-		"y": 31612,
-		"z": 10
-	},
-	{
 		"description": "Grotto of the Lost (a.k.a. Warzone 8)",
 		"icon": "flag",
 		"x": 32651,
@@ -25869,13 +25589,6 @@
 		"icon": "flag",
 		"x": 32653,
 		"y": 31816,
-		"z": 10
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32655,
-		"y": 31585,
 		"z": 10
 	},
 	{
@@ -25963,13 +25676,6 @@
 		"z": 10
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32678,
-		"y": 31588,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32684,
@@ -26044,13 +25750,6 @@
 		"icon": "sword",
 		"x": 32706,
 		"y": 32249,
-		"z": 10
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32709,
-		"y": 31602,
 		"z": 10
 	},
 	{
@@ -27853,20 +27552,6 @@
 		"z": 10
 	},
 	{
-		"description": "Deepling elite (poison bomb spot)",
-		"icon": "star",
-		"x": 33528,
-		"y": 31289,
-		"z": 10
-	},
-	{
-		"description": "Deepling elite (poison bomb spot)",
-		"icon": "star",
-		"x": 33530,
-		"y": 31300,
-		"z": 10
-	},
-	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 33544,
@@ -29533,20 +29218,6 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32636,
-		"y": 31636,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32638,
-		"y": 31636,
-		"z": 11
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 32641,
@@ -29565,13 +29236,6 @@
 		"icon": "cross",
 		"x": 32648,
 		"y": 31893,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32654,
-		"y": 31618,
 		"z": 11
 	},
 	{
@@ -29603,31 +29267,10 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32675,
-		"y": 31650,
-		"z": 11
-	},
-	{
 		"description": "The Scourge of Oblivion lever room",
 		"icon": "?",
 		"x": 32675,
 		"y": 32741,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot + 1 west)",
-		"icon": "!",
-		"x": 32683,
-		"y": 31609,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32683,
-		"y": 31641,
 		"z": 11
 	},
 	{
@@ -29638,24 +29281,10 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32685,
-		"y": 31641,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32690,
 		"y": 31133,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32701,
-		"y": 31624,
 		"z": 11
 	},
 	{
@@ -29673,13 +29302,6 @@
 		"z": 11
 	},
 	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32710,
-		"y": 31644,
-		"z": 11
-	},
-	{
 		"description": "Yaga the Crone (spawn location)",
 		"icon": "star",
 		"x": 32712,
@@ -29691,13 +29313,6 @@
 		"icon": "up",
 		"x": 32715,
 		"y": 31896,
-		"z": 11
-	},
-	{
-		"description": "Troll champion (fire bomb spot)",
-		"icon": "!",
-		"x": 32717,
-		"y": 31631,
 		"z": 11
 	},
 	{
@@ -29925,7 +29540,7 @@
 		"z": 11
 	},
 	{
-		"description": "Black knight (exact spawn tile)",
+		"description": "Black Knight (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32874,
 		"y": 31948,
@@ -31094,20 +30709,6 @@
 		"z": 11
 	},
 	{
-		"description": "Deepling elite",
-		"icon": "star",
-		"x": 33450,
-		"y": 31248,
-		"z": 11
-	},
-	{
-		"description": "Deepling tyrant",
-		"icon": "star",
-		"x": 33453,
-		"y": 31236,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 33454,
@@ -31119,13 +30720,6 @@
 		"icon": "star",
 		"x": 33456,
 		"y": 31568,
-		"z": 11
-	},
-	{
-		"description": "Deepling master librarian (poison bomb spot)",
-		"icon": "star",
-		"x": 33458,
-		"y": 31178,
 		"z": 11
 	},
 	{
@@ -31192,13 +30786,6 @@
 		"z": 11
 	},
 	{
-		"description": "Deepling elite (poison bomb spot)",
-		"icon": "star",
-		"x": 33483,
-		"y": 31257,
-		"z": 11
-	},
-	{
 		"description": "Flask with paint",
 		"icon": "star",
 		"x": 33488,
@@ -31227,13 +30814,6 @@
 		"z": 11
 	},
 	{
-		"description": "Deepling tyrant (poison bomb spot)",
-		"icon": "star",
-		"x": 33496,
-		"y": 31300,
-		"z": 11
-	},
-	{
 		"description": "Use blessed wooden stake",
 		"icon": "spear",
 		"x": 33497,
@@ -31248,10 +30828,10 @@
 		"z": 11
 	},
 	{
-		"description": "Deepling elite (poison bomb spot)",
-		"icon": "star",
-		"x": 33502,
-		"y": 31217,
+		"description": "",
+		"icon": "up",
+		"x": 33501,
+		"y": 31301,
 		"z": 11
 	},
 	{
@@ -31280,13 +30860,6 @@
 		"icon": "up",
 		"x": 33504,
 		"y": 31264,
-		"z": 11
-	},
-	{
-		"description": "Deepling tyrant (poison bomb spot)",
-		"icon": "star",
-		"x": 33507,
-		"y": 31256,
 		"z": 11
 	},
 	{
@@ -33642,13 +33215,6 @@
 		"z": 12
 	},
 	{
-		"description": "Deepling tyrant (poison bomb spot)",
-		"icon": "star",
-		"x": 33519,
-		"y": 31249,
-		"z": 12
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 33523,
@@ -35756,13 +35322,6 @@
 		"z": 13
 	},
 	{
-		"description": "Deepling master librarian",
-		"icon": "star",
-		"x": 33458,
-		"y": 31191,
-		"z": 13
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33462,
@@ -35805,14 +35364,7 @@
 		"z": 13
 	},
 	{
-		"description": "Deepling tyrant (poison bomb spot)",
-		"icon": "star",
-		"x": 33543,
-		"y": 31276,
-		"z": 13
-	},
-	{
-		"description": "East Teleport",
+		"description": "East teleport",
 		"icon": "flag",
 		"x": 33558,
 		"y": 31774,
@@ -35837,13 +35389,6 @@
 		"icon": "red left",
 		"x": 33564,
 		"y": 31951,
-		"z": 13
-	},
-	{
-		"description": "Deepling tyrant (poison bomb spot)",
-		"icon": "star",
-		"x": 33565,
-		"y": 31306,
 		"z": 13
 	},
 	{
