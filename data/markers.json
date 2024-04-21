@@ -39683,24 +39683,10 @@
 		"z": 15
 	},
 	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33211,
-		"y": 32147,
-		"z": 15
-	},
-	{
 		"description": "",
 		"icon": "star",
 		"x": 33216,
 		"y": 32283,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33223,
-		"y": 32182,
 		"z": 15
 	},
 	{
@@ -39722,13 +39708,6 @@
 		"icon": "up",
 		"x": 33234,
 		"y": 32858,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33245,
-		"y": 32163,
 		"z": 15
 	},
 	{
@@ -39757,20 +39736,6 @@
 		"icon": "up",
 		"x": 33277,
 		"y": 31842,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33277,
-		"y": 32172,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33300,
-		"y": 32135,
 		"z": 15
 	},
 	{
@@ -39813,13 +39778,6 @@
 		"icon": "crossmark",
 		"x": 33330,
 		"y": 31426,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33332,
-		"y": 32171,
 		"z": 15
 	},
 	{
@@ -39970,13 +39928,6 @@
 		"z": 15
 	},
 	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33428,
-		"y": 32181,
-		"z": 15
-	},
-	{
 		"description": "Razzagorn",
 		"icon": "sword",
 		"x": 33437,
@@ -40009,13 +39960,6 @@
 		"icon": "red up",
 		"x": 33447,
 		"y": 31647,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33454,
-		"y": 32215,
 		"z": 15
 	},
 	{
@@ -40096,20 +40040,6 @@
 		"z": 15
 	},
 	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33491,
-		"y": 32180,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33494,
-		"y": 32216,
-		"z": 15
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33499,
@@ -40121,13 +40051,6 @@
 		"icon": "crossmark",
 		"x": 33500,
 		"y": 31776,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33501,
-		"y": 32254,
 		"z": 15
 	},
 	{
@@ -40184,13 +40107,6 @@
 		"icon": "red right",
 		"x": 33538,
 		"y": 31808,
-		"z": 15
-	},
-	{
-		"description": "Blue crystal",
-		"icon": "!",
-		"x": 33539,
-		"y": 32213,
 		"z": 15
 	},
 	{
@@ -40495,9 +40411,9 @@
 		"z": 15
 	},
 	{
-		"description": "Warzone 4 - The Baron from Below",
-		"icon": "?",
-		"x": 33649,
+		"description": "The Baron from Below (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33647,
 		"y": 32303,
 		"z": 15
 	},
@@ -40586,10 +40502,10 @@
 		"z": 15
 	},
 	{
-		"description": "Warzone 5 - The Count of the Core",
-		"icon": "?",
-		"x": 33680,
-		"y": 32335,
+		"description": "The Count of the Core (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33679,
+		"y": 32333,
 		"z": 15
 	},
 	{
@@ -40621,10 +40537,10 @@
 		"z": 15
 	},
 	{
-		"description": "Warzone 6 - The Duke of the Depths",
-		"icon": "?",
-		"x": 33714,
-		"y": 32304,
+		"description": "The Duke of the Depths (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33712,
+		"y": 32302,
 		"z": 15
 	},
 	{
