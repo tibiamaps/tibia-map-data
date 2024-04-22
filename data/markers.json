@@ -30149,6 +30149,27 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red down",
+		"x": 33147,
+		"y": 32885,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33148,
+		"y": 32873,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33148,
+		"y": 32891,
+		"z": 11
+	},
+	{
 		"description": "Pool of Blood",
 		"icon": "crossmark",
 		"x": 33149,
@@ -30157,9 +30178,37 @@
 	},
 	{
 		"description": "",
+		"icon": "red down",
+		"x": 33149,
+		"y": 32879,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33149,
+		"y": 32882,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33150,
 		"y": 31595,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33150,
+		"y": 32876,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33151,
+		"y": 32888,
 		"z": 11
 	},
 	{
