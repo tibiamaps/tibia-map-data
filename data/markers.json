@@ -29981,6 +29981,13 @@
 		"z": 11
 	},
 	{
+		"description": "Teleport back to the start",
+		"icon": "!",
+		"x": 33076,
+		"y": 31978,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33077,
@@ -32645,6 +32652,13 @@
 		"icon": "crossmark",
 		"x": 33051,
 		"y": 32085,
+		"z": 12
+	},
+	{
+		"description": "Teleport back to the start",
+		"icon": "!",
+		"x": 33060,
+		"y": 31882,
 		"z": 12
 	},
 	{
