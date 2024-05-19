@@ -2044,20 +2044,6 @@
 		"z": 5
 	},
 	{
-		"description": "Sorcerer’s gate",
-		"icon": "red left",
-		"x": 32055,
-		"y": 31890,
-		"z": 5
-	},
-	{
-		"description": "Food and equipment",
-		"icon": "bag",
-		"x": 32057,
-		"y": 31881,
-		"z": 5
-	},
-	{
 		"description": "Potions and magic store",
 		"icon": "bag",
 		"x": 32057,
@@ -2069,20 +2055,6 @@
 		"icon": "up",
 		"x": 32058,
 		"y": 32602,
-		"z": 5
-	},
-	{
-		"description": "Knight’s gate",
-		"icon": "red up",
-		"x": 32064,
-		"y": 31880,
-		"z": 5
-	},
-	{
-		"description": "Druid’s gate",
-		"icon": "red down",
-		"x": 32064,
-		"y": 31901,
 		"z": 5
 	},
 	{
@@ -2107,13 +2079,6 @@
 		"z": 5
 	},
 	{
-		"description": "Weapons and armor",
-		"icon": "bag",
-		"x": 32071,
-		"y": 31881,
-		"z": 5
-	},
-	{
 		"description": "General information and creature products",
 		"icon": "!",
 		"x": 32071,
@@ -2121,17 +2086,10 @@
 		"z": 5
 	},
 	{
-		"description": "To the bank, spell trainers, safe trade rooms, and Mr Morris",
+		"description": "To the spell trainers, safe trade rooms, and Mr Morris",
 		"icon": "up",
 		"x": 32074,
 		"y": 31895,
-		"z": 5
-	},
-	{
-		"description": "Paladin’s gate",
-		"icon": "red right",
-		"x": 32075,
-		"y": 31891,
 		"z": 5
 	},
 	{
@@ -8876,6 +8834,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32834,
+		"y": 31272,
+		"z": 7
+	},
+	{
 		"description": "Fury Gate (world change)",
 		"icon": "!",
 		"x": 32834,
@@ -8953,6 +8918,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Armenius",
+		"icon": "mouth",
+		"x": 32853,
+		"y": 31324,
+		"z": 7
+	},
+	{
 		"description": "Shortcut to Deeper Banuta",
 		"icon": "down",
 		"x": 32853,
@@ -8978,13 +8950,6 @@
 		"icon": "star",
 		"x": 32857,
 		"y": 32738,
-		"z": 7
-	},
-	{
-		"description": "NPC Armenius",
-		"icon": "mouth",
-		"x": 32860,
-		"y": 31323,
 		"z": 7
 	},
 	{
@@ -10395,7 +10360,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the Knight and Paladin Trainer",
+		"description": "To the knight and paladin trainer",
 		"icon": "up",
 		"x": 33159,
 		"y": 32810,
@@ -12194,6 +12159,13 @@
 		"z": 7
 	},
 	{
+		"description": "Antenna",
+		"icon": "star",
+		"x": 33581,
+		"y": 31312,
+		"z": 7
+	},
+	{
 		"description": "NPC Roswitha",
 		"icon": "mouth",
 		"x": 33584,
@@ -12216,7 +12188,7 @@
 	},
 	{
 		"description": "Entrance to digestion chamber",
-		"icon": "down",
+		"icon": "red down",
 		"x": 33585,
 		"y": 31284,
 		"z": 7
@@ -14548,7 +14520,7 @@
 	{
 		"description": "",
 		"icon": "checkmark",
-		"x": 32250,
+		"x": 32254,
 		"y": 31584,
 		"z": 8
 	},
@@ -26622,6 +26594,13 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33065,
+		"y": 31771,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33065,
 		"y": 32423,
@@ -27006,13 +26985,6 @@
 		"z": 10
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 33216,
-		"y": 31626,
-		"z": 10
-	},
-	{
 		"description": "Possible spawn of The Abomination",
 		"icon": "star",
 		"x": 33217,
@@ -27031,6 +27003,13 @@
 		"icon": "up",
 		"x": 33217,
 		"y": 32772,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33220,
+		"y": 31626,
 		"z": 10
 	},
 	{
@@ -29652,7 +29631,7 @@
 		"z": 11
 	},
 	{
-		"description": "Knight and Paladin spells",
+		"description": "Knight and paladin spells",
 		"icon": "star",
 		"x": 32931,
 		"y": 32074,
@@ -30079,6 +30058,13 @@
 		"z": 11
 	},
 	{
+		"description": "Hellgorak (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33104,
+		"y": 31725,
+		"z": 11
+	},
+	{
 		"description": "Gnomevil spawn tile",
 		"icon": "crossmark",
 		"x": 33116,
@@ -30139,6 +30125,13 @@
 		"icon": "sword",
 		"x": 33137,
 		"y": 31671,
+		"z": 11
+	},
+	{
+		"description": "Zugurosh (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33138,
+		"y": 31692,
 		"z": 11
 	},
 	{
@@ -30237,6 +30230,13 @@
 		"icon": "crossmark",
 		"x": 33160,
 		"y": 32394,
+		"z": 11
+	},
+	{
+		"description": "Ushuriel (exact spawn tile TBD)",
+		"icon": "?",
+		"x": 33163,
+		"y": 31728,
 		"z": 11
 	},
 	{
@@ -30352,8 +30352,15 @@
 		"z": 11
 	},
 	{
+		"description": "Annihilon (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33197,
+		"y": 31696,
+		"z": 11
+	},
+	{
 		"description": "Madareth (exact spawn tile)",
-		"icon": "sword",
+		"icon": "crossmark",
 		"x": 33197,
 		"y": 31754,
 		"z": 11
@@ -30370,6 +30377,13 @@
 		"icon": "crossmark",
 		"x": 33201,
 		"y": 32442,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33207,
+		"y": 31640,
 		"z": 11
 	},
 	{
@@ -30402,7 +30416,7 @@
 	},
 	{
 		"description": "Golgordan (exact spawn tile)",
-		"icon": "sword",
+		"icon": "crossmark",
 		"x": 33228,
 		"y": 31725,
 		"z": 11
@@ -30430,7 +30444,7 @@
 	},
 	{
 		"description": "Latrivan (exact spawn tile)",
-		"icon": "sword",
+		"icon": "crossmark",
 		"x": 33235,
 		"y": 31725,
 		"z": 11
@@ -32873,6 +32887,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33207,
+		"y": 31661,
+		"z": 12
+	},
+	{
+		"description": "",
 		"icon": "flag",
 		"x": 33226,
 		"y": 31478,
@@ -33012,17 +33033,17 @@
 		"z": 12
 	},
 	{
+		"description": "Towards Madareth",
+		"icon": "flag",
+		"x": 33357,
+		"y": 31588,
+		"z": 12
+	},
+	{
 		"description": "To Ascending Ferumbras",
 		"icon": "down",
 		"x": 33359,
 		"y": 31451,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33359,
-		"y": 31614,
 		"z": 12
 	},
 	{
@@ -33044,13 +33065,6 @@
 		"icon": "up",
 		"x": 33370,
 		"y": 32617,
-		"z": 12
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33372,
-		"y": 31594,
 		"z": 12
 	},
 	{
@@ -35288,13 +35302,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 33358,
-		"y": 31601,
-		"z": 13
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 33365,
 		"y": 31637,
@@ -37478,24 +37485,10 @@
 		"z": 14
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33359,
-		"y": 31604,
-		"z": 14
-	},
-	{
 		"description": "Switch",
 		"icon": "checkmark",
 		"x": 33359,
 		"y": 32701,
-		"z": 14
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33364,
-		"y": 31589,
 		"z": 14
 	},
 	{
