@@ -1,0 +1,191 @@
+[
+	{
+		"description": "Northern Safe Trade Room",
+		"icon": "lock",
+		"x": 32057,
+		"y": 31883,
+		"z": 3
+	},
+	{
+		"description": "Southern Safe Trade Room",
+		"icon": "lock",
+		"x": 32057,
+		"y": 31897,
+		"z": 3
+	},
+	{
+		"description": "To the Shops, Temple, Bank and Vocation Gates",
+		"icon": "down",
+		"x": 32065,
+		"y": 31890,
+		"z": 3
+	},
+	{
+		"description": "Druid and Sorcerer Spells",
+		"icon": "star",
+		"x": 32057,
+		"y": 31882,
+		"z": 4
+	},
+	{
+		"description": "To the Safe Trade Rooms",
+		"icon": "up",
+		"x": 32065,
+		"y": 31890,
+		"z": 4
+	},
+	{
+		"description": "Knight and Paladin Spells",
+		"icon": "star",
+		"x": 32072,
+		"y": 31882,
+		"z": 4
+	},
+	{
+		"description": "Mr Morris' Room",
+		"icon": "!",
+		"x": 32072,
+		"y": 31899,
+		"z": 4
+	},
+	{
+		"description": "To the Shops, Temple and Vocation Gates",
+		"icon": "down",
+		"x": 32073,
+		"y": 31895,
+		"z": 4
+	},
+	{
+		"description": "Ship to the Mainland",
+		"icon": "flag",
+		"x": 32033,
+		"y": 31874,
+		"z": 5
+	},
+	{
+		"description": "Paladin's Gate",
+		"icon": "red left",
+		"x": 32055,
+		"y": 31890,
+		"z": 5
+	},
+	{
+		"description": "Weapons and Armor",
+		"icon": "bag",
+		"x": 32056,
+		"y": 31881,
+		"z": 5
+	},
+	{
+		"description": "Potions and Magic Store",
+		"icon": "bag",
+		"x": 32057,
+		"y": 31900,
+		"z": 5
+	},
+	{
+		"description": "Food and Equipment",
+		"icon": "bag",
+		"x": 32060,
+		"y": 31881,
+		"z": 5
+	},
+	{
+		"description": "Druid's Gate",
+		"icon": "red up",
+		"x": 32064,
+		"y": 31880,
+		"z": 5
+	},
+	{
+		"description": "Sorcerer's Gate",
+		"icon": "red down",
+		"x": 32064,
+		"y": 31901,
+		"z": 5
+	},
+	{
+		"description": "To the Temple and Vocation Doors",
+		"icon": "cross",
+		"x": 32065,
+		"y": 31888,
+		"z": 5
+	},
+	{
+		"description": "Adventurer's Bank",
+		"icon": "$",
+		"x": 32071,
+		"y": 31881,
+		"z": 5
+	},
+	{
+		"description": "General Information and Creature Products",
+		"icon": "!",
+		"x": 32071,
+		"y": 31900,
+		"z": 5
+	},
+	{
+		"description": "To the Spell Trainers, Safe Trade Rooms and Mr Morris",
+		"icon": "up",
+		"x": 32074,
+		"y": 31895,
+		"z": 5
+	},
+	{
+		"description": "Knight's Gate",
+		"icon": "red right",
+		"x": 32075,
+		"y": 31891,
+		"z": 5
+	},
+	{
+		"description": "To the Mainland",
+		"icon": "red left",
+		"x": 32048,
+		"y": 31878,
+		"z": 6
+	},
+	{
+		"description": "Sorcerer Vocation Door",
+		"icon": "star",
+		"x": 32055,
+		"y": 31886,
+		"z": 6
+	},
+	{
+		"description": "Paladin Vocation Door",
+		"icon": "star",
+		"x": 32059,
+		"y": 31886,
+		"z": 6
+	},
+	{
+		"description": "Alternate Bank",
+		"icon": "$",
+		"x": 32064,
+		"y": 31881,
+		"z": 6
+	},
+	{
+		"description": "Dawnport Temple",
+		"icon": "cross",
+		"x": 32064,
+		"y": 31892,
+		"z": 6
+	},
+	{
+		"description": "Knight Vocation Door",
+		"icon": "star",
+		"x": 32069,
+		"y": 31886,
+		"z": 6
+	},
+	{
+		"description": "Druid Vocation Door",
+		"icon": "star",
+		"x": 32073,
+		"y": 31886,
+		"z": 6
+	}
+]
