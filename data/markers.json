@@ -30086,13 +30086,6 @@
 		"z": 11
 	},
 	{
-		"description": "Ushuriel (exact spawn tile TBD)",
-		"icon": "?",
-		"x": 33163,
-		"y": 31728,
-		"z": 11
-	},
-	{
 		"description": "",
 		"icon": "flag",
 		"x": 33163,
@@ -30118,6 +30111,13 @@
 		"icon": "up",
 		"x": 33169,
 		"y": 31588,
+		"z": 11
+	},
+	{
+		"description": "Ushuriel (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33171,
+		"y": 31727,
 		"z": 11
 	},
 	{
