@@ -18067,17 +18067,17 @@
 		"z": 8
 	},
 	{
+		"description": "Chopper (spawn location)",
+		"icon": "crossmark",
+		"x": 33527,
+		"y": 31260,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33528,
 		"y": 31672,
-		"z": 8
-	},
-	{
-		"description": "Chopper (spawn location)",
-		"icon": "crossmark",
-		"x": 33531,
-		"y": 31261,
 		"z": 8
 	},
 	{
