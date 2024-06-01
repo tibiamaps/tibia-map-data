@@ -35,8 +35,9 @@ for (const marker of markersToRemove) {
 const currentMarkers = readJSON('../data/markers.json');
 
 const result = currentMarkers.filter(marker => {
+	const isPrivateMarker = marker.description.startsWith('//');
 	const id = hash(marker);
-	const needsRemoval = hashes.has(id);
+	const needsRemoval = hashes.has(id) || isPrivateMarker;
 	return !needsRemoval;
 });
 
