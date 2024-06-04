@@ -11116,6 +11116,13 @@
 		"z": 7
 	},
 	{
+		"description": "Donut gate to Feyrist",
+		"icon": "flag",
+		"x": 33339,
+		"y": 32125,
+		"z": 7
+	},
+	{
 		"description": "Portal of orange energy (teleport to Halls of Hope)",
 		"icon": "crossmark",
 		"x": 33341,
@@ -11228,6 +11235,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33369,
+		"y": 32166,
+		"z": 7
+	},
+	{
 		"description": "The Grand Master of Vocal Debate VIII",
 		"icon": "bag",
 		"x": 33371,
@@ -11295,6 +11309,13 @@
 		"icon": "flag",
 		"x": 33430,
 		"y": 32276,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33434,
+		"y": 32143,
 		"z": 7
 	},
 	{
@@ -11568,6 +11589,13 @@
 		"icon": "sword",
 		"x": 33519,
 		"y": 32466,
+		"z": 7
+	},
+	{
+		"description": "Moon melon plant",
+		"icon": "?",
+		"x": 33520,
+		"y": 32219,
 		"z": 7
 	},
 	{
@@ -11956,10 +11984,10 @@
 		"z": 7
 	},
 	{
-		"description": "Donut gate",
+		"description": "Donut gate to Candia",
 		"icon": "flag",
 		"x": 33574,
-		"y": 32223,
+		"y": 32222,
 		"z": 7
 	},
 	{
@@ -17780,6 +17808,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33369,
+		"y": 32166,
+		"z": 8
+	},
+	{
 		"description": "The Grand Master of Vocal Debate IX",
 		"icon": "bag",
 		"x": 33371,
@@ -17803,6 +17838,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33388,
+		"y": 32141,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33411,
 		"y": 31186,
 		"z": 8
@@ -17819,6 +17861,20 @@
 		"icon": "crossmark",
 		"x": 33423,
 		"y": 32214,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33434,
+		"y": 32143,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33445,
+		"y": 32188,
 		"z": 8
 	},
 	{
@@ -22820,10 +22876,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33388,
+		"y": 32141,
+		"z": 9
+	},
+	{
 		"description": "Teleport towards Dragonking Zyrtarch",
 		"icon": "flag",
 		"x": 33396,
 		"y": 31129,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33398,
+		"y": 32200,
 		"z": 9
 	},
 	{
@@ -22862,6 +22932,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33415,
+		"y": 32151,
+		"z": 9
+	},
+	{
 		"description": "NPC A Strange Chalice",
 		"icon": "mouth",
 		"x": 33419,
@@ -22890,10 +22967,24 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33441,
+		"y": 32151,
+		"z": 9
+	},
+	{
 		"description": "Portal to Black Vixen",
 		"icon": "sword",
 		"x": 33442,
 		"y": 32051,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33445,
+		"y": 32188,
 		"z": 9
 	},
 	{
@@ -27301,6 +27392,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33415,
+		"y": 32151,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33418,
 		"y": 32108,
@@ -27339,6 +27437,13 @@
 		"icon": "down",
 		"x": 33429,
 		"y": 31229,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33441,
+		"y": 32151,
 		"z": 10
 	},
 	{
