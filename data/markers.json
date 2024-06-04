@@ -11599,6 +11599,13 @@
 		"z": 7
 	},
 	{
+		"description": "Moon melon plant",
+		"icon": "?",
+		"x": 33527,
+		"y": 32205,
+		"z": 7
+	},
+	{
 		"description": "To NPC A Runaway Goblin",
 		"icon": "down",
 		"x": 33528,
@@ -11946,6 +11953,13 @@
 		"icon": "!",
 		"x": 33574,
 		"y": 31953,
+		"z": 7
+	},
+	{
+		"description": "Donut gate",
+		"icon": "flag",
+		"x": 33574,
+		"y": 32223,
 		"z": 7
 	},
 	{
@@ -17801,10 +17815,10 @@
 		"z": 8
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33437,
-		"y": 32218,
+		"description": "Sugar",
+		"icon": "crossmark",
+		"x": 33423,
+		"y": 32214,
 		"z": 8
 	},
 	{
@@ -17994,6 +18008,13 @@
 		"icon": "sword",
 		"x": 33495,
 		"y": 31018,
+		"z": 8
+	},
+	{
+		"description": "Sugar",
+		"icon": "!",
+		"x": 33495,
+		"y": 32285,
 		"z": 8
 	},
 	{
@@ -23128,6 +23149,13 @@
 		"z": 9
 	},
 	{
+		"description": "Sugar",
+		"icon": "!",
+		"x": 33570,
+		"y": 32186,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33571,
@@ -27938,9 +27966,9 @@
 	},
 	{
 		"description": "",
-		"icon": "up",
-		"x": 33897,
-		"y": 32040,
+		"icon": "red right",
+		"x": 33892,
+		"y": 32041,
 		"z": 10
 	},
 	{
@@ -28389,6 +28417,13 @@
 		"icon": "up",
 		"x": 32290,
 		"y": 32812,
+		"z": 11
+	},
+	{
+		"description": "NPC A Captive Forest Fury",
+		"icon": "mouth",
+		"x": 32293,
+		"y": 32835,
 		"z": 11
 	},
 	{
@@ -33954,6 +33989,13 @@
 		"icon": "star",
 		"x": 32272,
 		"y": 31052,
+		"z": 13
+	},
+	{
+		"description": "Intricate cage key",
+		"icon": "star",
+		"x": 32295,
+		"y": 32794,
 		"z": 13
 	},
 	{
