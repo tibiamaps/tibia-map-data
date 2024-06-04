@@ -8911,13 +8911,6 @@
 		"z": 7
 	},
 	{
-		"description": "Goblin scavenger",
-		"icon": "checkmark",
-		"x": 32886,
-		"y": 31283,
-		"z": 7
-	},
-	{
 		"description": "Tiquanda Laboratory",
 		"icon": "down",
 		"x": 32886,
@@ -34804,7 +34797,7 @@
 		"z": 13
 	},
 	{
-		"description": "",
+		"description": "Exit",
 		"icon": "flag",
 		"x": 33093,
 		"y": 32823,
