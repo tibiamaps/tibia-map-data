@@ -3122,6 +3122,13 @@
 		"z": 5
 	},
 	{
+		"description": "Use steering wheel to exit",
+		"icon": "flag",
+		"x": 33861,
+		"y": 32012,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33865,
@@ -6703,6 +6710,13 @@
 		"icon": "star",
 		"x": 32344,
 		"y": 32241,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot towards Soul Pit",
+		"icon": "red up",
+		"x": 32345,
+		"y": 31039,
 		"z": 7
 	},
 	{
@@ -13231,6 +13245,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red right",
+		"x": 33815,
+		"y": 31997,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33819,
 		"y": 31680,
@@ -13241,6 +13262,13 @@
 		"icon": "flag",
 		"x": 33822,
 		"y": 31069,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33829,
+		"y": 32025,
 		"z": 7
 	},
 	{
@@ -18627,6 +18655,20 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33825,
+		"y": 32000,
+		"z": 8
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33825,
+		"y": 32004,
+		"z": 8
+	},
+	{
 		"description": "Use wooden cage key to unlock the door",
 		"icon": "red right",
 		"x": 33834,
@@ -18649,6 +18691,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33848,
+		"y": 32058,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33851,
 		"y": 31612,
@@ -18666,6 +18715,13 @@
 		"icon": "up",
 		"x": 33857,
 		"y": 31529,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33857,
+		"y": 32068,
 		"z": 8
 	},
 	{
@@ -18764,6 +18820,13 @@
 		"icon": "flag",
 		"x": 33891,
 		"y": 31020,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33896,
+		"y": 32035,
 		"z": 8
 	},
 	{
@@ -23548,6 +23611,13 @@
 		"z": 9
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33826,
+		"y": 32004,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33835,
@@ -23619,6 +23689,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33867,
+		"y": 32085,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33869,
 		"y": 31519,
@@ -23664,6 +23741,20 @@
 		"icon": "flag",
 		"x": 33888,
 		"y": 31618,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33892,
+		"y": 31983,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33892,
+		"y": 32033,
 		"z": 9
 	},
 	{
@@ -27818,6 +27909,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33830,
+		"y": 32005,
+		"z": 10
+	},
+	{
 		"description": "Ornate case (use to get golden hand mirror)",
 		"icon": "star",
 		"x": 33861,
@@ -27825,10 +27923,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33867,
+		"y": 32085,
+		"z": 10
+	},
+	{
 		"description": "Exit to Goshnar’s Taint",
 		"icon": "flag",
 		"x": 33888,
 		"y": 31183,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33897,
+		"y": 32040,
 		"z": 10
 	},
 	{
