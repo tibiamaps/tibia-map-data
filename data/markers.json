@@ -1708,6 +1708,13 @@
 		"z": 4
 	},
 	{
+		"description": "Candy lipstick",
+		"icon": "star",
+		"x": 33434,
+		"y": 32143,
+		"z": 4
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33480,
@@ -2755,6 +2762,13 @@
 		"icon": "up",
 		"x": 33395,
 		"y": 32656,
+		"z": 5
+	},
+	{
+		"description": "NPC Sugar Plum Fairy",
+		"icon": "mouth",
+		"x": 33431,
+		"y": 32143,
 		"z": 5
 	},
 	{
@@ -11179,6 +11193,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC Dulcineo",
+		"icon": "mouth",
+		"x": 33353,
+		"y": 32167,
+		"z": 7
+	},
+	{
 		"description": "Jailer (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33355,
@@ -11235,7 +11256,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Chocolate Mines",
 		"icon": "down",
 		"x": 33369,
 		"y": 32166,
@@ -11312,7 +11333,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Dessert Dungeons",
 		"icon": "down",
 		"x": 33434,
 		"y": 32143,
@@ -17780,6 +17801,13 @@
 		"z": 8
 	},
 	{
+		"description": "Use candy cane to reinforce wall",
+		"icon": "crossmark",
+		"x": 33359,
+		"y": 32180,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33361,
@@ -17791,6 +17819,13 @@
 		"icon": "red down",
 		"x": 33361,
 		"y": 32777,
+		"z": 8
+	},
+	{
+		"description": "NPC Candis",
+		"icon": "mouth",
+		"x": 33363,
+		"y": 32139,
 		"z": 8
 	},
 	{
@@ -17840,6 +17875,13 @@
 		"icon": "down",
 		"x": 33388,
 		"y": 32141,
+		"z": 8
+	},
+	{
+		"description": "Use candy cane to reinforce wall",
+		"icon": "crossmark",
+		"x": 33408,
+		"y": 32143,
 		"z": 8
 	},
 	{
@@ -22890,8 +22932,8 @@
 		"z": 9
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Sugar Daddy",
+		"icon": "sword",
 		"x": 33398,
 		"y": 32200,
 		"z": 9
@@ -22929,6 +22971,13 @@
 		"icon": "up",
 		"x": 33411,
 		"y": 31186,
+		"z": 9
+	},
+	{
+		"description": "Use candy cane to reinforce wall",
+		"icon": "crossmark",
+		"x": 33411,
+		"y": 32173,
 		"z": 9
 	},
 	{
@@ -27391,7 +27440,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Chocolate Mines",
 		"icon": "up",
 		"x": 33415,
 		"y": 32151,
@@ -27440,7 +27489,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Dessert Dungeons",
 		"icon": "up",
 		"x": 33441,
 		"y": 32151,
