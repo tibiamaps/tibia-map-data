@@ -23163,6 +23163,13 @@
 		"z": 9
 	},
 	{
+		"description": "Sugar Mommy (exact spawn tile; only during weekends)",
+		"icon": "crossmark",
+		"x": 33456,
+		"y": 32136,
+		"z": 9
+	},
+	{
 		"description": "Tibia Coin",
 		"icon": "star",
 		"x": 33457,
