@@ -36757,6 +36757,13 @@
 		"z": 14
 	},
 	{
+		"description": "Writhing Mass",
+		"icon": "sword",
+		"x": 32499,
+		"y": 32923,
+		"z": 14
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32500,
@@ -36799,6 +36806,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32520,
+		"y": 32942,
+		"z": 14
+	},
+	{
 		"description": "Steamboat to Kazordoon",
 		"icon": "flag",
 		"x": 32526,
@@ -36807,9 +36821,44 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32530,
+		"y": 32929,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32530,
+		"y": 32951,
+		"z": 14
+	},
+	{
+		"description": "Writhing Mass",
+		"icon": "sword",
+		"x": 32538,
+		"y": 32905,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "sword",
+		"x": 32541,
+		"y": 32969,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32544,
 		"y": 31870,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32544,
+		"y": 32942,
 		"z": 14
 	},
 	{
@@ -36831,6 +36880,13 @@
 		"icon": "red down",
 		"x": 32570,
 		"y": 32048,
+		"z": 14
+	},
+	{
+		"description": "Writhing Mass",
+		"icon": "sword",
+		"x": 32570,
+		"y": 32955,
 		"z": 14
 	},
 	{
@@ -39662,10 +39718,38 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32520,
+		"y": 32942,
+		"z": 15
+	},
+	{
 		"description": "To exit",
 		"icon": "up",
 		"x": 32525,
 		"y": 32145,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32530,
+		"y": 32929,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32530,
+		"y": 32951,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32544,
+		"y": 32942,
 		"z": 15
 	},
 	{
