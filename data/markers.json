@@ -18235,10 +18235,10 @@
 		"z": 8
 	},
 	{
-		"description": "Chopper (spawn location)",
+		"description": "Chopper (exact spawn tile)",
 		"icon": "crossmark",
-		"x": 33527,
-		"y": 31260,
+		"x": 33526,
+		"y": 31261,
 		"z": 8
 	},
 	{
