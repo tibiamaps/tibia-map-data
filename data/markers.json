@@ -18781,13 +18781,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33805,
-		"y": 32070,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33806,
@@ -18802,38 +18795,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33808,
-		"y": 31981,
-		"z": 8
-	},
-	{
 		"description": "Bragrumol (bomb spot)",
 		"icon": "crossmark",
 		"x": 33809,
 		"y": 31596,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33809,
-		"y": 32027,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33815,
-		"y": 32082,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33821,
-		"y": 32034,
 		"z": 8
 	},
 	{
@@ -18851,13 +18816,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33826,
-		"y": 31975,
-		"z": 8
-	},
-	{
 		"description": "Use wooden cage key to unlock the door",
 		"icon": "red right",
 		"x": 33834,
@@ -18872,24 +18830,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33835,
-		"y": 32086,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33846,
 		"y": 31667,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33846,
-		"y": 31982,
 		"z": 8
 	},
 	{
@@ -18953,27 +18897,6 @@
 		"icon": "down",
 		"x": 33865,
 		"y": 31458,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33866,
-		"y": 31979,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33868,
-		"y": 31994,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33869,
-		"y": 32061,
 		"z": 8
 	},
 	{
@@ -19054,31 +18977,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33893,
-		"y": 32067,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33895,
-		"y": 32077,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33896,
 		"y": 32035,
-		"z": 8
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33902,
-		"y": 32052,
 		"z": 8
 	},
 	{
@@ -23751,13 +23653,6 @@
 		"z": 9
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33797,
-		"y": 31974,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "red right",
 		"x": 33799,
@@ -23769,13 +23664,6 @@
 		"icon": "red left",
 		"x": 33799,
 		"y": 31670,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33800,
-		"y": 32051,
 		"z": 9
 	},
 	{
@@ -23821,31 +23709,10 @@
 		"z": 9
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33801,
-		"y": 32083,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33802,
-		"y": 32011,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "red down",
 		"x": 33805,
 		"y": 31672,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33805,
-		"y": 32024,
 		"z": 9
 	},
 	{
@@ -23975,13 +23842,6 @@
 		"z": 9
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33845,
-		"y": 31975,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 33846,
@@ -24052,20 +23912,6 @@
 		"z": 9
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33865,
-		"y": 31968,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33866,
-		"y": 32026,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 33867,
@@ -24077,20 +23923,6 @@
 		"icon": "up",
 		"x": 33869,
 		"y": 31519,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33869,
-		"y": 32045,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33872,
-		"y": 32037,
 		"z": 9
 	},
 	{
@@ -24157,13 +23989,6 @@
 		"z": 9
 	},
 	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33902,
-		"y": 31978,
-		"z": 9
-	},
-	{
 		"description": "Memory enlightener (use shards here)",
 		"icon": "star",
 		"x": 33903,
@@ -24182,13 +24007,6 @@
 		"icon": "red up",
 		"x": 33906,
 		"y": 31044,
-		"z": 9
-	},
-	{
-		"description": "Cocoon",
-		"icon": "sword",
-		"x": 33906,
-		"y": 31991,
 		"z": 9
 	},
 	{
@@ -31647,10 +31465,24 @@
 		"z": 11
 	},
 	{
+		"description": "The Rootkraken",
+		"icon": "red right",
+		"x": 33843,
+		"y": 31983,
+		"z": 11
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33849,
 		"y": 31998,
+		"z": 11
+	},
+	{
+		"description": "The Rootkraken",
+		"icon": "red down",
+		"x": 33853,
+		"y": 31978,
 		"z": 11
 	},
 	{
@@ -32148,6 +31980,13 @@
 		"icon": "star",
 		"x": 32299,
 		"y": 31025,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32309,
+		"y": 32811,
 		"z": 12
 	},
 	{
