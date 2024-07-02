@@ -1827,7 +1827,7 @@
 		"z": 4
 	},
 	{
-		"description": "",
+		"description": "To Podzilla",
 		"icon": "red left",
 		"x": 33805,
 		"y": 31995,
@@ -13388,6 +13388,13 @@
 		"icon": "checkmark",
 		"x": 33843,
 		"y": 32788,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33846,
+		"y": 32005,
 		"z": 7
 	},
 	{
