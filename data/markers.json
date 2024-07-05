@@ -11641,13 +11641,6 @@
 		"z": 7
 	},
 	{
-		"description": "Moon melon plant",
-		"icon": "?",
-		"x": 33520,
-		"y": 32219,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "sword",
 		"x": 33520,
@@ -11673,13 +11666,6 @@
 		"icon": "flag",
 		"x": 33526,
 		"y": 32387,
-		"z": 7
-	},
-	{
-		"description": "Moon melon plant",
-		"icon": "?",
-		"x": 33527,
-		"y": 32205,
 		"z": 7
 	},
 	{
@@ -24025,6 +24011,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33907,
+		"y": 32030,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33908,
 		"y": 31107,
@@ -28225,6 +28218,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33864,
+		"y": 31958,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33867,
 		"y": 32085,
@@ -28242,6 +28242,20 @@
 		"icon": "red right",
 		"x": 33892,
 		"y": 32041,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33893,
+		"y": 31978,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33903,
+		"y": 32030,
 		"z": 10
 	},
 	{
@@ -39636,8 +39650,36 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32613,
+		"y": 32949,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32620,
+		"y": 32956,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32622,
+		"y": 32937,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32629,
 		"y": 31499,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32634,
+		"y": 32947,
 		"z": 15
 	},
 	{
