@@ -11221,6 +11221,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33353,
+		"y": 32129,
+		"z": 7
+	},
+	{
 		"description": "NPC Dulcineo",
 		"icon": "mouth",
 		"x": 33353,
@@ -15148,13 +15155,6 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32544,
-		"y": 32235,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "down",
 		"x": 32545,
@@ -15180,13 +15180,6 @@
 		"icon": "up",
 		"x": 32548,
 		"y": 31988,
-		"z": 8
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32549,
-		"y": 32266,
 		"z": 8
 	},
 	{
@@ -15253,24 +15246,10 @@
 		"z": 8
 	},
 	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32570,
-		"y": 32220,
-		"z": 8
-	},
-	{
 		"description": "Rabid wolf",
 		"icon": "star",
 		"x": 32570,
 		"y": 32224,
-		"z": 8
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32570,
-		"y": 32240,
 		"z": 8
 	},
 	{
@@ -15292,13 +15271,6 @@
 		"icon": "star",
 		"x": 32577,
 		"y": 32234,
-		"z": 8
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32578,
-		"y": 32236,
 		"z": 8
 	},
 	{
@@ -20384,13 +20356,6 @@
 		"z": 9
 	},
 	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32523,
-		"y": 32204,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32525,
@@ -20458,13 +20423,6 @@
 		"icon": "checkmark",
 		"x": 32534,
 		"y": 32276,
-		"z": 9
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32537,
-		"y": 32218,
 		"z": 9
 	},
 	{
@@ -20552,24 +20510,10 @@
 		"z": 9
 	},
 	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32557,
-		"y": 32165,
-		"z": 9
-	},
-	{
 		"description": "Ragged rabid wolf",
 		"icon": "crossmark",
 		"x": 32557,
 		"y": 32193,
-		"z": 9
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32558,
-		"y": 32164,
 		"z": 9
 	},
 	{
@@ -20598,13 +20542,6 @@
 		"icon": "up",
 		"x": 32561,
 		"y": 32207,
-		"z": 9
-	},
-	{
-		"description": "Cave rat",
-		"icon": "checkmark",
-		"x": 32561,
-		"y": 32244,
 		"z": 9
 	},
 	{
@@ -26450,13 +26387,6 @@
 		"icon": "star",
 		"x": 32971,
 		"y": 31461,
-		"z": 10
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32972,
-		"y": 32274,
 		"z": 10
 	},
 	{
