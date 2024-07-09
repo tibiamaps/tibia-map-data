@@ -29484,6 +29484,34 @@
 		"z": 11
 	},
 	{
+		"description": "Room with lava",
+		"icon": "crossmark",
+		"x": 32690,
+		"y": 31496,
+		"z": 11
+	},
+	{
+		"description": "Wagon room",
+		"icon": "!",
+		"x": 32692,
+		"y": 31496,
+		"z": 11
+	},
+	{
+		"description": "Brown mushroom room",
+		"icon": "crossmark",
+		"x": 32694,
+		"y": 31496,
+		"z": 11
+	},
+	{
+		"description": "Stone golems room",
+		"icon": "crossmark",
+		"x": 32696,
+		"y": 31496,
+		"z": 11
+	},
+	{
 		"description": "Teleport to Ekatrix",
 		"icon": "sword",
 		"x": 32708,
@@ -34633,6 +34661,48 @@
 		"icon": "up",
 		"x": 32667,
 		"y": 31939,
+		"z": 13
+	},
+	{
+		"description": "To Kazordoon",
+		"icon": "!",
+		"x": 32678,
+		"y": 31453,
+		"z": 13
+	},
+	{
+		"description": "Tavern with spiders",
+		"icon": "!",
+		"x": 32678,
+		"y": 31461,
+		"z": 13
+	},
+	{
+		"description": "Coal room",
+		"icon": "!",
+		"x": 32678,
+		"y": 31468,
+		"z": 13
+	},
+	{
+		"description": "NPC Tehlim",
+		"icon": "!",
+		"x": 32688,
+		"y": 31450,
+		"z": 13
+	},
+	{
+		"description": "Furious trolls and trolls legionnaire",
+		"icon": "!",
+		"x": 32700,
+		"y": 31452,
+		"z": 13
+	},
+	{
+		"description": "Back to entrance",
+		"icon": "crossmark",
+		"x": 32705,
+		"y": 31458,
 		"z": 13
 	},
 	{
