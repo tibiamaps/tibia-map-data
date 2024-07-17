@@ -8022,6 +8022,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32646,
+		"y": 31946,
+		"z": 7
+	},
+	{
 		"description": "Rorcs or drillworms and lost dwarves",
 		"icon": "red down",
 		"x": 32653,
@@ -8180,6 +8187,20 @@
 		"icon": "!",
 		"x": 32680,
 		"y": 31719,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32680,
+		"y": 31944,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32681,
+		"y": 31925,
 		"z": 7
 	},
 	{
@@ -15471,6 +15492,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32646,
+		"y": 31946,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32648,
 		"y": 32003,
@@ -15607,6 +15635,20 @@
 		"icon": "up",
 		"x": 32679,
 		"y": 32963,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32680,
+		"y": 31944,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32681,
+		"y": 31925,
 		"z": 8
 	},
 	{
