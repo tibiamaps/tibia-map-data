@@ -28,13 +28,6 @@
 		"z": 0
 	},
 	{
-		"description": "",
-		"icon": "flag",
-		"x": 32588,
-		"y": 31942,
-		"z": 0
-	},
-	{
 		"description": "Paint picture (Colossus Fortress)",
 		"icon": "!",
 		"x": 32589,
@@ -4046,9 +4039,9 @@
 		"z": 6
 	},
 	{
-		"description": "",
+		"description": "Depot",
 		"icon": "down",
-		"x": 32935,
+		"x": 32936,
 		"y": 32075,
 		"z": 6
 	},
@@ -6762,7 +6755,7 @@
 		"z": 7
 	},
 	{
-		"description": "Levitate spot towards Soulpit",
+		"description": "Levitate spot towards Soul Pit",
 		"icon": "red up",
 		"x": 32345,
 		"y": 31039,
@@ -11333,13 +11326,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "red left",
-		"x": 33372,
-		"y": 32124,
-		"z": 7
-	},
-	{
 		"description": "Boat to island to the north",
 		"icon": "flag",
 		"x": 33373,
@@ -13386,7 +13372,7 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 33830,
+		"x": 33829,
 		"y": 32025,
 		"z": 7
 	},
@@ -20713,13 +20699,6 @@
 		"z": 9
 	},
 	{
-		"description": "Towards Too Hot to Handle hub",
-		"icon": "red up",
-		"x": 32601,
-		"y": 31867,
-		"z": 9
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32601,
@@ -20759,6 +20738,13 @@
 		"icon": "up",
 		"x": 32607,
 		"y": 32975,
+		"z": 9
+	},
+	{
+		"description": "NPC Gnomystery",
+		"icon": "mouth",
+		"x": 32609,
+		"y": 31879,
 		"z": 9
 	},
 	{
@@ -29491,13 +29477,6 @@
 		"z": 11
 	},
 	{
-		"description": "Temple",
-		"icon": "cross",
-		"x": 32649,
-		"y": 31925,
-		"z": 11
-	},
-	{
 		"description": "Killing Task",
 		"icon": "sword",
 		"x": 32658,
@@ -31406,13 +31385,6 @@
 		"icon": "flag",
 		"x": 33666,
 		"y": 32624,
-		"z": 11
-	},
-	{
-		"description": "Towards exit",
-		"icon": "flag",
-		"x": 33670,
-		"y": 32278,
 		"z": 11
 	},
 	{
@@ -38635,8 +38607,8 @@
 	{
 		"description": "Kazordoon",
 		"icon": "flag",
-		"x": 33742,
-		"y": 32190,
+		"x": 33743,
+		"y": 32191,
 		"z": 14
 	},
 	{
@@ -40308,22 +40280,8 @@
 	{
 		"description": "",
 		"icon": "star",
-		"x": 33212,
-		"y": 32148,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33215,
-		"y": 32280,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33223,
-		"y": 32182,
+		"x": 33216,
+		"y": 32283,
 		"z": 15
 	},
 	{
@@ -40348,27 +40306,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33246,
-		"y": 32163,
-		"z": 15
-	},
-	{
-		"description": "Mole spawn",
-		"icon": "crossmark",
-		"x": 33250,
-		"y": 32362,
-		"z": 15
-	},
-	{
-		"description": "Mole spawn",
-		"icon": "crossmark",
-		"x": 33255,
-		"y": 32277,
-		"z": 15
-	},
-	{
 		"description": "Despor (7) > Greedok (4) > Vengar (2) > Crultor (6) > Maliz (1) > Vilear (5) > Bruton (3)",
 		"icon": "?",
 		"x": 33264,
@@ -40383,13 +40320,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33275,
-		"y": 32311,
-		"z": 15
-	},
-	{
 		"description": "Teleport to The Duke of the Depths",
 		"icon": "sword",
 		"x": 33275,
@@ -40401,27 +40331,6 @@
 		"icon": "up",
 		"x": 33277,
 		"y": 31842,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33277,
-		"y": 32173,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33300,
-		"y": 32133,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33302,
-		"y": 32354,
 		"z": 15
 	},
 	{
@@ -40453,20 +40362,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33325,
-		"y": 32297,
-		"z": 15
-	},
-	{
-		"description": "Mole spawn",
-		"icon": "crossmark",
-		"x": 33325,
-		"y": 32366,
-		"z": 15
-	},
-	{
 		"description": "MUD",
 		"icon": "?",
 		"x": 33328,
@@ -40481,13 +40376,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33332,
-		"y": 32170,
-		"z": 15
-	},
-	{
 		"description": "Hidden demons from Parchment Room Quest",
 		"icon": "?",
 		"x": 33338,
@@ -40497,8 +40385,8 @@
 	{
 		"description": "",
 		"icon": "star",
-		"x": 33358,
-		"y": 32268,
+		"x": 33357,
+		"y": 32266,
 		"z": 15
 	},
 	{
@@ -40635,13 +40523,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33428,
-		"y": 32182,
-		"z": 15
-	},
-	{
 		"description": "Razzagorn",
 		"icon": "sword",
 		"x": 33437,
@@ -40674,13 +40555,6 @@
 		"icon": "red up",
 		"x": 33447,
 		"y": 31647,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33454,
-		"y": 32216,
 		"z": 15
 	},
 	{
@@ -40761,13 +40635,6 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "star",
-		"x": 33492,
-		"y": 32181,
-		"z": 15
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33499,
@@ -40779,13 +40646,6 @@
 		"icon": "crossmark",
 		"x": 33500,
 		"y": 31776,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33501,
-		"y": 32256,
 		"z": 15
 	},
 	{
@@ -40842,13 +40702,6 @@
 		"icon": "red right",
 		"x": 33538,
 		"y": 31808,
-		"z": 15
-	},
-	{
-		"description": "",
-		"icon": "star",
-		"x": 33540,
-		"y": 32214,
 		"z": 15
 	},
 	{
