@@ -35882,10 +35882,24 @@
 		"z": 13
 	},
 	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33518,
+		"y": 31963,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33526,
 		"y": 31255,
+		"z": 13
+	},
+	{
+		"description": "Glooth Bomb (spawn location)",
+		"icon": "star",
+		"x": 33555,
+		"y": 32103,
 		"z": 13
 	},
 	{
@@ -36019,6 +36033,13 @@
 		"icon": "down",
 		"x": 33663,
 		"y": 32706,
+		"z": 13
+	},
+	{
+		"description": "Moohtant Wallbreaker (spawn location)",
+		"icon": "star",
+		"x": 33667,
+		"y": 31950,
 		"z": 13
 	},
 	{
