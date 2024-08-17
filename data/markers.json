@@ -35742,6 +35742,13 @@
 		"z": 13
 	},
 	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33397,
+		"y": 31940,
+		"z": 13
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 33399,
@@ -35760,6 +35767,13 @@
 		"icon": "up",
 		"x": 33415,
 		"y": 32377,
+		"z": 13
+	},
+	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33419,
+		"y": 31948,
 		"z": 13
 	},
 	{
@@ -35791,6 +35805,13 @@
 		"z": 13
 	},
 	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33430,
+		"y": 31936,
+		"z": 13
+	},
+	{
 		"description": "Commemorative platinum coin",
 		"icon": "star",
 		"x": 33434,
@@ -35816,6 +35837,13 @@
 		"icon": "down",
 		"x": 33450,
 		"y": 31629,
+		"z": 13
+	},
+	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33450,
+		"y": 31965,
 		"z": 13
 	},
 	{
@@ -35861,6 +35889,13 @@
 		"z": 13
 	},
 	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33469,
+		"y": 31952,
+		"z": 13
+	},
+	{
 		"description": "",
 		"icon": "flag",
 		"x": 33476,
@@ -35872,6 +35907,20 @@
 		"icon": "crossmark",
 		"x": 33482,
 		"y": 32334,
+		"z": 13
+	},
+	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33487,
+		"y": 31936,
+		"z": 13
+	},
+	{
+		"description": "Tremor Worm (possible location)",
+		"icon": "star",
+		"x": 33510,
+		"y": 31943,
 		"z": 13
 	},
 	{
