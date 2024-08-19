@@ -869,9 +869,23 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33079,
+		"y": 31119,
+		"z": 3
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33083,
 		"y": 31027,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33083,
+		"y": 31106,
 		"z": 3
 	},
 	{
@@ -18076,8 +18090,8 @@
 	{
 		"description": "Shadowstalker (spawn location)",
 		"icon": "crossmark",
-		"x": 33481,
-		"y": 31235,
+		"x": 33482,
+		"y": 31238,
 		"z": 8
 	},
 	{
