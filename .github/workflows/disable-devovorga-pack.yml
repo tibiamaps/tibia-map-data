@@ -27,7 +27,7 @@ jobs:
 
       - name: Disable pack
         run: |
-          node scripts/disable-marker-pack.mjs lightbearer
+          node scripts/disable-marker-pack.mjs devovorga
           git config user.name 'TibiaMaps.io'
           git config user.email 'ci@tibiamaps.io'
           git commit data -m 'Disable Devovorga pack' -m 'This patch disables the Rise of Devovorga markers now that the event (which runs from September 1st until September 7th, with potential rewards until October 1st) has come to an end.'
