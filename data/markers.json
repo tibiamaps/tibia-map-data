@@ -19999,6 +19999,20 @@
 		"z": 9
 	},
 	{
+		"description": "Medal of honour",
+		"icon": "?",
+		"x": 32383,
+		"y": 32199,
+		"z": 9
+	},
+	{
+		"description": "CM token",
+		"icon": "?",
+		"x": 32383,
+		"y": 32206,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32388,
@@ -20013,10 +20027,31 @@
 		"z": 9
 	},
 	{
+		"description": "The famous golden bug",
+		"icon": "?",
+		"x": 32391,
+		"y": 32208,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32397,
 		"y": 32879,
+		"z": 9
+	},
+	{
+		"description": "Golden falcon (TibiaBR)",
+		"icon": "?",
+		"x": 32399,
+		"y": 32199,
+		"z": 9
+	},
+	{
+		"description": "Friendship amulet (TibiaFriends)",
+		"icon": "?",
+		"x": 32399,
+		"y": 32208,
 		"z": 9
 	},
 	{
@@ -20031,6 +20066,13 @@
 		"icon": "up",
 		"x": 32403,
 		"y": 32068,
+		"z": 9
+	},
+	{
+		"description": "Tibiacity encyclopedia (TibiaCity)",
+		"icon": "?",
+		"x": 32403,
+		"y": 32195,
 		"z": 9
 	},
 	{
@@ -20055,10 +20097,45 @@
 		"z": 9
 	},
 	{
+		"description": "Key of numerous locks (TibiaCz)",
+		"icon": "?",
+		"x": 32406,
+		"y": 32190,
+		"z": 9
+	},
+	{
+		"description": "Pigeon trophy (TibiaML)",
+		"icon": "?",
+		"x": 32407,
+		"y": 32208,
+		"z": 9
+	},
+	{
 		"description": "Piano",
 		"icon": "red left",
 		"x": 32407,
 		"y": 32794,
+		"z": 9
+	},
+	{
+		"description": "Hand puppets (TibiaRP)",
+		"icon": "?",
+		"x": 32411,
+		"y": 32204,
+		"z": 9
+	},
+	{
+		"description": "TibiaHispano emblem (TibiaHispano)",
+		"icon": "?",
+		"x": 32414,
+		"y": 32190,
+		"z": 9
+	},
+	{
+		"description": "Epaminondas doll (Portal Tibia)",
+		"icon": "?",
+		"x": 32414,
+		"y": 32200,
 		"z": 9
 	},
 	{
@@ -20080,6 +20157,20 @@
 		"icon": "up",
 		"x": 32420,
 		"y": 32740,
+		"z": 9
+	},
+	{
+		"description": "The Mexcalibur (TibiaMx)",
+		"icon": "?",
+		"x": 32422,
+		"y": 32190,
+		"z": 9
+	},
+	{
+		"description": "Abacus (Erig.net)",
+		"icon": "?",
+		"x": 32422,
+		"y": 32200,
 		"z": 9
 	},
 	{
@@ -20108,6 +20199,20 @@
 		"icon": "down",
 		"x": 32427,
 		"y": 31875,
+		"z": 9
+	},
+	{
+		"description": "Golden newspaper (TibiaNews)",
+		"icon": "?",
+		"x": 32430,
+		"y": 32190,
+		"z": 9
+	},
+	{
+		"description": "Heavily bound book (TibiaWiki)",
+		"icon": "?",
+		"x": 32430,
+		"y": 32200,
 		"z": 9
 	},
 	{
@@ -20146,6 +20251,13 @@
 		"z": 9
 	},
 	{
+		"description": "Norseman doll (TibiaNordic)",
+		"icon": "?",
+		"x": 32434,
+		"y": 32197,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32434,
@@ -20157,6 +20269,13 @@
 		"icon": "down",
 		"x": 32436,
 		"y": 32202,
+		"z": 9
+	},
+	{
+		"description": "Bookworm doll (TibiaLibrary)",
+		"icon": "?",
+		"x": 32438,
+		"y": 32190,
 		"z": 9
 	},
 	{
@@ -25039,6 +25158,27 @@
 		"z": 10
 	},
 	{
+		"description": "Dark oracle (TibiaVIP)",
+		"icon": "?",
+		"x": 32440,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Tibiora's box (Tibia-Stats)",
+		"icon": "?",
+		"x": 32440,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Dragon goblet (TibiaVenezuela)",
+		"icon": "?",
+		"x": 32440,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32441,
@@ -25095,6 +25235,34 @@
 		"z": 10
 	},
 	{
+		"description": "Armillary sphere (TibiaMaps.io)",
+		"icon": "?",
+		"x": 32448,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Draptor doll (TibiaDraptor)",
+		"icon": "?",
+		"x": 32448,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Bag of oriental spices (Tibia-Wiki)",
+		"icon": "?",
+		"x": 32448,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Lucky clover amulet (TibiaLottery)",
+		"icon": "?",
+		"x": 32448,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "Burster (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32449,
@@ -25141,6 +25309,48 @@
 		"icon": "red right",
 		"x": 32455,
 		"y": 31719,
+		"z": 10
+	},
+	{
+		"description": "Bella Bonecrusher's doll (TibiaGallery)",
+		"icon": "?",
+		"x": 32456,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Luna (TibiaGoals)",
+		"icon": "?",
+		"x": 32456,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Orc's jaw shredder (TibiaSpy)",
+		"icon": "?",
+		"x": 32456,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Ferumbras doll (Tibiopedia)",
+		"icon": "?",
+		"x": 32456,
+		"y": 32200,
+		"z": 10
+	},
+	{
+		"description": "Evora (TibiaHome)",
+		"icon": "?",
+		"x": 32460,
+		"y": 32175,
+		"z": 10
+	},
+	{
+		"description": "Phoenix statue (TibiaFans.se)",
+		"icon": "?",
+		"x": 32460,
+		"y": 32197,
 		"z": 10
 	},
 	{
@@ -25214,6 +25424,34 @@
 		"z": 10
 	},
 	{
+		"description": "Banor doll (TibiArt)",
+		"icon": "?",
+		"x": 32468,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Magic hat (VivaTibia)",
+		"icon": "?",
+		"x": 32468,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Dread doll (FunTibia)",
+		"icon": "?",
+		"x": 32468,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Frozen heart (TibiaTR)",
+		"icon": "?",
+		"x": 32468,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32468,
@@ -25249,6 +25487,34 @@
 		"z": 10
 	},
 	{
+		"description": "Wicked witch (TibiaLabs.com)",
+		"icon": "?",
+		"x": 32476,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "White lion doll (El Podcast Tibiano)",
+		"icon": "?",
+		"x": 32476,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "The Epic Wisdom (TibiaWiki.com.br)",
+		"icon": "?",
+		"x": 32476,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Draken doll (TibiaJourney)",
+		"icon": "?",
+		"x": 32476,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32478,
@@ -25267,6 +25533,34 @@
 		"icon": "up",
 		"x": 32483,
 		"y": 31633,
+		"z": 10
+	},
+	{
+		"description": "Tibiapedia (Tibiapedia)",
+		"icon": "?",
+		"x": 32484,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Baby Munster (Rookie.com.pl)",
+		"icon": "?",
+		"x": 32484,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Old radio (RadioTibia)",
+		"icon": "?",
+		"x": 32484,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Music box (TibiaSpace)",
+		"icon": "?",
+		"x": 32484,
+		"y": 32200,
 		"z": 10
 	},
 	{
@@ -25298,6 +25592,20 @@
 		"z": 10
 	},
 	{
+		"description": "Chaos critical dice (ManjaTibia)",
+		"icon": "?",
+		"x": 32488,
+		"y": 32175,
+		"z": 10
+	},
+	{
+		"description": "Imortus (Exhiti)",
+		"icon": "?",
+		"x": 32488,
+		"y": 32197,
+		"z": 10
+	},
+	{
 		"description": "1. To Demona",
 		"icon": "down",
 		"x": 32494,
@@ -25312,6 +25620,34 @@
 		"z": 10
 	},
 	{
+		"description": "Bard doll (TibiaRia)",
+		"icon": "?",
+		"x": 32496,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Love elixir (Casal Tibiano)",
+		"icon": "?",
+		"x": 32496,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Mathmaster shield (TibiaStat)",
+		"icon": "?",
+		"x": 32496,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Doll of Durin the Almighty (TibiaBariloche)",
+		"icon": "?",
+		"x": 32496,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32502,
@@ -25323,6 +25659,34 @@
 		"icon": "red left",
 		"x": 32504,
 		"y": 31706,
+		"z": 10
+	},
+	{
+		"description": "Mini NabBot (NabBot)",
+		"icon": "?",
+		"x": 32504,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Crunor's heart (TibiaBosses)",
+		"icon": "?",
+		"x": 32504,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Medusa skull (TibiaPic)",
+		"icon": "?",
+		"x": 32504,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Majestic shield (GuildStats)",
+		"icon": "?",
+		"x": 32504,
+		"y": 32200,
 		"z": 10
 	},
 	{
@@ -25368,6 +25732,48 @@
 		"z": 10
 	},
 	{
+		"description": "Omniscient owl (TibiaQA)",
+		"icon": "?",
+		"x": 32512,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Shield of endless search (OrcSearch)",
+		"icon": "?",
+		"x": 32512,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Noble sword (Rookie.pl)",
+		"icon": "?",
+		"x": 32512,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Dragon eye (Tibia-Market)",
+		"icon": "?",
+		"x": 32512,
+		"y": 32200,
+		"z": 10
+	},
+	{
+		"description": "Bonelord tome (TibiaSecrets)",
+		"icon": "?",
+		"x": 32516,
+		"y": 32175,
+		"z": 10
+	},
+	{
+		"description": "Memory box (TibiaEvents)",
+		"icon": "?",
+		"x": 32516,
+		"y": 32197,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32518,
@@ -25400,6 +25806,48 @@
 		"icon": "red down",
 		"x": 32522,
 		"y": 32405,
+		"z": 10
+	},
+	{
+		"description": "Aylie (TibiaTales.com)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32146,
+		"z": 10
+	},
+	{
+		"description": "Aurora's collection (Tibia Collection)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32156,
+		"z": 10
+	},
+	{
+		"description": "Journal shield (BomDiaTibia)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Adamant shield (TibiaLife)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Black knight doll (TibiaLatina.wikia.com)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Jade amulet (TibiaHoF)",
+		"icon": "?",
+		"x": 32524,
+		"y": 32200,
 		"z": 10
 	},
 	{
@@ -25438,6 +25886,48 @@
 		"z": 10
 	},
 	{
+		"description": "The dragon spirit (Intibia.com)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32146,
+		"z": 10
+	},
+	{
+		"description": "Duality doll (TibiaDuality)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32156,
+		"z": 10
+	},
+	{
+		"description": "Goromaphone (RadioGoroma)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Citizen doll (TibiaTV)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "War backpack (TibiaWars)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Midnight panther doll (TibiaMagazine)",
+		"icon": "?",
+		"x": 32532,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "The Souldespoiler",
 		"icon": "sword",
 		"x": 32538,
@@ -25452,10 +25942,73 @@
 		"z": 10
 	},
 	{
+		"description": "Yeti doll (TibiaFanart.com)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32146,
+		"z": 10
+	},
+	{
+		"description": "Beaver of wisdom (TibiaPal.com)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32156,
+		"z": 10
+	},
+	{
+		"description": "Loremaster doll (TibiaTome)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32168,
+		"z": 10
+	},
+	{
+		"description": "Dark wizard's crown (TibiaMisterios)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32178,
+		"z": 10
+	},
+	{
+		"description": "Assassin doll (TibiaBrasileiros)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32190,
+		"z": 10
+	},
+	{
+		"description": "Little adventurer doll (TibiaGuias)",
+		"icon": "?",
+		"x": 32540,
+		"y": 32200,
+		"z": 10
+	},
+	{
 		"description": "Smuggler Baron Silvertoe (approximate spawn location)",
 		"icon": "star",
 		"x": 32541,
 		"y": 32649,
+		"z": 10
+	},
+	{
+		"description": "The gods' twilight doll (TibiaLight)",
+		"icon": "?",
+		"x": 32544,
+		"y": 32153,
+		"z": 10
+	},
+	{
+		"description": "Shield of destiny (TibiaRoyal)",
+		"icon": "?",
+		"x": 32544,
+		"y": 32175,
+		"z": 10
+	},
+	{
+		"description": "Cateroide's doll (Cateroide)",
+		"icon": "?",
+		"x": 32544,
+		"y": 32197,
 		"z": 10
 	},
 	{
