@@ -1078,6 +1078,34 @@
 		"z": 3
 	},
 	{
+		"description": "Large crystal #1",
+		"icon": "star",
+		"x": 33810,
+		"y": 32329,
+		"z": 3
+	},
+	{
+		"description": "Large crystal #4",
+		"icon": "star",
+		"x": 33811,
+		"y": 32374,
+		"z": 3
+	},
+	{
+		"description": "Large crystal #2",
+		"icon": "star",
+		"x": 33859,
+		"y": 32328,
+		"z": 3
+	},
+	{
+		"description": "Large crystal #3",
+		"icon": "star",
+		"x": 33859,
+		"y": 32374,
+		"z": 3
+	},
+	{
 		"description": "Exit to portal hub",
 		"icon": "flag",
 		"x": 33860,
@@ -1863,9 +1891,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33806,
+		"y": 32332,
+		"z": 4
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33808,
 		"y": 32779,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33815,
+		"y": 32370,
 		"z": 4
 	},
 	{
@@ -1876,10 +1918,52 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "red left",
+		"x": 33818,
+		"y": 32376,
+		"z": 4
+	},
+	{
 		"description": "Fog to lower floor",
 		"icon": "sword",
 		"x": 33829,
 		"y": 31879,
+		"z": 4
+	},
+	{
+		"description": "NPC Lai",
+		"icon": "mouth",
+		"x": 33835,
+		"y": 32352,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 33852,
+		"y": 32328,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33860,
+		"y": 32324,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33860,
+		"y": 32368,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33864,
+		"y": 32370,
 		"z": 4
 	},
 	{
@@ -5285,6 +5369,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33835,
+		"y": 32391,
+		"z": 6
+	},
+	{
 		"description": "Protect the Bloom",
 		"icon": "flag",
 		"x": 33836,
@@ -5306,6 +5397,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33845,
+		"y": 32358,
+		"z": 6
+	},
+	{
 		"description": "Goshnar's Cruelty",
 		"icon": "sword",
 		"x": 33853,
@@ -5313,10 +5411,24 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33855,
+		"y": 32402,
+		"z": 6
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "down",
 		"x": 33858,
 		"y": 31656,
+		"z": 6
+	},
+	{
+		"description": "To Edron",
+		"icon": "flag",
+		"x": 33862,
+		"y": 32413,
 		"z": 6
 	},
 	{
@@ -13378,6 +13490,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 33818,
+		"y": 32329,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33819,
 		"y": 31680,
@@ -13395,6 +13514,20 @@
 		"icon": "down",
 		"x": 33830,
 		"y": 32025,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33835,
+		"y": 32391,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33837,
+		"y": 32360,
 		"z": 7
 	},
 	{
@@ -13428,6 +13561,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33844,
+		"y": 32358,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33846,
 		"y": 32005,
 		"z": 7
@@ -13451,6 +13591,13 @@
 		"icon": "down",
 		"x": 33854,
 		"y": 31469,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33855,
+		"y": 32402,
 		"z": 7
 	},
 	{
@@ -17675,6 +17822,13 @@
 		"z": 8
 	},
 	{
+		"description": "To Azzilon Castle & Catacombs",
+		"icon": "flag",
+		"x": 33281,
+		"y": 31845,
+		"z": 8
+	},
+	{
 		"description": "On",
 		"icon": "checkmark",
 		"x": 33281,
@@ -18711,6 +18865,13 @@
 		"z": 8
 	},
 	{
+		"description": "Sacrificial altar (use bloodstained scythe)",
+		"icon": "star",
+		"x": 33771,
+		"y": 32392,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33773,
@@ -18867,6 +19028,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 33835,
+		"y": 32368,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33837,
+		"y": 32360,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 33846,
 		"y": 31667,
 		"z": 8
@@ -18981,6 +19156,13 @@
 		"icon": "down",
 		"x": 33877,
 		"y": 31843,
+		"z": 8
+	},
+	{
+		"description": "Finger task",
+		"icon": "flag",
+		"x": 33883,
+		"y": 32406,
 		"z": 8
 	},
 	{
@@ -23940,6 +24122,13 @@
 		"z": 9
 	},
 	{
+		"description": "Sacrificial altar (use spellreaper staff totem)",
+		"icon": "star",
+		"x": 33824,
+		"y": 32296,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33825,
@@ -23958,6 +24147,20 @@
 		"icon": "up",
 		"x": 33835,
 		"y": 31814,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33835,
+		"y": 32328,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33835,
+		"y": 32368,
 		"z": 9
 	},
 	{
@@ -24038,6 +24241,13 @@
 		"z": 9
 	},
 	{
+		"description": "Charged imps mission",
+		"icon": "flag",
+		"x": 33868,
+		"y": 32287,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33869,
@@ -24098,6 +24308,20 @@
 		"icon": "red right",
 		"x": 33892,
 		"y": 32033,
+		"z": 9
+	},
+	{
+		"description": "Troll mission",
+		"icon": "flag",
+		"x": 33893,
+		"y": 32386,
+		"z": 9
+	},
+	{
+		"description": "Fishing mission",
+		"icon": "flag",
+		"x": 33896,
+		"y": 32356,
 		"z": 9
 	},
 	{
@@ -28735,6 +28959,13 @@
 		"z": 10
 	},
 	{
+		"description": "Sacrificial altar (use hellhunter eye)",
+		"icon": "star",
+		"x": 33810,
+		"y": 32298,
+		"z": 10
+	},
+	{
 		"description": "Amenef the Burning",
 		"icon": "sword",
 		"x": 33819,
@@ -28746,6 +28977,20 @@
 		"icon": "red left",
 		"x": 33830,
 		"y": 32005,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33835,
+		"y": 32328,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33837,
+		"y": 32349,
 		"z": 10
 	},
 	{
@@ -28781,6 +29026,13 @@
 		"icon": "up",
 		"x": 33867,
 		"y": 32085,
+		"z": 10
+	},
+	{
+		"description": "Arbaziloth",
+		"icon": "sword",
+		"x": 33876,
+		"y": 32401,
 		"z": 10
 	},
 	{
@@ -32092,6 +32344,13 @@
 		"icon": "crossmark",
 		"x": 33809,
 		"y": 32457,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33837,
+		"y": 32349,
 		"z": 11
 	},
 	{
@@ -39911,6 +40170,13 @@
 		"icon": "star",
 		"x": 34033,
 		"y": 32001,
+		"z": 14
+	},
+	{
+		"description": "Arbaziloth (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 34036,
+		"y": 32330,
 		"z": 14
 	},
 	{
