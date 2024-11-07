@@ -18865,7 +18865,7 @@
 		"z": 8
 	},
 	{
-		"description": "Sacrificial altar (use bloodstained scythe)",
+		"description": "Sacrificial altar (use bloodstained scythe to summon Malvaroth)",
 		"icon": "star",
 		"x": 33771,
 		"y": 32392,
@@ -24122,7 +24122,7 @@
 		"z": 9
 	},
 	{
-		"description": "Sacrificial altar (use spellreaper staff totem)",
+		"description": "Sacrificial altar (use spellreaper staff totem to summon Twisterror)",
 		"icon": "star",
 		"x": 33824,
 		"y": 32296,
@@ -28959,7 +28959,7 @@
 		"z": 10
 	},
 	{
-		"description": "Sacrificial altar (use hellhunter eye)",
+		"description": "Sacrificial altar (use hellhunter eye to summon Gralvalon)",
 		"icon": "star",
 		"x": 33810,
 		"y": 32298,
