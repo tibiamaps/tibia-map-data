@@ -5327,6 +5327,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33800,
+		"y": 32338,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33803,
@@ -5366,6 +5373,13 @@
 		"icon": "up",
 		"x": 33827,
 		"y": 31658,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33835,
+		"y": 32356,
 		"z": 6
 	},
 	{
@@ -13384,6 +13398,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33799,
+		"y": 32338,
+		"z": 7
+	},
+	{
 		"description": "The Wreckoning/Tentugly",
 		"icon": "crossmark",
 		"x": 33800,
@@ -13514,6 +13535,13 @@
 		"icon": "down",
 		"x": 33830,
 		"y": 32025,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33835,
+		"y": 32355,
 		"z": 7
 	},
 	{
@@ -24080,6 +24108,13 @@
 		"z": 9
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33814,
+		"y": 32370,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "red right",
 		"x": 33815,
@@ -28963,6 +28998,13 @@
 		"icon": "star",
 		"x": 33810,
 		"y": 32298,
+		"z": 10
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33813,
+		"y": 32370,
 		"z": 10
 	},
 	{
@@ -41639,7 +41681,7 @@
 		"description": "Mole spawn",
 		"icon": "crossmark",
 		"x": 33459,
-		"y": 32225,
+		"y": 32215,
 		"z": 15
 	},
 	{
@@ -41661,13 +41703,6 @@
 		"icon": "up",
 		"x": 33465,
 		"y": 31797,
-		"z": 15
-	},
-	{
-		"description": "Mole spawn",
-		"icon": "crossmark",
-		"x": 33465,
-		"y": 32189,
 		"z": 15
 	},
 	{
@@ -41696,6 +41731,13 @@
 		"icon": "crossmark",
 		"x": 33474,
 		"y": 31858,
+		"z": 15
+	},
+	{
+		"description": "Mole spawn",
+		"icon": "crossmark",
+		"x": 33474,
+		"y": 32182,
 		"z": 15
 	},
 	{
@@ -41783,17 +41825,17 @@
 		"z": 15
 	},
 	{
+		"description": "Mole spawn",
+		"icon": "crossmark",
+		"x": 33539,
+		"y": 32248,
+		"z": 15
+	},
+	{
 		"description": "",
 		"icon": "star",
 		"x": 33540,
 		"y": 32214,
-		"z": 15
-	},
-	{
-		"description": "Mole spawn",
-		"icon": "crossmark",
-		"x": 33541,
-		"y": 32245,
 		"z": 15
 	},
 	{
@@ -41848,8 +41890,8 @@
 	{
 		"description": "Mole spawn",
 		"icon": "crossmark",
-		"x": 33552,
-		"y": 32203,
+		"x": 33554,
+		"y": 32202,
 		"z": 15
 	},
 	{
