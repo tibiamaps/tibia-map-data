@@ -4802,6 +4802,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33279,
+		"y": 31843,
+		"z": 6
+	},
+	{
 		"description": "To Cobra Bastion",
 		"icon": "flag",
 		"x": 33314,
