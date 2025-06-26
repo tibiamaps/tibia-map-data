@@ -149,6 +149,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32911,
+		"y": 31422,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32944,
 		"y": 32679,
 		"z": 1
@@ -424,6 +431,20 @@
 		"icon": "crossmark",
 		"x": 32753,
 		"y": 31458,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32911,
+		"y": 31422,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32926,
+		"y": 31422,
 		"z": 2
 	},
 	{
@@ -774,6 +795,20 @@
 		"icon": "up",
 		"x": 32866,
 		"y": 32835,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32911,
+		"y": 31427,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32926,
+		"y": 31422,
 		"z": 3
 	},
 	{
@@ -1435,10 +1470,24 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32911,
+		"y": 31427,
+		"z": 4
+	},
+	{
 		"description": "Old shrine (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32934,
 		"y": 31562,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32935,
+		"y": 31426,
 		"z": 4
 	},
 	{
@@ -2464,10 +2513,24 @@
 		"z": 5
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32913,
+		"y": 31438,
+		"z": 5
+	},
+	{
 		"description": "NPC Boozer",
 		"icon": "mouth",
 		"x": 32921,
 		"y": 32068,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32935,
+		"y": 31426,
 		"z": 5
 	},
 	{
@@ -2489,6 +2552,13 @@
 		"icon": "up",
 		"x": 32937,
 		"y": 31461,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32948,
+		"y": 31416,
 		"z": 5
 	},
 	{
@@ -4137,6 +4207,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32913,
+		"y": 31438,
+		"z": 6
+	},
+	{
 		"description": "Eustacio’s home",
 		"icon": "mouth",
 		"x": 32922,
@@ -4151,6 +4228,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32936,
+		"y": 31434,
+		"z": 6
+	},
+	{
 		"description": "Southern gate",
 		"icon": "down",
 		"x": 32936,
@@ -4162,6 +4246,13 @@
 		"icon": "down",
 		"x": 32944,
 		"y": 32670,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32948,
+		"y": 31416,
 		"z": 6
 	},
 	{
@@ -9219,6 +9310,20 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "flag",
+		"x": 32912,
+		"y": 31431,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32912,
+		"y": 31449,
+		"z": 7
+	},
+	{
 		"description": "Swamp trolls / rotworms",
 		"icon": "red down",
 		"x": 32913,
@@ -9265,6 +9370,13 @@
 		"icon": "red down",
 		"x": 32936,
 		"y": 31256,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32936,
+		"y": 31434,
 		"z": 7
 	},
 	{
@@ -10581,6 +10693,13 @@
 		"icon": "flag",
 		"x": 33183,
 		"y": 31756,
+		"z": 7
+	},
+	{
+		"description": "To Book World",
+		"icon": "flag",
+		"x": 33185,
+		"y": 31795,
 		"z": 7
 	},
 	{
@@ -15267,6 +15386,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32518,
+		"y": 32516,
+		"z": 8
+	},
+	{
 		"description": "To NPC A Dwarven Ghost",
 		"icon": "down",
 		"x": 32520,
@@ -15278,6 +15404,13 @@
 		"icon": "flag",
 		"x": 32520,
 		"y": 32020,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32522,
+		"y": 32513,
 		"z": 8
 	},
 	{
@@ -15334,6 +15467,13 @@
 		"icon": "down",
 		"x": 32540,
 		"y": 32272,
+		"z": 8
+	},
+	{
+		"description": "Chapter IV",
+		"icon": "red up",
+		"x": 32540,
+		"y": 32513,
 		"z": 8
 	},
 	{
@@ -16354,6 +16494,20 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32848,
+		"y": 31377,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32849,
+		"y": 31404,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32849,
 		"y": 31697,
 		"z": 8
@@ -16377,6 +16531,13 @@
 		"icon": "red down",
 		"x": 32857,
 		"y": 31052,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32860,
+		"y": 31419,
 		"z": 8
 	},
 	{
@@ -16423,6 +16584,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32883,
+		"y": 31427,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32886,
 		"y": 32590,
@@ -16458,9 +16626,30 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32901,
+		"y": 31371,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32902,
+		"y": 31404,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32902,
 		"y": 32515,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32906,
+		"y": 31444,
 		"z": 8
 	},
 	{
@@ -16475,6 +16664,13 @@
 		"icon": "mouth",
 		"x": 32910,
 		"y": 32512,
+		"z": 8
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32912,
+		"y": 31428,
 		"z": 8
 	},
 	{
@@ -16503,6 +16699,13 @@
 		"icon": "up",
 		"x": 32925,
 		"y": 32678,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32929,
+		"y": 31421,
 		"z": 8
 	},
 	{
@@ -20736,6 +20939,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32518,
+		"y": 32516,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32523,
 		"y": 31307,
 		"z": 9
@@ -20836,6 +21046,13 @@
 		"icon": "up",
 		"x": 32540,
 		"y": 32272,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32544,
+		"y": 32609,
 		"z": 9
 	},
 	{
@@ -21807,8 +22024,29 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32848,
+		"y": 31377,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32849,
+		"y": 31404,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32849,
 		"y": 31697,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32860,
+		"y": 31419,
 		"z": 9
 	},
 	{
@@ -21842,6 +22080,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32877,
+		"y": 31411,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32879,
 		"y": 32181,
 		"z": 9
@@ -21851,6 +22096,13 @@
 		"icon": "red left",
 		"x": 32881,
 		"y": 32438,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32883,
+		"y": 31427,
 		"z": 9
 	},
 	{
@@ -21897,6 +22149,27 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32901,
+		"y": 31371,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32902,
+		"y": 31404,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32906,
+		"y": 31444,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32907,
 		"y": 32363,
@@ -21921,6 +22194,20 @@
 		"icon": "up",
 		"x": 32919,
 		"y": 32142,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32929,
+		"y": 31421,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32935,
+		"y": 31425,
 		"z": 9
 	},
 	{
@@ -23069,6 +23356,13 @@
 		"icon": "down",
 		"x": 33291,
 		"y": 32554,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33295,
+		"y": 31819,
 		"z": 9
 	},
 	{
@@ -26285,6 +26579,13 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32540,
+		"y": 32564,
+		"z": 10
+	},
+	{
 		"description": "Smuggler Baron Silvertoe (approximate spawn location)",
 		"icon": "star",
 		"x": 32541,
@@ -26314,9 +26615,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32544,
+		"y": 32609,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32549,
 		"y": 31861,
+		"z": 10
+	},
+	{
+		"description": "Shortcut to Chapter I",
+		"icon": "red up",
+		"x": 32552,
+		"y": 32596,
 		"z": 10
 	},
 	{
@@ -26377,6 +26692,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32571,
+		"y": 32572,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32574,
 		"y": 32037,
@@ -26387,6 +26709,20 @@
 		"icon": "up",
 		"x": 32578,
 		"y": 32728,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 32579,
+		"y": 32572,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32582,
+		"y": 32559,
 		"z": 10
 	},
 	{
@@ -27078,6 +27414,27 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32827,
+		"y": 31380,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32847,
+		"y": 31405,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32850,
+		"y": 31435,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32850,
 		"y": 31971,
 		"z": 10
@@ -27126,6 +27483,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32874,
+		"y": 31387,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32875,
 		"y": 32575,
@@ -27134,8 +27498,22 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32877,
+		"y": 31411,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32879,
 		"y": 32181,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32882,
+		"y": 31423,
 		"z": 10
 	},
 	{
@@ -27175,6 +27553,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32899,
+		"y": 31384,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32907,
 		"y": 32363,
@@ -27190,8 +27575,22 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32911,
+		"y": 31440,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32913,
 		"y": 32340,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32935,
+		"y": 31425,
 		"z": 10
 	},
 	{
@@ -28232,6 +28631,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33295,
+		"y": 31819,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 33298,
 		"y": 32099,
@@ -28309,9 +28715,23 @@
 	},
 	{
 		"description": "",
+		"icon": "flag",
+		"x": 33364,
+		"y": 31812,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33379,
 		"y": 31700,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33382,
+		"y": 31835,
 		"z": 10
 	},
 	{
@@ -28403,6 +28823,13 @@
 		"icon": "down",
 		"x": 33429,
 		"y": 31229,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33432,
+		"y": 31838,
 		"z": 10
 	},
 	{
@@ -30233,6 +30660,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32540,
+		"y": 32564,
+		"z": 11
+	},
+	{
 		"description": "Dwarven pickaxe (daily spawn)",
 		"icon": "bag",
 		"x": 32546,
@@ -30247,10 +30681,31 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red right",
+		"x": 32578,
+		"y": 32572,
+		"z": 11
+	},
+	{
 		"description": "Hidden pick hole",
 		"icon": "red down",
 		"x": 32580,
 		"y": 32103,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32582,
+		"y": 32559,
+		"z": 11
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32584,
+		"y": 32588,
 		"z": 11
 	},
 	{
@@ -30335,6 +30790,13 @@
 		"icon": "flag",
 		"x": 32628,
 		"y": 31920,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 32631,
+		"y": 32560,
 		"z": 11
 	},
 	{
@@ -30604,6 +31066,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32827,
+		"y": 31380,
+		"z": 11
+	},
+	{
 		"description": "Druid",
 		"icon": "red down",
 		"x": 32841,
@@ -30629,6 +31098,20 @@
 		"icon": "crossmark",
 		"x": 32843,
 		"y": 32649,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32847,
+		"y": 31405,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32850,
+		"y": 31435,
 		"z": 11
 	},
 	{
@@ -30702,6 +31185,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32874,
+		"y": 31387,
+		"z": 11
+	},
+	{
 		"description": "Black Knight (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32874,
@@ -30751,6 +31241,20 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "red up",
+		"x": 32894,
+		"y": 31417,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32899,
+		"y": 31384,
+		"z": 11
+	},
+	{
 		"description": "Possible spawn of The Abomination",
 		"icon": "star",
 		"x": 32902,
@@ -30762,6 +31266,13 @@
 		"icon": "checkmark",
 		"x": 32904,
 		"y": 31903,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32911,
+		"y": 31440,
 		"z": 11
 	},
 	{
