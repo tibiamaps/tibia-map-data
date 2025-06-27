@@ -1582,6 +1582,13 @@
 		"z": 4
 	},
 	{
+		"description": "Blight Mariner",
+		"icon": "sword",
+		"x": 33000,
+		"y": 32033,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33010,
@@ -3731,6 +3738,13 @@
 		"z": 6
 	},
 	{
+		"description": "Tropical Desolator",
+		"icon": "sword",
+		"x": 32315,
+		"y": 32855,
+		"z": 6
+	},
+	{
 		"description": "The Frozen Trench",
 		"icon": "red down",
 		"x": 32365,
@@ -4165,10 +4179,24 @@
 		"z": 6
 	},
 	{
+		"description": "Wrathful Archivist",
+		"icon": "sword",
+		"x": 32821,
+		"y": 31222,
+		"z": 6
+	},
+	{
 		"description": "Carlin",
 		"icon": "flag",
 		"x": 32822,
 		"y": 32344,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 32825,
+		"y": 31224,
 		"z": 6
 	},
 	{
@@ -4421,6 +4449,13 @@
 		"icon": "down",
 		"x": 33004,
 		"y": 32095,
+		"z": 6
+	},
+	{
+		"description": "Towards Blight Mariner",
+		"icon": "red left",
+		"x": 33006,
+		"y": 32034,
 		"z": 6
 	},
 	{
@@ -6853,6 +6888,13 @@
 		"z": 7
 	},
 	{
+		"description": "Towards Tropical Desolator",
+		"icon": "up",
+		"x": 32320,
+		"y": 32848,
+		"z": 7
+	},
+	{
 		"description": "Tools",
 		"icon": "bag",
 		"x": 32321,
@@ -7718,6 +7760,13 @@
 		"icon": "star",
 		"x": 32510,
 		"y": 31716,
+		"z": 7
+	},
+	{
+		"description": "Towards Inkwing",
+		"icon": "down",
+		"x": 32510,
+		"y": 31744,
 		"z": 7
 	},
 	{
@@ -8929,6 +8978,13 @@
 		"icon": "cross",
 		"x": 32825,
 		"y": 32632,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot towards Wrathful Archivist",
+		"icon": "red left",
+		"x": 32826,
+		"y": 31224,
 		"z": 7
 	},
 	{
@@ -15373,6 +15429,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32510,
+		"y": 31744,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32513,
 		"y": 31656,
@@ -15390,6 +15453,13 @@
 		"icon": "down",
 		"x": 32518,
 		"y": 32516,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32520,
+		"y": 31752,
 		"z": 8
 	},
 	{
@@ -20951,6 +21021,13 @@
 		"z": 9
 	},
 	{
+		"description": "Inkwing",
+		"icon": "sword",
+		"x": 32523,
+		"y": 31761,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32523,
@@ -23321,6 +23398,13 @@
 		"icon": "up",
 		"x": 33273,
 		"y": 32458,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red left",
+		"x": 33275,
+		"y": 31835,
 		"z": 9
 	},
 	{
@@ -26712,7 +26796,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 32579,
 		"y": 32572,
@@ -28714,7 +28798,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Illuminated book page (red)",
 		"icon": "flag",
 		"x": 33364,
 		"y": 31812,
@@ -28728,7 +28812,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Illuminated book page (blue)",
 		"icon": "flag",
 		"x": 33382,
 		"y": 31835,
@@ -28826,7 +28910,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Illuminated book page (green)",
 		"icon": "flag",
 		"x": 33432,
 		"y": 31838,
@@ -30681,7 +30765,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 32578,
 		"y": 32572,
@@ -30793,8 +30877,8 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "flag",
+		"description": "Sir Leonard",
+		"icon": "sword",
 		"x": 32631,
 		"y": 32560,
 		"z": 11
