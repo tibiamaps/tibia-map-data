@@ -2521,6 +2521,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red up",
+		"x": 32909,
+		"y": 31431,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32913,
 		"y": 31438,
@@ -3745,6 +3752,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32320,
+		"y": 32848,
+		"z": 6
+	},
+	{
 		"description": "The Frozen Trench",
 		"icon": "red down",
 		"x": 32365,
@@ -4235,6 +4249,13 @@
 		"z": 6
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 32912,
+		"y": 31448,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32913,
@@ -4309,6 +4330,13 @@
 		"icon": "up",
 		"x": 32949,
 		"y": 31478,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "red right",
+		"x": 32951,
+		"y": 31417,
 		"z": 6
 	},
 	{
@@ -4925,6 +4953,13 @@
 		"icon": "up",
 		"x": 33263,
 		"y": 31835,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
+		"x": 33268,
+		"y": 31791,
 		"z": 6
 	},
 	{
@@ -9373,7 +9408,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 32912,
 		"y": 31449,
