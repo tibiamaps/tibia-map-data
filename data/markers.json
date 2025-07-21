@@ -27672,13 +27672,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32899,
-		"y": 31384,
-		"z": 10
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32907,
 		"y": 32363,
@@ -27692,7 +27685,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "Towards Vladrukh",
 		"icon": "down",
 		"x": 32911,
 		"y": 31440,
@@ -31360,7 +31353,7 @@
 		"z": 11
 	},
 	{
-		"description": "",
+		"description": "Towards Vladrukh",
 		"icon": "red up",
 		"x": 32894,
 		"y": 31417,
@@ -34353,6 +34346,13 @@
 		"icon": "checkmark",
 		"x": 32888,
 		"y": 32330,
+		"z": 12
+	},
+	{
+		"description": "Vladrukh",
+		"icon": "red left",
+		"x": 32893,
+		"y": 31424,
 		"z": 12
 	},
 	{
