@@ -26642,6 +26642,13 @@
 		"z": 10
 	},
 	{
+		"description": "Sir Leopold (exact spawn tile)",
+		"icon": "sword",
+		"x": 32535,
+		"y": 32520,
+		"z": 10
+	},
+	{
 		"description": "The Souldespoiler",
 		"icon": "sword",
 		"x": 32538,
