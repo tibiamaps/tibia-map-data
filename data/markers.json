@@ -10773,13 +10773,6 @@
 		"z": 7
 	},
 	{
-		"description": "Training statues",
-		"icon": "sword",
-		"x": 33179,
-		"y": 31790,
-		"z": 7
-	},
-	{
 		"description": "Boat to Bounac (Order of the Lion)",
 		"icon": "flag",
 		"x": 33183,
@@ -16689,13 +16682,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32883,
-		"y": 31427,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32886,
 		"y": 32590,
@@ -16748,13 +16734,6 @@
 		"icon": "up",
 		"x": 32902,
 		"y": 32515,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 32906,
-		"y": 31444,
 		"z": 8
 	},
 	{
@@ -30814,17 +30793,17 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32582,
-		"y": 32559,
-		"z": 11
-	},
-	{
 		"description": "Exit",
 		"icon": "crossmark",
 		"x": 32584,
 		"y": 32588,
+		"z": 11
+	},
+	{
+		"description": "To exit",
+		"icon": "flag",
+		"x": 32585,
+		"y": 32559,
 		"z": 11
 	},
 	{
