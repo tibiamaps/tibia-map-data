@@ -2037,6 +2037,13 @@
 		"z": 4
 	},
 	{
+		"description": "Mozradek (bomb spot)",
+		"icon": "crossmark",
+		"x": 33935,
+		"y": 31448,
+		"z": 4
+	},
+	{
 		"description": "To magical carpet",
 		"icon": "up",
 		"x": 33956,
