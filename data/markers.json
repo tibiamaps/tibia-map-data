@@ -4263,13 +4263,6 @@
 		"z": 6
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32913,
-		"y": 31438,
-		"z": 6
-	},
-	{
 		"description": "Eustacio’s home",
 		"icon": "mouth",
 		"x": 32922,
@@ -10808,13 +10801,6 @@
 		"z": 7
 	},
 	{
-		"description": "Training statues",
-		"icon": "sword",
-		"x": 33179,
-		"y": 31790,
-		"z": 7
-	},
-	{
 		"description": "Boat to Bounac (Order of the Lion)",
 		"icon": "flag",
 		"x": 33183,
@@ -15528,13 +15514,6 @@
 	{
 		"description": "",
 		"icon": "down",
-		"x": 32518,
-		"y": 32516,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
 		"x": 32520,
 		"y": 31752,
 		"z": 8
@@ -16731,13 +16710,6 @@
 	},
 	{
 		"description": "",
-		"icon": "down",
-		"x": 32883,
-		"y": 31427,
-		"z": 8
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32886,
 		"y": 32590,
@@ -16793,7 +16765,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Towards witchcraft scroll",
 		"icon": "down",
 		"x": 32906,
 		"y": 31444,
@@ -16849,7 +16821,7 @@
 		"z": 8
 	},
 	{
-		"description": "",
+		"description": "Towards Vladrukh",
 		"icon": "down",
 		"x": 32929,
 		"y": 31421,
@@ -22199,13 +22171,6 @@
 	{
 		"description": "",
 		"icon": "up",
-		"x": 32860,
-		"y": 31419,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
 		"x": 32861,
 		"y": 32436,
 		"z": 9
@@ -22232,7 +22197,7 @@
 		"z": 9
 	},
 	{
-		"description": "",
+		"description": "Towards witchcraft scroll",
 		"icon": "down",
 		"x": 32877,
 		"y": 31411,
@@ -26684,6 +26649,13 @@
 		"z": 10
 	},
 	{
+		"description": "Sir Leopold (exact spawn tile)",
+		"icon": "sword",
+		"x": 32535,
+		"y": 32520,
+		"z": 10
+	},
+	{
 		"description": "The Souldespoiler",
 		"icon": "sword",
 		"x": 32538,
@@ -27671,7 +27643,7 @@
 		"z": 10
 	},
 	{
-		"description": "",
+		"description": "The Blood Ritual",
 		"icon": "red down",
 		"x": 32882,
 		"y": 31423,
@@ -27689,6 +27661,13 @@
 		"icon": "up",
 		"x": 32884,
 		"y": 32805,
+		"z": 10
+	},
+	{
+		"description": "Witchcraft scroll",
+		"icon": "star",
+		"x": 32887,
+		"y": 31420,
 		"z": 10
 	},
 	{
@@ -30849,17 +30828,17 @@
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "up",
-		"x": 32582,
-		"y": 32559,
-		"z": 11
-	},
-	{
 		"description": "Exit",
 		"icon": "crossmark",
 		"x": 32584,
 		"y": 32588,
+		"z": 11
+	},
+	{
+		"description": "To exit",
+		"icon": "flag",
+		"x": 32585,
+		"y": 32559,
 		"z": 11
 	},
 	{
