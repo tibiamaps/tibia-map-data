@@ -5684,13 +5684,6 @@
 		"z": 7
 	},
 	{
-		"description": "Teneshpar (Rise of Devovorga)",
-		"icon": "sword",
-		"x": 31965,
-		"y": 31582,
-		"z": 7
-	},
-	{
 		"description": "",
 		"icon": "red down",
 		"x": 31966,
@@ -6339,13 +6332,6 @@
 		"icon": "!",
 		"x": 32167,
 		"y": 32836,
-		"z": 7
-	},
-	{
-		"description": "Phrodomo (Rise of Devovorga)",
-		"icon": "sword",
-		"x": 32169,
-		"y": 31829,
 		"z": 7
 	},
 	{
@@ -8267,13 +8253,6 @@
 		"z": 7
 	},
 	{
-		"description": "Anmothra (Rise of Devovorga)",
-		"icon": "sword",
-		"x": 32629,
-		"y": 32329,
-		"z": 7
-	},
-	{
 		"description": "To the shops, post office, and bank",
 		"icon": "up",
 		"x": 32629,
@@ -9636,13 +9615,6 @@
 		"icon": "down",
 		"x": 32975,
 		"y": 32686,
-		"z": 7
-	},
-	{
-		"description": "Irahsae (Rise of Devovorga)",
-		"icon": "sword",
-		"x": 32976,
-		"y": 32429,
 		"z": 7
 	},
 	{
@@ -11512,13 +11484,6 @@
 		"icon": "star",
 		"x": 33325,
 		"y": 31449,
-		"z": 7
-	},
-	{
-		"description": "Chikhaton (Rise of Devovorga)",
-		"icon": "sword",
-		"x": 33325,
-		"y": 31741,
 		"z": 7
 	},
 	{
