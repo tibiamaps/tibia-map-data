@@ -343,10 +343,80 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31832,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31839,
+		"z": 7
+	},
+	{
 		"description": "White tiger (fire bomb spot)",
 		"icon": "!",
 		"x": 33091,
 		"y": 32953,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33092,
+		"y": 31846,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33097,
+		"y": 31857,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33098,
+		"y": 31843,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33099,
+		"y": 31828,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33100,
+		"y": 31837,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33102,
+		"y": 31851,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31856,
 		"z": 7
 	},
 	{
