@@ -462,6 +462,20 @@
 		"z": 8
 	},
 	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32508,
+		"y": 31751,
+		"z": 8
+	},
+	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32517,
+		"y": 31754,
+		"z": 8
+	},
+	{
 		"description": "Cave rat (fire bomb spot)",
 		"icon": "checkmark",
 		"x": 32746,
@@ -719,6 +733,20 @@
 		"x": 32849,
 		"y": 31231,
 		"z": 8
+	},
+	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32520,
+		"y": 31757,
+		"z": 9
+	},
+	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32521,
+		"y": 31759,
+		"z": 9
 	},
 	{
 		"description": "Troll champion (fire bomb spot)",

@@ -15463,13 +15463,6 @@
 		"z": 8
 	},
 	{
-		"description": "Ink splash (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32508,
-		"y": 31751,
-		"z": 8
-	},
-	{
 		"description": "",
 		"icon": "up",
 		"x": 32510,
@@ -15481,13 +15474,6 @@
 		"icon": "down",
 		"x": 32513,
 		"y": 31656,
-		"z": 8
-	},
-	{
-		"description": "Ink splash (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32517,
-		"y": 31754,
 		"z": 8
 	},
 	{
@@ -21046,20 +21032,6 @@
 		"icon": "up",
 		"x": 32518,
 		"y": 32516,
-		"z": 9
-	},
-	{
-		"description": "Ink splash (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32520,
-		"y": 31757,
-		"z": 9
-	},
-	{
-		"description": "Ink splash (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 32521,
-		"y": 31759,
 		"z": 9
 	},
 	{
