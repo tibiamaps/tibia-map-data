@@ -2037,13 +2037,6 @@
 		"z": 4
 	},
 	{
-		"description": "Mozradek (bomb spot)",
-		"icon": "crossmark",
-		"x": 33935,
-		"y": 31448,
-		"z": 4
-	},
-	{
 		"description": "To magical carpet",
 		"icon": "up",
 		"x": 33956,
@@ -2541,7 +2534,7 @@
 		"z": 5
 	},
 	{
-		"description": "NPC Boozer",
+		"description": "Boozer",
 		"icon": "mouth",
 		"x": 32921,
 		"y": 32068,
@@ -4263,6 +4256,13 @@
 		"z": 6
 	},
 	{
+		"description": "To Boozer",
+		"icon": "up",
+		"x": 32921,
+		"y": 32072,
+		"z": 6
+	},
+	{
 		"description": "Eustacio’s home",
 		"icon": "mouth",
 		"x": 32922,
@@ -4788,7 +4788,7 @@
 		"z": 6
 	},
 	{
-		"description": "NPC Ahmet",
+		"description": "Ahmet",
 		"icon": "mouth",
 		"x": 33126,
 		"y": 32810,
@@ -4949,7 +4949,7 @@
 		"z": 6
 	},
 	{
-		"description": "To NPC Spectulus",
+		"description": "To Spectulus",
 		"icon": "up",
 		"x": 33263,
 		"y": 31835,
@@ -6790,7 +6790,7 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Eclesius",
+		"description": "Eclesius",
 		"icon": "mouth",
 		"x": 32291,
 		"y": 32291,
@@ -8365,7 +8365,7 @@
 		"z": 7
 	},
 	{
-		"description": "NPC Rottin Wood",
+		"description": "Rottin Wood",
 		"icon": "mouth",
 		"x": 32657,
 		"y": 32201,
@@ -11288,6 +11288,13 @@
 		"icon": "red down",
 		"x": 33277,
 		"y": 31958,
+		"z": 7
+	},
+	{
+		"description": "Jack's Home",
+		"icon": "crossmark",
+		"x": 33279,
+		"y": 31759,
 		"z": 7
 	},
 	{
@@ -15456,6 +15463,13 @@
 		"z": 8
 	},
 	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32508,
+		"y": 31751,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32510,
@@ -15467,6 +15481,13 @@
 		"icon": "down",
 		"x": 32513,
 		"y": 31656,
+		"z": 8
+	},
+	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32517,
+		"y": 31754,
 		"z": 8
 	},
 	{
@@ -21028,6 +21049,20 @@
 		"z": 9
 	},
 	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32520,
+		"y": 31757,
+		"z": 9
+	},
+	{
+		"description": "Ink splash (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32521,
+		"y": 31759,
+		"z": 9
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32523,
@@ -21053,6 +21088,13 @@
 		"icon": "up",
 		"x": 32525,
 		"y": 31933,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32525,
+		"y": 32516,
 		"z": 9
 	},
 	{
@@ -21137,6 +21179,13 @@
 		"icon": "up",
 		"x": 32540,
 		"y": 32272,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32541,
+		"y": 32561,
 		"z": 9
 	},
 	{
@@ -26488,10 +26537,24 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "?",
+		"x": 32521,
+		"y": 32554,
+		"z": 10
+	},
+	{
 		"description": "This way",
 		"icon": "red down",
 		"x": 32522,
 		"y": 32405,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32523,
+		"y": 32566,
 		"z": 10
 	},
 	{
@@ -26541,6 +26604,13 @@
 		"icon": "down",
 		"x": 32525,
 		"y": 31927,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32528,
+		"y": 32568,
 		"z": 10
 	},
 	{
@@ -26614,9 +26684,23 @@
 		"z": 10
 	},
 	{
+		"description": "",
+		"icon": "?",
+		"x": 32534,
+		"y": 32596,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32535,
+		"y": 32578,
+		"z": 10
+	},
+	{
 		"description": "Sir Leopold (exact spawn tile)",
 		"icon": "sword",
-		"x": 32535,
+		"x": 32537,
 		"y": 32520,
 		"z": 10
 	},
@@ -26720,6 +26804,27 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32546,
+		"y": 32596,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32548,
+		"y": 32549,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 32548,
+		"y": 32579,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32549,
 		"y": 31861,
@@ -26730,6 +26835,13 @@
 		"icon": "red up",
 		"x": 32552,
 		"y": 32596,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32552,
+		"y": 32600,
 		"z": 10
 	},
 	{
@@ -26769,6 +26881,20 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32561,
+		"y": 32547,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32562,
+		"y": 32571,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32563,
 		"y": 31950,
@@ -26776,9 +26902,23 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32563,
+		"y": 32579,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32564,
 		"y": 31992,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32564,
+		"y": 32549,
 		"z": 10
 	},
 	{
@@ -26793,6 +26933,13 @@
 		"icon": "down",
 		"x": 32571,
 		"y": 32572,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32572,
+		"y": 32547,
 		"z": 10
 	},
 	{
@@ -26825,6 +26972,13 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32582,
+		"y": 32569,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32583,
 		"y": 32654,
@@ -26839,6 +26993,20 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32585,
+		"y": 32519,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32586,
+		"y": 32511,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32587,
 		"y": 32070,
@@ -26846,9 +27014,37 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32589,
+		"y": 32548,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32590,
+		"y": 32520,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32592,
+		"y": 32565,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32595,
 		"y": 32068,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32595,
+		"y": 32548,
 		"z": 10
 	},
 	{
@@ -26895,9 +27091,44 @@
 	},
 	{
 		"description": "",
+		"icon": "?",
+		"x": 32608,
+		"y": 32530,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32608,
+		"y": 32583,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32609,
+		"y": 32520,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32609,
+		"y": 32563,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32610,
 		"y": 32844,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "?",
+		"x": 32611,
+		"y": 32549,
 		"z": 10
 	},
 	{
@@ -30779,6 +31010,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "?",
+		"x": 32574,
+		"y": 32574,
+		"z": 11
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 32578,
@@ -30846,6 +31084,13 @@
 		"icon": "up",
 		"x": 32604,
 		"y": 31321,
+		"z": 11
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 32606,
+		"y": 32558,
 		"z": 11
 	},
 	{
