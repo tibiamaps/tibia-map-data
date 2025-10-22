@@ -14,6 +14,20 @@
 		"z": 4
 	},
 	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32773,
+		"y": 31068,
+		"z": 4
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32781,
+		"y": 31068,
+		"z": 4
+	},
+	{
 		"description": "Fire bomb spot",
 		"icon": "!",
 		"x": 33099,
@@ -140,6 +154,41 @@
 		"z": 5
 	},
 	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32768,
+		"y": 31078,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32770,
+		"y": 31096,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32775,
+		"y": 31067,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32783,
+		"y": 31091,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32786,
+		"y": 31077,
+		"z": 5
+	},
+	{
 		"description": "White tiger (fire bomb spot)",
 		"icon": "!",
 		"x": 33090,
@@ -173,6 +222,48 @@
 		"x": 33098,
 		"y": 32946,
 		"z": 6
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32755,
+		"y": 31120,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32760,
+		"y": 31133,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32770,
+		"y": 31121,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32782,
+		"y": 31113,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32784,
+		"y": 31128,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32792,
+		"y": 31117,
+		"z": 7
 	},
 	{
 		"description": "Terrified elephant (fire bomb spot)",
@@ -350,6 +441,20 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31832,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31839,
+		"z": 7
+	},
+	{
 		"description": "Muglex clan footman (fire bomb spot)",
 		"icon": "crossmark",
 		"x": 33091,
@@ -373,6 +478,20 @@
 	{
 		"description": "Muglex clan footman (fire bomb spot)",
 		"icon": "crossmark",
+		"x": 33092,
+		"y": 31846,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33097,
+		"y": 31857,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33097,
 		"y": 31857,
 		"z": 7
@@ -382,6 +501,20 @@
 		"icon": "crossmark",
 		"x": 33098,
 		"y": 31843,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33098,
+		"y": 31843,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33099,
+		"y": 31828,
 		"z": 7
 	},
 	{
@@ -401,6 +534,20 @@
 	{
 		"description": "Muglex clan footman (fire bomb spot)",
 		"icon": "crossmark",
+		"x": 33100,
+		"y": 31837,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33102,
+		"y": 31851,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
 		"x": 33102,
 		"y": 31851,
 		"z": 7
@@ -410,6 +557,20 @@
 		"icon": "crossmark",
 		"x": 33106,
 		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31856,
 		"z": 7
 	},
 	{

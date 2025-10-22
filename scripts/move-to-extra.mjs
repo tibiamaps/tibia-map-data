@@ -10,24 +10,23 @@ import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 const SPECIAL_ID = 'rapid-respawn';
 
 const isSpecial = (marker) => {
-	return marker.description === 'Troll champion (fire bomb spot)';
+	return (
+		marker.description === 'Muglex clan assassin (fire bomb spot)' ||
+		marker.description === 'Muglex clan footman (fire bomb spot)' ||
+		marker.description === 'Corrupted ghost (fire bomb spot)' ||
+		marker.description === 'Corrupted skeleton (fire bomb spot)'
+	);
 	// https://tibiamaps.io/map#33686,30971,9:1
 	const TOP_LEFT_COORDINATE = { x: 33686, y: 30971 };
 	// https://tibiamaps.io/map#33862,31136,9:1
 	const BOTTOM_RIGHT_COORDINATE = { x: 33862, y: 31136 };
 	const HIGHEST_FLOOR = 1;
 	const LOWEST_FLOOR = 9;
-	const isWithinX = (
-		marker.x >= TOP_LEFT_COORDINATE.x &&
-		marker.x <= BOTTOM_RIGHT_COORDINATE.x
-	);
-	const isWithinY = (
-		marker.y >= TOP_LEFT_COORDINATE.y &&
-		marker.y <= BOTTOM_RIGHT_COORDINATE.y
-	);
-	const isWithinZ = (
-		marker.z >= HIGHEST_FLOOR && marker.z <= LOWEST_FLOOR
-	);
+	const isWithinX =
+		marker.x >= TOP_LEFT_COORDINATE.x && marker.x <= BOTTOM_RIGHT_COORDINATE.x;
+	const isWithinY =
+		marker.y >= TOP_LEFT_COORDINATE.y && marker.y <= BOTTOM_RIGHT_COORDINATE.y;
+	const isWithinZ = marker.z >= HIGHEST_FLOOR && marker.z <= LOWEST_FLOOR;
 	return isWithinX && isWithinY && isWithinZ;
 };
 
