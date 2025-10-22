@@ -1442,6 +1442,27 @@
 		"z": 4
 	},
 	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32773,
+		"y": 31068,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32776,
+		"y": 31062,
+		"z": 4
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32781,
+		"y": 31068,
+		"z": 4
+	},
+	{
 		"description": "Darashia",
 		"icon": "flag",
 		"x": 32815,
@@ -2482,6 +2503,48 @@
 		"icon": "crossmark",
 		"x": 32745,
 		"y": 31458,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32768,
+		"y": 31078,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32770,
+		"y": 31096,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32775,
+		"y": 31067,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32776,
+		"y": 31062,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32783,
+		"y": 31091,
+		"z": 5
+	},
+	{
+		"description": "Corrupted ghost (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32786,
+		"y": 31077,
 		"z": 5
 	},
 	{
@@ -8799,6 +8862,13 @@
 		"z": 7
 	},
 	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32755,
+		"y": 31120,
+		"z": 7
+	},
+	{
 		"description": "Poacher Caves",
 		"icon": "down",
 		"x": 32756,
@@ -8817,6 +8887,13 @@
 		"icon": "checkmark",
 		"x": 32759,
 		"y": 31030,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32760,
+		"y": 31133,
 		"z": 7
 	},
 	{
@@ -8841,6 +8918,13 @@
 		"z": 7
 	},
 	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32770,
+		"y": 31121,
+		"z": 7
+	},
+	{
 		"description": "PoI",
 		"icon": "down",
 		"x": 32770,
@@ -8862,6 +8946,13 @@
 		"z": 7
 	},
 	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32782,
+		"y": 31113,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32782,
@@ -8873,6 +8964,13 @@
 		"icon": "down",
 		"x": 32783,
 		"y": 31605,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32784,
+		"y": 31128,
 		"z": 7
 	},
 	{
@@ -8915,6 +9013,13 @@
 		"icon": "star",
 		"x": 32790,
 		"y": 31235,
+		"z": 7
+	},
+	{
+		"description": "Corrupted skeleton (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 32792,
+		"y": 31117,
 		"z": 7
 	},
 	{
@@ -10241,6 +10346,27 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31832,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33091,
+		"y": 31839,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33092,
+		"y": 31846,
+		"z": 7
+	},
+	{
 		"description": "Water buffalo (spawn location)",
 		"icon": "star",
 		"x": 33093,
@@ -10283,6 +10409,20 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33097,
+		"y": 31857,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33098,
+		"y": 31843,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33099,
@@ -10297,10 +10437,24 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33099,
+		"y": 31828,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33099,
 		"y": 32085,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33100,
+		"y": 31837,
 		"z": 7
 	},
 	{
@@ -10339,6 +10493,13 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex clan footman (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33102,
+		"y": 31851,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33102,
@@ -10357,6 +10518,20 @@
 		"icon": "down",
 		"x": 33104,
 		"y": 31388,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31841,
+		"z": 7
+	},
+	{
+		"description": "Muglex clan assassin (fire bomb spot)",
+		"icon": "crossmark",
+		"x": 33106,
+		"y": 31856,
 		"z": 7
 	},
 	{
