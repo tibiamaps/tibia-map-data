@@ -8659,6 +8659,13 @@
 		"z": 7
 	},
 	{
+		"description": "NPC S'Zallar M'Andar",
+		"icon": "mouth",
+		"x": 32702,
+		"y": 31593,
+		"z": 7
+	},
+	{
 		"description": "Diseased Fred (fire bomb spot)",
 		"icon": "crossmark",
 		"x": 32705,
@@ -20444,6 +20451,13 @@
 		"icon": "up",
 		"x": 32269,
 		"y": 31347,
+		"z": 9
+	},
+	{
+		"description": "Adventurer Group",
+		"icon": "sword",
+		"x": 32269,
+		"y": 32124,
 		"z": 9
 	},
 	{
