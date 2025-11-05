@@ -49,6 +49,13 @@
 		"z": 0
 	},
 	{
+		"description": "Michael the Stalwart (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33863,
+		"y": 32113,
+		"z": 0
+	},
+	{
 		"description": "Carpet",
 		"icon": "flag",
 		"x": 33957,
@@ -2037,6 +2044,13 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33875,
+		"y": 32113,
+		"z": 4
+	},
+	{
 		"description": "Exit to entrance",
 		"icon": "flag",
 		"x": 33881,
@@ -2048,6 +2062,13 @@
 		"icon": "up",
 		"x": 33885,
 		"y": 31485,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33899,
+		"y": 32130,
 		"z": 4
 	},
 	{
@@ -3376,6 +3397,13 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red left",
+		"x": 33868,
+		"y": 32159,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 33872,
 		"y": 31231,
 		"z": 5
@@ -3392,6 +3420,13 @@
 		"icon": "down",
 		"x": 33897,
 		"y": 31230,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33899,
+		"y": 32131,
 		"z": 5
 	},
 	{
@@ -5637,8 +5672,29 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red right",
+		"x": 33867,
+		"y": 32159,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red right",
 		"x": 33871,
 		"y": 31231,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33871,
+		"y": 32174,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33872,
+		"y": 32192,
 		"z": 6
 	},
 	{
@@ -7371,10 +7427,10 @@
 		"z": 7
 	},
 	{
-		"description": "NPC An Idol",
-		"icon": "mouth",
-		"x": 32397,
-		"y": 32510,
+		"description": "",
+		"icon": "flag",
+		"x": 32394,
+		"y": 32512,
 		"z": 7
 	},
 	{
@@ -13924,6 +13980,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33872,
+		"y": 32192,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "red up",
 		"x": 33874,
 		"y": 31675,
@@ -13934,6 +13997,13 @@
 		"icon": "red down",
 		"x": 33875,
 		"y": 31477,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 33876,
+		"y": 32250,
 		"z": 7
 	},
 	{
