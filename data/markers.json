@@ -9185,6 +9185,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32814,
+		"y": 31561,
+		"z": 7
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32815,
 		"y": 31911,
@@ -27986,6 +27993,20 @@
 		"z": 10
 	},
 	{
+		"description": "Outer Crypt",
+		"icon": "red up",
+		"x": 32821,
+		"y": 31534,
+		"z": 10
+	},
+	{
+		"description": "Forgotten Crypt",
+		"icon": "red up",
+		"x": 32823,
+		"y": 31534,
+		"z": 10
+	},
+	{
 		"description": "",
 		"icon": "checkmark",
 		"x": 32823,
@@ -31815,6 +31836,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32874,
+		"y": 31628,
+		"z": 11
+	},
+	{
 		"description": "Black Knight (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32874,
@@ -31833,6 +31861,13 @@
 		"icon": "?",
 		"x": 32877,
 		"y": 32757,
+		"z": 11
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32881,
+		"y": 31598,
 		"z": 11
 	},
 	{
@@ -31931,6 +31966,13 @@
 		"icon": "star",
 		"x": 32923,
 		"y": 32315,
+		"z": 11
+	},
+	{
+		"description": "Bone Overlord",
+		"icon": "!",
+		"x": 32925,
+		"y": 31778,
 		"z": 11
 	},
 	{
@@ -37111,6 +37153,13 @@
 		"icon": "down",
 		"x": 32935,
 		"y": 32940,
+		"z": 13
+	},
+	{
+		"description": "Exit",
+		"icon": "crossmark",
+		"x": 32936,
+		"y": 31545,
 		"z": 13
 	},
 	{
