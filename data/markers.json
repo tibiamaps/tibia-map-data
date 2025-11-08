@@ -644,10 +644,17 @@
 		"z": 2
 	},
 	{
-		"description": "Adlerauge (exact spawn tile TBD)",
+		"description": "Adlerauge (exact spawn tile)",
 		"icon": "crossmark",
-		"x": 33857,
-		"y": 32166,
+		"x": 33854,
+		"y": 32165,
+		"z": 2
+	},
+	{
+		"description": "Overseer Osverger (exact spawn tile TBD)",
+		"icon": "crossmark",
+		"x": 33884,
+		"y": 32118,
 		"z": 2
 	},
 	{
@@ -2058,6 +2065,13 @@
 		"z": 4
 	},
 	{
+		"description": "Clavius (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33862,
+		"y": 32104,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33864,
@@ -2076,13 +2090,6 @@
 		"icon": "red right",
 		"x": 33871,
 		"y": 32126,
-		"z": 4
-	},
-	{
-		"description": "Clavius (exact spawn tile TBD)",
-		"icon": "crossmark",
-		"x": 33875,
-		"y": 32095,
 		"z": 4
 	},
 	{
@@ -14081,6 +14088,13 @@
 		"icon": "up",
 		"x": 33857,
 		"y": 32166,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33858,
+		"y": 32236,
 		"z": 7
 	},
 	{
