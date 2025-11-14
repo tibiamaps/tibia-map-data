@@ -3451,13 +3451,6 @@
 		"z": 5
 	},
 	{
-		"description": "new",
-		"icon": "checkmark",
-		"x": 33860,
-		"y": 32103,
-		"z": 5
-	},
-	{
 		"description": "Use steering wheel to exit",
 		"icon": "flag",
 		"x": 33861,
@@ -3511,20 +3504,6 @@
 		"icon": "red left",
 		"x": 33883,
 		"y": 32139,
-		"z": 5
-	},
-	{
-		"description": "new",
-		"icon": "checkmark",
-		"x": 33884,
-		"y": 32106,
-		"z": 5
-	},
-	{
-		"description": "newly explored",
-		"icon": "checkmark",
-		"x": 33884,
-		"y": 32200,
 		"z": 5
 	},
 	{
@@ -6559,7 +6538,7 @@
 		"z": 7
 	},
 	{
-		"description": "New Okolnir boss",
+		"description": "Ice Horror",
 		"icon": "sword",
 		"x": 32151,
 		"y": 31452,
@@ -34818,7 +34797,7 @@
 		"z": 12
 	},
 	{
-		"description": "PoI DLs new boss",
+		"description": "Eldritch Dragon Lord",
 		"icon": "sword",
 		"x": 32755,
 		"y": 32307,
