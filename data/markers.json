@@ -644,6 +644,13 @@
 		"z": 2
 	},
 	{
+		"description": "Warlock boss room",
+		"icon": "checkmark",
+		"x": 33838,
+		"y": 32142,
+		"z": 2
+	},
+	{
 		"description": "Adlerauge (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33854,
@@ -1684,6 +1691,13 @@
 		"icon": "red right",
 		"x": 33044,
 		"y": 32746,
+		"z": 4
+	},
+	{
+		"description": "The Last Dragon Soul",
+		"icon": "sword",
+		"x": 33049,
+		"y": 32681,
 		"z": 4
 	},
 	{
@@ -2773,6 +2787,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33049,
+		"y": 32691,
+		"z": 5
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 33062,
 		"y": 31099,
@@ -3430,6 +3451,13 @@
 		"z": 5
 	},
 	{
+		"description": "new",
+		"icon": "checkmark",
+		"x": 33860,
+		"y": 32103,
+		"z": 5
+	},
+	{
 		"description": "Use steering wheel to exit",
 		"icon": "flag",
 		"x": 33861,
@@ -3474,8 +3502,29 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red left",
+		"x": 33876,
+		"y": 32125,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
 		"x": 33883,
 		"y": 32139,
+		"z": 5
+	},
+	{
+		"description": "new",
+		"icon": "checkmark",
+		"x": 33884,
+		"y": 32106,
+		"z": 5
+	},
+	{
+		"description": "newly explored",
+		"icon": "checkmark",
+		"x": 33884,
+		"y": 32200,
 		"z": 5
 	},
 	{
@@ -3509,8 +3558,8 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red up",
-		"x": 33902,
-		"y": 32111,
+		"x": 33901,
+		"y": 32110,
 		"z": 5
 	},
 	{
@@ -4761,6 +4810,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33061,
+		"y": 32680,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33061,
 		"y": 32734,
@@ -5804,6 +5860,13 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 33872,
+		"y": 32132,
+		"z": 6
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33872,
 		"y": 32192,
@@ -5828,6 +5891,13 @@
 		"icon": "up",
 		"x": 33886,
 		"y": 32137,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33887,
+		"y": 32203,
 		"z": 6
 	},
 	{
@@ -6486,6 +6556,13 @@
 		"icon": "up",
 		"x": 32146,
 		"y": 31114,
+		"z": 7
+	},
+	{
+		"description": "New Okolnir boss",
+		"icon": "sword",
+		"x": 32151,
+		"y": 31452,
 		"z": 7
 	},
 	{
@@ -19636,6 +19713,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33834,
+		"y": 32145,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 33835,
 		"y": 31814,
@@ -19653,6 +19737,13 @@
 		"icon": "up",
 		"x": 33837,
 		"y": 32360,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33839,
+		"y": 32166,
 		"z": 8
 	},
 	{
@@ -19695,6 +19786,13 @@
 		"icon": "up",
 		"x": 33857,
 		"y": 32068,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33860,
+		"y": 32138,
 		"z": 8
 	},
 	{
@@ -31970,7 +32068,7 @@
 	},
 	{
 		"description": "Bone Overlord",
-		"icon": "!",
+		"icon": "sword",
 		"x": 32925,
 		"y": 31778,
 		"z": 11
@@ -34717,6 +34815,13 @@
 		"icon": "skull",
 		"x": 32688,
 		"y": 32663,
+		"z": 12
+	},
+	{
+		"description": "PoI DLs new boss",
+		"icon": "sword",
+		"x": 32755,
+		"y": 32307,
 		"z": 12
 	},
 	{
@@ -41941,6 +42046,13 @@
 		"icon": "flag",
 		"x": 32745,
 		"y": 32383,
+		"z": 15
+	},
+	{
+		"description": "Adventurer Group boss room",
+		"icon": "checkmark",
+		"x": 32747,
+		"y": 31561,
 		"z": 15
 	},
 	{
