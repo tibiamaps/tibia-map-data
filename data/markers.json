@@ -644,13 +644,6 @@
 		"z": 2
 	},
 	{
-		"description": "Warlock boss room",
-		"icon": "checkmark",
-		"x": 33838,
-		"y": 32142,
-		"z": 2
-	},
-	{
 		"description": "Adlerauge (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33854,
