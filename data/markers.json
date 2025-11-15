@@ -28070,7 +28070,7 @@
 		"z": 10
 	},
 	{
-		"description": "Forgotten Crypt",
+		"description": "Unhallowed Crypt",
 		"icon": "red up",
 		"x": 32823,
 		"y": 31534,
@@ -31900,14 +31900,21 @@
 	},
 	{
 		"description": "",
+		"icon": "red left",
+		"x": 32866,
+		"y": 31759,
+		"z": 11
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32874,
 		"y": 31387,
 		"z": 11
 	},
 	{
-		"description": "",
-		"icon": "crossmark",
+		"description": "To Outer Crypt",
+		"icon": "red up",
 		"x": 32874,
 		"y": 31628,
 		"z": 11
@@ -31934,8 +31941,15 @@
 		"z": 11
 	},
 	{
+		"description": "To Inner Crypt",
+		"icon": "red down",
+		"x": 32881,
+		"y": 31594,
+		"z": 11
+	},
+	{
 		"description": "Exit",
-		"icon": "crossmark",
+		"icon": "flag",
 		"x": 32881,
 		"y": 31598,
 		"z": 11
