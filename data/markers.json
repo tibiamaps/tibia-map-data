@@ -14016,6 +14016,13 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red down",
+		"x": 33834,
+		"y": 32214,
+		"z": 7
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
 		"x": 33835,
 		"y": 32355,
 		"z": 7
