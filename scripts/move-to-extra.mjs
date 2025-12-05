@@ -10,12 +10,7 @@ import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 const SPECIAL_ID = 'rapid-respawn';
 
 const isSpecial = (marker) => {
-	return (
-		marker.description === 'Muglex clan assassin (fire bomb spot)' ||
-		marker.description === 'Muglex clan footman (fire bomb spot)' ||
-		marker.description === 'Corrupted ghost (fire bomb spot)' ||
-		marker.description === 'Corrupted skeleton (fire bomb spot)'
-	);
+	return marker.description === 'Stag/Imperial/Deer (exact spawn tile)';
 	// https://tibiamaps.io/map#33686,30971,9:1
 	const TOP_LEFT_COORDINATE = { x: 33686, y: 30971 };
 	// https://tibiamaps.io/map#33862,31136,9:1
