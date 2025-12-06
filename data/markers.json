@@ -1183,13 +1183,6 @@
 		"z": 3
 	},
 	{
-		"description": "newly mapped",
-		"icon": "?",
-		"x": 33857,
-		"y": 32166,
-		"z": 3
-	},
-	{
 		"description": "Large crystal #2",
 		"icon": "star",
 		"x": 33859,
@@ -3511,13 +3504,6 @@
 		"icon": "sword",
 		"x": 33856,
 		"y": 31884,
-		"z": 5
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red up",
-		"x": 33858,
-		"y": 32172,
 		"z": 5
 	},
 	{
@@ -42259,14 +42245,14 @@
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Scarith's soul cage (use ice damage)",
 		"icon": "crossmark",
 		"x": 32847,
 		"y": 31618,
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Myzareth's soul cage (use energy damage)",
 		"icon": "crossmark",
 		"x": 32848,
 		"y": 31610,
@@ -42280,14 +42266,14 @@
 		"z": 15
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
+		"description": "Elyrax's soul cage (use death and holy damage)",
+		"icon": "crossmark",
 		"x": 32857,
 		"y": 31617,
 		"z": 15
 	},
 	{
-		"description": "",
+		"description": "Zharvorin's soul cage (use death and physical damage)",
 		"icon": "crossmark",
 		"x": 32858,
 		"y": 31610,
