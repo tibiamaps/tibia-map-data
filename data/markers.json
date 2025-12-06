@@ -1183,6 +1183,13 @@
 		"z": 3
 	},
 	{
+		"description": "newly mapped",
+		"icon": "?",
+		"x": 33857,
+		"y": 32166,
+		"z": 3
+	},
+	{
 		"description": "Large crystal #2",
 		"icon": "star",
 		"x": 33859,
@@ -2097,6 +2104,13 @@
 		"icon": "red right",
 		"x": 33852,
 		"y": 32328,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33857,
+		"y": 32167,
 		"z": 4
 	},
 	{
@@ -3497,6 +3511,13 @@
 		"icon": "sword",
 		"x": 33856,
 		"y": 31884,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33858,
+		"y": 32172,
 		"z": 5
 	},
 	{
@@ -42238,10 +42259,38 @@
 		"z": 15
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32847,
+		"y": 31618,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32848,
+		"y": 31610,
+		"z": 15
+	},
+	{
 		"description": "The Time Guardian (continue using the left teleport)",
 		"icon": "sword",
 		"x": 32849,
 		"y": 32689,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32857,
+		"y": 31617,
+		"z": 15
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32858,
+		"y": 31610,
 		"z": 15
 	},
 	{
