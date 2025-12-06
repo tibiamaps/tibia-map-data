@@ -266,6 +266,13 @@
 		"z": 1
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33861,
+		"y": 32128,
+		"z": 1
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33869,
@@ -662,6 +669,13 @@
 		"icon": "crossmark",
 		"x": 33854,
 		"y": 32165,
+		"z": 2
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33865,
+		"y": 32130,
 		"z": 2
 	},
 	{
@@ -1215,6 +1229,13 @@
 		"icon": "up",
 		"x": 33874,
 		"y": 31485,
+		"z": 3
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33875,
+		"y": 32132,
 		"z": 3
 	},
 	{

@@ -7,6 +7,13 @@
 		"z": 3
 	},
 	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33870,
+		"y": 32172,
+		"z": 3
+	},
+	{
 		"description": "Fire bomb spot",
 		"icon": "!",
 		"x": 32577,
@@ -51,6 +58,20 @@
 	{
 		"description": "Stag/Imperial/Deer (exact spawn tile)",
 		"icon": "crossmark",
+		"x": 33885,
+		"y": 32149,
+		"z": 4
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33889,
+		"y": 32144,
+		"z": 4
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33889,
 		"y": 32144,
 		"z": 4
@@ -60,6 +81,20 @@
 		"icon": "crossmark",
 		"x": 33894,
 		"y": 32144,
+		"z": 4
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33894,
+		"y": 32144,
+		"z": 4
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33899,
+		"y": 32127,
 		"z": 4
 	},
 	{
@@ -233,8 +268,57 @@
 	{
 		"description": "Stag/Imperial/Deer (exact spawn tile)",
 		"icon": "crossmark",
+		"x": 33853,
+		"y": 32184,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33855,
+		"y": 32180,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33858,
+		"y": 32175,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33858,
+		"y": 32186,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33861,
+		"y": 32175,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33885,
 		"y": 32201,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33885,
+		"y": 32201,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33893,
+		"y": 32182,
 		"z": 5
 	},
 	{
@@ -254,8 +338,29 @@
 	{
 		"description": "Stag/Imperial/Deer (exact spawn tile)",
 		"icon": "crossmark",
+		"x": 33894,
+		"y": 32108,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
 		"x": 33896,
 		"y": 32190,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33896,
+		"y": 32190,
+		"z": 5
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33911,
+		"y": 32198,
 		"z": 5
 	},
 	{
@@ -291,6 +396,13 @@
 		"icon": "!",
 		"x": 33098,
 		"y": 32946,
+		"z": 6
+	},
+	{
+		"description": "Stag/Imperial/Deer (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33887,
+		"y": 32211,
 		"z": 6
 	},
 	{
