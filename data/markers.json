@@ -1239,6 +1239,13 @@
 		"z": 3
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red left",
+		"x": 33878,
+		"y": 32133,
+		"z": 3
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33885,
@@ -2167,6 +2174,13 @@
 		"icon": "up",
 		"x": 33885,
 		"y": 31485,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33887,
+		"y": 32140,
 		"z": 4
 	},
 	{
@@ -3559,6 +3573,13 @@
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 33883,
+		"y": 32139,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33887,
 		"y": 32139,
 		"z": 5
 	},
@@ -5926,6 +5947,13 @@
 		"icon": "down",
 		"x": 33858,
 		"y": 31656,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33858,
+		"y": 32236,
 		"z": 6
 	},
 	{
