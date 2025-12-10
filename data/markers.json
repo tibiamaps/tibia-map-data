@@ -2191,24 +2191,10 @@
 		"z": 4
 	},
 	{
-		"description": "Night harpy (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 33891,
-		"y": 32143,
-		"z": 4
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red up",
 		"x": 33897,
 		"y": 32113,
-		"z": 4
-	},
-	{
-		"description": "Night harpy (exact spawn tile)",
-		"icon": "crossmark",
-		"x": 33900,
-		"y": 32119,
 		"z": 4
 	},
 	{
@@ -3621,22 +3607,8 @@
 	{
 		"description": "Levitate spot",
 		"icon": "red up",
-		"x": 33899,
-		"y": 32131,
-		"z": 5
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red up",
 		"x": 33901,
 		"y": 32110,
-		"z": 5
-	},
-	{
-		"description": "Levitate spot",
-		"icon": "red up",
-		"x": 33909,
-		"y": 32138,
 		"z": 5
 	},
 	{
@@ -9066,13 +9038,6 @@
 	},
 	{
 		"description": "",
-		"icon": "checkmark",
-		"x": 32725,
-		"y": 31055,
-		"z": 7
-	},
-	{
-		"description": "",
 		"icon": "up",
 		"x": 32725,
 		"y": 31200,
@@ -9090,13 +9055,6 @@
 		"icon": "flag",
 		"x": 32728,
 		"y": 32875,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32729,
-		"y": 31087,
 		"z": 7
 	},
 	{
@@ -9118,13 +9076,6 @@
 		"icon": "crossmark",
 		"x": 32737,
 		"y": 31442,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32738,
-		"y": 31100,
 		"z": 7
 	},
 	{
@@ -9170,13 +9121,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32755,
-		"y": 31076,
-		"z": 7
-	},
-	{
 		"description": "Poacher Caves",
 		"icon": "down",
 		"x": 32756,
@@ -9191,13 +9135,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32759,
-		"y": 31030,
-		"z": 7
-	},
-	{
 		"description": "Carnivors",
 		"icon": "flag",
 		"x": 32761,
@@ -9209,13 +9146,6 @@
 		"icon": "up",
 		"x": 32763,
 		"y": 31249,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32769,
-		"y": 31040,
 		"z": 7
 	},
 	{
@@ -9251,13 +9181,6 @@
 		"icon": "down",
 		"x": 32783,
 		"y": 31605,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 32785,
-		"y": 31035,
 		"z": 7
 	},
 	{
