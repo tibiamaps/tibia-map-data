@@ -9149,13 +9149,6 @@
 		"z": 7
 	},
 	{
-		"description": "PoI",
-		"icon": "down",
-		"x": 32770,
-		"y": 32341,
-		"z": 7
-	},
-	{
 		"description": "Tarantulas",
 		"icon": "down",
 		"x": 32777,
@@ -9230,6 +9223,13 @@
 		"icon": "up",
 		"x": 32794,
 		"y": 32085,
+		"z": 7
+	},
+	{
+		"description": "PoI",
+		"icon": "down",
+		"x": 32795,
+		"y": 32340,
 		"z": 7
 	},
 	{
