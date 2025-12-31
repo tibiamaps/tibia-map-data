@@ -8197,6 +8197,13 @@
 		"z": 7
 	},
 	{
+		"description": "Muglex Clan Chief (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32524,
+		"y": 32430,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 32527,
@@ -8516,6 +8523,13 @@
 		"icon": "up",
 		"x": 32614,
 		"y": 31976,
+		"z": 7
+	},
+	{
+		"description": "The Corruptor (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32615,
+		"y": 32430,
 		"z": 7
 	},
 	{
