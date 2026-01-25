@@ -3612,6 +3612,13 @@
 		"z": 5
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33902,
+		"y": 32194,
+		"z": 5
+	},
+	{
 		"description": "NPC Nomad (enhanced blessing)",
 		"icon": "mouth",
 		"x": 31940,
@@ -4053,7 +4060,7 @@
 		"z": 6
 	},
 	{
-		"description": "Knight spells",
+		"description": "Knight Spells",
 		"icon": "star",
 		"x": 32406,
 		"y": 32202,
@@ -6028,6 +6035,13 @@
 	},
 	{
 		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33902,
+		"y": 32195,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 33909,
 		"y": 32137,
@@ -7175,7 +7189,7 @@
 		"z": 7
 	},
 	{
-		"description": "Sorcerer spells and magic training",
+		"description": "Sorcerer Spells and Magic Training",
 		"icon": "star",
 		"x": 32299,
 		"y": 32263,
@@ -7238,6 +7252,13 @@
 		"z": 7
 	},
 	{
+		"description": "Thais Castle",
+		"icon": "star",
+		"x": 32313,
+		"y": 32181,
+		"z": 7
+	},
+	{
 		"description": "Baby seal",
 		"icon": "checkmark",
 		"x": 32317,
@@ -7277,6 +7298,13 @@
 		"icon": "checkmark",
 		"x": 32319,
 		"y": 31237,
+		"z": 7
+	},
+	{
+		"description": "Alternate Bank",
+		"icon": "$",
+		"x": 32319,
+		"y": 32256,
 		"z": 7
 	},
 	{
@@ -7427,7 +7455,7 @@
 		"z": 7
 	},
 	{
-		"description": "Paladin spells, Distance Store and Training",
+		"description": "Paladin Spells, Distance Store and Training",
 		"icon": "star",
 		"x": 32344,
 		"y": 32241,
@@ -7854,7 +7882,7 @@
 		"z": 7
 	},
 	{
-		"description": "To the druid trainer",
+		"description": "To the Druid Trainer",
 		"icon": "up",
 		"x": 32427,
 		"y": 32211,
@@ -8274,10 +8302,24 @@
 		"z": 7
 	},
 	{
+		"description": "Ferry House",
+		"icon": "flag",
+		"x": 32553,
+		"y": 32497,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 32554,
 		"y": 32076,
+		"z": 7
+	},
+	{
+		"description": "Avriel's Shop",
+		"icon": "bag",
+		"x": 32554,
+		"y": 32507,
 		"z": 7
 	},
 	{
@@ -8330,6 +8372,13 @@
 		"z": 7
 	},
 	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 32566,
+		"y": 32490,
+		"z": 7
+	},
+	{
 		"description": "To NPC Kevin (The Postman Missions quest)",
 		"icon": "mouth",
 		"x": 32567,
@@ -8341,6 +8390,13 @@
 		"icon": "up",
 		"x": 32570,
 		"y": 31458,
+		"z": 7
+	},
+	{
+		"description": "Spells",
+		"icon": "star",
+		"x": 32570,
+		"y": 32503,
 		"z": 7
 	},
 	{
@@ -11134,6 +11190,13 @@
 		"icon": "flag",
 		"x": 33188,
 		"y": 31239,
+		"z": 7
+	},
+	{
+		"description": "Daniel Steelsoul",
+		"icon": "mouth",
+		"x": 33191,
+		"y": 31795,
 		"z": 7
 	},
 	{
@@ -15778,7 +15841,7 @@
 		"z": 8
 	},
 	{
-		"description": "Druid spells",
+		"description": "Druid Spells",
 		"icon": "star",
 		"x": 32438,
 		"y": 32213,
@@ -37255,6 +37318,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32882,
+		"y": 31556,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32882,
+		"y": 31559,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32886,
 		"y": 31964,
@@ -37276,6 +37353,20 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32888,
+		"y": 31607,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32888,
+		"y": 31610,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32891,
 		"y": 31893,
@@ -37290,9 +37381,37 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32892,
+		"y": 31586,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32892,
 		"y": 31952,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32895,
+		"y": 31586,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32895,
+		"y": 31626,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32895,
+		"y": 31629,
 		"z": 13
 	},
 	{
@@ -37303,10 +37422,24 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32902,
+		"y": 31648,
+		"z": 13
+	},
+	{
 		"description": "Teleport to Gnomebase Alpha",
 		"icon": "flag",
 		"x": 32904,
 		"y": 31893,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32905,
+		"y": 31648,
 		"z": 13
 	},
 	{
@@ -37318,6 +37451,27 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32914,
+		"y": 31564,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32917,
+		"y": 31564,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32933,
+		"y": 31638,
+		"z": 13
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32935,
 		"y": 32940,
@@ -37325,9 +37479,51 @@
 	},
 	{
 		"description": "Exit",
-		"icon": "crossmark",
+		"icon": "flag",
 		"x": 32936,
 		"y": 31545,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32936,
+		"y": 31564,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32936,
+		"y": 31638,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32939,
+		"y": 31564,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32941,
+		"y": 31597,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32944,
+		"y": 31597,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32952,
+		"y": 31617,
 		"z": 13
 	},
 	{
@@ -37342,6 +37538,27 @@
 		"icon": "crossmark",
 		"x": 32954,
 		"y": 32413,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32955,
+		"y": 31617,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32960,
+		"y": 31579,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32963,
+		"y": 31579,
 		"z": 13
 	},
 	{
@@ -39537,9 +39754,30 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33042,
+		"y": 32370,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33047,
 		"y": 32661,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33048,
+		"y": 32396,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33050,
+		"y": 32405,
 		"z": 14
 	},
 	{
@@ -39564,6 +39802,13 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33055,
+		"y": 32378,
+		"z": 14
+	},
+	{
 		"description": "Tyrn (approximate spawn location)",
 		"icon": "star",
 		"x": 33056,
@@ -39578,10 +39823,45 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33057,
+		"y": 32421,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33058,
+		"y": 32352,
+		"z": 14
+	},
+	{
 		"description": "Wrath of the Emperor",
 		"icon": "sword",
 		"x": 33059,
 		"y": 31121,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33066,
+		"y": 32401,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33068,
+		"y": 32381,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33069,
+		"y": 32429,
 		"z": 14
 	},
 	{
@@ -39600,9 +39880,58 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 33077,
+		"y": 32375,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33078,
+		"y": 32405,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33082,
+		"y": 32415,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33083,
+		"y": 32351,
+		"z": 14
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33088,
 		"y": 32382,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33090,
+		"y": 32370,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33090,
+		"y": 32424,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33092,
+		"y": 32386,
 		"z": 14
 	},
 	{
@@ -39613,10 +39942,31 @@
 		"z": 14
 	},
 	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33098,
+		"y": 32373,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33100,
+		"y": 32359,
+		"z": 14
+	},
+	{
 		"description": "Fury of the Emperor",
 		"icon": "sword",
 		"x": 33101,
 		"y": 31117,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 33109,
+		"y": 32360,
 		"z": 14
 	},
 	{
