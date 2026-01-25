@@ -3612,6 +3612,13 @@
 		"z": 5
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 33902,
+		"y": 32194,
+		"z": 5
+	},
+	{
 		"description": "NPC Nomad (enhanced blessing)",
 		"icon": "mouth",
 		"x": 31940,
@@ -6024,6 +6031,13 @@
 		"icon": "red down",
 		"x": 33902,
 		"y": 32110,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33902,
+		"y": 32195,
 		"z": 6
 	},
 	{
