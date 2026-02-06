@@ -7672,7 +7672,7 @@
 		"z": 7
 	},
 	{
-		"description": "",
+		"description": "Mountain Hideout",
 		"icon": "up",
 		"x": 32384,
 		"y": 32702,
@@ -16333,6 +16333,13 @@
 	{
 		"description": "",
 		"icon": "down",
+		"x": 32655,
+		"y": 32881,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
 		"x": 32656,
 		"y": 32549,
 		"z": 8
@@ -16562,6 +16569,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32691,
+		"y": 32892,
+		"z": 8
+	},
+	{
 		"description": "Towards exit",
 		"icon": "down",
 		"x": 32694,
@@ -16762,6 +16776,13 @@
 		"icon": "up",
 		"x": 32760,
 		"y": 32628,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32761,
+		"y": 32867,
 		"z": 8
 	},
 	{
@@ -20476,6 +20497,13 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 32087,
+		"y": 32796,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32089,
 		"y": 32961,
@@ -21728,6 +21756,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32566,
+		"y": 32908,
+		"z": 9
+	},
+	{
 		"description": "Rabid wolf",
 		"icon": "star",
 		"x": 32567,
@@ -22059,6 +22094,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32655,
+		"y": 32881,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32656,
 		"y": 32549,
 		"z": 9
@@ -22379,6 +22421,13 @@
 		"z": 9
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32761,
+		"y": 32867,
+		"z": 9
+	},
+	{
 		"description": "Liberty Bay",
 		"icon": "?",
 		"x": 32772,
@@ -22453,6 +22502,13 @@
 		"icon": "down",
 		"x": 32797,
 		"y": 31655,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32797,
+		"y": 32878,
 		"z": 9
 	},
 	{
@@ -27337,6 +27393,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 32566,
+		"y": 32908,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 32569,
 		"y": 31844,
 		"z": 10
@@ -27980,6 +28043,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 32761,
+		"y": 32901,
+		"z": 10
+	},
+	{
+		"description": "",
 		"icon": "checkmark",
 		"x": 32770,
 		"y": 32620,
@@ -28060,6 +28130,13 @@
 		"icon": "up",
 		"x": 32797,
 		"y": 31655,
+		"z": 10
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32797,
+		"y": 32878,
 		"z": 10
 	},
 	{
@@ -31731,6 +31808,13 @@
 		"z": 11
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32761,
+		"y": 32901,
+		"z": 11
+	},
+	{
 		"description": "Zevelon Duskbringer (spawn location)",
 		"icon": "star",
 		"x": 32766,
@@ -35095,6 +35179,13 @@
 		"icon": "star",
 		"x": 32974,
 		"y": 32396,
+		"z": 12
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32979,
+		"y": 32455,
 		"z": 12
 	},
 	{
