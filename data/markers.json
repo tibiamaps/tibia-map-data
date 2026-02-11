@@ -1183,6 +1183,13 @@
 		"z": 3
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33858,
+		"y": 32102,
+		"z": 3
+	},
+	{
 		"description": "Large crystal #2",
 		"icon": "star",
 		"x": 33859,
@@ -2149,6 +2156,13 @@
 		"z": 4
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33870,
+		"y": 32099,
+		"z": 4
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red right",
 		"x": 33871,
@@ -2170,6 +2184,13 @@
 		"z": 4
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33882,
+		"y": 32209,
+		"z": 4
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33885,
@@ -2188,6 +2209,13 @@
 		"icon": "down",
 		"x": 33889,
 		"y": 32154,
+		"z": 4
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33891,
+		"y": 32206,
 		"z": 4
 	},
 	{
@@ -3465,6 +3493,13 @@
 		"z": 5
 	},
 	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33825,
+		"y": 32248,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33827,
@@ -3504,6 +3539,13 @@
 		"icon": "sword",
 		"x": 33856,
 		"y": 31884,
+		"z": 5
+	},
+	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33859,
+		"y": 32105,
 		"z": 5
 	},
 	{
@@ -3585,6 +3627,13 @@
 	},
 	{
 		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33890,
+		"y": 32203,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
 		"icon": "red down",
 		"x": 33891,
 		"y": 32205,
@@ -3616,6 +3665,13 @@
 		"icon": "red down",
 		"x": 33902,
 		"y": 32194,
+		"z": 5
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 33909,
+		"y": 32138,
 		"z": 5
 	},
 	{
@@ -5965,9 +6021,9 @@
 	},
 	{
 		"description": "Levitate spot",
-		"icon": "red left",
-		"x": 33887,
-		"y": 32203,
+		"icon": "red down",
+		"x": 33890,
+		"y": 32202,
 		"z": 6
 	},
 	{
@@ -14336,6 +14392,13 @@
 		"z": 7
 	},
 	{
+		"description": "Locked door (key 7909) towards brass-shod chest",
+		"icon": "red left",
+		"x": 33889,
+		"y": 32141,
+		"z": 7
+	},
+	{
 		"description": "Shortcut to south of Green Belt",
 		"icon": "flag",
 		"x": 33891,
@@ -19674,6 +19737,13 @@
 		"icon": "up",
 		"x": 33793,
 		"y": 31597,
+		"z": 8
+	},
+	{
+		"description": "Brass-shod chest",
+		"icon": "star",
+		"x": 33794,
+		"y": 32174,
 		"z": 8
 	},
 	{
