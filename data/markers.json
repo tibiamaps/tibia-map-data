@@ -2282,13 +2282,6 @@
 		"z": 5
 	},
 	{
-		"description": "to the Crimson Court",
-		"icon": "star",
-		"x": 31962,
-		"y": 31898,
-		"z": 5
-	},
-	{
 		"description": "",
 		"icon": "red up",
 		"x": 31964,
@@ -6090,13 +6083,6 @@
 		"z": 7
 	},
 	{
-		"description": "Bank",
-		"icon": "$",
-		"x": 31935,
-		"y": 31916,
-		"z": 7
-	},
-	{
 		"description": "To serpent spawns",
 		"icon": "red down",
 		"x": 31935,
@@ -6129,13 +6115,6 @@
 		"icon": "down",
 		"x": 31946,
 		"y": 32556,
-		"z": 7
-	},
-	{
-		"description": "Post Office",
-		"icon": "flag",
-		"x": 31951,
-		"y": 31890,
 		"z": 7
 	},
 	{
@@ -42189,13 +42168,6 @@
 		"z": 15
 	},
 	{
-		"description": "Herald of Fire lever",
-		"icon": "checkmark",
-		"x": 32434,
-		"y": 32654,
-		"z": 15
-	},
-	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 32472,
@@ -42214,13 +42186,6 @@
 		"icon": "red left",
 		"x": 32484,
 		"y": 31722,
-		"z": 15
-	},
-	{
-		"description": "Herald of Fire boss room",
-		"icon": "checkmark",
-		"x": 32495,
-		"y": 32659,
 		"z": 15
 	},
 	{
