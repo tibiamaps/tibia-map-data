@@ -2282,6 +2282,13 @@
 		"z": 5
 	},
 	{
+		"description": "to the Crimson Court",
+		"icon": "star",
+		"x": 31962,
+		"y": 31898,
+		"z": 5
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 31964,
@@ -6076,10 +6083,31 @@
 		"z": 7
 	},
 	{
+		"description": "To Aragonia",
+		"icon": "flag",
+		"x": 31924,
+		"y": 31904,
+		"z": 7
+	},
+	{
+		"description": "Bank",
+		"icon": "$",
+		"x": 31935,
+		"y": 31916,
+		"z": 7
+	},
+	{
 		"description": "To serpent spawns",
 		"icon": "red down",
 		"x": 31935,
 		"y": 32678,
+		"z": 7
+	},
+	{
+		"description": "Lizard Temple",
+		"icon": "down",
+		"x": 31936,
+		"y": 31862,
 		"z": 7
 	},
 	{
@@ -6090,6 +6118,13 @@
 		"z": 7
 	},
 	{
+		"description": "Depot",
+		"icon": "bag",
+		"x": 31946,
+		"y": 31902,
+		"z": 7
+	},
+	{
 		"description": "To portals",
 		"icon": "down",
 		"x": 31946,
@@ -6097,10 +6132,31 @@
 		"z": 7
 	},
 	{
+		"description": "Post Office",
+		"icon": "flag",
+		"x": 31951,
+		"y": 31890,
+		"z": 7
+	},
+	{
+		"description": "Towards Herald of Fire",
+		"icon": "up",
+		"x": 31962,
+		"y": 31898,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red down",
 		"x": 31966,
 		"y": 32679,
+		"z": 7
+	},
+	{
+		"description": "Boat",
+		"icon": "flag",
+		"x": 31974,
+		"y": 31901,
 		"z": 7
 	},
 	{
@@ -12201,6 +12257,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Targuna",
+		"icon": "flag",
+		"x": 33478,
+		"y": 32729,
+		"z": 7
+	},
+	{
 		"description": "Insectoid cell (gooey mass)",
 		"icon": "!",
 		"x": 33479,
@@ -12247,6 +12310,13 @@
 		"icon": "up",
 		"x": 33488,
 		"y": 32220,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33488,
+		"y": 32717,
 		"z": 7
 	},
 	{
@@ -12320,6 +12390,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33504,
+		"y": 32701,
+		"z": 7
+	},
+	{
 		"description": "Magic shop",
 		"icon": "bag",
 		"x": 33509,
@@ -12366,6 +12443,13 @@
 		"icon": "star",
 		"x": 33516,
 		"y": 31592,
+		"z": 7
+	},
+	{
+		"description": "To NPC Morla",
+		"icon": "down",
+		"x": 33516,
+		"y": 32746,
 		"z": 7
 	},
 	{
@@ -12429,6 +12513,13 @@
 		"icon": "flag",
 		"x": 33526,
 		"y": 32387,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33526,
+		"y": 32736,
 		"z": 7
 	},
 	{
@@ -12506,6 +12597,13 @@
 		"icon": "crossmark",
 		"x": 33543,
 		"y": 31275,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33544,
+		"y": 32705,
 		"z": 7
 	},
 	{
@@ -14623,6 +14721,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 31936,
+		"y": 31862,
+		"z": 8
+	},
+	{
 		"description": "Way to Lich Hell",
 		"icon": "down",
 		"x": 31936,
@@ -14676,6 +14781,13 @@
 		"icon": "down",
 		"x": 31963,
 		"y": 31640,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 31963,
+		"y": 31907,
 		"z": 8
 	},
 	{
@@ -19082,6 +19194,13 @@
 		"z": 8
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33488,
+		"y": 32717,
+		"z": 8
+	},
+	{
 		"description": "Jar",
 		"icon": "crossmark",
 		"x": 33490,
@@ -19121,6 +19240,13 @@
 		"icon": "up",
 		"x": 33503,
 		"y": 31578,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33504,
+		"y": 32701,
 		"z": 8
 	},
 	{
@@ -19217,6 +19343,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33526,
+		"y": 32736,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33528,
 		"y": 31672,
 		"z": 8
@@ -19261,6 +19394,13 @@
 		"icon": "red left",
 		"x": 33544,
 		"y": 31444,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33544,
+		"y": 32705,
 		"z": 8
 	},
 	{
@@ -20314,6 +20454,13 @@
 		"z": 9
 	},
 	{
+		"description": "Teleport to surface",
+		"icon": "flag",
+		"x": 31941,
+		"y": 31928,
+		"z": 9
+	},
+	{
 		"description": "Zushuka (spawn location)",
 		"icon": "star",
 		"x": 31943,
@@ -20367,6 +20514,13 @@
 		"icon": "up",
 		"x": 31963,
 		"y": 31640,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31963,
+		"y": 31907,
 		"z": 9
 	},
 	{
@@ -36841,6 +36995,13 @@
 		"z": 13
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32417,
+		"y": 32687,
+		"z": 13
+	},
+	{
 		"description": "Monks",
 		"icon": "skull",
 		"x": 32420,
@@ -36852,6 +37013,13 @@
 		"icon": "down",
 		"x": 32420,
 		"y": 32018,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32422,
+		"y": 32668,
 		"z": 13
 	},
 	{
@@ -39008,6 +39176,20 @@
 		"icon": "up",
 		"x": 32420,
 		"y": 32018,
+		"z": 14
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32422,
+		"y": 32668,
+		"z": 14
+	},
+	{
+		"description": "Herald of Fire",
+		"icon": "sword",
+		"x": 32423,
+		"y": 32652,
 		"z": 14
 	},
 	{
@@ -42007,6 +42189,13 @@
 		"z": 15
 	},
 	{
+		"description": "Herald of Fire lever",
+		"icon": "checkmark",
+		"x": 32434,
+		"y": 32654,
+		"z": 15
+	},
+	{
 		"description": "Levitate spot",
 		"icon": "red left",
 		"x": 32472,
@@ -42025,6 +42214,13 @@
 		"icon": "red left",
 		"x": 32484,
 		"y": 31722,
+		"z": 15
+	},
+	{
+		"description": "Herald of Fire boss room",
+		"icon": "checkmark",
+		"x": 32495,
+		"y": 32659,
 		"z": 15
 	},
 	{
