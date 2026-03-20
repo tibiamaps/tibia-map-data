@@ -19397,6 +19397,13 @@
 		"z": 8
 	},
 	{
+		"description": "Sea Captain (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33539,
+		"y": 32730,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "red left",
 		"x": 33544,
@@ -20465,6 +20472,13 @@
 		"icon": "flag",
 		"x": 31941,
 		"y": 31928,
+		"z": 9
+	},
+	{
+		"description": "Lizard Commander (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31941,
+		"y": 31945,
 		"z": 9
 	},
 	{
