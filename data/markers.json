@@ -6958,17 +6958,17 @@
 		"z": 7
 	},
 	{
+		"description": "Insectoid scout (exact spawn location)",
+		"icon": "star",
+		"x": 32209,
+		"y": 32058,
+		"z": 7
+	},
+	{
 		"description": "Boat to Isle of Kings",
 		"icon": "flag",
 		"x": 32211,
 		"y": 31756,
-		"z": 7
-	},
-	{
-		"description": "Insectoid scout (approximate spawn location)",
-		"icon": "star",
-		"x": 32212,
-		"y": 32056,
 		"z": 7
 	},
 	{
@@ -6979,10 +6979,10 @@
 		"z": 7
 	},
 	{
-		"description": "Insectoid scout (approximate spawn location)",
+		"description": "Insectoid scout (exact spawn location)",
 		"icon": "star",
-		"x": 32214,
-		"y": 32077,
+		"x": 32213,
+		"y": 32073,
 		"z": 7
 	},
 	{
@@ -6993,10 +6993,24 @@
 		"z": 7
 	},
 	{
+		"description": "Insectoid scout (exact spawn location)",
+		"icon": "star",
+		"x": 32220,
+		"y": 32101,
+		"z": 7
+	},
+	{
 		"description": "Passage out of The Ghostlands",
 		"icon": "down",
 		"x": 32221,
 		"y": 31780,
+		"z": 7
+	},
+	{
+		"description": "Insectoid scout (exact spawn location)",
+		"icon": "star",
+		"x": 32222,
+		"y": 32039,
 		"z": 7
 	},
 	{
@@ -7007,10 +7021,10 @@
 		"z": 7
 	},
 	{
-		"description": "Insectoid scout (approximate spawn location)",
+		"description": "Insectoid scout (exact spawn location)",
 		"icon": "star",
 		"x": 32223,
-		"y": 32098,
+		"y": 32073,
 		"z": 7
 	},
 	{
@@ -7021,24 +7035,10 @@
 		"z": 7
 	},
 	{
-		"description": "Insectoid scout (approximate spawn location)",
-		"icon": "star",
-		"x": 32224,
-		"y": 32038,
-		"z": 7
-	},
-	{
 		"description": "Rotworms",
 		"icon": "red down",
 		"x": 32225,
 		"y": 32849,
-		"z": 7
-	},
-	{
-		"description": "Insectoid scout (approximate spawn location)",
-		"icon": "star",
-		"x": 32229,
-		"y": 32077,
 		"z": 7
 	},
 	{
@@ -7063,17 +7063,17 @@
 		"z": 7
 	},
 	{
-		"description": "Insectoid scout (approximate spawn location)",
-		"icon": "star",
-		"x": 32234,
-		"y": 32056,
-		"z": 7
-	},
-	{
 		"description": "Boat to Folda, Senja, and Vega",
 		"icon": "flag",
 		"x": 32235,
 		"y": 31674,
+		"z": 7
+	},
+	{
+		"description": "Insectoid scout (exact spawn location)",
+		"icon": "star",
+		"x": 32235,
+		"y": 32053,
 		"z": 7
 	},
 	{
