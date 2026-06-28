@@ -4676,6 +4676,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "checkmark",
+		"x": 32960,
+		"y": 32075,
+		"z": 6
+	},
+	{
 		"description": "Castle garden (Blood Brothers quest)",
 		"icon": "crossmark",
 		"x": 32962,
@@ -6073,6 +6080,27 @@
 		"icon": "red down",
 		"x": 33909,
 		"y": 32137,
+		"z": 6
+	},
+	{
+		"description": "Boat",
+		"icon": "flag",
+		"x": 34011,
+		"y": 32477,
+		"z": 6
+	},
+	{
+		"description": "NPC Major Pocaro",
+		"icon": "mouth",
+		"x": 34073,
+		"y": 32505,
+		"z": 6
+	},
+	{
+		"description": "Mimar Haffar",
+		"icon": "sword",
+		"x": 34144,
+		"y": 32672,
 		"z": 6
 	},
 	{
@@ -14721,6 +14749,76 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 34063,
+		"y": 32511,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34067,
+		"y": 32655,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 34070,
+		"y": 32522,
+		"z": 7
+	},
+	{
+		"description": "Moonspawn Juggernaut (exact spawn tile?)",
+		"icon": "crossmark",
+		"x": 34099,
+		"y": 32519,
+		"z": 7
+	},
+	{
+		"description": "Cult initiates",
+		"icon": "checkmark",
+		"x": 34107,
+		"y": 32581,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "flag",
+		"x": 34107,
+		"y": 32621,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34111,
+		"y": 32540,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 34138,
+		"y": 32634,
+		"z": 7
+	},
+	{
+		"description": "Exit",
+		"icon": "red up",
+		"x": 34138,
+		"y": 32644,
+		"z": 7
+	},
+	{
+		"description": "Mimar Haffar",
+		"icon": "sword",
+		"x": 34144,
+		"y": 32676,
+		"z": 7
+	},
+	{
 		"description": "Teleport to exit",
 		"icon": "flag",
 		"x": 31912,
@@ -17567,6 +17665,13 @@
 		"icon": "up",
 		"x": 32975,
 		"y": 32686,
+		"z": 8
+	},
+	{
+		"description": "infiltration mission",
+		"icon": "checkmark",
+		"x": 32976,
+		"y": 32040,
 		"z": 8
 	},
 	{
@@ -20465,6 +20570,13 @@
 		"icon": "red right",
 		"x": 34070,
 		"y": 31820,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34111,
+		"y": 32540,
 		"z": 8
 	},
 	{
@@ -44195,6 +44307,13 @@
 		"icon": "up",
 		"x": 33867,
 		"y": 31705,
+		"z": 15
+	},
+	{
+		"description": "Mimar Haffar boss room",
+		"icon": "checkmark",
+		"x": 33871,
+		"y": 32689,
 		"z": 15
 	},
 	{
