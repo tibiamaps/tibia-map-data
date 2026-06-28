@@ -17843,13 +17843,6 @@
 		"z": 8
 	},
 	{
-		"description": "Rakesh Moonfang boss room",
-		"icon": "crossmark",
-		"x": 33043,
-		"y": 32991,
-		"z": 8
-	},
-	{
 		"description": "Undead mine worker (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 33044,
@@ -25736,13 +25729,6 @@
 		"icon": "red left",
 		"x": 33930,
 		"y": 31636,
-		"z": 9
-	},
-	{
-		"description": "The Moonsnow Magnolia boss room",
-		"icon": "checkmark",
-		"x": 33930,
-		"y": 32755,
 		"z": 9
 	},
 	{
