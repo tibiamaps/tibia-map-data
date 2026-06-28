@@ -14147,6 +14147,13 @@
 		"z": 7
 	},
 	{
+		"description": "The Moonsnow Magnolia",
+		"icon": "sword",
+		"x": 33805,
+		"y": 32672,
+		"z": 7
+	},
+	{
 		"description": "Ruins of Nuur",
 		"icon": "down",
 		"x": 33806,
@@ -14385,6 +14392,13 @@
 		"z": 7
 	},
 	{
+		"description": "Patch of bluish tide veil",
+		"icon": "star",
+		"x": 33862,
+		"y": 32837,
+		"z": 7
+	},
+	{
 		"description": "Temple of Sun and Sea",
 		"icon": "cross",
 		"x": 33865,
@@ -14462,10 +14476,24 @@
 		"z": 7
 	},
 	{
+		"description": "To NPC Sharai",
+		"icon": "up",
+		"x": 33880,
+		"y": 32662,
+		"z": 7
+	},
+	{
 		"description": "Training statues",
 		"icon": "sword",
 		"x": 33882,
 		"y": 31531,
+		"z": 7
+	},
+	{
+		"description": "Patch of bluish whisper reed",
+		"icon": "star",
+		"x": 33882,
+		"y": 32824,
 		"z": 7
 	},
 	{
@@ -14529,6 +14557,13 @@
 		"icon": "flag",
 		"x": 33894,
 		"y": 31470,
+		"z": 7
+	},
+	{
+		"description": "Asura Citadel",
+		"icon": "down",
+		"x": 33894,
+		"y": 32713,
 		"z": 7
 	},
 	{
@@ -17794,10 +17829,24 @@
 		"z": 8
 	},
 	{
+		"description": "Rakesh Moonfang",
+		"icon": "sword",
+		"x": 33039,
+		"y": 32964,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33043,
 		"y": 32554,
+		"z": 8
+	},
+	{
+		"description": "Rakesh Moonfang boss room",
+		"icon": "crossmark",
+		"x": 33043,
+		"y": 32991,
 		"z": 8
 	},
 	{
@@ -19938,6 +19987,13 @@
 	{
 		"description": "",
 		"icon": "up",
+		"x": 33805,
+		"y": 32672,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
 		"x": 33806,
 		"y": 31692,
 		"z": 8
@@ -20104,6 +20160,13 @@
 		"z": 8
 	},
 	{
+		"description": "Forbidden Gardens",
+		"icon": "red up",
+		"x": 33873,
+		"y": 32621,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "sword",
 		"x": 33874,
@@ -20174,6 +20237,13 @@
 		"z": 8
 	},
 	{
+		"description": "NPC Javala",
+		"icon": "mouth",
+		"x": 33889,
+		"y": 32654,
+		"z": 8
+	},
+	{
 		"description": "Moonshine Pearl",
 		"icon": "checkmark",
 		"x": 33889,
@@ -20188,10 +20258,24 @@
 		"z": 8
 	},
 	{
+		"description": "Exit to surface",
+		"icon": "up",
+		"x": 33893,
+		"y": 32713,
+		"z": 8
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 33896,
 		"y": 32035,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "red up",
+		"x": 33899,
+		"y": 32667,
 		"z": 8
 	},
 	{
@@ -25362,6 +25446,13 @@
 	},
 	{
 		"description": "",
+		"icon": "down",
+		"x": 33851,
+		"y": 32722,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 33852,
 		"y": 31442,
@@ -25516,9 +25607,23 @@
 	},
 	{
 		"description": "",
+		"icon": "up",
+		"x": 33898,
+		"y": 32663,
+		"z": 9
+	},
+	{
+		"description": "",
 		"icon": "red down",
 		"x": 33901,
 		"y": 31099,
+		"z": 9
+	},
+	{
+		"description": "The Moonsnow Magnolia",
+		"icon": "sword",
+		"x": 33901,
+		"y": 32718,
 		"z": 9
 	},
 	{
@@ -25533,6 +25638,13 @@
 		"icon": "sword",
 		"x": 33905,
 		"y": 32065,
+		"z": 9
+	},
+	{
+		"description": "",
+		"icon": "red down",
+		"x": 33905,
+		"y": 32713,
 		"z": 9
 	},
 	{
@@ -25624,6 +25736,13 @@
 		"icon": "red left",
 		"x": 33930,
 		"y": 31636,
+		"z": 9
+	},
+	{
+		"description": "The Moonsnow Magnolia boss room",
+		"icon": "checkmark",
+		"x": 33930,
+		"y": 32755,
 		"z": 9
 	},
 	{
