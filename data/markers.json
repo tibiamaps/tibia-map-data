@@ -287,6 +287,34 @@
 		"z": 1
 	},
 	{
+		"description": "Maior Domus",
+		"icon": "sword",
+		"x": 33973,
+		"y": 32636,
+		"z": 1
+	},
+	{
+		"description": "Phosphorus",
+		"icon": "sword",
+		"x": 33990,
+		"y": 32607,
+		"z": 1
+	},
+	{
+		"description": "Elite fanatics",
+		"icon": "red up",
+		"x": 33990,
+		"y": 32621,
+		"z": 1
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33990,
+		"y": 32647,
+		"z": 1
+	},
+	{
 		"description": "",
 		"icon": "down",
 		"x": 31939,
@@ -690,6 +718,27 @@
 		"icon": "crossmark",
 		"x": 33879,
 		"y": 32121,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33944,
+		"y": 32652,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33990,
+		"y": 32647,
+		"z": 2
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34038,
+		"y": 32618,
 		"z": 2
 	},
 	{
@@ -1264,6 +1313,27 @@
 		"icon": "sword",
 		"x": 33889,
 		"y": 31873,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33944,
+		"y": 32652,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33990,
+		"y": 32636,
+		"z": 3
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34038,
+		"y": 32618,
 		"z": 3
 	},
 	{
@@ -2233,10 +2303,31 @@
 		"z": 4
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 33947,
+		"y": 32663,
+		"z": 4
+	},
+	{
 		"description": "To magical carpet",
 		"icon": "up",
 		"x": 33956,
 		"y": 31512,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33991,
+		"y": 32636,
+		"z": 4
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34036,
+		"y": 32607,
 		"z": 4
 	},
 	{
@@ -3679,6 +3770,27 @@
 		"icon": "red up",
 		"x": 33909,
 		"y": 32138,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33947,
+		"y": 32663,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 33983,
+		"y": 32636,
+		"z": 5
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34035,
+		"y": 32607,
 		"z": 5
 	},
 	{
@@ -6076,9 +6188,23 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 33983,
+		"y": 32636,
+		"z": 6
+	},
+	{
 		"description": "Boat",
 		"icon": "flag",
 		"x": 34011,
+		"y": 32477,
+		"z": 6
+	},
+	{
+		"description": "Levitate spot",
+		"icon": "red down",
+		"x": 34069,
 		"y": 32477,
 		"z": 6
 	},
@@ -6087,6 +6213,13 @@
 		"icon": "mouth",
 		"x": 34073,
 		"y": 32505,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 34132,
+		"y": 32646,
 		"z": 6
 	},
 	{
@@ -14756,6 +14889,13 @@
 		"z": 7
 	},
 	{
+		"description": "Levitate spot",
+		"icon": "red up",
+		"x": 34069,
+		"y": 32478,
+		"z": 7
+	},
+	{
 		"description": "",
 		"icon": "red up",
 		"x": 34070,
@@ -20475,10 +20615,24 @@
 		"z": 8
 	},
 	{
+		"description": "Elite fanatics room",
+		"icon": "checkmark",
+		"x": 33997,
+		"y": 32627,
+		"z": 8
+	},
+	{
 		"description": "Crossed spears",
 		"icon": "crossmark",
 		"x": 34000,
 		"y": 31855,
+		"z": 8
+	},
+	{
+		"description": "Unmapped lever room",
+		"icon": "checkmark",
+		"x": 34000,
+		"y": 32651,
 		"z": 8
 	},
 	{
@@ -44174,6 +44328,13 @@
 		"icon": "red right",
 		"x": 33736,
 		"y": 32339,
+		"z": 15
+	},
+	{
+		"description": "Phosporus room",
+		"icon": "checkmark",
+		"x": 33741,
+		"y": 32752,
 		"z": 15
 	},
 	{
