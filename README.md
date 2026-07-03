@@ -1,6 +1,6 @@
 # Tibia map data [![Build status](https://github.com/tibiamaps/tibia-map-data/actions/workflows/build.yml/badge.svg)](https://github.com/tibiamaps/tibia-map-data/actions/workflows/build.yml)
 
-This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](https://tibiamaps.io/guides/map-file-format).
+This repository hosts (almost) fully explored [Tibia](https://secure.tibia.com/) maps in a custom format that is more suitable for version control systems than [the original, binary format](https://tibiamaps.io/guides/minimap-file-format).
 
 [The `tibia-maps` script](https://github.com/tibiamaps/tibia-maps-script) can be used to convert from either format to the other.
 
@@ -14,22 +14,22 @@ The custom format consists of three files for each floor:
 
 Feel free to use the generated data in your own projects. For example, if you need Tibia maps in PNG format, you could hotlink the following URLs:
 
-* [`https://tibiamaps.github.io/tibia-map-data/floor-00-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-00-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-01-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-01-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-02-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-02-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-03-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-03-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-04-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-04-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-05-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-05-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-06-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-06-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-07-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-07-map.png) (i.e. ground floor)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-08-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-08-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-09-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-09-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-10-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-10-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-11-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-11-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-12-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-12-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-13-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-13-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-14-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-14-map.png)
-* [`https://tibiamaps.github.io/tibia-map-data/floor-15-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-15-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-00-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-00-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-01-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-01-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-02-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-02-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-03-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-03-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-04-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-04-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-05-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-05-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-06-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-06-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-07-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-07-map.png) (i.e. ground floor)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-08-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-08-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-09-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-09-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-10-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-10-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-11-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-11-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-12-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-12-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-13-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-13-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-14-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-14-map.png)
+- [`https://tibiamaps.github.io/tibia-map-data/floor-15-map.png`](https://tibiamaps.github.io/tibia-map-data/floor-15-map.png)
 
 That way, as soon as the maps are updated here, your project gets the same updates automatically.
 
@@ -49,9 +49,9 @@ These maps are being used by [TibiaMaps.io](https://tibiamaps.io/) and [TibiaWik
 
 2. Install [the `tibia-maps` command-line utility](https://github.com/tibiamaps/tibia-maps-script):
 
-    ```sh
-    npm install -g github:tibiamaps/tibia-maps-script
-    ```
+   ```sh
+   npm install -g github:tibiamaps/tibia-maps-script
+   ```
 
 3. Clone this repository and `cd` to it in your favorite terminal.
 
@@ -81,6 +81,6 @@ The output is saved in the `minimap` directory.
 
 ## Maintainer
 
-| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias "Follow @mathias on Twitter") |
-|---|
-| [Mathias Bynens](https://mathiasbynens.be/) |
+| [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias 'Follow @mathias on Twitter') |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mathias Bynens](https://mathiasbynens.be/)                                                                                                       |
