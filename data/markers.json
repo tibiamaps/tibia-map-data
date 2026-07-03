@@ -20615,24 +20615,10 @@
 		"z": 8
 	},
 	{
-		"description": "Elite fanatics room",
-		"icon": "checkmark",
-		"x": 33997,
-		"y": 32627,
-		"z": 8
-	},
-	{
 		"description": "Crossed spears",
 		"icon": "crossmark",
 		"x": 34000,
 		"y": 31855,
-		"z": 8
-	},
-	{
-		"description": "Unmapped lever room",
-		"icon": "checkmark",
-		"x": 34000,
-		"y": 32651,
 		"z": 8
 	},
 	{
@@ -44328,13 +44314,6 @@
 		"icon": "red right",
 		"x": 33736,
 		"y": 32339,
-		"z": 15
-	},
-	{
-		"description": "Phosporus room",
-		"icon": "checkmark",
-		"x": 33741,
-		"y": 32752,
 		"z": 15
 	},
 	{
