@@ -30,13 +30,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
           npm ci
-          echo "$(npm bin)" >> $GITHUB_PATH
 
       - name: Test
         run: |
-          tibia-maps --version
-          tibia-maps --from-data=./data --output-dir=./minimap
-          tibia-maps --from-minimap=./minimap --output-dir=./data
+          npx tibia-maps --version
+          npx tibia-maps --from-data=./data --output-dir=./minimap
+          npx tibia-maps --from-minimap=./minimap --output-dir=./data
           # git status && git diff-index --quiet HEAD --
           git status
           git diff
