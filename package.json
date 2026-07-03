@@ -8,5 +8,6 @@
 	},
 	"scripts": {
 		"build": "scripts/build.sh"
-	}
+	},
+	"version": "0.0.1"
 }
