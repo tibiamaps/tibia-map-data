@@ -4207,6 +4207,13 @@
 		"z": 6
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 32382,
+		"y": 32815,
+		"z": 6
+	},
+	{
 		"description": "NPC Jehan the Baker (night)",
 		"icon": "mouth",
 		"x": 32391,
@@ -6195,6 +6202,27 @@
 		"z": 6
 	},
 	{
+		"description": "Phosphorus",
+		"icon": "sword",
+		"x": 33973,
+		"y": 32632,
+		"z": 6
+	},
+	{
+		"description": "Maior Domus",
+		"icon": "sword",
+		"x": 33973,
+		"y": 32636,
+		"z": 6
+	},
+	{
+		"description": "Mimar Haffar",
+		"icon": "sword",
+		"x": 33973,
+		"y": 32640,
+		"z": 6
+	},
+	{
 		"description": "",
 		"icon": "up",
 		"x": 33983,
@@ -6206,6 +6234,13 @@
 		"icon": "flag",
 		"x": 34011,
 		"y": 32477,
+		"z": 6
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 34054,
+		"y": 32655,
 		"z": 6
 	},
 	{
@@ -13580,13 +13615,6 @@
 		"z": 7
 	},
 	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33657,
-		"y": 31759,
-		"z": 7
-	},
-	{
 		"description": "NPC Larek",
 		"icon": "mouth",
 		"x": 33658,
@@ -13773,13 +13801,6 @@
 		"icon": "star",
 		"x": 33683,
 		"y": 31722,
-		"z": 7
-	},
-	{
-		"description": "",
-		"icon": "checkmark",
-		"x": 33683,
-		"y": 31750,
 		"z": 7
 	},
 	{
