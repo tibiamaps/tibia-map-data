@@ -12173,6 +12173,13 @@
 		"z": 7
 	},
 	{
+		"description": "Lair of the Treeling Witch",
+		"icon": "down",
+		"x": 33340,
+		"y": 31973,
+		"z": 7
+	},
+	{
 		"description": "Portal of orange energy (teleport to Halls of Hope)",
 		"icon": "crossmark",
 		"x": 33341,
