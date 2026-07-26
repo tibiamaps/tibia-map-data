@@ -6370,6 +6370,13 @@
 		"z": 7
 	},
 	{
+		"description": "",
+		"icon": "down",
+		"x": 31985,
+		"y": 31683,
+		"z": 7
+	},
+	{
 		"description": "Dire penguin (spawn location)",
 		"icon": "star",
 		"x": 31986,
@@ -14329,13 +14336,6 @@
 		"z": 7
 	},
 	{
-		"description": "The Moonsnow Magnolia",
-		"icon": "sword",
-		"x": 33805,
-		"y": 32672,
-		"z": 7
-	},
-	{
 		"description": "Ruins of Nuur",
 		"icon": "down",
 		"x": 33806,
@@ -15131,6 +15131,13 @@
 		"icon": "down",
 		"x": 31983,
 		"y": 32652,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 31985,
+		"y": 31683,
 		"z": 8
 	},
 	{
@@ -38007,6 +38014,13 @@
 		"icon": "flag",
 		"x": 32906,
 		"y": 32846,
+		"z": 13
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32907,
+		"y": 31804,
 		"z": 13
 	},
 	{
