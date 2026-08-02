@@ -9198,7 +9198,7 @@
 		"z": 7
 	},
 	{
-		"description": "Water elementals",
+		"description": "Water elementals & quaras",
 		"icon": "red down",
 		"x": 32679,
 		"y": 32964,
@@ -18925,6 +18925,13 @@
 		"icon": "up",
 		"x": 33219,
 		"y": 32640,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 33225,
+		"y": 31651,
 		"z": 8
 	},
 	{
@@ -35763,6 +35770,13 @@
 		"z": 12
 	},
 	{
+		"description": "",
+		"icon": "up",
+		"x": 32846,
+		"y": 32429,
+		"z": 12
+	},
+	{
 		"description": "Towards lever 14",
 		"icon": "down",
 		"x": 32857,
@@ -37636,13 +37650,6 @@
 		"icon": "star",
 		"x": 32590,
 		"y": 32484,
-		"z": 13
-	},
-	{
-		"description": "",
-		"icon": "sword",
-		"x": 32594,
-		"y": 32677,
 		"z": 13
 	},
 	{
