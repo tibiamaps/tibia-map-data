@@ -7112,6 +7112,13 @@
 		"z": 7
 	},
 	{
+		"description": "To the Great Expedition Wharf",
+		"icon": "flag",
+		"x": 32189,
+		"y": 32476,
+		"z": 7
+	},
+	{
 		"description": "Bank Robbery",
 		"icon": "down",
 		"x": 32190,
@@ -7189,6 +7196,13 @@
 		"z": 7
 	},
 	{
+		"description": "To Fibula",
+		"icon": "flag",
+		"x": 32211,
+		"y": 32480,
+		"z": 7
+	},
+	{
 		"description": "Temple",
 		"icon": "cross",
 		"x": 32213,
@@ -7200,6 +7214,13 @@
 		"icon": "star",
 		"x": 32213,
 		"y": 32073,
+		"z": 7
+	},
+	{
+		"description": "",
+		"icon": "down",
+		"x": 32217,
+		"y": 32486,
 		"z": 7
 	},
 	{
@@ -7256,6 +7277,13 @@
 		"icon": "red down",
 		"x": 32225,
 		"y": 32849,
+		"z": 7
+	},
+	{
+		"description": "NPC Proprietor Piers",
+		"icon": "mouth",
+		"x": 32230,
+		"y": 32501,
 		"z": 7
 	},
 	{
@@ -15716,6 +15744,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32199,
+		"y": 32487,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32201,
 		"y": 32722,
@@ -15737,9 +15772,37 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32207,
+		"y": 32500,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32212,
+		"y": 32489,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32216,
 		"y": 31873,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "up",
+		"x": 32217,
+		"y": 32486,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32221,
+		"y": 32487,
 		"z": 8
 	},
 	{
@@ -15758,6 +15821,13 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32228,
+		"y": 32493,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "up",
 		"x": 32233,
 		"y": 32774,
@@ -15772,9 +15842,23 @@
 	},
 	{
 		"description": "",
+		"icon": "crossmark",
+		"x": 32237,
+		"y": 32485,
+		"z": 8
+	},
+	{
+		"description": "",
 		"icon": "down",
 		"x": 32238,
 		"y": 32920,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32240,
+		"y": 32498,
 		"z": 8
 	},
 	{
@@ -15803,6 +15887,13 @@
 		"icon": "down",
 		"x": 32244,
 		"y": 32370,
+		"z": 8
+	},
+	{
+		"description": "",
+		"icon": "crossmark",
+		"x": 32244,
+		"y": 32492,
 		"z": 8
 	},
 	{
