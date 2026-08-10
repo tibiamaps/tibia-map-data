@@ -10,7 +10,12 @@ import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 const SPECIAL_ID = 'rapid-respawn';
 
 const isSpecial = (marker) => {
-	return marker.description === 'Stag/Imperial/Deer (exact spawn tile)';
+	return (
+		marker.description === 'Pirate quartermaster (exact spawn tile)' ||
+		marker.description === 'Jaracal (exact spawn tile)' ||
+		marker.description === 'Lizard executioner (exact spawn tile)' ||
+		marker.description === 'Infernoid spiritual (exact spawn tile)'
+	);
 	// https://tibiamaps.io/map#33686,30971,9:1
 	const TOP_LEFT_COORDINATE = { x: 33686, y: 30971 };
 	// https://tibiamaps.io/map#33862,31136,9:1

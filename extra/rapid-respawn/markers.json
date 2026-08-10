@@ -770,6 +770,27 @@
 		"z": 7
 	},
 	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33517,
+		"y": 32723,
+		"z": 7
+	},
+	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33525,
+		"y": 32694,
+		"z": 7
+	},
+	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33535,
+		"y": 32717,
+		"z": 7
+	},
+	{
 		"description": "Lacewing moth (fire bomb spot)",
 		"icon": "crossmark",
 		"x": 33682,
@@ -781,6 +802,83 @@
 		"icon": "crossmark",
 		"x": 33715,
 		"y": 32190,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33790,
+		"y": 32702,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33807,
+		"y": 32709,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33812,
+		"y": 32710,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33843,
+		"y": 32717,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33851,
+		"y": 32693,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33852,
+		"y": 32751,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33865,
+		"y": 32766,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33870,
+		"y": 32768,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33878,
+		"y": 32783,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33901,
+		"y": 32786,
+		"z": 7
+	},
+	{
+		"description": "Jaracal (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33909,
+		"y": 32766,
 		"z": 7
 	},
 	{
@@ -1155,6 +1253,76 @@
 		"z": 8
 	},
 	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33524,
+		"y": 32736,
+		"z": 8
+	},
+	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33536,
+		"y": 32736,
+		"z": 8
+	},
+	{
+		"description": "Pirate quartermaster (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 33543,
+		"y": 32743,
+		"z": 8
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31910,
+		"y": 31918,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31921,
+		"y": 31909,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31933,
+		"y": 31939,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31941,
+		"y": 31933,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31946,
+		"y": 31911,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31950,
+		"y": 31939,
+		"z": 9
+	},
+	{
+		"description": "Lizard executioner (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 31963,
+		"y": 31950,
+		"z": 9
+	},
+	{
 		"description": "Ink splash (exact spawn tile)",
 		"icon": "crossmark",
 		"x": 32520,
@@ -1379,6 +1547,13 @@
 		"z": 12
 	},
 	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32431,
+		"y": 32667,
+		"z": 13
+	},
+	{
 		"description": "Deepling tyrant (poison bomb spot)",
 		"icon": "star",
 		"x": 33543,
@@ -1391,5 +1566,47 @@
 		"x": 33565,
 		"y": 31306,
 		"z": 13
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32433,
+		"y": 32663,
+		"z": 14
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32437,
+		"y": 32629,
+		"z": 14
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32442,
+		"y": 32641,
+		"z": 14
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32444,
+		"y": 32669,
+		"z": 14
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32448,
+		"y": 32657,
+		"z": 14
+	},
+	{
+		"description": "Infernoid spiritual (exact spawn tile)",
+		"icon": "crossmark",
+		"x": 32451,
+		"y": 32648,
+		"z": 14
 	}
 ]
