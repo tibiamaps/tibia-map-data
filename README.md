@@ -79,6 +79,14 @@ tibia-maps --from-data=./data --output-dir=./minimap
 
 The output is saved in the `minimap` directory.
 
+## Sort marker data
+
+To deduplicate, sort, and format a marker JSON file in-place, run:
+
+```sh
+tibia-maps --sort-markers=./data/markers.json
+```
+
 ## Maintainer
 
 | [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias 'Follow @mathias on Twitter') |

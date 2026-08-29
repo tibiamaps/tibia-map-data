@@ -1,10 +1,11 @@
-import fs from 'node:fs';
+import fs from 'node:fs/promises';
 import path from 'node:path';
 import url from 'node:url';
 
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+import { serializeMarkers } from 'tibia-maps/src/serialize-markers.mjs';
 import { sortMarkers } from 'tibia-maps/src/sort-markers.mjs';
 
 const SPECIAL_ID = 'rapid-respawn';
@@ -30,34 +31,34 @@ const isSpecial = (marker) => {
 	return isWithinX && isWithinY && isWithinZ;
 };
 
-const readJSON = (filePath) => {
+const readJSON = async (filePath) => {
 	const absolutePath = path.resolve(__dirname, filePath);
-	const string = fs.readFileSync(absolutePath, 'utf8').toString();
+	const string = await fs.readFile(absolutePath, 'utf8');
 	const data = JSON.parse(string);
 	return data;
 };
 
-const writeJSON = (filePath, data) => {
+const writeJSON = async (filePath, data) => {
 	const absolutePath = path.resolve(__dirname, filePath);
-	const json = JSON.stringify(data, null, '\t') + '\n';
-	fs.writeFileSync(absolutePath, json);
+	const json = serializeMarkers(data);
+	await fs.writeFile(absolutePath, json);
 };
 
-const writeOrUpdateJSON = (filePath, data) => {
+const writeOrUpdateJSON = async (filePath, data) => {
 	const absolutePath = path.resolve(__dirname, filePath);
-	if (fs.existsSync(absolutePath)) {
-		const oldData = readJSON(filePath);
+	try {
+		const oldData = await readJSON(filePath);
 		data = [...oldData, ...data];
 		sortMarkers(data);
-	} else {
-		fs.mkdirSync(path.dirname(absolutePath), { recursive: true });
+	} catch {
+		await fs.mkdir(path.dirname(absolutePath), { recursive: true });
 	}
-	writeJSON(absolutePath, data);
+	await writeJSON(absolutePath, data);
 };
 
 const specials = [];
 const rest = [];
-const oldMarkers = readJSON('../data/markers.json');
+const oldMarkers = await readJSON('../data/markers.json');
 for (const oldMarker of oldMarkers) {
 	if (isSpecial(oldMarker)) {
 		specials.push(oldMarker);
@@ -66,5 +67,6 @@ for (const oldMarker of oldMarkers) {
 	}
 }
 
-writeJSON('../data/markers.json', rest);
-writeOrUpdateJSON(`../extra/${SPECIAL_ID}/markers.json`, specials);
+await writeJSON('../data/markers.json', rest);
+await writeOrUpdateJSON(`../extra/${SPECIAL_ID}/markers.json`, specials);
+

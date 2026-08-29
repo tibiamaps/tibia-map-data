@@ -1,212 +1,32 @@
 [
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32090,
-		"y": 31247,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32197,
-		"y": 32376,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32241,
-		"y": 32292,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32255,
-		"y": 32725,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32269,
-		"y": 31659,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32593,
-		"y": 32830,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32605,
-		"y": 31721,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32683,
-		"y": 31907,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32745,
-		"y": 32182,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 32833,
-		"y": 31164,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33220,
-		"y": 32753,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33246,
-		"y": 32345,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33275,
-		"y": 31711,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33331,
-		"y": 32034,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33567,
-		"y": 31951,
-		"z": 7
-	},
-	{
-		"description": "Teleport to The Feeding Grounds",
-		"icon": "flag",
-		"x": 33751,
-		"y": 31073,
-		"z": 7
-	},
-	{
-		"description": "The Great Food Race",
-		"icon": "flag",
-		"x": 33804,
-		"y": 31077,
-		"z": 7
-	},
-	{
-		"description": "Whack the Orc",
-		"icon": "flag",
-		"x": 33804,
-		"y": 31110,
-		"z": 7
-	},
-	{
-		"description": "Sausage Eating Contest",
-		"icon": "flag",
-		"x": 33822,
-		"y": 31069,
-		"z": 7
-	},
-	{
-		"description": "Ominous cauldron (Orcsoberfest)",
-		"icon": "star",
-		"x": 33901,
-		"y": 31592,
-		"z": 7
-	},
-	{
-		"description": "Exit",
-		"icon": "flag",
-		"x": 33725,
-		"y": 31082,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33773,
-		"y": 31016,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33782,
-		"y": 31076,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33786,
-		"y": 31024,
-		"z": 8
-	},
-	{
-		"description": "",
-		"icon": "down",
-		"x": 33807,
-		"y": 31063,
-		"z": 8
-	},
-	{
-		"description": "The Feast",
-		"icon": "flag",
-		"x": 33768,
-		"y": 31100,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33773,
-		"y": 31016,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33782,
-		"y": 31076,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33786,
-		"y": 31024,
-		"z": 9
-	},
-	{
-		"description": "",
-		"icon": "up",
-		"x": 33807,
-		"y": 31063,
-		"z": 9
-	}
+	{ "x": 32090, "y": 31247, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32197, "y": 32376, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32241, "y": 32292, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32255, "y": 32725, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32269, "y": 31659, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32593, "y": 32830, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32605, "y": 31721, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32683, "y": 31907, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32745, "y": 32182, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 32833, "y": 31164, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33220, "y": 32753, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33246, "y": 32345, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33275, "y": 31711, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33331, "y": 32034, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33567, "y": 31951, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33751, "y": 31073, "z": 7, "icon": "flag", "description": "Teleport to The Feeding Grounds" },
+	{ "x": 33804, "y": 31077, "z": 7, "icon": "flag", "description": "The Great Food Race" },
+	{ "x": 33804, "y": 31110, "z": 7, "icon": "flag", "description": "Whack the Orc" },
+	{ "x": 33822, "y": 31069, "z": 7, "icon": "flag", "description": "Sausage Eating Contest" },
+	{ "x": 33901, "y": 31592, "z": 7, "icon": "star", "description": "Ominous cauldron (Orcsoberfest)" },
+	{ "x": 33725, "y": 31082, "z": 8, "icon": "flag", "description": "Exit" },
+	{ "x": 33773, "y": 31016, "z": 8, "icon": "down", "description": "" },
+	{ "x": 33782, "y": 31076, "z": 8, "icon": "down", "description": "" },
+	{ "x": 33786, "y": 31024, "z": 8, "icon": "down", "description": "" },
+	{ "x": 33807, "y": 31063, "z": 8, "icon": "down", "description": "" },
+	{ "x": 33768, "y": 31100, "z": 9, "icon": "flag", "description": "The Feast" },
+	{ "x": 33773, "y": 31016, "z": 9, "icon": "up", "description": "" },
+	{ "x": 33782, "y": 31076, "z": 9, "icon": "up", "description": "" },
+	{ "x": 33786, "y": 31024, "z": 9, "icon": "up", "description": "" },
+	{ "x": 33807, "y": 31063, "z": 9, "icon": "up", "description": "" }
 ]

@@ -4,9 +4,10 @@
 		"imagemin-cli": "^8.0.0",
 		"jsesc": "^3.1.0",
 		"tibia-count-walkable-tiles": "*",
-		"tibia-maps": "^5.4.1"
+		"tibia-maps": "^5.5.6"
 	},
 	"scripts": {
-		"build": "scripts/build.sh"
+		"build": "scripts/build.sh",
+		"sort-markers": "tibia-maps --sort-markers"
 	}
 }
