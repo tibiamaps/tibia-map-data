@@ -105,6 +105,7 @@
 	{ "x": 33944, "y": 32652, "z": 2, "icon": "down", "description": "" },
 	{ "x": 33990, "y": 32647, "z": 2, "icon": "up", "description": "" },
 	{ "x": 34038, "y": 32618, "z": 2, "icon": "down", "description": "" },
+	{ "x": 34043, "y": 32627, "z": 2, "icon": "?", "description": "" },
 	{ "x": 31939, "y": 32950, "z": 3, "icon": "up", "description": "" },
 	{ "x": 31943, "y": 32928, "z": 3, "icon": "up", "description": "" },
 	{ "x": 31951, "y": 32928, "z": 3, "icon": "down", "description": "" },
