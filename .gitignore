@@ -5,6 +5,8 @@ dist
 
 node_modules
 
+.agents
+
 # Folder view configuration files
 .DS_Store
 Desktop.ini
