@@ -87,6 +87,18 @@ To deduplicate, sort, and format a marker JSON file in-place, run:
 tibia-maps --sort-markers=./data/markers.json
 ```
 
+## View map diffs
+
+GitHub shows a changed floor PNG as two full images, which makes small changes hard to find. To view only the changed areas (with some surrounding tiles) of a commit or a commit range, run:
+
+```sh
+npm run diff -- b9c0a369          # One commit.
+npm run diff -- main~10..main     # The net diff of a range.
+npm run diff -- main...my-branch  # The changes on a branch since it split from `main`.
+```
+
+This opens a local web app that shows the changes in the map PNGs, the path PNGs, and `data/markers.json`. Options: `--padding=16` (surrounding tiles), `--port=8766`, `--no-open`, and `--json` (print a summary instead of starting the web app).
+
 ## Maintainer
 
 | [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias 'Follow @mathias on Twitter') |

@@ -1,6 +1,7 @@
 {
 	"private": true,
 	"devDependencies": {
+		"canvas": "^3.2.3",
 		"imagemin-cli": "^8.0.0",
 		"jsesc": "^3.1.0",
 		"tibia-count-walkable-tiles": "*",
@@ -8,6 +9,7 @@
 	},
 	"scripts": {
 		"build": "scripts/build.sh",
+		"diff": "node scripts/map-diff.mjs",
 		"sort-markers": "tibia-maps --sort-markers"
 	}
 }

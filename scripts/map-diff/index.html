@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Map diff</title>
+<style>
+	:root {
+		color-scheme: dark;
+		--bg: #0f1115;
+		--panel: #171a21;
+		--border: #2a2f3a;
+		--text: #d8dce4;
+		--muted: #8a92a3;
+		--added: #22c55e;
+		--removed: #ef4444;
+		--changed: #f59e0b;
+		--accent: #8ab4f8;
+		font-family: system-ui, -apple-system, sans-serif;
+		font-size: 14px;
+	}
+	* { box-sizing: border-box; }
+	body { margin: 0; background: var(--bg); color: var(--text); }
+	a { color: var(--accent); text-decoration: none; }
+	a:hover { text-decoration: underline; }
+	code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.92em; }
+	header.top { padding: 16px 24px; border-bottom: 1px solid var(--border); background: var(--panel); }
+	header.top h1 { margin: 0 0 6px; font-size: 20px; font-weight: 600; }
+	.sub { color: var(--muted); }
+	details { margin-top: 8px; }
+	summary { cursor: pointer; color: var(--muted); }
+	.commits { margin: 6px 0 0; padding-left: 18px; }
+	.commits li { margin: 2px 0; }
+	.toolbar {
+		position: sticky; top: 0; z-index: 10; display: flex; flex-wrap: wrap; gap: 16px; align-items: center;
+		padding: 10px 24px; background: rgba(15, 17, 21, 0.92); backdrop-filter: blur(6px); border-bottom: 1px solid var(--border);
+	}
+	.toolbar label { display: flex; gap: 6px; align-items: center; color: var(--muted); }
+	select, button {
+		font: inherit; color: var(--text); background: #222733; border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px;
+	}
+	button { cursor: pointer; }
+	button:hover { background: #2b3140; }
+	button.active { background: #33405c; border-color: var(--accent); }
+	.totals { margin-left: auto; color: var(--muted); }
+	main { padding: 16px 24px 48px; display: flex; flex-direction: column; gap: 16px; }
+	.empty { color: var(--muted); padding: 40px; text-align: center; }
+	.card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+	.card-head { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; margin-bottom: 10px; }
+	.card-head h2 { margin: 0; font-size: 15px; font-weight: 600; }
+	.stats { display: flex; flex-wrap: wrap; gap: 10px; color: var(--muted); }
+	.stat b { font-weight: 600; color: var(--text); }
+	.n-added { color: var(--added); }
+	.n-removed { color: var(--removed); }
+	.n-changed { color: var(--changed); }
+	.controls { display: flex; flex-wrap: wrap; gap: 6px; margin-left: auto; }
+	.seg { display: inline-flex; }
+	.seg button { border-radius: 0; }
+	.seg button:first-child { border-radius: 6px 0 0 6px; }
+	.seg button:last-child { border-radius: 0 6px 6px 0; }
+	.seg button + button { border-left: none; }
+	.views { overflow-x: auto; }
+	.side-by-side { display: flex; gap: 12px; align-items: flex-start; }
+	figure { margin: 0; }
+	figcaption { color: var(--muted); font-size: 12px; margin-bottom: 4px; }
+	.frame { position: relative; width: fit-content; line-height: 0; border: 1px solid var(--border); background: #000; }
+	.frame img { display: block; image-rendering: pixelated; }
+	.compare .frame img.top { position: absolute; inset: 0; }
+	.compare-bar { display: flex; gap: 10px; align-items: center; margin-top: 8px; color: var(--muted); font-size: 12px; }
+	.compare-bar input[type="range"] { width: 240px; }
+	.divider { position: absolute; top: 0; bottom: 0; width: 2px; background: #fff; box-shadow: 0 0 4px #000; pointer-events: none; }
+	.marker {
+		position: absolute; transform: translate(-50%, -50%); width: 18px; height: 18px; border-radius: 50%;
+		display: grid; place-items: center; font-size: 11px; line-height: 1; background: rgba(0, 0, 0, 0.75);
+		border: 2px solid #9aa3b5; color: #fff; cursor: help;
+	}
+	.marker.added { border-color: var(--added); }
+	.marker.removed { border-color: var(--removed); }
+	.marker.changed { border-color: var(--changed); }
+	.marker.same { opacity: 0.6; }
+	.marker .red { color: #ff5a4a; }
+	.marker .green { color: #4ade80; }
+	.hide-markers .marker { display: none; }
+	table.markers { margin-top: 10px; border-collapse: collapse; width: 100%; font-size: 13px; }
+	table.markers th, table.markers td { text-align: left; padding: 4px 8px; border-top: 1px solid var(--border); vertical-align: top; }
+	table.markers th { color: var(--muted); font-weight: 500; }
+	.legend { display: flex; gap: 12px; color: var(--muted); font-size: 12px; }
+	.swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: -1px; }
+	.hint { color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+<header class="top">
+	<h1 id="title">Map diff</h1>
+	<div class="sub" id="subtitle"></div>
+	<details id="commitsBox"><summary id="commitsSummary"></summary><ul class="commits" id="commits"></ul></details>
+	<details><summary id="filesSummary"></summary><ul class="commits" id="files"></ul></details>
+</header>
+<div class="toolbar">
+	<label>Floor <select id="floorFilter"><option value="all">All</option></select></label>
+	<label>Layer <select id="layerFilter">
+		<option value="all">All</option>
+		<option value="map">Map</option>
+		<option value="path">Path</option>
+		<option value="markers">Markers</option>
+	</select></label>
+	<label>Change <select id="typeFilter">
+		<option value="all">All</option>
+		<option value="added">Added</option>
+		<option value="removed">Removed</option>
+		<option value="changed">Changed</option>
+	</select></label>
+	<label>Zoom <select id="zoom">
+		<option value="auto">Auto</option>
+		<option value="1">1×</option>
+		<option value="2">2×</option>
+		<option value="4">4×</option>
+		<option value="8">8×</option>
+		<option value="12">12×</option>
+	</select></label>
+	<label><input type="checkbox" id="showMarkers" checked> Markers</label>
+	<span class="legend">
+		<span><span class="swatch" style="background: var(--added)"></span>Added</span>
+		<span><span class="swatch" style="background: var(--removed)"></span>Removed</span>
+		<span><span class="swatch" style="background: var(--changed)"></span>Changed</span>
+	</span>
+	<span class="totals" id="totals"></span>
+</div>
+<main id="list"></main>
+<script type="module">
+	const $ = (id) => document.getElementById(id);
+	const el = (tag, props = {}, ...children) => {
+		const node = Object.assign(document.createElement(tag), props);
+		node.append(...children.filter((c) => c !== null && c !== undefined));
+		return node;
+	};
+	const pad = (n) => String(n).padStart(2, '0');
+
+	// Approximations of the in-game marker icons.
+	const ICONS = {
+		'checkmark': ['✔', 'green'],
+		'?': ['?', ''],
+		'!': ['!', 'red'],
+		'star': ['★', ''],
+		'crossmark': ['✖', 'red'],
+		'cross': ['✝', 'red'],
+		'mouth': ['👄', ''],
+		'spear': ['➶', ''],
+		'sword': ['⚔', ''],
+		'flag': ['⚑', ''],
+		'lock': ['🔒', ''],
+		'bag': ['👛', ''],
+		'skull': ['💀', ''],
+		'$': ['$', 'green'],
+		'red up': ['▲', 'red'],
+		'red down': ['▼', 'red'],
+		'red right': ['▶', 'red'],
+		'red left': ['◀', 'red'],
+		'up': ['▲', 'green'],
+		'down': ['▼', 'green'],
+	};
+	const iconSpan = (name) => {
+		const [symbol, color] = ICONS[name] ?? ['•', ''];
+		return el('span', { className: color, textContent: symbol });
+	};
+
+	const summary = await (await fetch('/api/summary')).json();
+	const regions = summary.regions;
+
+	// Header.
+	const commitLink = (hash, text) => (summary.repoUrl
+		? el('a', { href: `${summary.repoUrl}/commit/${hash}`, target: '_blank', textContent: text })
+		: el('code', { textContent: text }));
+	document.title = `Map diff: ${summary.rev}`;
+	$('title').replaceChildren('Map diff: ', el('code', { textContent: summary.rev }));
+	$('subtitle').replaceChildren(
+		summary.base ? commitLink(summary.base.hash, summary.base.short) : el('span', { textContent: '(empty)' }),
+		' → ',
+		commitLink(summary.head.hash, summary.head.short),
+	);
+	$('commitsSummary').textContent = `${summary.commits.length} commit${summary.commits.length === 1 ? '' : 's'}`;
+	$('commits').replaceChildren(...summary.commits.map((c) => el('li', {},
+		commitLink(c.hash, c.short), ' ', c.subject, el('span', { className: 'sub', textContent: ` · ${c.author} · ${c.date.slice(0, 10)}` }))));
+	if (summary.commits.length === 1) $('commitsBox').open = true;
+	$('filesSummary').textContent = `${summary.files.length} changed file${summary.files.length === 1 ? '' : 's'} in data/`;
+	$('files').replaceChildren(...summary.files.map((f) => el('li', {}, el('code', { textContent: f }))));
+
+	for (const f of [...new Set(regions.map((r) => r.floor))]) $('floorFilter').append(new Option(pad(f), f));
+	// URL parameters can set the initial filters, for example `?floor=7&layer=path`.
+	const params = new URLSearchParams(location.search);
+	for (const [param, id] of [['floor', 'floorFilter'], ['layer', 'layerFilter'], ['type', 'typeFilter'], ['zoom', 'zoom']]) {
+		const value = params.get(param);
+		if (value !== null && [...$(id).options].some((o) => o.value === value)) $(id).value = value;
+	}
+
+	const layerTotal = (c) => (c ? c.added + c.removed + c.changed : 0);
+	const regionHasType = (r, type, layer) => {
+		const layers = layer === 'all' ? ['map', 'path', 'markers'] : [layer];
+		return layers.some((l) => {
+			if (l === 'markers') return r.markerChanges.some((m) => type === 'all' || m.type === type);
+			const c = r.counts[l];
+			return c && (type === 'all' ? layerTotal(c) > 0 : c[type] > 0);
+		});
+	};
+
+	const visibleRegions = () => regions.filter((r) => {
+		if ($('floorFilter').value !== 'all' && r.floor !== Number($('floorFilter').value)) return false;
+		return regionHasType(r, $('typeFilter').value, $('layerFilter').value);
+	});
+
+	const autoZoom = (r) => {
+		// Fit three images side by side in the available width.
+		const available = Math.min(window.innerWidth - 80, 1800);
+		const zoom = Math.floor((available - 40) / 3 / r.width);
+		return Math.max(1, Math.min(12, zoom));
+	};
+	const zoomFor = (r) => ($('zoom').value === 'auto' ? autoZoom(r) : Number($('zoom').value));
+
+	const cropUrl = (r, layer, side) => `/api/crop?region=${r.id}&layer=${layer}&side=${side}`;
+
+	const markerTitle = (m) => `${m.icon}${m.description ? ` — ${m.description}` : ''} (${m.x},${m.y},${m.status})`;
+	const addMarkers = (frame, r, markers) => {
+		for (const m of markers) {
+			const node = el('div', { className: `marker ${m.status}`, title: markerTitle(m) }, iconSpan(m.icon));
+			node.style.left = `${((m.x - r.x0 + 0.5) / r.width) * 100}%`;
+			node.style.top = `${((m.y - r.y0 + 0.5) / r.height) * 100}%`;
+			frame.append(node);
+		}
+	};
+
+	const frameFor = (r, layer, side, zoom) => {
+		const img = el('img', { src: cropUrl(r, layer, side), width: r.width * zoom, height: r.height * zoom, alt: `${side} (${layer})` });
+		const frame = el('div', { className: 'frame' }, img);
+		if (side === 'before') addMarkers(frame, r, r.markersBefore);
+		else addMarkers(frame, r, r.markersAfter);
+		return frame;
+	};
+
+	const statLine = (label, c) => {
+		if (!c) return null;
+		const parts = [];
+		if (c.added) parts.push(el('span', { className: 'n-added', textContent: `+${c.added}` }));
+		if (c.removed) parts.push(el('span', { className: 'n-removed', textContent: `−${c.removed}` }));
+		if (c.changed) parts.push(el('span', { className: 'n-changed', textContent: `~${c.changed}` }));
+		const node = el('span', { className: 'stat' }, el('b', { textContent: label }), ' ');
+		parts.forEach((p, i) => node.append(...(i ? [' ', p] : [p])));
+		return node;
+	};
+
+	const markerCounts = (r) => {
+		const c = { added: 0, removed: 0, changed: 0 };
+		for (const m of r.markerChanges) c[m.type]++;
+		return r.markerChanges.length ? c : null;
+	};
+
+	const tibiaMapsUrl = (r) => {
+		const x = Math.round((r.changed.x0 + r.changed.x1) / 2);
+		const y = Math.round((r.changed.y0 + r.changed.y1) / 2);
+		return `https://tibiamaps.io/map#${x},${y},${r.floor}:2`;
+	};
+
+	const markerTable = (r) => {
+		if (!r.markerChanges.length) return null;
+		const describe = (m) => (m ? el('span', {}, iconSpan(m.icon), ` ${m.icon}`, m.description ? ` — ${m.description}` : '') : el('span', { className: 'sub', textContent: '—' }));
+		return el('table', { className: 'markers' },
+			el('thead', {}, el('tr', {}, ...['Change', 'Position', 'Before', 'After'].map((t) => el('th', { textContent: t })))),
+			el('tbody', {}, ...r.markerChanges.map((m) => el('tr', {},
+				el('td', { className: `n-${m.type}`, textContent: m.type }),
+				el('td', {}, el('code', { textContent: `${m.x},${m.y},${m.z}` })),
+				el('td', {}, describe(m.before)),
+				el('td', {}, describe(m.after)),
+			))));
+	};
+
+	let hoveredCard = null;
+
+	const renderCard = (r) => {
+		// The `?mode=compare` URL parameter opens all cards in compare mode.
+		const initialMode = new URLSearchParams(location.search).get('mode') === 'compare' ? 'compare' : 'side';
+		const state = { layer: r.counts.map || !r.counts.path ? 'map' : 'path', mode: initialMode, split: 50 };
+		const card = el('section', { className: 'card' });
+		card.addEventListener('mouseenter', () => { hoveredCard = card; });
+		card.addEventListener('mouseleave', () => { if (hoveredCard === card) hoveredCard = null; });
+		const views = el('div', { className: 'views' });
+
+		const layerButtons = el('span', { className: 'seg' });
+		const layerOptions = r.layers;
+		const modeButtons = el('span', { className: 'seg' });
+
+		const draw = () => {
+			const zoom = zoomFor(r);
+			for (const b of layerButtons.children) b.classList.toggle('active', b.dataset.value === state.layer);
+			for (const b of modeButtons.children) b.classList.toggle('active', b.dataset.value === state.mode);
+			if (state.mode === 'side') {
+				views.replaceChildren(el('div', { className: 'side-by-side' },
+					el('figure', {}, el('figcaption', { textContent: `Before (${summary.base?.short ?? 'empty'})` }), frameFor(r, state.layer, 'before', zoom)),
+					el('figure', {}, el('figcaption', { textContent: `After (${summary.head.short})` }), frameFor(r, state.layer, 'after', zoom)),
+					el('figure', {}, el('figcaption', { textContent: 'Changes' }), frameFor(r, state.layer, 'highlight', zoom)),
+				));
+				return;
+			}
+			// Compare mode: one large image with a wipe slider and an in-place swap.
+			const fitWidth = Math.floor(Math.min(window.innerWidth - 80, 1800) / r.width);
+			const fitHeight = Math.floor((window.innerHeight - 200) / r.height);
+			const bigZoom = Math.max(zoom, Math.min(16, fitWidth, Math.max(1, fitHeight)));
+			const bottom = frameFor(r, state.layer, 'before', bigZoom);
+			const topImg = el('img', { className: 'top', src: cropUrl(r, state.layer, 'after'), width: r.width * bigZoom, height: r.height * bigZoom, alt: 'after' });
+			const divider = el('div', { className: 'divider' });
+			const afterMarkers = el('div', { style: 'position: absolute; inset: 0;' });
+			addMarkers(afterMarkers, r, r.markersAfter);
+			bottom.append(topImg, afterMarkers, divider);
+			const apply = () => {
+				const clip = `inset(0 0 0 ${state.split}%)`;
+				topImg.style.clipPath = clip;
+				afterMarkers.style.clipPath = clip;
+				divider.style.left = `${state.split}%`;
+				divider.style.display = state.split > 0 && state.split < 100 ? '' : 'none';
+				label.textContent = state.split === 0 ? 'Showing: after' : state.split === 100 ? 'Showing: before' : '';
+			};
+			const label = el('span');
+			const slider = el('input', { type: 'range', min: 0, max: 100, value: state.split });
+			slider.addEventListener('input', () => { state.split = Number(slider.value); apply(); });
+			const swap = el('button', { textContent: 'Swap (space)' });
+			card.swap = () => {
+				// Flip between the full before and the full after image.
+				state.split = state.split < 50 ? 100 : 0;
+				slider.value = state.split;
+				apply();
+			};
+			swap.addEventListener('click', card.swap);
+			views.replaceChildren(el('div', { className: 'compare' }, bottom,
+				el('div', { className: 'compare-bar' }, el('span', { textContent: 'Before' }), slider, el('span', { textContent: 'After' }), swap, label,
+					el('span', { className: 'hint', textContent: 'Hover the card and press space to flip.' }))));
+			apply();
+		};
+
+		for (const l of layerOptions) {
+			const b = el('button', { textContent: l === 'map' ? 'Map' : 'Path' });
+			b.dataset.value = l;
+			b.addEventListener('click', () => { state.layer = l; draw(); });
+			layerButtons.append(b);
+		}
+		for (const [value, text] of [['side', 'Side by side'], ['compare', 'Compare']]) {
+			const b = el('button', { textContent: text });
+			b.dataset.value = value;
+			b.addEventListener('click', () => { state.mode = value; card.swap = null; draw(); });
+			modeButtons.append(b);
+		}
+
+		const c = r.changed;
+		const table = markerTable(r);
+		card.append(
+			el('div', { className: 'card-head' },
+				el('h2', { textContent: `Floor ${pad(r.floor)}` }),
+				el('a', { href: tibiaMapsUrl(r), target: '_blank', textContent: `${c.x0},${c.y0} – ${c.x1},${c.y1}` }),
+				el('span', { className: 'stats' }, statLine('map', r.counts.map), statLine('path', r.counts.path), statLine('markers', markerCounts(r))),
+				el('span', { className: 'controls' }, layerOptions.length > 1 ? layerButtons : null, modeButtons),
+			),
+			views,
+		);
+		if (table) card.append(table);
+		card.redraw = draw;
+		draw();
+		return card;
+	};
+
+	let cards = [];
+	const render = () => {
+		const list = visibleRegions();
+		cards = list.map(renderCard);
+		const unplaced = summary.unplacedMarkers.length
+			? el('div', { className: 'card' }, el('h2', { textContent: `${summary.unplacedMarkers.length} marker changes outside the map bounds` }))
+			: null;
+		$('list').replaceChildren(...(cards.length ? cards : [el('div', { className: 'empty', textContent: regions.length ? 'No regions match the filters.' : 'No map, path, or marker changes in this diff.' })]), ...(unplaced ? [unplaced] : []));
+		let px = 0;
+		let mk = 0;
+		for (const r of regions) {
+			px += layerTotal(r.counts.map) + layerTotal(r.counts.path);
+			mk += r.markerChanges.length;
+		}
+		$('totals').textContent = `${list.length} of ${regions.length} regions · ${px.toLocaleString('en-US')} changed pixels · ${mk} marker changes`;
+	};
+
+	for (const id of ['floorFilter', 'layerFilter', 'typeFilter']) $(id).addEventListener('change', render);
+	$('zoom').addEventListener('change', () => cards.forEach((c) => c.redraw()));
+	$('showMarkers').addEventListener('change', () => document.body.classList.toggle('hide-markers', !$('showMarkers').checked));
+	document.addEventListener('keydown', (event) => {
+		if (event.code !== 'Space' || !hoveredCard?.swap) return;
+		if (event.target instanceof HTMLInputElement || event.target instanceof HTMLSelectElement) return;
+		event.preventDefault();
+		hoveredCard.swap();
+	});
+	let resizeTimer;
+	window.addEventListener('resize', () => {
+		if ($('zoom').value !== 'auto') return;
+		clearTimeout(resizeTimer);
+		resizeTimer = setTimeout(() => cards.forEach((c) => c.redraw()), 150);
+	});
+	render();
+</script>
+</body>
+</html>
