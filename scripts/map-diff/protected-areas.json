@@ -1,0 +1,991 @@
+[
+	{
+		"name": "Isle of Solitude",
+		"kind": "secret",
+		"floors": [
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 32256,
+		"y0": 31744,
+		"x1": 32511,
+		"y1": 31999,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Ghostship",
+		"kind": "secret",
+		"floors": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 33280,
+		"y0": 32000,
+		"x1": 33535,
+		"y1": 32255,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Sea Serpent Area Quest ship",
+		"kind": "secret",
+		"floors": [
+			2,
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 31744,
+		"y0": 30976,
+		"x1": 31999,
+		"y1": 31231,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Realm of Dreams Quest (Chayenne's Island)",
+		"kind": "secret",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 32768,
+		"y0": 31488,
+		"x1": 33023,
+		"y1": 31743,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Level 999+ Isle (aka Schrödinger's Island)",
+		"kind": "secret",
+		"floors": [
+			7
+		],
+		"x0": 32768,
+		"y0": 32256,
+		"x1": 33023,
+		"y1": 32511,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "The Dream Courts Quest Islands",
+		"kind": "secret",
+		"floors": [
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 33536,
+		"y0": 32000,
+		"x1": 33791,
+		"y1": 32255,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Secluded Island (Percht Queen/Orcsoberfest), west side",
+		"kind": "secret",
+		"floors": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"x0": 33536,
+		"y0": 30976,
+		"x1": 33791,
+		"y1": 31231,
+		"source": "special-areas/\"Secret\" Areas.html, extra/percht-island, extra/orcsoberfest-island"
+	},
+	{
+		"name": "Secluded Island (Percht Queen/Orcsoberfest), east side",
+		"kind": "secret",
+		"floors": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"x0": 33792,
+		"y0": 30976,
+		"x1": 34047,
+		"y1": 31231,
+		"source": "special-areas/\"Secret\" Areas.html, extra/percht-island, extra/orcsoberfest-island"
+	},
+	{
+		"name": "Isle of Merriment",
+		"kind": "secret",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 31744,
+		"y0": 31744,
+		"x1": 31999,
+		"y1": 31999,
+		"source": "special-areas/\"Secret\" Areas.html"
+	},
+	{
+		"name": "Roshamuul, wall to Upper Roshamuul",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33536,
+		"y0": 32256,
+		"x1": 33791,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Thais, Halls of Hope temple",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32000,
+		"x1": 32511,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Svargrond's Otherworld entrance",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32000,
+		"y0": 31232,
+		"x1": 32255,
+		"y1": 31487,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Insectoid Invasion",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32000,
+		"y0": 32000,
+		"x1": 32255,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Twisted Waters",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32512,
+		"y0": 32512,
+		"x1": 32767,
+		"y1": 32767,
+		"note": "Currently Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Thornfire",
+		"kind": "dynamic",
+		"floors": [
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 33024,
+		"y0": 32000,
+		"x1": 33279,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Krailos Shipwreck",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 33536,
+		"y0": 31488,
+		"x1": 33791,
+		"y1": 31743,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Chakoya Iceberg",
+		"kind": "dynamic",
+		"floors": [
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 32512,
+		"y0": 32512,
+		"x1": 32767,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Chyllfroest access",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32000,
+		"y0": 30976,
+		"x1": 32255,
+		"y1": 31231,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Down the Drain",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32512,
+		"y0": 32256,
+		"x1": 32767,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fire from the Earth (Goroma Volcano)",
+		"kind": "dynamic",
+		"floors": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"x0": 32000,
+		"y0": 32512,
+		"x1": 32255,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Ab'Dendriel",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32512,
+		"y0": 31488,
+		"x1": 32767,
+		"y1": 31743,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Ankrahmun",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 32768,
+		"x1": 33279,
+		"y1": 33023,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Carlin",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 31744,
+		"x1": 32511,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Darashia",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33280,
+		"y0": 32256,
+		"x1": 33535,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Edron",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 31744,
+		"x1": 33279,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Kazordoon",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32512,
+		"y0": 31744,
+		"x1": 32767,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Liberty Bay",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32512,
+		"x1": 32511,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Port Hope",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32512,
+		"y0": 32512,
+		"x1": 32767,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Thais",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32000,
+		"x1": 32511,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Fury Gates, Venore",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32768,
+		"y0": 32000,
+		"x1": 33023,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Hive Outpost",
+		"kind": "dynamic",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 32000,
+		"y0": 32768,
+		"x1": 32255,
+		"y1": 33023,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Jungle Camp",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32768,
+		"y0": 32768,
+		"x1": 33023,
+		"y1": 33023,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Kingsday, King Statues and Castle",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32000,
+		"x1": 32511,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Kingsday, King Statues",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32256,
+		"x1": 32511,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Lumberjack",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 31488,
+		"x1": 32511,
+		"y1": 31743,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nightmare Isles entrance near Drefia",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 33024,
+		"y0": 32256,
+		"x1": 33279,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nightmare Isles entrance in north Darashia's desert",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 33024,
+		"y0": 32256,
+		"x1": 33279,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nightmare Isles entrance in Ankrahmun's desert",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 33024,
+		"y0": 32512,
+		"x1": 33279,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nomads Camp south of Tarpit Tomb",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 32512,
+		"x1": 33279,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nomads Camp north-east of Ancient Ruins Tomb",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 32512,
+		"x1": 33279,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nomads Camp north-east of Shadow Tomb",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33280,
+		"y0": 32768,
+		"x1": 33535,
+		"y1": 33023,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Nomads Camp south of Ancient Ruins Tomb",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 32512,
+		"x1": 33279,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Oriental Trader, Yasir's Carlin ship",
+		"kind": "dynamic",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 32256,
+		"y0": 31744,
+		"x1": 32511,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Oriental Trader, Yasir's Ankrahmun ship",
+		"kind": "dynamic",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 33024,
+		"y0": 32768,
+		"x1": 33279,
+		"y1": 33023,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "River Runs Deep, west",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33024,
+		"y0": 31232,
+		"x1": 33279,
+		"y1": 31487,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "River Runs Deep, east",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33280,
+		"y0": 31232,
+		"x1": 33535,
+		"y1": 31487,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Spider Nest (Mamma Longlegs)",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 32512,
+		"y0": 32000,
+		"x1": 32767,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Spirit Grounds, Darama",
+		"kind": "dynamic",
+		"floors": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"x0": 33024,
+		"y0": 32512,
+		"x1": 33279,
+		"y1": 32767,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Spirit Grounds, Ghostlands",
+		"kind": "dynamic",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 32000,
+		"y0": 31744,
+		"x1": 32255,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Spirit Grounds, Vengoth",
+		"kind": "dynamic",
+		"floors": [
+			5,
+			6,
+			7
+		],
+		"x0": 32768,
+		"y0": 31488,
+		"x1": 33023,
+		"y1": 31743,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Stampede (Terrified Elephants)",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32768,
+		"y0": 32512,
+		"x1": 33023,
+		"y1": 32767,
+		"note": "Currently Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Thawing, west",
+		"kind": "dynamic",
+		"floors": [
+			5
+		],
+		"x0": 32000,
+		"y0": 30976,
+		"x1": 32255,
+		"y1": 31231,
+		"note": "Currently Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Thawing, east",
+		"kind": "dynamic",
+		"floors": [
+			5
+		],
+		"x0": 32256,
+		"y0": 30976,
+		"x1": 32511,
+		"y1": 31231,
+		"note": "Currently Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Warpath, Jankundaf Desert",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 32512,
+		"y0": 32000,
+		"x1": 32767,
+		"y1": 32255,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Warpath, Carlin",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 32256,
+		"y0": 31488,
+		"x1": 32511,
+		"y1": 31743,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Warpath, Femor Hills",
+		"kind": "dynamic",
+		"floors": [
+			6,
+			7
+		],
+		"x0": 32512,
+		"y0": 31744,
+		"x1": 32767,
+		"y1": 31999,
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Orcsoberfest tent",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32256,
+		"x1": 32511,
+		"y1": 32511,
+		"source": "special-areas/Dynamic Areas.html, extra/orcsoberfest-island"
+	},
+	{
+		"name": "A Piece of Cake bridge",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 33280,
+		"y0": 32000,
+		"x1": 33535,
+		"y1": 32255,
+		"note": "Partially Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Tibia's Anniversary, Kendra's platform/boat",
+		"kind": "dynamic",
+		"floors": [
+			7
+		],
+		"x0": 32256,
+		"y0": 32256,
+		"x1": 32511,
+		"y1": 32511,
+		"note": "Currently Missing in TibiaMaps",
+		"source": "special-areas/Dynamic Areas.html"
+	},
+	{
+		"name": "Travora's old platform, depot's upper floor and a roof(?) between them",
+		"kind": "removed",
+		"floors": [
+			6
+		],
+		"x0": 32000,
+		"y0": 32256,
+		"x1": 32255,
+		"y1": 32511,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Old Nostalgia's island",
+		"kind": "removed",
+		"floors": [
+			7
+		],
+		"x0": 32000,
+		"y0": 32256,
+		"x1": 32255,
+		"y1": 32511,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Old Nostalgia's island",
+		"kind": "removed",
+		"floors": [
+			5,
+			6,
+			7,
+			8
+		],
+		"x0": 31744,
+		"y0": 32256,
+		"x1": 31999,
+		"y1": 32511,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Thais PvE arena",
+		"kind": "removed",
+		"floors": [
+			11,
+			12
+		],
+		"x0": 32000,
+		"y0": 32000,
+		"x1": 32255,
+		"y1": 32255,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Thais PvE arena",
+		"kind": "removed",
+		"floors": [
+			11,
+			12
+		],
+		"x0": 32256,
+		"y0": 32000,
+		"x1": 32511,
+		"y1": 32255,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Ankrahmun PvE arena",
+		"kind": "removed",
+		"floors": [
+			10,
+			11
+		],
+		"x0": 33024,
+		"y0": 32768,
+		"x1": 33279,
+		"y1": 33023,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Kazordoon PvE arena",
+		"kind": "removed",
+		"floors": [
+			12,
+			13
+		],
+		"x0": 32768,
+		"y0": 31744,
+		"x1": 33023,
+		"y1": 31999,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Kazordoon PvE arena",
+		"kind": "removed",
+		"floors": [
+			12,
+			13
+		],
+		"x0": 32512,
+		"y0": 31744,
+		"x1": 32767,
+		"y1": 31999,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Edron PvE arena",
+		"kind": "removed",
+		"floors": [
+			9,
+			10
+		],
+		"x0": 33280,
+		"y0": 31744,
+		"x1": 33535,
+		"y1": 31999,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Rathleton PvE arena",
+		"kind": "removed",
+		"floors": [
+			9,
+			10
+		],
+		"x0": 33280,
+		"y0": 31488,
+		"x1": 33535,
+		"y1": 31743,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Rathleton PvE arena",
+		"kind": "removed",
+		"floors": [
+			9,
+			10
+		],
+		"x0": 33536,
+		"y0": 31744,
+		"x1": 33791,
+		"y1": 31999,
+		"source": "special-areas/Removed Areas.html"
+	},
+	{
+		"name": "Ebb and Flow",
+		"kind": "restored",
+		"floors": [
+			8
+		],
+		"x0": 33880,
+		"y0": 31007,
+		"x1": 33963,
+		"y1": 31135,
+		"source": "commit 433b4d15"
+	},
+	{
+		"name": "Claustrophobic Inferno",
+		"kind": "restored",
+		"floors": [
+			9
+		],
+		"x0": 33881,
+		"y0": 31003,
+		"x1": 33962,
+		"y1": 31141,
+		"source": "commit 0ab05b04"
+	},
+	{
+		"name": "Claustrophobic Inferno",
+		"kind": "restored",
+		"floors": [
+			9
+		],
+		"x0": 33969,
+		"y0": 31004,
+		"x1": 34047,
+		"y1": 31107,
+		"source": "commit 0ab05b04"
+	},
+	{
+		"name": "Claustrophobic Inferno",
+		"kind": "restored",
+		"floors": [
+			9
+		],
+		"x0": 33890,
+		"y0": 31194,
+		"x1": 33926,
+		"y1": 31228,
+		"source": "commit 0ab05b04"
+	},
+	{
+		"name": "Ghostship",
+		"kind": "restored",
+		"floors": [
+			7
+		],
+		"x0": 33289,
+		"y0": 32053,
+		"x1": 33332,
+		"y1": 32174,
+		"source": "commit 61818412"
+	}
+]

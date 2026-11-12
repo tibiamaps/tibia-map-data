@@ -36,6 +36,7 @@
 		padding: 10px 24px; background: rgba(15, 17, 21, 0.92); backdrop-filter: blur(6px); border-bottom: 1px solid var(--border);
 	}
 	.toolbar label { display: flex; gap: 6px; align-items: center; color: var(--muted); }
+	.toolbar input[type="number"] { width: 72px; font: inherit; color: var(--text); background: #222733; border: 1px solid var(--border); border-radius: 6px; padding: 4px 6px; }
 	select, button {
 		font: inherit; color: var(--text); background: #222733; border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px;
 	}
@@ -87,15 +88,46 @@
 	.legend { display: flex; gap: 12px; color: var(--muted); font-size: 12px; }
 	.swatch { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 4px; vertical-align: -1px; }
 	.hint { color: var(--muted); font-size: 12px; }
+	/* Review mode. */
+	body:not(.review) .review-only { display: none !important; }
+	body.review .commit-only { display: none !important; }
+	.card { border-left-width: 4px; }
+	body.review .card.kept { border-left-color: var(--added); }
+	body.review .card.partial { border-left-color: var(--changed); }
+	body.review .card.reverted { border-left-color: #64748b; opacity: 0.85; }
+	.badge { font-size: 12px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); }
+	.badge.protected { color: #fecaca; border-color: #b91c1c; background: #450a0a; }
+	.badge.status-kept { color: var(--added); }
+	.badge.status-partial { color: var(--changed); }
+	.badge.status-reverted { color: #94a3b8; }
+	.decide { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 10px; }
+	.decide button.keep { opacity: 0.6; }
+	.decide button.keep.on { opacity: 1; }
+	.decide button.keep.on.added { border-color: var(--added); background: #14532d; }
+	.decide button.keep.on.changed { border-color: var(--changed); background: #713f12; }
+	.decide button.keep.on.removed { border-color: var(--removed); background: #7f1d1d; }
+	.decide .sep { width: 1px; height: 20px; background: var(--border); margin: 0 4px; }
+	button.primary { background: #1d4ed8; border-color: #3b82f6; font-weight: 600; }
+	button.primary:hover { background: #2563eb; }
+	dialog { color: var(--text); background: var(--panel); border: 1px solid var(--border); border-radius: 10px; max-width: 760px; width: 90vw; }
+	dialog::backdrop { background: rgba(0, 0, 0, 0.6); }
+	dialog table { border-collapse: collapse; width: 100%; font-size: 13px; margin: 8px 0; }
+	dialog th, dialog td { text-align: left; padding: 3px 8px; border-top: 1px solid var(--border); }
+	dialog .buttons { display: flex; gap: 8px; justify-content: flex-end; margin-top: 12px; }
+	.notice { padding: 10px 24px; background: #172554; border-bottom: 1px solid var(--border); }
+	.notice.error { background: #450a0a; }
+	.notice:empty { display: none; }
 </style>
 </head>
 <body>
 <header class="top">
 	<h1 id="title">Map diff</h1>
 	<div class="sub" id="subtitle"></div>
-	<details id="commitsBox"><summary id="commitsSummary"></summary><ul class="commits" id="commits"></ul></details>
+	<details id="commitsBox" class="commit-only"><summary id="commitsSummary"></summary><ul class="commits" id="commits"></ul></details>
 	<details><summary id="filesSummary"></summary><ul class="commits" id="files"></ul></details>
+	<p class="sub review-only" id="reviewHelp">Keep or revert each region. <b>Apply</b> reverts the pixels that you do not keep in the working tree (the index version comes back). Then use <code>git add</code> and <code>git commit</code>. Shortcuts for the card under the pointer: <kbd>y</kbd> keep all, <kbd>n</kbd> revert all, <kbd>s</kbd> split, <kbd>j</kbd>/<kbd>k</kbd> next/previous card.</p>
 </header>
+<div class="notice" id="notice"></div>
 <div class="toolbar">
 	<label>Floor <select id="floorFilter"><option value="all">All</option></select></label>
 	<label>Layer <select id="layerFilter">
@@ -118,14 +150,31 @@
 		<option value="8">8×</option>
 		<option value="12">12×</option>
 	</select></label>
+	<label title="The number of changed tiles in a region (map, path, or marker). Hidden regions keep their decision.">Size <input type="number" id="minSize" min="0" placeholder="min"> – <input type="number" id="maxSize" min="0" placeholder="max"> tiles</label>
+	<label class="review-only">Status <select id="statusFilter">
+		<option value="all">All</option>
+		<option value="kept">Kept</option>
+		<option value="partial">Partial</option>
+		<option value="reverted">Reverted</option>
+		<option value="protected">Protected</option>
+	</select></label>
 	<label><input type="checkbox" id="showMarkers" checked> Markers</label>
+	<span class="review-only"><button id="keepShown">Keep shown</button> <button id="revertShown">Revert shown</button> <button id="resetShown">Reset shown</button></span>
 	<span class="legend">
 		<span><span class="swatch" style="background: var(--added)"></span>Added</span>
 		<span><span class="swatch" style="background: var(--removed)"></span>Removed</span>
 		<span><span class="swatch" style="background: var(--changed)"></span>Changed</span>
 	</span>
 	<span class="totals" id="totals"></span>
+	<button class="primary review-only" id="applyButton">Apply…</button>
 </div>
+<dialog id="applyDialog">
+	<h2 style="margin-top: 0">Apply the review to the working tree</h2>
+	<p class="sub">These pixels go back to the index version. The tool makes a backup in <code>.git/map-diff-backups/</code> first.</p>
+	<div id="applyTable"></div>
+	<label id="restoreUnchangedLabel"><input type="checkbox" id="restoreUnchanged" checked> Also restore <span id="unchangedCount"></span> files that have no pixel changes (only a different PNG encoding)</label>
+	<div class="buttons"><button id="applyCancel">Cancel</button> <button class="primary" id="applyConfirm">Apply</button></div>
+</dialog>
 <main id="list"></main>
 <script type="module">
 	const $ = (id) => document.getElementById(id);
@@ -135,6 +184,7 @@
 		return node;
 	};
 	const pad = (n) => String(n).padStart(2, '0');
+	const fmt = (n) => n.toLocaleString('en-US');
 
 	// Approximations of the in-game marker icons.
 	const ICONS = {
@@ -164,34 +214,110 @@
 		return el('span', { className: color, textContent: symbol });
 	};
 
-	const summary = await (await fetch('/api/summary')).json();
-	const regions = summary.regions;
+	const TYPES = ['added', 'changed', 'removed'];
+	const TYPE_SIGNS = { added: '+', changed: '~', removed: '−' };
+	const STORAGE_KEY = 'map-diff-decisions';
+
+	let summary = await (await fetch('/api/summary')).json();
+	let regions = summary.regions;
+	const isReview = summary.mode === 'review';
+	document.body.classList.toggle('review', isReview);
+
+	const notice = (text, isError = false) => {
+		$('notice').textContent = text;
+		$('notice').classList.toggle('error', isError);
+	};
+
+	const postJson = async (url, body) => {
+		const response = await fetch(url, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) });
+		const data = await response.json();
+		if (!response.ok) throw new Error(data.error ?? response.statusText);
+		return data;
+	};
+
+	// Decisions. `explicit` contains only the choices that you made. Other regions use their default.
+	// They are saved in `localStorage` per snapshot of the changed files.
+	let explicit = {};
+	const storageKey = () => `${STORAGE_KEY}:${summary.snapshotId}`;
+	const loadDecisions = () => {
+		for (const key of Object.keys(localStorage)) {
+			if (key.startsWith(STORAGE_KEY) && key !== storageKey()) localStorage.removeItem(key);
+		}
+		try {
+			explicit = JSON.parse(localStorage.getItem(storageKey()) ?? '{}');
+		} catch {
+			explicit = {};
+		}
+	};
+	if (isReview) loadDecisions();
+	const saveDecisions = () => localStorage.setItem(storageKey(), JSON.stringify(explicit));
+	const typeCount = (r, t) => (r.counts.map?.[t] ?? 0) + (r.counts.path?.[t] ?? 0);
+	const typesOf = (r) => TYPES.filter((t) => typeCount(r, t) > 0);
+	const keepOf = (r) => ({ ...r.defaultKeep, ...explicit[r.key] });
+	const statusOf = (r) => {
+		const types = typesOf(r);
+		if (types.length === 0) return 'kept';
+		const keep = keepOf(r);
+		const kept = types.filter((t) => keep[t]).length;
+		return kept === types.length ? 'kept' : kept === 0 ? 'reverted' : 'partial';
+	};
+	const setKeep = (r, keep) => {
+		explicit[r.key] = { ...keepOf(r), ...keep };
+		saveDecisions();
+	};
+	const keepParam = (r) => {
+		const keep = keepOf(r);
+		return TYPES.filter((t) => keep[t]).join(',');
+	};
 
 	// Header.
-	const commitLink = (hash, text) => (summary.repoUrl
+	const commitLink = (hash, text) => (summary.repoUrl && hash
 		? el('a', { href: `${summary.repoUrl}/commit/${hash}`, target: '_blank', textContent: text })
 		: el('code', { textContent: text }));
-	document.title = `Map diff: ${summary.rev}`;
-	$('title').replaceChildren('Map diff: ', el('code', { textContent: summary.rev }));
-	$('subtitle').replaceChildren(
-		summary.base ? commitLink(summary.base.hash, summary.base.short) : el('span', { textContent: '(empty)' }),
-		' → ',
-		commitLink(summary.head.hash, summary.head.short),
-	);
-	$('commitsSummary').textContent = `${summary.commits.length} commit${summary.commits.length === 1 ? '' : 's'}`;
-	$('commits').replaceChildren(...summary.commits.map((c) => el('li', {},
-		commitLink(c.hash, c.short), ' ', c.subject, el('span', { className: 'sub', textContent: ` · ${c.author} · ${c.date.slice(0, 10)}` }))));
-	if (summary.commits.length === 1) $('commitsBox').open = true;
-	$('filesSummary').textContent = `${summary.files.length} changed file${summary.files.length === 1 ? '' : 's'} in data/`;
-	$('files').replaceChildren(...summary.files.map((f) => el('li', {}, el('code', { textContent: f }))));
+	const renderHeader = () => {
+		if (isReview) {
+			document.title = 'Map review: working tree';
+			$('title').replaceChildren('Map review: uncommitted changes');
+			$('subtitle').replaceChildren('index → working tree');
+		} else {
+			document.title = `Map diff: ${summary.rev}`;
+			$('title').replaceChildren('Map diff: ', el('code', { textContent: summary.rev }));
+			$('subtitle').replaceChildren(
+				summary.base ? commitLink(summary.base.hash, summary.base.short) : el('span', { textContent: '(empty)' }),
+				' → ',
+				commitLink(summary.head.hash, summary.head.short),
+			);
+			$('commitsSummary').textContent = `${summary.commits.length} commit${summary.commits.length === 1 ? '' : 's'}`;
+			$('commits').replaceChildren(...summary.commits.map((c) => el('li', {},
+				commitLink(c.hash, c.short), ' ', c.subject, el('span', { className: 'sub', textContent: ` · ${c.author} · ${c.date.slice(0, 10)}` }))));
+			if (summary.commits.length === 1) $('commitsBox').open = true;
+		}
+		const unchanged = new Set(summary.unchangedFiles ?? []);
+		$('filesSummary').textContent = `${summary.files.length} changed file${summary.files.length === 1 ? '' : 's'} in data/`
+			+ (unchanged.size ? ` (${unchanged.size} without pixel changes)` : '');
+		$('files').replaceChildren(...summary.files.map((f) => el('li', {}, el('code', { textContent: f }),
+			unchanged.has(f) ? el('span', { className: 'sub', textContent: ' · no pixel changes' }) : null)));
+	};
+	renderHeader();
 
-	for (const f of [...new Set(regions.map((r) => r.floor))]) $('floorFilter').append(new Option(pad(f), f));
+	const fillFloorFilter = () => {
+		const current = $('floorFilter').value;
+		$('floorFilter').replaceChildren(new Option('All', 'all'), ...[...new Set(regions.map((r) => r.floor))].map((f) => new Option(pad(f), f)));
+		if ([...$('floorFilter').options].some((o) => o.value === current)) $('floorFilter').value = current;
+	};
+	fillFloorFilter();
 	// URL parameters can set the initial filters, for example `?floor=7&layer=path`.
 	const params = new URLSearchParams(location.search);
-	for (const [param, id] of [['floor', 'floorFilter'], ['layer', 'layerFilter'], ['type', 'typeFilter'], ['zoom', 'zoom']]) {
+	for (const [param, id] of [['floor', 'floorFilter'], ['layer', 'layerFilter'], ['type', 'typeFilter'], ['zoom', 'zoom'], ['status', 'statusFilter']]) {
 		const value = params.get(param);
 		if (value !== null && [...$(id).options].some((o) => o.value === value)) $(id).value = value;
 	}
+	// For example `?min=10` hides regions with less than 10 changed tiles, and `?max=9` shows only those.
+	for (const [param, id] of [['min', 'minSize'], ['max', 'maxSize']]) {
+		const value = params.get(param);
+		if (value !== null && /^\d+$/.test(value)) $(id).value = value;
+	}
+	const sizeLimit = (id) => ($(id).value === '' ? null : Number($(id).value));
 
 	const layerTotal = (c) => (c ? c.added + c.removed + c.changed : 0);
 	const regionHasType = (r, type, layer) => {
@@ -205,18 +331,31 @@
 
 	const visibleRegions = () => regions.filter((r) => {
 		if ($('floorFilter').value !== 'all' && r.floor !== Number($('floorFilter').value)) return false;
+		const minSize = sizeLimit('minSize');
+		const maxSize = sizeLimit('maxSize');
+		if (minSize !== null && r.size < minSize) return false;
+		if (maxSize !== null && r.size > maxSize) return false;
+		if (isReview) {
+			const s = $('statusFilter').value;
+			if (s === 'protected' && r.protectedBy.length === 0) return false;
+			if (['kept', 'partial', 'reverted'].includes(s) && statusOf(r) !== s) return false;
+		}
 		return regionHasType(r, $('typeFilter').value, $('layerFilter').value);
 	});
 
+	const panelCount = () => (isReview ? 4 : 3);
 	const autoZoom = (r) => {
-		// Fit three images side by side in the available width.
+		// Fit the images side by side in the available width.
 		const available = Math.min(window.innerWidth - 80, 1800);
-		const zoom = Math.floor((available - 40) / 3 / r.width);
+		const zoom = Math.floor((available - 40) / panelCount() / r.width);
 		return Math.max(1, Math.min(12, zoom));
 	};
 	const zoomFor = (r) => ($('zoom').value === 'auto' ? autoZoom(r) : Number($('zoom').value));
 
-	const cropUrl = (r, layer, side) => `/api/crop?region=${r.id}&layer=${layer}&side=${side}`;
+	const cropUrl = (r, layer, side) => {
+		const url = `/api/crop?key=${encodeURIComponent(r.key)}&layer=${layer}&side=${side}`;
+		return isReview && (side === 'highlight' || side === 'result') ? `${url}&keep=${keepParam(r)}` : url;
+	};
 
 	const markerTitle = (m) => `${m.icon}${m.description ? ` — ${m.description}` : ''} (${m.x},${m.y},${m.status})`;
 	const addMarkers = (frame, r, markers) => {
@@ -279,6 +418,7 @@
 		const initialMode = new URLSearchParams(location.search).get('mode') === 'compare' ? 'compare' : 'side';
 		const state = { layer: r.counts.map || !r.counts.path ? 'map' : 'path', mode: initialMode, split: 50 };
 		const card = el('section', { className: 'card' });
+		card.region = r;
 		card.addEventListener('mouseenter', () => { hoveredCard = card; });
 		card.addEventListener('mouseleave', () => { if (hoveredCard === card) hoveredCard = null; });
 		const views = el('div', { className: 'views' });
@@ -286,25 +426,37 @@
 		const layerButtons = el('span', { className: 'seg' });
 		const layerOptions = r.layers;
 		const modeButtons = el('span', { className: 'seg' });
+		const statusBadge = el('span', { className: 'badge review-only' });
 
 		const draw = () => {
 			const zoom = zoomFor(r);
 			for (const b of layerButtons.children) b.classList.toggle('active', b.dataset.value === state.layer);
 			for (const b of modeButtons.children) b.classList.toggle('active', b.dataset.value === state.mode);
+			if (isReview) {
+				const status = statusOf(r);
+				card.className = `card ${status}`;
+				statusBadge.className = `badge review-only status-${status}`;
+				statusBadge.textContent = status;
+				const keep = keepOf(r);
+				for (const b of card.querySelectorAll('button.keep')) b.classList.toggle('on', Boolean(keep[b.dataset.type]));
+			}
+			const afterSide = isReview ? 'result' : 'after';
 			if (state.mode === 'side') {
 				views.replaceChildren(el('div', { className: 'side-by-side' },
 					el('figure', {}, el('figcaption', { textContent: `Before (${summary.base?.short ?? 'empty'})` }), frameFor(r, state.layer, 'before', zoom)),
 					el('figure', {}, el('figcaption', { textContent: `After (${summary.head.short})` }), frameFor(r, state.layer, 'after', zoom)),
-					el('figure', {}, el('figcaption', { textContent: 'Changes' }), frameFor(r, state.layer, 'highlight', zoom)),
+					isReview ? el('figure', {}, el('figcaption', { textContent: 'Result after apply' }), frameFor(r, state.layer, 'result', zoom)) : null,
+					el('figure', {}, el('figcaption', { textContent: isReview ? 'Changes (gray: reverted)' : 'Changes' }), frameFor(r, state.layer, 'highlight', zoom)),
 				));
 				return;
 			}
 			// Compare mode: one large image with a wipe slider and an in-place swap.
+			const afterLabel = isReview ? 'Result' : 'After';
 			const fitWidth = Math.floor(Math.min(window.innerWidth - 80, 1800) / r.width);
 			const fitHeight = Math.floor((window.innerHeight - 200) / r.height);
 			const bigZoom = Math.max(zoom, Math.min(16, fitWidth, Math.max(1, fitHeight)));
 			const bottom = frameFor(r, state.layer, 'before', bigZoom);
-			const topImg = el('img', { className: 'top', src: cropUrl(r, state.layer, 'after'), width: r.width * bigZoom, height: r.height * bigZoom, alt: 'after' });
+			const topImg = el('img', { className: 'top', src: cropUrl(r, state.layer, afterSide), width: r.width * bigZoom, height: r.height * bigZoom, alt: afterSide });
 			const divider = el('div', { className: 'divider' });
 			const afterMarkers = el('div', { style: 'position: absolute; inset: 0;' });
 			addMarkers(afterMarkers, r, r.markersAfter);
@@ -315,7 +467,7 @@
 				afterMarkers.style.clipPath = clip;
 				divider.style.left = `${state.split}%`;
 				divider.style.display = state.split > 0 && state.split < 100 ? '' : 'none';
-				label.textContent = state.split === 0 ? 'Showing: after' : state.split === 100 ? 'Showing: before' : '';
+				label.textContent = state.split === 0 ? `Showing: ${afterLabel.toLowerCase()}` : state.split === 100 ? 'Showing: before' : '';
 			};
 			const label = el('span');
 			const slider = el('input', { type: 'range', min: 0, max: 100, value: state.split });
@@ -329,7 +481,7 @@
 			};
 			swap.addEventListener('click', card.swap);
 			views.replaceChildren(el('div', { className: 'compare' }, bottom,
-				el('div', { className: 'compare-bar' }, el('span', { textContent: 'Before' }), slider, el('span', { textContent: 'After' }), swap, label,
+				el('div', { className: 'compare-bar' }, el('span', { textContent: 'Before' }), slider, el('span', { textContent: afterLabel }), swap, label,
 					el('span', { className: 'hint', textContent: 'Hover the card and press space to flip.' }))));
 			apply();
 		};
@@ -347,17 +499,55 @@
 			modeButtons.append(b);
 		}
 
+		card.decide = (keep) => {
+			setKeep(r, keep);
+			draw();
+			updateTotals();
+		};
+		card.keepAll = () => card.decide(Object.fromEntries(TYPES.map((t) => [t, true])));
+		card.revertAll = () => card.decide(Object.fromEntries(TYPES.map((t) => [t, false])));
+		card.split = () => splitCard(r);
+
 		const c = r.changed;
 		const table = markerTable(r);
+		const protectedBadge = r.protectedBy.length
+			? el('span', { className: 'badge protected', title: r.protectedBy.join('\n'), textContent: `Protected: ${r.protectedBy.length > 2 ? `${r.protectedBy.slice(0, 2).join(', ')} +${r.protectedBy.length - 2}` : r.protectedBy.join(', ')}` })
+			: null;
 		card.append(
 			el('div', { className: 'card-head' },
 				el('h2', { textContent: `Floor ${pad(r.floor)}` }),
 				el('a', { href: tibiaMapsUrl(r), target: '_blank', textContent: `${c.x0},${c.y0} – ${c.x1},${c.y1}` }),
-				el('span', { className: 'stats' }, statLine('map', r.counts.map), statLine('path', r.counts.path), statLine('markers', markerCounts(r))),
+				el('span', { className: 'stats' }, el('span', { className: 'stat', title: 'Changed tiles (map, path, or marker)' }, el('b', { textContent: fmt(r.size) }), ` tile${r.size === 1 ? '' : 's'}`), statLine('map', r.counts.map), statLine('path', r.counts.path), statLine('markers', markerCounts(r))),
+				statusBadge,
+				protectedBadge,
 				el('span', { className: 'controls' }, layerOptions.length > 1 ? layerButtons : null, modeButtons),
 			),
-			views,
 		);
+		if (isReview) {
+			const decide = el('div', { className: 'decide' });
+			const types = typesOf(r);
+			for (const t of types) {
+				const b = el('button', { className: `keep ${t}`, textContent: `Keep ${t} (${TYPE_SIGNS[t]}${fmt(typeCount(r, t))})`, title: `Toggle: keep or revert the ${t} pixels` });
+				b.dataset.type = t;
+				b.addEventListener('click', () => card.decide({ [t]: !keepOf(r)[t] }));
+				decide.append(b);
+			}
+			if (types.length === 0) decide.append(el('span', { className: 'sub', textContent: 'Only marker changes. Apply does not change markers.' }));
+			const button = (text, title, fn) => {
+				const b = el('button', { textContent: text, title });
+				b.addEventListener('click', fn);
+				return b;
+			};
+			decide.append(
+				el('span', { className: 'sep' }),
+				button('Keep all', 'Shortcut: y', card.keepAll),
+				button('Revert all', 'Shortcut: n', card.revertAll),
+				button('Split', 'Split into groups of connected pixels. Shortcut: s', card.split),
+				button('Protect…', 'Add this area to protected-areas.json', () => protectCard(r)),
+			);
+			card.append(decide);
+		}
+		card.append(views);
 		if (table) card.append(table);
 		card.redraw = draw;
 		draw();
@@ -365,30 +555,181 @@
 	};
 
 	let cards = [];
-	const render = () => {
+	const updateTotals = () => {
 		const list = visibleRegions();
-		cards = list.map(renderCard);
-		const unplaced = summary.unplacedMarkers.length
-			? el('div', { className: 'card' }, el('h2', { textContent: `${summary.unplacedMarkers.length} marker changes outside the map bounds` }))
-			: null;
-		$('list').replaceChildren(...(cards.length ? cards : [el('div', { className: 'empty', textContent: regions.length ? 'No regions match the filters.' : 'No map, path, or marker changes in this diff.' })]), ...(unplaced ? [unplaced] : []));
 		let px = 0;
 		let mk = 0;
 		for (const r of regions) {
 			px += layerTotal(r.counts.map) + layerTotal(r.counts.path);
 			mk += r.markerChanges.length;
 		}
-		$('totals').textContent = `${list.length} of ${regions.length} regions · ${px.toLocaleString('en-US')} changed pixels · ${mk} marker changes`;
+		let text = `${list.length} of ${regions.length} regions · ${fmt(px)} changed pixels · ${mk} marker changes`;
+		if (isReview) {
+			const s = { kept: 0, partial: 0, reverted: 0 };
+			let revertedPx = 0;
+			for (const r of regions) {
+				s[statusOf(r)]++;
+				const keep = keepOf(r);
+				for (const t of TYPES) if (!keep[t]) revertedPx += typeCount(r, t);
+			}
+			text += ` · kept ${s.kept} · partial ${s.partial} · reverted ${s.reverted} (${fmt(revertedPx)} px)`;
+		}
+		$('totals').textContent = text;
+	};
+	const render = () => {
+		const list = visibleRegions();
+		cards = list.map(renderCard);
+		const unplaced = summary.unplacedMarkers.length
+			? el('div', { className: 'card' }, el('h2', { textContent: `${summary.unplacedMarkers.length} marker changes outside the map bounds` }))
+			: null;
+		const empty = regions.length
+			? 'No regions match the filters.'
+			: isReview ? 'No map, path, or marker changes in the working tree.' : 'No map, path, or marker changes in this diff.';
+		$('list').replaceChildren(...(cards.length ? cards : [el('div', { className: 'empty', textContent: empty })]), ...(unplaced ? [unplaced] : []));
+		updateTotals();
 	};
 
-	for (const id of ['floorFilter', 'layerFilter', 'typeFilter']) $(id).addEventListener('change', render);
+	const refresh = (newRegions) => {
+		regions = newRegions;
+		// Forget the decisions of regions that no longer exist.
+		const keys = new Set(regions.map((r) => r.key));
+		for (const key of Object.keys(explicit)) if (!keys.has(key)) delete explicit[key];
+		saveDecisions();
+		fillFloorFilter();
+		render();
+	};
+
+	const splitCard = async (r) => {
+		try {
+			const { parts, regions: next } = await postJson('/api/split', { key: r.key });
+			// The parts get the decision of the parent, if there is one.
+			if (explicit[r.key]) for (const p of parts) explicit[p.key] = { ...explicit[r.key] };
+			refresh(next);
+			notice(`Split the region into ${parts.length} parts.`);
+		} catch (error) {
+			notice(error.message, true);
+		}
+	};
+
+	const protectCard = async (r) => {
+		const name = prompt(`Name of the protected area (floor ${pad(r.floor)}, ${r.changed.x0},${r.changed.y0} – ${r.changed.x1},${r.changed.y1}):`);
+		if (!name) return;
+		try {
+			const { regions: next } = await postJson('/api/protect', { key: r.key, name });
+			// The region now uses the default for protected areas (revert all).
+			delete explicit[r.key];
+			refresh(next);
+			notice(`Added “${name}” to protected-areas.json.`);
+		} catch (error) {
+			notice(error.message, true);
+		}
+	};
+
+	// The apply dialog.
+	const openApplyDialog = () => {
+		const byFile = new Map();
+		for (const r of regions) {
+			const keep = keepOf(r);
+			for (const layer of ['map', 'path']) {
+				const c = r.counts[layer];
+				if (!c) continue;
+				const file = `data/floor-${pad(r.floor)}-${layer}.png`;
+				if (!byFile.has(file)) byFile.set(file, { added: 0, changed: 0, removed: 0, kept: 0 });
+				const entry = byFile.get(file);
+				for (const t of TYPES) {
+					if (keep[t]) entry.kept += c[t];
+					else entry[t] += c[t];
+				}
+			}
+		}
+		const rows = [...byFile].filter(([, e]) => e.added + e.changed + e.removed > 0).sort(([a], [b]) => a.localeCompare(b));
+		$('applyTable').replaceChildren(rows.length
+			? el('table', {},
+				el('thead', {}, el('tr', {}, ...['File', 'Revert added', 'Revert changed', 'Revert removed', 'Keep'].map((t) => el('th', { textContent: t })))),
+				el('tbody', {}, ...rows.map(([file, e]) => el('tr', {},
+					el('td', {}, el('code', { textContent: file })),
+					el('td', { className: 'n-added', textContent: fmt(e.added) }),
+					el('td', { className: 'n-changed', textContent: fmt(e.changed) }),
+					el('td', { className: 'n-removed', textContent: fmt(e.removed) }),
+					el('td', { textContent: e.kept ? fmt(e.kept) : 'nothing (restore the file)' }),
+				))))
+			: el('p', { textContent: 'You keep all the pixel changes. Nothing is reverted.' }));
+		const unchanged = summary.unchangedFiles ?? [];
+		$('unchangedCount').textContent = unchanged.length;
+		$('restoreUnchangedLabel').style.display = unchanged.length ? '' : 'none';
+		$('applyDialog').showModal();
+	};
+	const confirmApply = async () => {
+		$('applyConfirm').disabled = true;
+		try {
+			const decisions = Object.fromEntries(regions.map((r) => [r.key, keepOf(r)]));
+			const result = await postJson('/api/apply', { decisions, restoreUnchanged: $('restoreUnchanged').checked });
+			$('applyDialog').close();
+			summary = await (await fetch('/api/summary')).json();
+			loadDecisions();
+			// All the remaining changes are changes that you kept. Keep them, also if a default says “revert”.
+			explicit = Object.fromEntries(summary.regions.map((r) => [r.key, { added: true, changed: true, removed: true }]));
+			renderHeader();
+			refresh(summary.regions);
+			notice(result.backupDir
+				? `Applied. ${result.touched.length} files changed. Backup: ${result.backupDir}. Now the page shows the remaining changes. Use git add and git commit to commit them.`
+				: 'Nothing to apply.');
+			window.scrollTo(0, 0);
+		} catch (error) {
+			notice(`Apply failed: ${error.message}`, true);
+			$('applyDialog').close();
+		} finally {
+			$('applyConfirm').disabled = false;
+		}
+	};
+
+	for (const id of ['floorFilter', 'layerFilter', 'typeFilter', 'statusFilter']) $(id).addEventListener('change', render);
+	let sizeTimer;
+	for (const id of ['minSize', 'maxSize']) {
+		$(id).addEventListener('input', () => {
+			clearTimeout(sizeTimer);
+			sizeTimer = setTimeout(render, 250);
+		});
+	}
 	$('zoom').addEventListener('change', () => cards.forEach((c) => c.redraw()));
 	$('showMarkers').addEventListener('change', () => document.body.classList.toggle('hide-markers', !$('showMarkers').checked));
+	if (isReview) {
+		const bulk = (keep) => {
+			for (const r of visibleRegions()) {
+				if (keep === null) delete explicit[r.key];
+				else explicit[r.key] = Object.fromEntries(TYPES.map((t) => [t, keep]));
+			}
+			saveDecisions();
+			render();
+		};
+		$('keepShown').addEventListener('click', () => bulk(true));
+		$('revertShown').addEventListener('click', () => bulk(false));
+		$('resetShown').addEventListener('click', () => bulk(null));
+		$('applyButton').addEventListener('click', openApplyDialog);
+		$('applyCancel').addEventListener('click', () => $('applyDialog').close());
+		$('applyConfirm').addEventListener('click', confirmApply);
+	}
+	const focusCard = (card) => {
+		if (!card) return;
+		card.scrollIntoView({ block: 'start', behavior: 'smooth' });
+		hoveredCard = card;
+	};
 	document.addEventListener('keydown', (event) => {
-		if (event.code !== 'Space' || !hoveredCard?.swap) return;
 		if (event.target instanceof HTMLInputElement || event.target instanceof HTMLSelectElement) return;
-		event.preventDefault();
-		hoveredCard.swap();
+		if (event.metaKey || event.ctrlKey || event.altKey || $('applyDialog').open) return;
+		if (event.code === 'Space' && hoveredCard?.swap) {
+			event.preventDefault();
+			hoveredCard.swap();
+			return;
+		}
+		if (!isReview) return;
+		const index = cards.indexOf(hoveredCard);
+		if (event.key === 'j') focusCard(cards[index + 1] ?? cards[0]);
+		else if (event.key === 'k') focusCard(cards[index - 1] ?? cards[0]);
+		else if (!hoveredCard) return;
+		else if (event.key === 'y') hoveredCard.keepAll();
+		else if (event.key === 'n') hoveredCard.revertAll();
+		else if (event.key === 's') hoveredCard.split();
 	});
 	let resizeTimer;
 	window.addEventListener('resize', () => {

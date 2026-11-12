@@ -1,11 +1,17 @@
 // Git helpers for the map diff viewer.
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
 
 const execFileAsync = promisify(execFile);
 
 // The hash of the empty tree, used as the base of a root commit.
 const EMPTY_TREE = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+
+// Special sources for `readBlob`: the index (staging area) and the working tree.
+export const INDEX = '';
+export const WORKTREE = Symbol('worktree');
 
 const git = async (args, { encoding = 'utf8' } = {}) => {
 	const { stdout } = await execFileAsync('git', args, {
@@ -13,6 +19,12 @@ const git = async (args, { encoding = 'utf8' } = {}) => {
 		maxBuffer: 256 * 1024 * 1024,
 	});
 	return stdout;
+};
+
+let repoRoot = null;
+export const getRepoRoot = async () => {
+	repoRoot ??= (await git(['rev-parse', '--show-toplevel'])).trim();
+	return repoRoot;
 };
 
 const verifyCommit = async (rev) => {
@@ -58,15 +70,32 @@ export const listChangedFiles = async (base, head) => {
 	return out.split('\0').filter(Boolean);
 };
 
-// Returns the file contents as a buffer, or `null` if the file does not exist in that commit.
-export const readBlob = async (commit, path) => {
-	if (commit === null) return null;
+// Returns the file contents as a buffer, or `null` if the file does not exist in that source.
+// The source is a commit, `INDEX`, `WORKTREE`, or `null` (the parent of a root commit).
+export const readBlob = async (source, file) => {
+	if (source === null) return null;
 	try {
-		return await git(['cat-file', 'blob', `${commit}:${path}`], { encoding: 'buffer' });
+		if (source === WORKTREE) return await readFile(path.join(await getRepoRoot(), file));
+		return await git(['cat-file', 'blob', `${source}:${file}`], { encoding: 'buffer' });
 	} catch {
 		return null;
 	}
 };
+
+// Lists the files in `data/` that are different in the working tree than in the index.
+export const listWorktreeChanges = async () => {
+	const out = await git(['diff', '--name-only', '-z', '--', 'data/']);
+	return out.split('\0').filter(Boolean);
+};
+
+// Restores files in the working tree from the index, with the original bytes.
+export const restoreFromIndex = async (files) => {
+	if (files.length) await git(['checkout', '--', ...files]);
+};
+
+// Returns the absolute path of a file or directory in the Git directory (this also works in linked worktrees).
+// Git prints the path relative to the current directory.
+export const gitPath = async (name) => path.resolve((await git(['rev-parse', '--git-path', name])).trim());
 
 export const listCommits = async (base, head) => {
 	const SEP = '\x1f';

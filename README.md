@@ -99,6 +99,18 @@ npm run diff -- main...my-branch  # The changes on a branch since it split from 
 
 This opens a local web app that shows the changes in the map PNGs, the path PNGs, and `data/markers.json`. Options: `--padding=16` (surrounding tiles), `--port=8766`, `--no-open`, and `--json` (print a summary instead of starting the web app).
 
+### Review uncommitted changes
+
+To review the uncommitted changes in `data/` before you commit them (similar to `git checkout -p`, but for image areas), run `npm run diff` without a revision:
+
+```sh
+npm run diff
+```
+
+For each changed region, you keep or revert the added, changed, and removed pixels. By default, additions are kept, and changes and removals are reverted. Regions that overlap a special area in [`scripts/map-diff/protected-areas.json`](scripts/map-diff/protected-areas.json) (for example dynamic, secret, or removed areas) are flagged, and by default all their changes are reverted. **Apply** reverts the rejected pixels in the working tree to the index version. It also restores files that have only a different PNG encoding. Before it changes files, it makes a backup in `.git/map-diff-backups/`. Then commit the remaining changes with `git add` and `git commit`. Marker changes are shown, but apply does not change them.
+
+To find the scattered small changes, use the **Size** filter (the number of changed tiles in a region). For example, set the maximum to 10 (or open `?max=10`), then click **Revert shown**. Set a minimum to hide the small regions. Hidden regions keep their decision.
+
 ## Maintainer
 
 | [![twitter/mathias](https://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](https://twitter.com/mathias 'Follow @mathias on Twitter') |
