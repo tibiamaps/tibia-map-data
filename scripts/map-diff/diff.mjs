@@ -32,6 +32,7 @@ export const decode = async (buffer) => {
 	return { width: img.width, height: img.height, data };
 };
 
+// Without options, this makes the same PNG encoding as `tibia-maps` (canvas defaults).
 export const toPng = (pixels, width, height, options = {}) => {
 	const canvas = createCanvas(width, height);
 	const ctx = canvas.getContext('2d');

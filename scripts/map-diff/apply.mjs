@@ -113,7 +113,9 @@ export const applyDecisions = async ({ diff, decisions, snapshot, restoreUnchang
 				if ((out[i] & RGB) !== (before.data[i] & RGB)) remaining++;
 			}
 			if (remaining === 0) restores.push(file);
-			else writes.push({ file, png: toPng(out, after.width, after.height, { compressionLevel: 9 }) });
+			// Use the default PNG options, like `tibia-maps` (`canvas.pngStream()`), so that the bytes
+			// are identical to `tibia-maps --from-minimap` output for the same pixels.
+			else writes.push({ file, png: toPng(out, after.width, after.height) });
 			report.push({ file, reverted, remaining, restored: remaining === 0 });
 		}
 	}
