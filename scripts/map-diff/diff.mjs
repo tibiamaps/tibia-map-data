@@ -10,6 +10,8 @@ const UNEXPLORED_MAP = 0x000000;
 const UNEXPLORED_PATH = 0xff00ff;
 // In this repository, unexplored areas on the ground floor (07) are water.
 const WATER = 0x996633;
+// `#ffff00` means “not walkable” in path PNGs.
+const NON_WALKABLE_PATH = 0x00ffff;
 const DEFAULT_BOUNDS = { xMin: 31744, yMin: 30976, width: 2560, height: 2048 };
 
 // Change types per pixel.
@@ -46,7 +48,9 @@ export const readJson = async (source, file) => {
 
 // Returns the colors that mean “unexplored” for a layer of a floor.
 export const unexploredColors = (layer, floor) => {
-	if (layer === 'path') return [UNEXPLORED_PATH];
+	// On the ground floor (07), `tibia-maps` stores unexplored path tiles as non-walkable
+	// (yellow), in the same way as unexplored map tiles are water.
+	if (layer === 'path') return floor === 7 ? [UNEXPLORED_PATH, NON_WALKABLE_PATH] : [UNEXPLORED_PATH];
 	return floor === 7 ? [UNEXPLORED_MAP, WATER] : [UNEXPLORED_MAP];
 };
 
