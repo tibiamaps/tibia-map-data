@@ -9,6 +9,7 @@
 	},
 	"scripts": {
 		"build": "scripts/build.sh",
+		"check-encoding": "node scripts/check-png-encoding.mjs",
 		"diff": "node scripts/map-diff.mjs",
 		"sort-markers": "tibia-maps --sort-markers"
 	}

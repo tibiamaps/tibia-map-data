@@ -11,6 +11,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  check-encoding:
+    # Checks that `data/*.png` use the canonical PNG encoding (`npm run check-encoding`).
+    # The bytes depend on the zlib build that `canvas` uses. The maps are made on macOS, and on
+    # Linux `canvas` writes different bytes for the same pixels, so this job runs on macOS.
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check PNG encoding
+        run: |
+          node --print "'canvas ' + require('canvas/package.json').version + ', cairo ' + require('canvas').cairoVersion"
+          otool -L node_modules/canvas/build/Release/libpng16.16.dylib | grep -i libz || true
+          npm run check-encoding
+
   build-and-deploy:
     runs-on: ubuntu-latest
     env:

@@ -109,6 +109,8 @@ npm run diff
 
 For each changed region, you keep or revert the added, changed, and removed pixels. By default, additions are kept, and changes and removals are reverted. Regions that overlap a special area in [`scripts/map-diff/protected-areas.json`](scripts/map-diff/protected-areas.json) (for example dynamic, secret, or removed areas) are flagged, and by default all their changes are reverted. **Apply** reverts the rejected pixels in the working tree to the index version. It also restores files that have only a different PNG encoding. Before it changes files, it makes a backup in `.git/map-diff-backups/`. Apply writes the same PNG encoding as `tibia-maps`, so you do not need to convert the files again with `tibia-maps`. Then commit the remaining changes with `git add` and `git commit`. Marker changes are shown, but apply does not change them.
 
+To check that all `data/floor-*.png` files use this canonical encoding, run `npm run check-encoding`. To rewrite the files that do not use it (the pixels stay the same), run `npm run check-encoding -- --fix`. The build workflow runs this check on macOS: on Linux, `canvas` writes different bytes for the same pixels.
+
 To find the scattered small changes, use the **Size** filter (the number of changed tiles in a region). For example, set the maximum to 10 (or open `?max=10`), then click **Revert shown**. Set a minimum to hide the small regions. Hidden regions keep their decision.
 
 ## Maintainer
